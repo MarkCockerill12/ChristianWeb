@@ -167,8 +167,8 @@ export default function ResourcesPage() {
             <h2 className="text-3xl font-bold text-gray-900">Essential Books</h2>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {resources.books.map((book, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow duration-300">
+            {resources.books.map((book) => (
+              <Card key={book.title} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
                   <div className="flex justify-between items-start mb-2">
                     <Badge variant="secondary">{book.category}</Badge>
@@ -194,8 +194,8 @@ export default function ResourcesPage() {
             <h2 className="text-3xl font-bold text-gray-900">Helpful Websites</h2>
           </div>
           <div className="grid md:grid-cols-2 gap-6">
-            {resources.websites.map((site, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow duration-300">
+            {resources.websites.map((site) => (
+              <Card key={site.url} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
                   <div className="flex justify-between items-start mb-2">
                     <Badge variant="secondary">{site.category}</Badge>
@@ -223,8 +223,8 @@ export default function ResourcesPage() {
             <h2 className="text-3xl font-bold text-gray-900">Video Resources</h2>
           </div>
           <div className="grid md:grid-cols-2 gap-6">
-            {resources.videos.map((video, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow duration-300">
+            {resources.videos.map((video) => (
+              <Card key={video.title} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
                   <div className="flex justify-between items-start mb-2">
                     <Badge variant="secondary">{video.category}</Badge>
@@ -248,8 +248,8 @@ export default function ResourcesPage() {
             <h2 className="text-3xl font-bold text-gray-900">Podcasts</h2>
           </div>
           <div className="grid md:grid-cols-2 gap-6">
-            {resources.podcasts.map((podcast, index) => (
-              <Card key={index} className="hover:shadow-lg transition-shadow duration-300">
+            {resources.podcasts.map((podcast) => (
+              <Card key={podcast.title} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
                   <div className="flex justify-between items-start mb-2">
                     <Badge variant="secondary">{podcast.category}</Badge>

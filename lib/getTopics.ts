@@ -2,8 +2,26 @@ import type { Topic } from '../topics/types'
 
 // Import all available topic files
 
-import { archaeological, authentic, branches, canon, contradictions, tuning, godEvil, hell, 
-  jesus, miracles, morality, nasa, problemOfEvil, resurrection, science, slavery,  trinity, women, } from '@/topics'
+import { 
+  // archaeological, 
+  // authentic,
+  //  branches, 
+  //  canon, 
+  //  contradictions, 
+  //  tuning, 
+  //  godEvil, 
+   hell, 
+  // jesus, 
+  // miracles, 
+  // morality, 
+  // nasa, 
+  problemOfEvil, 
+  resurrection, 
+  // science, 
+  // slavery,  
+  // trinity, 
+  // women,
+ } from '@/topics'
 
 // Array of all available topics
 export const availableTopics: Topic[] = [

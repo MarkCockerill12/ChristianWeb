@@ -6,7 +6,7 @@ import { useState } from "react"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Calendar, BookOpen } from "lucide-react"
+import { BookOpen } from "lucide-react"
 
 // Biblical timeline data
 const timelineEvents = [

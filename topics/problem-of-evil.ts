@@ -67,7 +67,7 @@ export const problemOfEvil: Topic = {
 `,
   verses: ["Romans 8:28", "Job 1:21", "2 Corinthians 1:3-4", "Revelation 21:4", "Genesis 1:26-27", "Genesis 1:27-28", "Genesis 2:16-17", "Genesis 3:6-7", "Genesis 3:14-19"],
   sources: [
-    'Plantinga, Alvin. "God, Freedom, and Evil"', //TODO fix the wrong gensis verse of consequences
+    'Plantinga, Alvin. "God, Freedom, and Evil"', 
     'Lewis, C.S. "The Problem of Pain"',
     'Swinburne, Richard. "Providence and the Problem of Evil"',
     'Craig, William Lane. "Hard Questions, Real Answers"',

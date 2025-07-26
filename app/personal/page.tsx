@@ -1,6 +1,6 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Heart, BookOpen, Users, Lightbulb, Target, Star } from "lucide-react"
+import { Heart, BookOpen, Users, Lightbulb, Target } from "lucide-react"
 
 export default function PersonalPage() {
   return (
