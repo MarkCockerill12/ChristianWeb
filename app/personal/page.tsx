@@ -27,11 +27,11 @@ export default function PersonalPage() {
           </CardHeader>
           <CardContent className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-4">
-              To start, I have always been a christian, always gone to church and always believed in God and the bible, so my personal story isn't one with a huge turn around and lots of drama but nontheless, a path is not any less of a path if there are less obstacles in the way.
+              To start, I have always been a christian, always gone to church and always believed in God and the bible, so my personal story isn&apos;t one with a huge turn around and lots of drama but nontheless, a path is not any less of a path if there are less obstacles in the way.
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
               Growing up as a christian meant that i grew up taking a lot of things for granted, a strong tightly-knit family, defined morals and a respect for God. And this was something i didnt think too much about until my teenage years.
-              I attended a christian concert event with my youth group, and at one point during this they asked us to stand up (in front of the hundreds of people there) if we hadn't declared our faith in Jesus yet and we would go to a seperate room where someone would pray for us. 
+              I attended a christian concert event with my youth group, and at one point during this they asked us to stand up (in front of the hundreds of people there) if we hadn&apos;t declared our faith in Jesus yet and we would go to a seperate room where someone would pray for us. 
               This was the first concious decision I made to choose him on my own, and since then I dedicated more critical thinking to my religion, asking lots of questions and learning as much as possible. 
             </p>
             <p className="text-gray-700 leading-relaxed">
@@ -55,7 +55,7 @@ export default function PersonalPage() {
             <CardContent>
               <ul className="space-y-2 text-gray-700">
                 <li>• Early dating of New Testament manuscripts</li>
-                <li>• Multiple independent sources for Jesus' existence</li>
+                <li>• Multiple independent sources for Jesus&apos; existence</li>
                 <li>• Historical evidence for the resurrection</li>
                 <li>• Rapid spread of Christianity despite persecution</li>
                 <li>• 66,779 cross references between 66 books written by 40 different authors over 1500 years on 3 different continents</li>
@@ -94,7 +94,7 @@ export default function PersonalPage() {
                 <li>• Peace, purpose and comfort found in relationship with God</li>
                 <li>• Community and love within the church</li>
                 <li>• Sense of forgiveness and redemption</li>
-                <li>• Noticeable difference between those who have been saved and those who haven't</li>
+                <li>• Noticeable difference between those who have been saved and those who haven&apos;t</li>
               </ul>
             </CardContent>
           </Card>
@@ -108,7 +108,7 @@ export default function PersonalPage() {
             </CardHeader>
             <CardContent>
               <ul className="space-y-2 text-gray-700">
-                <li>• Nasa confirming an eclipse on both the day of Jesus death as well as the day in the old testament where the "sun stood still" for a day.</li>
+                <li>• Nasa confirming an eclipse on both the day of Jesus death as well as the day in the old testament where the &quot;sun stood still&quot; for a day.</li>
                 <li>• Confirmed findings of Sodom and Gomorrah as well as sulfur deposits in the area.</li>
                 <li>• Places like Shiloh, Jericho, and Capernaum being found from Biblical accounts.</li>
                 <li>• Dead Sea Scrolls found</li>
@@ -142,25 +142,25 @@ export default function PersonalPage() {
           <CardHeader>
             <CardTitle>Addressing My Own Doubts</CardTitle>
             <CardDescription>
-              Faith doesn't mean believing blindly, it means trusting based on what we know.
+              Faith doesn&apos;t mean believing blindly, it means trusting based on what we know.
             </CardDescription>
           </CardHeader>
           <CardContent>
             <div className="space-y-4">
               <div>
-                <h4 className="font-semibold text-gray-800 mb-2">"What about other religions?"</h4>
+                <h4 className="font-semibold text-gray-800 mb-2">&quot;What about other religions?&quot;</h4>
                 <p className="text-gray-700 text-sm">
                   I have studied other religions, both abrahamic and non. And I have found them left wanting. They fail to meet satisfying criteria, either for seeming rationally feasible, explaining the world and circumstances, or having any evidence to back them up.
                 </p>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-800 mb-2">"What about suffering and evil?"</h4>
+                <h4 className="font-semibold text-gray-800 mb-2">&quot;What about suffering and evil?&quot;</h4>
                 <p className="text-gray-700 text-sm">
                   The world is undoubtedly full of evil and suffering. But that itself is evidence we do not live in a universe of just matter and energy, where it is the survival of the fittest. We recognise unfairness. And i believe that death is not the end, especially not for those who have suffered unfairly.
                 </p>
               </div>
               <div>
-                <h4 className="font-semibold text-gray-800 mb-2">"What about science?"</h4>
+                <h4 className="font-semibold text-gray-800 mb-2">&quot;What about science?&quot;</h4>
                 <p className="text-gray-700 text-sm">
                   Exactly. What ABOUT science? We wouldn't have the vast majority of modern science if it wasnt for christians, who believed God made the world with rules in place. If there was no intelligence behind the universe, then we couldnt possibly expect it to be comprehensible. Yet as even Einstein said "The most incomprehensible thing about the universe is that it is comprehensible." Science doesn't contradict Christianity, but it is simply how God's creation operates.
                 </p>

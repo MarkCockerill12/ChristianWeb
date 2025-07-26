@@ -107,7 +107,7 @@ function BibleVerse({ verse }: { readonly verse: string }) {
       {isExpanded && (
         <div className="mt-3 space-y-3">
           <p className="text-sm text-gray-700 italic leading-relaxed border-l-2 border-blue-300 pl-3">
-            "{fullVerse}"
+            &quot;{fullVerse}&quot;
           </p>
           <Button asChild size="sm" variant="outline">
             <Link 

@@ -153,7 +153,7 @@ export default function ResourcesPage() {
       <div className="container max-w-6xl mx-auto px-4">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Resources & References</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Resources &amp; References</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Books, websites, videos, and podcasts to help teach you about Christian
             apologetics and biblical truth.
@@ -173,7 +173,7 @@ export default function ResourcesPage() {
                   <div className="flex justify-between items-start mb-2">
                     <Badge variant="secondary">{book.category}</Badge>
                     <Badge className="secondary">
-                      "Resource"
+                      &quot;Resource&quot;
                     </Badge>
                   </div>
                   <CardTitle className="text-lg">{book.title}</CardTitle>

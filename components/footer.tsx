@@ -10,7 +10,7 @@ export function Footer() {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Cross className="h-6 w-6 text-blue-400" />
-              <span className="font-bold text-xl">Faith & Reason</span>
+              <span className="font-bold text-xl">Faith &amp; Reason</span>
             </div>
             <p className="text-gray-400 text-sm">
               Exploring Christianity through evidence, scholarship, and honest inquiry.
@@ -75,8 +75,8 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2024 Faith & Reason. Built with love for truth seekers everywhere.</p>
-          <p className="mt-2 italic">"And you will know the truth, and the truth will set you free." - John 8:32</p>
+          <p>&copy; 2024 Faith &amp; Reason. Built with love for truth seekers everywhere.</p>
+          <p className="mt-2 italic">&quot;And you will know the truth, and the truth will set you free.&quot; - John 8:32</p>
         </div>
       </div>
     </footer>

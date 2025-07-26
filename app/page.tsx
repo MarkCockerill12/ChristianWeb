@@ -48,7 +48,7 @@ export default function HomePage() {
           </div>
           <p className="text-gray-500 text-xs mb-6  ">Image from <a href="https://science.nasa.gov/asset/hubble/x-structure-at-core-of-whirlpool-galaxy-m51/" className="text-blue-600 hover:underline">NASA</a> of the center of spiral galaxy M51</p>
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Faith & <span className="text-blue-600">Reason</span>
+            Faith &amp; <span className="text-blue-600">Reason</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             A website containing evidence for Christianity, including a biblical timeline, apologetic topics, and a personal account.
@@ -75,7 +75,7 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto">
           <div className="flex items-center justify-center mb-12">
             <Clock className="h-8 w-8 text-blue-600 mr-3" />
-            <h2 className="text-3xl font-bold text-gray-900">What's New?</h2>
+          <h2 className="text-3xl font-bold text-gray-900">What&apos;s New?</h2>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {whatsNewItems.map((item) => (
