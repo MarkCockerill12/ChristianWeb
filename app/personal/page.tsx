@@ -129,9 +129,9 @@ export default function PersonalPage() {
             </p>
             <div className="bg-blue-50 p-4 rounded-lg mt-4">
               <p className="text-blue-800 italic">
-                "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the
+                &quot;For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the
                 future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to
-                separate us from the love of God that is in Christ Jesus our Lord." - Romans 8:38-39
+                separate us from the love of God that is in Christ Jesus our Lord.&quot; - Romans 8:38-39
               </p>
             </div>
           </CardContent>
@@ -174,7 +174,7 @@ export default function PersonalPage() {
           <CardContent className="py-8">
             <h3 className="text-2xl font-bold mb-4 text-center">Where I Stand Today</h3>
             <p className="text-center opacity-90 mb-6">
-              On the ground, usually wearing shoes. The same can be said with my faith in christianity, my feet are firmly grounded in what I know to be real, and what keeps me anchored to reality. I continue to dedicate myself to learning more, and I don't shy away from the difficult converastions or objections.
+              On the ground, usually wearing shoes. The same can be said with my faith in christianity, my feet are firmly grounded in what I know to be real, and what keeps me anchored to reality. I continue to dedicate myself to learning more, and I don&apos;t shy away from the difficult converastions or objections.
             </p>
             <div className="text-center">
               <Badge variant="secondary" className="text-blue-600">
