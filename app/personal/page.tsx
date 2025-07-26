@@ -162,7 +162,7 @@ export default function PersonalPage() {
               <div>
                 <h4 className="font-semibold text-gray-800 mb-2">&quot;What about science?&quot;</h4>
                 <p className="text-gray-700 text-sm">
-                  Exactly. What ABOUT science? We wouldn't have the vast majority of modern science if it wasnt for christians, who believed God made the world with rules in place. If there was no intelligence behind the universe, then we couldnt possibly expect it to be comprehensible. Yet as even Einstein said "The most incomprehensible thing about the universe is that it is comprehensible." Science doesn't contradict Christianity, but it is simply how God's creation operates.
+                  Exactly. What ABOUT science? We wouldn&apos;t have the vast majority of modern science if it wasnt for christians, who believed God made the world with rules in place. If there was no intelligence behind the universe, then we couldnt possibly expect it to be comprehensible. Yet as even Einstein said &quot;The most incomprehensible thing about the universe is that it is comprehensible.&quot; Science doesn&apos;t contradict Christianity, but it is simply how God&apos;s creation operates.
                 </p>
               </div>
             </div>
@@ -178,7 +178,7 @@ export default function PersonalPage() {
             </p>
             <div className="text-center">
               <Badge variant="secondary" className="text-blue-600">
-                "I believe; help my unbelief!" - Mark 9:24
+                &quot;I believe; help my unbelief!&quot; - Mark 9:24
               </Badge>
             </div>
           </CardContent>

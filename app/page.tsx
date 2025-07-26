@@ -108,7 +108,7 @@ export default function HomePage() {
           <div className="space-y-8">
             {bibleVerses.map((item) => (
               <Card key={item.reference} className="p-6 bg-white/80 backdrop-blur-sm">
-                <blockquote className="text-lg md:text-xl text-gray-800 mb-4 italic">"{item.verse}"</blockquote>
+                <blockquote className="text-lg md:text-xl text-gray-800 mb-4 italic">&quot;{item.verse}&quot;</blockquote>
                 <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
                   <cite className="text-blue-600 font-semibold">— {item.reference}</cite>
                   <div className="text-sm text-gray-600 font-mono bg-gray-100 px-3 py-1 rounded">{item.greek}</div>
@@ -184,7 +184,7 @@ export default function HomePage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Seek Truth with an Open Heart</h2>
           <p className="text-xl mb-8 opacity-90">
-            "You will seek me and find me when you seek me with all your heart." - Jeremiah 29:13
+            &quot;You will seek me and find me when you seek me with all your heart.&quot; - Jeremiah 29:13
           </p>
           <Button asChild size="lg" variant="secondary">
             <Link href="/categories">Start Your Journey</Link>
