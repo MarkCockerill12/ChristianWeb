@@ -2,13 +2,13 @@ import type { Topic } from './types'
 
 export const resurrection: Topic = {
   id: "resurrection",
-  title: "Did the Resurrection Really Happen?",
-  description: "Historical evidence for the resurrection of Jesus Christ.",
+  title: "Was Jesus actually real? Did the Resurrection Really Happen?",
+  description: "Historical evidence for the life and resurrection of Jesus Christ.",
   icon: "heart",
   color: "red",
-  tags: ["History", "Jesus", "Evidence", "Resurrection", "Apologetics"], //TODO talk about 500 witnesses
-  content: ` 
-The resurrection is the central point of Christianity, after all "...if Christ has not been raised, your faith is futile..." (1 Corinthians 15:17). Being able to prove that Jesus indeed rose from the dead would give credibility to all his other miracles and claims too. So if it is possible to prove it, it would be one of the most important points ever. So let's look at the evidence for it.
+  tags: ["History", "Jesus", "Evidence", "Resurrection", "Apologetics"], 
+  tldr: "The resurrection of Jesus is supported by strong historical evidence and is the foundation of Christian faith.",
+  content: ` The resurrection is the central point of Christianity, after all "...if Christ has not been raised, your faith is futile..." (1 Corinthians 15:17). Being able to prove that Jesus indeed rose from the dead would give credibility to all his other miracles and claims too. So if it is possible to prove it, it would be one of the most important things ever. So let's look at the evidence for it.
 
 Most New Testament scholars, including skeptics, accept these basic facts:
 
@@ -38,11 +38,19 @@ Most New Testament scholars, including skeptics, accept these basic facts:
 - **Willingness to Die**: Many died for their claims, which is impossible for a human to do if they do not truly believe in their cause.
 - **Rapid Church Growth**: Christianity spread rapidly despite persecution from the roman emmpire
 
+Aside from this, in 1 Corinthians 15:6, "...he appeared to more than five hundred...", heavily giving further credibility to the claims he was seen after his death. 
+However a common counterargument to this verse is that not only does this claim appear only once, but it was written by Paul, who never personally met Jesus (at least not under more normal circumstances). Despite this, it remains a strong piece of evidence for a few reasons:
+- In the context of this verse, Paul was writing a letter to a church in Corinth about the problems facing the church there and was an authoritative figure.
+- Paul made this claim as a way of verifying the fact that Jesus had indeed risen
+- If Paul was lying or mistaken, it would have been easy for the Corinthians to disprove him due to the lack of witnesses.
 
-These facts all come together to form a very strong case
+Another point is that Jesus caused a paradigm shift in the religious state of the land. Christianity grew so fast and became so large and influential that:
+- Christianity became unoffically banned, with christians being persecuted, blamed for tragedies and hunted for centuries. Emporers like Nero being attributed.
+- The most widespread persecution occurred under Emperor Diocletian in the early 4th century, beginning in 303 AD. This involved the destruction of churches, confiscation of scriptures, and arrests, torture, and executions of Christians. 
+- The persecution officially ended in 311 AD with the Edict of Toleration issued by Galerius, granting Christians the right to practice their religion.
+- Ultimately, Christianity became the state religion of the Roman Empire under Theodosius I in 380 AD.
 
-
-Because it is a historically documented fact, there have been many alternative theories that try to explain the resurrection without God.
+Because the ressurection is a historically documented fact, there have been many alternative theories that try to explain the resurrection without God.
 
 **The Swoon Theory**
 **Claim**: Jesus didn't actually die but just fainted
@@ -103,17 +111,18 @@ Even renowned atheist historians accept that Jesus was seen after his death. And
 
 
 
-The historical evidence strongly supports the reality of Jesus' resurrection, making it the most reasonable explanation for the known facts.
-
-
-  `,
+The historical evidence strongly supports the reality of Jesus' resurrection, making it the most reasonable explanation for the known facts.`,
   verses: ["1 Corinthians 15:3-8", "Matthew 28:1-10", "Luke 24:13-35", "John 20:1-29", "Acts 2:22-36", "1 Corinthians 15:17", "John 19:34"],
   sources: [
     'Habermas, Gary. "The Risen Jesus and Future Hope"',
     'Wright, N.T. "The Resurrection of the Son of God"',
     'Craig, William Lane. "Assessing the New Testament Evidence for the Historicity of the Resurrection"',
     'Licona, Michael. "The Resurrection of Jesus: A New Historiographical Approach"',
+    'https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire',
+    'https://en.wikipedia.org/wiki/Diocletianic_Persecution',
+    'https://en.wikipedia.org/wiki/Persecution_of_Christians'
+
   ],
-  lastUpdated: "25/07/2025",
+  lastUpdated: "09/08/2025",
 }
 

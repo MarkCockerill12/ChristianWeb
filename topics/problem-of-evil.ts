@@ -7,6 +7,7 @@ export const problemOfEvil: Topic = {
   icon: "AlertTriangle",
   color: "red",
   tags: ["Philosophy", "Theodicy", "Suffering", "Free Will"],
+  tldr: "Evil and suffering exist because of human free will and sin, not because God is powerless or unloving.",
   content: `
 
   One of the most prominent objections to reality is a simple but good one. 
@@ -37,7 +38,7 @@ export const problemOfEvil: Topic = {
 
   "If God is all-knowing, why would he make us if he knew we would sin?": The same reason a parent has a child, even though they know that child will make mistakes. God loves us, and wants us to be with him, but he also wants us to choose to be with him.
 
-   Everything bad in the world is a result of sin, whether its from our choices now or the one that was made in eden
+  Everything bad in the world is a result of sin, whether its from our choices now or the one that was made in eden
 
   So it's just a fact of the world that suffering is a part of our world and lives, so how do we deal with the fact that God just watches it happen?
 

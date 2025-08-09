@@ -7,9 +7,10 @@ export const hell: Topic = {
   icon: "Heart",
   color: "green",
   tags: ["Miracles", "Evidence"],
+  tldr: "Hell in the Bible is not just a place of fire and punishment, but mainly the absence of God—chosen by those who reject Him.",
   content: `
 
-Hell is often portrayed as a place of fire and brimstone. Where everyone who doesn't believe is tortured for the rest of eternity> But is this true? And how accurate is it really?
+Hell is often portrayed as a place of fire and brimstone. Where everyone who doesn't believe is tortured for the rest of eternity. But is this true? And how accurate is it really?
 
 
 First off all, we need to actually see what the bible says about hell. 
@@ -29,7 +30,7 @@ But this seems to reaffirm the normal idea of hell as a place purely of fire and
 Not quite, while Jesus does talk about the fire in hell, this is in regards to the punishment of the devil and his angels as well as being one of the many descriptions we are given. We know
 that God delivers pure justice, so it would be safe to say that a random person wouldn't suffer in the same way hitler would in hell.
 
-If we look into more verses, it becomes clear that hell isn't bad because of any fire and torture, but because it's completely seperate from God.
+If we look into more verses, it becomes clear that hell isn't bad purely because of any fire and torture, but mainly because it's completely seperate from God.
 In essence, hell is the absence of God. 
 
 When we walk our path in life, we either choose to walk with God or without him. We have the free will to choose as we please. 
@@ -41,7 +42,7 @@ Yes, because sin is everything that is not of God. God is everything that is goo
 
 The greatetst news is that us going to heaven doesn't depend on us being good, or perfect or anything like that. As Jesus said 
 “For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.” (John 3:16) all we need to do in 
-order to be saved is to believe in him. And when we do that, we are forgiven of anything that has seperates us from God.
+order to be saved is to believe in him and accept Jesus into our hearts. And when we do that, we are forgiven of anything that has seperates us from God.
 
 
 

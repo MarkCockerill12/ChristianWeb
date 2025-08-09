@@ -1,13 +1,25 @@
 "use client"
 
-import { use, useState } from "react"
+import React, { use, useState } from "react"
 import { notFound } from "next/navigation"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { BookOpen, Calendar, ExternalLink, ArrowLeft, ChevronDown, ChevronUp } from "lucide-react"
+import { BookOpen, Clock, Heart, ExternalLink, CheckCircle2, XCircle, ChevronUp, ChevronDown, ArrowLeft, Calendar, Users } from "lucide-react"
 import Link from "next/link"
 import { getTopicById } from "@/lib/getTopics"
+
+import { branchBeliefs, branchBeliefMap, branchTimeline } from "@/topics/branches"
+
+const iconMap = {
+  BookOpen,
+  Clock,
+  Heart,
+  ExternalLink,
+  CheckCircle2,
+  Users,
+} as const;
+
 
 interface PageProps {
   readonly params: Promise<{
@@ -127,6 +139,68 @@ function BibleVerse({ verse }: { readonly verse: string }) {
 }
 
 export default function CategoryPage({ params }: PageProps) {
+
+  // Badge Cluster Component (icons only, tooltip on hover)
+  function BranchBadgeCluster({ branchId }: { branchId: string }) {
+    const beliefs = branchBeliefMap[branchId]
+    return (
+      <div className="flex gap-2 flex-wrap mt-2">
+        {branchBeliefs.map(belief => {
+          const IconComponent = iconMap[belief.icon as keyof typeof iconMap]
+          return (
+            <span key={belief.key} className="relative group" title={belief.description}>
+              {beliefs[belief.key]
+                ? <IconComponent className="h-5 w-5 text-green-600" />
+                : <IconComponent className="h-5 w-5 text-red-600" />}
+            </span>
+          )
+        })}
+      </div>
+    )
+  }
+
+  // Comparison Table Component
+  function BranchComparisonTable() {
+    const branchIds = Object.keys(branchBeliefMap)
+    return (
+      <div className="overflow-x-auto my-8">
+        <table className="min-w-full border border-gray-300 rounded-lg">
+          <thead>
+            <tr className="bg-gray-100">
+              <th className="p-2 text-left">Belief</th>
+              {branchIds.map(id => (
+                <th key={id} className="p-2 text-center capitalize">{id}</th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {branchBeliefs.map(belief => {
+              const IconComponent = iconMap[belief.icon as keyof typeof iconMap]
+              return (
+                <tr key={belief.key} className="border-t">
+                  <td className="p-2 text-left text-sm font-semibold">
+                    <span className="relative group cursor-help">
+                      {belief.label}
+                      <span className="absolute left-1/2 -translate-x-1/2 mt-1 z-10 hidden group-hover:block bg-gray-900 text-white text-xs rounded px-2 py-1 whitespace-nowrap shadow-lg">
+                        {belief.description}
+                      </span>
+                    </span>
+                  </td>
+                  {branchIds.map(id => (
+                    <td key={id} className="p-2 text-center">
+                      {branchBeliefMap[id][belief.key]
+                        ? <IconComponent className="inline-block text-green-600" />
+                        : <IconComponent className="inline-block text-red-600" />}
+                    </td>
+                  ))}
+                </tr>
+              )
+            })}
+          </tbody>
+        </table>
+      </div>
+    )
+  }
   const resolvedParams = use(params)
   const category = getTopicById(resolvedParams.slug)
 
@@ -134,9 +208,36 @@ export default function CategoryPage({ params }: PageProps) {
     notFound()
   }
 
+  const [search, setSearch] = useState("")
+  const [expanded, setExpanded] = useState<string | null>(null)
+  const [selectedTag, setSelectedTag] = useState<string | null>(null)
+
+  // Only show subtopic UI for these topics
+  const showSubtopics = ["religions", "branches", "contradictions"].includes(category.id)
+
+  // Collect all unique tags for tag filter display
+  const allTags = showSubtopics && category.subtopics
+    ? Array.from(new Set(category.subtopics.flatMap(sub => sub.tags)))
+    : []
+
+  // Filter subtopics by search or selected tag
+  const filteredSubtopics = showSubtopics && category.subtopics
+    ? category.subtopics.filter(sub => {
+        if (selectedTag) {
+          return sub.tags.includes(selectedTag)
+        }
+        const q = search.toLowerCase()
+        return (
+          sub.title.toLowerCase().includes(q) ||
+          sub.content.toLowerCase().includes(q) ||
+          sub.tags.some(tag => tag.toLowerCase().includes(q))
+        )
+      })
+    : []
+
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
-      <div className="container max-w-4xl mx-auto px-4">
+      <div className="container max-w-5xl mx-auto px-4">
         {/* Back Button */}
         <div className="mb-6">
           <Button asChild variant="ghost">
@@ -166,12 +267,23 @@ export default function CategoryPage({ params }: PageProps) {
           </CardHeader>
         </Card>
 
-        {/* Main Content */}
-        <Card className="mb-8">
-          <CardContent className="py-8">
-            <div
-              className="prose prose-lg max-w-none"
-              dangerouslySetInnerHTML={{
+        {/* TL;DR Section */}
+        <Card className="mb-8 border-l-4 border-blue-600 bg-blue-50">
+          <CardHeader>
+            <CardTitle className="text-xl text-blue-700">TL;DR</CardTitle>
+            <CardDescription className="text-md text-gray-700">
+              {category.tldr}
+            </CardDescription>
+          </CardHeader>
+        </Card>
+
+        {/* Main Content Section - Always show if content exists */}
+        {category.content && category.content.trim() && (
+          <Card className="mb-8">
+            <CardContent className="py-8">
+              <div
+                className="prose prose-lg max-w-none"
+                dangerouslySetInnerHTML={{
                 __html: category.content
                   .replace(/\n/g, "<br>")
                   .replace(/#{1,6}\s/g, (match) => {
@@ -179,27 +291,170 @@ export default function CategoryPage({ params }: PageProps) {
                     return `<h${level} class="text-${4 - level}xl font-bold mt-8 mb-4 text-gray-900">`
                   })
                   .replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>"),
-              }}
-            />
-          </CardContent>
-        </Card>
+                }}
+              />
+            </CardContent>
+          </Card>
+        )}
 
-        {/* Bible Verses */}
-        <Card className="mb-8">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <BookOpen className="h-6 w-6 text-blue-600" />
-              Key Bible Verses
-            </CardTitle>
-          </CardHeader>
-          <CardContent>
-            <div className="grid md:grid-cols-2 gap-4">
-              {category.verses.map((verse) => (
-                <BibleVerse key={verse} verse={verse} />
-              ))}
+        {/* Subtopic Search & Sections */}
+        {showSubtopics ? (
+          <>
+            <div className="mb-4 flex flex-wrap gap-2 items-center">
+              <input
+                type="text"
+                value={search}
+                onChange={e => {
+                  setSearch(e.target.value)
+                  setSelectedTag(null)
+                }}
+                placeholder="Search sections or tags..."
+                className="w-full md:w-80 px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+              />
+              {/* Tag filter buttons */}
+              <div className="flex flex-wrap gap-2 ml-2">
+                {allTags.map(tag => (
+                  <Button
+                    key={tag}
+                    variant={selectedTag === tag ? "default" : "outline"}
+                    size="sm"
+                    className={selectedTag === tag ? "bg-blue-600 text-white" : ""}
+                    onClick={() => setSelectedTag(selectedTag === tag ? null : tag)}
+                  >
+                    {tag}
+                  </Button>
+                ))}
+              </div>
             </div>
-          </CardContent>
-        </Card>
+            {/* Timeline layout for branches, regular layout for others */}
+            {category.id === "branches" ? (
+              <div className="relative py-8 pl-4">
+                {/* Timeline line */}
+                <div className="absolute left-32 top-0 bottom-0 w-1 bg-gradient-to-b from-purple-400 to-blue-400 z-0 rounded-full"></div>
+                
+                {/* Timeline events */}
+                <div className="flex flex-col gap-8">
+                  {filteredSubtopics
+                    .sort((a, b) => {
+                      const timelineA = branchTimeline.find(t => t.id === a.id);
+                      const timelineB = branchTimeline.find(t => t.id === b.id);
+                      if (!timelineA || !timelineB) return 0;
+                      
+                      // Extract year from date for sorting
+                      const getYear = (date: string) => {
+                        const match = date.match(/(\d+)/);
+                        return match ? parseInt(match[1]) : 0;
+                      };
+                      
+                      return getYear(timelineA.date) - getYear(timelineB.date);
+                    })
+                    .map(sub => {
+                      const timelineData = branchTimeline.find(t => t.id === sub.id);
+                      return (
+                        <div key={sub.id} className="relative flex items-start w-full">
+                          {/* Date badge - positioned to the left */}
+                          <div className="flex-shrink-0 w-24 text-right pr-4">
+                            <span className={`bg-white border-2 border-${timelineData?.color || 'purple'}-400 text-${timelineData?.color || 'purple'}-700 font-bold px-2 py-1 rounded-full shadow-md text-xs whitespace-nowrap inline-block`}>
+                              {timelineData?.date || 'Unknown'}
+                            </span>
+                          </div>
+                          
+                          {/* Timeline dot */}
+                          <div className="flex-shrink-0 relative z-10 mr-6">
+                            <div className={`w-3 h-3 rounded-full border-2 border-white shadow-lg bg-${timelineData?.color || 'purple'}-500`}></div>
+                          </div>
+                          
+                          {/* Event card */}
+                          <div className="flex-1 max-w-3xl ml-4">
+                            <Card className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300">
+                              <CardHeader
+                                className="flex flex-col cursor-pointer"
+                                onClick={() => setExpanded(expanded === sub.id ? null : sub.id)}
+                              >
+                                <div className="flex items-center gap-2 mb-2">
+                                  <CardTitle className="text-lg text-purple-700">{sub.title}</CardTitle>
+                                  {/* Branch badges to the right of the title */}
+                                  {branchBeliefMap[sub.id] && (
+                                    <span className="ml-2"><BranchBadgeCluster branchId={sub.id} /></span>
+                                  )}
+                                  {sub.tags.map(tag => (
+                                    <Badge key={tag} variant="outline" className="ml-1 text-xs">{tag}</Badge>
+                                  ))}
+                                  <Button variant="ghost" size="sm" className="ml-auto" tabIndex={-1}>
+                                    {expanded === sub.id ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+                                  </Button>
+                                </div>
+                              </CardHeader>
+                              {expanded === sub.id && (
+                                <CardContent className="py-4 text-gray-800">
+                                  <div
+                                    className="prose prose-lg max-w-none"
+                                    dangerouslySetInnerHTML={{ __html: sub.content }}
+                                  />
+                                </CardContent>
+                              )}
+                            </Card>
+                          </div>
+                        </div>
+                      );
+                    })
+                  }
+                </div>
+              </div>
+            ) : (
+              <div className="space-y-4">
+                {filteredSubtopics.map(sub => (
+                  <Card key={sub.id} className="border-l-4 border-purple-600">
+                    <CardHeader
+                      className="flex flex-col cursor-pointer"
+                      onClick={() => setExpanded(expanded === sub.id ? null : sub.id)}
+                    >
+                      <div className="flex items-center gap-2 mb-2">
+                        <CardTitle className="text-lg text-purple-700">{sub.title}</CardTitle>
+                        {sub.tags.map(tag => (
+                          <Badge key={tag} variant="outline" className="ml-1 text-xs">{tag}</Badge>
+                        ))}
+                        <Button variant="ghost" size="sm" className="ml-auto" tabIndex={-1}>
+                          {expanded === sub.id ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+                        </Button>
+                      </div>
+                    </CardHeader>
+                    {expanded === sub.id && (
+                      <CardContent className="py-4 text-gray-800">
+                        <div
+                          className="prose prose-lg max-w-none"
+                          dangerouslySetInnerHTML={{ __html: sub.content }}
+                        />
+                      </CardContent>
+                    )}
+                  </Card>
+                ))}
+                {filteredSubtopics.length === 0 && (
+                  <div className="text-gray-500 text-center py-8">No matching sections found.</div>
+                )}
+              </div>
+            )}
+          </>
+        ) : null}
+
+        {/* Bible Verses - Only show if verses exist and are not empty */}
+        {category.verses && category.verses.length > 0 && category.verses.some(verse => verse.trim() !== "") && (
+          <Card className="mb-8">
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <BookOpen className="h-6 w-6 text-blue-600" />
+                Key Bible Verses
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <div className="grid md:grid-cols-2 gap-4">
+                {category.verses.filter(verse => verse.trim() !== "").map((verse) => (
+                  <BibleVerse key={verse} verse={verse} />
+                ))}
+              </div>
+            </CardContent>
+          </Card>
+        )}
 
         {/* Sources */}
         <Card className="mb-8">
@@ -211,12 +466,28 @@ export default function CategoryPage({ params }: PageProps) {
           </CardHeader>
           <CardContent>
             <ul className="space-y-2">
-              {category.sources.filter(source => source.trim() !== "").map((source, index) => (
-                <li key={`source-${index}-${source.substring(0, 20)}`} className="flex items-start gap-2">
-                  <ExternalLink className="h-4 w-4 text-green-600 mt-1 flex-shrink-0" />
-                  <span className="text-gray-700">{source}</span>
-                </li>
-              ))}
+              {category.sources.filter(source => source.trim() !== "").map((source, index) => {
+                // Check if the source is a URL
+                const isUrl = source.startsWith('http://') || source.startsWith('https://');
+                
+                return (
+                  <li key={`source-${index}-${source.substring(0, 20)}`} className="flex items-start gap-2">
+                    <ExternalLink className="h-4 w-4 text-green-600 mt-1 flex-shrink-0" />
+                    {isUrl ? (
+                      <Link 
+                        href={source} 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="text-blue-600 hover:text-blue-800 hover:underline"
+                      >
+                        {source}
+                      </Link>
+                    ) : (
+                      <span className="text-gray-700">{source}</span>
+                    )}
+                  </li>
+                );
+              })}
             </ul>
           </CardContent>
         </Card>

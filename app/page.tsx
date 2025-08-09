@@ -1,3 +1,4 @@
+"use client"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
@@ -6,13 +7,21 @@ import Link from "next/link"
 
 const whatsNewItems = [
 {
+    id: 2,
+    title: "The second update",
+    description:
+      'Updated the "resurrection" page and added "religions" and "branches" pages to topics.',
+    date: "09/08/2025",
+    category: "Updates",
+    link: "/categories/historical-evidence",
+  },
+{
     id: 1,
     title: "The first update",
     description:
       "Add everything to the website as a starting point. This will be the timeline, as well as any apologetic topics, personal testimony, and resource sections.",
     date: "25/07/2025",
     category: "Create",
-    link: "/categories/historical-evidence",
   },
 ]
 
@@ -36,7 +45,14 @@ const bibleVerses = [
   },
 ]
 
+import { useState } from "react"
+
 export default function HomePage() {
+  // Sort updates by id descending
+  const sortedUpdates = [...whatsNewItems].sort((a, b) => b.id - a.id)
+  const topThree = sortedUpdates.slice(0, 3)
+  const rest = sortedUpdates.slice(3)
+  const [showAll, setShowAll] = useState(false)
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
       {/* Hero Section */}
@@ -51,7 +67,7 @@ export default function HomePage() {
             Faith &amp; <span className="text-blue-600">Reason</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            A website containing evidence for Christianity, including a biblical timeline, apologetic topics, and a personal account.
+            A website containing evidence for Christianity, including a biblical timeline, apologetic topics and a personal account.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <Button asChild size="lg" className="bg-blue-600 hover:bg-blue-700">
@@ -75,26 +91,79 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto">
           <div className="flex items-center justify-center mb-12">
             <Clock className="h-8 w-8 text-blue-600 mr-3" />
-          <h2 className="text-3xl font-bold text-gray-900">What&apos;s New?</h2>
+            <h2 className="text-3xl font-bold text-gray-900">What&apos;s New?</h2>
           </div>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {whatsNewItems.map((item) => (
-              <Card key={item.id} className="hover:shadow-lg transition-shadow duration-300 flex flex-col">
-                <CardHeader>
-                  <div className="flex justify-between items-start mb-2">
-                    <Badge variant="secondary">{item.category}</Badge>
-                    <span className="text-sm text-gray-500">{item.date}</span>
-                  </div>
-                  <CardTitle className="text-lg">{item.title}</CardTitle>
-                </CardHeader>
-                <CardContent className="flex-grow">
-                  <CardDescription className="text-sm leading-relaxed min-h-fit">
-                    {item.description}
-                  </CardDescription>
-                </CardContent>
-              </Card>
-            ))}
+            {topThree.map((item) => {
+              const CardComponent = (
+                <Card className="hover:shadow-lg transition-shadow duration-300 flex flex-col">
+                  <CardHeader>
+                    <div className="flex justify-between items-start mb-2">
+                      <Badge variant="secondary">{item.category}</Badge>
+                      <span className="text-sm text-gray-500">{item.date}</span>
+                    </div>
+                    <CardTitle className="text-lg">{item.title}</CardTitle>
+                  </CardHeader>
+                  <CardContent className="flex-grow">
+                    <CardDescription className="text-sm leading-relaxed min-h-fit">
+                      {item.description}
+                    </CardDescription>
+                  </CardContent>
+                </Card>
+              );
+              
+              return (
+                <div key={item.id}>
+                  {item.link ? (
+                    <Link href={item.link} className="block">
+                      {CardComponent}
+                    </Link>
+                  ) : (
+                    CardComponent
+                  )}
+                </div>
+              );
+            })}
+            {/* Show the rest if toggled */}
+            {showAll && rest.map((item) => {
+              const CardComponent = (
+                <Card className="hover:shadow-lg transition-shadow duration-300 flex flex-col">
+                  <CardHeader>
+                    <div className="flex justify-between items-start mb-2">
+                      <Badge variant="secondary">{item.category}</Badge>
+                      <span className="text-sm text-gray-500">{item.date}</span>
+                    </div>
+                    <CardTitle className="text-lg">{item.title}</CardTitle>
+                  </CardHeader>
+                  <CardContent className="flex-grow">
+                    <CardDescription className="text-sm leading-relaxed min-h-fit">
+                      {item.description}
+                    </CardDescription>
+                  </CardContent>
+                </Card>
+              );
+              
+              return (
+                <div key={item.id}>
+                  {item.link ? (
+                    <Link href={item.link} className="block">
+                      {CardComponent}
+                    </Link>
+                  ) : (
+                    CardComponent
+                  )}
+                </div>
+              );
+            })}
           </div>
+          {/* Toggle button if there are more than 3 updates */}
+          {rest.length > 0 && (
+            <div className="flex justify-center mt-8">
+              <Button onClick={() => setShowAll((v) => !v)} variant="outline">
+                {showAll ? "Show Less" : `Show ${rest.length} More Updates`}
+              </Button>
+            </div>
+          )}
         </div>
       </section>
 

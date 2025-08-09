@@ -27,15 +27,15 @@ export default function PersonalPage() {
           </CardHeader>
           <CardContent className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-4">
-              To start, I have always been a christian, always gone to church and always believed in God and the bible, so my personal story isn&apos;t one with a huge turn around and lots of drama but nontheless, a path is not any less of a path if there are less obstacles in the way.
+              To start, Ever since I have been able to choose, I have always been a christian, always gone to church and always believed in God and the bible, so my personal story isn&apos;t one with a huge turn around and lots of drama but nontheless, a path is not any less of a path if there are less obstacles in the way.
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Growing up as a christian meant that i grew up taking a lot of things for granted, a strong tightly-knit family, defined morals and a respect for God. And this was something i didnt think too much about until my teenage years.
-              I attended a christian concert event with my youth group, and at one point during this they asked us to stand up (in front of the hundreds of people there) if we hadn&apos;t declared our faith in Jesus yet and we would go to a seperate room where someone would pray for us. 
-              This was the first concious decision I made to choose him on my own, and since then I dedicated more critical thinking to my religion, asking lots of questions and learning as much as possible. 
+              Growing up as a christian meant that I grew up taking a lot of things for granted, a strong tightly-knit family, defined morals and a respect for God. And this was something I didnt think too much about until my teenage years.
+              I attended a christian concert event with my youth group, and at one point during this they asked us to stand up (in front of the hundreds of people there) if we hadn&apos;t declared our faith in Jesus yet and we would go to a seperate room where someone would pray for us.
+              This was the first concious decision I made to choose him on my own, and since then I dedicated more critical thinking to my religion, asking lots of questions and learning as much as possible.
             </p>
             <p className="text-gray-700 leading-relaxed">
-              I am grateful for my upbringing, I consider myself to be the luckiest and most fortunate person on the plant. I never had to face the problems in the household that so many of my friends had and it has given me a the chance to become well educated. 
+              I am grateful for my upbringing, I consider myself to be one of the most fortunate person on the planet. I never had to face the problems in the household that so many of my friends had and it has given me a the chance to become well educated. 
               I have seen and heard many stories of other people coming to faith from difficult backgrounds, single parent households, drug and alcohol abuse and crime. And i have watched Jesus make real change to these people in real time. 
               However, even in the face of all my personal experiences, I believe that Christianity is the rationally best choice, and studying it leads to convicing that it is the truth. Whatever i reserach, i am determined to find the truth, whether it means i am right or wrong in my points.
               I believe that the truth is objectively good. So here is my case for why Christianity is correct:

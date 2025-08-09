@@ -75,7 +75,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2024 Faith &amp; Reason. Built with love for truth seekers everywhere.</p>
+          <p>&copy; 2025 Faith &amp; Reason. </p>
           <p className="mt-2 italic">&quot;And you will know the truth, and the truth will set you free.&quot; - John 8:32</p>
         </div>
       </div>

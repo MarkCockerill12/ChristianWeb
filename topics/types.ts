@@ -9,4 +9,11 @@ export interface Topic {
   tags: string[]
   icon?: string
   color?: string
+  tldr?: string
+  subtopics?: Array<{
+    id: string
+    title: string
+    tags: string[]
+    content: string
+  }>
 }
