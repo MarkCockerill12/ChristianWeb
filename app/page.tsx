@@ -4,6 +4,7 @@ import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { BookOpen, Clock, Heart, Search, TimerIcon as Timeline } from "lucide-react"
 import Link from "next/link"
+import Image from "next/image"
 
 const whatsNewItems = [
 {
@@ -60,7 +61,7 @@ export default function HomePage() {
         <div className="absolute inset-0 bg-gradient-to-r from-blue-600/10 to-purple-600/10 rounded-3xl mx-4 mt-4"></div>
         <div className="relative max-w-4xl mx-auto">
           <div className="flex justify-center ">
-            <img src={"cross.jpg"} width={250} height={250} className="rounded-lg"  alt="The milky way cross" />
+            <Image src={"/cross.jpg"} width={250} height={250} className="rounded-lg" alt="The milky way cross" />
           </div>
           <p className="text-gray-500 text-xs mb-6  ">Image from <a href="https://science.nasa.gov/asset/hubble/x-structure-at-core-of-whirlpool-galaxy-m51/" className="text-blue-600 hover:underline">NASA</a> of the center of spiral galaxy M51</p>
           <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">

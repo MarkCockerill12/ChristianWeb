@@ -5,7 +5,7 @@ import { notFound } from "next/navigation"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { BookOpen, Clock, Heart, ExternalLink, CheckCircle2, XCircle, ChevronUp, ChevronDown, ArrowLeft, Calendar, Users } from "lucide-react"
+import { BookOpen, Clock, Heart, ExternalLink, CheckCircle2, ChevronUp, ChevronDown, ArrowLeft, Calendar, Users } from "lucide-react"
 import Link from "next/link"
 import { getTopicById } from "@/lib/getTopics"
 
@@ -159,48 +159,6 @@ export default function CategoryPage({ params }: PageProps) {
     )
   }
 
-  // Comparison Table Component
-  function BranchComparisonTable() {
-    const branchIds = Object.keys(branchBeliefMap)
-    return (
-      <div className="overflow-x-auto my-8">
-        <table className="min-w-full border border-gray-300 rounded-lg">
-          <thead>
-            <tr className="bg-gray-100">
-              <th className="p-2 text-left">Belief</th>
-              {branchIds.map(id => (
-                <th key={id} className="p-2 text-center capitalize">{id}</th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {branchBeliefs.map(belief => {
-              const IconComponent = iconMap[belief.icon as keyof typeof iconMap]
-              return (
-                <tr key={belief.key} className="border-t">
-                  <td className="p-2 text-left text-sm font-semibold">
-                    <span className="relative group cursor-help">
-                      {belief.label}
-                      <span className="absolute left-1/2 -translate-x-1/2 mt-1 z-10 hidden group-hover:block bg-gray-900 text-white text-xs rounded px-2 py-1 whitespace-nowrap shadow-lg">
-                        {belief.description}
-                      </span>
-                    </span>
-                  </td>
-                  {branchIds.map(id => (
-                    <td key={id} className="p-2 text-center">
-                      {branchBeliefMap[id][belief.key]
-                        ? <IconComponent className="inline-block text-green-600" />
-                        : <IconComponent className="inline-block text-red-600" />}
-                    </td>
-                  ))}
-                </tr>
-              )
-            })}
-          </tbody>
-        </table>
-      </div>
-    )
-  }
   const resolvedParams = use(params)
   const category = getTopicById(resolvedParams.slug)
 
