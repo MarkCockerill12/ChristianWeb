@@ -10,6 +10,7 @@ import Link from "next/link"
 import { getTopicById } from "@/lib/getTopics"
 
 import { branchBeliefs, branchBeliefMap, branchTimeline } from "@/topics/branches"
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { canonTimeline } from "@/topics/canon"
 
 const iconMap = {
@@ -283,7 +284,7 @@ export default function CategoryPage({ params }: PageProps) {
                 <p className="text-sm text-amber-800 mt-1">
                   {category.id === "canon" ? (
                     <>
-                      <strong>The dates shown indicate when these books were written down, not when the events they describe occurred.</strong> For example, Moses wrote Genesis around 1445 BC, but it records events from Creation through Joseph's death (c. 1805 BC). Similarly, the Gospels were written 15-65 years after Christ's ministry but record His life and teachings from 30-33 AD.
+                      <strong>The dates shown indicate when these books were written down, not when the events they describe occurred.</strong> For example, Moses wrote Genesis around 1445 BC, but it records events from Creation through Joseph&apos;s death (c. 1805 BC). Similarly, the Gospels were written 15-65 years after Christ&apos;s ministry but record His life and teachings from 30-33 AD.
                     </>
                   ) : (
                     <>
