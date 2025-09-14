@@ -167,6 +167,11 @@ export default function CategoryPage({ params }: PageProps) {
     notFound()
   }
 
+  // Add timeline data for specific topics
+  if (category.id === "canon") {
+    category.timeline = canonTimeline
+  }
+
   const [search, setSearch] = useState("")
   const [expanded, setExpanded] = useState<string | null>(null)
   const [selectedTag, setSelectedTag] = useState<string | null>(null)
@@ -282,7 +287,7 @@ export default function CategoryPage({ params }: PageProps) {
                     </>
                   ) : (
                     <>
-                      <strong>This timeline shows Christianity's progressive transformation of slavery from regulation to abolition.</strong> Rather than immediately abolishing slavery in ancient times (which would have caused economic collapse as well as social protest as seen with Israel's constant flip-flopping of beliefs), God worked through progressive revelation to plant principles of human dignity that ultimately led to slavery's complete abolition by Christian movements.
+                      <strong>This timeline shows Christianity&apos;s progressive transformation of slavery from regulation to abolition.</strong> Rather than immediately abolishing slavery in ancient times (which would have caused economic collapse as well as social protest as seen with Israel&apos;s constant flip-flopping of beliefs), God worked through progressive revelation to plant principles of human dignity that ultimately led to slavery&apos;s complete abolition by Christian movements.
                     </>
                   )}
                 </p>
