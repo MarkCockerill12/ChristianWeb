@@ -4,5 +4,83 @@
         "**/*.rpa": true,
         "**/*.rpymc": true,
         "**/cache/": true
-    }
+    },
+    "folder-color.pathColors": [
+        {
+            "folderPath": "my-app\\topics\\problem-of-evil.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\contradictions.ts\\",
+            "color": "foldercolorizer.color_00cc33"
+        },
+        {
+            "folderPath": "my-app\\topics\\fine-tuning.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\godEvil.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\hell.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\jesus.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\archaeological.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\science.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\religions.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\branches.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\canon.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\miracles.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\morality.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\nasa.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\prophecy.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\resurrection.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\slavery.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\trinity.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        },
+        {
+            "folderPath": "my-app\\topics\\women.ts\\",
+            "color": "foldercolorizer.color_00cc00"
+        }
+    ]
 }

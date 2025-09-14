@@ -8,6 +8,15 @@ import Image from "next/image"
 
 const whatsNewItems = [
 {
+    id: 3,
+    title: "14 New Topic Pages Added!",
+    description:
+      'Added: Archaeological Evidence, Biblical Canon (with timeline), Branches of Christianity (with timeline), Biblical Contradictions, Fine-Tuning, God & Evil, Hell, Jesus Historicity, Miracles, Morality, NASA & Space, Problem of Evil, Religions Comparison, Slavery (with 20-event timeline), Trinity, and Women in Christianity. Enhanced existing Prophecy and Resurrection pages with comprehensive research and sources.',
+    date: "14/09/2025",
+    category: "Major Expansion",
+    link: "/categories",
+  },
+{
     id: 2,
     title: "The second update",
     description:
@@ -59,15 +68,15 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative py-20 px-4 text-center">
         <div className="absolute inset-0 bg-gradient-to-r from-blue-600/10 to-purple-600/10 rounded-3xl mx-4 mt-4"></div>
-        <div className="relative max-w-4xl mx-auto">
+        <div className="relative max-w-6xl mx-auto">
           <div className="flex justify-center ">
             <Image src={"/cross.jpg"} width={250} height={250} className="rounded-lg" alt="The milky way cross" />
           </div>
           <p className="text-gray-500 text-xs mb-6  ">Image from <a href="https://science.nasa.gov/asset/hubble/x-structure-at-core-of-whirlpool-galaxy-m51/" className="text-blue-600 hover:underline">NASA</a> of the center of spiral galaxy M51</p>
-          <h1 className="text-5xl md:text-6xl font-bold text-gray-900 mb-6">
-            Faith &amp; <span className="text-blue-600">Reason</span>
+          <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold text-gray-900 mb-6">
+            Cross <span className="text-blue-600">✝</span> Examination
           </h1>
-          <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
+          <p className="text-lg sm:text-xl text-gray-600 mb-8 max-w-4xl mx-auto">
             A website containing evidence for Christianity, including a biblical timeline, apologetic topics and a personal account.
           </p>
           <div className="flex flex-wrap justify-center gap-4">
@@ -88,8 +97,8 @@ export default function HomePage() {
       </section>
 
       {/* What's New Section */}
-      <section className="py-16 px-4">
-        <div className="max-w-6xl mx-auto">
+      <section className="py-16 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto">
           <div className="flex items-center justify-center mb-12">
             <Clock className="h-8 w-8 text-blue-600 mr-3" />
             <h2 className="text-3xl font-bold text-gray-900">What&apos;s New?</h2>
@@ -169,8 +178,8 @@ export default function HomePage() {
       </section>
 
       {/* Bible Verses Section */}
-      <section className="py-16 px-4 bg-gradient-to-r from-blue-50 to-purple-50">
-        <div className="max-w-4xl mx-auto">
+      <section className="py-16 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-blue-50 to-purple-50">
+        <div className="max-w-6xl mx-auto">
           <div className="flex items-center justify-center mb-12">
             <BookOpen className="h-8 w-8 text-blue-600 mr-3" />
             <h2 className="text-3xl font-bold text-gray-900">Scripture & Truth</h2>
@@ -190,8 +199,8 @@ export default function HomePage() {
       </section>
 
       {/* Navigation Cards */}
-      <section className="py-16 px-4">
-        <div className="max-w-6xl mx-auto">
+      <section className="py-16 px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto">
           <h2 className="text-3xl font-bold text-center text-gray-900 mb-12">Explore the Evidence</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <Card className="hover:shadow-xl transition-all duration-300 hover:-translate-y-1">

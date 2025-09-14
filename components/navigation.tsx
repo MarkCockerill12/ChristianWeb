@@ -4,7 +4,7 @@ import { useState } from "react"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { Button } from "@/components/ui/button"
-import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
+import { Sheet, SheetContent, SheetTrigger, SheetTitle, SheetHeader } from "@/components/ui/sheet"
 import { Cross, Menu, Search, TimerIcon as Timeline, Heart, BookOpen, Home } from "lucide-react"
 import { cn } from "@/lib/utils"
 
@@ -21,15 +21,15 @@ export function Navigation() {
   const pathname = usePathname()
 
   return (
-    <nav className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 pl-4">
-      <div className="container flex h-16 items-center">
-        <Link href="/" className="flex items-center space-x-2">
-          <Cross className="h-6 w-6 text-blue-600" />
-          <span className="font-bold text-xl">Faith & Reason</span>
+    <nav className="sticky top-0 z-50 w-full border-b bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/60 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-7xl mx-auto flex h-16 items-center">
+        <Link href="/" className="flex items-center space-x-2 min-w-0">
+          <Cross className="h-6 w-6 text-blue-600 flex-shrink-0" />
+          <span className="font-bold text-lg sm:text-xl whitespace-nowrap">Cross ✝ Examination</span>
         </Link>
 
         {/* Desktop Navigation */}
-        <div className="hidden md:flex md:items-center md:space-x-6 ml-8">
+        <div className="hidden md:flex md:items-center md:space-x-4 lg:space-x-6 ml-6 lg:ml-8">
           {navigation.map((item) => {
             const Icon = item.icon
             return (
@@ -58,6 +58,9 @@ export function Navigation() {
               </Button>
             </SheetTrigger>
             <SheetContent side="right" className="w-[300px] sm:w-[400px]">
+              <SheetHeader>
+                <SheetTitle className="sr-only">Navigation Menu</SheetTitle>
+              </SheetHeader>
               <div className="flex flex-col space-y-4 mt-8">
                 {navigation.map((item) => {
                   const Icon = item.icon

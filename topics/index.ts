@@ -3,7 +3,6 @@ export type { Topic } from './types'
 
 // Export individual topics
 export { archaeological } from './archaeological'
-export { authentic } from './authentic'
 export { branches } from './branches'
 export { canon } from './canon'
 export { contradictions } from './contradictions'
@@ -24,7 +23,29 @@ export { trinity } from './trinity'
 export { women } from './women'
 
 
+    /*    //TODO add topics, Verify all sources, Fix formatting (width), Remove needless tags from subtopics
 
+
+TOPICS THAT NEED INDIVIDUAL FILES CREATED:
+- Evolution vs. Creation (evolution-creation)
+
+- Christianity and Homosexuality (homosexuality)
+
+- do you need to be baptised to be saved?
+
+- free will
+
+- why did God put the tree of knowledge in the garden?
+
+- why did Jesus let lazarus die?
+
+- are we in the end days?
+
+- About each of the books of the bible (Author, date, point, etc)
+
+- 
+
+*/
 
 
 

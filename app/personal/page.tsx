@@ -5,14 +5,14 @@ import { Heart, BookOpen, Users, Lightbulb, Target } from "lucide-react"
 export default function PersonalPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
-      <div className="container max-w-4xl mx-auto px-4">
+      <div className="container max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
           <div className="flex justify-center mb-6">
             <Heart className="h-16 w-16 text-red-500" />
           </div>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Why I Believe</h1>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          <p className="text-xl text-gray-600 max-w-4xl mx-auto">
             My account and reasoning for choosing Christianity.
           </p>
         </div>
@@ -27,7 +27,7 @@ export default function PersonalPage() {
           </CardHeader>
           <CardContent className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-4">
-              To start, Ever since I have been able to choose, I have always been a christian, always gone to church and always believed in God and the bible, so my personal story isn&apos;t one with a huge turn around and lots of drama but nontheless, a path is not any less of a path if there are less obstacles in the way.
+              To start, ever since I have been able to choose, I have always been a christian, always gone to church and always believed in God and the bible, so my personal story isn&apos;t one with a huge turn around and lots of drama but nontheless, a path is not any less of a path if there are less obstacles in the way.
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
               Growing up as a christian meant that I grew up taking a lot of things for granted, a strong tightly-knit family, defined morals and a respect for God. And this was something I didnt think too much about until my teenage years.
@@ -150,7 +150,7 @@ export default function PersonalPage() {
               <div>
                 <h4 className="font-semibold text-gray-800 mb-2">&quot;What about other religions?&quot;</h4>
                 <p className="text-gray-700 text-sm">
-                  I have studied other religions, both abrahamic and non. And I have found them left wanting. They fail to meet satisfying criteria, either for seeming rationally feasible, explaining the world and circumstances, or having any evidence to back them up.
+                  I have studied other religions; monotheistic, polytheistic, spiritualistic and more. In my experience they fail to meet satisfying criteria such as seeming rationally feasible, being consistent in both beliefs and teachings, or having any evidence to back them up.
                 </p>
               </div>
               <div>

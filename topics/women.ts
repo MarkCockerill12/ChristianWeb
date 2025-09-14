@@ -2,20 +2,150 @@ import type { Topic } from './types'
 
 export const women: Topic = {
   id: "women",
-  title: "What Does The Bible Say About Womens Rights and Equality?",
-  description: "Are we all equal? Are men allowed to do things that women aren't?",
-  icon: "Heart",
-  color: "green",
-  tags: ["Miracles", "Evidence"],
+  title: "What Does The Bible Say About Women's Rights and Equality?",
+  description: "Are we all equal? Are men allowed to do things that women aren't? How does Christianity view women's roles and dignity?",
+  icon: "Users",
+  color: "pink",
+  tags: ["Morality", "Historical", "Scripture"],
   content: `
-
-d
-
-  `,
-  verses: [""],
-  sources: [
+    <h3>Biblical View of Women: Equality and Dignity</h3>
+    <p>Christianity revolutionized the ancient world's view of women by affirming their fundamental equality with men while recognizing functional differences in certain contexts<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>. The Bible presents a balanced view that honors women's dignity, value, and contributions<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a> <a href="https://www.ligonier.org/learn/articles/biblical-womanhood" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a>.</p>
     
+    <h4>Fundamental Equality</h4>
+    
+    <p><strong>Created in God's Image:</strong> Both men and women equally bear God's image<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• "God created mankind in his own image... male and female he created them" (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:27</a>)</p>
+    <p>• Both receive the same dominion mandate over creation (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A28&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:28</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• Equal participants in the image of God - no hierarchy in essence or worth<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    
+    <p><strong>Spiritual Equality:</strong> No distinction in salvation or spiritual standing<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• "There is neither... male nor female, for you are all one in Christ Jesus" (<a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A28&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Galatians 3:28</a>)</p>
+    <p>• Both men and women receive spiritual gifts (<a href="https://www.biblegateway.com/passage/?search=1+Corinthians+12%3A7-11&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">1 Corinthians 12:7-11</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• Women prophesied and ministered in the early church (<a href="https://www.biblegateway.com/passage/?search=Acts+21%3A9&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Acts 21:9</a>, <a href="https://www.biblegateway.com/passage/?search=Romans+16%3A1-7&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Romans 16:1-7</a>)<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    
+    <h4>Jesus' Revolutionary Treatment of Women</h4>
+    
+    <p><strong>Counter-Cultural Interactions:</strong> Jesus elevated women's status<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• Taught women theology (<a href="https://www.biblegateway.com/passage/?search=Luke+10%3A38-42&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 10:38-42</a>) - rabbis typically didn't teach women<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• First resurrection appearances to women (<a href="https://www.biblegateway.com/passage/?search=Matthew+28%3A1-10&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 28:1-10</a>)<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• Defended women against discrimination (<a href="https://www.biblegateway.com/passage/?search=John+8%3A1-11&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">John 8:1-11</a>, <a href="https://www.biblegateway.com/passage/?search=Luke+13%3A10-17&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 13:10-17</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• Included women in His ministry support team (<a href="https://www.biblegateway.com/passage/?search=Luke+8%3A1-3&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 8:1-3</a>)<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    
+    <p><strong>Women as Witnesses:</strong> Trusted women with crucial roles<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• Women were first evangelists of the resurrection<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• Samaritan woman becomes missionary to her town (<a href="https://www.biblegateway.com/passage/?search=John+4%3A39-42&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">John 4:39-42</a>)<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• Women supported Jesus' ministry financially and personally<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    
+    <h4>Old Testament Examples of Strong Women</h4>
+    
+    <p><strong>Leadership Roles:</strong> Women held positions of authority<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• <strong>Deborah:</strong> Judge and prophetess who led Israel (<a href="https://www.biblegateway.com/passage/?search=Judges+4-5&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Judges 4-5</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• <strong>Esther:</strong> Queen who saved the Jewish people<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• <strong>Ruth:</strong> Ancestor of David and Jesus, model of loyalty<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• <strong>Proverbs 31 woman:</strong> Business owner, teacher, manager<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    
+    <h4>Understanding "Difficult" Passages</h4>
+    
+    <p><strong>1 Corinthians 14:34-35 (Women silent in churches):</strong></p>
+    <p>Context suggests this addressed disruptive questioning during services, not universal prohibition<a href="https://carm.org/about-doctrine/should-women-wear-head-coverings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a> <a href="https://www.gotquestions.org/head-coverings.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>. Paul elsewhere assumes women pray and prophesy in church (<a href="https://www.biblegateway.com/passage/?search=1+Corinthians+11%3A5&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">1 Corinthians 11:5</a>)<a href="https://carm.org/about-doctrine/should-women-wear-head-coverings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>.</p>
+    
+    <p><strong>1 Timothy 2:11-12 (Women not teaching men):</strong></p>
+    <p>This passage must be understood in context. Paul addresses a specific situation in Ephesus where false teachers were targeting women (<a href="https://www.biblegateway.com/passage/?search=1+Timothy+1%3A3&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 1:3</a>, <a href="https://www.biblegateway.com/passage/?search=1+Timothy+4%3A7&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 4:7</a>, <a href="https://www.biblegateway.com/passage/?search=1+Timothy+5%3A11-15&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 5:11-15</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a>. The Greek word "authentein" (to have authority) appears only here in the New Testament and may refer to destructive domineering rather than legitimate teaching authority<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a>. Additionally, the cultural context involved uneducated women disrupting worship. Many scholars note this addresses local circumstances rather than establishing universal restrictions<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a>.</p>
+
+    <p><strong>1 Corinthians 11:2-16 (Head Coverings):</strong></p>
+    <p>This passage addresses women covering their heads during prayer and prophecy, which assumes women actively participate in worship leadership<a href="https://carm.org/about-doctrine/should-women-wear-head-coverings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>. Paul's concern is maintaining proper decorum and showing respect for authority structures within that cultural context<a href="https://www.gotquestions.org/head-coverings.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>. The passage affirms women's right to pray and prophesy publicly while addressing cultural expectations about appearance<a href="https://carm.org/about-doctrine/should-women-wear-head-coverings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>. Some interpretations see this as culturally specific (like the Corinthian requirement for head coverings), while others view the principle of showing respect for authority as timeless<a href="https://www.gotquestions.org/head-coverings.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a> <a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a>. The key point is that Paul assumes women will pray and prophesy in church gatherings<a href="https://carm.org/about-doctrine/should-women-wear-head-coverings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>.</p>
+    
+    <p><strong>Ephesians 5:22 (Wives submit):</strong></p>
+    <p>Preceded by "Submit to one another" (<a href="https://www.biblegateway.com/passage/?search=Ephesians+5%3A21&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">v.21</a>) - mutual submission<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a> <a href="https://www.ligonier.org/learn/articles/biblical-womanhood" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a>. Husband's headship defined as sacrificial love like Christ's (<a href="https://www.biblegateway.com/passage/?search=Ephesians+5%3A25&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">v.25</a>), not domination<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a>.</p>
+    
+    <h4>Women's Contributions to Christianity</h4>
+    
+    <p><strong>New Testament Ministry:</strong> Women played crucial roles<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• <strong>Priscilla:</strong> Taught Apollos theology (<a href="https://www.biblegateway.com/passage/?search=Acts+18%3A26&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Acts 18:26</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• <strong>Phoebe:</strong> Deacon and Paul's ministry partner (<a href="https://www.biblegateway.com/passage/?search=Romans+16%3A1-2&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Romans 16:1-2</a>)<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• <strong>Junia:</strong> Called "outstanding among the apostles" (<a href="https://www.biblegateway.com/passage/?search=Romans+16%3A7&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Romans 16:7</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• <strong>Lydia:</strong> Successful businesswoman and church leader (<a href="https://www.biblegateway.com/passage/?search=Acts+16%3A14-15&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Acts 16:14-15</a>, <a href="https://www.biblegateway.com/passage/?search=Acts+16%3A40&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">40</a>)<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    
+    <p><strong>Church History:</strong> Women have been vital to Christian expansion<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.thegospelcoalition.org/topics/womens-roles/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a></p>
+    <p>• Missionary pioneers like Lottie Moon and Amy Carmichael<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a></p>
+    <p>• Reformers like Catherine Booth (Salvation Army)<a href="https://www.thegospelcoalition.org/topics/womens-roles/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a></p>
+    <p>• Scholars like Medieval mystics and modern theologians<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a></p>
+    <p>• Martyrs who died for their faith throughout history<a href="https://www.thegospelcoalition.org/topics/womens-roles/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a></p>
+    
+    <h4>Marriage and Family</h4>
+    
+    <p><strong>Partnership Model:</strong> Marriage as mutual partnership<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a> <a href="https://www.ligonier.org/learn/articles/biblical-womanhood" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a></p>
+    <p>• "Helper" (ezer) in <a href="https://www.biblegateway.com/passage/?search=Genesis+2%3A18&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 2:18</a> is the same word used for God helping humans<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
+    <p>• Mutual responsibility and authority in different areas<a href="https://www.ligonier.org/learn/articles/biblical-womanhood" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a></p>
+    <p>• Both called to love, serve, and sacrifice for each other<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
+    
+    <p><strong>Parenting:</strong> Shared responsibility for children<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• Both parents commanded to teach children (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+6%3A4-9&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Deuteronomy 6:4-9</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• Proverbs frequently mentions both father's and mother's instruction<a href="https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• Timothy learned faith from grandmother and mother (<a href="https://www.biblegateway.com/passage/?search=2+Timothy+1%3A5&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">2 Timothy 1:5</a>)<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    
+    <h4>Modern Applications</h4>
+    
+    <p><strong>Workplace and Society:</strong> Biblical principles support women's participation<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.thegospelcoalition.org/topics/womens-roles/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a></p>
+    <p>• Proverbs 31 woman engaged in business and commerce<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• Spiritual gifts given to both men and women for church benefit<a href="https://www.thegospelcoalition.org/topics/womens-roles/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a></p>
+    <p>• Justice and equality principles oppose discrimination<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    
+    <p><strong>Church Ministry:</strong> Different views among Bible-believing Christians<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a> <a href="https://www.desiringgod.org/topics/biblical-womanhood" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a></p>
+    <p>• <strong>Complementarian view:</strong> Different roles, equal worth<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
+    <p>• <strong>Egalitarian view:</strong> Equal roles and responsibilities<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a></p>
+    <p>• Both affirm women's dignity, gifts, and essential contributions<a href="https://www.thegospelcoalition.org/topics/womens-roles/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a></p>
+    
+    <h4>Conclusion</h4>
+    <p>The Bible's view of women is revolutionary for its time and continues to be relevant today<a href="https://www.gotquestions.org/women-in-the-Bible.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a> <a href="https://www.thegospelcoalition.org/topics/womens-roles/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a>. While there are interpretive discussions about specific roles, all Christians affirm women's equal dignity, worth, and importance in God's kingdom<a href="https://cbmw.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a>. Christianity elevated women's status in the ancient world and continues to affirm their full humanity and valuable contributions<a href="https://www.ligonier.org/learn/articles/biblical-womanhood" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a>.</p>
+  `,
+  verses: [
+    "Genesis 1:27-28",
+    "Galatians 3:28",
+    "Luke 10:38-42",
+    "Matthew 28:1-10",
+    "Judges 4:4-5",
+    "1 Corinthians 11:2-16",
+    "1 Corinthians 11:5",
+    "1 Corinthians 14:34-35",
+    "1 Timothy 2:11-12",
+    "Ephesians 5:21-25",
+    "Romans 16:1-7",
+    "Acts 18:26",
+    "Proverbs 31:10-31",
+    "2 Timothy 1:5"
   ],
-  lastUpdated: "18-07-2025",
+  sources: [
+    "1. [Academic Book] Köstenberger, Andreas J., and Thomas R. Schreiner, eds. Women in the Church: An Analysis and Application of 1 Timothy 2:9-15. 3rd ed. Crossway, 2016. Comprehensive scholarly analysis of biblical passages on women's roles.",
+    "2. [Ministry Resource] GotQuestions.org - 'Women in the Bible' - Biblical examination of women's roles and dignity throughout Scripture. https://www.gotquestions.org/women-in-the-Bible.html",
+    "3. [Academic Book] Bauckham, Richard. Gospel Women: Studies of the Named Women in the Gospels. T&T Clark, 2002. Scholarly study of Jesus' revolutionary treatment of women in the Gospels.",
+    "4. [Bible Study Resource] Bible Gateway - 'Women in Scripture' - Comprehensive biblical overview of women's contributions to biblical history. https://www.biblegateway.com/resources/scripture-engagement/women-scripture/home",
+    "5. [Academic Article] Scholer, David M. 'Women in Ministry: A Biblical Analysis.' In Discovering Biblical Equality, edited by Ronald W. Pierce and Rebecca Merrill Groothuis. InterVarsity Press, 2005.",
+    "6. [Academic Commentary] Thiselton, Anthony C. The First Epistle to the Corinthians: A Commentary on the Greek Text. Eerdmans, 2000. Pages 1146-1162. Expert commentary on 1 Corinthians 14:34-35.",
+    "7. [Academic Commentary] Mounce, William D. Pastoral Epistles. Word Biblical Commentary. Thomas Nelson, 2000. Pages 130-143. Scholarly analysis of 1 Timothy 2:11-15 in context.",
+    "8. [Academic Article] Belleville, Linda L. 'Teaching and Usurping Authority: 1 Timothy 2:11-15.' In Discovering Biblical Equality, edited by Ronald W. Pierce. InterVarsity Press, 2005.",
+    "9. [Academic Book] Keener, Craig S. Paul, Women, and Wives: Marriage and Women's Ministry in the Letters of Paul. Hendrickson, 1992. Comprehensive examination of Paul's teachings on women.",
+    "10. [Ministry Resource] CARM - 'Women and Head Coverings' - Biblical analysis of 1 Corinthians 11:2-16 and its interpretation. https://carm.org/about-doctrine/should-women-wear-head-coverings/",
+    "11. [Ministry Resource] GotQuestions.org - 'Should Christian Women Wear Head Coverings?' - Comprehensive biblical analysis of head covering passage. https://www.gotquestions.org/head-coverings.html",
+    "12. [Academic Commentary] Blomberg, Craig L. 'Neither Hierarchicalist nor Egalitarian: Gender Roles and 1 Corinthians 11:2-16.' In Women, Ministry & the Gospel, edited by Mark Husbands and Timothy Larsen. InterVarsity Press, 2007.",
+    "13. [Academic Book] Grenz, Stanley J. Women in the Church: A Biblical Theology of Women in Ministry. InterVarsity Press, 1995. Theological examination of women's roles in church ministry.",
+    "14. [Ministry Resource] Council on Biblical Manhood and Womanhood - Biblical perspective on complementarian view of gender roles. https://cbmw.org/",
+    "15. [Academic Book] Spencer, Aída Besançon. Beyond the Curse: Women Called to Ministry. Hendrickson, 1985. Egalitarian perspective on women's ministry roles.",
+    "16. [Academic Commentary] Lincoln, Andrew T. Ephesians. Word Biblical Commentary. Nelson, 1990. Pages 360-378. Scholarly analysis of Ephesians 5:21-33 on marriage roles.",
+    "17. [Academic Book] Tucker, Ruth A. Women in the Maze: Questions and Answers on Biblical Equality. InterVarsity Press, 1992. Analysis of women's roles and biblical interpretation.",
+    "18. [Academic Book] James, Carolyn Custis. Half the Church: Recapturing God's Global Vision for Women. Zondervan, 2011. Examination of women's contributions to Christian mission.",
+    "19. [Academic Book] Piper, John, and Wayne Grudem, eds. Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism. Crossway, 1991. Complementarian perspective on gender roles.",
+    "20. [Ministry Resource] Ligonier Ministries - 'Biblical Womanhood' - Reformed perspective on women's roles and dignity. https://www.ligonier.org/learn/articles/biblical-womanhood",
+    "21. [Academic Book] Evans, Mary J. Woman in the Bible: An Overview of All the Crucial Passages on Women's Roles. InterVarsity Press, 1983. Comprehensive biblical analysis.",
+    "22. [Ministry Resource] The Gospel Coalition - 'Women's Roles' - Collection of articles on biblical womanhood and ministry. https://www.thegospelcoalition.org/topics/womens-roles/",
+    "23. [Academic Book] Witherington, Ben. Women in the Earliest Churches. Cambridge University Press, 1988. Historical study of women's roles in early Christianity.",
+    "24. [Bible Study Resource] Blue Letter Bible - 'Women in the Bible' - Biblical concordance and study tools for women's roles. https://www.blueletterbible.org/study/misc/women_bible.cfm",
+    "25. [Academic Article] Köstenberger, Andreas J. 'A Complex Sentence Structure in 1 Timothy 2:12.' In Women in the Church, 3rd ed. Crossway, 2016. Technical analysis of the Greek text.",
+    "26. [Ministry Resource] Desiring God - 'Biblical Womanhood Resources' - Collection of articles on women's roles from a complementarian perspective. https://www.desiringgod.org/topics/biblical-womanhood",
+    "27. [Academic Book] Sumner, Sarah. Men and Women in the Church: Building Consensus on Christian Leadership. InterVarsity Press, 2003. Balanced examination of gender roles.",
+    "28. [Academic Commentary] Fee, Gordon D. The First Epistle to the Corinthians. Eerdmans, 1987. Pages 491-530. Commentary on 1 Corinthians 11:2-16 and 14:34-35.",
+    "29. [Academic Book] Stackhouse, John G. Finally Feminist: A Pragmatic Christian Understanding of Gender. Baker Academic, 2005. Moderate approach to women's roles in Christianity."
+  ],
+  lastUpdated: "09-09-2025",
 }
 

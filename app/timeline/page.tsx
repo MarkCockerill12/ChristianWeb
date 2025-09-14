@@ -305,23 +305,24 @@ export default function TimelinePage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
-      <div className="container max-w-6xl mx-auto px-4">
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Biblical Timeline</h1>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-4">Biblical Timeline</h1>
+          <p className="text-lg sm:text-xl text-gray-600 max-w-4xl mx-auto">
             A timeline of important biblical and Christian related events, from Creation to the early church.
           </p>
+        </div>
 
         {/* Search and Period Filter */}
-        <div className="mb-8 flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+        <div className="mb-8 flex flex-col gap-4">
           {/* Search input */}
           <input
             type="text"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Search events..."
-            className="w-full md:w-80 px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+            className="w-full px-4 py-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400 text-base"
           />
           {/* Period filter buttons */}
           <div className="flex flex-wrap justify-center gap-2">
@@ -331,7 +332,7 @@ export default function TimelinePage() {
                 variant={selectedPeriod === period ? "default" : "outline"}
                 size="sm"
                 onClick={() => setSelectedPeriod(period)}
-                className="mb-2"
+                className="text-xs sm:text-sm"
               >
                 {period}
               </Button>
@@ -340,31 +341,24 @@ export default function TimelinePage() {
         </div>
 
         {/* Timeline */}
-        <div className="relative py-16 pl-4">
-          {/* Timeline line - positioned further to the right */}
-          <div className="absolute left-44 top-0 bottom-0 w-1 bg-gradient-to-b from-purple-400 to-blue-400 z-0 rounded-full"></div>
+        <div className="relative py-8">
+          {/* Timeline line - positioned to avoid date overlap */}
+          <div className="hidden md:block absolute left-[136px] lg:left-[166px] top-0 bottom-0 w-1 bg-gradient-to-b from-purple-400 to-blue-400 z-0 rounded-full"></div>
 
           {/* Timeline events */}
-          <div className="flex flex-col gap-20">
+          <div className="flex flex-col gap-8 md:gap-16">
             {filteredEvents.map((event) => (
-              <div key={event.id} className="relative flex items-center w-full">
-                {/* Date badge - positioned to the left */}
-                <div className="flex-shrink-0 w-36 text-right pr-4">
-                  <span className="bg-white border-2 border-blue-400 text-blue-700 font-bold px-3 py-1 rounded-full shadow-md text-xs whitespace-nowrap inline-block">
-                    {event.date}
-                  </span>
-                </div>
-                
-                {/* Timeline dot - small circle on the line */}
-                <div className="flex-shrink-0 relative z-10 mr-6">
-                  <div className={`w-3 h-3 rounded-full border-2 border-white shadow-lg bg-${event.color}-500`}></div>
-                </div>
-                
-                {/* Event card - positioned further to the right */}
-                <div className="flex-1 max-w-2xl ml-4">
+              <div key={event.id} className="relative">
+                {/* Mobile Layout - only on screens smaller than md */}
+                <div className="block md:hidden">
+                  <div className="mb-3">
+                    <span className="bg-white border-2 border-blue-400 text-blue-700 font-bold px-2 py-1 rounded-full shadow-md text-xs">
+                      {event.date}
+                    </span>
+                  </div>
                   <Card className="hover:shadow-lg transition-shadow duration-300">
                     <CardHeader className="pb-3">
-                      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+                      <div className="flex flex-col gap-2">
                         <div>
                           <CardTitle className="text-lg">{event.title}</CardTitle>
                           <div className="flex items-center gap-4 text-sm text-gray-600 mt-1">
@@ -415,26 +409,96 @@ export default function TimelinePage() {
                     </CardContent>
                   </Card>
                 </div>
+
+                {/* Desktop Layout - fixed positioning to prevent overlapping */}
+                <div className="hidden md:flex items-center w-full relative">
+                  {/* Date badge - fixed width with proper spacing */}
+                  <div className="flex-shrink-0 w-32 lg:w-40 text-right pr-4">
+                    <span className="bg-white border-2 border-blue-400 text-blue-700 font-bold px-2 lg:px-3 py-1 rounded-full shadow-md text-xs whitespace-nowrap inline-block">
+                      {event.date}
+                    </span>
+                  </div>
+                  
+                  {/* Timeline dot - centered on the line */}
+                  <div className="absolute left-[132px] lg:left-[162px] z-10">
+                    <div className="w-3 h-3 rounded-full border-2 border-white shadow-lg bg-black"></div>
+                  </div>
+                  
+                  {/* Event card - positioned after dot with margin */}
+                  <div className="flex-1 max-w-4xl ml-8 lg:ml-12">
+                    <Card className="hover:shadow-lg transition-shadow duration-300">
+                      <CardHeader className="pb-3">
+                        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+                          <div>
+                            <CardTitle className="text-lg">{event.title}</CardTitle>
+                            <div className="flex items-center gap-4 text-sm text-gray-600 mt-1">
+                              <Badge variant="secondary" className="text-xs">{event.period}</Badge>
+                            </div>
+                          </div>
+                        </div>
+                        <CardDescription className="text-sm">{event.description}</CardDescription>
+                      </CardHeader>
+                      <CardContent className="pt-0">
+                        <div className="space-y-3">
+                          {/* Bible verses */}
+                          <div>
+                            <h4 className="font-semibold text-xs text-gray-700 mb-1 flex items-center gap-1">
+                              <BookOpen className="h-3 w-3" />
+                              Key Verses
+                            </h4>
+                            <div className="flex flex-wrap gap-1">
+                              {event.verses.map((verse) => (
+                                <Badge key={verse} variant="outline" className="text-xs px-2 py-0">
+                                  {verse}
+                                </Badge>
+                              ))}
+                            </div>
+                          </div>
+                          {/* Significance */}
+                          <div>
+                            <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
+                            <p className="text-xs text-gray-600">{event.significance}</p>
+                          </div>
+                          {/* Expandable archaeological evidence */}
+                          <div>
+                            <Button
+                              variant="ghost"
+                              size="sm"
+                              onClick={() => setExpandedEvent(expandedEvent === event.id ? null : event.id)}
+                              className="p-0 h-auto font-semibold text-xs text-blue-600 hover:text-blue-800"
+                            >
+                              Archaeological Evidence {expandedEvent === event.id ? "▼" : "▶"}
+                            </Button>
+                            {expandedEvent === event.id && (
+                              <div className="mt-2 p-2 bg-blue-50 rounded-lg">
+                                <p className="text-xs text-gray-700">{event.archaeological}</p>
+                              </div>
+                            )}
+                          </div>
+                        </div>
+                      </CardContent>
+                    </Card>
+                  </div>
+                </div>
               </div>
             ))}
           </div>
         </div>
 
         {/* Call to action */}
-          <div className="mt-16 text-center">
-            <Card className="bg-gradient-to-r from-blue-600 to-purple-600 text-white">
-              <CardContent className="py-8">
-                <h3 className="text-2xl font-bold mb-4">Explore the Evidence Further</h3>
-                <p className="mb-6 opacity-90">
-                  Each event in biblical history is supported by archaeological and historical evidence. Dive deeper into
-                  specific topics and discover how history confirms Scripture.
-                </p>
-                <Button asChild variant="secondary" size="lg">
-                  <Link href="/categories">Browse Apologetics Topics</Link>
-                </Button>
-              </CardContent>
-            </Card>
-          </div>
+        <div className="mt-16 text-center">
+          <Card className="bg-gradient-to-r from-blue-600 to-purple-600 text-white">
+            <CardContent className="py-8">
+              <h3 className="text-2xl font-bold mb-4">Explore the Evidence Further</h3>
+              <p className="mb-6 opacity-90">
+                Each event in biblical history is supported by archaeological and historical evidence. Dive deeper into
+                specific topics and discover how history confirms Scripture.
+              </p>
+              <Button asChild variant="secondary" size="lg">
+                <Link href="/categories">Browse Apologetics Topics</Link>
+              </Button>
+            </CardContent>
+          </Card>
         </div>
       </div>
     </div>

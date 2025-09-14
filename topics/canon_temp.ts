@@ -1,30 +1,4 @@
-import type { Topic, TimelineEvent } from './types'
-
-// Timeline data for biblical canon development
-export const canonTimeline: TimelineEvent[] = [
-  { id: 1, date: "c. 1445-1405 BC", title: "Moses Writes the Torah", period: "Old Testament Formation", color: "blue", description: "Moses authors the Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy) during Israel's wilderness wanderings. Genesis records events from creation to Joseph's death, while Exodus through Deuteronomy chronicles Israel's deliverance from Egypt and the giving of the Law.", significance: "Establishes the foundational covenant documents and legal framework for Israel; first canonical Scripture" },
-  { id: 2, date: "c. 1010-970 BC", title: "David Composes Psalms", period: "Old Testament Formation", color: "blue", description: "King David writes approximately 73 of the 150 Psalms during his reign, including Psalm 23 (The Lord is my shepherd) and many messianic psalms. These worship songs express the full range of human emotion in relationship with God.", significance: "Establishes divinely inspired worship literature; many psalms are prophetically messianic" },
-  { id: 3, date: "c. 971-931 BC", title: "Solomon's Wisdom Literature", period: "Old Testament Formation", color: "blue", description: "King Solomon authors most of Proverbs (practical wisdom for daily living), Ecclesiastes (the vanity of life apart from God), and Song of Songs (celebrating marital love). He also writes Psalm 72 and Psalm 127.", significance: "Provides divinely inspired wisdom for practical Christian living and relationships" },
-  { id: 4, date: "c. 760-586 BC", title: "Major Prophetic Books", period: "Old Testament Formation", color: "blue", description: "Isaiah (c. 740-680 BC) writes 66 chapters of messianic prophecy and judgment. Jeremiah (c. 627-580 BC) authors his prophecy and Lamentations. Ezekiel (c. 593-571 BC) records visions from Babylonian exile. Daniel (c. 605-536 BC) writes apocalyptic prophecy.", significance: "Provides detailed messianic prophecies and warnings of judgment; establishes prophetic genre" },
-  { id: 5, date: "c. 520-400 BC", title: "Post-Exile Restoration Books", period: "Old Testament Formation", color: "blue", description: "Post-exile prophets write final Old Testament books: Haggai and Zechariah (520-518 BC) encourage temple rebuilding; Malachi (c. 430-400 BC) addresses spiritual renewal. Chronicles, Ezra, and Nehemiah record Israel's history and restoration.", significance: "Completes Hebrew Scripture; closes Old Testament canon with promise of coming Messiah (Malachi 3:1, 4:5-6)" },
-  { id: 6, date: "c. 400 BC", title: "Hebrew Canon Closes", period: "Canon Recognition", color: "green", description: "Jewish authorities recognize the cessation of prophetic revelation with Malachi's ministry. The Hebrew canon is established at 24 books (equivalent to Protestant 39, divided differently), comprising the Law (Torah), Prophets (Nevi'im), and Writings (Ketuvim).", significance: "Formal closure of Old Testament revelation; establishes boundaries of Hebrew Scripture that Jesus would later affirm" },
-  { id: 7, date: "c. 280-130 BC", title: "Septuagint Translation", period: "Canon Recognition", color: "orange", description: "Hebrew Bible translated into Greek in Alexandria, Egypt, for Greek-speaking Jewish communities. Some manuscripts include deuterocanonical books (Tobit, Judith, Wisdom, etc.), though this inclusion varied between manuscripts and was not universally accepted.", significance: "Makes Scripture accessible to diaspora Jews and later Gentile Christians; provides Greek text for New Testament quotations" },
-  { id: 8, date: "c. 49-96 AD", title: "New Testament Books Written", period: "New Testament Formation", color: "purple", description: "All 27 New Testament books authored during apostolic era: Paul's letters (49-67 AD), Gospels of Matthew, Mark, Luke (50-85 AD), Acts (60-62 AD), Hebrews, James, Peter's letters, Jude (50-85 AD), John's Gospel and letters (85-95 AD), and Revelation (95-96 AD).", significance: "Completes divine revelation through apostolic witnesses; fulfills Jesus' promise of the Holy Spirit guiding into all truth" },
-  { id: 9, date: "c. 90-100 AD", title: "Council of Jamnia Discussion", period: "Canon Recognition", color: "green", description: "Jewish scholars discuss and reaffirm Hebrew canon boundaries in response to destruction of the Temple (70 AD) and Christian claims. They confirm the 24-book Hebrew canon, explicitly excluding deuterocanonical books and Christian writings.", significance: "Post-Temple Judaism solidifies canonical boundaries; establishes Masoretic text tradition" },
-  { id: 10, date: "c. 170-200 AD", title: "Muratorian Fragment", period: "Canon Recognition", color: "green", description: "Earliest known canonical list includes 22 of 27 New Testament books, explicitly naming Matthew, Luke, John, Acts, 13 Pauline letters, Jude, 1-2 John, Revelation, and Wisdom of Solomon. Notable omissions include Hebrews, James, 1-2 Peter, and 3 John.", significance: "Demonstrates early widespread recognition of apostolic authorship as canonical criterion" },
-  { id: 11, date: "367 AD", title: "Athanasius' 39th Festal Letter", period: "Canon Recognition", color: "green", description: "Bishop Athanasius of Alexandria provides the first complete list matching our 27-book New Testament canon, stating these are 'fountains of salvation' and warning against adding apocryphal books. He distinguishes between canonical books and those 'merely read' for instruction.", significance: "First complete and exact listing of New Testament canon; establishes clear boundary between Scripture and church literature" },
-  { id: 12, date: "382 AD", title: "Synod of Rome under Pope Damasus", period: "Canon Recognition", color: "green", description: "Pope Damasus I formally approves a biblical canon including 73 books: 46 Old Testament books (including deuterocanonicals like Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees) plus 27 New Testament books. This represents early Catholic canonical position.", significance: "First papal endorsement of expanded Old Testament canon including deuterocanonical books" },
-  { id: 13, date: "393-419 AD", title: "North African Councils", period: "Canon Recognition", color: "green", description: "Councils of Hippo (393 AD) and Carthage (397, 419 AD) ratify 73-book canon matching Rome's decision. These regional councils strongly influenced later Catholic canonical decisions, though they lacked universal church authority.", significance: "Regional ecclesiastical support for expanded canon; influences later Catholic position at Trent" },
-  { id: 14, date: "382-405 AD", title: "Jerome's Vulgate Translation", period: "Canon Recognition", color: "orange", description: "Scholar Jerome translates Bible into Latin Vulgate, completing Old Testament by 405 AD. Despite papal pressure, Jerome distinguishes between 'canonical books' (Hebrew canon) and 'ecclesiastical books' (deuterocanonicals), placing latter in separate category for edification but not doctrine.", significance: "Scholarly distinction between levels of canonical authority; Hebrew text tradition preserved" },
-  { id: 15, date: "October 31, 1517 AD", title: "Luther's 95 Theses Posted", period: "Protestant Reformation", color: "red", description: "Martin Luther posts 95 theses challenging papal authority and indulgences at Wittenberg Castle Church. While not directly addressing canon, Luther's 'sola scriptura' principle (Scripture alone as ultimate authority) fundamentally challenges Catholic additions to biblical canon.", significance: "Establishes Scripture as sole religious authority, laying groundwork for Protestant canonical decisions" },
-  { id: 16, date: "1522-1534 AD", title: "Luther's German Bible", period: "Protestant Reformation", color: "red", description: "Luther translates Bible into German, completing full Bible in 1534. He places deuterocanonical books (Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees) in separate 'Apocrypha' section, stating they are 'useful and good to read' but not equal to Scripture.", significance: "Establishes Protestant precedent for distinguishing canonical from apocryphal texts" },
-  { id: 17, date: "April 8, 1546 AD", title: "Council of Trent Session IV", period: "Counter-Reformation", color: "darkred", description: "Catholic Church's Council of Trent dogmatically declares 73-book canon including deuterocanonicals as 'sacred and canonical' in direct response to Protestant challenges. Declares anathema (excommunication) on anyone rejecting these books as Scripture.", significance: "Catholic canon dogmatically established; creates permanent Catholic-Protestant canonical divide" },
-  { id: 18, date: "1560 AD", title: "Geneva Bible Published", period: "Protestant Reformation", color: "red", description: "English Protestant Bible translated by Reformed scholars in Geneva completely excludes deuterocanonical books from both text and appendix. Becomes popular among English Puritans and influences later Protestant translations.", significance: "First major English Bible to completely exclude apocryphal books; solidifies Protestant 66-book canon" },
-  { id: 19, date: "1611 AD", title: "King James Version Authorized", period: "Protestant Reformation", color: "red", description: "Authorized Version commissioned by King James I includes deuterocanonical books in separate 'Apocrypha' section between Old and New Testaments. While included, these books are clearly distinguished as non-canonical but historically valuable.", significance: "Establishes English-speaking Protestant standard while maintaining historical acknowledgment of disputed books" },
-  { id: 20, date: "1825 AD", title: "British & Foreign Bible Society Decision", period: "Modern Era", color: "gray", description: "British & Foreign Bible Society votes to exclude Apocrypha from all Bible distributions after heated debate. This decision is followed by American Bible Society (1827) and other Protestant organizations, making 66-book Bibles standard in Protestant missions worldwide.", significance: "Practical elimination of deuterocanonical books from Protestant Bible distribution; establishes global Protestant standard" },
-  { id: 21, date: "July 18, 1870 AD", title: "First Vatican Council - Pastor Aeternus", period: "Modern Era", color: "darkred", description: "Vatican I's constitution Pastor Aeternus declares papal infallibility in matters of faith and morals, indirectly reinforcing Trent's canonical decisions as irreversible dogma. This makes any future change to Catholic canon impossible without contradicting papal infallibility.", significance: "Entrenches Catholic 73-book canon as irreversible dogma through papal infallibility doctrine" },
-  { id: 22, date: "November 18, 1965 AD", title: "Dei Verbum Constitution", period: "Modern Era", color: "darkred", description: "Second Vatican Council's Dogmatic Constitution on Divine Revelation (Dei Verbum) reaffirms Catholic canonical decisions and emphasizes Scripture's role alongside Sacred Tradition. Maintains 73-book canon while promoting biblical scholarship and vernacular translations.", significance: "Modern Catholic reaffirmation of Trent's canon within framework of contemporary biblical scholarship" }
-]
+import type { Topic } from './types'
 
 export const canon: Topic = {
   id: "canon",
@@ -36,6 +10,416 @@ export const canon: Topic = {
   content: `
     <h3>The Biblical Canon: How We Know Which Books Are Scripture</h3>
     <p>The word "canon" comes from the Greek word "kanon," meaning "rule" or "measuring rod"<a href="https://www.thegospelcoalition.org/essay/canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>. The biblical canon represents the authoritative collection of books that comprise Scripture<a href="https://www.ligonier.org/learn/articles/how-did-we-get-our-bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>. Understanding which books belong in the Bible and why is crucial for establishing the foundation of Christian faith and doctrine.</p>
+
+    <h4>Criteria for Canonicity</h4>
+    <p>Early church leaders used several key criteria to determine which books were truly inspired Scripture<a href="https://www.thegospelcoalition.org/essay/canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a> <a href="https://www.ligonier.org/learn/articles/how-did-we-get-our-bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>:</p>
+    <p>• <strong>Apostolicity:</strong> Written by apostles or their close associates<a href="https://www.thegospelcoalition.org/essay/canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a></p>
+    <p>• <strong>Orthodoxy:</strong> Consistent with established apostolic teaching<a href="https://www.ligonier.org/learn/articles/how-did-we-get-our-bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• <strong>Catholicity:</strong> Accepted by churches universally<a href="https://www.thegospelcoalition.org/essay/canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a></p>
+    <p>• <strong>Antiquity:</strong> Written during the apostolic era<a href="https://www.ligonier.org/learn/articles/how-did-we-get-our-bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+
+    <h4>The Protestant Canon: 66 Books</h4>
+    <p>The Protestant Bible contains 66 books, which scholars believe represents the complete inspired Scripture<a href="https://www.thegospelcoalition.org/essay/canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a> <a href="https://www.ligonier.org/learn/articles/how-did-we-get-our-bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>. This canon was recognized (not created) by early church councils and represents the books that consistently met all criteria for divine inspiration<a href="https://www.gotquestions.org/Bible-canon.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>.</p>
+
+    <h4>The Deuterocanonical Books</h4>
+    <p>The Catholic Bible includes additional texts, often referred to as the Deuterocanonical books, bringing the total to 73<a href="https://www.catholic.com/tract/the-deuterocanonical-books" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>. These books include Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch, and 1 and 2 Maccabees. While valued by Catholics, Protestant scholars maintain these texts should not be considered Scripture due to historical, theological, and canonical concerns. For a detailed analysis of why these books are not included in the Protestant canon, see the Deuterocanonical Books section below.</p>
+
+    <h4>Conclusion</h4>
+    <p>The careful process of canonical recognition preserved for us the authentic apostolic writings while rejecting later forgeries, theological deviations, and legendary embellishments<a href="https://www.thegospelcoalition.org/essay/canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a> <a href="https://www.ligonier.org/learn/articles/how-did-we-get-our-bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>. The 66 books of the Protestant Bible represent the complete revelation God intended to preserve for His church, confirmed by their apostolic origin, doctrinal orthodoxy, universal acceptance, and divine attestation<a href="https://gotquestions.org/Bible-canon.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>.</p>
+
+
+
+
+1400-1050 BC</span>
+            </div>
+
+</div>
+            </div>
+
+
+Historical Books Written</h5>
+Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles written by various prophets and historians</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+1010-970 BC</span>
+            </div>
+
+</div>
+            </div>
+
+
+David's Psalms</h5>
+King David writes approximately 73 psalms; other psalmists contribute throughout this period</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+970-930 BC</span>
+            </div>
+
+</div>
+            </div>
+
+
+Solomon's Wisdom Literature</h5>
+Proverbs, Ecclesiastes, Song of Solomon, and some Psalms written by King Solomon</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+800-430 BC</span>
+            </div>
+
+</div>
+            </div>
+
+
+Prophetic Books Written</h5>
+Major and Minor Prophets: Isaiah, Jeremiah, Ezekiel, Daniel, Hosea through Malachi</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+430 BC</span>
+            </div>
+
+</div>
+            </div>
+
+
+Old Testament Canon Closed</h5>
+Malachi completes the Hebrew Bible (Tanakh) with 24 books (39 in Protestant arrangement)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+250-150 BC</span>
+            </div>
+
+</div>
+            </div>
+
+
+Septuagint Translation</h5>
+Hebrew Bible translated into Greek; some manuscripts include deuterocanonical books</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+50-65 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+New Testament Begins</h5>
+James (50 AD), Galatians (49-50 AD), and 1 Thessalonians (51 AD) among first NT books written</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+60-70 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Gospels Written</h5>
+Mark (60-65 AD), Matthew (60-70 AD), Luke (60-62 AD) written by apostolic authors</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+60-95 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Paul's Epistles Completed</h5>
+Romans through Philemon written by Apostle Paul during his ministry</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+85-95 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Final Apostolic Writings</h5>
+John's Gospel, 1-3 John, and Revelation complete the New Testament canon</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+140 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Marcion's Heretical Canon</h5>
+Marcion creates truncated canon (Luke + 10 Paul letters), prompting orthodox response</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+170 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Muratorian Fragment</h5>
+Earliest known New Testament canon list recognizes 22 of 27 books</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+200 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Clement of Alexandria</h5>
+Recognizes most NT books; distinguishes between Scripture and deuterocanonical works</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+220 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Origen's Canon List</h5>
+Distinguishes between acknowledged, disputed, and spurious books</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+303 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Diocletian Persecution</h5>
+Christians forced to surrender Scripture; reinforces need for clear canonical boundaries</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+325 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Council of Nicaea</h5>
+Addresses Arian heresy; implicit recognition of canonical authority in theological decisions</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+367 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Athanasius' Festal Letter</h5>
+First complete list of all 27 New Testament books as canonical Scripture</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+382 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Council of Rome</h5>
+Pope Damasus I confirms 27 New Testament books and commissions Jerome's Vulgate</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+393 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Council of Hippo</h5>
+North African bishops formally recognize 27-book New Testament canon</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+397 & 419 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Councils of Carthage</h5>
+Reaffirm 27-book NT canon; establish authoritative biblical boundaries</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+405 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Jerome's Vulgate Completed</h5>
+Latin Bible translation explicitly distinguishes canonical from apocryphal books</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+1546 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Council of Trent</h5>
+Catholic Church adds deuterocanonical books to canon in response to Protestant Reformation</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+1647 AD</span>
+            </div>
+
+</div>
+            </div>
+
+
+Westminster Confession</h5>
+Protestant churches formally affirm 66-book canon as complete Scripture</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
 
     <h4>Criteria for Canonicity</h4>
     <p>Early church leaders used several key criteria to determine which books were truly inspired Scripture<a href="https://www.thegospelcoalition.org/essay/canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a> <a href="https://www.ligonier.org/learn/articles/how-did-we-get-our-bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>:</p>
@@ -315,6 +699,5 @@ export const canon: Topic = {
     "43. [Ministry Organization] Got Questions - Infancy Gospel of Thomas. https://www.gotquestions.org/Infancy-Gospel-Thomas.html",
     "44. [Academic Resource] Early Christian Writings - Acts of John. https://www.earlychristianwritings.com/actsjohn.html"
   ],
-  timeline: canonTimeline,
   lastUpdated: "09-09-2025"
 }

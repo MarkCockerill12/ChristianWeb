@@ -150,7 +150,7 @@ const resources = {
 export default function ResourcesPage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
-      <div className="container max-w-6xl mx-auto px-4">
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Resources &amp; References</h1>
@@ -166,7 +166,7 @@ export default function ResourcesPage() {
             <BookOpen className="h-8 w-8 text-blue-600" />
             <h2 className="text-3xl font-bold text-gray-900">Essential Books</h2>
           </div>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
             {resources.books.map((book) => (
               <Card key={book.title} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
@@ -193,7 +193,7 @@ export default function ResourcesPage() {
             <ExternalLink className="h-8 w-8 text-green-600" />
             <h2 className="text-3xl font-bold text-gray-900">Helpful Websites</h2>
           </div>
-          <div className="grid md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 sm:gap-6">
             {resources.websites.map((site) => (
               <Card key={site.url} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
@@ -222,7 +222,7 @@ export default function ResourcesPage() {
             <Video className="h-8 w-8 text-red-600" />
             <h2 className="text-3xl font-bold text-gray-900">Video Resources</h2>
           </div>
-          <div className="grid md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 sm:gap-6">
             {resources.videos.map((video) => (
               <Card key={video.title} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
@@ -247,7 +247,7 @@ export default function ResourcesPage() {
             <Headphones className="h-8 w-8 text-purple-600" />
             <h2 className="text-3xl font-bold text-gray-900">Podcasts</h2>
           </div>
-          <div className="grid md:grid-cols-2 gap-6">
+          <div className="grid grid-cols-1 lg:grid-cols-2 xl:grid-cols-3 gap-4 sm:gap-6">
             {resources.podcasts.map((podcast) => (
               <Card key={podcast.title} className="hover:shadow-lg transition-shadow duration-300">
                 <CardHeader>
@@ -271,7 +271,7 @@ export default function ResourcesPage() {
             <GraduationCap className="h-8 w-8 text-indigo-600" />
             <h2 className="text-3xl font-bold text-gray-900">Academic Resources</h2>
           </div>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
             <Card>
               <CardHeader>
                 <CardTitle className="text-lg">Journal Articles</CardTitle>

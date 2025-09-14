@@ -9,7 +9,7 @@ import { Footer } from "@/components/footer"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Faith & Reason - Christian Apologetics",
+  title: "Cross Examination - Christian Apologetics",
   description:
     "Exploring the historical accuracy and truth claims of Christianity through evidence, scholarship, and honest inquiry.",
 }

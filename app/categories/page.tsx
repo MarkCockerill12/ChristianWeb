@@ -5,7 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { Search, BookOpen, AlertTriangle, Heart, Microscope, History, Scale, Globe, Zap, Shield } from "lucide-react"
+import { Search, BookOpen, AlertTriangle, Heart, Microscope, History, Scale, Globe, Zap, Shield, Cross, Flame, Scroll, Church, Atom, Mountain, Crown, Users, Brain, Gavel } from "lucide-react"
 import Link from "next/link"
 import { getAllTopics } from "@/lib/getTopics"
 
@@ -23,6 +23,16 @@ const iconMap = {
   Globe,
   Zap,
   Shield,
+  Cross,
+  Flame,
+  Scroll,
+  Church,
+  Atom,
+  Mountain,
+  Crown,
+  Users,
+  Brain,
+  Gavel,
 }
 
 // Convert topics to the format expected by the UI
@@ -31,22 +41,7 @@ const categories = availableTopics.map(topic => ({
   icon: iconMap[topic.icon as keyof typeof iconMap] || BookOpen,
 }))
 
-/* 
-TOPICS THAT NEED INDIVIDUAL FILES CREATED:
-- Evolution vs. Creation (evolution-creation)
 
-- Christianity and Homosexuality (homosexuality)
-
-do you need to be baptised to be saved?
-
-free will
-
-all prophecies fulfilled
-
-why did God put the tree of knowledge in the garden?
-
-
-*/
 
 
 
@@ -66,11 +61,11 @@ export default function CategoriesPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
-      <div className="container max-w-6xl mx-auto px-4">
+      <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">Apologetics Topics</h1>
-          <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-4">Apologetics Topics</h1>
+          <p className="text-lg sm:text-xl text-gray-600 max-w-5xl mx-auto">
             Comprehensive answers to common questions, objections, and challenges to the Christian faith. Each topic is
             thoroughly researched with biblical, historical, and philosophical perspectives.
           </p>
@@ -97,8 +92,8 @@ export default function CategoriesPage() {
           </p>
         </div>
 
-        {/* Categories Grid */}
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {/* Categories Grid - Responsive with dynamic columns */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 sm:gap-6">
           {filteredCategories.map((category) => {
             const Icon = category.icon
             return (
