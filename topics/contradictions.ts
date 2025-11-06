@@ -115,11 +115,11 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
   ],
   sources: [
     // Christian Apologetics Resources
-    "1. [Christian Apologetics] ChristianAnswers.net. 'Biblical difficulties and apparent contradictions explained.' https://www.christiananswers.netwww.christiananswers.net",
+    "1. [Christian Apologetics] ChristianAnswers.net. 'Biblical difficulties and apparent contradictions explained.' https://www.christiananswers.net",
     "2. [Apologetics Ministry] Christian Apologetics Research Ministry. 'Biblical difficulties and manuscript reliability.' https://carm.org",
     "3. [Bible Study Resource] Blue Letter Bible. 'Scripture interpretation and biblical hermeneutics.' https://www.blueletterbible.org",
     "4. [Apologetics Organization] Apologetics Press. 'Defending biblical accuracy and reliability.' https://www.apologeticspress.org",
-    "5. [Creation Ministry] Answers in Genesis. 'Biblical authority and scriptural harmonization.' https://answersingenesis.org/bible-questionsanswersingenesis.org/bible-questions",
+    "5. [Creation Ministry] Answers in Genesis. 'Biblical authority and scriptural harmonization.' https://answersingenesis.org/bible-questions",
     
     // Biblical Archaeology and Historical Context
     "6. [Archaeological Research] Biblical Archaeology Review. 'Archaeological evidence supporting biblical accounts.' https://www.biblicalarchaeology.org",
@@ -128,14 +128,14 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     "9. [Historical Research] Biblical Archaeological Society. 'Ancient Near Eastern context and biblical history.' https://www.biblicalarchaeology.org/daily",
     
     // Academic and Scholarly Sources
-    "10. [Academic Journal] Journal of Biblical Literature. 'Peer-reviewed biblical scholarship and textual criticism.' https://www.sbl-site.org/publications/jbl.aspx",
-    "11. [Biblical Studies] NET Bible. 'Scholarly articles on biblical interpretation and translation notes.' https://netbible.orgnetbible.org",
+    "10. [Academic Journal] Journal of Biblical Literature. 'Peer-reviewed biblical scholarship and textual criticism.' https://www.sbl-site.org/sbl-press/browse-journals/journal-of-biblical-literature/",
+    "11. [Biblical Studies] NET Bible. 'Scholarly articles on biblical interpretation and translation notes.' https://netbible.org",
     "12. [Academic Resource] Biblical Studies Online. 'University-level biblical scholarship and research.' https://www.biblicalstudies.org.uk",
     "13. [Theological Seminary] Dallas Theological Seminary. 'Conservative biblical scholarship and hermeneutics.' https://www.dts.edu",
     "14. [Academic Institution] Westminster Theological Seminary. 'Reformed biblical scholarship and interpretation.' https://www.wts.edu",
     
     // Translation and Manuscript Studies
-    "15. [Translation Resource] Bible Gateway. 'Multiple Bible translations and comparative analysis.' https://www.biblegateway.com",
+    "15. [Translation Resource] Bible Hub. 'Multiple Bible translations and comparative analysis.' https://biblehub.com",
     "16. [Manuscript Research] Center for the Study of New Testament Manuscripts. 'Ancient manuscript evidence and textual criticism.' http://www.csntm.org",
     "17. [Translation Studies] Bible Translation Committee Resources. 'Translation philosophy and methodology.' https://www.bibletranslation.ws",
     "18. [Textual Criticism] Evangelical Textual Criticism. 'Manuscript evidence and biblical text reliability.' http://evangelicaltextualcriticism.blogspot.com",

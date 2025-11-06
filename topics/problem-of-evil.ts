@@ -103,11 +103,11 @@ export const problemOfEvil: Topic = {
     "7. [Seminary] Westminster Theological Seminary. 'Reformed theology and problem of evil.' https://www.wts.edu",
     "8. [Seminary] The Southern Baptist Theological Seminary. 'Biblical theology and suffering.' https://www.sbts.edu",
     "9. [Seminary] Trinity Evangelical Divinity School. 'Evangelical theology and theodicy.' https://www.tiu.edu/divinity",
-    "10. [Seminary] Fuller Theological Seminary. 'Progressive evangelical theology and evil.' https://www.fuller.edu",
+    "10. [Seminary] Gordon-Conwell Theological Seminary. 'Evangelical theology and theodicy.' https://www.gordonconwell.edu",
     
     // Biblical Study Resources
     "11. [Bible Study] Blue Letter Bible - Problem of Evil. 'Biblical passages on suffering and God's sovereignty.' https://www.blueletterbible.org",
-    "12. [Bible Study] Bible Gateway - Suffering. 'Scripture search and study tools on evil and suffering.' https://www.biblegateway.com",
+    "12. [Bible Study] OpenBible.info - Suffering. 'Scripture search and topical studies on evil and suffering.' https://www.openbible.info",
     "13. [Bible Study] Bible Hub - Theodicy. 'Interlinear study of biblical texts on suffering.' https://biblehub.com",
     "14. [Bible Study] NET Bible - Evil and Suffering. 'Academic translation with notes on suffering passages.' https://netbible.org",
     "15. [Bible Study] ESV Study Bible - Problem of Evil. 'Reformed study notes on suffering and sovereignty.' https://www.esv.org",
@@ -117,7 +117,7 @@ export const problemOfEvil: Topic = {
     "17. [Philosophy] Internet Encyclopedia of Philosophy - Evil. 'Comprehensive philosophical treatment of evil problem.' https://iep.utm.edu",
     "18. [Academic] Philosophia Christi - Theodicy. 'Peer-reviewed articles on Christian philosophy of evil.' https://www.epsociety.org",
     "19. [Academic] Society of Christian Philosophers. 'Christian philosophical responses to evil problem.' https://www.societyofchristianphilosophers.com",
-    "20. [Philosophy] The Blackwell Companion to Natural Theology. 'Academic treatment of natural theology and evil.' https://www.blackwellreference.com",
+    "20. [Philosophy] The Blackwell Companion to Natural Theology. 'Academic treatment of natural theology and evil.' https://onlinelibrary.wiley.com",
     
     // Evangelical & Reformed Resources
     "21. [Evangelical] The Gospel Coalition - Problem of Evil. 'Reformed evangelical theology on suffering.' https://www.thegospelcoalition.org",
@@ -162,9 +162,9 @@ export const problemOfEvil: Topic = {
     // Specialized Academic Resources
     "51. [Academic] Journal of the Evangelical Theological Society. 'Peer-reviewed evangelical scholarship on evil.' https://www.etsjets.org",
     "52. [Academic] Tyndale Bulletin - Evil and Suffering. 'Academic biblical studies on suffering.' https://www.tyndale.cam.ac.uk",
-    "53. [Academic] Westminster Theological Journal. 'Reformed academic theology on evil.' https://www.wts.edu/resources/wtj",
-    "54. [Academic] Trinity Journal - Theodicy. 'Evangelical academic journal on evil problem.' https://www.tiu.edu/divinity/academics/trinity-journal"
+    "53. [Academic] Westminster Theological Journal. 'Reformed academic theology on evil.' https://www.wts.edu",
+    "54. [Academic] Trinity Journal - Theodicy. 'Evangelical academic journal on evil problem.' https://www.tiu.edu"
   ],
-  lastUpdated: "25/07/2025",
+  lastUpdated: "16/09/2025",
 }
 

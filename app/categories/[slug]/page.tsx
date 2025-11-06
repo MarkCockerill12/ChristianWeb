@@ -162,16 +162,13 @@ export default function CategoryPage({ params }: PageProps) {
   }
 
   const resolvedParams = use(params)
-  const category = getTopicById(resolvedParams.slug)
+  const baseCategory = getTopicById(resolvedParams.slug)
 
-  if (!category) {
+  if (!baseCategory) {
     notFound()
   }
 
-  // Add timeline data for specific topics
-  if (category.id === "canon") {
-    category.timeline = canonTimeline
-  }
+  const category = baseCategory.id === "canon" ? { ...baseCategory, timeline: canonTimeline } : baseCategory
 
   const [search, setSearch] = useState("")
   const [expanded, setExpanded] = useState<string | null>(null)
@@ -223,7 +220,7 @@ export default function CategoryPage({ params }: PageProps) {
                 </Badge>
               ))}
             </div>
-            <CardTitle className="text-3xl md:text-4xl">{category.title}</CardTitle>
+            <CardTitle className="text-fluid-3xl break-words hyphens-auto leading-tight">{category.title}</CardTitle>
             <CardDescription className="text-lg">{category.description}</CardDescription>
             <div className="flex items-center gap-2 text-sm text-gray-500 mt-4">
               <Calendar className="h-4 w-4" />
@@ -655,7 +652,7 @@ export default function CategoryPage({ params }: PageProps) {
                         </Link>
                       </div>
                     ) : (
-                      <span className="text-gray-700">{source}</span>
+                      <span className="text-gray-700 text-sm">{source}</span>
                     )}
                   </li>
                 );

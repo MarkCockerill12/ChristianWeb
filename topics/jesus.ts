@@ -124,23 +124,23 @@ Archaeological Evidence for Early Christian Worship
 
 1. Crucifixion Inscriptions and Graffiti
 
-**The Alexamenos Graffito (c. 85-95 AD)** - Found on Palatine Hill in Rome, this anti-Christian graffito shows a figure with a donkey's head on a cross, with the inscription "Alexamenos worships his god." This provides early evidence that Christians were known for worshipping the crucified Christ as divine <a href="https://www.biblicalarchaeology.org/daily/archaeology-today/biblical-archaeology-topics/the-alexamenos-graffito/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.
+**The Alexamenos Graffito (c. 85-95 AD)** - Found on Palatine Hill in Rome, this anti-Christian graffito shows a figure with a donkey's head on a cross, with the inscription "Alexamenos worships his god." This provides early evidence that Christians were known for worshipping the crucified Christ as divine <a href="https://en.wikipedia.org/wiki/Alexamenos_graffito" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.
 
 2. Early Christian Inscriptions
 
-**Chi-Rho Symbols** - Archaeological findings from the 2nd and 3rd centuries show widespread use of the Chi-Rho (☧) symbol, combining the first two letters of "Christ" in Greek, demonstrating early veneration of Jesus' divine status <a href="https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.
+**Chi-Rho Symbols** - Archaeological findings from the 2nd and 3rd centuries show widespread use of the Chi-Rho (☧) symbol, combining the first two letters of "Christ" in Greek, demonstrating early veneration of Jesus' divine status <a href="https://en.wikipedia.org/wiki/Chi_Rho" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.
 
 **Early Christian Epitaphs** - Catacomb inscriptions from Rome (2nd-3rd centuries) consistently refer to Jesus as "Lord" (Kyrios) and "Savior" (Soter), titles reserved for deities in the Roman world <a href="https://www.vatican.va/roman_curia/pontifical_commissions/archeo/inglese/documents/rc_com_archeo_doc_20011010_cataccrist_en.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>.
 
 3. Ancient Manuscripts
 
-**Papyrus P52 (c. 125 AD)** - The earliest known New Testament fragment contains **John 18:31-33, 37-38**, including Jesus' dialogue with Pilate about being a king, demonstrating early circulation of texts affirming Jesus' divine claims <a href="https://www.csntm.org/manuscript/GA_P52" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>.
+**Papyrus P52 (c. 125 AD)** - The earliest known New Testament fragment contains **John 18:31-33, 37-38**, including Jesus' dialogue with Pilate about being a king, demonstrating early circulation of texts affirming Jesus' divine claims <a href="https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>.
 
-**Papyrus P66 (c. 200 AD)** - Contains much of John's Gospel, including Jesus' "I AM" statements, showing these divine claims were preserved and circulated within 100 years of the original writing <a href="https://www.biblicalarchaeology.org/daily/biblical-texts/bible-manuscripts/how-long-were-the-original-new-testament-autographs-in-use/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>.
+**Papyrus P66 (c. 200 AD)** - Contains much of John's Gospel, including Jesus' "I AM" statements, showing these divine claims were preserved and circulated within 100 years of the original writing <a href="https://en.wikipedia.org/wiki/Papyrus_66" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>.
 
 4. Early Church Buildings
 
-**Dura-Europos Christian Church (c. 232 AD)** - The earliest known Christian church building contains frescoes depicting Christ's miracles, demonstrating early communities gathered specifically to worship Jesus as divine <a href="https://www.biblicalarchaeology.org/daily/archaeology-today/biblical-archaeology-topics/dura-europos-church/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a>.
+**Dura-Europos Christian Church (c. 232 AD)** - The earliest known Christian church building contains frescoes depicting Christ's miracles, demonstrating early communities gathered specifically to worship Jesus as divine <a href="https://en.wikipedia.org/wiki/Dura-Europos_church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a>.
 
 External Historical Testimony
 
@@ -186,12 +186,12 @@ The historical and archaeological evidence strongly supports the conclusion that
     "1 Corinthians 16:22", "John 18:5-6", "Matthew 28:9", "John 9:38", "Philippians 2:6"
   ],
   sources: [
-    "[1] Biblical Archaeology Society - Alexamenos Graffito: https://www.biblicalarchaeology.org/daily/archaeology-today/biblical-archaeology-topics/the-alexamenos-graffito/",
-    "[2] Cambridge Journal of Ecclesiastical History - Early Christian Symbols: https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history",
+    "[1] Wikipedia - Alexamenos Graffito: https://en.wikipedia.org/wiki/Alexamenos_graffito",
+    "[2] Wikipedia - Chi-Rho Symbol: https://en.wikipedia.org/wiki/Chi_Rho",
     "[3] Vatican Pontifical Commission - Christian Catacombs: https://www.vatican.va/roman_curia/pontifical_commissions/archeo/inglese/documents/rc_com_archeo_doc_20011010_cataccrist_en.html",
-    "[4] Center for Study of New Testament Manuscripts - P52: https://www.csntm.org/manuscript/GA_P52",
-    "[5] Biblical Archaeology Society - NT Manuscripts: https://www.biblicalarchaeology.org/daily/biblical-texts/bible-manuscripts/how-long-were-the-original-new-testament-autographs-in-use/",
-    "[6] Biblical Archaeology Society - Dura-Europos Church: https://www.biblicalarchaeology.org/daily/archaeology-today/biblical-archaeology-topics/dura-europos-church/",
+    "[4] Wikipedia - Papyrus 52: https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
+    "[5] Wikipedia - Papyrus 66: https://en.wikipedia.org/wiki/Papyrus_66",
+    "[6] Wikipedia - Dura-Europos Church: https://en.wikipedia.org/wiki/Dura-Europos_church",
     "[7] Perseus Digital Library - Tacitus Annals 15.44: https://www.perseus.tufts.edu/hopper/text?doc=Tac.+Ann.+15.44",
     "[8] Loeb Classical Library - Suetonius Life of Claudius: https://www.loebclassics.com/view/suetonius-lives_caesars/1914/pb_LCL038.349.xml",
     "[9] Perseus Digital Library - Pliny Letters 10.96: https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Ep.+10.96",

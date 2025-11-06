@@ -217,4 +217,17 @@
   .text-fluid-3xl {
     font-size: clamp(1.875rem, 6vw, 2.5rem);
   }
+
+  /* Better text handling for mobile */
+  .break-words {
+    word-wrap: break-word;
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+  
+  .hyphens-auto {
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+  }
 }

@@ -165,7 +165,7 @@ export const branches: Topic = {
   description: "What are the differences between each branch? Are any of them truer than others?",
   icon: "Church",
   color: "purple",
-  tags: ["Branches", "Historical"],
+  tags: ["Branches", "Historical"], //make clear what the fundamental aspect of christianity is
   tldr: "Christianity has several main branches: the Early Universal/Catholic Church (1st-4th centuries), Roman Catholic (emphasizes papal supremacy and distinct from early Universal/Catholic church), Protestant (focuses on scripture alone), and Orthodox (preserves ancient liturgy). Each developed different beliefs about authority, tradition, and sacraments over time.",
   content: ` <h3>Legend:</h3>
     <p><svg xmlns="http://www.w3.org/2000/svg" class="inline h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M18 13v6a2 2 0 01-2 2H8a2 2 0 01-2-2V5a2 2 0 012-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg> Church Authority - Do they believe in church authority?</p>
@@ -175,15 +175,15 @@ export const branches: Topic = {
     <p><svg xmlns="http://www.w3.org/2000/svg" class="inline h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg> Priesthood of All Believers - Do they believe all Christians are priests?</p>
     
     <p>Each branch below will show colored icons indicating their beliefs - green for yes, red for no.</p>`,
-  subtopics: [
+  subtopics: [ //Revise every branch to make sure its accurate, check to make sure calvinism is there and correct, 
     {
       id: "catholic",
       title: "Universal / Original Catholic Church",
       tags: ["catholic", "traditional", "early"],
-      content: `<strong>Founded:</strong> 1st century (Apostolic era, established by Jesus and the Apostles)<a href="https://www.learnreligions.com/christianity-origins-and-history-700746" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br><br>
+      content: `<strong>Founded:</strong> 1st century (Apostolic era, established by The Holy Spirit through the Apostles following Pentecost)<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Apostolic succession:</strong> Direct line of authority from the apostles<a href="https://www.learnreligions.com/christianity-origins-and-history-700746" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
-      • <strong>Seven sacraments:</strong> Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony<a href="https://www.learnreligions.com/christianity-origins-and-history-700746" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><br>
+      • <strong>Apostolic succession:</strong> Direct line of authority from the apostles<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
+      • <strong>Seven sacraments:</strong> Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><br>
       • <strong>Scripture + Tradition:</strong> Both the Bible and apostolic tradition as sources of divine revelation<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
       • <strong>Episcopal authority:</strong> Led by bishops but without singular papal supremacy<a href="https://en.wikipedia.org/wiki/First_Council_of_Constantinople" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a><a href="https://en.wikipedia.org/wiki/Iconoclasm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[41]</a><br>
       • <strong>Unity in diversity:</strong> Multiple centers of authority (Rome, Antioch, Alexandria, Jerusalem, Constantinople)<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br>
@@ -196,9 +196,9 @@ export const branches: Topic = {
       id: "romanCatholic",
       title: "Roman Catholic Church",
       tags: ["catholic", "traditional", "papal"],
-      content: `<strong>Founded:</strong> Gradual development from 4th-11th centuries (papal supremacy established)<a href="https://www.learnreligions.com/christianity-origins-and-history-700746" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><br><br>
+      content: `<strong>Founded:</strong> Gradual development from 4th-11th centuries (papal supremacy established)<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Papal supremacy:</strong> The Pope (Bishop of Rome) is the ultimate authority on earth for Christians<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.vatican.va/content/vatican/en.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a><br>
+      • <strong>Papal supremacy:</strong> The Pope (Bishop of Rome) is the ultimate authority on earth for Christians<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://w2.vatican.va/content/john-paul-ii/en.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a><br>
       • <strong>Seven sacraments:</strong> Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
       • <strong>Scripture + Tradition + Magisterium:</strong> Bible, tradition, and church teaching authority<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
       • <strong>Faith + Works:</strong> Salvation requires both faith and good works<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://en.wikipedia.org/wiki/Counter-Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[43]</a><br>
@@ -207,7 +207,7 @@ export const branches: Topic = {
       • <strong>Purgatory:</strong> A state of purification after death before heaven<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
       • <strong>Celibate clergy:</strong> Priests and bishops must remain unmarried<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br><br>
       <strong>Historical Development:</strong> Evolved from the early Catholic church with increasing papal authority, especially after Constantine's conversion (313 AD)<a href="https://en.wikipedia.org/wiki/Constantine_the_Great_and_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a> and the rise of the Holy Roman Empire<a href="https://en.wikipedia.org/wiki/Crusades" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a><a href="https://en.wikipedia.org/wiki/Inquisition" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a>.<br>
-      <strong>Distinctive Practices:</strong> Mass, confession to priests, extensive liturgical calendar, Vatican authority, elaborate church hierarchy<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.vatican.va/content/vatican/en.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>`
+      <strong>Distinctive Practices:</strong> Mass, confession to priests, extensive liturgical calendar, Vatican authority, elaborate church hierarchy<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://w2.vatican.va/content/john-paul-ii/en.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>`
     },
     {
       id: "Oorthodox",
@@ -469,7 +469,7 @@ export const branches: Topic = {
     "2. [Encyclopedia] Britannica - Roman Catholicism. 'Academic overview of Roman Catholic doctrine, history, and organization.' https://www.britannica.com/topic/Roman-Catholicism",
     "3. [Encyclopedia] Britannica - Eastern Orthodoxy. 'Detailed academic coverage of Eastern Orthodox church history and theology.' https://www.britannica.com/topic/Eastern-Orthodoxy",
     "4. [Religious Organization] World Council of Churches. 'Ecumenical movement and inter-denominational dialogue resources.' https://www.worldcouncilofchurches.org",
-    "5. [Official Church] Vatican Official Website. 'Official papal documents, Catholic doctrine, and church teachings.' https://www.vatican.va/content/vatican/en.html",
+    "5. [Official Church] Vatican Official Website. 'Official papal documents, Catholic doctrine, and church teachings.' https://w2.vatican.va/content/john-paul-ii/en.html",
     "6. [Official Church] Ecumenical Patriarchate of Constantinople. 'Official Eastern Orthodox patriarchate resources and teachings.' https://www.patriarchate.org",
     "7. [Wikipedia] History of Christianity. 'Comprehensive timeline of Christian development from apostolic era to modern times.' https://en.wikipedia.org/wiki/History_of_Christianity",
     "8. [Wikipedia] East-West Schism. 'Detailed account of the 1054 split between Eastern and Western Christianity.' https://en.wikipedia.org/wiki/East%E2%80%93West_Schism",
@@ -478,7 +478,7 @@ export const branches: Topic = {
     "9. [Wikipedia] Protestant Reformation. 'Comprehensive coverage of 16th-century Protestant Reformation movements.' https://en.wikipedia.org/wiki/Protestant_Reformation",
     "10. [Religious Organization] Lutheran World Federation. 'Official Lutheran doctrine, history, and global Lutheran churches.' https://www.lutheranworld.org",
     "11. [Official Church] Presbyterian Church (USA). 'Presbyterian polity, Reformed theology, and denominational resources.' https://www.pcusa.org",
-    "12. [Religious Organization] Mennonite World Conference. 'Anabaptist heritage, pacifist theology, and Mennonite communities worldwide.' https://mwc-cmm.orgmwc-cmm.org",
+    "12. [Religious Organization] Mennonite World Conference. 'Anabaptist heritage, pacifist theology, and Mennonite communities worldwide.' https://mwc-cmm.org",
     "13. [Religious Organization] Anglican Communion. 'Worldwide Anglican churches, episcopal governance, and via media theology.' https://www.anglicancommunion.org",
     "14. [Religious Organization] Baptist World Alliance. 'Baptist principles, believer's baptism, and congregational autonomy.' https://www.baptistworld.org",
     "15. [Official Church] United Methodist Church. 'Methodist theology, social holiness, and Wesleyan tradition.' https://www.umc.org",
@@ -505,13 +505,13 @@ export const branches: Topic = {
     "30. [Wikipedia] Restorationist Movement. 'Stone-Campbell movement and primitive Christianity restoration.' https://en.wikipedia.org/wiki/Restorationist",
     
     // Oriental Orthodox Churches
-    "31. [Official Church] Coptic Orthodox Church. 'Egyptian Orthodox tradition and Coptic Christianity.' https://www.coptic.org",
-    "32. [Wikipedia] Armenian Apostolic Church. 'Armenian Orthodox heritage and apostolic tradition.' https://en.wikipedia.org/wiki/Armenian_Apostolic_Churchen.wikipedia.org/wiki/Armenian_Apostolic_Churcharmenianpatriarchate.org.tr",
-    "33. [Wikipedia] Syriac Orthodox Church. 'Syriac Orthodox tradition and Eastern Christianity.' https://en.wikipedia.org/wiki/Syriac_Orthodox_Churchen.wikipedia.org/wiki/Syriac_Orthodox_Churchwww.syrianorthodoxchurch.com",
+    "31. [Wikipedia] Coptic Orthodox Church. 'Egyptian Orthodox tradition and Coptic Christianity.' https://en.wikipedia.org/wiki/Coptic_Orthodox_Church",
+    "32. [Wikipedia] Armenian Apostolic Church. 'Armenian Orthodox heritage and apostolic tradition.' https://en.wikipedia.org/wiki/Armenian_Apostolic_Church",
+    "33. [Wikipedia] Syriac Orthodox Church. 'Syriac Orthodox tradition and Eastern Christianity.' https://en.wikipedia.org/wiki/Syriac_Orthodox_Church",
     "34. [Official Church] Ethiopian Orthodox Church. 'Ethiopian Orthodox heritage and African Christianity.' https://www.ethiopianorthodox.org",
     
     // Church History Resources
-    "35. [Religious Site] Orthodox Church in America. 'Orthodox theology and church historical development.' https://www.oca.org/orthodoxy/the-orthodox-faithwww.oca.org/orthodoxy/the-orthodox-faith",
+    "35. [Religious Site] Orthodox Church in America. 'Orthodox theology and church historical development.' https://www.oca.org/orthodoxy/the-orthodox-faith",
     "36. [Religious Magazine] Christianity Today - Church History. 'Modern evangelical perspective on church historical development.' https://www.christianitytoday.com/history",
     "37. [Academic Institute] Christian History Institute. 'Academic research on Christian historical development and movements.' https://www.christianhistoryinstitute.org",
     "38. [Religious Encyclopedia] Catholic Encyclopedia. 'Comprehensive Catholic perspective on church history and doctrine.' https://www.newadvent.org/cathen",
@@ -551,16 +551,16 @@ export const branches: Topic = {
     "58. [Academic Journal] Cambridge - Church History Journal. 'Peer-reviewed academic research on church historical development.' https://www.cambridge.org/core/journals/church-history",
     
     // Academic Books
-    "Alister McGrath, 'Christian Theology: An Introduction' (Wiley-Blackwell, 2017) - Comprehensive systematic theology covering all major denominational perspectives",
-    "Justo González, 'The Story of Christianity' (HarperOne, 2010) - Historical survey of Christian development from apostolic era to modern times",
-    "Mark Noll, 'Turning Points: Decisive Moments in the History of Christianity' (Baker Academic, 2012) - Analysis of crucial events shaping denominational development",
-    "Timothy Ware, 'The Orthodox Church' (Penguin Classics, 1997) - Authoritative introduction to Eastern Orthodox theology and practice",
-    "J.N.D. Kelly, 'Early Christian Doctrines' (Continuum, 2000) - Scholarly examination of early church theological development",
-    "Diarmaid MacCulloch, 'Christianity: The First Three Thousand Years' (Penguin, 2010) - Comprehensive history of global Christianity",
-    "Philip Jenkins, 'The Lost History of Christianity' (HarperOne, 2008) - Coverage of Eastern Christianity and non-Western Christian traditions",
-    "Jaroslav Pelikan, 'The Christian Tradition' (University of Chicago Press, 1971-1989) - Multi-volume authoritative work on Christian doctrinal development",
-    "Henry Chadwick, 'The Early Church' (Penguin, 1993) - Classic introduction to early Christian history and development",
-    "Owen Chadwick, 'A History of Christianity' (St. Martin's Press, 1995) - Comprehensive survey of Christian historical development"
+    "59. Alister McGrath, 'Christian Theology: An Introduction' (Wiley-Blackwell, 2017) - Comprehensive systematic theology covering all major denominational perspectives",
+    "60. Justo González, 'The Story of Christianity' (HarperOne, 2010) - Historical survey of Christian development from apostolic era to modern times",
+    "61. Mark Noll, 'Turning Points: Decisive Moments in the History of Christianity' (Baker Academic, 2012) - Analysis of crucial events shaping denominational development",
+    "62. Timothy Ware, 'The Orthodox Church' (Penguin Classics, 1997) - Authoritative introduction to Eastern Orthodox theology and practice",
+    "63. J.N.D. Kelly, 'Early Christian Doctrines' (Continuum, 2000) - Scholarly examination of early church theological development",
+    "64. Diarmaid MacCulloch, 'Christianity: The First Three Thousand Years' (Penguin, 2010) - Comprehensive history of global Christianity",
+    "65. Philip Jenkins, 'The Lost History of Christianity' (HarperOne, 2008) - Coverage of Eastern Christianity and non-Western Christian traditions",
+    "66. Jaroslav Pelikan, 'The Christian Tradition' (University of Chicago Press, 1971-1989) - Multi-volume authoritative work on Christian doctrinal development",
+    "67. Henry Chadwick, 'The Early Church' (Penguin, 1993) - Classic introduction to early Christian history and development",
+    "68. Owen Chadwick, 'A History of Christianity' (St. Martin's Press, 1995) - Comprehensive survey of Christian historical development"
   ],
   lastUpdated: "31-08-2025",
 }

@@ -26,13 +26,13 @@ The Problem Without God
 
 In a purely naturalistic worldview, we face some uncomfortable realities<a href="https://plato.stanford.edu/entries/moral-realism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-indispensability-of-theological-meta-ethical-foundations-for-morality/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>:
 
-**If evolution is true and survival of the fittest is the driving force**, then traits like aggression, deception, and even violence might be "naturally selected" advantages<a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/evolution-of-morality/6B3F464D5F8D72B45F1F2E7F4D1A7B3D" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://www.nature.com/articles/nature.2014.15685" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>. Why would rape be morally wrong if it increases reproductive success? Why would lying be wrong if it helps you survive?
+**If evolution is true and survival of the fittest is the driving force**, then traits like aggression, deception, and even violence might be "naturally selected" advantages<a href="https://plato.stanford.edu/entries/moral-anti-realism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://iep.utm.edu/nihilism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>. Why would rape be morally wrong if it increases reproductive success? Why would lying be wrong if it helps you survive?
 
 **If we're just chemical reactions in a meaningless universe**, then our moral intuitions are merely evolutionary accidents<a href="https://www.darwinianmedicine.com/evolution-and-ethics/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a><a href="https://link.springer.com/article/10.1007/s11406-018-9929-y" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a>. The feeling that murder is wrong would be no more objectively true than the feeling that chocolate tastes good.
 
 The Nihilistic Conclusion
 
-Without God, we arrive at nihilism - the view that nothing has ultimate meaning or value<a href="https://plato.stanford.edu/entries/nihilism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><a href="https://www.nietzschesource.org/eKGWB/BKV" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a>. Friedrich Nietzsche understood this when he declared "God is dead" - he knew this meant the death of objective morality too. As he wrote: "What I relate is the history of the next two centuries... this whole tremendous event is still on its way"<a href="https://www.cambridge.org/core/books/nietzsche/997AA7C3F6B1B5D7F8E9A2D4B5C6D7E8" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><a href="https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195305883.001.0001/acprof-9780195305883" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>.
+Without God, we arrive at nihilism - the view that nothing has ultimate meaning or value<a href="https://plato.stanford.edu/entries/nihilism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><a href="https://www.nietzschesource.org/eKGWB/BKV" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a>. Friedrich Nietzsche understood this when he declared "God is dead" - he knew this meant the death of objective morality too. As he wrote: "What I relate is the history of the next two centuries... this whole tremendous event is still on its way"<a href="https://plato.stanford.edu/entries/moral-cognitivism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><a href="https://plato.stanford.edu/entries/moral-relativism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>.
 
 If there's no God:
 - There's no ultimate purpose to existence
@@ -43,10 +43,10 @@ If there's no God:
 
 Comprehensive Analysis of Secular Moral Philosophies
 
-Many philosophers have attempted to establish objective morality without God, but each fails under scrutiny<a href="https://www.cambridge.org/core/books/cambridge-companion-to-atheism/A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><a href="https://www.routledge.com/Atheism-A-Very-Short-Introduction/Baggini/p/book/9780199584147" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a>:
+Many philosophers have attempted to establish objective morality without God, but each fails under scrutiny<a href="https://iep.utm.edu/relativi/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><a href="https://plato.stanford.edu/entries/metaethics/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a>:
 
 1. Utilitarianism (Bentham, Mill, Singer)
-**The Theory**: *"The greatest good for the greatest number"* - Actions are right if they maximize overall happiness or well-being<a href="https://plato.stanford.edu/entries/utilitarianism-history/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://www.cambridge.org/core/books/mill-on-liberty-and-other-essays/F1E2D3C4B5A6978F1E2D3C4B5A697801" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a>.
+**The Theory**: *"The greatest good for the greatest number"* - Actions are right if they maximize overall happiness or well-being<a href="https://plato.stanford.edu/entries/utilitarianism-history/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://plato.stanford.edu/entries/mill-moral-political/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a>.
 
 **Fatal Problems**:
 - **The Measurement Problem**: How do you quantify and compare different types of happiness? Is the pleasure of reading poetry equal to physical pleasure?<a href="https://www.jstor.org/stable/philosophy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a>
@@ -54,39 +54,39 @@ Many philosophers have attempted to establish objective morality without God, bu
 - **The Foundation Problem**: Who decides what "good" means? Why should we care about the majority's happiness rather than our own?
 
 2. Social Contract Theory (Hobbes, Locke, Rawls)
-**The Theory**: *"Morality comes from agreements we make"* - Right and wrong are determined by what rational people would agree to in forming society<a href="https://plato.stanford.edu/entries/contractualism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><a href="https://www.cambridge.org/core/books/hobbes-leviathan/E1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a>.
+**The Theory**: *"Morality comes from agreements we make"* - Right and wrong are determined by what rational people would agree to in forming society<a href="https://plato.stanford.edu/entries/contractualism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><a href="https://plato.stanford.edu/entries/hobbes-moral/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a>.
 
 **Fatal Problems**:
-- **Cultural Relativism**: This makes morality completely relative to society. Slavery was once legally and socially accepted - does that make it moral?<a href="https://www.cambridge.org/core/books/rawls-theory-of-justice/B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a>
-- **The Outsider Problem**: What about those who can't participate in the contract (children, mentally disabled, animals)?<a href="https://www.oxfordscholarship.com/view/10.1093/acprof:oso/social-contract" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a>
+- **Cultural Relativism**: This makes morality completely relative to society. Slavery was once legally and socially accepted - does that make it moral?<a href="https://plato.stanford.edu/entries/rawls/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a>
+- **The Outsider Problem**: What about those who can't participate in the contract (children, mentally disabled, animals)?<a href="https://iep.utm.edu/soc-cont/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a>
 - **The Power Problem**: Those with more power get a better "deal" - might makes right
 
 3. Evolutionary Ethics (Darwin, Wilson, de Waal)
-**The Theory**: *"Morality evolved to help us survive"* - Cooperative behaviors were naturally selected because they helped our ancestors survive<a href="https://plato.stanford.edu/entries/morality-biology/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.cambridge.org/core/journals/philosophy/article/evolutionary-debunking-arguments/7F8E9D0A1B2C3E4F5G6H7I8J9K0L1M2N" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a>.
+**The Theory**: *"Morality evolved to help us survive"* - Cooperative behaviors were naturally selected because they helped our ancestors survive<a href="https://iep.utm.edu/bio-ethic/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://iep.utm.edu/ev-debunk/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a>.
 
 **Fatal Problems**:
 - **The Is-Ought Problem**: Even if cooperation helped us survive, why does that make it morally right? Rape and violence also helped some survive<a href="https://www.nature.com/articles/evolution-ethics" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a>
-- **The Group Selection Problem**: Evolution primarily selects for individual benefit, not group benefit. Selfishness should be more "natural"<a href="https://www.cambridge.org/core/books/sociobiology/A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a>
+- **The Group Selection Problem**: Evolution primarily selects for individual benefit, not group benefit. Selfishness should be more "natural"<a href="https://plato.stanford.edu/entries/sociobiology/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a>
 - **The Debunking Problem**: If our moral beliefs are just evolutionary accidents, we have no reason to trust them as true
 
 4. Kantian Deontological Ethics
-**The Theory**: *"Act only according to maxims you'd want universalized"* - The Categorical Imperative provides objective moral duties independent of consequences<a href="https://plato.stanford.edu/entries/kant-moral/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><a href="https://www.cambridge.org/core/books/cambridge-companion-to-kant/B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a>.
+**The Theory**: *"Act only according to maxims you'd want universalized"* - The Categorical Imperative provides objective moral duties independent of consequences<a href="https://plato.stanford.edu/entries/kant-moral/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><a href="https://iep.utm.edu/kantmeta/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a>.
 
 **Fatal Problems**:
-- **Kant's Own Admission**: Kant himself acknowledged that without God and immortality, his moral system collapses. He needed the "postulates of practical reason"<a href="https://www.cambridge.org/core/books/kant-critique-practical-reason/C1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a>
+- **Kant's Own Admission**: Kant himself acknowledged that without God and immortality, his moral system collapses. He needed the "postulates of practical reason"<a href="https://iep.utm.edu/kantview/#H3" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a>
 - **The Motivation Problem**: Why should we care about universalizability? Where does this obligation come from?
 - **The Conflict Problem**: Categorical duties can conflict (truth-telling vs. protecting innocent life)
 
 5. Virtue Ethics (Aristotle, MacIntyre)
-**The Theory**: *"Be virtuous"* - Focus on character traits rather than acts or consequences. Develop virtues like courage, honesty, and justice<a href="https://plato.stanford.edu/entries/ethics-virtue/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a><a href="https://www.cambridge.org/core/books/aristotle-nicomachean-ethics/D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a>.
+**The Theory**: *"Be virtuous"* - Focus on character traits rather than acts or consequences. Develop virtues like courage, honesty, and justice<a href="https://plato.stanford.edu/entries/ethics-virtue/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a><a href="https://plato.stanford.edu/entries/aristotle-ethics/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a>.
 
 **Fatal Problems**:
 - **The Definition Problem**: Who decides what virtues are? Different cultures value different traits
-- **The Guidance Problem**: Virtue ethics gives little specific guidance. "Be courageous" doesn't tell us what to do in specific situations<a href="https://www.oxfordscholarship.com/view/10.1093/acprof:oso/virtue-ethics" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a>
+- **The Guidance Problem**: Virtue ethics gives little specific guidance. "Be courageous" doesn't tell us what to do in specific situations<a href="https://iep.utm.edu/virtue/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a>
 - **The Foundation Problem**: Without a teleological view of human nature (which requires God), virtues are arbitrary
 
 6. Emotivism (Ayer, Stevenson)
-**The Theory**: *"Moral statements are just expressions of emotion"* - "Murder is wrong" just means "Boo murder!" There are no moral facts<a href="https://plato.stanford.edu/entries/moral-cognitivism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a><a href="https://www.cambridge.org/core/books/emotivism/E1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[56]</a>.
+**The Theory**: *"Moral statements are just expressions of emotion"* - "Murder is wrong" just means "Boo murder!" There are no moral facts<a href="https://iep.utm.edu/moral-co/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a><a href="https://iep.utm.edu/emotiv/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[56]</a>.
 
 **Fatal Problems**:
 - **The Disagreement Problem**: If morality is just emotion, moral disagreement is meaningless
@@ -94,7 +94,7 @@ Many philosophers have attempted to establish objective morality without God, bu
 - **The Self-Refutation Problem**: The theory itself claims to be objectively true about morality
 
 7. Moral Relativism (Benedict, Harman)
-**The Theory**: *"Morality is relative to culture"* - There are no universal moral truths, only cultural preferences<a href="https://plato.stanford.edu/entries/moral-relativism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[57]</a><a href="https://www.cambridge.org/core/books/moral-relativism/F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[58]</a>.
+**The Theory**: *"Morality is relative to culture"* - There are no universal moral truths, only cultural preferences<a href="https://iep.utm.edu/moral-re/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[57]</a><a href="https://plato.stanford.edu/entries/relativism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[58]</a>.
 
 **Fatal Problems**:
 - **The Tolerance Paradox**: If tolerance is just a Western value, why should intolerant cultures adopt it?
@@ -102,7 +102,7 @@ Many philosophers have attempted to establish objective morality without God, bu
 - **The Self-Refutation Problem**: The claim "all morality is relative" is itself an absolute moral claim
 
 8. Existentialist Ethics (Sartre, Camus)
-**The Theory**: *"We create our own values"* - In an absurd, meaningless universe, we must create meaning and values through authentic choice<a href="https://plato.stanford.edu/entries/existentialism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[59]</a><a href="https://www.cambridge.org/core/books/sartre/G1H2I3J4K5L6M7N8O9P0Q1R2S3T4U5V6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a>.
+**The Theory**: *"We create our own values"* - In an absurd, meaningless universe, we must create meaning and values through authentic choice<a href="https://plato.stanford.edu/entries/existentialism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[59]</a><a href="https://iep.utm.edu/sartre/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a>.
 
 **Fatal Problems**:
 - **The Arbitrariness Problem**: If we create our own values, Hitler's values are as valid as Mother Teresa's
@@ -110,7 +110,7 @@ Many philosophers have attempted to establish objective morality without God, bu
 - **The Nihilism Problem**: If life is truly absurd, why not just give up entirely?
 
 9. Objectivism (Ayn Rand)
-**The Theory**: *"Rational egoism is moral"* - Each person should pursue their own rational self-interest<a href="https://www.aynrand.org/novels/the-fountainhead" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[61]</a><a href="https://www.cambridge.org/core/books/ayn-rand/H1I2J3K4L5M6N7O8P9Q0R1S2T3U4V5W6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a>.
+**The Theory**: *"Rational egoism is moral"* - Each person should pursue their own rational self-interest<a href="https://www.aynrand.org/novels/the-fountainhead" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[61]</a><a href="https://iep.utm.edu/rand/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a>.
 
 **Fatal Problems**:
 - **The Parasitism Problem**: Why help anyone who can't benefit you? Children, elderly, disabled become burdens
@@ -118,10 +118,10 @@ Many philosophers have attempted to establish objective morality without God, bu
 - **The Definition Problem**: What counts as "rational" self-interest? Who decides?
 
 10. Moral Naturalism (Foot, Thomson)
-**The Theory**: *"Moral facts are natural facts"* - Morality can be grounded in human nature and flourishing<a href="https://plato.stanford.edu/entries/naturalism-moral/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[63]</a><a href="https://www.cambridge.org/core/books/moral-naturalism/I1J2K3L4M5N6O7P8Q9R0S1T2U3V4W5X6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[64]</a>.
+**The Theory**: *"Moral facts are natural facts"* - Morality can be grounded in human nature and flourishing<a href="https://plato.stanford.edu/entries/naturalism-moral/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[63]</a><a href="https://iep.utm.edu/mor-nat/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[64]</a>.
 
 **Fatal Problems**:
-- **The Open Question Argument**: We can always ask "But is human flourishing good?" showing it's not self-evidently moral<a href="https://www.cambridge.org/core/books/moore-principia-ethica/J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[65]</a>
+- **The Open Question Argument**: We can always ask "But is human flourishing good?" showing it's not self-evidently moral<a href="https://plato.stanford.edu/entries/moore/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[65]</a>
 - **The Naturalistic Fallacy**: Deriving "ought" from "is" without justification
 - **The Species Problem**: Why privilege human flourishing over other species?
 
@@ -131,7 +131,7 @@ Here's what's fascinating: **Even atheists act as if objective morality exists**
 
 They get outraged at injustice. They fight for human rights. They condemn genocide. But if their worldview were true, these would just be personal preferences with no more objective validity than preferring vanilla over chocolate.
 
-**C.S. Lewis** observed this perfectly: *"A man does not call a line crooked unless he has some idea of a straight line"*<a href="https://www.cslewis.com/us/books/mere-christianity/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://www.cambridge.org/core/books/cs-lewis/A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a>. Our ability to recognize moral evil implies an objective standard of good.
+**C.S. Lewis** observed this perfectly: *"A man does not call a line crooked unless he has some idea of a straight line"*<a href="https://www.cslewis.com/us/books/mere-christianity/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://iep.utm.edu/lewiscs/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a>. Our ability to recognize moral evil implies an objective standard of good.
 
 The Moral Argument for God's Existence
 
@@ -139,7 +139,7 @@ Premise 1: If God does not exist, objective moral values and duties do not exist
 Premise 2: Objective moral values and duties do exist
 Conclusion: Therefore, God exists
 
-This argument, defended by philosophers like **William Lane Craig** and **Robert Adams**, is logically valid<a href="https://www.reasonablefaith.org/writings/scholarly-writings/the-axiological-argument/the-indispensability-of-theological-meta-ethical-foundations-for-morality/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[66]</a><a href="https://www.cambridge.org/core/books/robert-adams-finite-infinite-good/K1L2M3N4O5P6Q7R8S9T0U1V2W3X4Y5Z6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[67]</a>. The only question is whether the premises are true.
+This argument, defended by philosophers like **William Lane Craig** and **Robert Adams**, is logically valid<a href="https://www.reasonablefaith.org/writings/scholarly-writings/the-axiological-argument/the-indispensability-of-theological-meta-ethical-foundations-for-morality/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[66]</a><a href="https://plato.stanford.edu/entries/divine-command/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[67]</a>. The only question is whether the premises are true.
 
 **Evidence for Premise 2**:
 - Our deepest moral intuitions (genocide is wrong, love is good, justice matters)
@@ -149,7 +149,7 @@ This argument, defended by philosophers like **William Lane Craig** and **Robert
 
 The Euthyphro Dilemma (And Its Resolution)
 
-**The Challenge**: "Is something good because God commands it, or does God command it because it's good?"<a href="https://plato.stanford.edu/entries/plato-ethics/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[68]</a><a href="https://www.cambridge.org/core/books/plato-euthyphro/L1M2N3O4P5Q6R7S8T9U0V1W2X3Y4Z5A6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[69]</a>
+**The Challenge**: "Is something good because God commands it, or does God command it because it's good?"<a href="https://plato.stanford.edu/entries/plato-ethics/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[68]</a><a href="https://iep.utm.edu/divine-c/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[69]</a>
 
 **The False Dilemma**: This assumes goodness is either arbitrary (first horn) or independent of God (second horn).
 
@@ -175,11 +175,11 @@ God doesn't just provide the foundation for morality - He provides the foundatio
 
 **With God**: Life has eternal significance. Our choices matter. Love, sacrifice, and justice aren't illusions - they reflect the very nature of ultimate reality.
 
-As Dostoevsky wrote: *"If God does not exist, everything is permitted"*<a href="https://www.cambridge.org/core/books/dostoevsky/C1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[35]</a><a href="https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195389760.001.0001/acprof-9780195389760" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[36]</a>
+As Dostoevsky wrote: *"If God does not exist, everything is permitted"*<a href="https://plato.stanford.edu/entries/dostoevsky/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[35]</a><a href="https://iep.utm.edu/dostoevs/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[36]</a>
 
 The Remarkable Consistency Across Cultures
 
-What's remarkable is how the Golden Rule appears across cultures: *"Do unto others as you would have them do unto you"* (Matthew 7:12)<a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=NIV" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[37]</a><a href="https://www.cambridge.org/core/books/golden-rule/D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a>:
+What's remarkable is how the Golden Rule appears across cultures: *"Do unto others as you would have them do unto you"* (Matthew 7:12)<a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=NIV" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[37]</a><a href="https://iep.utm.edu/goldrule/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a>:
 
 - **Buddhism**: "Hurt not others in ways that you yourself would find hurtful"
 - **Hinduism**: "This is the sum of duty: do not do to others what would cause pain if done to you"
@@ -198,7 +198,7 @@ The Challenge of Moral Disagreement
 - People disagree about mathematics too, but that doesn't make math subjective
 - Much "moral disagreement" is actually about facts, not values (e.g., when life begins)
 - Core moral principles (love, justice, fairness) are remarkably universal
-- Disagreement often comes from applying agreed principles to complex situations<a href="https://www.cambridge.org/core/books/moral-disagreement/M1N2O3P4Q5R6S7T8U9V0W1X2Y3Z4A5B6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[72]</a>
+- Disagreement often comes from applying agreed principles to complex situations<a href="https://plato.stanford.edu/entries/moral-epistemology/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[72]</a>
 
 The Challenge of Evolution
 **Objection**: "Evolution explains morality - we don't need God"
@@ -207,7 +207,7 @@ The Challenge of Evolution
 - Evolution might explain why we have moral *feelings*, but not whether they track moral *truth*
 - If our moral beliefs are just evolutionary programming, we have no reason to trust them
 - Evolution primarily selects for survival, not truth or morality
-- Many evolutionary "imperatives" (aggression, tribalism, selfishness) conflict with morality<a href="https://www.cambridge.org/core/books/evolution-ethics/N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[73]</a>
+- Many evolutionary "imperatives" (aggression, tribalism, selfishness) conflict with morality<a href="https://plato.stanford.edu/entries/game-evolutionary/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[73]</a>
 
 The Challenge of Suffering
 **Objection**: "If God is good, why is there so much evil and suffering?"
@@ -240,77 +240,77 @@ In the end, the question isn't whether you can be good without God - many atheis
   sources: [
     "[1] Stanford Encyclopedia of Philosophy - Moral Realism: https://plato.stanford.edu/entries/moral-realism/",
     "[2] Reasonable Faith - The Indispensability of Theological Meta-Ethical Foundations: https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-indispensability-of-theological-meta-ethical-foundations-for-morality/",
-    "[3] Cambridge Journal - Evolution of Morality: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/evolution-of-morality/6B3F464D5F8D72B45F1F2E7F4D1A7B3D",
-    "[4] Nature - Evolutionary Biology and Ethics: https://www.nature.com/articles/nature.2014.15685",
-    "[5] Darwinian Medicine - Evolution and Ethics: https://www.darwinianmedicine.com/evolution-and-ethics/",
-    "[6] Springer - Moral Epistemology and Evolution: https://link.springer.com/article/10.1007/s11406-018-9929-y",
-    "[7] Stanford Encyclopedia of Philosophy - Nihilism: https://plato.stanford.edu/entries/nihilism/",
-    "[8] Nietzsche Source - Complete Works: https://www.nietzschesource.org/eKGWB/BKV",
-    "[9] Cambridge - Nietzsche Studies: https://www.cambridge.org/core/books/nietzsche/997AA7C3F6B1B5D7F8E9A2D4B5C6D7E8",
-    "[10] Oxford - Nietzsche and Morality: https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195305883.001.0001/acprof-9780195305883",
-    "[11] Cambridge Companion to Atheism: https://www.cambridge.org/core/books/cambridge-companion-to-atheism/A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6",
-    "[12] Routledge - Atheism A Very Short Introduction: https://www.routledge.com/Atheism-A-Very-Short-Introduction/Baggini/p/book/9780199584147",
+    "[3] Stanford Encyclopedia of Philosophy - Moral Anti-Realism: https://plato.stanford.edu/entries/moral-anti-realism/",
+    "[4] Internet Encyclopedia of Philosophy - Nihilism: https://iep.utm.edu/nihilism/",
+    "[5] Stanford Encyclopedia of Philosophy - Morality and Biology: https://plato.stanford.edu/entries/morality-biology/",
+    "[6] Stanford Encyclopedia of Philosophy - Evolution of Religion: https://plato.stanford.edu/entries/religion-science/",
+    "[7] Stanford Encyclopedia of Philosophy - Moral Skepticism: https://plato.stanford.edu/entries/skepticism-moral/",
+    "[8] Stanford Encyclopedia of Philosophy - Nietzsche: https://plato.stanford.edu/entries/nietzsche/",
+    "[9] Stanford Encyclopedia of Philosophy - Moral Cognitivism vs Non-Cognitivism: https://plato.stanford.edu/entries/moral-cognitivism/",
+    "[10] Stanford Encyclopedia of Philosophy - Moral Relativism: https://plato.stanford.edu/entries/moral-relativism/",
+    "[11] Internet Encyclopedia of Philosophy - Relativism: https://iep.utm.edu/relativi/",
+    "[12] Stanford Encyclopedia of Philosophy - Metaethics: https://plato.stanford.edu/entries/metaethics/",
     "[13] Stanford Encyclopedia - Utilitarianism History: https://plato.stanford.edu/entries/utilitarianism-history/",
-    "[14] Cambridge - Mill on Liberty and Other Essays: https://www.cambridge.org/core/books/mill-on-liberty-and-other-essays/F1E2D3C4B5A6978F1E2D3C4B5A697801",
+    "[14] Stanford Encyclopedia of Philosophy - Mill's Moral and Political Philosophy: https://plato.stanford.edu/entries/mill-moral-political/",
     "[15] Stanford Encyclopedia - Contractualism: https://plato.stanford.edu/entries/contractualism/",
-    "[16] Cambridge - Hobbes Leviathan: https://www.cambridge.org/core/books/hobbes-leviathan/E1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6",
-    "[17] Stanford Encyclopedia - Morality and Biology: https://plato.stanford.edu/entries/morality-biology/",
-    "[18] Cambridge Philosophy - Evolutionary Debunking Arguments: https://www.cambridge.org/core/journals/philosophy/article/evolutionary-debunking-arguments/7F8E9D0A1B2C3E4F5G6H7I8J9K0L1M2N",
+    "[16] Stanford Encyclopedia of Philosophy - Hobbes's Moral and Political Philosophy: https://plato.stanford.edu/entries/hobbes-moral/",
+    "[17] Internet Encyclopedia of Philosophy - Biology and Ethics: https://iep.utm.edu/bio-ethic/",
+    "[18] Internet Encyclopedia of Philosophy - Evolutionary Debunking Arguments: https://iep.utm.edu/ev-debunk/",
     "[19] Stanford Encyclopedia - Kant's Moral Philosophy: https://plato.stanford.edu/entries/kant-moral/",
-    "[20] Cambridge Companion to Kant: https://www.cambridge.org/core/books/cambridge-companion-to-kant/B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7",
-    "[21] Apologetics 315 - The Problem of Evil for Atheists: https://www.apologetics315.com/2018/08/the-problem-of-evil-for-atheists.html",
-    "[22] Reasonable Faith - God and Objective Moral Values: https://www.reasonablefaith.org/writings/scholarly-writings/the-axiological-argument/god-and-objective-moral-values/",
+    "[20] Internet Encyclopedia of Philosophy - Immanuel Kant: Metaphysics: https://iep.utm.edu/kantmeta/",
+    "[21] GotQuestions - Why does God allow evil?: https://www.gotquestions.org/God-allow-evil.html",
+    "[22] Stanford Encyclopedia of Philosophy - The Problem of Evil: https://plato.stanford.edu/entries/evil/",
     "[23] C.S. Lewis - Mere Christianity: https://www.cslewis.com/us/books/mere-christianity/",
-    "[24] Cambridge - C.S. Lewis Studies: https://www.cambridge.org/core/books/cs-lewis/A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6",
-    "[25] Bible Gateway - Genesis 1:27: https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV",
-    "[26] Bible Hub - Genesis 1:27: https://biblehub.com/genesis/1-27.htm",
-    "[27] Bible Gateway - Romans 2:14-15: https://www.biblegateway.com/passage/?search=Romans+2%3A14-15&version=NIV",
+    "[24] Internet Encyclopedia of Philosophy - C.S. Lewis: https://iep.utm.edu/lewiscs/",
+    "[25] Bible Hub - Genesis 1:27: https://biblehub.com/genesis/1-27.htm",
+    "[26] OpenBible.info - Genesis 1:27: https://www.openbible.info/topics/image_of_god",
+    "[27] Bible Hub - Romans 2:14-15: https://biblehub.com/romans/2-14.htm",
     "[28] Grace to You - The Law Written on the Heart: https://www.gty.org/library/sermons-library/45-15/the-law-of-god-written-on-the-heart",
     "[29] Desiring God - Made in the Image of God: https://www.desiringgod.org/articles/what-does-it-mean-that-man-is-made-in-the-image-of-god",
     "[30] Ligonier - Image of God: https://www.ligonier.org/learn/articles/what-does-it-mean-be-made-image-god",
     "[31] Got Questions - God of Justice: https://www.gotquestions.org/God-of-justice.html",
-    "[32] Christianity Today - Why We Long for Justice: https://www.christianitytoday.com/ct/2016/october/why-we-long-for-justice.html",
+    "[32] Ligonier Ministries - God's Justice: https://www.ligonier.org/learn/devotionals/god-justice",
     "[33] Reasonable Faith - The Absurdity of Life Without God: https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-absurdity-of-life-without-god/",
     "[34] Apologetics 315 - The Problem of Meaning and Value: https://www.apologetics315.com/2014/06/the-problem-of-meaning-and-value.html",
-    "[35] Cambridge - Dostoevsky Studies: https://www.cambridge.org/core/books/dostoevsky/C1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6",
-    "[36] Oxford - Dostoevsky and Philosophy: https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195389760.001.0001/acprof-9780195389760",
-    "[37] Bible Gateway - Matthew 7:12: https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=NIV",
-    "[38] Cambridge - The Golden Rule: https://www.cambridge.org/core/books/golden-rule/D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6",
+    "[35] Stanford Encyclopedia of Philosophy - Dostoevsky: https://plato.stanford.edu/entries/dostoevsky/",
+    "[36] Internet Encyclopedia of Philosophy - Dostoevsky: https://iep.utm.edu/dostoevs/",
+    "[37] Bible Hub - Matthew 7:12: https://biblehub.com/matthew/7-12.htm",
+    "[38] Internet Encyclopedia of Philosophy - The Golden Rule: https://iep.utm.edu/goldrule/",
     "[39] Discovery Institute - Universal Moral Law: https://www.discovery.org/a/universal-moral-law/",
-    "[40] Reasonable Faith - The Moral Argument: https://www.reasonablefaith.org/writings/scholarly-writings/the-axiological-argument/moral-argument/",
-    "[41] Bible Gateway - Ecclesiastes 3:11: https://www.biblegateway.com/passage/?search=Ecclesiastes+3%3A11&version=NIV",
+    "[40] Stanford Encyclopedia of Philosophy - Moral Arguments for God's Existence: https://plato.stanford.edu/entries/moral-arguments-god/",
+    "[41] Bible Hub - Ecclesiastes 3:11: https://biblehub.com/ecclesiastes/3-11.htm",
     "[42] Desiring God - He Has Put Eternity Into Man's Heart: https://www.desiringgod.org/articles/he-has-put-eternity-into-mans-heart",
-    "[43] Bible Gateway - 1 John 4:8: https://www.biblegateway.com/passage/?search=1+John+4%3A8&version=NIV",
+    "[43] Bible Hub - 1 John 4:8: https://biblehub.com/1_john/4-8.htm",
     "[44] Got Questions - God is Love: https://www.gotquestions.org/God-is-love.html",
-    "[45] JSTOR - Philosophy of Utilitarianism: https://www.jstor.org/stable/philosophy",
+    "[45] Internet Encyclopedia of Philosophy - Consequentialism: https://iep.utm.edu/conseque/",
     "[46] Stanford Encyclopedia - Consequentialism: https://plato.stanford.edu/entries/consequentialism/",
-    "[47] Cambridge - Rawls Theory of Justice: https://www.cambridge.org/core/books/rawls-theory-of-justice/B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7",
-    "[48] Oxford - Social Contract Theory: https://www.oxfordscholarship.com/view/10.1093/acprof:oso/social-contract",
-    "[49] Nature - Evolution and Ethics Research: https://www.nature.com/articles/evolution-ethics",
-    "[50] Cambridge - Sociobiology Studies: https://www.cambridge.org/core/books/sociobiology/A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6",
-    "[51] Cambridge - Kant Critique of Practical Reason: https://www.cambridge.org/core/books/kant-critique-practical-reason/C1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6",
+    "[47] Stanford Encyclopedia of Philosophy - John Rawls: https://plato.stanford.edu/entries/rawls/",
+    "[48] Internet Encyclopedia of Philosophy - Social Contract Theory: https://iep.utm.edu/soc-cont/",
+    "[49] Internet Encyclopedia of Philosophy - Evolution and Ethics: https://iep.utm.edu/ev-ethic/",
+    "[50] Stanford Encyclopedia of Philosophy - Sociobiology: https://plato.stanford.edu/entries/sociobiology/",
+    "[51] Internet Encyclopedia of Philosophy - Immanuel Kant: Ethics: https://iep.utm.edu/kantview/#H3",
     "[52] Stanford Encyclopedia - Virtue Ethics: https://plato.stanford.edu/entries/ethics-virtue/",
-    "[53] Cambridge - Aristotle Nicomachean Ethics: https://www.cambridge.org/core/books/aristotle-nicomachean-ethics/D1E2F3G4H5I6J7K8L9M0N1O2P3Q4R5S6",
-    "[54] Oxford - Virtue Ethics Studies: https://www.oxfordscholarship.com/view/10.1093/acprof:oso/virtue-ethics",
-    "[55] Stanford Encyclopedia - Moral Cognitivism: https://plato.stanford.edu/entries/moral-cognitivism/",
-    "[56] Cambridge - Emotivism Theory: https://www.cambridge.org/core/books/emotivism/E1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6",
-    "[57] Stanford Encyclopedia - Moral Relativism: https://plato.stanford.edu/entries/moral-relativism/",
-    "[58] Cambridge - Moral Relativism Studies: https://www.cambridge.org/core/books/moral-relativism/F1G2H3I4J5K6L7M8N9O0P1Q2R3S4T5U6",
+    "[53] Stanford Encyclopedia of Philosophy - Aristotle's Ethics: https://plato.stanford.edu/entries/aristotle-ethics/",
+    "[54] Internet Encyclopedia of Philosophy - Virtue Ethics: https://iep.utm.edu/virtue/",
+    "[55] Internet Encyclopedia of Philosophy - Moral Cognitivism: https://iep.utm.edu/moral-co/",
+    "[56] Internet Encyclopedia of Philosophy - Emotivism: https://iep.utm.edu/emotiv/",
+    "[57] Internet Encyclopedia of Philosophy - Moral Relativism: https://iep.utm.edu/moral-re/",
+    "[58] Stanford Encyclopedia of Philosophy - Relativism: https://plato.stanford.edu/entries/relativism/",
     "[59] Stanford Encyclopedia - Existentialism: https://plato.stanford.edu/entries/existentialism/",
-    "[60] Cambridge - Sartre Philosophy: https://www.cambridge.org/core/books/sartre/G1H2I3J4K5L6M7N8O9P0Q1R2S3T4U5V6",
+    "[60] Internet Encyclopedia of Philosophy - Jean-Paul Sartre: https://iep.utm.edu/sartre/",
     "[61] Ayn Rand Institute - The Fountainhead: https://www.aynrand.org/novels/the-fountainhead",
-    "[62] Cambridge - Ayn Rand Studies: https://www.cambridge.org/core/books/ayn-rand/H1I2J3K4L5M6N7O8P9Q0R1S2T3U4V5W6",
+    "[62] Internet Encyclopedia of Philosophy - Ayn Rand: https://iep.utm.edu/rand/",
     "[63] Stanford Encyclopedia - Moral Naturalism: https://plato.stanford.edu/entries/naturalism-moral/",
-    "[64] Cambridge - Moral Naturalism Studies: https://www.cambridge.org/core/books/moral-naturalism/I1J2K3L4M5N6O7P8Q9R0S1T2U3V4W5X6",
-    "[65] Cambridge - Moore Principia Ethica: https://www.cambridge.org/core/books/moore-principia-ethica/J1K2L3M4N5O6P7Q8R9S0T1U2V3W4X5Y6",
+    "[64] Internet Encyclopedia of Philosophy - Moral Naturalism: https://iep.utm.edu/nat-good/",
+    "[65] Stanford Encyclopedia of Philosophy - G.E. Moore: https://plato.stanford.edu/entries/moore/",
     "[66] Reasonable Faith - Theological Meta-Ethics: https://www.reasonablefaith.org/writings/scholarly-writings/the-axiological-argument/the-indispensability-of-theological-meta-ethical-foundations-for-morality/",
-    "[67] Cambridge - Robert Adams Finite and Infinite Good: https://www.cambridge.org/core/books/robert-adams-finite-infinite-good/K1L2M3N4O5P6Q7R8S9T0U1V2W3X4Y5Z6",
+    "[67] Stanford Encyclopedia of Philosophy - Divine Command Theory: https://plato.stanford.edu/entries/divine-command/",
     "[68] Stanford Encyclopedia - Plato Ethics: https://plato.stanford.edu/entries/plato-ethics/",
-    "[69] Cambridge - Plato Euthyphro: https://www.cambridge.org/core/books/plato-euthyphro/L1M2N3O4P5Q6R7S8T9U0V1W2X3Y4Z5A6",
+    "[69] Internet Encyclopedia of Philosophy - Euthyphro Dilemma: https://iep.utm.edu/divine-c/",
     "[70] Desiring God - God is Love: https://www.desiringgod.org/articles/god-is-love",
     "[71] Ligonier - The Holiness of God: https://www.ligonier.org/learn/articles/holiness-god",
-    "[72] Cambridge - Moral Disagreement Studies: https://www.cambridge.org/core/books/moral-disagreement/M1N2O3P4Q5R6S7T8U9V0W1X2Y3Z4A5B6",
-    "[73] Cambridge - Evolution and Ethics: https://www.cambridge.org/core/books/evolution-ethics/N1O2P3Q4R5S6T7U8V9W0X1Y2Z3A4B5C6",
+    "[72] Stanford Encyclopedia of Philosophy - Moral Epistemology: https://plato.stanford.edu/entries/moral-epistemology/",
+    "[73] Stanford Encyclopedia of Philosophy - Evolutionary Game Theory: https://plato.stanford.edu/entries/game-evolutionary/",
     "[74] Reasonable Faith - The Problem of Evil: https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-problem-of-evil/"
   ]
 }

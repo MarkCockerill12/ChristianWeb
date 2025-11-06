@@ -239,16 +239,16 @@ export const nasa: Topic = {
     
     // Sundial and Time Measurement
     "[14] [NASA Education] Sundial Science and Technology - https://science.nasa.gov/solar-system/",
-    "[15] [NASA Education] Atmospheric Effects on Light - https://science.nasa.gov/earth/earth-atmosphere/",
-    "[16] [NASA Earth Science] Earth Rotation and Timekeeping - https://science.nasa.gov/earth/",
+    "[15] [NASA Space Place] Earth's Atmosphere and Light Physics - https://spaceplace.nasa.gov/atmosphere/en/",
+    "[16] [NASA Earth Science] Earth Facts and Rotation Data - https://science.nasa.gov/earth/facts/",
     
     // Star of Bethlehem Research
-    "[17] [NASA Goddard] Space Flight Center Historical Programs - https://www.nasa.gov/goddard/",
+    "[17] [NASA Eclipse Main] Eclipse Resources and Documentation - https://eclipse.gsfc.nasa.gov/eclipse.html",
     "[18] [Royal Observatory] Greenwich Astronomical Calculations - https://www.rmg.co.uk/royal-observatory",
-    "[19] [NASA JPL] Planetary Conjunction Calculations - https://ssd.jpl.nasa.gov/horizons/",
+    "[19] [NASA JWST] James Webb Space Telescope Observations - https://science.nasa.gov/mission/webb/",
     "[20] [NASA Solar System] Planetary Overview and Movements - https://solarsystem.nasa.gov/planets/overview/",
     "[21] [NASA Solar System] Planetary Data and Calculations - https://solarsystem.nasa.gov/planets/",
-    "[22] [NASA Eclipse History] Ancient Astronomical Records - https://eclipse.gsfc.nasa.gov/SEhistory/SEhistory.html",
+    "[22] [NASA Eclipse Publications] Five Millennium Eclipse Catalogs - https://eclipse.gsfc.nasa.gov/SEpubs/5MCSE.html",
     "[23] [NASA Solar System] Comet Research and Documentation - https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/",
     "[24] [NASA Education] Astronomy Educational Resources - https://science.nasa.gov/astronomy/"
   ],

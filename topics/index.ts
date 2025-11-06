@@ -43,7 +43,9 @@ TOPICS THAT NEED INDIVIDUAL FILES CREATED:
 
 - About each of the books of the bible (Author, date, point, etc)
 
-- 
+- evidence of god
+
+- big bang
 
 */
 

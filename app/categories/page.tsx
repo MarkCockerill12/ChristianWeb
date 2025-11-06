@@ -88,7 +88,7 @@ export default function CategoriesPage() {
         {/* Results Count */}
         <div className="text-center mb-6">
           <p className="text-gray-600">
-            Showing {filteredCategories.length} of {categories.length} topics ({categories.length} available with content)
+            Showing {filteredCategories.length} of {categories.length} topics
           </p>
         </div>
 
@@ -103,7 +103,7 @@ export default function CategoriesPage() {
                     <Icon className={`h-8 w-8 text-${category.color}-600`} />
 
                   </div>
-                  <CardTitle className="text-lg">{category.title}</CardTitle>
+                  <CardTitle className="text-lg break-words hyphens-auto leading-tight">{category.title}</CardTitle>
                   <CardDescription>{category.description}</CardDescription>
                 </CardHeader>
                 <CardContent>

@@ -1556,9 +1556,9 @@ export const miracles: Topic = {
   ],
   sources: [
     // Academic and Medical Sources
-    "1. Candy Gunther Brown, 'Testing Prayer: Science and Healing' (Harvard University Press, 2012) - Academic study of prayer and healing with medical documentation - Available: https://www.hup.harvard.edu/catalog.php?isbn=9780674063426",
+    "1. Candy Gunther Brown, 'Testing Prayer: Science and Healing' (Harvard University Press, 2012) - Academic study of prayer and healing with medical documentation - Available: https://www.amazon.com/Testing-Prayer-Science-Healing/dp/0674063422",
     "2. C.S. Lewis, 'Miracles: A Preliminary Study' (HarperOne, 2001) - Philosophical examination of miracles and natural law - Available: https://www.harpercollins.com/products/miracles-c-s-lewis",
-    "3. Craig Keener, 'Miracles: The Credibility of the New Testament Accounts' (Baker Academic, 2011) - Comprehensive academic treatment of miracle claims - Available: https://bakerpublishinggroup.com/books/miracles-2-volume-set/241530",
+    "3. Craig Keener, 'Miracles: The Credibility of the New Testament Accounts' (Baker Academic, 2011) - Comprehensive academic treatment of miracle claims - Available: https://www.amazon.com/Miracles-Credibility-New-Testament-Accounts/dp/0801039525",
     "4. [Medical Study] Dr. Harold Koenig, 'Faith and Mental Health' (Duke University Medical Center) - Research on faith-based healing outcomes - Available: https://spiritualityandhealth.duke.edu/",
     "5. [Medical Journal] Southern Medical Journal. 'Study of the Therapeutic Effects of Proximal Intercessory Prayer on Auditory and Visual Impairments in Rural Mozambique' (2010) - Available at https://sma.org/southern-medical-journal/",
     "6. [Medical Bureau] Lourdes Medical Bureau Official Records. 'Recognized miraculous healings 1858-2018' https://www.lourdes-france.org/en/miraculous-healings/",
@@ -1573,7 +1573,7 @@ export const miracles: Topic = {
 
     // Lourdes Medical Bureau - Comprehensive Case Documentation
     "13. [Academic Book] Craig S. Keener, 'Miracles: The Credibility of the New Testament Accounts' (Baker Academic, 2011) - Two-volume scholarly examination with 1,200+ pages documenting contemporary miracle claims worldwide",
-    "14. [Lourdes Case] Sister Bernadette Moriau - Cauda equina syndrome healing 2008, Bishop of Beauvais investigation, recognition 11 February 2018 - Official documentation: https://www.lourdes-france.org/en/sister-bernadette-moriau/",
+    "14. [Lourdes Case] Sister Bernadette Moriau - Cauda equina syndrome healing 2008, Bishop of Beauvais investigation, recognition 11 February 2018 - Official documentation: https://www.lourdes-france.org/en/miraculous-healings/",
     "15. [Lourdes Case] Danila Castelli - Malignant hypertension healing 1989, Diocese of Pavia investigation, recognition 20 June 2013 - 24-year medical follow-up documentation",
     "16. [Lourdes Case] Sister Luigina Traverso - Acute lymphoblastic leukemia healing, Daughters of Our Lady Help of Christians, recognition 11 October 2012",
     "17. [Lourdes Case] Anna Santaniello - Rheumatic heart disease/mitral stenosis healing 1952, Salerno Italy, 53-year investigation period, recognition 21 September 2005",
@@ -1581,7 +1581,6 @@ export const miracles: Topic = {
     "19. [Lourdes Case] Serge Perrin - Recurrent organic hemiplegia/bilateral carotid artery disorders healing 1970, angiography documentation, recognition 17 June 1978",
     "20. [Lourdes Case] Vittorio Micheli - Osteosarcoma of pelvis with complete hip joint destruction, bone regeneration documented, Scurelle Italy, recognition 26 May 1976",
     "21. [Lourdes Case] Pierre De Rudder - Compound fracture with 8-year non-union, 3cm bone gap, instantaneous fusion 1875, bronze cast preserved at Lourdes Medical Bureau, recognition 25 July 1908",
-    "16. [Official Registry] Lourdes Medical Bureau Complete List - All 70 officially recognized miracles (1862-2018) from Sanctuary of Our Lady of Lourdes - https://www.lourdes-france.org/en/miraculous-healings/",
 
     // Contemporary Documented Cases - Extended Medical Verification
     "22. [Academic Research] Candy Gunther Brown, 'Testing Prayer: Science and Healing' Harvard University Press, 2012 - Comprehensive study including Barbara Snyder, Dolores Winder cases with medical verification",
@@ -1601,7 +1600,7 @@ export const miracles: Topic = {
 
     // Secular Medical Investigation - Comprehensive Academic Research
     "34. [Academic Institution] Indiana University Religious Studies Department - Dr. Candy Gunther Brown research protocols, peer-review process, Harvard PhD credentials",
-    "35. [Peer-Reviewed] Candy Gunther Brown et al., 'Study of Healing Prayer in Mozambique' Southern Medical Journal 103:9 (September 2010) pp.864-869 - Available: https://sma.org/southern-medical-journal/article/study-of-the-therapeutic-effects-of-proximal-intercessory-prayer-on-auditory-and-visual-impairments-in-rural-mozambique/",
+    "35. [Peer-Reviewed] Candy Gunther Brown et al., 'Study of Healing Prayer in Mozambique' Southern Medical Journal 103:9 (September 2010) pp.864-869 - Academic study of prayer effects on auditory and visual impairments",
     "36. [Medical Institution] Mayo Clinic Proceedings - 'Spontaneous Remission and Unexplained Recovery' research archives, multiple case documentation, specialist consultation protocols",
     "37. [Academic Research] Dr. Herbert Benson Harvard Medical School - 'Relaxation Response' research, Mind/Body Medical Institute, 190+ peer-reviewed publications, physiological monitoring studies",
     "38. [Research Center] Duke University Medical Center - Dr. Harold Koenig 4,000+ subject epidemiological studies, Center for Spirituality, Theology and Health, 400+ publications",
@@ -1625,9 +1624,9 @@ export const miracles: Topic = {
     "55. Justin Bouhort Case Documentation - Lourdes Medical Bureau Records. Spinal deformity healing 1858. https://www.lourdes-france.org/en/miraculous-healings/",
     "56. Madeleine Rizan Case Documentation - Lourdes Medical Bureau Archives. Nervous system disorder healing 1858. https://www.lourdes-france.org/en/miraculous-healings/",
     "57. Marie Moreau Case Documentation - Lourdes Medical Bureau Records. Digestive disorder healing 1858. https://www.lourdes-france.org/en/miraculous-healings/",
-    "58. Pierre De Rudder Case Documentation - Encyclopedia Britannica. Famous bone healing case 1875. https://www.britannica.com/topic/Lourdes-pilgrimage-site-France",
+    "58. Pierre De Rudder Case Documentation - Lourdes Medical Bureau Archives. Famous bone healing case 1875. https://www.lourdes-france.org/en/miraculous-healings/",
     "59. Joachime Dehant Case Documentation - Lourdes Medical Bureau Archives. Belgian leg ulceration healing 1875. https://www.lourdes-france.org/en/miraculous-healings/",
-    "60. Elisa Seisson Case Documentation - Catholic Encyclopedia. Abdominal tumor healing 1903. https://www.catholic.com/encyclopedia/lourdes",
+    "60. Elisa Seisson Case Documentation - Lourdes Medical Bureau Archives. Abdominal tumor healing 1903. https://www.lourdes-france.org/en/miraculous-healings/",
     "61. Sister Eugenia (Marie Mabille) Case Documentation - Lourdes Medical Bureau Records. Religious sister healing 1890. https://www.lourdes-france.org/en/miraculous-healings/",
     "62. Sister Julienne (Aline Bruyère) Case Documentation - Lourdes Medical Bureau Archives. Tubercular peritonitis healing 1896. https://www.lourdes-france.org/en/miraculous-healings/",
     "63. Sister Joséphine-Marie (Anne Jourdain) Case Documentation - Lourdes Medical Bureau Records. Gastric ulcer healing 1890. https://www.lourdes-france.org/en/miraculous-healings/",
@@ -1680,14 +1679,14 @@ export const miracles: Topic = {
     "110. Ginette Nouvel Case Documentation - Lourdes Medical Bureau Archives. Neurological condition healing 1954. https://www.lourdes-france.org/en/miraculous-healings/",
     "111. Elisa Aloi Case Documentation - Lourdes Medical Bureau Records. Bone infection healing 1958. https://www.lourdes-france.org/en/miraculous-healings/",
     "112. Juliette Tamburini Case Documentation - Lourdes Medical Bureau Archives. Digestive disorder healing 1959. https://www.lourdes-france.org/en/miraculous-healings/",
-    "113. Vittorio Micheli Case Documentation - PubMed Medical Study. Bone regeneration healing 1963. https://pubmed.ncbi.nlm.nih.gov/15253418/",
-    "114. Serge Perrin Case Documentation - PMC Neurological Study. Stroke recovery healing 1970. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4622148/",
+    "113. Vittorio Micheli Case Documentation - Lourdes Medical Bureau Archives. Bone regeneration healing 1963. https://www.lourdes-france.org/en/miraculous-healings/",
+    "114. Serge Perrin Case Documentation - Lourdes Medical Bureau Archives. Stroke recovery healing 1970. https://www.lourdes-france.org/en/miraculous-healings/",
     "115. Delizia Cirolli Case Documentation - Lourdes Medical Bureau Records. Heart disease healing 1976. https://www.lourdes-france.org/en/miraculous-healings/",
-    "116. Jean-Pierre Bély Case Documentation - Sage Journals Medical Study. Multiple sclerosis healing 1987. https://journals.sagepub.com/doi/abs/10.1177/003591570009301005",
+    "116. Jean-Pierre Bély Case Documentation - Lourdes Medical Bureau Archives. Multiple sclerosis healing 1987. https://www.lourdes-france.org/en/miraculous-healings/",
     "117. Anna Santaniello Case Documentation - Lourdes Medical Bureau Archives. Heart valve healing 1952. https://www.lourdes-france.org/en/miraculous-healings/",
     "118. Sister Luigina Traverso Case Documentation - Lourdes Medical Bureau Records. Leukemia healing 1990s. https://www.lourdes-france.org/en/miraculous-healings/",
     "119. Danila Castelli Case Documentation - Lourdes Medical Bureau Archives. Hypertension healing 1989. https://www.lourdes-france.org/en/miraculous-healings/",
-    "120. Sister Bernadette Moriau Case Documentation - Diocese of Beauvais Official Recognition. Neurological healing 2008. https://www.lourdes-france.org/en/sister-bernadette-moriau/"
+    "120. Sister Bernadette Moriau Case Documentation - Lourdes Medical Bureau Archives. Neurological healing 2008. https://www.lourdes-france.org/en/miraculous-healings/"
   ],
   lastUpdated: "09-09-2025",
 }

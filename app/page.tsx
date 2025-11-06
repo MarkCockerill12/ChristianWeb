@@ -23,7 +23,7 @@ const whatsNewItems = [
       'Updated the "resurrection" page and added "religions" and "branches" pages to topics.',
     date: "09/08/2025",
     category: "Updates",
-    link: "/categories/historical-evidence",
+    link: "/categories",
   },
 {
     id: 1,
