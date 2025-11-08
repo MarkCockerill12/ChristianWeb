@@ -21,6 +21,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <meta name="ahrefs-site-verification" content="9a5cafaa6a1a1e307fc565c7580c8115b329aef42fc37a08ec7efc5605895ce7" />
+      </head>
       <body className={inter.className}>
         {/* <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange> */}
           <Navigation />

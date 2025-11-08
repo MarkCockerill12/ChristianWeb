@@ -1,4 +1,11 @@
-import { BookOpen, Clock, Heart, ExternalLink, CheckCircle2, Users } from "lucide-react"
+import {
+  BookOpen,
+  Clock,
+  Heart,
+  ExternalLink,
+  CheckCircle2,
+  Users,
+} from "lucide-react";
 
 export const iconMap = {
   BookOpen,
@@ -10,12 +17,37 @@ export const iconMap = {
 } as const;
 
 export const branchBeliefs = [
-  { key: "churchAuthority", label: "Church Authority", description: "Do they believe in church authority?", icon: "ExternalLink" },
-  { key: "tradition", label: "Tradition", description: "Do they emphasize tradition?", icon: "Clock" },
-  { key: "sacraments", label: "Sacraments", description: "Do they practice sacraments?", icon: "CheckCircle2" },
-  { key: "pope", label: "Papal Authority", description: "Do they recognize the Pope?", icon: "Heart" },
-  { key: "priesthood", label: "Priesthood of All Believers", description: "Do they believe all Christians are priests?", icon: "Users" },
-]
+  {
+    key: "churchAuthority",
+    label: "Church Authority",
+    description: "Do they believe in church authority?",
+    icon: "ExternalLink",
+  },
+  {
+    key: "tradition",
+    label: "Tradition",
+    description: "Do they emphasize tradition?",
+    icon: "Clock",
+  },
+  {
+    key: "sacraments",
+    label: "Sacraments",
+    description: "Do they practice sacraments?",
+    icon: "CheckCircle2",
+  },
+  {
+    key: "pope",
+    label: "Papal Authority",
+    description: "Do they recognize the Pope?",
+    icon: "Heart",
+  },
+  {
+    key: "priesthood",
+    label: "Priesthood of All Believers",
+    description: "Do they believe all Christians are priests?",
+    icon: "Users",
+  },
+];
 
 export const branchBeliefMap: Record<string, Record<string, boolean>> = {
   catholic: {
@@ -32,42 +64,21 @@ export const branchBeliefMap: Record<string, Record<string, boolean>> = {
     pope: true,
     priesthood: false,
   },
-  protestant: {
-    churchAuthority: false,
-    tradition: false,
-    sacraments: true,
-    pope: false,
-    priesthood: true,
-  },
-  orthodox: {
+  orientalOrthodox: {
     churchAuthority: true,
     tradition: true,
     sacraments: true,
     pope: false,
     priesthood: false,
   },
-  other: {
-    churchAuthority: false,
-    tradition: false,
-    sacraments: false,
-    pope: false,
-    priesthood: true,
-  },
-  Oorthodox: {
+  churchOfTheEast: {
     churchAuthority: true,
     tradition: true,
     sacraments: true,
     pope: false,
     priesthood: false,
   },
-  EastChurch: {
-    churchAuthority: true,
-    tradition: true,
-    sacraments: true,
-    pope: false,
-    priesthood: false,
-  },
-  Eorthodox: {
+  easternOrthodox: {
     churchAuthority: true,
     tradition: true,
     sacraments: true,
@@ -137,36 +148,119 @@ export const branchBeliefMap: Record<string, Record<string, boolean>> = {
     pope: false,
     priesthood: false,
   },
-}
+  quakers: {
+    churchAuthority: false,
+    tradition: false,
+    sacraments: false,
+    pope: false,
+    priesthood: true,
+  },
+  seventhDayAdventist: {
+    churchAuthority: true,
+    tradition: false,
+    sacraments: true,
+    pope: false,
+    priesthood: true,
+  },
+  messianicJudaism: {
+    churchAuthority: false,
+    tradition: false,
+    sacraments: true,
+    pope: false,
+    priesthood: true,
+  },
+  nonDenominational: {
+    churchAuthority: false,
+    tradition: false,
+    sacraments: true,
+    pope: false,
+    priesthood: true,
+  },
+};
 
 // Timeline data for Christian branches
 export const branchTimeline = [
   { id: "catholic", date: "1st c. AD", period: "Apostolic", color: "purple" },
-  { id: "romanCatholic", date: "590 AD", period: "Imperial", color: "darkpurple" },
-  { id: "Oorthodox", date: "451 AD", period: "Early Church", color: "blue" },
-  { id: "EastChurch", date: "451 AD", period: "Early Church", color: "blue" },
-  { id: "Eorthodox", date: "1054 AD", period: "Medieval", color: "green" },
+  {
+    id: "romanCatholic",
+    date: "c. 590 AD",
+    period: "Imperial",
+    color: "darkpurple",
+  },
+  {
+    id: "orientalOrthodox",
+    date: "451 AD",
+    period: "Early Church",
+    color: "blue",
+  },
+  {
+    id: "churchOfTheEast",
+    date: "451 AD",
+    period: "Early Church",
+    color: "blue",
+  },
+  {
+    id: "easternOrthodox",
+    date: "1054 AD",
+    period: "Medieval",
+    color: "green",
+  },
   { id: "Lutheran", date: "1517 AD", period: "Reformation", color: "orange" },
-  { id: "Reformed/Presbyterian", date: "1536 AD", period: "Reformation", color: "orange" },
+  {
+    id: "Reformed/Presbyterian",
+    date: "1536 AD",
+    period: "Reformation",
+    color: "orange",
+  },
   { id: "Anabaptist", date: "1525 AD", period: "Reformation", color: "orange" },
   { id: "Anglican", date: "1534 AD", period: "Reformation", color: "orange" },
+  {
+    id: "quakers",
+    date: "c. 1650s AD",
+    period: "Post-Reformation",
+    color: "gray",
+  },
   { id: "Baptist", date: "1609 AD", period: "Post-Reformation", color: "red" },
   { id: "Methodist", date: "1738 AD", period: "Revival", color: "yellow" },
-  { id: "Pentecostal", date: "1901 AD", period: "Modern", color: "pink" },
-  { id: "Restorationist", date: "1800s AD", period: "Modern", color: "pink" },
   { id: "Episcopal", date: "1789 AD", period: "Modern", color: "purple" },
-]
+  {
+    id: "Restorationist",
+    date: "1800s AD",
+    period: "Modern",
+    color: "pink",
+  },
+  {
+    id: "seventhDayAdventist",
+    date: "1863 AD",
+    period: "Modern",
+    color: "brown",
+  },
+  { id: "Pentecostal", date: "1901 AD", period: "Modern", color: "pink" },
+  {
+    id: "nonDenominational",
+    date: "c. 1900s AD",
+    period: "Modern",
+    color: "gray",
+  },
+  {
+    id: "messianicJudaism",
+    date: "c. 1960s AD",
+    period: "Modern",
+    color: "teal",
+  },
+];
 
-import type { Topic } from './types'
+import type { Topic } from "./types";
 
 export const branches: Topic = {
   id: "branches",
   title: "What are the different branches of Christianity? ",
-  description: "What are the differences between each branch? Are any of them truer than others?",
+  description:
+    "What are the differences between each branch? Are any of them truer than others?",
   icon: "Church",
   color: "purple",
   tags: ["Branches", "Historical"], //make clear what the fundamental aspect of christianity is
-  tldr: "Christianity has several main branches: the Early Universal/Catholic Church (1st-4th centuries), Roman Catholic (emphasizes papal supremacy and distinct from early Universal/Catholic church), Protestant (focuses on scripture alone), and Orthodox (preserves ancient liturgy). Each developed different beliefs about authority, tradition, and sacraments over time.",
+  tldr: "Christianity's main branches include the Early Universal/Catholic Church (1st-4th c.), Roman Catholic (which developed papal supremacy), Eastern Orthodox (which split in 1054 AD), Oriental Orthodox (split in 451 AD), and Protestant (which emerged from the 16th c. Reformation). Each differs on beliefs about scriptural authority, tradition, and sacraments.",
   content: ` <h3>Legend:</h3>
     <p><svg xmlns="http://www.w3.org/2000/svg" class="inline h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M18 13v6a2 2 0 01-2 2H8a2 2 0 01-2-2V5a2 2 0 012-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg> Church Authority - Do they believe in church authority?</p>
     <p><svg xmlns="http://www.w3.org/2000/svg" class="inline h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> Tradition - Do they emphasize tradition?</p>
@@ -175,395 +269,497 @@ export const branches: Topic = {
     <p><svg xmlns="http://www.w3.org/2000/svg" class="inline h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg> Priesthood of All Believers - Do they believe all Christians are priests?</p>
     
     <p>Each branch below will show colored icons indicating their beliefs - green for yes, red for no.</p>`,
-  subtopics: [ //Revise every branch to make sure its accurate, check to make sure calvinism is there and correct, 
+  subtopics: [
     {
       id: "catholic",
       title: "Universal / Original Catholic Church",
       tags: ["catholic", "traditional", "early"],
-      content: `<strong>Founded:</strong> 1st century (Apostolic era, established by The Holy Spirit through the Apostles following Pentecost)<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br><br>
+      content: `<strong>Founded:</strong> 1st century (Apostolic era, established by The Holy Spirit through the Apostles following Pentecost)<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Apostolic succession:</strong> Direct line of authority from the apostles<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
-      • <strong>Seven sacraments:</strong> Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><br>
-      • <strong>Scripture + Tradition:</strong> Both the Bible and apostolic tradition as sources of divine revelation<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • <strong>Episcopal authority:</strong> Led by bishops but without singular papal supremacy<a href="https://en.wikipedia.org/wiki/First_Council_of_Constantinople" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a><a href="https://en.wikipedia.org/wiki/Iconoclasm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[41]</a><br>
-      • <strong>Unity in diversity:</strong> Multiple centers of authority (Rome, Antioch, Alexandria, Jerusalem, Constantinople)<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br>
-      • <strong>Early church councils:</strong> Collective decision-making through ecumenical councils<a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><a href="https://en.wikipedia.org/wiki/Council_of_Chalcedon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><br>
-      • <strong>Martyrdom and persecution:</strong> Sustained through Roman persecution until Constantine<a href="https://en.wikipedia.org/wiki/Constantine_the_Great_and_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a><a href="https://en.wikipedia.org/wiki/Christianity_in_the_4th_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a><br><br>
-      <strong>Historical Context:</strong> The original "catholic" (universal) church before major schisms<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a>. This represents Christianity as it existed in the first few centuries before the rise of papal supremacy<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a>.<br>
-      <strong>Distinctive Features:</strong> House churches, bishop-led communities, emphasis on apostolic teaching and fellowship<a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a>`
+      • <strong>Apostolic succession:</strong> Direct line of authority from the apostles<a href="https://www.britannica.com/topic/apostolic-succession" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><br>
+      • <strong>Sacraments:</strong> Recognition of core sacraments like Baptism and Eucharist<a href="https://www.newadvent.org/cathen/13295a.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><br>
+      • <strong>Scripture + Tradition:</strong> Both the Bible and apostolic tradition as sources of divine revelation<a href="https://www.worldhistory.org/Christianity/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br>
+      • <strong>Episcopal authority:</strong> Led by bishops (episkopoi) but without singular papal supremacy<a href="https://en.wikipedia.org/wiki/Episcopal_polity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a><br>
+      • <strong>Unity in diversity:</strong> Multiple centers of authority (Rome, Antioch, Alexandria, Jerusalem, Constantinople)<a href="https://en.wikipedia.org/wiki/Pentarchy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a><br>
+      • <strong>Early church councils:</strong> Collective decision-making through ecumenical councils<a href="https://en.wikipedia.org/wiki/First_seven_ecumenical_councils" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br>
+      • <strong>Martyrdom and persecution:</strong> Sustained through Roman persecution until Constantine<a href="https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a><br><br>
+      <strong>Historical Context:</strong> The original "catholic" (universal) church before major schisms<a href="https://en.wikipedia.org/wiki/Early_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a>. This represents Christianity as it existed in the first few centuries before the rise of papal supremacy<a href="https://en.wikipedia.org/wiki/History_of_the_papacy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>.<br>
+      <strong>Distinctive Features:</strong> House churches, bishop-led communities, emphasis on apostolic teaching and fellowship<a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>`,
     },
     {
       id: "romanCatholic",
       title: "Roman Catholic Church",
       tags: ["catholic", "traditional", "papal"],
-      content: `<strong>Founded:</strong> Gradual development from 4th-11th centuries (papal supremacy established)<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><br><br>
+      content: `<strong>Founded:</strong> Gradual development, with papal supremacy solidifying from the 4th-11th centuries<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Papal supremacy:</strong> The Pope (Bishop of Rome) is the ultimate authority on earth for Christians<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://w2.vatican.va/content/john-paul-ii/en.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a><br>
-      • <strong>Seven sacraments:</strong> Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
-      • <strong>Scripture + Tradition + Magisterium:</strong> Bible, tradition, and church teaching authority<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
-      • <strong>Faith + Works:</strong> Salvation requires both faith and good works<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://en.wikipedia.org/wiki/Counter-Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[43]</a><br>
-      • <strong>Saints and Mary:</strong> Veneration of saints and Mary as intercessors<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
-      • <strong>Transubstantiation:</strong> Bread and wine literally become the body and blood of Christ<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
-      • <strong>Purgatory:</strong> A state of purification after death before heaven<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
-      • <strong>Celibate clergy:</strong> Priests and bishops must remain unmarried<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.newadvent.org/cathen" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br><br>
-      <strong>Historical Development:</strong> Evolved from the early Catholic church with increasing papal authority, especially after Constantine's conversion (313 AD)<a href="https://en.wikipedia.org/wiki/Constantine_the_Great_and_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a> and the rise of the Holy Roman Empire<a href="https://en.wikipedia.org/wiki/Crusades" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a><a href="https://en.wikipedia.org/wiki/Inquisition" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a>.<br>
-      <strong>Distinctive Practices:</strong> Mass, confession to priests, extensive liturgical calendar, Vatican authority, elaborate church hierarchy<a href="https://www.britannica.com/topic/Roman-Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://w2.vatican.va/content/john-paul-ii/en.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>`
+      • <strong>Papal supremacy:</strong> The Pope (Bishop of Rome) has ultimate, universal authority over the Church<a href="https://en.wikipedia.org/wiki/Papal_supremacy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
+      • <strong>Seven sacraments:</strong> Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony<a href="https://www.vatican.va/archive/ENG0015/__P3E.HTM" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><br>
+      • <strong>Scripture + Tradition + Magisterium:</strong> Authority from the Bible, tradition, and the teaching office of the Church<a href="https://en.wikipedia.org/wiki/Magisterium" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><br>
+      • <strong>Faith + Works:</strong> Salvation comes by grace through faith, which is expressed in good works<a href="https://en.wikipedia.org/wiki/Salvation_in_Catholicism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><br>
+      • <strong>Saints and Mary:</strong> Veneration (honor) of saints and Mary as intercessors<a href="https://www.newadvent.org/cathen/08070a.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><br>
+      • <strong>Transubstantiation:</strong> Bread and wine fully become the body and blood of Christ<a href="https://www.britannica.com/topic/transubstantiation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><br>
+      • <strong>Purgatory:</strong> A state of final purification after death for those destined for heaven<a href="https://www.newadvent.org/cathen/12575a.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
+      • <strong>Celibate clergy:</strong> Priests and bishops must remain unmarried (in the Latin Rite)<a href="https://en.wikipedia.org/wiki/Clerical_celibacy_in_the_Catholic_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br><br>
+      <strong>Historical Development:</strong> Evolved from the early Catholic church with increasing papal authority, especially after the fall of the Western Roman Empire<a href="https://en.wikipedia.org/wiki/History_of_the_Catholic_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a> and the East-West Schism (1054 AD)<a href="https://en.wikipedia.org/wiki/East%E2%80%93West_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a>.<br>
+      <strong>Distinctive Practices:</strong> Mass, confession to priests, extensive liturgical calendar, Vatican authority, elaborate church hierarchy<a href="https://www.vatican.va/archive/ENG0015/_INDEX.HTM" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a>`,
     },
     {
-      id: "Oorthodox",
+      id: "orientalOrthodox",
       title: "Oriental Orthodox",
       tags: ["orthodox", "traditional"],
-      content: `<strong>Founded:</strong> c. 451 AD (split at Council of Chalcedon)<a href="https://en.wikipedia.org/wiki/Council_of_Chalcedon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><a href="https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a><br><br>
+      content: `<strong>Founded:</strong> c. 451 AD (split at Council of Chalcedon)<a href="https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Miaphysite Christology:</strong> Christ has one united divine-human nature (different from Catholic/Eastern Orthodox)<a href="https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a><a href="https://en.wikipedia.org/wiki/Council_of_Chalcedon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><br>
-      • <strong>Regional emphasis:</strong> Strong connection to ethnic and national identity<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><a href="https://en.wikipedia.org/wiki/Armenian_Apostolic_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[32]</a><br>
-      • <strong>Ancient traditions:</strong> Preserves very early Christian practices<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><a href="https://en.wikipedia.org/wiki/Syriac_Orthodox_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[33]</a><br>
-      • <strong>No papal authority:</strong> Rejects Roman Catholic papal supremacy<a href="https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a><a href="https://en.wikipedia.org/wiki/East%E2%80%93West_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a><br>
-      • <strong>Seven sacraments:</strong> Similar to Catholic and Eastern Orthodox<a href="https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a><a href="https://www.ethiopianorthodox.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[34]</a><br><br>
-      <strong>Major Churches:</strong> Ethiopian Orthodox<a href="https://www.ethiopianorthodox.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[34]</a>, Coptic Orthodox<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a>, Armenian Orthodox<a href="https://en.wikipedia.org/wiki/Armenian_Apostolic_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[32]</a>, Syriac Orthodox<a href="https://en.wikipedia.org/wiki/Syriac_Orthodox_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[33]</a><br>
-      <strong>Distinctive Practices:</strong> Unique liturgical traditions, ancient languages (Coptic, Ge'ez, Armenian), fasting periods<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><a href="https://www.ethiopianorthodox.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[34]</a>`
+      • <strong>Miaphysite Christology:</strong> Christ has one united divine-human nature (different from Catholic/Eastern Orthodox Dyophysitism)<a href="https://en.wikipedia.org/wiki/Miaphysitism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><br>
+      • <strong>Regional emphasis:</strong> Strong connection to ethnic and national identity<a href="https://www.britannica.com/topic/Oriental-Orthodox-church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><br>
+      • <strong>Ancient traditions:</strong> Preserves very early Christian practices<a href="https://en.wikipedia.org/wiki/Coptic_Orthodox_Church_of_Alexandria" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[27]</a><br>
+      • <strong>No papal authority:</strong> Rejects Roman Catholic papal supremacy<a href="https://www.copticorthodox.church/en/our-church/st-mark-the-coptic-popes-of-alexandria/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><br>
+      • <strong>Seven sacraments:</strong> Similar to Catholic and Eastern Orthodox<a href="https://ethiopianorthodox.org/english/faith/sacraments.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br><br>
+      <strong>Major Churches:</strong> Ethiopian Orthodox<a href="https://www.worldcouncilofchurches.org/member-churches/ethiopian-orthodox-tewahedo-church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a>, Coptic Orthodox<a href="https://www.worldcouncilofchurches.org/member-churches/coptic-orthodox-church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a>, Armenian Apostolic<a href="https://www.worldcouncilofchurches.org/member-churches/armenian-apostolic-church-holy-see-of-etchmiadzin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[32]</a>, Syriac Orthodox<a href="https://www.worldcouncilofchurches.org/member-churches/syriac-orthodox-patriarchate-of-antioch-and-all-the-east" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[33]</a><br>
+      <strong>Distinctive Practices:</strong> Unique liturgical traditions, ancient languages (Coptic, Ge'ez, Armenian), fasting periods<a href="https://en.wikipedia.org/wiki/Liturgy_of_Saint_James" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[34]</a>`,
     },
     {
-      id: "EastChurch",
+      id: "churchOfTheEast",
       title: "Church of the East",
       tags: ["traditional"],
-      content: `<strong>Founded:</strong> c. 451 AD (split at Council of Chalcedon)<a href="https://en.wikipedia.org/wiki/Council_of_Chalcedon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><br><br>
+      content: `<strong>Founded:</strong> c. 410 AD (Synod of Seleucia-Ctesiphon); split from West after 431 AD Council of Ephesus<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[35]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Nestorian Christology:</strong> Emphasizes the distinct human and divine natures of Christ<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://en.wikipedia.org/wiki/Council_of_Chalcedon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><br>
-      • <strong>Historical missions:</strong> Once spread from Iraq to China and India<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br>
-      • <strong>Independent development:</strong> Developed separately from Western and Byzantine Christianity<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://en.wikipedia.org/wiki/East%E2%80%93West_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a><br>
-      • <strong>Syriac tradition:</strong> Uses Syriac language and Eastern liturgies<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://en.wikipedia.org/wiki/Syriac_Orthodox_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[33]</a><br>
-      • <strong>Married clergy:</strong> Allows married priests and bishops<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><br><br>
-      <strong>Modern Remnants:</strong> Assyrian Church of the East, Ancient Church of the East<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><br>
-      <strong>Historical Note:</strong> Nearly extinct due to persecution, but historically very influential in Asia<a href="https://en.wikipedia.org/wiki/Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a><a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a>`
+      • <strong>Dyophysite Christology:</strong> Traditionally described as "Nestorian," emphasizes two distinct natures (divine and human) in Christ<a href="https://en.wikipedia.org/wiki/Nestorianism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[36]</a><br>
+      • <strong>Historical missions:</strong> Once spread from the Middle East to China and India<a href="https://www.britannica.com/topic/Church-of-the-East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[37]</a><br>
+      • <strong>Independent development:</strong> Developed separately from Western and Byzantine Christianity<a href="https://www.worldhistory.org/Assyrian_Church_of_the_East/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
+      • <strong>Syriac tradition:</strong> Uses Syriac language and Eastern liturgies<a href="https://en.wikipedia.org/wiki/Syriac_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a><br>
+      • <strong>Married clergy:</strong> Allows married priests and bishops<a href="https://en.wikipedia.org/wiki/Clerical_marriage" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[40]</a><br><br>
+      <strong>Modern Remnants:</strong> Assyrian Church of the East, Ancient Church of the East<a href="https://en.wikipedia.org/wiki/Assyrian_Church_of_the_East" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[41]</a><br>
+      <strong>Historical Note:</strong> Significantly reduced due to persecution and isolation, but historically very influential in Asia<a href="https://www.pbs.org/wgbh/pages/frontline/shows/religion/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[42]</a>`,
     },
     {
-      id: "Eorthodox",
+      id: "easternOrthodox",
       title: "Eastern Orthodox",
       tags: ["orthodox", "traditional"],
-      content: `<strong>Founded:</strong> 1054 AD (Great Schism from Roman Catholicism)<a href="https://en.wikipedia.org/wiki/East%E2%80%93West_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a><a href="https://en.wikipedia.org/wiki/Great_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[42]</a><br><br>
+      content: `<strong>Founded:</strong> 1054 AD (Great Schism from Roman Catholicism)<a href="https://www.britannica.com/event/Schism-of-1054" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[43]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>National churches:</strong> Organized into autocephalous (independent) national churches<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://www.patriarchate.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a><br>
-      • <strong>Seven sacraments:</strong> Similar to Catholicism but different interpretations<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://www.oca.org/orthodoxy/the-orthodox-faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[35]</a><br>
-      • <strong>Strong tradition:</strong> Scripture and tradition together, but no single human authority<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://en.wikipedia.org/wiki/East%E2%80%93West_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a><br>
-      • <strong>Icons:</strong> Veneration (not worship) of religious icons<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://en.wikipedia.org/wiki/Iconoclasm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[41]</a><br>
-      • <strong>No papal supremacy:</strong> Rejects the Pope's universal authority<a href="https://en.wikipedia.org/wiki/East%E2%80%93West_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a><a href="https://en.wikipedia.org/wiki/Great_Schism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[42]</a><br>
-      • <strong>Married clergy:</strong> Priests can be married, but bishops must be celibate<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://www.oca.org/orthodoxy/the-orthodox-faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[35]</a><br>
-      • <strong>Theosis:</strong> Emphasis on becoming "partakers of the divine nature"<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://www.worldhistory.org/Eastern_Orthodox_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[56]</a><br><br>
-      <strong>Major Churches:</strong> Greek, Russian, Serbian, Romanian, Bulgarian Orthodox<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://www.patriarchate.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a><br>
-      <strong>Distinctive Practices:</strong> Divine Liturgy, extensive fasting, iconostasis in churches<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><a href="https://www.oca.org/orthodoxy/the-orthodox-faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[35]</a>`
+      • <strong>National churches:</strong> Organized into autocephalous (independent) national churches<a href="https://www.britannica.com/topic/Eastern-Orthodoxy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[44]</a><br>
+      • <strong>Seven sacraments:</strong> Similar to Catholicism but with different nuances (e.g., infant communion)<a href="https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br>
+      • <strong>Strong tradition:</strong> Scripture and "Holy Tradition" together, guided by Ecumenical Councils<a href="https://www.goarch.org/our-faith/scripture-and-tradition" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
+      • <strong>Icons:</strong> Veneration (not worship) of religious icons as "windows to heaven"<a href="https://en.wikipedia.org/wiki/Icon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
+      • <strong>No papal supremacy:</strong> Rejects the Pope's universal authority; sees him as "first among equals" (historically)<a href="https://www.patriarchate.org/the-ecumenical-patriarchate" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><br>
+      • <strong>Married clergy:</strong> Priests can be married (if married before ordination), but bishops must be celibate<a href="https://www.oca.org/orthodoxy/the-orthodox-faith/church-structure/clergy" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
+      • <strong>Theosis:</strong> Emphasis on salvation as a process of deification, becoming "partakers of the divine nature"<a href="https://en.wikipedia.org/wiki/Theosis_(Eastern_Orthodox_theology)" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br><br>
+      <strong>Major Churches:</strong> Greek, Russian, Serbian, Romanian, Bulgarian Orthodox<a href="https://www.worldhistory.org/Eastern_Orthodox_Church/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a><br>
+      <strong>Distinctive Practices:</strong> Divine Liturgy, extensive fasting, iconostasis in churches<a href="https://www.oca.org/orthodoxy/the-orthodox-faith/worship" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a>`,
     },
     {
       id: "Lutheran",
       title: "Lutheran",
       tags: ["protestant", "reformation"],
-      content: `<strong>Founded:</strong> c. 1517 AD (Martin Luther's Reformation)<a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><a href="https://en.wikipedia.org/wiki/Martin_Luther" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><br><br>
+      content: `<strong>Founded:</strong> c. 1517 AD (Martin Luther's Reformation)<a href="https://en.wikipedia.org/wiki/Martin_Luther" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Justification by faith alone:</strong> Salvation by faith, not works (sola fide)<a href="https://en.wikipedia.org/wiki/Martin_Luther" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><a href="https://en.wikipedia.org/wiki/Augsburg_Confession" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[44]</a><br>
-      • <strong>Scripture alone:</strong> Bible is the sole authority (sola scriptura)<a href="https://en.wikipedia.org/wiki/Martin_Luther" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><a href="https://www.lutheranworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><br>
-      • <strong>Consubstantiation:</strong> Christ is present "in, with, and under" the bread and wine<a href="https://www.lutheranworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><a href="https://en.wikipedia.org/wiki/Augsburg_Confession" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[44]</a><br>
-      • <strong>Two sacraments:</strong> Baptism and Communion only<a href="https://www.lutheranworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><a href="https://en.wikipedia.org/wiki/Augsburg_Confession" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[44]</a><br>
-      • <strong>Liturgical worship:</strong> Maintains traditional liturgical structure<a href="https://www.lutheranworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><a href="https://en.wikipedia.org/wiki/Martin_Luther" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><br>
-      • <strong>Grace alone:</strong> Salvation is entirely God's work<a href="https://en.wikipedia.org/wiki/Martin_Luther" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><a href="https://en.wikipedia.org/wiki/Augsburg_Confession" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[44]</a><br>
-      • <strong>Priesthood of all believers:</strong> All Christians have direct access to God<a href="https://en.wikipedia.org/wiki/Martin_Luther" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br><br>
-      <strong>Distinctive Features:</strong> Lutheran Confessions (Augsburg Confession)<a href="https://en.wikipedia.org/wiki/Augsburg_Confession" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[44]</a>, liturgical calendar, infant baptism<a href="https://www.lutheranworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><br>
-      <strong>Major Bodies:</strong> Lutheran World Federation<a href="https://www.lutheranworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>, Missouri Synod, Wisconsin Synod<a href="https://www.worldhistory.org/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a>`
+      • <strong>Justification by faith alone:</strong> Salvation by grace through faith, not works (sola fide)<a href="https://www.britannica.com/topic/justification-Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a><br>
+      • <strong>Scripture alone:</strong> Bible is the sole infallible authority (sola scriptura)<a href="https://en.wikipedia.org/wiki/Sola_scriptura" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a><br>
+      • <strong>Sacramental Union:</strong> Christ is present "in, with, and under" the bread and wine (often called Consubstantiation)<a href="https://en.wikipedia.org/wiki/Sacramental_union" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[56]</a><br>
+      • <strong>Two sacraments:</strong> Baptism and Communion as primary sacraments<a href="https://www.lutheranworld.org/content/what-lutheranism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[57]</a><br>
+      • <strong>Liturgical worship:</strong> Maintains traditional liturgical structure (though varies)<a href="https://en.wikipedia.org/wiki/Lutheran_worship" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[58]</a><br>
+      • <strong>Grace alone:</strong> Salvation is entirely God's unmerited work (sola gratia)<a href="https://en.wikipedia.org/wiki/Sola_gratia" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[59]</a><br>
+      • <strong>Priesthood of all believers:</strong> All Christians have direct access to God<a href="https://en.wikipedia.org/wiki/Priesthood_of_all_believers" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a><br><br>
+      <strong>Distinctive Features:</strong> Lutheran Confessions (Book of Concord, Augsburg Confession)<a href="https://en.wikipedia.org/wiki/Book_of_Concord" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[61]</a>, liturgical calendar, infant baptism<a href="https://www.elca.org/faith/elca-teaching/baptism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a>.<br>
+      <strong>Major Bodies:</strong> Lutheran World Federation<a href="https://www.lutheranworld.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[63]</a>, Lutheran Church–Missouri Synod, Wisconsin Evangelical Lutheran Synod<a href="https://www.worldhistory.org/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[64]</a>`,
     },
     {
       id: "Reformed/Presbyterian",
       title: "Reformed/Presbyterian",
-      tags: ["protestant", "reformation"],
-      content: `<strong>Founded:</strong> c. 1536 AD (John Calvin in Geneva)<a href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br><br>
+      tags: ["protestant", "reformation", "calvinist"],
+      content: `<strong>Founded:</strong> c. 1536 AD (John Calvin in Geneva)<a href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[65]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Predestination:</strong> God has chosen who will be saved (TULIP theology)<a href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><a href="https://www.pcusa.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><br>
-      • <strong>Sovereignty of God:</strong> God's absolute control over all things<a href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><a href="https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br>
-      • <strong>Church elders:</strong> Presbyterian church government with elected elders<a href="https://www.pcusa.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><a href="https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br>
-      • <strong>Simple worship:</strong> Focus on preaching and minimal ritual<a href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><a href="https://www.pcusa.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><br>
-      • <strong>Covenant theology:</strong> Understanding of God's relationship with humanity through covenants<a href="https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><a href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><br>
-      • <strong>Westminster Standards:</strong> Confessions and catechisms as doctrinal standards<a href="https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><a href="https://www.pcusa.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><br>
-      • <strong>Total depravity:</strong> Humanity is completely corrupted by sin<a href="https://en.wikipedia.org/wiki/John_Calvin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><a href="https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br><br>
-      <strong>Church Government:</strong> Presbyterian system with sessions, presbyteries, and assemblies<a href="https://www.pcusa.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><a href="https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br>
-      <strong>Major Bodies:</strong> Presbyterian Church (USA)<a href="https://www.pcusa.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>, Orthodox Presbyterian Church, Reformed churches<a href="https://www.worldhistory.org/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a>`
+      • <strong>Sovereignty of God:</strong> God's absolute control and foreknowledge over all things<a href="https://en.wikipedia.org/wiki/Sovereignty_of_God" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[66]</a><br>
+      • <strong>Predestination:</strong> God has chosen (elected) who will be saved (TULIP theology is a summary of this)<a href="https://www.britannica.com/topic/predestination" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[67]</a><br>
+      • <strong>Church elders:</strong> Presbyterian church government with elected elders (presbyters)<a href="https://www.pcusa.org/what-we-believe/presbyterian-polity/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[68]</a><br>
+      • <strong>Simple worship:</strong> Focus on preaching and scripture, with minimal ritual<a href="https://en.wikipedia.org/wiki/Reformed_worship" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[69]</a><br>
+      • <strong>Covenant theology:</strong> Understanding of God's relationship with humanity through covenants<a href="https://en.wikipedia.org/wiki/Covenant_theology" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[70]</a><br>
+      • <strong>Westminster Standards:</strong> Confessions and catechisms as doctrinal standards for many<a href="https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[71]</a><br>
+      • <strong>Total depravity:</strong> Humanity is completely corrupted by sin and unable to choose God<a href="https://en.wikipedia.org/wiki/Total_depravity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[72]</a><br><br>
+      <strong>Church Government:</strong> Presbyterian system with sessions, presbyteries, and general assemblies<a href="https://en.wikipedia.org/wiki/Presbyterian_polity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[73]</a><br>
+      <strong>Major Bodies:</strong> Presbyterian Church (USA)<a href="https://www.pcusa.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[74]</a>, Orthodox Presbyterian Church, World Communion of Reformed Churches<a href="https://wcrc.ch/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[75]</a>`,
     },
     {
       id: "Anabaptist",
       title: "Anabaptist",
       tags: ["protestant", "reformation"],
-      content: `<strong>Founded:</strong> 1525 AD (Swiss Brethren, radical reformation)<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br><br>
+      content: `<strong>Founded:</strong> 1525 AD (Swiss Brethren, radical reformation)<a href="https://en.wikipedia.org/wiki/Anabaptism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[76]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Adult baptism:</strong> Only believers who can make conscious decisions should be baptized<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><a href="https://mwc-cmm.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><br>
-      • <strong>Pacifism:</strong> Commitment to non-violence and peace<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><a href="https://mwc-cmm.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><br>
-      • <strong>Simple living:</strong> Emphasis on modesty and rejection of worldliness<a href="https://mwc-cmm.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><br>
-      • <strong>Church-state separation:</strong> Complete separation of church and government<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br>
-      • <strong>Community discipline:</strong> Strong emphasis on church discipline and mutual accountability<a href="https://mwc-cmm.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><br>
-      • <strong>Biblical literalism:</strong> Direct application of New Testament teachings<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><a href="https://mwc-cmm.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><br>
-      • <strong>Voluntary faith:</strong> Faith cannot be coerced or inherited<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br><br>
-      <strong>Modern Descendants:</strong> Mennonites<a href="https://mwc-cmm.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a>, Amish, Hutterites, Brethren churches<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><br>
-      <strong>Historical Note:</strong> Heavily persecuted by both Catholics and other Protestants<a href="https://en.wikipedia.org/wiki/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a>`
+      • <strong>Adult baptism:</strong> "Re-baptism" of believers who make a conscious decision (credo-baptism)<a href="https://www.britannica.com/topic/Anabaptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[77]</a><br>
+      • <strong>Pacifism:</strong> Commitment to non-violence and peace (non-resistance)<a href="https://en.wikipedia.org/wiki/Peace_churches" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[78]</a><br>
+      • <strong>Simple living:</strong> Emphasis on modesty and separation from worldly culture<a href="https://mwc-cmm.org/our-faith/shared-convictions-anabaptist-mennonites" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[79]</a><br>
+      • <strong>Church-state separation:</strong> Complete separation of church and government<a href="https://en.wikipedia.org/wiki/Separation_of_church_and_state" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[80]</a><br>
+      • <strong>Community discipline:</strong> Strong emphasis on church discipline ("the ban") and mutual accountability<a href="https://gameo.org/index.php?title=Ban" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[81]</a><br>
+      • <strong>Biblical literalism:</strong> Direct application of New Testament teachings, especially the Sermon on the Mount<a href="https://gameo.org/index.php?title=Bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[82]</a><br>
+      • <strong>Voluntary faith:</strong> Faith cannot be coerced or inherited<a href="https://en.wikipedia.org/wiki/Believers%27_church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[83]</a><br><br>
+      <strong>Modern Descendants:</strong> Mennonites<a href="https://mwc-cmm.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[84]</a>, Amish, Hutterites, Brethren churches<a href="https://gameo.org/index.php?title=Anabaptism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[85]</a><br>
+      <strong>Historical Note:</strong> Heavily persecuted by both Catholics and other Protestants<a href="https://www.christianhistoryinstitute.org/magazine/issue/anabaptists-radical-reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[86]</a>`,
     },
     {
       id: "Anglican",
       title: "Anglican",
       tags: ["protestant"],
-      content: `<strong>Founded:</strong> 1534 AD (Henry VIII's break from Rome)<a href="https://en.wikipedia.org/wiki/Henry_VIII" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[27]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br><br>
+      content: `<strong>Founded:</strong> 1534 AD (Henry VIII's break from Rome)<a href="https://en.wikipedia.org/wiki/English_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[87]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Via media:</strong> "Middle way" between Catholicism and Protestantism<a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
-      • <strong>Episcopal governance:</strong> Led by bishops in apostolic succession<a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://en.wikipedia.org/wiki/Henry_VIII" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[27]</a><br>
-      • <strong>Book of Common Prayer:</strong> Structured liturgical worship<a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
-      • <strong>Three-legged stool:</strong> Scripture, tradition, and reason as authorities<a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
-      • <strong>Broad spectrum:</strong> Includes high church (Anglo-Catholic), low church (Evangelical), and broad church traditions<a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><br>
-      • <strong>Royal supremacy:</strong> Monarch as Supreme Governor (in England)<a href="https://en.wikipedia.org/wiki/Henry_VIII" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[27]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
-      • <strong>Married clergy:</strong> Priests and bishops can marry<a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br><br>
-      <strong>Global Communion:</strong> Church of England, Episcopal Church (USA)<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a>, Anglican churches worldwide<a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
-      <strong>Distinctive Features:</strong> Cathedrals, choral tradition, theological diversity within unity<a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a>`
+      • <strong>Via media:</strong> "Middle way" between Catholicism and Protestantism<a href="https://www.britannica.com/topic/Anglicanism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[88]</a><br>
+      • <strong>Episcopal governance:</strong> Led by bishops in apostolic succession<a href="https://www.churchofengland.org/about/leadership-and-governance/bishops" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[89]</a><br>
+      • <strong>Book of Common Prayer:</strong> Structured liturgical worship<a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[90]</a><br>
+      • <strong>Three-legged stool:</strong> Scripture, tradition, and reason as authorities<a href="https://en.wikipedia.org/wiki/Anglicanism#Doctrine" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[91]</a><br>
+      • <strong>Broad spectrum:</strong> Includes high church (Anglo-Catholic), low church (Evangelical), and broad church traditions<a href="https://en.wikipedia.org/wiki/Anglican_churchmanship" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[92]</a><br>
+      • <strong>Royal supremacy:</strong> Monarch as Supreme Governor (in England)<a href="https://en.wikipedia.org/wiki/Supreme_Governor_of_the_Church_of_England" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[93]</a><br>
+      • <strong>Married clergy:</strong> Priests and bishops can marry<a href="https://www.churchofengland.org/life-events/vocations" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[94]</a><br><br>
+      <strong>Global Communion:</strong> Church of England, Episcopal Church (USA)<a href="https://www.episcopalchurch.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[95]</a>, Anglican churches worldwide<a href="https://www.anglicancommunion.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[96]</a><br>
+      <strong>Distinctive Features:</strong> Cathedrals, choral tradition, theological diversity within unity<a href="https://www.churchofengland.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[97]</a>`,
     },
     {
       id: "Baptist",
       title: "Baptist",
       tags: ["protestant"],
-      content: `<strong>Founded:</strong> 1609 AD (Amsterdam, John Smyth)<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
+      content: `<strong>Founded:</strong> 1609 AD (Amsterdam, John Smyth)<a href="https://en.wikipedia.org/wiki/Baptists" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[98]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Believer's baptism:</strong> Baptism by full immersion only after personal faith decision<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br>
-      • <strong>Local church autonomy:</strong> Each congregation is independent and self-governing<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • <strong>Biblical authority:</strong> Scripture alone as the final authority<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br>
-      • <strong>Priesthood of believers:</strong> Every Christian has direct access to God<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br>
-      • <strong>Religious liberty:</strong> Strong advocate for freedom of conscience<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • <strong>Evangelism:</strong> Strong emphasis on personal evangelism and missions<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • <strong>Congregational polity:</strong> Democratic church governance<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
-      <strong>Major Groups:</strong> Southern Baptist Convention, American Baptist Churches, Independent Baptist churches<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><br>
-      <strong>Cultural Impact:</strong> Historically influential in religious freedom movements<a href="https://www.baptistworld.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a>`
+      • <strong>Believer's baptism:</strong> Baptism by full immersion only after personal faith decision<a href="https://en.wikipedia.org/wiki/Believer%27s_baptism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[99]</a><br>
+      • <strong>Local church autonomy:</strong> Each congregation is independent and self-governing<a href="https://en.wikipedia.org/wiki/Congregationalist_polity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[100]</a><br>
+      • <strong>Biblical authority:</strong> Scripture alone as the final authority (sola scriptura)<a href="https://www.baptistworld.org/baptist-identity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[101]</a><br>
+      • <strong>Priesthood of believers:</strong> Every Christian has direct access to God<a href="https://www.sbc.net/about/what-we-believe/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[102]</a><br>
+      • <strong>Religious liberty:</strong> Strong advocate for freedom of conscience and separation of church and state<a href="https://bjconline.org/what-is-religious-liberty/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[103]</a><br>
+      • <strong>Evangelism:</strong> Strong emphasis on personal evangelism and missions<a href="https://www.baptistworld.org/evangelism-and-mission" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[104]</a><br>
+      • <strong>Congregational polity:</strong> Democratic church governance<a href="https://www.britannica.com/topic/Baptist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[105]</a><br><br>
+      <strong>Major Groups:</strong> Southern Baptist Convention, American Baptist Churches, Independent Baptist churches<a href="https://www.baptistworld.org/our-network" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[106]</a><br>
+      <strong>Cultural Impact:</strong> Historically influential in religious freedom movements<a href="https://en.wikipedia.org/wiki/Roger_Williams_(theologian)" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[107]</a>`,
     },
     {
       id: "Methodist",
       title: "Methodist",
       tags: ["protestant"],
-      content: `<strong>Founded:</strong> 18th century (John Wesley's revival movement)<a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><br><br>
+      content: `<strong>Founded:</strong> 18th century (John Wesley's revival movement)<a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[108]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Prevenient grace:</strong> God's grace is available to all people before they believe<a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><br>
-      • <strong>Arminian soteriology:</strong> Humans can choose to accept or reject salvation<a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • <strong>Social holiness:</strong> Personal holiness must lead to social action<a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><br>
-      • <strong>Perfectionism:</strong> Christians can achieve Christian perfection in this life<a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><br>
-      • <strong>Means of grace:</strong> Scripture, sacraments, prayer, and Christian fellowship<a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><br>
-      • <strong>Methodist quadrilateral:</strong> Scripture, tradition, reason, and experience<a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><br>
-      • <strong>Social justice:</strong> Strong emphasis on helping the poor and marginalized<a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
-      <strong>Historical Impact:</strong> Abolition movement, temperance, civil rights<a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      <strong>Major Bodies:</strong> United Methodist Church<a href="https://www.umc.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a>, Free Methodist, Nazarene churches<a href="https://en.wikipedia.org/wiki/John_Wesley" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a>`
+      • <strong>Prevenient grace:</strong> God's grace is available to all people, enabling them to respond to Him<a href="https://www.umc.org/en/content/glossary/prevenient-grace" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[109]</a><br>
+      • <strong>Arminian soteriology:</strong> Humans have free will to accept or reject salvation<a href="https://en.wikipedia.org/wiki/Arminianism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[110]</a><br>
+      • <strong>Social holiness:</strong> Personal holiness must lead to social action and justice<a href="https://www.umc.org/en/content/our-wesleyan-heritage" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[111]</a><br>
+      • <strong>Perfectionism:</strong> Christians can achieve "Christian perfection" (sanctification) in this life<a href="https://en.wikipedia.org/wiki/Christian_perfection" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[112]</a><br>
+      • <strong>Means of grace:</strong> Emphasizes spiritual growth through scripture, sacraments, prayer, and fellowship<a href="https://en.wikipedia.org/wiki/Means_of_grace" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[113]</a><br>
+      • <strong>Methodist quadrilateral:</strong> Authority based on Scripture (primary), tradition, reason, and experience<a href="https://en.wikipedia.org/wiki/Wesleyan_Quadrilateral" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[114]</a><br>
+      • <strong>Social justice:</strong> Strong emphasis on helping the poor and marginalized<a href="https://www.umc.org/en/how-we-serve/advocating-for-justice/social-principles" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[115]</a><br><br>
+      <strong>Historical Impact:</strong> Abolition movement, temperance, civil rights<a href="https://www.umc.org/en/who-we-are/history" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[116]</a><br>
+      <strong>Major Bodies:</strong> United Methodist Church<a href="https://www.umc.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[117]</a>, Free Methodist, African Methodist Episcopal Church (AME)<a href="https://en.wikipedia.org/wiki/Methodism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[118]</a>`,
     },
     {
       id: "Pentecostal",
       title: "Pentecostal",
-      tags: ["protestant"],
-      content: `<strong>Founded:</strong> Early 1900s (Azusa Street Revival, Los Angeles)<a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br><br>
+      tags: ["protestant", "charismatic"],
+      content: `<strong>Founded:</strong> Early 1900s (Azusa Street Revival, Los Angeles)<a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[119]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Baptism in the Holy Spirit:</strong> Second experience after salvation, evidenced by speaking in tongues<a href="https://ag.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br>
-      • <strong>Spiritual gifts:</strong> Emphasis on all nine gifts of the Spirit (1 Corinthians 12)<a href="https://ag.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><br>
-      • <strong>Divine healing:</strong> God heals today through prayer and faith<a href="https://ag.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br>
-      • <strong>Prosperity teaching:</strong> God desires believers to be healthy and prosperous (some denominations)<a href="https://ag.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br>
-      • <strong>Premillennialism:</strong> Jesus will return before the millennium<a href="https://ag.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br>
-      • <strong>Personal experience:</strong> Direct, personal relationship with God through the Spirit<a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br>
-      • <strong>Evangelistic fervor:</strong> Strong emphasis on missions and church planting<a href="https://ag.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><br><br>
-      <strong>Global Movement:</strong> Fastest-growing Christian movement worldwide<a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><a href="https://en.wikipedia.org/wiki/Azusa_Street_Revival" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><br>
-      <strong>Major Bodies:</strong> Assemblies of God<a href="https://ag.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a>, Church of God in Christ, Foursquare Church<a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a>`
+      • <strong>Baptism in the Holy Spirit:</strong> A distinct experience after salvation, evidenced by speaking in tongues<a href="https://ag.org/Beliefs/Statement-of-Fundamental-Truths/Baptism-in-the-Holy-Spirit" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[120]</a><br>
+      • <strong>Spiritual gifts:</strong> Emphasis on all nine gifts of the Spirit (1 Corinthians 12) for today<a href="https://en.wikipedia.org/wiki/Gifts_of_the_Spirit" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[121]</a><br>
+      • <strong>Divine healing:</strong> God heals today through prayer and faith<a href="https://ag.org/Beliefs/Statement-of-Fundamental-Truths/Divine-Healing" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[122]</a><br>
+      • <strong>Prosperity teaching:</strong> God desires believers to be healthy and prosperous (common, but not universal)<a href="https://en.wikipedia.org/wiki/Prosperity_theology" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[123]</a><br>
+      • <strong>Premillennialism:</strong> Belief that Jesus will return before the millennium<a href="https://ag.org/Beliefs/Statement-of-Fundamental-Truths/The-Blessed-Hope" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[124]</a><br>
+      • <strong>Personal experience:</strong> Direct, personal relationship with God through the Spirit<a href="https://www.pewresearch.org/religion/religious-landscape-study/religious-tradition/pentecostal-family/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[125]</a><br>
+      • <strong>Evangelistic fervor:</strong> Strong emphasis on missions and church planting<a href="https://ag.org/Beliefs/Statement-of-Fundamental-Truths#16" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[126]</a><br><br>
+      <strong>Global Movement:</strong> One of the fastest-growing Christian movements worldwide<a href="https://en.wikipedia.org/wiki/Pentecostalism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[127]</a><br>
+      <strong>Major Bodies:</strong> Assemblies of God<a href="https://ag.org/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[128]</a>, Church of God in Christ, Foursquare Church<a href="https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[129]</a>`,
     },
     {
       id: "Restorationist",
       title: "Restorationist",
       tags: ["protestant", "restoration"],
-      content: `<strong>Founded:</strong> 1800s onwards (Stone-Campbell Movement and others)<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
+      content: `<strong>Founded:</strong> 1800s onwards (Stone-Campbell Movement and others)<a href="https://en.wikipedia.org/wiki/Restorationism_(Christianity)" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[130]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Primitive Christianity:</strong> Attempt to restore New Testament Christianity exactly<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br>
-      • <strong>No creeds:</strong> "No creed but Christ, no book but the Bible"<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • <strong>Apostolic authority:</strong> Some claim restored apostolic authority<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br>
-      • <strong>Additional scriptures:</strong> Some groups accept new revelations or scriptures<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://www.adventist.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
-      • <strong>Biblical patterns:</strong> Strict adherence to perceived New Testament patterns<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://en.wikipedia.org/wiki/Protestant_Reformation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br>
-      • <strong>Unity movement:</strong> Seeks to unite all Christians by returning to biblical basics<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://www.worldcouncilofchurches.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br>
-      • <strong>Exclusive claims:</strong> Some claim to be the only true church<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://www.adventist.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br><br>
-      <strong>Major Groups:</strong> Churches of Christ, Disciples of Christ, Latter-day Saints (Mormons)<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a>, Jehovah's Witnesses<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><br>
-      <strong>Controversy:</strong> Some groups considered non-orthodox due to additional revelations<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a><a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a>`
+      • <strong>Primitive Christianity:</strong> Attempt to restore New Testament Christianity exactly, bypassing tradition<a href="https://www.georgiaencyclopedia.org/articles/arts-culture/restoration-movement/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[131]</a><br>
+      • <strong>No creeds:</strong> "No creed but Christ, no book but the Bible"<a href="https://en.wikipedia.org/wiki/Restoration_Movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[132]</a><br>
+      • <strong>Biblical patterns:</strong> Strict adherence to perceived New Testament patterns for worship and structure<a href="https://en.wikipedia.org/wiki/Churches_of_Christ" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[133]</a><br>
+      • <strong>Unity movement:</strong> Seeks to unite all Christians by returning to biblical basics<a href="https://www.worldconvention.org/about" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[134]</a><br><br>
+      <strong>Major Groups:</strong> Churches of Christ, Disciples of Christ, Christian Church (Disciples of Christ)<a href="httpsA://en.wikipedia.org/wiki/Stone-Campbell_Movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[135]</a>.<br>
+      <strong>Note:</strong> Other groups like Latter-day Saints and Jehovah's Witnesses also originated in this period with a "restoration" goal, but are considered non-orthodox by mainstream Christianity (see 'Other Movements').<a href="https://en.wikipedia.org/wiki/Restorationism_(Christianity)#Non-mainstream_groups" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[136]</a>`,
     },
     {
       id: "Episcopal",
       title: "Episcopal",
       tags: ["anglican", "protestant"],
-      content: `<strong>Founded:</strong> 1789 AD (American Episcopal Church formed after American Revolution)<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br><br>
+      content: `<strong>Founded:</strong> 1789 AD (American Episcopal Church formed after American Revolution)<a href="https://www.episcopalchurch.org/who-we-are/history/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[137]</a><br><br>
       <strong>Key Beliefs:</strong><br>
-      • <strong>Anglican tradition:</strong> Part of the worldwide Anglican Communion<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
-      • <strong>Via media:</strong> "Middle way" between Catholicism and Protestantism<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
-      • <strong>Episcopal governance:</strong> Led by bishops in apostolic succession<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
-      • <strong>Book of Common Prayer:</strong> Liturgical worship with structured prayers<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
-      • <strong>Broad theological spectrum:</strong> Includes Anglo-Catholic, Evangelical, and Liberal traditions<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
-      • <strong>Social justice:</strong> Strong emphasis on social issues and inclusion<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • <strong>Ordination of women:</strong> Ordains women as priests and bishops<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br>
-      • <strong>LGBTQ+ inclusion:</strong> Generally affirming of LGBTQ+ individuals<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><br><br>
-      <strong>Distinctive Features:</strong> Beautiful liturgy, cathedral tradition, theological education emphasis<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://en.wikipedia.org/wiki/Book_of_Common_Prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
-      <strong>Modern Context:</strong> Progressive positions on social issues while maintaining traditional liturgy<a href="https://www.episcopalchurch.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><a href="https://www.anglicancommunion.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a>`
+      • <strong>Anglican tradition:</strong> Part of the worldwide Anglican Communion (USA branch)<a href="https://www.episcopalchurch.org/who-we-are/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[138]</a><br>
+      • <strong>Via media:</strong> "Middle way" between Catholicism and Protestantism<a href="https://www.episcopalchurch.org/what-we-believe/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[139]</a><br>
+      • <strong>Episcopal governance:</strong> Led by bishops in apostolic succession<a href="https://www.episcopalchurch.org/who-we-are/structure/bishops/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[140]</a><br>
+      • <strong>Book of Common Prayer:</strong> Liturgical worship with structured prayers<a href="https://www.episcopalchurch.org/book-of-common-prayer/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[141]</a><br>
+      • <strong>Broad theological spectrum:</strong> Includes Anglo-Catholic, Evangelical, and Liberal traditions<a href="https://en.wikipedia.org/wiki/Episcopal_Church_(United_States)#Theology" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[142]</a><br>
+      • <strong>Social justice:</strong> Strong emphasis on social issues and inclusion<a href="https://www.episcopalchurch.org/what-we-believe/social-justice-advocacy/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[143]</a><br>
+      • <strong>Ordination of women:</strong> Ordains women as priests and bishops<a href="https://www.episcopalchurch.org/who-we-are/structure/women-in-the-church/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[144]</a><br>
+      • <strong>LGBTQ+ inclusion:</strong> Generally affirming of LGBTQ+ individuals and clergy<a href="https://www.episcopalchurch.org/what-we-believe/lgbtq/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[145]</a><br><br>
+      <strong>Distinctive Features:</strong> Beautiful liturgy, cathedral tradition, theological education emphasis<a href="https://www.episcopalchurch.org/what-we-believe/worship/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[146]</a>`,
     },
     {
-      id: "other",
-      title: "Other Christian Movements",
-      tags: ["other", "modern"],
-      content: `<strong>Various Other Christian Movements:</strong><br><br>
-      
-      <strong>Quakers (Religious Society of Friends)</strong> - Founded 1650s<a href="https://www.quaker.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • Emphasize "inner light" - direct spiritual experience with God<a href="https://www.quaker.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><br>
-      • Silent worship with no formal liturgy<a href="https://www.quaker.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><br>
-      • Historic peace testimony and social justice advocacy<a href="https://www.quaker.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • Simple living and equality principles<a href="https://www.quaker.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><br><br>
-      
-      <strong>Seventh-day Adventist</strong> - Founded 1863<a href="https://www.adventist.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
-      • Seventh-day (Saturday) Sabbath observance<a href="https://www.adventist.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
-      • Emphasis on Second Coming of Christ<a href="https://www.adventist.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
-      • Health and wellness focus (vegetarianism, medical missions)<a href="https://www.adventist.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
-      • Prophetic ministry of Ellen G. White<a href="https://www.adventist.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br><br>
-      
-      <strong>Messianic Judaism</strong> - Modern movement<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • Jewish believers in Jesus (Yeshua) as Messiah<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br>
-      • Maintain Jewish cultural practices and holidays<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br>
-      • Hebrew language and Jewish liturgy<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br>
-      • Bridge between Jewish and Christian communities<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br><br>
-      
-      <strong>Non-denominational Churches</strong> - 20th century onwards<a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><a href="https://www.worldcouncilofchurches.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br>
-      • Reject formal denominational ties<a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • Local church autonomy and independence<a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • Bible-centered, often evangelical theology<a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br>
-      • Contemporary worship styles<a href="https://en.wikipedia.org/wiki/Great_Awakening" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
-      
-      <strong>House Church Movement</strong> - Various periods<a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • Simple church meetings in homes<a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br>
-      • Minimal institutional structure<a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br>
-      • Emphasis on community and fellowship<a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br>
-      • Return to New Testament patterns<a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br><br>
-      
-      <strong>Emerging Church</strong> - Late 20th century<a href="https://www.worldcouncilofchurches.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • Postmodern approach to Christianity<a href="https://www.worldcouncilofchurches.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br>
-      • Social justice and environmental concerns<a href="https://www.worldcouncilofchurches.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br>
-      • Question traditional evangelical certainties<a href="https://www.worldcouncilofchurches.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br>
-      • Authentic community emphasis<a href="https://www.worldcouncilofchurches.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br><br>
-      
-      <strong>Unitarian Universalist</strong> - 1961 merger<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
-      • Universal salvation beliefs<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br>
-      • Rejection of Trinity doctrine<a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
-      • Emphasis on reason and individual conscience<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br>
-      • Social justice activism<a href="https://en.wikipedia.org/wiki/History_of_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br><br>
-      
-      <strong>Coptic Christianity</strong> - Ancient tradition<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><a href="https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a><br>
-      • Egyptian Orthodox tradition<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><br>
-      • Coptic language preservation<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><br>
-      • Desert monasticism heritage<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • Persecution and martyrdom history<a href="https://www.coptic.org" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><a href="https://en.wikipedia.org/wiki/Christianity_in_the_4th_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a><br><br>
-      
-      <strong>Celtic Christianity</strong> - Historical and modern revival<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><a href="https://en.wikipedia.org/wiki/Christianity_in_the_1st_century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a><br>
-      • Ancient Irish and Scottish traditions<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • Creation spirituality emphasis<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • Contemplative practices<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
-      • Integration of nature and faith<a href="https://www.worldhistory.org/Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br><br>
-      
-      <strong>Note:</strong> Some movements like Latter-day Saints (Mormons)<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a> and Jehovah's Witnesses<a href="https://en.wikipedia.org/wiki/Restorationist" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[30]</a>, while claiming Christian identity, are often considered outside orthodox Christianity due to fundamental doctrinal differences regarding the Trinity, Jesus's divinity, and additional scriptures<a href="https://en.wikipedia.org/wiki/Council_of_Nicaea" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><a href="https://en.wikipedia.org/wiki/Council_of_Chalcedon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a>.`
+      id: "quakers",
+      title: "Quakers (Religious Society of Friends)",
+      tags: ["other", "modern", "pacifist"],
+      content: `<strong>Founded:</strong> c. 1650s (George Fox, England)<a href="https://en.wikipedia.org/wiki/Quakers" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[147]</a><br><br>
+      <strong>Key Beliefs:</strong><br>
+      • <strong>Inner Light:</strong> Emphasize the "inner light" of God in every person<a href="https://www.quaker.org.uk/about-quakers/our-faith/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[148]</a><br>
+      • <strong>Unprogrammed Worship:</strong> Often meet in silent worship, waiting for the Holy Spirit to move members to speak<a href="https://www.fgcquaker.org/quaker-way/our-faith/unprogrammed-worship/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[149]</a><br>
+      • <strong>No Sacraments:</strong> Traditionally do not practice physical sacraments like baptism or communion, seeing all of life as sacramental<a href="https://www.britannica.com/topic/Quaker" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[150]</a><br>
+      • <strong>Peace Testimony:</strong> Historic commitment to pacifism and non-violence<a href="https://en.wikipedia.org/wiki/Peace_Testimony" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[151]</a><br>
+      • <strong>Equality:</strong> Strong belief in the equality of all people, leading to advocacy for abolition, women's rights, etc.<a href="https://www.quaker.org.uk/about-quakers/our-values/equality/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[152]</a><br><br>
+      <strong>Distinctive Features:</strong> Testimonies (Simplicity, Peace, Integrity, Community, Equality), decision-making by "sense of the meeting" (seeking unity)<a href="https://www.fgcquaker.org/quaker-way/our-faith/testimonies/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[153]</a>`,
+    },
+    {
+      id: "seventhDayAdventist",
+      title: "Seventh-day Adventist",
+      tags: ["other", "modern", "restorationist"],
+      content: `<strong>Founded:</strong> 1863 (USA, from Millerite movement)<a href="https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[154]</a><br><br>
+      <strong>Key Beliefs:</strong><br>
+      • <strong>Seventh-day Sabbath:</strong> Observance of the Sabbath on Saturday<a href="https://www.adventist.org/sabbath/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[155]</a><br>
+      • <strong>Second Coming:</strong> Emphasis on the imminent literal return (Advent) of Christ<a href="https://www.adventist.org/second-coming/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[156]</a><br>
+      • <strong>Health Message:</strong> Focus on health and wellness, often including vegetarianism and abstinence from alcohol/tobacco<a href="https://www.adventist.org/health/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[157]</a><br>
+      • <strong>Ellen G. White:</strong> Regard her writings as an authoritative source of truth, though subordinate to the Bible<a href="https://www.adventist.org/spirit-of-prophecy/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[158]</a><br>
+      • <strong>State of the Dead:</strong> Belief in "soul sleep" (unconsciousness) between death and resurrection<a href="https://www.adventist.org/death-and-resurrection/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[159]</a><br><br>
+      <strong>Distinctive Features:</strong> Large worldwide missions, hospital, and education systems<a href="https://www.adventist.org/who-we-are/facts-and-figures/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[160]</a>; belief in an "investigative judgment" that began in 1844<a href="https://www.adventist.org/christs-ministry-in-the-heavenly-sanctuary/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[161]</a>`,
+    },
+    {
+      id: "messianicJudaism",
+      title: "Messianic Judaism",
+      tags: ["other", "modern", "jewish"],
+      content: `<strong>Founded:</strong> Modern movement, 1960s-1970s<a href="https://en.wikipedia.org/wiki/Messianic_Judaism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[162]</a><br><br>
+      <strong>Key Beliefs:</strong><br>
+      • <strong>Jesus as Messiah:</strong> Jewish believers who accept Jesus (Yeshua) as the promised Messiah of Israel<a href="https://www.britannica.com/topic/Messianic-Judaism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[163]</a><br>
+      • <strong>Jewish Identity:</strong> Maintain Jewish identity, customs, and holidays (e.g., Passover, Yom Kippur)<a href="https://mjbi.org/what-is-messianic-judaism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[164]</a><br>
+      • <strong>Torah Observance:</strong> Varies, but many observe aspects of the Torah as a sign of cultural identity and obedience, not for salvation<a href="https://www.mjaa.org/what-is-messianic-judaism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[165]</a><br>
+      • <strong>Trinity:</strong> Most (but not all) Messianic Jews adhere to the doctrine of the Trinity<a href="https://en.wikipedia.org/wiki/Messianic_Judaism#Theology" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[166]</a><br><br>
+      <strong>Distinctive Features:</strong> Synagogue-style worship, use of Hebrew, bridging Jewish and Christian theology<a href="https://messianicjewish.net/what-is-messianic-judaism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[167]</a>. Not recognized as Judaism by mainstream Jewish movements<a href="https://www.myjewishlearning.com/article/messianic-judaism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[168]</a>.`,
+    },
+    {
+      id: "nonDenominational",
+      title: "Non-denominational / Other Movements",
+      tags: ["other", "modern", "independent"],
+      content: `<strong>Founded:</strong> 20th century onwards (especially in the USA)<a href="https://en.wikipedia.org/wiki/Nondenominational_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[169]</a><br><br>
+      <strong>Key Beliefs (General):</strong><br>
+      • <strong>No Denominational Ties:</strong> Reject formal ties to historic denominations and their hierarchies<a href="https://www.thegospelcoalition.org/article/what-is-nondenominational-church/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[170]</a><br>
+      • <strong>Local Church Autonomy:</strong> Emphasize independence and self-governance<a href="https://www.gotquestions.org/nondenominational-churches.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[171]</a><br>
+      • <strong>Bible-Centered:</strong> Strongly Bible-focused, usually with an evangelical theology (similar to Baptist or Pentecostal beliefs)<a href="https://www.pewresearch.org/religion/religious-landscape-study/religious-tradition/nondenominational-family/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[172]</a><br>
+      • <strong>Contemporary Worship:</strong> Often characterized by modern music and informal service styles<a href="https://en.wikipedia.org/wiki/Contemporary_worship" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[173]</a><br><br>
+
+      <strong>Related Movements:</strong><br>
+      • <strong>House Church Movement:</strong> Focuses on simple, small-group meetings in homes, emphasizing community and mimicking the New Testament model<a href="https://en.wikipedia.org/wiki/House_church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[174]</a>.<br>
+      • <strong>Emerging Church:</strong> A postmodern movement questioning traditional evangelical structures and embracing social justice and deconstructed faith<a href="https://en.wikipedia.org/wiki/Emerging_church" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[175]</a>.<br><br>
+
+      <strong>A Note on Orthodox Classification:</strong><br>
+      Some movements, while claiming Christian identity, are considered outside orthodox Christianity by Catholic, Orthodox, and Protestant groups due to fundamental doctrinal differences. This includes groups like **Latter-day Saints (Mormons)**<a href="https://en.wikipedia.org/wiki/Latter_Day_Saint_movement" target="_blank" style_position: "relative", "z-index": 10, "color": "#007acc", "text-decoration": "none", "font-size": "0.9em", "vertical-align": "super", "top": "-0.5em">[176]</a> and **Jehovah's Witnesses** (which have unique restorationist claims and non-Trinitarian theology)<a href="https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses" target="_blank" style_position: "relative", "z-index": 10, "color": "#007acc", "text-decoration": "none", "font-size": "0.9em", "vertical-align": "super", "top": "-0.5em">[177]</a>, and **Unitarian Universalists**, who have Christian roots but now embrace a pluralistic, non-creedal faith that rejects the Trinity<a href="https://en.wikipedia.org/wiki/Unitarian_Universalism" target="_blank" style_position: "relative", "z-index": 10, "color": "#007acc", "text-decoration": "none", "font-size": "0.9em", "vertical-align": "super", "top": "-0.5em">[178]</a>.`,
     },
   ],
-  verses: [
-  ],
+  verses: [],
   sources: [
-    // Early Church & General Sources (Catholic, Eastern Orthodox, Oriental Orthodox)
-    "1. [Religious Site] LearnReligions - Roman Catholic Church History. 'Comprehensive history of Roman Catholic Church from apostolic era to modern times.' https://www.learnreligions.com/roman-catholic-church-history-700528",
-    "2. [Encyclopedia] Britannica - Roman Catholicism. 'Academic overview of Roman Catholic doctrine, history, and organization.' https://www.britannica.com/topic/Roman-Catholicism",
-    "3. [Encyclopedia] Britannica - Eastern Orthodoxy. 'Detailed academic coverage of Eastern Orthodox church history and theology.' https://www.britannica.com/topic/Eastern-Orthodoxy",
-    "4. [Religious Organization] World Council of Churches. 'Ecumenical movement and inter-denominational dialogue resources.' https://www.worldcouncilofchurches.org",
-    "5. [Official Church] Vatican Official Website. 'Official papal documents, Catholic doctrine, and church teachings.' https://w2.vatican.va/content/john-paul-ii/en.html",
-    "6. [Official Church] Ecumenical Patriarchate of Constantinople. 'Official Eastern Orthodox patriarchate resources and teachings.' https://www.patriarchate.org",
-    "7. [Wikipedia] History of Christianity. 'Comprehensive timeline of Christian development from apostolic era to modern times.' https://en.wikipedia.org/wiki/History_of_Christianity",
-    "8. [Wikipedia] East-West Schism. 'Detailed account of the 1054 split between Eastern and Western Christianity.' https://en.wikipedia.org/wiki/East%E2%80%93West_Schism",
-    
-    // Protestant Reformation Sources
-    "9. [Wikipedia] Protestant Reformation. 'Comprehensive coverage of 16th-century Protestant Reformation movements.' https://en.wikipedia.org/wiki/Protestant_Reformation",
-    "10. [Religious Organization] Lutheran World Federation. 'Official Lutheran doctrine, history, and global Lutheran churches.' https://www.lutheranworld.org",
-    "11. [Official Church] Presbyterian Church (USA). 'Presbyterian polity, Reformed theology, and denominational resources.' https://www.pcusa.org",
-    "12. [Religious Organization] Mennonite World Conference. 'Anabaptist heritage, pacifist theology, and Mennonite communities worldwide.' https://mwc-cmm.org",
-    "13. [Religious Organization] Anglican Communion. 'Worldwide Anglican churches, episcopal governance, and via media theology.' https://www.anglicancommunion.org",
-    "14. [Religious Organization] Baptist World Alliance. 'Baptist principles, believer's baptism, and congregational autonomy.' https://www.baptistworld.org",
-    "15. [Official Church] United Methodist Church. 'Methodist theology, social holiness, and Wesleyan tradition.' https://www.umc.org",
-    "16. [Official Church] Assemblies of God. 'Pentecostal doctrine, spiritual gifts, and divine healing theology.' https://ag.org",
-    "17. [Official Church] Episcopal Church. 'American Anglican tradition, progressive theology, and episcopal governance.' https://www.episcopalchurch.org",
-    
-    // Other Christian Movements
-    "18. [Religious Organization] Quakers (Religious Society of Friends). 'Inner light theology, peace testimony, and silent worship.' https://www.quaker.org",
-    "19. [Official Church] Seventh-day Adventist Church. 'Sabbath observance, health ministry, and prophetic interpretation.' https://www.adventist.org",
-    
-    // Historical Councils & Early Church
-    "20. [Wikipedia] Council of Nicaea. 'First Ecumenical Council (325 AD) and establishment of Nicene Creed.' https://en.wikipedia.org/wiki/Council_of_Nicaea",
-    "21. [Wikipedia] Council of Chalcedon. 'Fourth Ecumenical Council (451 AD) and Christological definitions.' https://en.wikipedia.org/wiki/Council_of_Chalcedon",
-    "22. [Wikipedia] Oriental Orthodox Churches. 'Non-Chalcedonian churches and Miaphysite theology.' https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches",
-    "23. [Wikipedia] Church of the East. 'Nestorian Christianity and historical missions to Asia.' https://en.wikipedia.org/wiki/Church_of_the_East",
-    
-    // Key Reformers & Leaders
-    "24. [Wikipedia] Martin Luther. 'German reformer, 95 Theses, and Lutheran theology foundations.' https://en.wikipedia.org/wiki/Martin_Luther",
-    "25. [Wikipedia] John Calvin. 'Reformed theology, predestination, and Presbyterian foundations.' https://en.wikipedia.org/wiki/John_Calvin",
-    "26. [Wikipedia] Anabaptist. 'Radical Reformation, adult baptism, and pacifist traditions.' https://en.wikipedia.org/wiki/Anabaptist",
-    "27. [Wikipedia] Henry VIII and English Reformation. 'Anglican origins and break from papal authority.' https://en.wikipedia.org/wiki/Henry_VIII",
-    "28. [Wikipedia] John Wesley and Methodism. 'Methodist revival, Arminian theology, and social holiness.' https://en.wikipedia.org/wiki/John_Wesley",
-    "29. [Wikipedia] Pentecostalism. 'Modern Pentecostal movement and charismatic Christianity.' https://en.wikipedia.org/wiki/Pentecostalism",
-    "30. [Wikipedia] Restorationist Movement. 'Stone-Campbell movement and primitive Christianity restoration.' https://en.wikipedia.org/wiki/Restorationist",
-    
-    // Oriental Orthodox Churches
-    "31. [Wikipedia] Coptic Orthodox Church. 'Egyptian Orthodox tradition and Coptic Christianity.' https://en.wikipedia.org/wiki/Coptic_Orthodox_Church",
-    "32. [Wikipedia] Armenian Apostolic Church. 'Armenian Orthodox heritage and apostolic tradition.' https://en.wikipedia.org/wiki/Armenian_Apostolic_Church",
-    "33. [Wikipedia] Syriac Orthodox Church. 'Syriac Orthodox tradition and Eastern Christianity.' https://en.wikipedia.org/wiki/Syriac_Orthodox_Church",
-    "34. [Official Church] Ethiopian Orthodox Church. 'Ethiopian Orthodox heritage and African Christianity.' https://www.ethiopianorthodox.org",
-    
-    // Church History Resources
-    "35. [Religious Site] Orthodox Church in America. 'Orthodox theology and church historical development.' https://www.oca.org/orthodoxy/the-orthodox-faith",
-    "36. [Religious Magazine] Christianity Today - Church History. 'Modern evangelical perspective on church historical development.' https://www.christianitytoday.com/history",
-    "37. [Academic Institute] Christian History Institute. 'Academic research on Christian historical development and movements.' https://www.christianhistoryinstitute.org",
-    "38. [Religious Encyclopedia] Catholic Encyclopedia. 'Comprehensive Catholic perspective on church history and doctrine.' https://www.newadvent.org/cathen",
-    
-    // Major Church Councils
-    "39. [Wikipedia] First Council of Constantinople. 'Second Ecumenical Council (381 AD) and Trinitarian doctrine.' https://en.wikipedia.org/wiki/First_Council_of_Constantinople",
-    "40. [Wikipedia] Council of Ephesus. 'Third Ecumenical Council (431 AD) and Marian theology.' https://en.wikipedia.org/wiki/Council_of_Ephesus",
-    "41. [Wikipedia] Iconoclastic Controversy. 'Byzantine icon disputes and Orthodox theology development.' https://en.wikipedia.org/wiki/Iconoclasm",
-    "42. [Wikipedia] Great Schism of 1054. 'Permanent split between Eastern and Western Christianity.' https://en.wikipedia.org/wiki/Great_Schism",
-    
-    // Catholic Counter-Reformation
-    "43. [Wikipedia] Counter-Reformation. 'Catholic response to Protestant Reformation and theological clarifications.' https://en.wikipedia.org/wiki/Counter-Reformation",
-    
-    // Protestant Confessions
-    "44. [Wikipedia] Augsburg Confession. 'Primary Lutheran confession and theological foundation.' https://en.wikipedia.org/wiki/Augsburg_Confession",
-    "45. [Wikipedia] Westminster Confession. 'Presbyterian doctrinal standards and Reformed theology.' https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith",
-    "46. [Wikipedia] Book of Common Prayer. 'Anglican liturgical foundation and worship structure.' https://en.wikipedia.org/wiki/Book_of_Common_Prayer",
-    
-    // Revival Movements
-    "47. [Wikipedia] Great Awakening. 'American religious revival movements and evangelical development.' https://en.wikipedia.org/wiki/Great_Awakening",
-    "48. [Wikipedia] Azusa Street Revival. 'Origins of modern Pentecostal movement and spiritual gifts.' https://en.wikipedia.org/wiki/Azusa_Street_Revival",
-    
-    // General Christian History
-    "49. [Academic] World History Encyclopedia - Christianity. 'Academic overview of Christian historical development.' https://www.worldhistory.org/Christianity",
-    "50. [Wikipedia] Early Christianity. 'First century Christian development and apostolic foundations.' https://en.wikipedia.org/wiki/Christianity_in_the_1st_century",
-    
-    // Key Historical Figures & Events
-    "51. [Wikipedia] Constantine and Christianity. 'Conversion of Constantine and legalization of Christianity.' https://en.wikipedia.org/wiki/Constantine_the_Great_and_Christianity",
-    "52. [Wikipedia] Christianity 4th Century. 'Imperial Christianity and theological development.' https://en.wikipedia.org/wiki/Christianity_in_the_4th_century",
-    "53. [Wikipedia] Crusades. 'Medieval Christian military campaigns and their theological justifications.' https://en.wikipedia.org/wiki/Crusades",
-    "54. [Wikipedia] Inquisition. 'Medieval and early modern Catholic judicial procedures.' https://en.wikipedia.org/wiki/Inquisition",
-    
-    // Academic Sources
-    "55. [Academic] World History Encyclopedia - Protestant Reformation. 'Scholarly analysis of Reformation causes and consequences.' https://www.worldhistory.org/Protestant_Reformation",
-    "56. [Academic] World History Encyclopedia - Eastern Orthodox Church. 'Academic perspective on Orthodox development and theology.' https://www.worldhistory.org/Eastern_Orthodox_Church",
-    "57. [Academic] World History Encyclopedia - Catholic Church. 'Scholarly overview of Catholic historical development.' https://www.worldhistory.org/Catholic_Church",
-    "58. [Academic Journal] Cambridge - Church History Journal. 'Peer-reviewed academic research on church historical development.' https://www.cambridge.org/core/journals/church-history",
-    
-    // Academic Books
-    "59. Alister McGrath, 'Christian Theology: An Introduction' (Wiley-Blackwell, 2017) - Comprehensive systematic theology covering all major denominational perspectives",
-    "60. Justo González, 'The Story of Christianity' (HarperOne, 2010) - Historical survey of Christian development from apostolic era to modern times",
-    "61. Mark Noll, 'Turning Points: Decisive Moments in the History of Christianity' (Baker Academic, 2012) - Analysis of crucial events shaping denominational development",
-    "62. Timothy Ware, 'The Orthodox Church' (Penguin Classics, 1997) - Authoritative introduction to Eastern Orthodox theology and practice",
-    "63. J.N.D. Kelly, 'Early Christian Doctrines' (Continuum, 2000) - Scholarly examination of early church theological development",
-    "64. Diarmaid MacCulloch, 'Christianity: The First Three Thousand Years' (Penguin, 2010) - Comprehensive history of global Christianity",
-    "65. Philip Jenkins, 'The Lost History of Christianity' (HarperOne, 2008) - Coverage of Eastern Christianity and non-Western Christian traditions",
-    "66. Jaroslav Pelikan, 'The Christian Tradition' (University of Chicago Press, 1971-1989) - Multi-volume authoritative work on Christian doctrinal development",
-    "67. Henry Chadwick, 'The Early Church' (Penguin, 1993) - Classic introduction to early Christian history and development",
-    "68. Owen Chadwick, 'A History of Christianity' (St. Martin's Press, 1995) - Comprehensive survey of Christian historical development"
+    // Universal / Original Catholic Church
+    "1. [Wikipedia] History of Christianity. 'Comprehensive timeline of Christian development from apostolic era to modern times.' https://en.wikipedia.org/wiki/History_of_Christianity",
+    "2. [Encyclopedia] Britannica - Apostolic Succession. 'Doctrine of apostolic succession.' https://www.britannica.com/topic/apostolic-succession",
+    "3. [Religious Encyclopedia] New Advent - Sacraments. 'Catholic perspective on the sacraments.' https://www.newadvent.org/cathen/13295a.htm",
+    "4. [Academic] World History Encyclopedia - Christianity. 'Academic overview of Christian historical development.' https://www.worldhistory.org/Christianity/",
+    "5. [Wikipedia] Episcopal Polity. 'Overview of church governance by bishops.' https://en.wikipedia.org/wiki/Episcopal_polity",
+    "6. [Wikipedia] Pentarchy. 'System of five ancient patriarchates.' https://en.wikipedia.org/wiki/Pentarchy",
+    "7. [Wikipedia] First seven ecumenical councils. 'The seven councils recognized by East and West.' https://en.wikipedia.org/wiki/First_seven_ecumenical_councils",
+    "8. [Wikipedia] Persecution of Christians in the Roman Empire. 'Account of early Christian persecution.' https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire",
+    "9. [Wikipedia] Early Christianity. 'Development of Christianity from the 1st to 4th centuries.' https://en.wikipedia.org/wiki/Early_Christianity",
+    "10. [Wikipedia] History of the papacy. 'Historical development of the role of the Pope.' https://en.wikipedia.org/wiki/History_of_the_papacy",
+    "11. [Wikipedia] Christianity in the 1st century. 'Apostolic era and house churches.' https://en.wikipedia.org/wiki/Christianity_in_the_1st_century",
+
+    // Roman Catholic Church
+    "12. [Encyclopedia] Britannica - Roman Catholicism. 'Academic overview of Roman Catholic doctrine, history, and organization.' https://www.britannica.com/topic/Roman-Catholicism",
+    "13. [Wikipedia] Papal supremacy. 'Doctrine of the Pope's authority.' https://en.wikipedia.org/wiki/Papal_supremacy",
+    "14. [Official Church] Catechism of the Catholic Church. 'The Seven Sacraments.' https://www.vatican.va/archive/ENG0015/__P3E.HTM",
+    "15. [Wikipedia] Magisterium. 'The teaching authority of the Catholic Church.' https://en.wikipedia.org/wiki/Magisterium",
+    "16. [Wikipedia] Salvation in Catholicism. 'Doctrine of faith and works.' https://en.wikipedia.org/wiki/Salvation_in_Catholicism",
+    "17. [Religious Encyclopedia] New Advent - Intercession of Saints. 'Catholic doctrine on the intercession of saints.' https://www.newadvent.org/cathen/08070a.htm",
+    "18. [Encyclopedia] Britannica - Transubstantiation. 'Definition and explanation of transubstantiation.' https://www.britannica.com/topic/transubstantiation",
+    "19. [Religious Encyclopedia] New Advent - Purgatory. 'Catholic doctrine of purgatory.' https://www.newadvent.org/cathen/12575a.htm",
+    "20. [Wikipedia] Clerical celibacy in the Catholic Church. 'History and rules of clerical celibacy.' https://en.wikipedia.org/wiki/Clerical_celibacy_in_the_Catholic_Church",
+    "21. [Wikipedia] History of the Catholic Church. 'Detailed history of the Catholic Church.' https://en.wikipedia.org/wiki/History_of_the_Catholic_Church",
+    "22. [Wikipedia] East-West Schism. 'The 1054 split.' https://en.wikipedia.org/wiki/East%E2%80%93West_Schism",
+    "23. [Official Church] Catechism of the Catholic Church. 'Official summary of all Catholic doctrine.' https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
+
+    // Oriental Orthodox
+    "24. [Wikipedia] Oriental Orthodox Churches. 'The churches that rejected the Council of Chalcedon.' https://en.wikipedia.org/wiki/Oriental_Orthodox_Churches",
+    "25. [Wikipedia] Miaphysitism. 'The Christological doctrine of the Oriental Orthodox.' https://en.wikipedia.org/wiki/Miaphysitism",
+    "26. [Encyclopedia] Britannica - Oriental Orthodox church. 'Overview of the tradition.' https://www.britannica.com/topic/Oriental-Orthodox-church",
+    "27. [Wikipedia] Coptic Orthodox Church of Alexandria. 'History and traditions.' https://en.wikipedia.org/wiki/Coptic_Orthodox_Church_of_Alexandria",
+    "28. [Official Church] Coptic Orthodox Church. 'St. Mark and the Coptic Popes of Alexandria.' https://www.copticorthodox.church/en/our-church/st-mark-the-coptic-popes-of-alexandria/",
+    "29. [Official Church] Ethiopian Orthodox Tewahedo Church. 'The Sacraments.' https://ethiopianorthodox.org/english/faith/sacraments.html",
+    "30. [Religious Organization] World Council of Churches. 'Ethiopian Orthodox Tewahedo Church.' https://www.worldcouncilofchurches.org/member-churches/ethiopian-orthodox-tewahedo-church",
+    "31. [Religious Organization] World Council of Churches. 'Coptic Orthodox Church.' https://www.worldcouncilofchurches.org/member-churches/coptic-orthodox-church",
+    "32. [Religious Organization] World Council of Churches. 'Armenian Apostolic Church.' https://www.worldcouncilofchurches.org/member-churches/armenian-apostolic-church-holy-see-of-etchmiadzin",
+    "33. [Religious Organization] World Council of Churches. 'Syriac Orthodox Patriarchate.' https://www.worldcouncilofchurches.org/member-churches/syriac-orthodox-patriarchate-of-antioch-and-all-the-east",
+    "34. [Wikipedia] Liturgy of Saint James. 'An ancient Christian liturgy used by Oriental Orthodox.' https://en.wikipedia.org/wiki/Liturgy_of_Saint_James",
+
+    // Church of the East
+    "35. [Wikipedia] Church of the East. 'History of the Church of the East.' https://en.wikipedia.org/wiki/Church_of_the_East",
+    "36. [Wikipedia] Nestorianism. 'The Dyophysite Christology associated with the Church of the East.' https://en.wikipedia.org/wiki/Nestorianism",
+    "37. [Encyclopedia] Britannica - Church of the East. 'History and missionary expansion.' https://www.britannica.com/topic/Church-of-the-East",
+    "38. [Academic] World History Encyclopedia - Assyrian Church of the East. 'Independent development.' https://www.worldhistory.org/Assyrian_Church_of_the_East/",
+    "39. [Wikipedia] Syriac Christianity. 'The Syriac language and liturgical tradition.' https://en.wikipedia.org/wiki/Syriac_Christianity",
+    "40. [Wikipedia] Clerical marriage. 'Practice of married clergy across denominations.' https://en.wikipedia.org/wiki/Clerical_marriage",
+    "41. [Wikipedia] Assyrian Church of the East. 'The modern remnant of the Church of the East.' https://en.wikipedia.org/wiki/Assyrian_Church_of_the_East",
+    "42. [Academic/Public] PBS Frontline - From Jesus to Christ. 'Map and history of its expansion.' https://www.pbs.org/wgbh/pages/frontline/shows/religion/",
+
+    // Eastern Orthodox
+    "43. [Encyclopedia] Britannica - Schism of 1054. 'The Great Schism.' https://www.britannica.com/event/Schism-of-1054",
+    "44. [Encyclopedia] Britannica - Eastern Orthodoxy. 'Structure and organization.' https://www.britannica.com/topic/Eastern-Orthodoxy",
+    "45. [Official Church] Orthodox Church in America (OCA). 'The Sacraments.' https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments",
+    "46. [Official Church] Greek Orthodox Archdiocese of America. 'Scripture and Tradition.' https://www.goarch.org/our-faith/scripture-and-tradition",
+    "47. [Wikipedia] Icon. 'Theological significance and use of icons.' https://en.wikipedia.org/wiki/Icon",
+    "48. [Official Church] Ecumenical Patriarchate. 'The Role of the Ecumenical Patriarchate.' https://www.patriarchate.org/the-ecumenical-patriarchate",
+    "49. [Official Church] OCA. 'Clergy.' https://www.oca.org/orthodoxy/the-orthodox-faith/church-structure/clergy",
+    "50. [Wikipedia] Theosis (Eastern Orthodox theology). 'Doctrine of deification.' https://en.wikipedia.org/wiki/Theosis_(Eastern_Orthodox_theology)",
+    "51. [Academic] World History Encyclopedia - Eastern Orthodox Church. 'Overview of major churches.' https://www.worldhistory.org/Eastern_Orthodox_Church/",
+    "52. [Official Church] OCA. 'Worship.' https://www.oca.org/orthodoxy/the-orthodox-faith/worship",
+
+    // Lutheran
+    "53. [Wikipedia] Martin Luther. 'Life and work of Martin Luther.' https://en.wikipedia.org/wiki/Martin_Luther",
+    "54. [Encyclopedia] Britannica - Justification. 'Theological doctrine of justification by faith.' https://www.britannica.com/topic/justification-Christianity",
+    "55. [Wikipedia] Sola scriptura. 'Doctrine of Scripture alone.' https://en.wikipedia.org/wiki/Sola_scriptura",
+    "56. [Wikipedia] Sacramental union. 'Lutheran doctrine of Christ's presence in the Eucharist.' https://en.wikipedia.org/wiki/Sacramental_union",
+    "57. [Religious Organization] Lutheran World Federation. 'What is Lutheranism? - Sacraments.' https://www.lutheranworld.org/content/what-lutheranism",
+    "58. [Wikipedia] Lutheran worship. 'Overview of Lutheran liturgy.' https://en.wikipedia.org/wiki/Lutheran_worship",
+    "59. [Wikipedia] Sola gratia. 'Doctrine of grace alone.' https://en.wikipedia.org/wiki/Sola_gratia",
+    "60. [Wikipedia] Priesthood of all believers. 'Doctrine of all Christians as priests.' https://en.wikipedia.org/wiki/Priesthood_of_all_believers",
+    "61. [Wikipedia] Book of Concord. 'The Lutheran confessions.' https://en.wikipedia.org/wiki/Book_of_Concord",
+    "62. [Official Church] Evangelical Lutheran Church in America (ELCA). 'Baptism.' https://www.elca.org/faith/elca-teaching/baptism",
+    "63. [Religious Organization] Lutheran World Federation. 'Homepage.' https://www.lutheranworld.org/",
+    "64. [Academic] World History Encyclopedia - Protestant Reformation. 'Overview of Reformation movements.' https://www.worldhistory.org/Protestant_Reformation",
+
+    // Reformed/Presbyterian
+    "65. [Wikipedia] John Calvin. 'Life and theology of John Calvin.' https://en.wikipedia.org/wiki/John_Calvin",
+    "66. [Wikipedia] Sovereignty of God. 'Theological doctrine of God's sovereignty.' https://en.wikipedia.org/wiki/Sovereignty_of_God",
+    "67. [Encyclopedia] Britannica - Predestination. 'Doctrine of predestination.' https://www.britannica.com/topic/predestination",
+    "68. [Official Church] Presbyterian Church (USA). 'Understanding Presbyterian Polity.' https://www.pcusa.org/what-we-believe/presbyterian-polity/",
+    "69. [Wikipedia] Reformed worship. 'Worship principles in the Reformed tradition.' https://en.wikipedia.org/wiki/Reformed_worship",
+    "70. [Wikipedia] Covenant theology. 'Reformed theological framework.' https://en.wikipedia.org/wiki/Covenant_theology",
+    "71. [Wikipedia] Westminster Confession of Faith. 'Key Reformed confession.' https://en.wikipedia.org/wiki/Westminster_Confession_of_Faith",
+    "72. [Wikipedia] Total depravity. 'Calvinist doctrine of sin.' https://en.wikipedia.org/wiki/Total_depravity",
+    "73. [Wikipedia] Presbyterian polity. 'Church governance by elders.' https://en.wikipedia.org/wiki/Presbyterian_polity",
+    "74. [Official Church] Presbyterian Church (USA). 'Homepage.' https://www.pcusa.org/",
+    "75. [Religious Organization] World Communion of Reformed Churches. 'Homepage.' https://wcrc.ch/",
+
+    // Anabaptist
+    "76. [Wikipedia] Anabaptism. 'History of the Anabaptist movement.' https://en.wikipedia.org/wiki/Anabaptism",
+    "77. [Encyclopedia] Britannica - Anabaptist. 'Believer's baptism.' https://www.britannica.com/topic/Anabaptist",
+    "78. [Wikipedia] Peace churches. 'Anabaptist commitment to pacifism.' https://en.wikipedia.org/wiki/Peace_churches",
+    "79. [Religious Organization] Mennonite World Conference. 'Shared Convictions of Anabaptists.' https://mwc-cmm.org/our-faith/shared-convictions-anabaptist-mennonites",
+    "80. [Wikipedia] Separation of church and state. 'Anabaptist position.' https://en.wikipedia.org/wiki/Separation_of_church_and_state",
+    "81. [Religious Encyclopedia] Global Anabaptist Mennonite Encyclopedia Online (GAMEO). 'Ban.' https://gameo.org/index.php?title=Ban",
+    "82. [Religious Encyclopedia] GAMEO. 'Bible.' https://gameo.org/index.php?title=Bible",
+    "83. [Wikipedia] Believers' church. 'Concept of voluntary faith.' https://en.wikipedia.org/wiki/Believers%27_church",
+    "84. [Religious Organization] Mennonite World Conference. 'Homepage.' https://mwc-cmm.org/",
+    "85. [Religious Encyclopedia] GAMEO. 'Anabaptism.' https://gameo.org/index.php?title=Anabaptism",
+    "86. [Academic Institute] Christian History Institute. 'Anabaptists: The Radical Reformation.' https://www.christianhistoryinstitute.org/magazine/issue/anabaptists-radical-reformation",
+
+    // Anglican
+    "87. [Wikipedia] English Reformation. 'Henry VIII's break from Rome.' https://en.wikipedia.org/wiki/English_Reformation",
+    "88. [Encyclopedia] Britannica - Anglicanism. 'The 'via media'.' https://www.britannica.com/topic/Anglicanism",
+    "89. [Official Church] Church of England. 'Bishops.' https://www.churchofengland.org/about/leadership-and-governance/bishops",
+    "90. [Wikipedia] Book of Common Prayer. 'The foundation of Anglican liturgy.' https://en.wikipedia.org/wiki/Book_of_Common_Prayer",
+    "91. [Wikipedia] Anglicanism - Doctrine. 'Scripture, tradition, and reason.' https://en.wikipedia.org/wiki/Anglicanism#Doctrine",
+    "92. [Wikipedia] Anglican churchmanship. 'High, Low, and Broad church.' https://en.wikipedia.org/wiki/Anglican_churchmanship",
+    "93. [Wikipedia] Supreme Governor of the Church of England. 'Monarch's role.' https://en.wikipedia.org/wiki/Supreme_Governor_of_the_Church_of_England",
+    "94. [Official Church] Church of England. 'Vocations.' https://www.churchofengland.org/life-events/vocations",
+    "95. [Official Church] Episcopal Church. 'Homepage of the US branch.' https://www.episcopalchurch.org/",
+    "96. [Religious Organization] Anglican Communion. 'Homepage.' https://www.anglicancommunion.org/",
+    "97. [Official Church] Church of England. 'Homepage.' https://www.churchofengland.org/",
+
+    // Baptist
+    "98. [Wikipedia] Baptists. 'Origins with John Smyth.' https://en.wikipedia.org/wiki/Baptists",
+    "99. [Wikipedia] Believer's baptism. 'Definition.' https://en.wikipedia.org/wiki/Believer%27s_baptism",
+    "100. [Wikipedia] Congregationalist polity. 'Local church autonomy.' https://en.wikipedia.org/wiki/Congregationalist_polity",
+    "101. [Religious Organization] Baptist World Alliance. 'Baptist Identity.' https://www.baptistworld.org/baptist-identity",
+    "102. [Official Church] Southern Baptist Convention. 'What We Believe.' https://www.sbc.net/about/what-we-believe/",
+    "103. [Advocacy Group] Baptist Joint Committee for Religious Liberty. 'What is Religious Liberty?' https://bjconline.org/what-is-religious-liberty/",
+    "104. [Religious Organization] Baptist World Alliance. 'Evangelism and Mission.' https://www.baptistworld.org/evangelism-and-mission",
+    "105. [Encyclopedia] Britannica - Baptist. 'Congregational polity.' https://www.britannica.com/topic/Baptist",
+    "106. [Religious Organization] Baptist World Alliance. 'Our Network.' https://www.baptistworld.org/our-network",
+    "107. [Wikipedia] Roger Williams (theologian). 'Early Baptist advocate for religious freedom.' https://en.wikipedia.org/wiki/Roger_Williams_(theologian)",
+
+    // Methodist
+    "108. [Wikipedia] John Wesley. 'Founder of the Methodist movement.' https://en.wikipedia.org/wiki/John_Wesley",
+    "109. [Official Church] United Methodist Church (UMC). 'Glossary: Prevenient Grace.' https://www.umc.org/en/content/glossary/prevenient-grace",
+    "110. [Wikipedia] Arminianism. 'Theological framework of Methodism.' https://en.wikipedia.org/wiki/Arminianism",
+    "111. [Official Church] UMC. 'Our Wesleyan Heritage.' https://www.umc.org/en/content/our-wesleyan-heritage",
+    "112. [Wikipedia] Christian perfection. 'Wesleyan doctrine of sanctification.' https://en.wikipedia.org/wiki/Christian_perfection",
+    "113. [Wikipedia] Means of grace. 'Wesleyan concept.' https://en.wikipedia.org/wiki/Means_of_grace",
+    "114. [Wikipedia] Wesleyan Quadrilateral. 'Scripture, tradition, reason, experience.' https://en.wikipedia.org/wiki/Wesleyan_Quadrilateral",
+    "115. [Official Church] UMC. 'Social Principles.' https://www.umc.org/en/how-we-serve/advocating-for-justice/social-principles",
+    "116. [Official Church] UMC. 'History.' https://www.umc.org/en/who-we-are/history",
+    "117. [Official Church] UMC. 'Homepage.' https://www.umc.org/",
+    "118. [Wikipedia] Methodism. 'Overview of Methodist denominations.' https://en.wikipedia.org/wiki/Methodism",
+
+    // Pentecostal
+    "119. [Wikipedia] Azusa Street Revival. 'Origin of the Pentecostal movement.' https://en.wikipedia.org/wiki/Azusa_Street_Revival",
+    "120. [Official Church] Assemblies of God (A/G). 'Baptism in the Holy Spirit.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths/Baptism-in-the-Holy-Spirit",
+    "121. [Wikipedia] Gifts of the Spirit. 'Nine gifts listed in 1 Corinthians 12.' https://en.wikipedia.org/wiki/Gifts_of_the_Spirit",
+    "122. [Official Church] A/G. 'Divine Healing.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths/Divine-Healing",
+    "123. [Wikipedia] Prosperity theology. 'Common (but not universal) belief.' https://en.wikipedia.org/wiki/Prosperity_theology",
+    "124. [Official Church] A/G. 'The Blessed Hope.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths/The-Blessed-Hope",
+    "125. [Research Center] Pew Research Center. 'Pentecostal Family.' https://www.pewresearch.org/religion/religious-landscape-study/religious-tradition/pentecostal-family/",
+    "126. [Official Church] A/G. 'The Final Judgment.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths#16",
+    "127. [Wikipedia] Pentecostalism. 'Global growth.' https://en.wikipedia.org/wiki/Pentecostalism",
+    "128. [Official Church] A/G. 'Homepage.' https://ag.org/",
+    "129. [Research Center] Pew Research Center. 'Global Christianity - Traditions.' https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
+
+    // Restorationist
+    "130. [Wikipedia] Restorationism (Christianity). 'Overview of the movement.' https://en.wikipedia.org/wiki/Restorationism_(Christianity)",
+    "131. [Encyclopedia] New Georgia Encyclopedia - Restoration Movement. 'Goal of restoring primitive Christianity.' https://www.georgiaencyclopedia.org/articles/arts-culture/restoration-movement/",
+    "132. [Wikipedia] Restoration Movement. 'The 'no creed' slogan.' https://en.wikipedia.org/wiki/Restoration_Movement",
+    "133. [Wikipedia] Churches of Christ. 'Adherence to New Testament patterns.' https://en.wikipedia.org/wiki/Churches_of_Christ",
+    "134. [Religious Organization] World Convention. 'About (Disciples of Christ).' https://www.worldconvention.org/about",
+    "135. [Wikipedia] Stone-Campbell Movement. 'Major groups.' https://en.wikipedia.org/wiki/Stone-Campbell_Movement",
+    "136. [Wikipedia] Restorationism (Christianity) - Non-mainstream groups. 'LDS, Jehovah's Witnesses.' https://en.wikipedia.org/wiki/Restorationism_(Christianity)#Non-mainstream_groups",
+
+    // Episcopal
+    "137. [Official Church] Episcopal Church. 'History.' https://www.episcopalchurch.org/who-we-are/history/",
+    "138. [Official Church] Episcopal Church. 'Who We Are.' https://www.episcopalchurch.org/who-we-are/",
+    "139. [Official Church] Episcopal Church. 'What We Believe.' https://www.episcopalchurch.org/what-we-believe/",
+    "140. [Official Church] Episcopal Church. 'Bishops.' https://www.episcopalchurch.org/who-we-are/structure/bishops/",
+    "141. [Official Church] Episcopal Church. 'Book of Common Prayer.' https://www.episcopalchurch.org/book-of-common-prayer/",
+    "142. [Wikipedia] Episcopal Church (United States) - Theology. 'Theological spectrum.' https://en.wikipedia.org/wiki/Episcopal_Church_(United_States)#Theology",
+    "143. [Official Church] Episcopal Church. 'Social Justice & Advocacy.' https://www.episcopalchurch.org/what-we-believe/social-justice-advocacy/",
+    "144. [Official Church] Episcopal Church. 'Women in the Church.' https://www.episcopalchurch.org/who-we-are/structure/women-in-the-church/",
+    "145. [Official Church] Episcopal Church. 'LGBTQ.' https://www.episcopalchurch.org/what-we-believe/lgbtq/",
+    "146. [Official Church] Episcopal Church. 'Worship.' https://www.episcopalchurch.org/what-we-believe/worship/",
+
+    // Quakers (Religious Society of Friends)
+    "147. [Wikipedia] Quakers. 'Founding by George Fox.' https://en.wikipedia.org/wiki/Quakers",
+    "148. [Religious Organization] Quakers in Britain. 'Our faith.' https://www.quaker.org.uk/about-quakers/our-faith/",
+    "149. [Religious Organization] Friends General Conference. 'Unprogrammed Worship.' https://www.fgcquaker.org/quaker-way/our-faith/unprogrammed-worship/",
+    "150. [Encyclopedia] Britannica - Quaker. 'Sacraments.' https://www.britannica.com/topic/Quaker",
+    "151. [Wikipedia] Peace Testimony. 'Quaker commitment to non-violence.' https://en.wikipedia.org/wiki/Peace_Testimony",
+    "152. [Religious Organization] Quakers in Britain. 'Equality.' https://www.quaker.org.uk/about-quakers/our-values/equality/",
+    "153. [Religious Organization] Friends General Conference. 'The Testimonies.' https://www.fgcquaker.org/quaker-way/our-faith/testimonies/",
+
+    // Seventh-day Adventist
+    "154. [Wikipedia] Seventh-day Adventist Church. 'Founding and history.' https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church",
+    "155. [Official Church] Seventh-day Adventist (SDA). 'The Sabbath.' https://www.adventist.org/sabbath/",
+    "156. [Official Church] SDA. 'Second Coming of Christ.' https://www.adventist.org/second-coming/",
+    "157. [Official Church] SDA. 'Health.' https://www.adventist.org/health/",
+    "158. [Official Church] SDA. 'Spirit of Prophecy.' https://www.adventist.org/spirit-of-prophecy/",
+    "159. [Official Church] SDA. 'Death and Resurrection.' https://www.adventist.org/death-and-resurrection/",
+    "160. [Official Church] SDA. 'Facts and Figures.' https://www.adventist.org/who-we-are/facts-and-figures/",
+    "161. [Official Church] SDA. 'Christ's Ministry in the Heavenly Sanctuary.' https://www.adventist.org/christs-ministry-in-the-heavenly-sanctuary/",
+
+    // Messianic Judaism
+    "162. [Wikipedia] Messianic Judaism. 'Modern movement.' https://en.wikipedia.org/wiki/Messianic_Judaism",
+    "163. [Encyclopedia] Britannica - Messianic Judaism. 'Belief in Jesus as Messiah.' https://www.britannica.com/topic/Messianic-Judaism",
+    "164. [Religious Organization] Messianic Jewish Bible Institute. 'What is Messianic Judaism?' https://mjbi.org/what-is-messianic-judaism",
+    "165. [Religious Organization] Messianic Jewish Alliance of America. 'What is Messianic Judaism?' https://www.mjaa.org/what-is-messianic-judaism/",
+    "166. [Wikipedia] Messianic Judaism - Theology. 'Adherence to the Trinity.' https://en.wikipedia.org/wiki/Messianic_Judaism#Theology",
+    "167. [Religious Organization] MessianicJewish.net. 'What is Messianic Judaism?' https://messianicjewish.net/what-is-messianic-judaism",
+    "168. [Academic/Public] My Jewish Learning. 'Messianic Judaism.' https://www.myjewishlearning.com/article/messianic-judaism/",
+
+    // Non-denominational / Other Movements
+    "169. [Wikipedia] Nondenominational Christianity. '20th-century movement.' https://en.wikipedia.org/wiki/Nondenominational_Christianity",
+    "170. [Religious Magazine] The Gospel Coalition. 'What Is a Nondenominational Church?' https://www.thegospelcoalition.org/article/what-is-nondenominational-church/",
+    "171. [Religious Site] GotQuestions.org. 'What are nondenominational churches?' https://www.gotquestions.org/nondenominational-churches.html",
+    "172. [Research Center] Pew Research Center. 'Nondenominational Family.' https://www.pewresearch.org/religion/religious-landscape-study/religious-tradition/nondenominational-family/",
+    "173. [Wikipedia] Contemporary worship. 'Worship style.' https://en.wikipedia.org/wiki/Contemporary_worship",
+    "174. [Wikipedia] House church. 'Simple church movement.' https://en.wikipedia.org/wiki/House_church",
+    "175. [Wikipedia] Emerging church. 'Postmodern movement.' https://en.wikipedia.org/wiki/Emerging_church",
+    "176. [Wikipedia] Latter Day Saint movement. 'Overview.' https://en.wikipedia.org/wiki/Latter_Day_Saint_movement",
+    "177. [Wikipedia] Jehovah's Witnesses. 'Overview.' https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses",
+    "178. [Wikipedia] Unitarian Universalism. 'Overview.' https://en.wikipedia.org/wiki/Unitarian_Universalism",
   ],
-  lastUpdated: "31-08-2025",
-}
-
-
-
+  lastUpdated: "08-11-2025",
+};
