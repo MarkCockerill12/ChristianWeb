@@ -175,7 +175,7 @@ export default function CategoryPage({ params }: PageProps) {
   const [selectedTag, setSelectedTag] = useState<string | null>(null)
 
   // Only show subtopic UI for these topics
-  const showSubtopics = ["religions", "branches", "contradictions", "canon", "god-evil", "miracles", "fine-tuning", "nasa", "prophecy"].includes(category.id)
+  const showSubtopics = ["religions", "branches", "contradictions", "canon", "god-evil", "miracles", "fine-tuning", "nasa", "prophecy", "archaeological"].includes(category.id)
 
   // Collect all unique tags for tag filter display
   const allTags = showSubtopics && category.subtopics
