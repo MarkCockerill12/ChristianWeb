@@ -11,7 +11,7 @@ export const godEvil: Topic = {
     <h3>The Question of God's Character</h3>
     <p>Critics often accuse God of being evil based on biblical accounts where He commands destruction or directly causes death. They point to the flood, Sodom and Gomorrah, the Canaanite conquest, and individual judgments as evidence that the God of the Bible is immoral, violent, or evil.</p>
 
-    <p><strong>Note:</strong> For broader questions about why evil exists in general, see our page on <a href="/topics/problem-of-evil" style="color: #007acc; text-decoration: underline;">If God, Why Evil?</a> This page focuses specifically on whether God's actions make Him evil.</p>
+    <p><strong>Note:</strong> For broader questions about why evil exists in general, see our page on <a href="/categories/problem-of-evil" style="color: #007acc; text-decoration: underline;">If God, Why Evil?</a> This page focuses specifically on whether God's actions make Him evil.</p>
 
     <h4>The Foundation for Moral Judgment</h4>
     <p>Before examining specific cases, we must establish the proper foundation for moral judgment. If God exists and is the source of moral law, then His actions must be evaluated by His own perfect nature, not by fallen human standards corrupted by sin<a href="https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.</p>

@@ -171,8 +171,71 @@ export default function CategoryPage({ params }: PageProps) {
   const category = baseCategory.id === "canon" ? { ...baseCategory, timeline: canonTimeline } : baseCategory
 
   const [search, setSearch] = useState("")
-  const [expanded, setExpanded] = useState<string | null>(null)
+  const [expandedSubtopics, setExpandedSubtopics] = useState<Set<string>>(new Set())
   const [selectedTag, setSelectedTag] = useState<string | null>(null)
+
+  const toggleSubtopic = (id: string) => {
+    setExpandedSubtopics(prev => {
+      const next = new Set(prev)
+      if (next.has(id)) {
+        next.delete(id)
+      } else {
+        next.add(id)
+      }
+      return next
+    })
+  }
+
+  // Auto-expand subtopic when text is found via browser search (Ctrl+F)
+  React.useEffect(() => {
+    const observer = new MutationObserver(() => {
+      // Check if any text in collapsed sections is highlighted by browser find
+      const selection = window.getSelection()
+      if (selection && selection.rangeCount > 0) {
+        const range = selection.getRangeAt(0)
+        const container = range.commonAncestorContainer
+        const element = container.nodeType === Node.TEXT_NODE ? container.parentElement : container as HTMLElement
+        
+        // Find the closest subtopic container
+        const subtopicContent = element?.closest('[data-subtopic-id]')
+        if (subtopicContent) {
+          const subtopicId = subtopicContent.getAttribute('data-subtopic-id')
+          if (subtopicId && !expandedSubtopics.has(subtopicId)) {
+            setExpandedSubtopics(prev => new Set(prev).add(subtopicId))
+          }
+        }
+      }
+    })
+
+    // Observe selection changes
+    document.addEventListener('selectionchange', () => {
+      const selection = window.getSelection()
+      if (selection && selection.rangeCount > 0 && !selection.isCollapsed) {
+        const range = selection.getRangeAt(0)
+        const container = range.commonAncestorContainer
+        const element = container.nodeType === Node.TEXT_NODE ? container.parentElement : container as HTMLElement
+        
+        const subtopicContent = element?.closest('[data-subtopic-id]')
+        if (subtopicContent) {
+          const subtopicId = subtopicContent.getAttribute('data-subtopic-id')
+          if (subtopicId && !expandedSubtopics.has(subtopicId)) {
+            setExpandedSubtopics(prev => new Set(prev).add(subtopicId))
+          }
+        }
+      }
+    })
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true,
+      attributes: true,
+      attributeFilter: ['class']
+    })
+
+    return () => {
+      observer.disconnect()
+    }
+  }, [expandedSubtopics])
 
   // Only show subtopic UI for these topics
   const showSubtopics = ["religions", "branches", "contradictions", "canon", "god-evil", "miracles", "fine-tuning", "nasa", "prophecy", "archaeological"].includes(category.id)
@@ -433,11 +496,12 @@ export default function CategoryPage({ params }: PageProps) {
                     .map(sub => {
                       const timelineData = branchTimeline.find(t => t.id === sub.id);
                       return (
-                        <Card key={sub.id} className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300">
-                          <CardHeader
-                            className="flex flex-col cursor-pointer"
-                            onClick={() => setExpanded(expanded === sub.id ? null : sub.id)}
-                          >
+                        <Card 
+                          key={sub.id} 
+                          className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 cursor-pointer"
+                          onClick={() => toggleSubtopic(sub.id)}
+                        >
+                          <CardHeader className="flex flex-col">
                             <div className="mb-3">
                               <span className={`bg-white border-2 border-purple-400 text-purple-700 font-bold px-2 py-1 rounded-full shadow-md text-xs`}>
                                 {timelineData?.date || 'Unknown'}
@@ -446,8 +510,8 @@ export default function CategoryPage({ params }: PageProps) {
                             <div className="flex flex-col gap-2">
                               <div className="flex items-start justify-between">
                                 <CardTitle className="text-lg text-purple-700 flex-1">{sub.title}</CardTitle>
-                                <Button variant="ghost" size="sm" className="ml-2" tabIndex={-1}>
-                                  {expanded === sub.id ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+                                <Button variant="ghost" size="sm" className="ml-2 pointer-events-none" tabIndex={-1}>
+                                  {expandedSubtopics.has(sub.id) ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
                                 </Button>
                               </div>
                               <div className="flex flex-wrap gap-1">
@@ -463,14 +527,19 @@ export default function CategoryPage({ params }: PageProps) {
                               )}
                             </div>
                           </CardHeader>
-                          {expanded === sub.id && (
-                            <CardContent className="py-4 text-gray-800">
-                              <div
-                                className="prose prose-sm max-w-none"
-                                dangerouslySetInnerHTML={{ __html: sub.content }}
-                              />
-                            </CardContent>
-                          )}
+                          <CardContent 
+                            data-subtopic-id={sub.id}
+                            className={`text-gray-800 transition-all duration-300 ${
+                              expandedSubtopics.has(sub.id) 
+                                ? 'py-4 max-h-[50000px]' 
+                                : 'max-h-0 py-0'
+                            } overflow-hidden`}
+                          >
+                            <div
+                              className="prose prose-sm max-w-none"
+                              dangerouslySetInnerHTML={{ __html: sub.content }}
+                            />
+                          </CardContent>
                         </Card>
                       );
                     })
@@ -516,11 +585,11 @@ export default function CategoryPage({ params }: PageProps) {
                             
                             {/* Event card - positioned after dot with margin */}
                             <div className="flex-1 max-w-4xl ml-8 lg:ml-12">
-                              <Card className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300">
-                                <CardHeader
-                                  className="flex flex-col cursor-pointer"
-                                  onClick={() => setExpanded(expanded === sub.id ? null : sub.id)}
-                                >
+                              <Card 
+                                className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 cursor-pointer"
+                                onClick={() => toggleSubtopic(sub.id)}
+                              >
+                                <CardHeader className="flex flex-col">
                                   <div className="flex items-center gap-2 mb-2 flex-wrap">
                                     <CardTitle className="text-lg text-purple-700">{sub.title}</CardTitle>
                                     {/* Branch badges to the right of the title */}
@@ -530,8 +599,8 @@ export default function CategoryPage({ params }: PageProps) {
                                     {sub.tags.map(tag => (
                                       <Badge key={tag} variant="outline" className="ml-1 text-xs">{tag}</Badge>
                                     ))}
-                                    <Button variant="ghost" size="sm" className="ml-auto" tabIndex={-1}>
-                                      {expanded === sub.id ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+                                    <Button variant="ghost" size="sm" className="ml-auto pointer-events-none" tabIndex={-1}>
+                                      {expandedSubtopics.has(sub.id) ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
                                     </Button>
                                   </div>
                                   {/* Show branch badges below title on medium screens */}
@@ -541,14 +610,19 @@ export default function CategoryPage({ params }: PageProps) {
                                     </div>
                                   )}
                                 </CardHeader>
-                                {expanded === sub.id && (
-                                  <CardContent className="py-4 text-gray-800">
-                                    <div
-                                      className="prose prose-lg max-w-none"
-                                      dangerouslySetInnerHTML={{ __html: sub.content }}
-                                    />
-                                  </CardContent>
-                                )}
+                                <CardContent 
+                                  data-subtopic-id={sub.id}
+                                  className={`text-gray-800 transition-all duration-300 ${
+                                    expandedSubtopics.has(sub.id) 
+                                      ? 'py-4 max-h-[50000px]' 
+                                      : 'max-h-0 py-0'
+                                  } overflow-hidden`}
+                                >
+                                  <div
+                                    className="prose prose-lg max-w-none"
+                                    dangerouslySetInnerHTML={{ __html: sub.content }}
+                                  />
+                                </CardContent>
                               </Card>
                             </div>
                           </div>
@@ -561,16 +635,17 @@ export default function CategoryPage({ params }: PageProps) {
             ) : (
               <div className="space-y-4">
                 {filteredSubtopics.map(sub => (
-                  <Card key={sub.id} className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300">
-                    <CardHeader
-                      className="flex flex-col cursor-pointer"
-                      onClick={() => setExpanded(expanded === sub.id ? null : sub.id)}
-                    >
+                  <Card 
+                    key={sub.id} 
+                    className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 cursor-pointer"
+                    onClick={() => toggleSubtopic(sub.id)}
+                  >
+                    <CardHeader className="flex flex-col">
                       <div className="flex flex-col gap-3">
                         <div className="flex items-start justify-between">
                           <CardTitle className="text-lg text-purple-700 flex-1 leading-tight">{sub.title}</CardTitle>
-                          <Button variant="ghost" size="sm" className="ml-2 flex-shrink-0" tabIndex={-1}>
-                            {expanded === sub.id ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
+                          <Button variant="ghost" size="sm" className="ml-2 flex-shrink-0 pointer-events-none" tabIndex={-1}>
+                            {expandedSubtopics.has(sub.id) ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
                           </Button>
                         </div>
                         <div className="flex flex-wrap gap-1">
@@ -580,14 +655,19 @@ export default function CategoryPage({ params }: PageProps) {
                         </div>
                       </div>
                     </CardHeader>
-                    {expanded === sub.id && (
-                      <CardContent className="py-4 text-gray-800">
-                        <div
-                          className="prose prose-sm sm:prose-lg max-w-none"
-                          dangerouslySetInnerHTML={{ __html: sub.content }}
-                        />
-                      </CardContent>
-                    )}
+                    <CardContent 
+                      data-subtopic-id={sub.id}
+                      className={`text-gray-800 transition-all duration-300 ${
+                        expandedSubtopics.has(sub.id) 
+                          ? 'py-4 max-h-[50000px]' 
+                          : 'max-h-0 py-0'
+                      } overflow-hidden`}
+                    >
+                      <div
+                        className="prose prose-sm sm:prose-lg max-w-none"
+                        dangerouslySetInnerHTML={{ __html: sub.content }}
+                      />
+                    </CardContent>
                   </Card>
                 ))}
                 {filteredSubtopics.length === 0 && (
