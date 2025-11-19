@@ -381,14 +381,20 @@ export default function CategoryPage({ params }: PageProps) {
                                 </div>
                               </div>
                             </div>
-                            <CardDescription className="text-sm">{event.description}</CardDescription>
+                            <CardDescription
+                              className="text-sm"
+                              dangerouslySetInnerHTML={{ __html: event.description }}
+                            />
                           </CardHeader>
                           <CardContent className="pt-0">
                             <div className="space-y-3">
                               {/* Significance */}
                               <div>
                                 <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
-                                <p className="text-xs text-gray-600">{event.significance}</p>
+                                <p
+                                  className="text-xs text-gray-600"
+                                  dangerouslySetInnerHTML={{ __html: event.significance }}
+                                />
                               </div>
                             </div>
                           </CardContent>
@@ -421,14 +427,20 @@ export default function CategoryPage({ params }: PageProps) {
                                   </div>
                                 </div>
                               </div>
-                              <CardDescription className="text-sm">{event.description}</CardDescription>
+                              <CardDescription
+                                className="text-sm"
+                                dangerouslySetInnerHTML={{ __html: event.description }}
+                              />
                             </CardHeader>
                             <CardContent className="pt-0">
                               <div className="space-y-3">
                                 {/* Significance */}
                                 <div>
                                   <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
-                                  <p className="text-xs text-gray-600">{event.significance}</p>
+                                  <p
+                                    className="text-xs text-gray-600"
+                                    dangerouslySetInnerHTML={{ __html: event.significance }}
+                                  />
                                 </div>
                               </div>
                             </CardContent>

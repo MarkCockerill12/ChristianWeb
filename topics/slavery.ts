@@ -20,11 +20,11 @@ export const slavery: Topic = {
     <p>• Military servants and administrative officials<a href="https://www.ibr-bbr.org/files/bibsac/bibsac167-4.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a></p>
     
     <p><strong>Biblical Protections for Servants:</strong> The Mosaic Law provided unprecedented protections compared to surrounding cultures<a href="https://www.christianhistoryinstitute.org/magazine/article/christian-roots-of-abolition/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><a href="https://www.sbl-site.org/publications/article.aspx?ArticleId=123" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a></p>
-    <p>• Hebrew servants went free in the seventh year (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A2&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:2</a>)<a href="https://www.gotquestions.org/Bible-slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a></p>
-    <p>• Injury to servants required compensation or freedom (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A26-27&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:26-27</a>)<a href="https://en.wikipedia.org/wiki/The_Bible_and_slavery" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
-    <p>• Killing a servant was punishable by death (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A20&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:20</a>)<a href="https://www.studylight.org/encyclopedias/eng/isb/s/slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a></p>
-    <p>• Runaway slaves were protected, not returned (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A15-16&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Deuteronomy 23:15-16</a>)<a href="https://www.christianitytoday.com/history/people/activists/william-wilberforce.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a></p>
-    <p>• Servants participated in religious festivals (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11-14&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Deuteronomy 16:11-14</a>)<a href="https://biblehub.com/hebrew/5650.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
+    <p>• Hebrew servants went free in the seventh year (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A2&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:2</a>)<a href="https://www.gotquestions.org/Bible-slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a></p>
+    <p>• Injury to servants required compensation or freedom (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A26-27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:26-27</a>)<a href="https://en.wikipedia.org/wiki/The_Bible_and_slavery" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a></p>
+    <p>• Killing a servant was punishable by death (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A20&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:20</a>)<a href="https://www.studylight.org/encyclopedias/eng/isb/s/slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a></p>
+    <p>• Runaway slaves were protected, not returned (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A15-16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Deuteronomy 23:15-16</a>)<a href="https://www.christianitytoday.com/history/people/activists/william-wilberforce.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a></p>
+    <p>• Servants participated in religious festivals (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11-14&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Deuteronomy 16:11-14</a>)<a href="https://biblehub.com/hebrew/5650.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
     
     <p><strong>Economic and Social Context:</strong> Ancient Near Eastern slavery served different functions than modern slavery<a href="https://www.britannica.com/topic/slavery-sociology" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a><a href="https://www.ancienthistoryencyclopedia.org/article/1284/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a></p>
     <p>• Debt slavery was temporary relief from poverty<a href="https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/slavery-in-ancient-israel/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a></p>
@@ -35,13 +35,13 @@ export const slavery: Topic = {
     <h4>New Testament Teaching</h4>
     
     <p><strong>Spiritual Equality:</strong> Christianity introduced revolutionary concepts<a href="https://www.christianitytoday.com/history/people/activists/william-wilberforce.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><a href="https://www.plough.com/en/topics/justice/economic-justice/christianity-and-slavery" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a></p>
-    <p>• "There is neither slave nor free... you are all one in Christ Jesus" (<a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A28&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Galatians 3:28</a>)<a href="https://www.britannica.com/topic/abolitionism-European-and-American-social-movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a></p>
-    <p>• Masters and slaves both have the same Master in heaven (<a href="https://www.biblegateway.com/passage/?search=Ephesians+6%3A9&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Ephesians 6:9</a>)<a href="https://www.thegospelcoalition.org/article/how-did-christianity-change-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
-    <p>• Paul requests freedom for Onesimus based on Christian brotherhood (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)<a href="https://www.crossway.org/articles/what-philemon-teaches-us-about-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a></p>
+    <p>• "There is neither slave nor free... you are all one in Christ Jesus" (<a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A28&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Galatians 3:28</a>)<a href="https://www.britannica.com/topic/abolitionism-European-and-American-social-movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a></p>
+    <p>• Masters and slaves both have the same Master in heaven (<a href="https://www.biblegateway.com/passage/?search=Ephesians+6%3A9&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Ephesians 6:9</a>)<a href="https://www.thegospelcoalition.org/article/how-did-christianity-change-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
+    <p>• Paul requests freedom for Onesimus based on Christian brotherhood (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)<a href="https://www.crossway.org/articles/what-philemon-teaches-us-about-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a></p>
     
     <p><strong>Practical Reform:</strong> Early Christianity transformed master-slave relationships<a href="https://www.ligonier.org/learn/articles/christianity-and-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><a href="https://www.jstor.org/stable/3166564" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a></p>
-    <p>• Masters commanded to treat slaves justly and fairly (<a href="https://www.biblegateway.com/passage/?search=Colossians+4%3A1&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Colossians 4:1</a>)<a href="https://www.cambridge.org/core/journals/church-history/article/abs/early-christian-attitudes-toward-slavery/1A2B3C4D5E6F7A8B9C1D2E3F4A5B6C7D" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a></p>
-    <p>• Slaves elevated to "beloved brothers" (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)<a href="https://www.crossway.org/articles/what-philemon-teaches-us-about-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a></p>
+    <p>• Masters commanded to treat slaves justly and fairly (<a href="https://www.biblegateway.com/passage/?search=Colossians+4%3A1&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Colossians 4:1</a>)<a href="https://www.cambridge.org/core/journals/church-history/article/abs/early-christian-attitudes-toward-slavery/1A2B3C4D5E6F7A8B9C1D2E3F4A5B6C7D" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a></p>
+    <p>• Slaves elevated to "beloved brothers" (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)<a href="https://www.crossway.org/articles/what-philemon-teaches-us-about-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a></p>
     <p>• Church leadership included former slaves and freed people<a href="https://www.christian-history.org/early-church-slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a></p>
     
     <h4>Historical Impact of Christianity on Slavery</h4>
@@ -63,23 +63,23 @@ export const slavery: Topic = {
     <p>Response: God worked through progressive revelation and cultural transformation<a href="https://www.britannica.com/topic/abolitionism-European-and-American-social-movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://www.thegospelcoalition.org/article/how-did-christianity-change-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a>. Immediate abolition would have caused economic collapse and social chaos. Instead, God planted principles of human dignity that ultimately led to abolition<a href="https://www.ligonier.org/learn/articles/christianity-and-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a>.</p>
     
     <p><strong>Objection: "The Bible gives rules for beating slaves"</strong></p>
-    <p>Response: These passages (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A20-21&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:20-21</a>) actually restricted punishment and protected servants<a href="https://www.gotquestions.org/Bible-slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://www.studylight.org/encyclopedias/eng/isb/s/slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>. Unlike surrounding cultures, biblical law made killing a servant a capital crime and required punishment for injury<a href="https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/slavery-in-ancient-israel/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a>.</p>
+    <p>Response: These passages (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A20-21&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:20-21</a>) actually restricted punishment and protected servants<a href="https://www.gotquestions.org/Bible-slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://www.studylight.org/encyclopedias/eng/isb/s/slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>. Unlike surrounding cultures, biblical law made killing a servant a capital crime and required punishment for injury<a href="https://www.biblicalarchaeology.org/daily/ancient-cultures/ancient-israel/slavery-in-ancient-israel/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a>.</p>
     
     <p><strong>Objection: "Pro-slavery Christians used the Bible to justify slavery"</strong></p>
     <p>Response: This represents misinterpretation and cultural blindness, not biblical teaching<a href="https://www.britannica.com/biography/William-Wilberforce" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><a href="https://link.springer.com/journal/10892" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a>. The same Bible was used by abolitionists to condemn slavery. Scripture's core message of human dignity and equality ultimately prevailed<a href="https://www.christianitytoday.com/history/people/activists/william-wilberforce.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>.</p>
     
     <h4>Biblical Principles That Oppose Slavery</h4>
     
-    <p>• <strong>Image of God:</strong> All humans bear God's image (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:27</a>)<a href="https://www.britannica.com/topic/abolitionism-European-and-American-social-movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a></p>
-    <p>• <strong>Human trafficking condemned:</strong> "Slave trading" listed among serious sins (<a href="https://www.biblegateway.com/passage/?search=1+Timothy+1%3A10&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 1:10</a>)<a href="https://www.crossway.org/articles/what-philemon-teaches-us-about-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a></p>
-    <p>• <strong>Golden Rule:</strong> Treat others as you want to be treated (<a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 7:12</a>)<a href="https://www.thegospelcoalition.org/article/how-did-christianity-change-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
-    <p>• <strong>Love of neighbor:</strong> Love your neighbor as yourself (<a href="https://www.biblegateway.com/passage/?search=Mark+12%3A31&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Mark 12:31</a>)<a href="https://www.ligonier.org/learn/articles/christianity-and-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a></p>
-    <p>• <strong>Justice required:</strong> "Let justice roll down like waters" (<a href="https://www.biblegateway.com/passage/?search=Amos+5%3A24&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Amos 5:24</a>)<a href="https://www.plough.com/en/topics/justice/economic-justice/christianity-and-slavery" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a></p>
+    <p>• <strong>Image of God:</strong> All humans bear God's image (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:27</a>)<a href="https://www.britannica.com/topic/abolitionism-European-and-American-social-movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a></p>
+    <p>• <strong>Human trafficking condemned:</strong> "Slave trading" listed among serious sins (<a href="https://www.biblegateway.com/passage/?search=1+Timothy+1%3A10&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 1:10</a>)<a href="https://www.crossway.org/articles/what-philemon-teaches-us-about-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a></p>
+    <p>• <strong>Golden Rule:</strong> Treat others as you want to be treated (<a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 7:12</a>)<a href="https://www.thegospelcoalition.org/article/how-did-christianity-change-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
+    <p>• <strong>Love of neighbor:</strong> Love your neighbor as yourself (<a href="https://www.biblegateway.com/passage/?search=Mark+12%3A31&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Mark 12:31</a>)<a href="https://www.ligonier.org/learn/articles/christianity-and-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a></p>
+    <p>• <strong>Justice required:</strong> "Let justice roll down like waters" (<a href="https://www.biblegateway.com/passage/?search=Amos+5%3A24&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Amos 5:24</a>)<a href="https://www.plough.com/en/topics/justice/economic-justice/christianity-and-slavery" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a></p>
     
     <h4>Understanding Jesus's Teaching on Masters and Slaves</h4>
     
     <p><strong>Jesus's Approach:</strong> When Jesus taught about slaves obeying masters, He was not endorsing slavery but addressing the reality of His time<a href="https://www.britannica.com/topic/abolitionism-European-and-American-social-movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a><a href="https://www.crossway.org/articles/what-philemon-teaches-us-about-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a>:</p>
-    <p>• Jesus came as a spiritual liberator, not a political revolutionary (<a href="https://www.biblegateway.com/passage/?search=John+18%3A36&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">John 18:36</a>)<a href="https://www.thegospelcoalition.org/article/how-did-christianity-change-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
+    <p>• Jesus came as a spiritual liberator, not a political revolutionary (<a href="https://www.biblegateway.com/passage/?search=John+18%3A36&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 18:36</a>)<a href="https://www.thegospelcoalition.org/article/how-did-christianity-change-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a></p>
     <p>• His mission was to change hearts, which would ultimately transform society<a href="https://www.ligonier.org/learn/articles/christianity-and-slavery/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a></p>
     <p>• He taught radical equality before God while working within existing structures<a href="https://www.plough.com/en/topics/justice/economic-justice/christianity-and-slavery" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a></p>
     <p>• His golden rule principle ("treat others as you want to be treated") fundamentally undermined slavery<a href="https://www.britannica.com/topic/abolitionism-European-and-American-social-movement" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a></p>
@@ -100,7 +100,7 @@ export const slavery: Topic = {
     {
       id: 2,
       date: "c. 1450 BC",
-      title: "Seven Year Release (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A2&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:2</a>)",
+      title: "Seven Year Release (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A2&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:2</a>)",
       period: "Mosaic Law",
       color: "#1E40AF",
       description: "Revolutionary concept of automatic manumission - Hebrew servants must be freed in the seventh year without payment.",
@@ -109,7 +109,7 @@ export const slavery: Topic = {
     {
       id: 3,
       date: "c. 1450 BC",
-      title: "Kidnapping Prohibited (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A16&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:16</a>)",
+      title: "Kidnapping Prohibited (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A16&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:16</a>)",
       period: "Mosaic Law",
       color: "#1E40AF",
       description: "Death penalty established for slave trading and human trafficking - the foundation of most ancient slavery.",
@@ -118,7 +118,7 @@ export const slavery: Topic = {
     {
       id: 4,
       date: "c. 1450 BC",
-      title: "Protection from Abuse (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A20-21&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:20-21</a>)",
+      title: "Protection from Abuse (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A20-21&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:20-21</a>)",
       period: "Mosaic Law",
       color: "#1E40AF",
       description: "Death penalty for killing servants - unprecedented protection for enslaved people in the ancient world.",
@@ -127,7 +127,7 @@ export const slavery: Topic = {
     {
       id: 5,
       date: "c. 1450 BC",
-      title: "Injury Compensation (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A26-27&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:26-27</a>)",
+      title: "Injury Compensation (<a href=\"https://www.biblegateway.com/passage/?search=Exodus+21%3A26-27&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Exodus 21:26-27</a>)",
       period: "Mosaic Law",
       color: "#1E40AF",
       description: "Physical injury to servants required immediate freedom as compensation for the harm.",
@@ -136,7 +136,7 @@ export const slavery: Topic = {
     {
       id: 6,
       date: "c. 1400 BC",
-      title: "Runaway Slave Protection (<a href=\"https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A15-16&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Deuteronomy 23:15-16</a>)",
+      title: "Runaway Slave Protection (<a href=\"https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A15-16&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Deuteronomy 23:15-16</a>)",
       period: "Mosaic Law",
       color: "#1E40AF",
       description: "Only ancient law protecting rather than returning fugitive slaves - complete reversal of standard practice.",
@@ -145,7 +145,7 @@ export const slavery: Topic = {
     {
       id: 7,
       date: "c. 1400 BC",
-      title: "Generous Release (<a href=\"https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A12-15&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Deuteronomy 15:12-15</a>)",
+      title: "Generous Release (<a href=\"https://www.biblegateway.com/passage/?search=Deuteronomy+15%3A12-15&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Deuteronomy 15:12-15</a>)",
       period: "Mosaic Law",
       color: "#1E40AF",
       description: "Required generous provision upon freedom - servants must be supplied liberally with goods and livestock.",
@@ -154,7 +154,7 @@ export const slavery: Topic = {
     {
       id: 8,
       date: "c. 30 AD",
-      title: "Jesus's Liberation Message (<a href=\"https://www.biblegateway.com/passage/?search=Luke+4%3A18-19&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Luke 4:18-19</a>)",
+      title: "Jesus's Liberation Message (<a href=\"https://www.biblegateway.com/passage/?search=Luke+4%3A18-19&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Luke 4:18-19</a>)",
       period: "New Testament",
       color: "#059669",
       description: "Jesus declares his mission to 'proclaim freedom for the prisoners' and 'set the oppressed free.'",
@@ -163,7 +163,7 @@ export const slavery: Topic = {
     {
       id: 9,
       date: "c. 30 AD",
-      title: "The Golden Rule (<a href=\"https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Matthew 7:12</a>)",
+      title: "The Golden Rule (<a href=\"https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Matthew 7:12</a>)",
       period: "New Testament",
       color: "#059669",
       description: "'Do to others as you would have them do to you' - principle that fundamentally undermines slavery.",
@@ -172,7 +172,7 @@ export const slavery: Topic = {
     {
       id: 10,
       date: "c. 48 AD",
-      title: "Spiritual Equality (<a href=\"https://www.biblegateway.com/passage/?search=Galatians+3%3A28&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Galatians 3:28</a>)",
+      title: "Spiritual Equality (<a href=\"https://www.biblegateway.com/passage/?search=Galatians+3%3A28&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Galatians 3:28</a>)",
       period: "Apostolic",
       color: "#7C2D12",
       description: "'There is neither slave nor free... you are all one in Christ Jesus' - revolutionary declaration of equality.",
@@ -181,7 +181,7 @@ export const slavery: Topic = {
     {
       id: 11,
       date: "c. 60 AD",
-      title: "Slave Trading Condemned (<a href=\"https://www.biblegateway.com/passage/?search=1+Timothy+1%3A10&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">1 Timothy 1:10</a>)",
+      title: "Slave Trading Condemned (<a href=\"https://www.biblegateway.com/passage/?search=1+Timothy+1%3A10&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">1 Timothy 1:10</a>)",
       period: "Apostolic",
       color: "#7C2D12",
       description: "Paul explicitly lists 'slave traders' among serious sinners, condemning human trafficking.",
@@ -190,7 +190,7 @@ export const slavery: Topic = {
     {
       id: 12,
       date: "c. 61 AD",
-      title: "From Slave to 'Beloved Brother' (<a href=\"https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=ESV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Philemon 1:16</a>)",
+      title: "From Slave to 'Beloved Brother' (<a href=\"https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=NIV\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">Philemon 1:16</a>)",
       period: "Apostolic",
       color: "#7C2D12",
       description: "Paul asks Philemon to receive Onesimus 'no longer as a slave, but as a dear brother.'",

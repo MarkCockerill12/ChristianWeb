@@ -12,23 +12,23 @@
         },
         {
             "folderPath": "my-app\\topics\\contradictions.ts\\",
-            "color": "foldercolorizer.color_660000"
+            "color": "foldercolorizer.color_00cc00"
         },
         {
             "folderPath": "my-app\\topics\\fine-tuning.ts\\",
-            "color": "foldercolorizer.color_660000"
+            "color": "foldercolorizer.color_00cc00"
         },
         {
             "folderPath": "my-app\\topics\\godEvil.ts\\",
-            "color": "foldercolorizer.color_660000"
+            "color": "foldercolorizer.color_00cc00"
         },
         {
             "folderPath": "my-app\\topics\\hell.ts\\",
-            "color": "foldercolorizer.color_660000"
+            "color": "foldercolorizer.color_00cc00"
         },
         {
             "folderPath": "my-app\\topics\\jesus.ts\\",
-            "color": "foldercolorizer.color_660000"
+            "color": "foldercolorizer.color_00cc00"
         },
         {
             "folderPath": "my-app\\topics\\archaeological.ts\\",
@@ -48,7 +48,7 @@
         },
         {
             "folderPath": "my-app\\topics\\miracles.ts\\",
-            "color": "foldercolorizer.color_660000"
+            "color": "foldercolorizer.color_00cc00"
         },
         {
             "folderPath": "my-app\\topics\\morality.ts\\",
@@ -81,10 +81,6 @@
         {
             "folderPath": "my-app\\topics\\canon.ts\\",
             "color": "foldercolorizer.color_00cc33"
-        },
-        {
-            "folderPath": "my-app\\topics\\index.ts\\",
-            "color": "foldercolorizer.color_660000"
         }
     ]
 }

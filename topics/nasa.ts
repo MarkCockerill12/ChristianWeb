@@ -15,7 +15,7 @@ export const nasa: Topic = {
       content: `<strong>NASA's Astronomical Calculations and Joshua's Long Day:</strong> NASA's precise astronomical calculations have confirmed anomalies in historical celestial mechanics that align with the biblical account of Joshua's long day<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE1401-1500.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.<br><br>
 
       <strong>1. The Biblical Account:</strong><br>
-      • <strong>Historical Context:</strong> Joshua 10:12-14 records the sun standing still for "about a whole day"<a href="https://www.biblegateway.com/passage/?search=Joshua+10%3A12-14&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Joshua 10:12-14</a><br>
+      • <strong>Historical Context:</strong> Joshua 10:12-14 records the sun standing still for "about a whole day"<a href="https://www.biblegateway.com/passage/?search=Joshua+10%3A12-14&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Joshua 10:12-14</a><br>
       • <strong>Date Calculation:</strong> Estimated occurrence around 1400-1450 BCE during the conquest of Canaan<br>
       • <strong>Geographic Location:</strong> Valley of Aijalon, approximately 31.8°N, 35.0°E<br>
       • <strong>Duration:</strong> Biblical text specifies "about a whole day" - roughly 23 hours and 20 minutes<br>
@@ -62,9 +62,9 @@ export const nasa: Topic = {
       content: `<strong>Solar Eclipse During Christ's Crucifixion:</strong> NASA's eclipse catalogs and astronomical calculations provide evidence for the darkness that occurred during Jesus' crucifixion<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE0001-0100.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a>.<br><br>
 
       <strong>1. Biblical Documentation of the Darkness:</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Matthew+27%3A45&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 27:45</a>:</strong> "Now from the sixth hour there was darkness over all the land until the ninth hour"<br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Mark+15%3A33&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Mark 15:33</a>:</strong> "And when the sixth hour had come, there was darkness over the whole land until the ninth hour"<br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Luke+23%3A44-45&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 23:44-45</a>:</strong> "It was now about the sixth hour, and there was darkness over the whole land until the ninth hour, while the sun's light failed"<br>
+      • <strong><a href="https://www.biblegateway.com/passage/?search=Matthew+27%3A45&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 27:45</a>:</strong> "Now from the sixth hour there was darkness over all the land until the ninth hour"<br>
+      • <strong><a href="https://www.biblegateway.com/passage/?search=Mark+15%3A33&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Mark 15:33</a>:</strong> "And when the sixth hour had come, there was darkness over the whole land until the ninth hour"<br>
+      • <strong><a href="https://www.biblegateway.com/passage/?search=Luke+23%3A44-45&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 23:44-45</a>:</strong> "It was now about the sixth hour, and there was darkness over the whole land until the ninth hour, while the sun's light failed"<br>
       • <strong>Duration:</strong> Three hours of darkness (approximately 12:00 PM to 3:00 PM)<br>
       • <strong>Geographic Scope:</strong> "Over all the land" - suggesting regional darkness<br><br>
 
@@ -97,7 +97,7 @@ export const nasa: Topic = {
       • <strong>Computer Modeling:</strong> NASA's HORIZONS system confirms astronomical conditions<br><br>
 
       <strong>6. Seismic Activity Correlation:</strong><br>
-      • <strong>Earthquake Documentation:</strong> <a href="https://www.biblegateway.com/passage/?search=Matthew+27%3A51&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 27:51</a> records earthquake accompanying the darkness<br>
+      • <strong>Earthquake Documentation:</strong> <a href="https://www.biblegateway.com/passage/?search=Matthew+27%3A51&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 27:51</a> records earthquake accompanying the darkness<br>
       • <strong>Geological Evidence:</strong> Jerusalem fault line shows seismic activity during 1st century<a href="https://earthquake.usgs.gov/learn/topics/historical_seismicity.php" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><br>
       • <strong>Atmospheric Dust:</strong> Earthquake-generated dust could enhance darkness effects<br>
       • <strong>Atmospheric Refraction:</strong> Seismic activity can affect atmospheric light transmission<br>
@@ -110,8 +110,8 @@ export const nasa: Topic = {
       content: `<strong>The Shadow That Moved Backward:</strong> NASA's astronomical calculations and the account of Hezekiah's sundial demonstrate another instance where biblical narrative aligns with astronomical possibilities<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE0701-0800.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[13]</a>.<br><br>
 
       <strong>1. Biblical Account of the Sign:</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=2+Kings+20%3A9-11&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">2 Kings 20:9-11</a>:</strong> "The shadow has gone forward ten steps. Rather let the shadow go back ten steps"<br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Isaiah+38%3A7-8&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Isaiah 38:7-8</a>:</strong> "I will make the shadow cast by the declining sun on the dial of Ahaz go back ten steps"<br>
+      • <strong><a href="https://www.biblegateway.com/passage/?search=2+Kings+20%3A9-11&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">2 Kings 20:9-11</a>:</strong> "The shadow has gone forward ten steps. Rather let the shadow go back ten steps"<br>
+      • <strong><a href="https://www.biblegateway.com/passage/?search=Isaiah+38%3A7-8&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Isaiah 38:7-8</a>:</strong> "I will make the shadow cast by the declining sun on the dial of Ahaz go back ten steps"<br>
       • <strong>Historical Context:</strong> Sign given to King Hezekiah around 700 BCE during his illness<br>
       • <strong>Physical Evidence:</strong> Movement of shadow on the "steps of Ahaz" sundial<br>
       • <strong>Duration:</strong> Temporary reversal, then normal progression resumed<br><br>
@@ -158,8 +158,8 @@ export const nasa: Topic = {
       content: `<strong>NASA's Investigation of the Star of Bethlehem:</strong> Using modern astronomical software and historical calculations, NASA has identified several celestial events that could explain the Star of Bethlehem<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE0001-0100.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a>.<br><br>
 
       <strong>1. Biblical Description of the Star:</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Matthew+2%3A1-2&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 2:1-2</a>:</strong> "Where is he who has been born king of the Jews? For we saw his star when it rose"<br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Matthew+2%3A9-10&version=ESV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 2:9-10</a>:</strong> "The star that they had seen when it rose went before them until it came to rest over the place where the child was"<br>
+      • <strong><a href="https://www.biblegateway.com/passage/?search=Matthew+2%3A1-2&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 2:1-2</a>:</strong> "Where is he who has been born king of the Jews? For we saw his star when it rose"<br>
+      • <strong><a href="https://www.biblegateway.com/passage/?search=Matthew+2%3A9-10&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 2:9-10</a>:</strong> "The star that they had seen when it rose went before them until it came to rest over the place where the child was"<br>
       • <strong>Characteristics:</strong> Visible to astronomers (Magi), appeared to move, indicated direction<br>
       • <strong>Timing:</strong> Appeared at Jesus' birth (approximately 6-4 BCE)<br>
       • <strong>Recognition:</strong> Significant enough to motivate long-distance travel<br><br>
