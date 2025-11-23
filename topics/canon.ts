@@ -362,7 +362,7 @@ export const canon: Topic = {
       
       <strong>Key Characteristics:</strong><br>
       • <strong>Orthodox theology:</strong> Generally consistent with apostolic teaching and combat Gnosticism<a href="https://www.britannica.com/topic/Apostolic-Father" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br>
-      • <strong>Non-apostolic authorship:</strong> Not written by apostles, but by the next generation of church leaders<a href="https://www.learnreligions.com/the-apostolic-fathers-700683" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
+      • <strong>Non-apostolic authorship:</strong> Not written by apostles, but by the next generation of church leaders<a href="https://www.britannica.com/topic/Apostolic-Father" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
       • <strong>Self-aware status:</strong> The authors often quote the apostles as a higher authority, showing they did not see their own writings as equal to Scripture<a href="https://www.ligonier.org/learn/articles/apostolic-fathers" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
       
       <strong>Detailed Analysis of Key Works:</strong><br><br>
@@ -495,7 +495,7 @@ export const canon: Topic = {
     "43. [Academic Resource] History.com - Why Were the Gnostic Gospels Left Out of the Bible? https://www.history.com/news/gnostic-gospels-christianity-scriptures",
     "44. [Academic Resource] Early Christian Writings - Main Collection. https://www.earlychristianwritings.com/",
     "45. [Encyclopedia] Britannica - Apostolic Father. https://www.britannica.com/topic/Apostolic-Father",
-    "46. [Religious Resource] Learn Religions - The Apostolic Fathers. https://www.learnreligions.com/the-apostolic-fathers-700683",
+    "46. [Encyclopedia] Britannica. 'Apostolic Father.' https://www.britannica.com/topic/Apostolic-Father",
     "47. [Religious Organization] Ligonier Ministries - The Apostolic Fathers. https://www.ligonier.org/learn/articles/apostolic-fathers",
     "48. [Academic Resource] Early Christian Writings - The Didache. https://www.earlychristianwritings.com/didache.html",
     "49. [Ministry Organization] Got Questions - The Didache. https://www.gotquestions.org/Didache.html",

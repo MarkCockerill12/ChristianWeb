@@ -7,7 +7,7 @@ export const tuning: Topic = {
     'How does naturalism explain the fine-tuning of the universe for life? And how does the Bible better explain it?',
   icon: 'Atom',
   color: 'teal',
-  tags: ['Science', 'Cosmology', 'Physics'],
+  tags: ['Science', 'Cosmology', 'Physics'], //TODO say that it isnt a great argument on its own
   subtopics: [
     {
       id: 'cosmological-constants',
