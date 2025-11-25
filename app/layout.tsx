@@ -1,5 +1,5 @@
 import type React from "react"
-import type { Metadata } from "next"
+import type { Metadata, Viewport } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
 import { Navigation } from "@/components/navigation"
@@ -14,6 +14,16 @@ export const metadata: Metadata = {
     "Exploring the historical accuracy and truth claims of Christianity through evidence, scholarship, and honest inquiry.",
 }
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "white" },
+    { media: "(prefers-color-scheme: dark)", color: "black" },
+  ],
+}
+
 export default function RootLayout({
   children,
 }: {
@@ -22,12 +32,13 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <meta name="ahrefs-site-verification" content="9a5cafaa6a1a1e307fc565c7580c8115b329aef42fc37a08ec7efc5605895ce7" />
       </head>
       <body className={inter.className}>
         {/* <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange> */}
           <Navigation />
-          <main>{children}</main>
+          <main className="w-full">{children}</main>
           <Footer />
         {/* </ThemeProvider> */}
       </body>
