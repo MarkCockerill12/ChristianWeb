@@ -9,7 +9,7 @@ export const archaeological: Topic = {
   tags: ["Archaeological","Historical"],
   tldr: "Archaeological discoveries consistently support biblical accounts, from ancient cities and rulers to meteorological phenomena and cultural details.",
   content: `
-<p>Archaeological evidence provides substantial support for biblical accounts, demonstrating the historical reliability of Scripture across multiple categories<a href="https://www.worldhistory.org/Biblical_Archaeology/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a> <a href="https://en.wikipedia.org/wiki/Biblical_Archaeology_Society" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.</p>
+<p>Archaeological evidence provides substantial support for biblical accounts, demonstrating the historical reliability of Scripture across multiple categories<a href="https://www.infoplease.com/encyclopedia/social-science/cultures/archaeology/biblical-archaeology" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a> <a href="https://en.wikipedia.org/wiki/Biblical_Archaeology_Society" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.</p>
 
 <p>This page is divided into several sections covering the major archaeological findings, from specific New and Old Testament locations to artifacts that confirm biblical figures and extra-biblical writings that corroborate the scriptural accounts.</p>
   `,
@@ -22,8 +22,8 @@ export const archaeological: Topic = {
 <p><strong>Biblical Bethsaida</strong> (<a href="https://www.biblegateway.com/passage/?search=John+1%3A44&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 1:44</a>, <a href="https://www.biblegateway.com/passage/?search=Luke+9%3A10&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 9:10</a>, <a href="https://www.biblegateway.com/passage/?search=John+6%3A5-7&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 6:5-7</a>)<br>
 Philip was from Bethsaida, where Jesus fed the 5,000 <a href="https://www.biblegateway.com/passage/?search=John+6%3A5-7&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 6:5-7</a>. When Jesus arrived, He specifically asked Philip where to buy food, showing Philip's local knowledge of the area<a href="https://catalog.obitel-minsk.com/blog/2020/09/ancient-bethsaida-excavated" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>. Archaeological excavations at two potential sites support this<a href="https://biblearchaeologyreport.com/2019/09/05/biblical-sites-is-et-tell-bethsaida" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>:</p>
 <ul>
-  <li><strong>El-Araj</strong>: A Byzantine-era mosaic references Peter, suggesting strong early Christian tradition associating this site with apostles Peter, Andrew, and Philip<a href="https://www.journals.uchicago.edu/doi/pdfplus/10.5615/neareastarch.74.2.0092" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>.</li>
-  <li><strong>Et-Tell</strong>: Remains show significant occupation from Iron Age through Roman period, with a Byzantine church possibly built over Peter and Andrew's house<a href="https://biblearchaeologyreport.com/2019/09/05/biblical-sites-is-et-tell-bethsaida" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a>.</li>
+  <li><strong>El-Araj</strong>: A Byzantine-era mosaic references Peter, suggesting strong early Christian tradition associating this site with apostles Peter, Andrew, and Philip<a href="https://www.bethsaida-julias.com/home" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>.</li>
+  <li><strong>Et-Tell</strong>: Remains show significant occupation from Iron Age through Roman period, with a Byzantine church possibly built over Peter and Andrew's house<a href="https://ngsba.org/excavations/bethsaida/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a>.</li>
 </ul>
 
 <br>
@@ -31,7 +31,7 @@ Philip was from Bethsaida, where Jesus fed the 5,000 <a href="https://www.bibleg
 <p><strong>Paul's Shipwreck - Meteorological Accuracy</strong> (<a href="https://www.biblegateway.com/passage/?search=Acts+27%3A14-15&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Acts 27:14-15</a>)<br>
 <a href="https://www.biblegateway.com/passage/?search=Acts+27%3A14-15&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Acts 27:14-15</a> describes Paul's shipwreck caused by a "northeaster" (Euroclydon). This aligns with modern meteorology<a href="https://www.britannica.com/science/gregale" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a> <a href="https://glossary.ametsoc.org/wiki/Gregale" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a>:</p>
 <ul>
-  <li>The <strong>Gregale wind</strong> is a documented strong northeaster in the central Mediterranean, especially near Malta<a href="https://britannica.com/science/gregale" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a> <a href="https://en.wikipedia.org/wiki/Gregale" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a></li>
+  <li>The <strong>Gregale wind</strong> is a documented strong northeaster in the central Mediterranean, especially near Malta<a href="https://www.researchgate.net/publication/273679837_WindWave_Forecast_for_the_Central_Mediterranean_and_the_Maltese_Islands" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a> <a href="https://en.wikipedia.org/wiki/Gregale" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a></li>
   <li>The ship's described path and struggles correspond to known Mediterranean conditions and seamanship in Acts 27<a href="https://hmml.org/stories/series-weather-contesting-saint-paul-s-shipwreck/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a></li>
   <li>Autumn Mediterranean storms and occasional tropical-like cyclones ("medicanes") are well documented<a href="https://www.cob-net.org/compare_crete.php" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a></li>
 </ul>
@@ -61,7 +61,7 @@ Philip was from Bethsaida, where Jesus fed the 5,000 <a href="https://www.bibleg
   <li>Extensive excavations reveal first-century fishing village<a href="https://en.wikipedia.org/wiki/Capernaum" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a> <a href="https://www.journals.uchicago.edu/doi/10.5615/bullamerschoorie.374.0191" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a></li>
   <li>Peter's house identified with early Christian veneration<a href="https://www.allaboutarchaeology.org/house-of-peter-at-capernaum-faq.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[23]</a></li>
   <li>Synagogue foundations from Jesus's time discovered<a href="https://madainproject.com/capernaum_synagogue" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a></li>
-  <li>Confirms Gospel descriptions of Jesus's Galilean ministry base<a href="https://dannythedigger.com/capernaum-synagogue" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a></li>
+  <li>Confirms Gospel descriptions of Jesus's Galilean ministry base<a href="https://www.journals.uchicago.edu/doi/pdfplus/10.2307/3209778" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a></li>
 </ul>
 `
     },
@@ -93,8 +93,8 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
 <p><strong>Hezekiah's Tunnel</strong></p>
 <ul>
   <li>701 BC tunnel in Jerusalem matches biblical account in <a href="https://biblegateway.com/passage/?search=2+Kings+20%3A20&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">2 Kings 20:20</a><a href="https://en.wikipedia.org/wiki/Siloam_tunnel" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[36]</a> <a href="https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/IEJ_Siloam.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[37]</a></li>
-  <li>Hebrew inscription found in tunnel confirms biblical dating<a href="https://en.wikipedia.org/wiki/Siloam_inscription" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a></li>
-  <li>Engineering marvel demonstrates advanced Israelite capabilities<a href="https://www.smithsonianmag.com/history/hezekiahs-tunnel-ancient-engineering-marvel-180975123/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a></li>
+  <li>Hebrew inscription found in tunnel confirms biblical dating<a href="https://www.bibleodyssey.org/articles/the-siloam-inscription-and-hezekiahs-tunnel/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a></li>
+  <li>Engineering marvel demonstrates advanced Israelite capabilities<a href="https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hezekiahs-tunnel-reexamined/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a></li>
 </ul>
 
 <br>
@@ -133,8 +133,8 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
 <p><strong>King David</strong></p>
 <ul>
   <li><strong>Tel Dan Stele</strong> (9th century BC): References "House of David"<a href="https://en.wikipedia.org/wiki/Tel_Dan_stele" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[50]</a> <a href="https://thejewishmuseum.org/exhibitions/tel-dan-stele/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a></li>
-  <li><strong>Mesha Stele</strong>: Mentions Israelite territory and conflicts<a href="https://en.wikipedia.org/wiki/Mesha_Stele" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a> <a href="https://en.wikipedia.org/wiki/Mesha_Stele" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a></li>
-  <li>Confirms David's historical existence and dynasty<a href="https://thejewishmuseum.org/exhibitions/tel-dan-stele/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a></li>
+  <li><strong>Mesha Stele</strong>: Mentions Israelite territory and conflicts<a href="https://en.wikipedia.org/wiki/Mesha_Stele" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a> <a href="https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/what-does-the-mesha-stele-say/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a></li>
+  <li>Confirms David's historical existence and dynasty<a href="https://armstronginstitute.org/1001-inscriptions-prove-the-house-of-david" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a></li>
 </ul>
 
 <br>
@@ -143,15 +143,15 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
 <ul>
   <li><strong>Pilate Stone</strong> discovered at Caesarea Maritima (1961)<a href="https://www.worldhistory.org/Pontius_Pilate/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a> <a href="https://en.wikipedia.org/wiki/Pilate_stone" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[56]</a></li>
   <li>Confirms Pilate as "Prefect of Judea" with correct title and timeframe<a href="https://www.britannica.com/biography/Pontius-Pilate" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[57]</a></li>
-  <li>Validates Gospel accounts of Jesus's trial<a href="https://www.biblicalarchaeologyreview.com/article/pontius-pilate-portrait-of-a-roman-governor/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[58]</a></li>
+  <li>Validates Gospel accounts of Jesus's trial<a href="https://biblearchaeologyreport.com/2019/10/11/pontius-pilate-an-archaeological-biography/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[58]</a></li>
 </ul>
 
 <br>
 
 <p><strong>King Hezekiah & Sennacherib's Prism</strong></p>
 <ul>
-  <li><strong>Sennacherib's (Taylor) Prism</strong>: Assyrian account of siege of Jerusalem<a href="https://cdli.ox.ac.uk/wiki/doku.php?id=taylor_prism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[59]</a> <a href="https://en.wikipedia.org/wiki/Sennacherib%27s_Annals" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a>. It corroborates the biblical story of King Hezekiah and the Assyrian invasion<a href="https://biblicalarchaeologygraves.blogspot.com/2014/12/bonus-41-taylor-prism.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[61]</a>.</li>
-  <li>Matches biblical account in <a href="https://biblegateway.com/passage/?search=2+Kings+18-19&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">2 Kings 18-19</a> and <a href="https://biblegateway.com/passage/?search=Isaiah+36-37&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Isaiah 36-37</a><a href="https://www.worldhistory.org/Assyrian_Empire/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a>.</li>
+  <li><strong>Sennacherib's (Taylor) Prism</strong>: Assyrian account of siege of Jerusalem<a href="https://cdli.ox.ac.uk/wiki/doku.php?id=taylor_prism" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[59]</a> <a href="https://en.wikipedia.org/wiki/Sennacherib%27s_Annals" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a>. It corroborates the biblical story of King Hezekiah and the Assyrian invasion<a href="https://www.britishmuseum.org/collection/object/W_1855-1003-1" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[61]</a>.</li>
+  <li>Matches biblical account in <a href="https://www.biblegateway.com/passage/?search=2+Kings+18-19&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">2 Kings 18-19</a> and <a href="https://biblegateway.com/passage/?search=Isaiah+36-37&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Isaiah 36-37</a><a href="https://www.britannica.com/place/Assyria" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a>.</li>
   <li><strong>Hezekiah's Seal</strong>: Personal seal (bulla) of King Hezekiah discovered<a href="https://www.smithsonianmag.com/smart-news/seal-prophet-isaiah-180968255/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[63]</a> <a href="https://armstronginstitute.org/734-king-hezekiahs-personal-seal-impression-found" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[64]</a>.</li>
 </ul>
 
@@ -159,8 +159,8 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
 
 <p><strong>Caiaphas the High Priest</strong></p>
 <ul>
-  <li><strong>Caiaphas Ossuary</strong>: Limestone burial box with inscription<a href="https://biblearchaeologyreport.com/2025/04/17/caiaphas-an-archaeological-biography/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[65]</a> <a href="https://en.wikipedia.org/wiki/Caiaphas_ossuary" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[66]</a></li>
-  <li>Confirms the high priest who presided over Jesus's trial<a href="https://biblegateway.com/passage/?search=Matthew+26%3A57&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 26:57</a>, <a href="https://biblegateway.com/passage/?search=Mark+14%3A53&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Mark 14:53</a>, <a href="https://biblegateway.com/passage/?search=Luke+22%3A54&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 22:54</a>, <a href="https://iblegateway.com/passage/?search=John+18%3A13&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 18:13</a></li>
+  <li><strong>Caiaphas Ossuary</strong>: Limestone burial box with inscription<a href="https://library.biblicalarchaeology.org/article/burial-cave-of-the-caiaphas-family/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[65]</a> <a href="https://en.wikipedia.org/wiki/Caiaphas_ossuary" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[66]</a></li>
+  <li>Confirms the high priest who presided over Jesus's trial<a href="https://biblegateway.com/passage/?search=Matthew+26%3A57&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 26:57</a>, <a href="https://biblegateway.com/passage/?search=Mark+14%3A53&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Mark 14:53</a>, <a href="https://biblegateway.com/passage/?search=Luke+22%3A54&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 22:54</a>, <a href="https://biblegateway.com/passage/?search=John+18%3A13&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 18:13</a></li>
   <li>Dating matches Gospel timeline<a href="https://rsc.byu.edu/behold-lamb-god/jesus-ossuaries-first-century-jewish-burial-practices-lost-tomb-jesus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[67]</a></li>
 </ul>
 `
@@ -170,7 +170,7 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
       title: "Extra-Biblical Historical Sources",
       tags: ["historians", "roman", "jewish", "greek"],
       content: `
-<p>Multiple non-Christian historians confirm Jesus's historical existence<a href="https://en.wikipedia.org/wiki/Historicity_of_Jesus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[68]</a> <a href="https://britannica.com/biography/Jesus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[69]</a>:</p>
+<p>Multiple non-Christian historians confirm Jesus's historical existence<a href="https://en.wikipedia.org/wiki/Historicity_of_Jesus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[68]</a> <a href="https://www.britannica.com/biography/Jesus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[69]</a>:</p>
 
 <p><strong>Roman Sources</strong></p>
 <ul>
@@ -182,14 +182,14 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
 <p><strong>Jewish Sources</strong></p>
 <ul>
   <li><strong>Flavius Josephus</strong> (c. 93-94 AD): Mentions Jesus in the <em>Testimonium Flavianum</em>, which is considered authentic in its core but partially interpolated by later Christian scribes<a href="https://en.wikipedia.org/wiki/Josephus_on_Jesus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[76]</a> <a href="https://crossworks.holycross.edu/cgi/viewcontent.cgi?article=1002&context=parnassus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[77]</a></li>
-  <li><strong>The Talmud</strong>: References Jesus (Yeshua) and his execution<a href="https://en.wikipedia.org/wiki/Jesus_in_the_Talmud" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[78]</a> <a href="https://en.wikipedia.org/wiki/Jesus_in_the_Talmud" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[79]</a></li>
+  <li><strong>The Talmud</strong>: References Jesus (Yeshua) and his execution<a href="https://en.wikipedia.org/wiki/Jesus_in_the_Talmud" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[78]</a> <a href="https://www.jewishbookcouncil.org/book/jesus-in-the-talmud" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[79]</a></li>
   <li><strong>Mara bar Sarapion</strong> (c. 73 AD): References the execution of the "wise king" of the Jews<a href="https://en.wikipedia.org/wiki/Mara_bar_Serapion_on_Jesus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[80]</a> <a href="https://www.probe.org/ancient-evidence-for-jesus-from-non-christian-sources/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[81]</a></li>
 </ul>
 
 <p><strong>Greek Sources</strong></p>
 <ul>
   <li><strong>Lucian of Samosata</strong> (c. 170 AD): Satirically describes Christians worshipping "the crucified sage"<a href="https://en.wikipedia.org/wiki/Lucian#On_Christianity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[82]</a> <a href="https://en.wikipedia.org/wiki/Lucian" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[83]</a></li>
-  <li><strong>Celsus</strong> (c. 178 AD): Anti-Christian writer who doesn't deny Jesus's existence<a href="https://en.wikipedia.org/wiki/Celsus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[84]</a> <a href="https://www.worldhistory.org/Celsus/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[85]</a></li>
+  <li><strong>Celsus</strong> (c. 178 AD): Anti-Christian writer who doesn't deny Jesus's existence<a href="https://en.wikipedia.org/wiki/Celsus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[84]</a> <a href="https://digitalarchives.aum.edu/sites/default/files/2023-12/Thesis_165_Anderson.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[85]</a></li>
 </ul>
 `
     },
@@ -212,7 +212,7 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
 
 <p><strong>Nazareth</strong></p>
 <ul>
-  <li>Archaeological evidence confirms first-century settlement<a href="https://en.wikipedia.org/wiki/Nazareth#History" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[92]</a> <a href="https://www.smithsonianmag.com/history/jesus-nazareth-180956283/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[93]</a></li>
+  <li>Archaeological evidence confirms first-century settlement<a href="https://en.wikipedia.org/wiki/Nazareth#History" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[92]</a> <a href="https://africame.factsanddetails.com/article/entry-805.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[93]</a></li>
   <li>Residential quarters and agricultural terraces from Jesus's time<a href="https://en.wikipedia.org/wiki/Nazareth#Archaeological_evidence" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[94]</a></li>
   <li>Challenges claims that Nazareth didn't exist in the first century<a href="https://biblearchaeologyreport.com/2018/08/09/did-first-century-nazareth-exist/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[95]</a></li>
 </ul>
@@ -220,7 +220,7 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
 <p><strong>Jerusalem</strong></p>
 <ul>
   <li>Temple Mount excavations reveal Herodian construction<a href="https://en.wikipedia.org/wiki/Temple_Mount#Herodian_reconstruction" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[96]</a> <a href="https://www.jewishvirtuallibrary.org/the-temple-mount" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[97]</a></li>
-  <li><strong>Warning Stone</strong>: Inscription forbidding Gentiles in temple courts<a href="https://en.wikipedia.org/wiki/Temple_Warning_inscription" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[98]</a> <a href="https://www.worldhistory.org/Temple_of_Jerusalem/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[99]</a></li>
+  <li><strong>Warning Stone</strong>: Inscription forbidding Gentiles in temple courts<a href="https://en.wikipedia.org/wiki/Temple_Warning_inscription" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[98]</a> <a href="https://en.wikipedia.org/wiki/Temple_in_Jerusalem" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[99]</a></li>
   <li>Confirms Gospel accounts of temple practices and layout<a href="https://www.jewishvirtuallibrary.org/temple-mount" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[100]</a></li>
 </ul>
 `
@@ -243,7 +243,7 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
   <li><strong>Isaiah Scroll</strong>: Complete scroll of Isaiah, virtually identical to medieval manuscripts<a href="https://en.wikipedia.org/wiki/Isaiah_Scroll" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[111]</a> <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0249769" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[112]</a>.</li>
   <li><strong>Biblical canon</strong>: Evidence for established Hebrew scriptures before Christ<a href="https://www.logos.com/grow/dead-sea-scrolls-answer-canon-question" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[113]</a>.</li>
   <li><strong>Nash Papyrus</strong>: Ten Commandments from 2nd century BC<a href="https://www.jewishvirtuallibrary.org/nash-papyrus" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[114]</a> <a href="https://www.britannica.com/topic/Hebrew-Bible" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[115]</a></li>
-  <li><strong>Aleppo Codex</strong>: Medieval manuscript matching ancient texts<a href="https://www.worldhistory.org/Aleppo_Codex/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[116]</a> <a href="https://archive.org/details/Aleppo_Codex" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[117]</a></li>
+  <li><strong>Aleppo Codex</strong>: Medieval manuscript matching ancient texts<a href="https://en.wikipedia.org/wiki/Aleppo_Codex" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[116]</a> <a href="https://archive.org/details/Aleppo_Codex" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[117]</a></li>
 </ul>
 `
     },
@@ -253,13 +253,13 @@ Recent research suggests <a href="https://www.biblegateway.com/passage/?search=J
       tags: ["shroud-of-turin", "relics"],
       content: `
 <p><strong>The Shroud of Turin</strong><br>
-The Shroud of Turin is a linen cloth bearing the faint image of a crucified man. It is one of the most intensely studied and debated artifacts in the world.</p>
+The Shroud of Turin is a linen cloth bearing the faint image of a crucified man. It is one of the most intensely studied and debated artifacts in the world.<a href="https://www.shroud.com/pdfs/stlschneiderpaper.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[118]</a> </p>
 <ul>
-  <li><strong>Image & Physical Analysis (STURP, 1978)</strong>: The Shroud of Turin Research Project (STURP) concluded the image was <em>not</em> a painting, scorch, or stain, as the image-forming substance has no pigment and resides only on the topmost micro-fibers<a href="https://www.shroud.com/pdfs/ssi10part4.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[120]</a>. They also found the image contains unique three-dimensional spatial information.</li>
-  <li><strong>Contradictory Dating 1: Radiocarbon (1988)</strong>: The most notable test, published in <em>Nature</em>, used radiocarbon dating on samples from a corner of the cloth. The results dated the linen to the medieval period (1260-1390 AD)<a href="https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[118]</a> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[119]</a>.</li>
+  <li><strong>Image & Physical Analysis (STURP, 1978)</strong>: The Shroud of Turin Research Project (STURP) concluded the image was <em>not</em> a painting, scorch, or stain, as the image-forming substance has no pigment and resides only on the topmost micro-fibers<a href="https://www.shroud.com/pdfs/ssi10part4.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[119]</a>. They also found the image contains unique three-dimensional spatial information.</li>
+  <li><strong>Contradictory Dating 1: Radiocarbon (1988)</strong>: The most notable test, published in <em>Nature</em>, used radiocarbon dating on samples from a corner of the cloth. The results dated the linen to the medieval period (1260-1390 AD)<a href="https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[120]</a> <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[121]</a>.</li>
   <li><strong>Contradictory Dating 2: WAXS (2022)</strong>: A newer study by Dr. Liberato De Caro, using Wide-Angle X-ray Scattering (WAXS) to analyze the natural aging of cellulose, dated a fiber from the main body to approximately 2,000 years ago, consistent with a 1st-century origin<a href="https://www.mdpi.com/2571-9408/5/2/860" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[122]</a>.</li>
-  <li><strong>The Sample Controversy</strong>: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth<a href="https://www.catholicnewsagency.com/news/251090/new-study-claims-shroud-of-turin-is-2000-years-old" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[123]</a>.</li>
-  <li><strong>Botanical Evidence (Pollen)</strong>: Analysis has identified numerous pollen grains, some of which have been claimed to be from plant species unique to the Judea/Jerusalem region<a href="https://www.researchgate.net/publication/310496363_Pollen_on_the_Shroud_of_Turin_The_Probable_Trace_Left_by_Anointing_and_Embalming" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[121]</a>. This evidence, like the shroud itself, remains highly debated.</li>
+  <li><strong>The Sample Controversy</strong>: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth<a href="https://www.researchgate.net/publication/359904073_X-ray_Dating_of_a_Turin_Shroud's_Linen_Sample" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[123]</a>.</li>
+  <li><strong>Botanical Evidence (Pollen)</strong>: Analysis has identified numerous pollen grains, some of which have been claimed to be from plant species unique to the Judea/Jerusalem region<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1994/07/22165128/p45.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[124]</a><a href="https://www.researchgate.net/publication/310496363_Pollen_on_the_Shroud_of_Turin_The_Probable_Trace_Left_by_Anointing_and_Embalming" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[125]</a>. This evidence, like the shroud itself, remains highly debated.</li>
 </ul>
 `
     }
@@ -271,15 +271,15 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "Luke 22:54", "John 18:13"
   ],
   sources: [
-    "1. [Encyclopedia] World History Encyclopedia. 'Biblical Archaeology.' https://www.worldhistory.org/Biblical_Archaeology/",
+    "1. [Encyclopedia] InfoPlease. 'Biblical Archaeology.' https://www.infoplease.com/encyclopedia/social-science/cultures/archaeology/biblical-archaeology",
     "2. [Encyclopedia] Wikipedia. 'Biblical Archaeology Society.' https://en.wikipedia.org/wiki/Biblical_Archaeology_Society",
     "3. [Church Resource] St. Elisabeth Convent. 'Ancient Bethsaida Excavated?' https://catalog.obitel-minsk.com/blog/2020/09/ancient-bethsaida-excavated",
     "4. [Archaeological Report] Bible Archaeology Report. 'Biblical Sites: Is et-Tell Bethsaida?' https://biblearchaeologyreport.com/2019/09/05/biblical-sites-is-et-tell-bethsaida",
-    "5. [Academic Journal] University of Chicago Press. 'Near Eastern Archaeology: El-Araj.' https://www.journals.uchicago.edu/doi/pdfplus/10.5615/neareastarch.74.2.0092",
-    "6. [Archaeological Report] Bible Archaeology Report. 'Biblical Sites: Is et-Tell Bethsaida?' https://biblearchaeologyreport.com/2019/09/05/biblical-sites-is-et-tell-bethsaida",
+    "5. [Archaeological Project] El Araj Excavation Project. 'Excavations at El-Araj (Bethsaida).' https://www.bethsaida-julias.com/home",
+    "6. [Archaeological Project] Nelson Glueck School of Biblical Archaeology. 'Bethsaida.' https://ngsba.org/excavations/bethsaida/",
     "7. [Encyclopedia] Encyclopaedia Britannica. 'Gregale (Euroclydon).' https://www.britannica.com/science/gregale",
     "8. [Meteorological Glossary] AMS. 'Gregale.' https://glossary.ametsoc.org/wiki/Gregale",
-    "9. [Encyclopedia] Encyclopaedia Britannica. 'Gregale (Euroclydon).' https://www.britannica.com/science/gregale",
+    "9. [Academic Study] ResearchGate. 'Wind/Wave Forecast for the Central Mediterranean.' https://www.researchgate.net/publication/273679837_WindWave_Forecast_for_the_Central_Mediterranean_and_the_Maltese_Islands",
     "10. [Encyclopedia] Wikipedia. 'Gregale Wind Patterns.' https://en.wikipedia.org/wiki/Gregale",
     "11. [Museum] Hill Museum & Manuscript Library. 'Contesting Saint Paul's Shipwreck.' https://hmml.org/stories/series-weather-contesting-saint-paul-s-shipwreck/",
     "12. [Academic Resource] COB-NET. 'Mediterranean Cyclones.' https://www.cob-net.org/compare_crete.php",
@@ -295,7 +295,7 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "22. [Academic Journal] University of Chicago Press. 'Bull. Am. Sch. Orient. Res.' https://www.journals.uchicago.edu/doi/10.5615/bullamerschoorie.374.0191",
     "23. [Archaeological Resource] All About Archaeology. 'House of Peter at Capernaum.' https://www.allaboutarchaeology.org/house-of-peter-at-capernaum-faq.htm",
     "24. [Archaeological Resource] Madain Project. 'Capernaum Synagogue.' https://madainproject.com/capernaum_synagogue",
-    "25. [Archaeological Resource] Danny the Digger. 'Capernaum Synagogue.' https://dannythedigger.com/capernaum-synagogue",
+    "25. [Academic Journal] University of Chicago Press. 'New Archaeological Evidence on Ancient Capernaum.' https://www.journals.uchicago.edu/doi/pdfplus/10.2307/3209778",
     "26. [Church Resource] Oxford Bible Church. 'Scientific Analysis of Gomorrah.' https://www.oxfordbiblechurch.co.uk/index.php/books/sodom-and-gomorrah/633-appendix-2-results-of-a-scientific-analysis-of-gomorrah",
     "27. [Journal] Nature Scientific Reports. 'A Tunguska sized airburst destroyed Tall el-Hammam...' https://www.nature.com/articles/s41598-021-97778-3",
     "28. [News] El País (English). 'Sodom and Gomorrah were not destroyed by... (Retraction Notice)' https://english.elpais.com/science-tech/2025-04-24/sodom-and-gomorrah-were-not-destroyed-by-the-impact-of-an-extraterrestrial-object.html",
@@ -308,8 +308,8 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "35. [News] Evangelical Focus. 'Book of Joshua may record oldest known solar eclipse.' https://evangelicalfocus.com/science/2986/book-of-joshua-may-record-oldest-known-solar-eclipse",
     "36. [Encyclopedia] Wikipedia. 'Siloam Tunnel.' https://en.wikipedia.org/wiki/Siloam_tunnel",
     "37. [University] Rutgers University. 'IEJ Siloam.' https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/IEJ_Siloam.pdf",
-    "38. [Encyclopedia] Wikipedia. 'Siloam Inscription.' https://en.wikipedia.org/wiki/Siloam_inscription",
-    "39. [Museum] Smithsonian Magazine. 'Hezekiah's Tunnel.' https://www.smithsonianmag.com/history/hezekiahs-tunnel-ancient-engineering-marvel-180975123/",
+    "38. [Academic Resource] Bible Odyssey. 'The Siloam Inscription and Hezekiah\'s Tunnel.' https://www.bibleodyssey.org/articles/the-siloam-inscription-and-hezekiahs-tunnel/",
+    "39. [Archaeology] Biblical Archaeology Society. 'Hezekiah\'s Tunnel Reexamined.' https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hezekiahs-tunnel-reexamined/",
     "40. [Encyclopedia] Wikipedia. 'Lachish Letters.' https://en.wikipedia.org/wiki/Lachish_letters",
     "41. [Museum] Museum of the Bible. 'Lachish and Literacy.' https://www.museumofthebible.org/magazine/history/lachish-and-literacy",
     "42. [Academic Database] JSTOR. 'Lachish Letters.' https://www.jstor.org/stable/1452054",
@@ -323,19 +323,19 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "50. [Encyclopedia] Wikipedia. 'Tel Dan Stele.' https://en.wikipedia.org/wiki/Tel_Dan_stele",
     "51. [Museum] The Jewish Museum. 'Tel Dan Stele.' https://thejewishmuseum.org/exhibitions/tel-dan-stele/",
     "52. [Encyclopedia] Wikipedia. 'Mesha Stele.' https://en.wikipedia.org/wiki/Mesha_Stele",
-    "53. [Encyclopedia] Wikipedia. 'Mesha Stele.' https://en.wikipedia.org/wiki/Mesha_Stele",
-    "54. [Museum] The Jewish Museum. 'Tel Dan Stele.' https://thejewishmuseum.org/exhibitions/tel-dan-stele/",
+    "53. [Archaeology] Biblical Archaeology Society. 'What Does the Mesha Stele Say?' https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/what-does-the-mesha-stele-say/",
+    "54. [Archaeology] Armstrong Institute. 'Inscriptions Prove the House of David.' https://armstronginstitute.org/1001-inscriptions-prove-the-house-of-david",
     "55. [Encyclopedia] World History Encyclopedia. 'Pontius Pilate.' https://www.worldhistory.org/Pontius_Pilate/",
     "56. [Encyclopedia] Wikipedia. 'Pilate Stone.' https://en.wikipedia.org/wiki/Pilate_stone",
     "57. [Encyclopedia] Encyclopedia Britannica. 'Pontius Pilate.' https://www.britannica.com/biography/Pontius-Pilate",
-    "58. [Archaeological Society] Biblical Archaeology Review. 'Pontius Pilate.' https://www.biblicalarchaeologyreview.com/article/pontius-pilate-portrait-of-a-roman-governor/",
+    "58. [Archaeological Report] Bible Archaeology Report. 'Pontius Pilate: An Archaeological Biography.' https://biblearchaeologyreport.com/2019/10/11/pontius-pilate-an-archaeological-biography/",
     "59. [Academic Resource] CDLI (Oxford). 'The Taylor Prism.' https://cdli.ox.ac.uk/wiki/doku.php?id=taylor_prism",
     "60. [Encyclopedia] Wikipedia. 'Sennacherib's Annals.' https://en.wikipedia.org/wiki/Sennacherib%27s_Annals",
-    "61. [Archaeological Resource] Biblical Archaeology. 'Taylor Prism.' https://biblicalarchaeologygraves.blogspot.com/2014/12/bonus-41-taylor-prism.html",
-    "62. [Encyclopedia] World History Encyclopedia. 'Assyrian Empire.' https://www.worldhistory.org/Assyrian_Empire/",
+    "61. [Museum Artifact] The British Museum. 'The Taylor Prism.' https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+    "62. [Encyclopedia] Britannica. 'Assyria.' https://www.britannica.com/place/Assyria",
     "63. [Museum] Smithsonian Magazine. 'Is This the Seal of the Prophet Isaiah?' https://www.smithsonianmag.com/smart-news/seal-prophet-isaiah-180968255/",
     "64. [Institute] Armstrong Institute. 'King Hezekiah's Personal Seal Impression Found.' https://armstronginstitute.org/734-king-hezekiahs-personal-seal-impression-found",
-    "65. [Archaeological Report] Bible Archaeology Report. 'Caiaphas.' https://biblearchaeologyreport.com/2025/04/17/caiaphas-an-archaeological-biography/",
+    "65. [Archaeology] Biblical Archaeology Society. 'Burial Cave of the Caiaphas Family.' https://library.biblicalarchaeology.org/article/burial-cave-of-the-caiaphas-family/",
     "66. [Encyclopedia] Wikipedia. 'Caiaphas Ossuary.' https://en.wikipedia.org/wiki/Caiaphas_ossuary",
     "67. [University] BYU. 'Jesus Ossuaries.' https://rsc.byu.edu/behold-lamb-god/jesus-ossuaries-first-century-jewish-burial-practices-lost-tomb-jesus",
     "68. [Encyclopedia] Wikipedia. 'Historicity of Jesus.' https://en.wikipedia.org/wiki/Historicity_of_Jesus",
@@ -349,13 +349,13 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "76. [Encyclopedia] Wikipedia. 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
     "77. [University] Holy Cross. 'Testimonium Flavianum.' https://crossworks.holycross.edu/cgi/viewcontent.cgi?article=1002&context=parnassus",
     "78. [Encyclopedia] Wikipedia. 'Jesus in the Talmud.' https://en.wikipedia.org/wiki/Jesus_in_the_Talmud",
-    "79. [Encyclopedia] Wikipedia. 'Jesus in the Talmud.' https://en.wikipedia.org/wiki/Jesus_in_the_Talmud",
+    "79. [Book Review] Jewish Book Council. 'Jesus in the Talmud.' https://www.jewishbookcouncil.org/book/jesus-in-the-talmud",
     "80. [Encyclopedia] Wikipedia. 'Mara bar Serapion on Jesus.' https://en.wikipedia.org/wiki/Mara_bar_Serapion_on_Jesus",
     "81. [Apologetics Resource] Probe Ministries. 'Ancient Evidence for Jesus.' https://www.probe.org/ancient-evidence-for-jesus-from-non-christian-sources/",
     "82. [Encyclopedia] Wikipedia. 'Lucian on Christianity.' https://en.wikipedia.org/wiki/Lucian#On_Christianity",
     "83. [Encyclopedia] Wikipedia. 'Lucian.' https://en.wikipedia.org/wiki/Lucian",
     "84. [Encyclopedia] Wikipedia. 'Celsus.' https://en.wikipedia.org/wiki/Celsus",
-    "85. [Encyclopedia] World History Encyclopedia. 'Celsus.' https://www.worldhistory.org/Celsus/",
+    "85. [Academic Thesis] AUM Digital Archive. 'Celsus: The First Systematic Critic of Christianity.' https://digitalarchives.aum.edu/sites/default/files/2023-12/Thesis_165_Anderson.pdf",
     "86. [Encyclopedia] Wikipedia. 'Second Temple Judaism.' https://en.wikipedia.org/wiki/Second_Temple_Judaism",
     "87. [Encyclopedia] Wikipedia. 'Galilee.' https://en.wikipedia.org/wiki/Galilee",
     "88. [Encyclopedia] Wikipedia. 'Ancient Synagogue.' https://en.wikipedia.org/wiki/Ancient_synagogue",
@@ -363,13 +363,13 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "90. [Encyclopedia] Wikipedia. 'Roman administration of Judaea (AD 6–135).' https://en.wikipedia.org/wiki/Roman_administration_of_Judaea_(AD_6%E2%80%93135)",
     "91. [Encyclopedia] World History Encyclopedia. 'Palestine in the Time of Jesus.' https://www.worldhistory.org/article/1012/palestine-in-the-time-of-jesus/",
     "92. [Encyclopedia] Wikipedia. 'Nazareth History.' https://en.wikipedia.org/wiki/Nazareth#History",
-    "93. [Museum] Smithsonian Magazine. 'Jesus of Nazareth.' https://www.smithsonianmag.com/history/jesus-nazareth-180956283/",
+    "93. [Academic] Facts and Details. 'Archaeological Evidence Related to Jesus.' https://africame.factsanddetails.com/article/entry-805.html",
     "94. [Encyclopedia] Wikipedia. 'Nazareth Archaeological Evidence.' https://en.wikipedia.org/wiki/Nazareth#Archaeological_evidence",
     "95. [Archaeological Report] Bible Archaeology Report. 'Did First-Century Nazareth Exist?' https://biblearchaeologyreport.com/2018/08/09/did-first-century-nazareth-exist/",
     "96. [Encyclopedia] Wikipedia. 'Temple Mount Herodian.' https://en.wikipedia.org/wiki/Temple_Mount#Herodian_reconstruction",
     "97. [Encyclopedia] Jewish Virtual Library. 'The Temple Mount.' https://www.jewishvirtuallibrary.org/the-temple-mount",
     "98. [Encyclopedia] Wikipedia. 'Temple Warning Inscription.' https://en.wikipedia.org/wiki/Temple_Warning_inscription",
-    "99. [Encyclopedia] World History Encyclopedia. 'Temple of Jerusalem.' https://www.worldhistory.org/Temple_of_Jerusalem/",
+    "99. [Encyclopedia] Wikipedia. 'Temple in Jerusalem.' https://en.wikipedia.org/wiki/Temple_in_Jerusalem",
     "100. [Encyclopedia] Jewish Virtual Library. 'Temple Mount.' https://www.jewishvirtuallibrary.org/temple-mount",
     "101. [Encyclopedia] Encyclopedia Britannica. 'Biblical Literature: The Text.' https://www.britannica.com/topic/biblical-literature/The-text",
     "102. [Manuscript Library] CSNTM. 'Papyrus P52.' https://manuscripts.csntm.org/manuscript/View/GA_P52",
@@ -386,16 +386,17 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "113. [Apologetics Resource] Logos. 'Dead Sea Scrolls and the Canon.' https://www.logos.com/grow/dead-sea-scrolls-answer-canon-question",
     "114. [Encyclopedia] Jewish Virtual Library. 'Nash Papyrus.' https://www.jewishvirtuallibrary.org/nash-papyrus",
     "115. [Encyclopedia] Encyclopedia Britannica. 'Hebrew Bible.' https://www.britannica.com/topic/Hebrew-Bible",
-    "116. [Encyclopedia] World History Encyclopedia. 'Aleppo Codex.' https://www.worldhistory.org/Aleppo_Codex/",
+    "116. [Encyclopedia] Wikipedia. 'Aleppo Codex.' https://en.wikipedia.org/wiki/Aleppo_Codex",
     "117. [Digital Library] Internet Archive. 'Aleppo Codex.' https://archive.org/details/Aleppo_Codex",
-    "118. [Encyclopedia] Wikipedia. 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
-    "119. [Academic Journal] NIH. 'Statistical and Proactive Analysis... Radiocarbon Dating of the Shroud of Turin.' https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180/",
-    "120. [Shroud Research] Shroud.com. 'Pollen Grains.' https://www.shroud.com/pdfs/ssi10part4.pdf",
-    "121. [Research] ResearchGate. 'Pollen on the Shroud of Turin.' https://www.researchgate.net/publication/310496363_Pollen_on_the_Shroud_of_Turin_The_Probable_Trace_Left_by_Anointing_and_Embalming",
+    "118. [Shroud Research] Shroud.com. 'Dating The Shroud Of Turin: Weighing All The Evidence.' https://www.shroud.com/pdfs/stlschneiderpaper.pdf",
+    "119. [Shroud Research] Shroud.com. 'Pollen Grains.' https://www.shroud.com/pdfs/ssi10part4.pdf",
+    "120. [Encyclopedia] Wikipedia. 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+    "121. [Academic Journal] NIH. 'Statistical and Proactive Analysis... Radiocarbon Dating of the Shroud of Turin.' https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180/",
     "122. [Academic Journal] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. *Heritage*, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
-    "123. [News] Catholic News Agency. 'New study claims Shroud of Turin is 2,000 years old.' https://www.catholicnewsagency.com/news/251090/new-study-claims-shroud-of-turin-is-2000-years-old",
+    "123. [Academic Journal] Heritage. 'X-ray Dating of a Turin Shroud\'s Linen Sample.' https://www.researchgate.net/publication/359904073_X-ray_Dating_of_a_Turin_Shroud's_Linen_Sample",
     "124. [Skeptical Resource] Center for Inquiry. 'Pollens on the 'Shroud': A Study in Deception.' https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1994/07/22165128/p45.pdf",
-    "125. [Shroud Research] Shroud.com. 'Dating The Shroud Of Turin: Weighing All The Evidence.' https://www.shroud.com/pdfs/stlschneiderpaper.pdf",
+    "125. [Research] ResearchGate. 'Pollen on the Shroud of Turin.' https://www.researchgate.net/publication/310496363_Pollen_on_the_Shroud_of_Turin_The_Probable_Trace_Left_by_Anointing_and_Embalming",
+    
   ],
   lastUpdated: "08-11-2025",
 }

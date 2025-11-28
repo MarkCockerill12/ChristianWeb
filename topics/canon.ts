@@ -257,13 +257,13 @@ export const canon: Topic = {
   tags: ["Historical", "Scripture"],
   content: `
     <h3>The Biblical Canon: How We Know Which Books Are Scripture</h3>
-    <p>The word "canon" comes from the Greek word "kanon," meaning "rule" or "measuring rod"<a href="https://www.britannica.com/topic/biblical-literature/The-biblical-canon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>. The biblical canon represents the authoritative collection of books that comprise Scripture<a href="https://www.worldhistory.org/Biblical_Canon/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>. Understanding which books belong in the Bible and why is crucial for establishing the foundation of Christian faith and doctrine.</p>
+    <p>The word "canon" comes from the Greek word "kanon," meaning "rule" or "measuring rod"<a href="https://www.britannica.com/topic/biblical-literature/The-biblical-canon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>. The biblical canon represents the authoritative collection of books that comprise Scripture<a href="https://www.oxfordbibliographies.com/abstract/document/obo-9780195393361/obo-9780195393361-0017.xml" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>. Understanding which books belong in the Bible and why is crucial for establishing the foundation of Christian faith and doctrine.</p>
 
     <h4>Criteria for Canonicity</h4>
-    <p>Early church leaders used several key criteria to determine which books were truly inspired Scripture<a href="https://www.ligonier.org/learn/articles/criteria-canonicity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>:</p>
+    <p>Early church leaders used several key criteria to determine which books were truly inspired Scripture<a href="https://biblequestions.info/2019/08/10/what-are-the-criteria-for-a-book-to-be-canonical/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>:</p>
     <p>• <strong>Apostolicity:</strong> Written by apostles or their close associates<a href="https://www.newadvent.org/cathen/01648b.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a></p>
-    <p>• <strong>Orthodoxy:</strong> Consistent with established apostolic teaching<a href="https://carm.org/manuscript-evidence/criteria-for-canon-of-scripture/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a></p>
-    <p>• <strong>Catholicity:</strong> Accepted by churches universally (not just in one region)<a href="https://www.ligonier.org/learn/articles/new-testament-canon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a></p>
+    <p>• <strong>Orthodoxy:</strong> Consistent with established apostolic teaching<a href="https://www.blueletterbible.org/faq/don_stewart/don_stewart_394.cfm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a></p>
+    <p>• <strong>Catholicity:</strong> Accepted by churches universally (not just in one region)<a href="https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a></p>
     <p>• <strong>Antiquity:</strong> Written during the apostolic era (1st century AD)<a href="https://explorethebible.lifeway.com/blog/adults/how-did-we-get-the-new-testament-canon/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a></p>
 
     <h4>The Protestant Canon: 66 Books</h4>
@@ -273,7 +273,7 @@ export const canon: Topic = {
     <p>The Catholic Bible includes additional texts, often referred to as the Deuterocanonical books, bringing the total to 73<a href="https://www.newadvent.org/cathen/03267a.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>. These books include Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch, and 1 and 2 Maccabees. While valued by Catholics, Protestant scholars maintain these texts should not be considered Scripture due to historical, theological, and canonical concerns. For a detailed analysis of why these books are not included in the Protestant canon, see the Deuterocanonical Books section below.</p>
 
     <h4>Conclusion</h4>
-    <p>The careful process of canonical recognition preserved for us the authentic apostolic writings while rejecting later forgeries, theological deviations, and legendary embellishments<a href="https://www.blueletterbible.org/faq/don_stewart/don_stewart_394.cfm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>. The 66 books of the Protestant Bible represent the complete revelation God intended to preserve for His church, confirmed by their apostolic origin, doctrinal orthodoxy, universal acceptance, and divine attestation<a href="https://answersingenesis.org/the-word-of-god/why-66-books/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a>.</p>
+    <p>The careful process of canonical recognition preserved for us the authentic apostolic writings while rejecting later forgeries, theological deviations, and legendary embellishments<a href="https://www.thegospelcoalition.org/essay/the-biblical-canon/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>. The 66 books of the Protestant Bible represent the complete revelation God intended to preserve for His church, confirmed by their apostolic origin, doctrinal orthodoxy, universal acceptance, and divine attestation<a href="https://answersingenesis.org/the-word-of-god/why-66-books/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a>.</p>
   `,
   verses: [
     "2 Timothy 3:16",
@@ -296,7 +296,7 @@ export const canon: Topic = {
       
       <strong>Jewish Canon Foundation (circa 400 BC):</strong> The Hebrew Bible (Tanakh) closed around 400 BC with Malachi, establishing 24 books (equivalent to the Protestant 39 Old Testament books)<a href="https://www.britannica.com/topic/Tanakh" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[14]</a>. Jewish authorities never accepted the deuterocanonical books as Scripture, viewing them as valuable historical and devotional literature but not divinely inspired<a href="https://www.britannica.com/topic/Old-Testament/The-Apocrypha" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a>.<br><br>
 
-      <strong>Septuagint Inclusion (3rd-1st century BC):</strong> When the Hebrew Bible was translated into Greek (the Septuagint), some manuscripts included these additional books. However, this was not universal, and many Septuagint manuscripts omitted them<a href="https://www.christianity.com/wiki/bible/what-is-the-septuagint.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a>. Importantly, inclusion in a translation does not establish canonicity—the translators were preserving culturally significant texts, not declaring them Scripture<a href="https://www.logos.com/grow/did-jesus-and-the-apostles-use-the-septuagint/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a>.<br><br>
+      <strong>Septuagint Inclusion (3rd-1st century BC):</strong> When the Hebrew Bible was translated into Greek (the Septuagint), some manuscripts included these additional books. However, this was not universal, and many Septuagint manuscripts omitted them<a href="https://www.christianity.com/wiki/bible/what-is-the-septuagint.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a>. Importantly, inclusion in a translation does not establish canonicity—the translators were preserving culturally significant texts, not declaring them Scripture<a href="https://www.logos.com/grow/what-is-the-septuagint-and-why-is-it-valuable-for-bible-study/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a>.<br><br>
 
       <strong>Early Church Period (1st-4th centuries):</strong> Church fathers had mixed opinions about these books. Jerome (347-420 AD), the translator of the Latin Vulgate, explicitly distinguished between canonical books (the Hebrew canon) and those "read for edification" (the Apocrypha) but not for establishing doctrine<a href="https://www.britannica.com/biography/Saint-Jerome/Biblical-scholar" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a>.<br><br>
 
@@ -305,7 +305,7 @@ export const canon: Topic = {
       <strong>Specific Problems with Individual Deuterocanonical Books</strong><br><br>
       
       <strong>Tobit (circa 200 BC):</strong><br>
-      • <strong>Magical practices:</strong> Tobit 6:5-8 prescribes burning fish liver and heart to drive away demons, and using fish gall to cure blindness—practices foreign to biblical religion<a href="https://www.carm.org/apocrypha/book-tobit-summary-and-problems/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
+      • <strong>Magical practices:</strong> Tobit 6:5-8 prescribes burning fish liver and heart to drive away demons, and using fish gall to cure blindness—practices foreign to biblical religion<a href="https://www.britannica.com/topic/Tobit-biblical-literature" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
     • <strong>Salvation by works:</strong> Tobit 12:9 states "almsgiving delivers from death and purges away every sin," directly contradicting the biblical doctrine of salvation by grace through faith (<a href="https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Ephesians 2:8-9</a>)<a href="https://www.gotquestions.org/book-of-Tobit.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><br><br>
 
       <strong>Judith (circa 150 BC):</strong><br>
@@ -316,7 +316,7 @@ export const canon: Topic = {
       • <strong>False attribution:</strong> Claims Solomon as author but was written centuries after his death, making it pseudepigraphical<a href="https://www.britannica.com/topic/Wisdom-of-Solomon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[25]</a><br><br>
 
       <strong>2 Maccabees (circa 124 BC):</strong><br>
-    • <strong>Prayers for the dead:</strong> 2 Maccabees 12:44-46 supports praying and making offerings for the dead, contradicting the biblical teaching that judgment is final after death (<a href="https://www.biblegateway.com/passage/?search=Hebrews+9%3A27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Hebrews 9:27</a>)<a href="https://www.carm.org/apocrypha/summary-and-problems-of-1-and-2-maccabees/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a>. This text is a primary basis for the Catholic doctrine of Purgatory<a href="https://www.catholic.com/encyclopedia/purgatory" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[27]</a>.<br><br>
+    • <strong>Prayers for the dead:</strong> 2 Maccabees 12:44-46 supports praying and making offerings for the dead, contradicting the biblical teaching that judgment is final after death (<a href="https://www.biblegateway.com/passage/?search=Hebrews+9%3A27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Hebrews 9:27</a>)<a href="https://www.thetorah.com/article/the-maccabean-victory-explained-between-1-and-2-maccabees" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[26]</a>. This text is a primary basis for the Catholic doctrine of Purgatory<a href="https://www.catholic.com/encyclopedia/purgatory" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[27]</a>.<br><br>
 
       <strong>Why Jesus and the Apostles Never Endorsed These Books</strong><br>
     When Jesus referred to "the Law, the Prophets, and the Writings" (<a href="https://www.biblegateway.com/passage/?search=Luke+24%3A44&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Luke 24:44</a>), He was referencing the established Hebrew canon<a href="https://learn.ligonier.org/devotionals/old-testament-canon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a>. The New Testament contains hundreds of Old Testament quotations, but it never quotes the deuterocanonical books as inspired Scripture. However, it does contain allusions to them. For example, <a href="https://www.biblegateway.com/passage/?search=Hebrews+11%3A35&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Hebrews 11:35</a> ("...others were tortured, refusing to accept release...") is widely seen as a clear allusion to the martyrdom of Eleazar and the seven brothers in 2 Maccabees 6–7<a href="https://www.biblestudytools.com/commentaries/gills-exposition-of-the-bible/hebrews-11-35.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a>. This shows the apostles were aware of these books but did not grant them the authority of Scripture.
@@ -346,13 +346,13 @@ export const canon: Topic = {
       
       <strong>Gospel of Mary (circa 180-200 AD):</strong><br>
       • <strong>Gnostic revelations:</strong> Claims Mary Magdalene received special, secret revelations unavailable to male apostles, challenging apostolic authority<a href="https://www.earlychristianwritings.com/gospelmary.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a><br>
-      • <strong>Anti-body teachings:</strong> Promotes escape from material existence ("sin...is not in the nature") rather than resurrection hope<a href="https://www.worldhistory.org/Gospel_of_Mary/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[40]</a><br><br>
+      • <strong>Anti-body teachings:</strong> Promotes escape from material existence ("sin...is not in the nature") rather than resurrection hope<a href="https://www.ebsco.com/research-starters/literature-and-writing/gospel-mary-magdala-karen-l-king" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[40]</a><br><br>
       
       <strong>Gospel of Philip (circa 200-250 AD):</strong><br>
       • <strong>Sacramental magic:</strong> Claims salvation depends on secret rituals in a "bridal chamber" rather than faith in Christ<a href="https://www.earlychristianwritings.com/gospelphilip.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[41]</a><br>
       • <strong>Sensationalism:</strong> Contains the reference to Mary Magdalene as Jesus' "companion," which has been fictionalized in modern works but reflects Gnostic (not historical) ideas<a href="https://www.gotquestions.org/Gospel-of-Philip.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[42]</a><br><br>
       
-      <strong>Why Rejected:</strong> These texts systematically contradict apostolic teaching on creation (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A31&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:31</a>), salvation by grace (<a href="https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Ephesians 2:8-9</a>), Christ's physical reality (<a href="https://www.biblegateway.com/passage/?search=1+John+4%3A2-3&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">1 John 4:2-3</a>), and were written 100-300+ years after the apostles, failing every test of canonicity<a href="https://www.history.com/news/gnostic-gospels-christianity-scriptures" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[43]</a>.`
+      <strong>Why Rejected:</strong> These texts systematically contradict apostolic teaching on creation (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A31&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:31</a>), salvation by grace (<a href="https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Ephesians 2:8-9</a>), Christ's physical reality (<a href="https://www.biblegateway.com/passage/?search=1+John+4%3A2-3&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">1 John 4:2-3</a>), and were written 100-300+ years after the apostles, failing every test of canonicity<a href="https://www.str.org/w/why-are-the-gnostic-gospels-left-out-of-the-bible-" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[43]</a>.`
     },
     {
       id: "early-christian-writings",
@@ -361,9 +361,9 @@ export const canon: Topic = {
       content: `<strong>Overview:</strong> This refers to a group of orthodox writings from the late 1st and early 2nd centuries. While theologically valuable, the early church recognized them as important pastoral letters but not inspired Scripture<a href="https://www.earlychristianwritings.com/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[44]</a>.<br><br>
       
       <strong>Key Characteristics:</strong><br>
-      • <strong>Orthodox theology:</strong> Generally consistent with apostolic teaching and combat Gnosticism<a href="https://www.britannica.com/topic/Apostolic-Father" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br>
-      • <strong>Non-apostolic authorship:</strong> Not written by apostles, but by the next generation of church leaders<a href="https://www.britannica.com/topic/Apostolic-Father" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
-      • <strong>Self-aware status:</strong> The authors often quote the apostles as a higher authority, showing they did not see their own writings as equal to Scripture<a href="https://www.ligonier.org/learn/articles/apostolic-fathers" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
+      • <strong>Orthodox theology:</strong> Generally consistent with apostolic teaching and combat Gnosticism<a href="https://learn.ligonier.org/articles/our-fourth-century-fathers" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[45]</a><br>
+      • <strong>Non-apostolic authorship:</strong> Not written by apostles, but by the next generation of church leaders<a href="https://www.newadvent.org/cathen/01637a.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[46]</a><br>
+      • <strong>Self-aware status:</strong> The authors often quote the apostles as a higher authority, showing they did not see their own writings as equal to Scripture<a href="https://en.wikipedia.org/wiki/Apostolic_Fathers" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a><br><br>
       
       <strong>Detailed Analysis of Key Works:</strong><br><br>
       
@@ -422,7 +422,7 @@ export const canon: Topic = {
       • <strong>Legendary content:</strong> Focus on sensational, fantastic, or sentimental stories (e.g., Jesus's childhood, apostles' adventures)<a href="https://www.britannica.com/topic/New-Testament-apocrypha" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[68]</a><br>
       • <strong>Late composition:</strong> Written well after the apostolic period (2nd-5th centuries)<a href="https://www.worldhistory.org/New_Testament_Apocrypha/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[69]</a><br>
       • <strong>Pseudonymous authorship:</strong> Falsely claim apostolic authors for credibility<a href="https://www.biblestudytools.com/apocrypha/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[70]</a><br>
-      • <strong>Church rejection:</strong> Consistently rejected by early church leaders as forgeries or "pious frauds"<a href="https://www.newadvent.org/cathen/01601a.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[71]</a><br><br>
+      • <strong>Church rejection:</strong> Consistently rejected by early church leaders as forgeries or "pious frauds"<a href="https://en.wikipedia.org/wiki/Apocrypha" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[71]</a><br><br>
       
       <strong>Detailed Analysis of Major Apocryphal Works:</strong><br><br>
       
@@ -446,36 +446,36 @@ export const canon: Topic = {
       • <strong>Gnostic docetism:</strong> Claims Jesus only appeared to suffer on the cross while his spirit was "dancing" above, a classic Gnostic rejection of the physical suffering and resurrection<a href="https://www.earlychristianwritings.com/actsjohn.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[80]</a><br><br>
       
       <strong>Why These Works Are Clearly Invalid:</strong><br>
-      The New Testament apocrypha fail every test of canonicity. Their late dates, false authorships, theological errors (especially Gnosticism and docetism), and fantastic, legendary content stand in stark contrast to the sober, historical, and theologically unified accounts of the 27 canonical books<a href="https://www.newadvent.org/cathen/01601a.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[71]</a>.`
+      The New Testament apocrypha fail every test of canonicity. Their late dates, false authorships, theological errors (especially Gnosticism and docetism), and fantastic, legendary content stand in stark contrast to the sober, historical, and theologically unified accounts of the 27 canonical books.`
     },
   ],
   sources: [
     "1. [Encyclopedia] Britannica - Biblical Literature: The Biblical Canon. https://www.britannica.com/topic/biblical-literature/The-biblical-canon",
-    "2. [Academic] World History Encyclopedia - Biblical Canon. https://www.worldhistory.org/Biblical_Canon/",
-    "3. [Religious Organization] Ligonier Ministries - Criteria for Canonicity. https://www.ligonier.org/learn/articles/criteria-canonicity",
+    "2. [Academic Resource] Oxford Bibliographies. 'Biblical Canon.' https://www.oxfordbibliographies.com/abstract/document/obo-9780195393361/obo-9780195393361-0017.xml",
+    "3. [Ministry Resource] BibleQuestions.info. 'Criteria for Canonicity.' https://biblequestions.info/2019/08/10/what-are-the-criteria-for-a-book-to-be-canonical/",
     "4. [Catholic Encyclopedia] New Advent - Apostolicity. https://www.newadvent.org/cathen/01648b.htm",
-    "5. [Ministry Organization] CARM - Criteria for the Canon of Scripture. https://carm.org/manuscript-evidence/criteria-for-canon-of-scripture/",
-    "6. [Religious Organization] Ligonier Ministries - The New Testament Canon. https://www.ligonier.org/learn/articles/new-testament-canon",
+    "5. [Academic Resource] Blue Letter Bible. 'Criteria for the Canon.' https://www.blueletterbible.org/faq/don_stewart/don_stewart_394.cfm",
+    "6. [Encyclopedia] Wikipedia. 'Development of the New Testament Canon.' https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon",
     "7. [Academic Resource] Lifeway - How Did We Get the New Testament Canon? https://explorethebible.lifeway.com/blog/adults/how-did-we-get-the-new-testament-canon/",
     "8. [Encyclopedia] Britannica - Protestantism. https://www.britannica.com/topic/Protestantism",
     "9. [Ministry Organization] Got Questions - What is the Canon of Scripture? https://www.gotquestions.org/canon-of-Scripture.html",
     "10. [Catholic Encyclopedia] New Advent - Canon of the Old Testament. https://www.newadvent.org/cathen/03267a.htm",
-    "11. [Academic Resource] Blue Letter Bible - Why Does the Roman Catholic Church Accept the Old Testament Apocrypha? https://www.blueletterbible.org/faq/don_stewart/don_stewart_394.cfm",
+    "11. [Theological Essay] The Gospel Coalition. 'The Biblical Canon.' https://www.thegospelcoalition.org/essay/the-biblical-canon/",
     "12. [Ministry Organization] Answers in Genesis - Why 66 Books? https://answersingenesis.org/the-word-of-god/why-66-books/",
     "13. [Official Church] USCCB - Books of the Bible. https://www.usccb.org/bible/books-of-the-bible",
     "14. [Academic Resource] Britannica - Tanakh. https://www.britannica.com/topic/Tanakh",
     "15. [Encyclopedia] Britannica - Old Testament: The Apocrypha. https://www.britannica.com/topic/Old-Testament/The-Apocrypha",
     "16. [Religious Resource] Christianity.com - What is the Septuagint? https://www.christianity.com/wiki/bible/what-is-the-septuagint.html",
-    "17. [Academic Resource] Logos - Did Jesus and the Apostles Use the Septuagint? https://www.logos.com/grow/did-jesus-and-the-apostles-use-the-septuagint/",
+    "17. [Academic Resource] Logos. 'What Is the Septuagint and Is It Valuable for Bible Study?' https://www.logos.com/grow/what-is-the-septuagint-and-why-is-it-valuable-for-bible-study/",
     "18. [Encyclopedia] Britannica - Saint Jerome: Biblical scholar. https://www.britannica.com/biography/Saint-Jerome/Biblical-scholar",
     "19. [Encyclopedia] Britannica - Council of Trent. https://www.britannica.com/event/Council-of-Trent",
-    "20. [Ministry Organization] CARM - The Book of Tobit: Summary and Problems. https://www.carm.org/apocrypha/book-tobit-summary-and-problems/",
+    "20. [Encyclopedia] Britannica. 'Book of Tobit.' https://www.britannica.com/topic/Tobit-biblical-literature",
     "21. [Ministry Organization] Got Questions - Book of Tobit. https://www.gotquestions.org/book-of-Tobit.html",
     "22. [Ministry Organization] Got Questions - Book of Judith. https://www.gotquestions.org/book-of-Judith.html",
     "23. [Encyclopedia] Britannica - Book of Judith. https://www.britannica.com/topic/Book-of-Judith",
     "24. [Ministry Organization] CARM - Book of Wisdom: Summary and Problems. https://www.carm.org/apocrypha/book-wisdom-summary-and-problems/",
     "25. [Encyclopedia] Britannica - Wisdom of Solomon (Old Testament book). https://www.britannica.com/topic/Wisdom-of-Solomon",
-    "26. [Ministry Organization] CARM - Summary and Problems of 1 and 2 Maccabees. https://www.carm.org/apocrypha/summary-and-problems-of-1-and-2-maccabees/",
+    "26. [Academic Resource] TheTorah.com. 'The Maccabean Victory: 1 vs 2 Maccabees.' https://www.thetorah.com/article/the-maccabean-victory-explained-between-1-and-2-maccabees",
     "27. [Catholic Resource] Catholic Answers - Purgatory. https://www.catholic.com/encyclopedia/purgatory",
     "28. [Religious Organization] Ligonier Ministries - The Old Testament Canon (Luke 24:44). https://learn.ligonier.org/devotionals/old-testament-canon",
     "29. [Academic Resource] Gill's Exposition of the Bible - Hebrews 11:35. https://www.biblestudytools.com/commentaries/gills-exposition-of-the-bible/hebrews-11-35.html",
@@ -489,14 +489,14 @@ export const canon: Topic = {
     "37. [Ministry Organization] Got Questions - Gospel of Judas. https://www.gotquestions.org/Gospel-of-Judas.html",
     "38. [Academic Resource] Early Christian Writings - Gospel of Judas. https://www.earlychristianwritings.com/gospeljudas.html",
     "39. [Academic Resource] Early Christian Writings - Gospel of Mary. https://www.earlychristianwritings.com/gospelmary.html",
-    "40. [Academic] World History Encyclopedia - Gospel of Mary. https://www.worldhistory.org/Gospel_of_Mary/",
+    "40. [Academic Database] EBSCO Research Starters. 'The Gospel of Mary of Magdala.' https://www.ebsco.com/research-starters/literature-and-writing/gospel-mary-magdala-karen-l-king",
     "41. [Academic Resource] Early Christian Writings - Gospel of Philip. https://www.earlychristianwritings.com/gospelphilip.html",
     "42. [Ministry Organization] Got Questions - Gospel of Philip. https://www.gotquestions.org/Gospel-of-Philip.html",
-    "43. [Academic Resource] History.com - Why Were the Gnostic Gospels Left Out of the Bible? https://www.history.com/news/gnostic-gospels-christianity-scriptures",
+    "43. [Apologetics Resource] Stand to Reason. 'Why Are the Gnostic Gospels Left Out?' https://www.str.org/w/why-are-the-gnostic-gospels-left-out-of-the-bible-",
     "44. [Academic Resource] Early Christian Writings - Main Collection. https://www.earlychristianwritings.com/",
-    "45. [Encyclopedia] Britannica - Apostolic Father. https://www.britannica.com/topic/Apostolic-Father",
-    "46. [Encyclopedia] Britannica. 'Apostolic Father.' https://www.britannica.com/topic/Apostolic-Father",
-    "47. [Religious Organization] Ligonier Ministries - The Apostolic Fathers. https://www.ligonier.org/learn/articles/apostolic-fathers",
+    "45. [Religious Organization] Ligonier Ministries. 'The Apostolic Fathers.' https://learn.ligonier.org/articles/our-fourth-century-fathers",
+    "46. [Catholic Encyclopedia] New Advent. 'The Apostolic Fathers.' https://www.newadvent.org/cathen/01637a.htm",
+    "47. [Encyclopedia] Wikipedia. 'The Apostolic Fathers.' https://en.wikipedia.org/wiki/Apostolic_Fathers",
     "48. [Academic Resource] Early Christian Writings - The Didache. https://www.earlychristianwritings.com/didache.html",
     "49. [Ministry Organization] Got Questions - The Didache. https://www.gotquestions.org/Didache.html",
     "50. [Academic Resource] Early Christian Writings - 1 Clement. https://www.earlychristianwritings.com/1clement.html",
@@ -520,7 +520,7 @@ export const canon: Topic = {
     "68. [Encyclopedia] Britannica - New Testament apocrypha. https://www.britannica.com/topic/New-Testament-apocrypha",
     "69. [Academic] World History Encyclopedia - New Testament Apocrypha. https://www.worldhistory.org/New_Testament_Apocrypha/",
     "70. [Academic Resource] Bible Study Tools - Apocrypha. https://www.biblestudytools.com/apocrypha/",
-    "71. [Catholic Encyclopedia] New Advent - Apocrypha. https://www.newadvent.org/cathen/01601a.htm",
+    "71. [Encyclopedia] Wikipedia. 'Apocrypha.' https://en.wikipedia.org/wiki/Apocrypha",
     "72. [Academic Resource] Early Christian Writings - Protoevangelium of James. https://www.earlychristianwritings.com/infancyjames.html",
     "73. [Ministry Organization] Got Questions - Protoevangelium of James. https://www.gotquestions.org/Protoevangelium-of-James.html",
     "74. [Academic Resource] Early Christian Writings - Infancy Gospel of Thomas. https://www.earlychristianwritings.com/infancythomas.html",
