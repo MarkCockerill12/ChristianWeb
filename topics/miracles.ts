@@ -9,7 +9,7 @@ export const miracles: Topic = {
   tags: ["Miracles", "Historical", "Science"],
   content: `
 <h3>Did Miracles Stop When Cameras Were Invented?</h3>
-<p>Skeptics often claim that miracles conveniently stopped happening when cameras were invented and medical science advanced. This assertion, however, doesn't match the documented evidence. Modern miracles continue to occur and are often more thoroughly documented than ever before, with medical records, multiple witnesses, and even video evidence<a href="https://catalog.nlm.nih.gov/discovery/fulldisplay?docid=alma9916410843406676&context=L&vid=01NLM_INST:01NLM_INST&lang=en" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.</p>
+<p>Skeptics often claim that miracles conveniently stopped happening when cameras were invented and medical science advanced. This assertion, however, doesn't match the documented evidence. Modern miracles continue to occur and are often more thoroughly documented than ever before, with medical records, multiple witnesses, and even video evidence<a href="https://www.cambridge.org/core/journals/church-history/article/testing-prayer-science-and-healing-by-candy-gunther-brown-cambridge-mass-harvard-university-press-2012-x-372-pp-2995-cloth/D95E87909FA40D77C644EA29ACEB15BD" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.</p>
 
 <h4>Miracles Explained</h4>
 <p>Miracles don't break the laws of reality. If I put £50 in a drawer one night, £50 another night, and then the third night I find £10 left, the legal law has been broken, not the law of arithmetic. What we thought was a closed loop of cause and effect was not secure as imagined. If things didn't have a set pattern, we wouldn't be able to recognize miracles<a href="https://harpercollins.co.uk/products/miracles-c-s-lewis-signature-classic-c-s-lewis" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.</p>
@@ -17,7 +17,7 @@ export const miracles: Topic = {
 <p>If someone steals money and you find you are left with less than you started, the legal law has been broken, not the laws of arithmetic. What we thought was a closed loop of cause and effect had someone who intervened. God designed the system to be consistent so that we can recognise miracles when they happen<a href="https://dhjhkxawhe8q4.cloudfront.net/cslewis-wp/wp-content/uploads/2016/12/22145815/SG_Miracles_hi-res.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>.</p>
 
 <h4>Personal Experience</h4>
-<p>Car came and hit another car and flipped, no one hurt apart from driver who is semi-conscious, the driving side isn't too bad. Its actually really lucky that it happened outside of our church when there was an event on, otherwise he might not have gotten help in time since it was a quiet road. Its also a miracle no one else was hit since there were tons of kids<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>.</p>
+<p>Car came and hit another car and flipped, no one hurt apart from driver who is semi-conscious, the driving side isn't too bad. Its actually really lucky that it happened outside of our church when there was an event on, otherwise he might not have gotten help in time since it was a quiet road. Its also a miracle no one else was hit since there were tons of kids<a href="https://spiritualityandhealth.duke.edu/index.php/publications/books/faith-and-mental-health-religious-resources-for-healing/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>.</p>
 
 <h4>Miracles Criteria</h4>
 <p>Modern medicine has established rigorous criteria for evaluating claims of miraculous healing<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a>:</p>
@@ -44,10 +44,10 @@ export const miracles: Topic = {
       id: "key-examples",
       title: "Key Modern Examples",
       tags: ["examples", "documented", "medical", "healing"],
-      content: `<strong>Well-Documented Modern Cases:</strong> These examples show that miracles continue to happen in the modern era with full medical documentation<a href="https://www.amazon.com/Miracles-Credibility-New-Testament-Accounts/dp/0801039525" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a>.<br><br>
+      content: `<strong>Well-Documented Modern Cases:</strong> These examples show that miracles continue to happen in the modern era with full medical documentation<a href="https://books.google.com/books/about/Miracles_and_Manifestations_of_the_Holy.html?id=MGVCH3ztklgC" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a>.<br><br>
 
       <strong>Dolores Winder - Scoliosis Healing (1981):</strong><br>
-      • <strong>Background:</strong> Dolores Winder was a 45-year-old woman from Alabama suffering from severe progressive scoliosis<a href="https://www.christianbook.com/surprised-healing-greatest-miracles-century-ebook/delores-winder/9780768496345/pd/6260EB" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><br>
+      • <strong>Background:</strong> Dolores Winder was a 45-year-old woman from Alabama suffering from severe progressive scoliosis<a href="https://www.logos.com/product/37183/surprised-by-healing-one-of-the-greatest-healing-miracles-of-the-21st-century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><br>
       • <strong>Medical History:</strong> Diagnosed with severe spinal curvature measuring 73 degrees, causing chronic pain and breathing difficulties<br>
       • <strong>Progression:</strong> Condition had worsened over several years despite conservative treatment including bracing and physical therapy<br>
       • <strong>Medical Prognosis:</strong> Orthopedic surgeon Dr. James Speed at Southern Medical Center had scheduled her for major spinal fusion surgery with steel rod implantation<br>
@@ -107,12 +107,12 @@ export const miracles: Topic = {
       id: "lourdes-cases",
       title: "Verified Lourdes Healings - All 70 Official Cases",
       tags: ["lourdes", "medical", "verified", "documentation"],
-      content: `<strong>Complete Documentation of All 70 Officially Recognized Lourdes Miracles:</strong> Each case has been rigorously investigated by international medical committees and officially recognized by the Catholic Church after extensive verification<a href="https://www.catholicherald.com/article/local/lourdes-and-the-miraculous-cures/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a>.<br><br>
+      content: `<strong>Complete Documentation of All 70 Officially Recognized Lourdes Miracles:</strong> Each case has been rigorously investigated by international medical committees and officially recognized by the Catholic Church after extensive verification<a href="https://www.logos.com/product/39638/miracles-the-credibility-of-the-new-testament-accounts-volume-1-and-2" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[15]</a>.<br><br>
 
       <strong>THE FIRST WAVE - 1862 RECOGNITIONS:</strong><br><br>
 
       <strong>1. Catherine Latapie - Loubajac, France (Recognition: 18th January 1862):</strong><br>
-      • <strong>Background:</strong> Catherine Latapie, mother of two children, suffered from ulnar nerve paralysis affecting her right hand<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><br>
+      • <strong>Background:</strong> Catherine Latapie, mother of two children, suffered from ulnar nerve paralysis affecting her right hand<a href="https://www.lourdes-france.org/en/25th-march-1858-the-lady-says-her-name/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[16]</a><br>
       • <strong>Medical Condition:</strong> Complete paralysis of right hand with two fingers permanently contracted<br>
       • <strong>Duration:</strong> Had suffered from the condition for over 18 months<br>
       • <strong>Lourdes Visit:</strong> Traveled to Lourdes on 1st March 1858, one of first pilgrims after apparitions began<br>
@@ -124,7 +124,7 @@ export const miracles: Topic = {
       • <strong>Historical Impact:</strong> Established precedent for medical investigation of Lourdes healings<br><br>
 
       <strong>2. Louis Bouriette - Lourdes, France (Recognition: 18th January 1862):</strong><br>
-      • <strong>Background:</strong> Louis Bouriette, 54-year-old quarry worker, lost sight in right eye from work accident<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><br>
+      • <strong>Background:</strong> Louis Bouriette, 54-year-old quarry worker, lost sight in right eye from work accident<a href="https://www.miraclehunter.com/marian_apparitions/approved_apparitions/lourdes/miracles1.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[17]</a><br>
       • <strong>Medical History:</strong> Explosion of gunpowder severely damaged right eye, declared permanently blind<br>
       • <strong>Condition Duration:</strong> Blind in right eye for over 20 years<br>
       • <strong>Treatment Attempts:</strong> Multiple doctors confirmed irreversible damage to optic structures<br>
@@ -136,7 +136,7 @@ export const miracles: Topic = {
       • <strong>Investigation:</strong> Diocesan commission conducted extensive investigation<br><br>
 
       <strong>3. Blaisette Cazenave - Lourdes, France (Recognition: 18th January 1862):</strong><br>
-      • <strong>Background:</strong> Blaisette Cazenave, young girl suffering from chronic inflammatory eye condition<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><br>
+      • <strong>Background:</strong> Blaisette Cazenave, young girl suffering from chronic inflammatory eye condition<a href="https://miraclesnevercease.com/2021/04/04/lourdes/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[18]</a><br>
       • <strong>Medical Condition:</strong> Severe ophthalmia with constant discharge and photophobia<br>
       • <strong>Symptoms:</strong> Unable to tolerate light, eyes constantly inflamed and painful<br>
       • <strong>Treatment History:</strong> Various medical treatments had failed to provide relief<br>
@@ -148,7 +148,7 @@ export const miracles: Topic = {
       • <strong>Significance:</strong> Demonstrated healing power extended to children<br><br>
 
       <strong>4. Henri Busquet - Nay, France (Recognition: 18th January 1862):</strong><br>
-      • <strong>Background:</strong> Henri Busquet suffered from advanced pulmonary tuberculosis<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
+      • <strong>Background:</strong> Henri Busquet suffered from advanced pulmonary tuberculosis<a href="https://www.theworkofgod.org/Aparitns/Lourdes/Lourdes1.htm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[19]</a><br>
       • <strong>Medical Diagnosis:</strong> Confirmed pulmonary tuberculosis with extensive lung involvement<br>
       • <strong>Disease Progression:</strong> Rapid deterioration with expectation of death within months<br>
       • <strong>Symptoms:</strong> Severe coughing, hemoptysis, weight loss, fever<br>
@@ -160,7 +160,7 @@ export const miracles: Topic = {
       • <strong>Long-term Verification:</strong> Lived healthy life for many years afterward<br><br>
 
       <strong>5. Justin Bouhort - Lourdes, France (Recognition: 18th January 1862):</strong><br>
-      • <strong>Background:</strong> Justin Bouhort, local resident suffering from severe spinal deformity<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
+      • <strong>Background:</strong> Justin Bouhort, local resident suffering from severe spinal deformity<a href="https://www.tfp.org/three-miracles-at-lourdes-that-devastated-liberalism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[20]</a><br>
       • <strong>Medical Condition:</strong> Kyphoscoliosis with severe back deformity and chronic pain<br>
       • <strong>Physical Limitations:</strong> Unable to work, constant pain, mobility severely restricted<br>
       • <strong>Treatment History:</strong> Medical treatments provided no improvement<br>
@@ -172,7 +172,7 @@ export const miracles: Topic = {
       • <strong>Investigation:</strong> Thorough diocesan investigation confirmed authenticity<br><br>
 
       <strong>6. Madeleine Rizan - Nay, France (Recognition: 18th January 1862):</strong><br>
-      • <strong>Background:</strong> Madeleine Rizan suffered from severe nervous system disorder<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><br>
+      • <strong>Background:</strong> Madeleine Rizan suffered from severe nervous system disorder<a href="https://spiritualreading.co.za/wp-content/uploads/2020/08/Miracles-of-Lourdes.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[21]</a><br>
       • <strong>Medical Condition:</strong> Neurological condition causing convulsions and paralytic episodes<br>
       • <strong>Symptoms:</strong> Frequent seizures, periods of paralysis, cognitive impairment<br>
       • <strong>Medical Treatment:</strong> Various neurological treatments showed no improvement<br>
@@ -184,7 +184,7 @@ export const miracles: Topic = {
       • <strong>Long-term Outcome:</strong> No recurrence of symptoms<br><br>
 
       <strong>7. Marie Moreau - Tartas, France (Recognition: 18th January 1862):</strong><br>
-      • <strong>Background:</strong> Marie Moreau suffered from chronic digestive disorder with severe complications<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a><br>
+      • <strong>Background:</strong> Marie Moreau suffered from chronic digestive disorder with severe complications<a href="https://catholicism.org/lourdes-if-miracles-can-happen-let-them-recounted-by-a-jewish-author.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[22]</a><br>
       • <strong>Medical Condition:</strong> Severe gastric condition with chronic vomiting and malnutrition<br>
       • <strong>Disease Duration:</strong> Suffered for several years with progressive deterioration<br>
       • <strong>Physical Condition:</strong> Extremely weak, unable to retain food<br>
@@ -213,7 +213,7 @@ export const miracles: Topic = {
       • <strong>Historical Significance:</strong> Most famous 19th century Lourdes miracle<br><br>
 
       <strong>9. Joachime Dehant - Gesves, Belgium (Recognition: 25th April 1908):</strong><br>
-      • <strong>Background:</strong> Joachime Dehant, Belgian woman with severe leg ulceration and infection<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><br>
+      • <strong>Background:</strong> Joachime Dehant, Belgian woman with severe leg ulceration and infection<a href="https://billdembski.com/book/the-faces-of-miracles/chapter-8/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a><br>
       • <strong>Medical Condition:</strong> Chronic ulcers on both legs with bone involvement<br>
       • <strong>Disease Progression:</strong> Condition worsening over several years<br>
       • <strong>Treatment Failure:</strong> Medical treatments unable to heal ulcerations<br>
@@ -259,7 +259,7 @@ export const miracles: Topic = {
       • <strong>Significance:</strong> First documented case of complete bone regeneration at Lourdes<br><br>
 
       <strong>64. Serge Perrin - Le Lion-d'Angers, France (Recognition: 17th June 1978):</strong><br>
-      • <strong>Background:</strong> Serge Perrin, 41-year-old French man with recurrent organic hemiplegia<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><br>
+      • <strong>Background:</strong> Serge Perrin, 41-year-old French man with recurrent organic hemiplegia<a href="https://www.lourdescenter.org/newsletters/2015/01-02-15.pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[28]</a><br>
       • <strong>Medical Condition:</strong> Bilateral carotid artery disorders causing recurrent strokes<br>
       • <strong>Symptoms:</strong> Right-side paralysis, vision loss, speech difficulties, cognitive impairment<br>
       • <strong>Medical History:</strong> Multiple cerebrovascular accidents with progressive damage<br>
@@ -274,7 +274,7 @@ export const miracles: Topic = {
       • <strong>Recognition:</strong> Officially recognized as miracle on 17th June 1978<br><br>
 
       <strong>65. Delizia Cirolli - Paternò, Italy (Recognition: 28th June 1989):</strong><br>
-      • <strong>Background:</strong> Delizia Cirolli suffered from severe cardiac condition<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br>
+      • <strong>Background:</strong> Delizia Cirolli suffered from severe cardiac condition<a href="https://www.holyart.co.uk/blog/saints-and-blessed/the-miracles-of-our-lady-of-lourdes-from-her-first-apparition/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[29]</a><br>
       • <strong>Medical Diagnosis:</strong> Advanced heart disease with multiple complications<br>
       • <strong>Symptoms:</strong> Severe chest pain, shortness of breath, edema<br>
       • <strong>Functional Limitation:</strong> Bedridden, unable to perform normal activities<br>
@@ -301,7 +301,7 @@ export const miracles: Topic = {
       • <strong>Medical Panel:</strong> Neurologists confirmed medical impossibility of such recovery<br><br>
 
       <strong>67. Anna Santaniello - Salerno, Italy (Recognition: 21st September 2005):</strong><br>
-      • <strong>Background:</strong> Anna Santaniello, 20-year-old Italian woman with rheumatic heart disease<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><br>
+      • <strong>Background:</strong> Anna Santaniello, 20-year-old Italian woman with rheumatic heart disease<a href="https://www.nzherald.co.nz/world/lourdes-miracle-recognised-by-church/JCU3X5U5U6B5ZNWLVIE7YCMXPI/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[31]</a><br>
       • <strong>Medical History:</strong> Developed severe mitral stenosis following rheumatic fever at age 10<br>
       • <strong>Disease Progression:</strong> Progressive heart failure with severe activity limitation<br>
       • <strong>Symptoms:</strong> Chronic fatigue, shortness of breath, chest pain, fainting episodes<br>
@@ -314,7 +314,7 @@ export const miracles: Topic = {
       • <strong>Medical Committee:</strong> International panel of cardiologists examined extensive records<br><br>
 
       <strong>68. Sister Luigina Traverso - Casale Monferrato, Italy (Recognition: 11th October 2012):</strong><br>
-      • <strong>Background:</strong> Sister Luigina, religious sister diagnosed with acute lymphoblastic leukemia<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[32]</a><br>
+      • <strong>Background:</strong> Sister Luigina, religious sister diagnosed with acute lymphoblastic leukemia<a href="https://www.youtube.com/watch?v=GJKAJY2QSLQ" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[32]</a><br>
       • <strong>Medical Condition:</strong> Acute lymphoblastic leukemia with very poor prognosis<br>
       • <strong>Disease Progression:</strong> Rapid deterioration with severe anemia and infections<br>
       • <strong>Treatment:</strong> Chemotherapy provided temporary improvement but disease returned<br>
@@ -326,7 +326,7 @@ export const miracles: Topic = {
       • <strong>Medical Panel:</strong> Hematologists confirmed complete remission without explanation<br><br>
 
       <strong>69. Danila Castelli - Bereguardo, Italy (Recognition: 20th June 2013):</strong><br>
-      • <strong>Background:</strong> Danila Castelli suffered from severe malignant hypertension<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[33]</a><br>
+      • <strong>Background:</strong> Danila Castelli suffered from severe malignant hypertension<a href="https://catholic.net/op/articles/5918/the-miracles-of-lourdes-are-inexplicable.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[33]</a><br>
       • <strong>Medical History:</strong> Diagnosed with malignant hypertension resistant to medications<br>
       • <strong>Complications:</strong> Developed acute cardiac episodes and stroke risk<br>
       • <strong>Treatment History:</strong> Multiple hospitalizations, various drugs unsuccessful<br>
@@ -438,7 +438,7 @@ export const miracles: Topic = {
       • <strong>Medical Testimony:</strong> Dr. Heim and medical team documented the inexplicable recovery<br><br>
 
       <strong>Delores Winder (1981) - Comprehensive Scoliosis Case:</strong><br>
-      • <strong>Patient Background:</strong> 45-year-old elementary school teacher from Birmingham, Alabama<a href="https://www.logos.com/product/37183/surprised-by-healing-one-of-the-greatest-healing-miracles-of-the-21st-century" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
+      • <strong>Patient Background:</strong> 45-year-old elementary school teacher from Birmingham, Alabama<a href="https://www.christianbook.com/surprised-healing-greatest-miracles-century-ebook/delores-winder/9780768496345/pd/6260EB" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[38]</a><br>
       • <strong>Medical History:</strong><br>
         - Diagnosed with progressive idiopathic scoliosis in her thirties<br>
         - Condition worsened over 10-year period despite conservative treatment<br>
@@ -478,13 +478,13 @@ export const miracles: Topic = {
       <strong>Additional Documented Modern Cases:</strong><br><br>
 
       <strong>Mel Tari - Indonesia (1970s):</strong><br>
-      • <strong>Background:</strong> Indonesian evangelist who documented multiple healing cases<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a><br>
+      • <strong>Background:</strong> Indonesian evangelist who documented multiple healing cases<a href="https://theologos.co.za/product/ike-a-mighty-wind-mel-tari/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[39]</a><br>
       • <strong>Documentation:</strong> Recorded healings during Indonesian revival movements<br>
       • <strong>Medical Verification:</strong> Local doctors confirmed various healing cases<br>
       • <strong>Significance:</strong> Demonstrated miracles in non-Western medical settings<br><br>
 
       <strong>Heidi Baker - Mozambique (2000s):</strong><br>
-      • <strong>Background:</strong> Missionary doctor documenting healings in African contexts<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[40]</a><br>
+      • <strong>Background:</strong> Missionary doctor documenting healings in African contexts<a href="https://christianbooks.ie/product/compelled-by-love/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[40]</a><br>
       • <strong>Medical Training:</strong> Licensed physician conducting medical mission work<br>
       • <strong>Documentation Method:</strong> Before/after medical examinations of healing cases<br>
       • <strong>Academic Interest:</strong> Cases studied by international medical researchers<br>
@@ -588,7 +588,7 @@ export const miracles: Topic = {
       • <strong>Medical Recognition:</strong> Research cited in medical textbooks and guidelines<br><br>
 
       <strong>University of Pennsylvania - Neuroscience of Religious Experience:</strong><br>
-      • <strong>Lead Researcher:</strong> Dr. Andrew Newberg, Professor of Radiology and Neurology<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><br>
+      • <strong>Lead Researcher:</strong> Dr. Andrew Newberg, Professor of Radiology and Neurology<a href="http://www.andrewnewberg.com/books" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a><br>
       • <strong>Research Method:</strong> Brain imaging (SPECT and fMRI) during religious experiences<br>
       • <strong>Study Subjects:</strong><br>
         - Buddhist monks during meditation<br>
@@ -605,7 +605,7 @@ export const miracles: Topic = {
       • <strong>Research Publications:</strong> Multiple books and peer-reviewed articles<br><br>
 
       <strong>Johns Hopkins University - Placebo and Beyond:</strong><br>
-      • <strong>Research Focus:</strong> Investigation of healing mechanisms beyond placebo effect<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
+      • <strong>Research Focus:</strong> Investigation of healing mechanisms beyond placebo effect<a href="https://muse.jhu.edu/article/362914" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[49]</a><br>
       • <strong>Study Design:</strong> Controlled trials comparing various healing interventions<br>
       • <strong>Key Findings:</strong><br>
         - Some healing effects exceed placebo response<br>
@@ -630,10 +630,10 @@ export const miracles: Topic = {
       id: "video-documented",
       title: "Video-Documented Modern Miracles",
       tags: ["video", "documented", "evidence", "camera"],
-      content: `<strong>Miracles in the Camera Age:</strong> Contrary to skeptical claims, many modern miracles have been captured on video or thoroughly documented with multiple witnesses<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a>.<br><br>
+      content: `<strong>Miracles in the Camera Age:</strong> Contrary to skeptical claims, many modern miracles have been captured on video or thoroughly documented with multiple witnesses<a href="https://www.bethel.com/testimony-categories/miracles" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[51]</a>.<br><br>
 
       <strong>Chris Gunderson (2010) - Comprehensive Hearing Restoration:</strong><br>
-      • <strong>Background:</strong> Chris Gunderson, born with congenital hearing loss in right ear, age 25 at time of healing<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a><br>
+      • <strong>Background:</strong> Chris Gunderson, born with congenital hearing loss in right ear, age 25 at time of healing<a href="https://dove.org/review/593315-send-proof/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[52]</a><br>
       • <strong>Medical History:</strong><br>
         - Born with complete sensorineural hearing loss in right ear<br>
         - Multiple audiological evaluations confirming permanent hearing loss<br>
@@ -671,7 +671,7 @@ export const miracles: Topic = {
       • <strong>Medical Significance:</strong> Congenital sensorineural hearing loss cannot be reversed by known medical methods<br><br>
 
       <strong>Delia Knox (2010) - Paralysis Healing on Live Television:</strong><br>
-      • <strong>Background:</strong> Delia Knox, 48-year-old woman from Mobile, Alabama, paralyzed for 22 years<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a><br>
+      • <strong>Background:</strong> Delia Knox, 48-year-old woman from Mobile, Alabama, paralyzed for 22 years<a href="https://www.youtube.com/watch?v=jKHMc_Orn5I" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[53]</a><br>
       • <strong>Injury History:</strong><br>
         - Car accident in 1987 resulted in complete spinal cord injury at T12 level<br>
         - Multiple surgeries and rehabilitation attempts showed no improvement<br>
@@ -711,7 +711,7 @@ export const miracles: Topic = {
       • <strong>Significance:</strong> Complete spinal cord transection cannot regenerate with current medical technology<br><br>
 
       <strong>Todd White - Multiple Documented Healings:</strong><br>
-      • <strong>Background:</strong> Evangelist who documents street healings with video evidence<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a><br>
+      • <strong>Background:</strong> Evangelist who documents street healings with video evidence<a href="https://lifestylechristianity.com/about-us/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[54]</a><br>
       • <strong>Documentation Method:</strong><br>
         - Films healing encounters in public spaces<br>
         - Shows before/after condition of individuals<br>
@@ -726,7 +726,7 @@ export const miracles: Topic = {
         - Audio captures both prayer and verification<br><br>
 
       <strong>David Hogan - Mexican Miracle Documentation:</strong><br>
-      • <strong>Background:</strong> Missionary in Mexico documenting healings among indigenous populations<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a><br>
+      • <strong>Background:</strong> Missionary in Mexico documenting healings among indigenous populations<a href="https://freedom-ministries.us/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[55]</a><br>
       • <strong>Documentation Approach:</strong><br>
         - Works with local medical clinics for verification<br>
         - Videos healing encounters in remote villages<br>
@@ -737,7 +737,7 @@ export const miracles: Topic = {
         - International medical missions verify claims<br><br>
 
       <strong>Personal Testimony with Documentation - Car Accident Miracle:</strong><br>
-      • <strong>Background:</strong> Multi-vehicle accident outside Christian church during scheduled event<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[56]</a><br>
+      • <strong>Background:</strong> Multi-vehicle accident outside Christian church during scheduled event<a href="https://www.youtube.com/watch?v=voRM90AtwIc" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[56]</a><br>
       • <strong>Accident Details:</strong><br>
         - Car flipped multiple times on rural road<br>
         - Driver found semi-conscious with potential for severe injuries<br>
@@ -774,10 +774,10 @@ export const miracles: Topic = {
       id: "atheist-investigations",
       title: "Atheist and Skeptical Investigations", 
       tags: ["atheist", "skeptical", "investigation", "secular"],
-      content: `<strong>Non-Believing Investigators:</strong> Some of the most compelling evidence comes from atheist and agnostic researchers who investigated miracle claims with the intention of debunking them<a href="https://www.catholic.org/featured/headline.php?ID=1252" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[57]</a>.<br><br>
+      content: `<strong>Non-Believing Investigators:</strong> Some of the most compelling evidence comes from atheist and agnostic researchers who investigated miracle claims with the intention of debunking them<a href="https://sspx.org/en/news/miracles-lourdes-truth-or-deception-8684" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[57]</a>.<br><br>
 
       <strong>Dr. Patrick Theillier (Former Atheist Neurologist):</strong><br>
-      • <strong>Background:</strong> Born 1943, trained as neurologist in French medical system, committed atheist for first 40 years<a href="https://www.catholic.org/featured/headline.php?ID=1252" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[58]</a><br>
+      • <strong>Background:</strong> Born 1943, trained as neurologist in French medical system, committed atheist for first 40 years<a href="https://www.catholic.org/news/saints/story.php?id=29146" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[58]</a><br>
       • <strong>Medical Training:</strong><br>
         - Neurology residency at major French hospitals<br>
         - Specialized in movement disorders and neurological diseases<br>
@@ -818,7 +818,7 @@ export const miracles: Topic = {
       • <strong>Legacy:</strong> Demonstrated that rigorous skepticism can coexist with recognition of the miraculous<br><br>
 
       <strong>Dr. Alexis Carrel (Nobel Prize Winner):</strong><br>
-      • <strong>Background:</strong> Alexis Carrel (1873-1944), French surgeon and biologist, Nobel Prize in Medicine 1912<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[59]</a><br>
+      • <strong>Background:</strong> Alexis Carrel (1873-1944), French surgeon and biologist, Nobel Prize in Medicine 1912<a href="https://books.google.com/books/about/The_Voyage_to_Lourdes.html?id=YIVlAAAAMAAJ" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[59]</a><br>
       • <strong>Scientific Achievements:</strong><br>
         - Pioneer in vascular surgery and organ transplantation<br>
         - Developed techniques for suturing blood vessels<br>
@@ -858,7 +858,7 @@ export const miracles: Topic = {
       • <strong>Historical Impact:</strong> Legitimized scientific investigation of miraculous healing<br><br>
 
       <strong>Dr. Richard Casdorph (Skeptical Physician):</strong><br>
-      • <strong>Background:</strong> Dr. Richard Casdorph, MD, PhD, internal medicine specialist and clinical researcher<a href="https://www.lourdes-france.org/en/miraculous-healings/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a><br>
+      • <strong>Background:</strong> Dr. Richard Casdorph, MD, PhD, internal medicine specialist and clinical researcher<a href="https://christianhistoryinstitute.org/magazine/article/testing-the-power-of-prayer" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a><br>
       • <strong>Medical Credentials:</strong><br>
         - Board-certified internist<br>
         - Clinical professor at USC School of Medicine<br>
@@ -927,7 +927,7 @@ export const miracles: Topic = {
       id: "the-bible-on-miracles",
       title: "The Bible on Miracles",
       tags: ["scripture", "theology", "protestant"],
-      content: `<strong>Miracles as Signs and Wonders:</strong> The Bible consistently presents miracles not just as supernatural interventions, but as divine "signs" (Greek: *semeion*) and "wonders" (*teras*) intended to testify to God's presence, affirm His message, and validate His messengers.<a href="https://www.amazon.com/Miracles-Credibility-New-Testament-Accounts/dp/0801039525" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a><br><br>
+      content: `<strong>Miracles as Signs and Wonders:</strong> The Bible consistently presents miracles not just as supernatural interventions, but as divine "signs" (Greek: *semeion*) and "wonders" (*teras*) intended to testify to God's presence, affirm His message, and validate His messengers.<a href="https://denverjournal.denverseminary.edu/the-denver-journal-article/miracles-the-credibility-of-the-new-testament-accounts/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a><br><br>
 
       <strong>Continuationist Viewpoint (Protestant):</strong> While some cessationist traditions hold that miraculous spiritual gifts ceased after the Apostolic Age, the continuationist position, prevalent in Pentecostal and Charismatic traditions, affirms that gifts such as healing, prophecy, and speaking in tongues continue today as described in the New Testament.<a href="https://www.harpercollins.com/products/miracles-c-s-lewis" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[63]</a> The very existence of contemporary, documented, and medically inexplicable miracles supports the continuationist view that God still intervenes miraculously in the modern era.<a href="https://www.perlego.com/book/1147930/testing-prayer-science-and-healing-pdf" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[64]</a><br><br>
 
@@ -941,17 +941,17 @@ export const miracles: Topic = {
   ],
   sources: [
     // Academic and Medical Sources
-    "1. Candy Gunther Brown, 'Testing Prayer: Science and Healing' (Harvard University Press, 2012) - Academic study of prayer and healing with medical documentation - Available: https://catalog.nlm.nih.gov/discovery/fulldisplay?docid=alma9916410843406676&context=L&vid=01NLM_INST:01NLM_INST&lang=en",
+    "1. Candy Gunther Brown, 'Testing Prayer: Science and Healing' - Academic Review. Cambridge University Press. Available: https://www.cambridge.org/core/journals/church-history/article/testing-prayer-science-and-healing-by-candy-gunther-brown-cambridge-mass-harvard-university-press-2012-x-372-pp-2995-cloth/D95E87909FA40D77C644EA29ACEB15BD",
     "2. C.S. Lewis, 'Miracles: A Preliminary Study' (HarperOne, 2001) - Philosophical examination of miracles and natural law - Available: https://harpercollins.co.uk/products/miracles-c-s-lewis-signature-classic-c-s-lewis",
     "3. C.S. Lewis, 'Miracles: A Preliminary Study' - C.S. Lewis Foundation Study Guide. Available: https://dhjhkxawhe8q4.cloudfront.net/cslewis-wp/wp-content/uploads/2016/12/22145815/SG_Miracles_hi-res.pdf",
-    "4. [Medical Study] Dr. Harold Koenig, 'Faith and Mental Health' (Duke University Medical Center) - Research on faith-based healing outcomes - Available: https://spiritualityandhealth.duke.edu/",
+    "4. [Medical Study] Dr. Harold Koenig, 'Faith and Mental Health' (Duke University Medical Center) - Research on faith-based healing outcomes - Available: https://spiritualityandhealth.duke.edu/index.php/publications/books/faith-and-mental-health-religious-resources-for-healing/",
     "5. [Academic Paper] C. Caracappa & B. C. Corry. 'Miracles and Medicine: An Analysis of the Medical Criteria for an Unexplained Healing' (Journal of Religious & Health, 2018) - Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/",
     "6. [Medical Bureau] Lourdes Medical Bureau Official Records. 'Recognized miraculous healings 1858-2018' https://www.indcatholicnews.com/news/34329",
     "7. Patrick Theillier, 'Lourdes: Miracles and Medical Science' (Paulist Press, 2006) - Former atheist neurologist's investigation of Lourdes healings - Available: https://www.catholicnewsagency.com/news/253153/meet-sister-bernadette-the-most-recently-cured-person-at-lourdes",
     "8. [Medical Documentation] Candy Gunther Brown, 'Testing Prayer: Science and Healing' - Full Text Scan. Available: https://archive.org/details/testingprayersci00brow",
 
     // Key Modern Examples - Detailed Documentation
-    "9. Jeff Doles, 'Miracles and Manifestations of the Holy Spirit in the History of the Church' (Walking Barefoot Ministries, 2008) - Historical documentation. Available: https://www.amazon.com/Miracles-Credibility-New-Testament-Accounts/dp/0801039525",
+    "9. Jeff Doles, 'Miracles and Manifestations of the Holy Spirit in the History of the Church' (Walking Barefoot Ministries, 2008) - Historical documentation. Available: https://books.google.com/books/about/Miracles_and_Manifestations_of_the_Holy.html?id=MGVCH3ztklgC",
     "10. [Medical Records] Dolores Winder Scoliosis Case - Southern Medical Center Birmingham, Alabama. Documented in 'Surprised by Healing' (Logos Bible Software): https://www.logos.com/product/37183/surprised-by-healing-one-of-the-greatest-healing-miracles-of-the-21st-century",
     "11. [Medical Documentation] Barbara Snyder Multiple Sclerosis Case - Case Western Reserve University Hospital. Documented by New Life Publishing: https://newlifepublishing.co.uk/blogs/real-life/from-deaths-door-to-walking-miracle", 
     "12. Bruce Van Natta, 'Saved by Angels' (Destiny Image, 2009) - First-person account with University of Wisconsin Hospital medical documentation. Available: https://www.barnesandnoble.com/w/saved-by-angels-bruce-van-natta/1101230257",
@@ -959,25 +959,25 @@ export const miracles: Topic = {
     "14. [News Report] 'Lourdes confirms 71st miracle—and the first for an English speaker' - America Magazine, December 10, 2024. Available: https://www.americamagazine.org/faith/2024/12/10/lourdes-confirms-first-miracle-english-speaker-249449/",
 
     // Lourdes Medical Bureau - Comprehensive Case Documentation
-    "15. [Academic Book] Craig S. Keener, 'Miracles: The Credibility of the New Testament Accounts' (Baker Academic, 2011) - Two-volume scholarly examination with 1,200+ pages documenting contemporary miracle claims worldwide - Available: https://www.catholicherald.com/article/local/lourdes-and-the-miraculous-cures/",
-    "16. [Lourdes Case] Catherine Latapie - Ulnar nerve paralysis healing 1858. Documented in Lourdes Medical Bureau records.",
-    "17. [Lourdes Case] Louis Bouriette - Blindness from trauma healing 1858. Documented in Lourdes Medical Bureau records.",
-    "18. [Lourdes Case] Blaisette Cazenave - Severe ophthalmia healing 1858. Documented in Lourdes Medical Bureau records.",
-    "19. [Lourdes Case] Henri Busquet - Tuberculosis healing 1858. Documented in Lourdes Medical Bureau records.",
-    "20. [Lourdes Case] Justin Bouhort - Spinal deformity healing 1858. Documented in Lourdes Medical Bureau records.",
-    "21. [Lourdes Case] Madeleine Rizan - Nervous system disorder healing 1858. Documented in Lourdes Medical Bureau records.",
-    "22. [Lourdes Case] Marie Moreau - Digestive disorder healing 1858. Documented in Lourdes Medical Bureau records.",
+    "15. [Academic Book] Craig S. Keener, 'Miracles: The Credibility of the New Testament Accounts' (Baker Academic, 2011) - Two-volume scholarly examination. Available: https://www.logos.com/product/39638/miracles-the-credibility-of-the-new-testament-accounts-volume-1-and-2",
+    "16. [Lourdes Case] Catherine Latapie - Ulnar nerve paralysis healing 1858. First recognized miracle. Details: https://www.lourdes-france.org/en/25th-march-1858-the-lady-says-her-name/",
+    "17. [Lourdes Case] Louis Bouriette - Blindness from trauma healing 1858. Documented in Miracle Hunter Archives: https://www.miraclehunter.com/marian_apparitions/approved_apparitions/lourdes/miracles1.html",
+    "18. [Lourdes Case] Blaisette Cazenave - Severe ophthalmia healing 1858. Case overview: https://miraclesnevercease.com/2021/04/04/lourdes/",
+    "19. [Lourdes Case] Henri Busquet - Tuberculosis healing 1858. Historical record: https://www.theworkofgod.org/Aparitns/Lourdes/Lourdes1.htm",
+    "20. [Lourdes Case] Justin Bouhort - Spinal deformity healing 1858. Historical analysis: https://www.tfp.org/three-miracles-at-lourdes-that-devastated-liberalism/",
+    "21. [Lourdes Case] Madeleine Rizan - Nervous system disorder healing 1858. Documented in medical archives: https://spiritualreading.co.za/wp-content/uploads/2020/08/Miracles-of-Lourdes.pdf",
+    "22. [Lourdes Case] Marie Moreau - Healing 1858. Case details: https://catholicism.org/lourdes-if-miracles-can-happen-let-them-recounted-by-a-jewish-author.html",
     "23. [Lourdes Case] Pierre De Rudder - Compound fracture with 8-year non-union, 3cm bone gap, instantaneous fusion 1875, bronze cast preserved at Lourdes Medical Bureau, recognition 25 July 1908 - Details: https://www.catholicherald.com/article/local/lourdes-and-the-miraculous-cures/",
-    "24. [Lourdes Case] Joachime Dehant - Leg ulceration healing 1875. Documented in Lourdes Medical Bureau records.",
-    "25. [Lourdes Case] Elisa Seisson - Heart disease healing 1903. Documented in Lourdes Medical Bureau records.",
+    "24. [Lourdes Case] Joachime Dehant - Leg ulceration healing 1875. Documented case study: https://billdembski.com/book/the-faces-of-miracles/chapter-8/",
+    "25. [Lourdes Case] Elisa Seisson - Heart disease healing. Official Sanctuary Records: https://www.lourdes-france.org/en/miraculous-healings/",
     "26. [Medical Journal] 'The Lourdes Medical Cures Revisited' - Journal of the Royal Society of Medicine (2012) 105(12): 527–532. Comprehensive review of early cures. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
     "27. [Lourdes Case] Vittorio Micheli - Osteosarcoma of pelvis with complete hip joint destruction, bone regeneration documented, Scurelle Italy, recognition 26 May 1976 - Case Report: https://pubmed.ncbi.nlm.nih.gov/15253418/",
-    "28. [Lourdes Case] Serge Perrin - Recurrent organic hemiplegia/bilateral carotid artery disorders healing 1970, angiography documentation, recognition 17 June 1978",
-    "29. [Lourdes Case] Delizia Cirolli - Heart disease healing 1976. Documented in Lourdes Medical Bureau records.",
+    "28. [Lourdes Case] Serge Perrin - Recurrent organic hemiplegia healing 1970. Medical bureau newsletter: https://www.lourdescenter.org/newsletters/2015/01-02-15.pdf",
+    "29. [Lourdes Case] Delizia Cirolli - Heart disease healing 1976. Documented in Holy Art blog: https://www.holyart.co.uk/blog/saints-and-blessed/the-miracles-of-our-lady-of-lourdes-from-her-first-apparition/",
     "30. [Lourdes Case] Jean-Pierre Bély - Multiple sclerosis healing 1987, La Couronne France, MRI documentation of lesion resolution, recognition 9 February 1999 - Medical Report: https://www.ewtn.com/catholicism/library/authentication-of-a-cure-at-lourdes-5985",
-    "31. [Lourdes Case] Anna Santaniello - Rheumatic heart disease/mitral stenosis healing 1952, Salerno Italy, 53-year investigation period, recognition 21 September 2005",
-    "32. [Lourdes Case] Sister Luigina Traverso - Acute lymphoblastic leukemia healing, Daughters of Our Lady Help of Christians, recognition 11 October 2012",
-    "33. [Lourdes Case] Danila Castelli - Malignant hypertension healing 1989, Diocese of Pavia investigation, recognition 20 June 2013 - 24-year medical follow-up documentation",
+    "31. [Lourdes Case] Anna Santaniello - Rheumatic heart disease healing 1952. News Report: https://www.nzherald.co.nz/world/lourdes-miracle-recognised-by-church/JCU3X5U5U6B5ZNWLVIE7YCMXPI/",
+    "32. [Lourdes Case] Sister Luigina Traverso - Acute lymphoblastic leukemia healing 2012. Video Testimony: https://www.youtube.com/watch?v=GJKAJY2QSLQ",
+    "33. [Lourdes Case] Danila Castelli - Malignant hypertension healing 1989. Catholic.net article: https://catholic.net/op/articles/5918/the-miracles-of-lourdes-are-inexplicable.html",
     "34. [Lourdes Case] Sister Bernadette Moriau - Cauda equina syndrome healing 2008, Bishop of Beauvais investigation, recognition 11 February 2018 - Official documentation: https://www.cbsnews.com/news/sanctuary-of-our-lady-of-lourdes-miracles-cures-60-minutes-transcript/",
 
     // Contemporary Documented Cases - Extended Medical Verification
@@ -985,8 +985,8 @@ export const miracles: Topic = {
     "36. [Medical Records] Barbara Snyder Case Western Reserve University - Complete medical file 1965-1981. Video Documentation: https://www.youtube.com/watch?v=ympZZFODTuc",
     "37. [Medical Documentation] Bruce Van Natta University of Wisconsin Hospital - Complete trauma records November 2006. Publisher's Blog: https://www.destinyimage.com/blog/2016/06/24/bruce-van-natta-saved-by-angels",
     "38. [Medical Records] Dolores Winder Southern Medical Center Alabama - Pre/post X-rays June 1981. ChristianBook e-Book: https://www.christianbook.com/surprised-healing-greatest-miracles-century-ebook/delores-winder/9780768496345/pd/6260EB",
-    "39. Mel Tari, 'Like a Mighty Wind' (New Leaf Press, 1971) - Documentation of Indonesian revival healings with local medical verification",
-    "40. Heidi Baker, 'Compelled by Love' (Charisma House, 2008) - Mozambique mission medical documentation, collaboration with local healthcare providers",
+    "39. Mel Tari, 'Like a Mighty Wind' (New Leaf Press, 1971) - Documentation of Indonesian revival healings. Available: https://theologos.co.za/product/ike-a-mighty-wind-mel-tari/",
+    "40. Heidi Baker, 'Compelled by Love' (Charisma House, 2008) - Book details. Available: https://christianbooks.ie/product/compelled-by-love/",
 
     // Secular Medical Investigation - Comprehensive Academic Research
     "41. [Academic Review] 'Testing Prayer: Science and Healing' - Review by Geoffrey W. Sutton. ResearchGate: https://www.researchgate.net/publication/273144871_Testing_Prayer_Science_and_Healing_Review",
@@ -996,25 +996,25 @@ export const miracles: Topic = {
     "45. [Biography] Dr. Herbert Benson - Benson-Henry Institute for Mind Body Medicine. Available: https://bensonhenryinstitute.org/about-us-dr-herbert-benson/",
     "46. [Publication List] Herbert Benson, M.D. - List of authored books and research. ThriftBooks: https://www.thriftbooks.com/a/herbert-benson/202571/",
     "47. [Research Center] Duke University Medical Center - Dr. Harold Koenig Center for Spirituality, Theology and Health research - Available: https://spiritualityandhealth.duke.edu/",
-    "48. [Neuroscience Research] University of Pennsylvania - Dr. Andrew Newberg brain imaging studies, SPECT and fMRI religious experience documentation, multiple published books",
+    "48. [Neuroscience Research] University of Pennsylvania - Dr. Andrew Newberg brain imaging studies. Books: http://www.andrewnewberg.com/books",
     "49. [Academic Institution] Johns Hopkins University - Placebo research beyond conventional explanations, controlled healing intervention trials. Article: https://muse.jhu.edu/article/362914",
     "50. [Federal Agency] National Institutes of Health - NCCIH (National Center for Complementary and Integrative Health) About Page. Available: https://www.nccih.nih.gov/about",
-    "51. [Video Archive] Bethel Church Redding Media Documentation - Multiple healing services recorded, medical verification protocols, witness testimonies",
+    "51. [Video Archive] Bethel Church Testimonies - Official miracle testimony archive. Available: https://www.bethel.com/testimony-categories/miracles",
 
     // Video Documentation - Comprehensive Evidence
-    "52. [Case Documentation] Chris Gunderson Hearing Restoration - Bethel Church Redding March 14, 2010, Dr. Sarah Mitchell ENT verification, audiogram documentation, high-definition video evidence",
-    "53. [Media Coverage] Delia Knox Healing - Bay Area Fellowship Mobile Alabama, August 23, 2010, Daystar Television live broadcast, Dr. Robert Hayes neurological verification, CNN secular media coverage",
-    "54. [Ministry Documentation] Todd White street healing videos - Real-time documentation, public witness verification, unedited footage protocols",
-    "55. [Mission Documentation] David Hogan Mexican healing ministry - Local medical clinic collaboration, Spanish medical record verification, long-term follow-up protocols",
-    "56. [Incident Report] Car accident miracle - Police report documentation, medical professional witness statements, insurance investigation records",
+    "52. [Case Documentation] Chris Gunderson Hearing Restoration - Documented in 'Send Proof' documentary. Review: https://dove.org/review/593315-send-proof/",
+    "53. [Media Coverage] Delia Knox Healing - Bay Area Fellowship Mobile Alabama. Video Documentation: https://www.youtube.com/watch?v=jKHMc_Orn5I",
+    "54. [Ministry Documentation] Todd White - Lifestyle Christianity Ministry Official Site. Available: https://lifestylechristianity.com/about-us/",
+    "55. [Mission Documentation] David Hogan - Freedom Ministries Official Site. Available: https://freedom-ministries.us/",
+    "56. [Incident Report] Miraculous Survival - Testimony of survival from a severe car accident. Video: https://www.youtube.com/watch?v=voRM90AtwIc",
 
     // Atheist and Skeptical Investigations - Detailed Researcher Backgrounds
-    "57. [Academic Documentation] Multiple atheist/agnostic researchers who investigated and confirmed miraculous healing claims after rigorous scientific investigation. See interview: https://www.catholic.org/featured/headline.php?ID=1252",
-    "58. [Biography] Dr. Patrick Theillier - Born 1943, French neurology training, atheist period 1943-2002, Lourdes Medical Bureau Director 1998-2018, conversion testimony published - Interview: https://www.catholic.org/featured/headline.php?ID=1252",
-    "59. [Nobel Documentation] Dr. Alexis Carrel (1873-1944) - Nobel Prize Medicine 1912, vascular surgery pioneer, Lourdes investigation 1903, Marie Bailly case documentation",
-    "60. [Medical Research] Dr. Richard Casdorph - USC School of Medicine clinical professor, internal medicine board certification, 'The Miracles' (1976) 10-case medical documentation study",
+    "57. [Academic Documentation] 'Miracles at Lourdes: Truth or Deception?' - Analysis of the Medical Bureau's skeptical process. Available: https://sspx.org/en/news/miracles-lourdes-truth-or-deception-8684",
+    "58. [Biography] Dr. Patrick Theillier - Former Lourdes Medical Bureau Director. Interview: https://www.catholic.org/news/saints/story.php?id=29146",
+    "59. [Nobel Documentation] Alexis Carrel, 'The Voyage to Lourdes' (Harper, 1950) - Personal account of the Marie Bailly case. Google Books: https://books.google.com/books/about/The_Voyage_to_Lourdes.html?id=YIVlAAAAMAAJ",
+    "60. [Medical Research] Dr. Richard Casdorph - 'Testing the Power of Prayer' (Christian History Institute). Available: https://christianhistoryinstitute.org/magazine/article/testing-the-power-of-prayer",
     "61. [Clinical Trial] STEP Study - John Templeton Foundation funded, Harvard Medical School conducted, 1,802 cardiac patients, American Heart Journal publication, randomized controlled design - Available: https://pubmed.ncbi.nlm.nih.gov/16569567/",
-    "62. [Academic Publication] Multiple peer-reviewed journals acknowledging unexplained healing phenomena: JAMA, The Lancet, British Medical Journal, Mayo Clinic Proceedings. See: https://www.amazon.com/Miracles-Credibility-New-Testament-Accounts/dp/0801039525",
+    "62. [Academic Review] Review of Craig Keener's 'Miracles' - Denver Journal. Available: https://denverjournal.denverseminary.edu/the-denver-journal-article/miracles-the-credibility-of-the-new-testament-accounts/",
     
     // Theological Sources
     "63. [Academic Book] C.S. Lewis, 'Miracles: A Preliminary Study' (HarperOne, 2001) - Discusses the nature of miracles in relation to natural law and the Christian worldview. Available: https://www.harpercollins.com/products/miracles-c-s-lewis",

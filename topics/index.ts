@@ -49,7 +49,7 @@ TOPICS THAT NEED INDIVIDUAL FILES CREATED:
 
 - did God change
 
-- 
+- add in and advice and guidance page
 
 */
 

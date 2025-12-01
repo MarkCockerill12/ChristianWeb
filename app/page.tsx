@@ -8,10 +8,19 @@ import Image from "next/image"
 
 const whatsNewItems = [
 {
+    id: 4,
+    title: "All Page expanded and sources updated",
+    description:
+      'Went through every page on the website to add content and fix broken sources. Every source should now be relevant and work.',
+    date: "14/09/2025",
+    category: "Update Sources",
+    link: "/categories",
+  },
+{
     id: 3,
     title: "14 New Topic Pages Added!",
     description:
-      'Added: Archaeological Evidence, Biblical Canon (with timeline), Branches of Christianity (with timeline), Biblical Contradictions, Fine-Tuning, God & Evil, Hell, Jesus Historicity, Miracles, Morality, NASA & Space, Problem of Evil, Religions Comparison, Slavery (with 20-event timeline), Trinity, and Women in Christianity. Enhanced existing Prophecy and Resurrection pages with comprehensive research and sources.',
+      'Added: Archaeological Evidence, Biblical Canon (with timeline), Branches of Christianity (with timeline), Biblical Contradictions, Fine-Tuning, God & Evil, Hell, Jesus Historicity, Miracles, Morality, NASA & Space, Problem of Evil, Religions Comparison, Slavery (with timeline), Trinity, and Women in Christianity. Enhanced existing Prophecy and Resurrection pages with comprehensive research and sources.',
     date: "14/09/2025",
     category: "Major Expansion",
     link: "/categories",

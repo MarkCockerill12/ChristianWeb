@@ -12,7 +12,7 @@ export const nasa: Topic = {
       id: "joshua-long-day",
       title: "Joshua's Long Day - The 1207 BCE Eclipse",
       tags: ["joshua", "astronomy", "eclipse", "cambridge"],
-      content: `<strong>The 'Missing Day' Myth vs. Astronomical Reality:</strong> While the popular urban legend of a 'missing day' found by NASA computers is fiction, modern astronomical analysis provides a more concrete scientific correlation: the oldest recorded annular solar eclipse.<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE1201-1300.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><br><br>
+      content: `<strong>The 'Missing Day' Myth vs. Astronomical Reality:</strong> While the popular urban legend of a 'missing day' found by NASA computers is fiction, modern astronomical analysis provides a more concrete scientific correlation: the oldest recorded annular solar eclipse.<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><br><br>
 
       <strong>1. The Biblical Account & Hebrew Philology:</strong><br>
       • <strong><a href="https://www.biblegateway.com/passage/?search=Joshua+10%3A12-13&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Joshua 10:12-13</a>:</strong> Joshua commands the sun to "stand still" (Hebrew: <em>dom</em>).<br>
@@ -20,7 +20,7 @@ export const nasa: Topic = {
       • <strong>Context:</strong> Occurred during the conquest of Canaan, historically dated between 1500-1200 BCE.<br><br>
 
       <strong>2. NASA Data & The 1207 BCE Eclipse:</strong><br>
-      • <strong>Precise Dating:</strong> Using NASA's solar eclipse records, researchers identified an annular solar eclipse on October 30, 1207 BCE.<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE1201-1300.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><br>
+      • <strong>Precise Dating:</strong> Using NASA's solar eclipse records, researchers identified an annular solar eclipse on October 30, 1207 BCE.<a href="https://eclipse.gsfc.nasa.gov/SEcat5/catalog.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><br>
       • <strong>Visibility:</strong> In Gibeon, the sun would have appeared as a "ring of fire," drastically reducing light levels in the afternoon.<br>
       • <strong>Chronological Anchor:</strong> This astronomical fix provides a precise date for the reign of Pharaoh Merneptah, aligning Egyptian history with the Israelite conquest.<br>`
     },
@@ -116,9 +116,9 @@ export const nasa: Topic = {
     "Matthew 2:1-2"
   ],
   sources: [
-    "[1] [NASA Eclipse Web Site] Solar Eclipses of History: 1207 BCE - https://eclipse.gsfc.nasa.gov/SEcat5/SE1201-1300.html",
+    "[1] https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html",
     "[2] [Oxford Academic] Astronomy & Geophysics: Solar Eclipse of 1207 BC - https://academic.oup.com/astrogeo/article/58/5/5.39/4159289",
-    "[3] [NASA Eclipse Catalog] Five Millennium Catalog of Solar Eclipses - https://eclipse.gsfc.nasa.gov/SEcat5/SE1201-1300.html",
+    "[3] [NASA Eclipse Catalog] Five Millennium Catalog of Solar Eclipses - https://eclipse.gsfc.nasa.gov/SEcat5/catalog.html",
     "[4] [PLOS One] Dynamics of Wind Setdown at Suez (Funded by NASA Ocean Vector Winds) - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012481",
     "[5] [NASA LPI] Planetary Defense Background: Airbursts & Impacts - https://www.lpi.usra.edu/education/explore/planetary-defense/background/",  
     "[6] [SciTechDaily] Evidence That a Cosmic Impact Destroyed Biblical City - https://scitechdaily.com/sodom-and-gomorrah-evidence-that-a-cosmic-impact-destroyed-a-biblical-city-in-the-jordan-valley/",

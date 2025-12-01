@@ -41,3 +41,7 @@ yarn-error.log*
 next-env.d.ts
 
 .vscode
+
+topics/1check.py
+topics/1fix.py
+topics/1sync.py
