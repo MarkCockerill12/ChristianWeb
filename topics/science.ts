@@ -7,6 +7,7 @@ export const science: Topic = {
   icon: "Atom",
   color: "blue",
   tags: ["Science", "Historical"],
+  tldr: "Christianity and science are not enemies but partners. The Christian worldview, with its belief in a rational God and an orderly universe, provided the necessary intellectual foundation for the birth of modern science. Many great scientists were and are devout Christians.",
   content: `
     <h3>Christianity and Science: Partners, Not Enemies</h3>
     <p>Contrary to popular belief, Christianity and science are not in conflict. In fact, the Christian worldview provided the foundational assumptions that made modern science possible. Historians of science now recognize that the "Conflict Thesis"—the idea that religion and science have always been at war—is largely a 19th-century invention<a href="https://firstthings.com/modern-sciences-christian-sources/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>. Many of history's greatest scientists were devout Christians, and Christianity continues to support scientific inquiry today.</p>
@@ -162,14 +163,13 @@ export const science: Topic = {
     <p>Rather than being enemies, Christianity and science are natural allies. The Christian worldview provided the foundation for modern science, Christian scientists made most major discoveries, and Christian values continue to guide ethical scientific practice. True conflict exists not between Christianity and science, but between the philosophy of naturalism (nature is all there is) and theistic belief<a href="https://ndpr.nd.edu/reviews/where-the-conflict-really-lies-science-religion-and-naturalism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[24]</a>.</p>
   `,
   verses: [
-    "Genesis 1:1",
-    "Psalm 19:1-2", 
-    "Romans 1:20",
-    "Colossians 1:16-17",
-    "Hebrews 11:3",
-    "Job 38:4-7",
-    "Isaiah 40:26",
-    "Proverbs 25:2"
+    { reference: "Psalm 19:1", text: "The heavens declare the glory of God; the skies proclaim the work of his hands." },
+    { reference: "Romans 1:20", text: "For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse." },
+    { reference: "Colossians 1:16-17", text: "For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. He is before all things, and in him all things hold together." },
+    { reference: "Job 12:7-9", text: "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you. Which of all these does not know that the hand of the Lord has done this?" },
+    { reference: "Proverbs 25:2", text: "It is the glory of God to conceal a matter; to search out a matter is the glory of kings." },
+    { reference: "Psalm 111:2", text: "Great are the works of the Lord; they are pondered by all who delight in them." },
+    { reference: "Hebrews 11:3", text: "By faith we understand that the universe was formed at God’s command, so that what is seen was not made out of what was visible." }
   ],
   sources: [
     "1. [Historical] First Things - 'Modern Science's Christian Sources' - Historical analysis of how Christian theology birthed science. https://firstthings.com/modern-sciences-christian-sources/",

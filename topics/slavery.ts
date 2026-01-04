@@ -7,6 +7,7 @@ export const slavery: Topic = {
   icon: "Gavel",
   color: "gray",
   tags: ["Morality", "Historical", "Scripture"],
+  tldr: "Biblical 'slavery' was fundamentally different from modern chattel slavery, often resembling indentured servitude or debt repayment. The Bible regulated these practices to prevent abuse and planted the seeds of human equality that eventually led to the abolition of slavery.",
   content: `
     <h3>Understanding Biblical Slavery in Context</h3>
     <p>The Bible's treatment of slavery is often misunderstood when viewed through the lens of modern chattel slavery. Biblical slavery in ancient Israel was fundamentally different from the horrific institution of slavery in the American South and other historical contexts<a href="https://www.gotquestions.org/Bible-slavery.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><a href="https://en.wikipedia.org/wiki/The_Bible_and_slavery" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.</p>
@@ -279,24 +280,13 @@ export const slavery: Topic = {
     }
   ],
   verses: [
-    "Exodus 21:2",
-    "Exodus 21:16",
-    "Exodus 21:20-21",
-    "Exodus 21:26-27", 
-    "Leviticus 19:33-34",
-    "Leviticus 25:44-46",
-    "Deuteronomy 15:12-15",
-    "Deuteronomy 23:15-16",
-    "Luke 4:18-19",
-    "John 18:36",
-    "Matthew 7:12",
-    "Galatians 3:28",
-    "1 Timothy 1:10",
-    "Philemon 1:16",
-    "Ephesians 6:9",
-    "Colossians 4:1",
-    "Genesis 1:27",
-    "Amos 5:24"
+    { reference: "Galatians 3:28", text: "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus." },
+    { reference: "Exodus 21:16", text: "Anyone who kidnaps someone is to be put to death, whether the victim has been sold or is still in the kidnapper’s possession." },
+    { reference: "Deuteronomy 23:15-16", text: "If a slave has taken refuge with you, do not hand them over to their master. Let them live among you wherever they like and in whatever town they choose. Do not oppress them." },
+    { reference: "Philemon 1:15-16", text: "Perhaps the reason he was separated from you for a little while was that you might have him back forever—no longer as a slave, but better than a slave, as a dear brother. He is very dear to me but even dearer to you, both as a fellow man and as a brother in the Lord." },
+    { reference: "Colossians 4:1", text: "Masters, provide your slaves with what is right and fair, because you know that you also have a Master in heaven." },
+    { reference: "Leviticus 25:10", text: "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each of you is to return to your family property and to your own clan." },
+    { reference: "Isaiah 61:1", text: "The Spirit of the Sovereign Lord is on me, because the Lord has anointed me to proclaim good news to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom for the captives and release from darkness for the prisoners." }
   ],
   sources: [
     "1. [Bible Study Resource] GotQuestions.org - 'Does the Bible condone slavery?' - Comprehensive analysis of biblical slavery in context. https://www.gotquestions.org/Bible-slavery.html",

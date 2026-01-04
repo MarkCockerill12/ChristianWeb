@@ -9,13 +9,13 @@ export const hell: Topic = {
   color: "red",
   tags: ["Miracles", "Evidence"],
   verses: [
-    "Matthew 8:12",
-    "Matthew 25:41", 
-    "John 3:16",
-    "Mark 9:43",
-    "Matthew 13:41-42",
-    "Matthew 5:22",
-    "Matthew 25:46"
+    { reference: "Matthew 8:12", text: "But the subjects of the kingdom will be thrown outside, into the darkness, where there will be weeping and gnashing of teeth." },
+    { reference: "Matthew 25:41", text: "Then he will say to those on his left, 'Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.'" },
+    { reference: "John 3:16", text: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." },
+    { reference: "Mark 9:43", text: "If your hand causes you to stumble, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out." },
+    { reference: "Matthew 13:41-42", text: "The Son of Man will send out his angels, and they will weed out of his kingdom everything that causes sin and all who do evil. They will throw them into the blazing furnace, where there will be weeping and gnashing of teeth." },
+    { reference: "Matthew 5:22", text: "But I tell you that anyone who is angry with a brother or sister will be subject to judgment. Again, anyone who says to a brother or sister, 'Raca,' is answerable to the court. And anyone who says, 'You fool!' will be in danger of the fire of hell." },
+    { reference: "Matthew 25:46", text: "Then they will go away to eternal punishment, but the righteous to eternal life." }
   ],
   lastUpdated: "2024-12-19",
   content: `

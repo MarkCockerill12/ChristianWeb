@@ -1503,7 +1503,15 @@ export const religions: Topic = {
       </div>`
     }
   ],
-  verses: ["John 14:6", "Acts 4:12", "1 Timothy 2:5", "Isaiah 43:10-11", "Deuteronomy 32:39", "Ephesians 2:8-9", "Ephesians 2:8", "Genesis 1:27", "Galatians 3:28", "Deuteronomy 18:10-12", "Galatians 5:20", "1 John 4:18", "2 Corinthians 11:14", "Matthew 24:23-24", "1 Thessalonians 5:6-8", "1 Peter 5:8", "Deuteronomy 18:22", "John 1:1", "Colossians 2:9", "Matthew 10:27", "Hebrews 9:11-14", "Jeremiah 31:31-34", "Genesis 12:3", "Romans 11:17-18", "Micah 5:2", "Isaiah 53", "Psalm 22", "Acts 8:18-20", "Genesis 1:31", "1 Timothy 5:23"],
+  verses: [
+    { reference: "John 14:6", text: "Jesus answered, \"I am the way and the truth and the life. No one comes to the Father except through me.\"" },
+    { reference: "Acts 4:12", text: "Salvation is found in no one else, for there is no other name under heaven given to mankind by which we must be saved." },
+    { reference: "1 Timothy 2:5", text: "For there is one God and one mediator between God and mankind, the man Christ Jesus." },
+    { reference: "John 3:16", text: "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life." },
+    { reference: "John 3:18", text: "Whoever believes in him is not condemned, but whoever does not believe stands condemned already because they have not believed in the name of God’s one and only Son." },
+    { reference: "1 John 5:11-12", text: "And this is the testimony: God has given us eternal life, and this life is in his Son. Whoever has the Son has life; whoever does not have the Son of God does not have life." },
+    { reference: "Romans 1:16", text: "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile." }
+  ],
   sources: [
     "1. History.com. 'Religion.' https://www.history.com/topics/religion",
     "2. [Academic] Ehrman, Bart D. 'Did Jesus Exist? The Historical Argument for Jesus of Nazareth.' HarperOne, 2012. https://www.britannica.com/biography/Jesus",
@@ -1723,7 +1731,7 @@ export const religions: Topic = {
     "217. [History] World History Encyclopedia. 'Jainism.' https://www.britannica.com/topic/ahimsa",
     "218. [Academic Book] Jain, Jyoti. 'The Jains: Social Withdrawal.' Oxford University Press, 2006. https://global.oup.com/academic/product/the-jains-9780415266055",
     "219. [Public Media] BBC. 'Jain Subdivisions.' https://www.bbc.co.uk/religion/religions/jainism/subdivisions/subdivisions.shtml",
-    "220. [Encyclopedia] Britannica. 'Bahá\'í Faith'. https://www.britannica.com/topic/Bahai-Faith",
+    "220. [Encyclopedia] Britannica. 'Bahá'í Faith'. https://www.britannica.com/topic/Bahai-Faith",
     "221. [Religious Source] Bahai.org. 'Baha'u'llah.' https://www.bahai.org/bahaullah/",
     "222. [Religious Organization] Bahá'í International Community. 'One Human Family.' https://www.bahai.org/beliefs/essential-relationships/one-human-family",
     "223. [Religious Source] Bahai.org. 'Beliefs.' https://www.bahai.org/beliefs/",

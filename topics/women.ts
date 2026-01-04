@@ -7,6 +7,7 @@ export const women: Topic = {
   icon: "Users",
   color: "pink",
   tags: ["Morality", "Historical", "Scripture"],
+  tldr: "The Bible affirms the fundamental equality of men and women, both created in God's image. While it outlines different roles in certain contexts, it consistently honors women's dignity and value, revolutionizing their status compared to the surrounding ancient cultures.",
   content: `
     <h3>Biblical View of Women: Equality and Dignity</h3>
     <p>Christianity revolutionized the ancient world's view of women by affirming their fundamental equality with men while recognizing functional differences in certain contexts<a href="https://www.crosswalk.com/faith/bible-study/what-does-the-bible-say-about-women.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>. The Bible presents a balanced view that honors women's dignity, value, and contributions<a href="https://wciujournal.wciu.edu/women-in-international-development/2018/10/14/biblical-theological-reflection-on-the-role-of-women" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.</p>
@@ -97,20 +98,13 @@ export const women: Topic = {
     <p>The Bible's view of women is revolutionary for its time and continues to be relevant today<a href="https://cfc.sebts.edu/faith-and-politics/how-jesus-teaching-on-sex-changed-rome-and-the-world/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[60]</a>. While there are interpretive discussions about specific roles, all Christians affirm women's equal dignity, worth, and importance in God's kingdom<a href="https://cbmw.org/2019/11/20/mere-complementarianism/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[61]</a>. Christianity elevated women's status in the ancient world and continues to affirm their full humanity and valuable contributions<a href="https://www.hillfaith.org/myth-busters/myth-busters-christianity-liberated-women-in-the-ancient-world/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[62]</a>.</p>
   `,
   verses: [
-    "Genesis 1:27-28",
-    "Galatians 3:28",
-    "Luke 10:38-42",
-    "Matthew 28:1-10",
-    "Judges 4:4-5",
-    "1 Corinthians 11:2-16",
-    "1 Corinthians 11:5",
-    "1 Corinthians 14:34-35",
-    "1 Timothy 2:11-12",
-    "Ephesians 5:21-25",
-    "Romans 16:1-7",
-    "Acts 18:26",
-    "Proverbs 31:10-31",
-    "2 Timothy 1:5"
+    { reference: "Galatians 3:28", text: "There is neither Jew nor Gentile, neither slave nor free, nor is there male and female, for you are all one in Christ Jesus." },
+    { reference: "Genesis 1:27", text: "So God created mankind in his own image, in the image of God he created them; male and female he created them." },
+    { reference: "Proverbs 31:25", text: "She is clothed with strength and dignity; she can laugh at the days to come." },
+    { reference: "Proverbs 31:30", text: "Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised." },
+    { reference: "Luke 10:41-42", text: "\"Martha, Martha,\" the Lord answered, \"you are worried and upset about many things, but few things are needed—or indeed only one. Mary has chosen what is better, and it will not be taken away from her.\"" },
+    { reference: "Judges 4:4", text: "Now Deborah, a prophet, the wife of Lappidoth, was leading Israel at that time." },
+    { reference: "Romans 16:1", text: "I commend to you our sister Phoebe, a deacon of the church in Cenchreae." }
   ],
   sources: [
     "1. [Ministry Resource] Crosswalk - 'What Does the Bible Say about Women?'. https://www.crosswalk.com/faith/bible-study/what-does-the-bible-say-about-women.html",

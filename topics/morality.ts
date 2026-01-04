@@ -9,13 +9,12 @@ export const morality: Topic = {
   color: "green",
   tags: ["Philosophy", "Morality"],
   verses: [
-    "Genesis 1:27",
-    "Romans 2:14-15", 
-    "Ecclesiastes 3:11",
-    "Romans 1:19-20",
-    "Matthew 7:12",
-    "Ecclesiastes 12:13-14",
-    "1 John 4:8"
+    { reference: "Romans 2:14-15", text: "Indeed, when Gentiles, who do not have the law, do by nature things required by the law, they are a law for themselves, even though they do not have the law. They show that the requirements of the law are written on their hearts, their consciences also bearing witness, and their thoughts sometimes accusing them and at other times defending them." },
+    { reference: "Genesis 1:27", text: "So God created mankind in his own image, in the image of God he created them; male and female he created them." },
+    { reference: "Ecclesiastes 3:11", text: "He has made everything beautiful in its time. He has also set eternity in the human heart; yet no one can fathom what God has done from beginning to end." },
+    { reference: "Romans 1:19-20", text: "since what may be known about God is plain to them, because God has made it plain to them. For since the creation of the world God's invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse." },
+    { reference: "Matthew 7:12", text: "So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets." },
+    { reference: "Ecclesiastes 12:13-14", text: "Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments, for this is the duty of all mankind. For God will bring every deed into judgment, including every hidden thing, whether it is good or evil." }
   ],
   lastUpdated: "11-19-2025",
   content: `

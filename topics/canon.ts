@@ -255,6 +255,13 @@ export const canon: Topic = {
   icon: "BookOpen",
   color: "blue",
   tags: ["Historical", "Scripture"],
+  verses: [
+    { reference: "2 Timothy 3:16-17", text: "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness, so that the servant of God may be thoroughly equipped for every good work." },
+    { reference: "2 Peter 1:20-21", text: "Above all, you must understand that no prophecy of Scripture came about by the prophet’s own interpretation of things. For prophecy never had its origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit." },
+    { reference: "Revelation 22:18-19", text: "I warn everyone who hears the words of the prophecy of this scroll: If anyone adds anything to them, God will add to that person the plagues described in this scroll. And if anyone takes words away from this scroll of prophecy, God will take away from that person any share in the tree of life and in the Holy City, which are described in this scroll." },
+    { reference: "Psalm 119:160", text: "All your words are true; all your righteous laws are eternal." }
+  ],
+  tldr: "The biblical canon was established through rigorous criteria including apostolic authority, consistency with established teaching, and universal church acceptance. It wasn't arbitrarily decided by a council but recognized as authoritative based on these inherent qualities.",
   content: `
     <h3>The Biblical Canon: How We Know Which Books Are Scripture</h3>
     <p>The word "canon" comes from the Greek word "kanon," meaning "rule" or "measuring rod"<a href="https://www.britannica.com/topic/biblical-literature/The-biblical-canon" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>. The biblical canon represents the authoritative collection of books that comprise Scripture<a href="https://www.oxfordbibliographies.com/abstract/document/obo-9780195393361/obo-9780195393361-0017.xml" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>. Understanding which books belong in the Bible and why is crucial for establishing the foundation of Christian faith and doctrine.</p>
@@ -275,16 +282,7 @@ export const canon: Topic = {
     <h4>Conclusion</h4>
     <p>The careful process of canonical recognition preserved for us the authentic apostolic writings while rejecting later forgeries, theological deviations, and legendary embellishments<a href="https://www.thegospelcoalition.org/essay/the-biblical-canon/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a>. The 66 books of the Protestant Bible represent the complete revelation God intended to preserve for His church, confirmed by their apostolic origin, doctrinal orthodoxy, universal acceptance, and divine attestation<a href="https://answersingenesis.org/the-word-of-god/why-66-books/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a>.</p>
   `,
-  verses: [
-    "2 Timothy 3:16",
-    "Hebrews 9:27",
-    "Ephesians 2:8-9",
-    "Genesis 1:31",
-    "Galatians 1:8",
-    "Revelation 22:18-19",
-    "1 John 4:1-3",
-    "2 Peter 1:20-21",
-  ],
+
   subtopics: [
     {
       id: "deuterocanonical-books",

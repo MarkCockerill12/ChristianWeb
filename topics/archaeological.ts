@@ -7,6 +7,12 @@ export const archaeological: Topic = {
   icon: "Mountain",
   color: "brown",
   tags: ["Archaeological","Historical"],
+  verses: [
+    { reference: "Luke 19:40", text: "“I tell you,” he replied, “if they keep quiet, the stones will cry out.”" },
+    { reference: "Psalm 85:11", text: "Faithfulness springs forth from the earth, and righteousness looks down from heaven." },
+    { reference: "Luke 1:1-4", text: "Many have undertaken to draw up an account of the things that have been fulfilled among us... I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught." },
+    { reference: "Isaiah 40:8", text: "The grass withers and the flowers fall, but the word of our God endures forever." }
+  ],
   tldr: "Archaeological discoveries consistently support biblical accounts, from ancient cities and rulers to meteorological phenomena and cultural details.",
   content: `
 <p>Archaeological evidence provides substantial support for biblical accounts, demonstrating the historical reliability of Scripture across multiple categories<a href="https://www.infoplease.com/encyclopedia/social-science/cultures/archaeology/biblical-archaeology" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a> <a href="https://en.wikipedia.org/wiki/Biblical_Archaeology_Society" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a>.</p>
@@ -264,12 +270,7 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
 `
     }
   ],
-  verses: [
-    "John 1:44", "Luke 9:10", "John 6:5-7", "Acts 27:14-15", "John 5:2", "John 9:7",
-    "Genesis 19:24-25", "Genesis 19:22-23", "Joshua 10:12-13", "2 Kings 20:20",
-    "Ezra 1:1-4", "2 Kings 18-19", "Isaiah 36-37", "Matthew 26:57", "Mark 14:53",
-    "Luke 22:54", "John 18:13"
-  ],
+
   sources: [
     "1. [Encyclopedia] InfoPlease. 'Biblical Archaeology.' https://www.infoplease.com/encyclopedia/social-science/cultures/archaeology/biblical-archaeology",
     "2. [Encyclopedia] Wikipedia. 'Biblical Archaeology Society.' https://en.wikipedia.org/wiki/Biblical_Archaeology_Society",
@@ -308,8 +309,8 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "35. [News] Evangelical Focus. 'Book of Joshua may record oldest known solar eclipse.' https://evangelicalfocus.com/science/2986/book-of-joshua-may-record-oldest-known-solar-eclipse",
     "36. [Encyclopedia] Wikipedia. 'Siloam Tunnel.' https://en.wikipedia.org/wiki/Siloam_tunnel",
     "37. [University] Rutgers University. 'IEJ Siloam.' https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/IEJ_Siloam.pdf",
-    "38. [Academic Resource] Bible Odyssey. 'The Siloam Inscription and Hezekiah\'s Tunnel.' https://www.bibleodyssey.org/articles/the-siloam-inscription-and-hezekiahs-tunnel/",
-    "39. [Archaeology] Biblical Archaeology Society. 'Hezekiah\'s Tunnel Reexamined.' https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hezekiahs-tunnel-reexamined/",
+    "38. [Academic Resource] Bible Odyssey. 'The Siloam Inscription and Hezekiah's Tunnel.' https://www.bibleodyssey.org/articles/the-siloam-inscription-and-hezekiahs-tunnel/",
+    "39. [Archaeology] Biblical Archaeology Society. 'Hezekiah's Tunnel Reexamined.' https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/hezekiahs-tunnel-reexamined/",
     "40. [Encyclopedia] Wikipedia. 'Lachish Letters.' https://en.wikipedia.org/wiki/Lachish_letters",
     "41. [Museum] Museum of the Bible. 'Lachish and Literacy.' https://www.museumofthebible.org/magazine/history/lachish-and-literacy",
     "42. [Academic Database] JSTOR. 'Lachish Letters.' https://www.jstor.org/stable/1452054",
@@ -393,7 +394,7 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "120. [Encyclopedia] Wikipedia. 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
     "121. [Academic Journal] NIH. 'Statistical and Proactive Analysis... Radiocarbon Dating of the Shroud of Turin.' https://pmc.ncbi.nlm.nih.gov/articles/PMC7597180/",
     "122. [Academic Journal] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. *Heritage*, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
-    "123. [Academic Journal] Heritage. 'X-ray Dating of a Turin Shroud\'s Linen Sample.' https://www.researchgate.net/publication/359904073_X-ray_Dating_of_a_Turin_Shroud's_Linen_Sample",
+    "123. [Academic Journal] Heritage. 'X-ray Dating of a Turin Shroud's Linen Sample.' https://www.researchgate.net/publication/359904073_X-ray_Dating_of_a_Turin_Shroud's_Linen_Sample",
     "124. [Skeptical Resource] Center for Inquiry. 'Pollens on the 'Shroud': A Study in Deception.' https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1994/07/22165128/p45.pdf",
     "125. [Research] ResearchGate. 'Pollen on the Shroud of Turin.' https://www.researchgate.net/publication/310496363_Pollen_on_the_Shroud_of_Turin_The_Probable_Trace_Left_by_Anointing_and_Embalming",
     

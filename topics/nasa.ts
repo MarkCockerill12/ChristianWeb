@@ -7,6 +7,16 @@ export const nasa: Topic = {
   icon: "Zap",
   color: "indigo",
   tags: ["Cosmology", "Archaeology", "Physics", "NASA"],
+  verses: [
+    { reference: "Joshua 10:12-13", text: "On the day the Lord gave the Amorites over to Israel, Joshua said to the Lord in the presence of Israel: 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.' So the sun stood still, and the moon stopped, till the nation avenged itself on its enemies." },
+    { reference: "Exodus 14:21", text: "Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land. The waters were divided." },
+    { reference: "Genesis 19:24", text: "Then the Lord rained down burning sulfur on Sodom and Gomorrah—from the Lord out of the heavens." },
+    { reference: "Acts 2:20", text: "The sun will be turned to darkness and the moon to blood before the coming of the great and glorious day of the Lord." },
+    { reference: "Matthew 27:51", text: "At that moment the curtain of the temple was torn in two from top to bottom. The earth shook, the rocks split." },
+    { reference: "Isaiah 40:22", text: "He sits enthroned above the circle of the earth, and its people are like grasshoppers. He stretches out the heavens like a canopy, and spreads them out like a tent to live in." },
+    { reference: "Job 26:7", text: "He spreads out the northern skies over empty space; he suspends the earth over nothing." }
+  ],
+  tldr: "Modern astronomical data and satellite imagery often corroborate biblical accounts. From the 'long day' of Joshua aligning with eclipse records to the confirmation of ancient cities, science provides context that supports the historical reliability of Scripture.",
   subtopics: [
     {
       id: "joshua-long-day",
@@ -106,15 +116,6 @@ export const nasa: Topic = {
     }
   ],
   content: `<strong>Space-Age Verification of Ancient History:</strong> Modern science does not disprove the Bible; rather, tools developed for space exploration—satellite radar, orbital mechanics software, and atmospheric modeling—are uncovering the physical reality behind biblical narratives.`,
-  verses: [
-    "Joshua 10:12-13",
-    "Exodus 14:21",
-    "Genesis 19:24",
-    "Acts 2:20",
-    "Matthew 27:51",
-    "Jeremiah 6:20",
-    "Matthew 2:1-2"
-  ],
   sources: [
     "[1] https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html",
     "[2] [Oxford Academic] Astronomy & Geophysics: Solar Eclipse of 1207 BC - https://academic.oup.com/astrogeo/article/58/5/5.39/4159289",

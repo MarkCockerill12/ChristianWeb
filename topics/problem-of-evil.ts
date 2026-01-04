@@ -7,6 +7,16 @@ export const problemOfEvil: Topic = {
   icon: "AlertTriangle",
   color: "red",
   tags: ["Philosophy", "Scripture", "Morality"],
+  verses: [
+    { reference: "Romans 8:28", text: "And we know that in all things God works for the good of those who love him, who have been called according to his purpose." },
+    { reference: "Job 1:21", text: "Naked I came from my mother’s womb, and naked I will depart. The Lord gave and the Lord has taken away; may the name of the Lord be praised." },
+    { reference: "2 Corinthians 1:3-4", text: "Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God." },
+    { reference: "Revelation 21:4", text: "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain, for the old order of things has passed away." },
+    { reference: "Genesis 1:26-27", text: "So God created mankind in his own image, in the image of God he created them; male and female he created them." },
+    { reference: "Genesis 1:27-28", text: "God blessed them and said to them, 'Be fruitful and increase in number; fill the earth and subdue it.'" },
+    { reference: "Genesis 2:16-17", text: "And the Lord God commanded the man, 'You are free to eat from any tree in the garden; but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die.'" },
+    { reference: "Genesis 3:6-7", text: "When the woman saw that the fruit of the tree was good for food and pleasing to the eye, and also desirable for gaining wisdom, she took some and ate it. She also gave some to her husband, who was with her, and he ate it. Then the eyes of both of them were opened, and they realized they were naked; so they sewed fig leaves together and made coverings for themselves." }
+  ],
   tldr: "Evil and suffering exist because of human free will, the fallen state of creation, and for the ultimate purpose of refining our souls; God is not the author of evil but the redeemer of it.",
   content: `
   <h3>The Logical Dilemma</h3>
@@ -52,39 +62,6 @@ export const problemOfEvil: Topic = {
   <br><br>
   Ultimately, Christianity offers a hope that secular worldviews cannot: the end of evil. "He will wipe every tear from their eyes. There will be no more death or mourning or crying or pain" (<a href="https://www.biblegateway.com/passage/?search=Revelation+21%3A4&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Revelation 21:4</a>)<a href="https://www.blueletterbible.org/Comm/mhc/Rev/Rev_021.cfm" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a>.
   `,
-  verses: [
-    "Romans 8:28", 
-    "Job 1:21", 
-    "2 Corinthians 1:3-4", 
-    "Revelation 21:4", 
-    "Genesis 1:26-27", 
-    "Genesis 1:28", 
-    "Genesis 2:16-17", 
-    "Genesis 3:6", 
-    "Genesis 3:17",
-    "Romans 5:12",
-    "Luke 1:37",
-    "Job 42:2",
-    "Joshua 24:15",
-    "Deuteronomy 30:19",
-    "Matthew 23:37",
-    "Isaiah 53:3",
-    "Isaiah 53:4",
-    "Hebrews 4:15",
-    "Psalm 34:18",
-    "Psalm 23:4",
-    "Isaiah 43:2",
-    "Job 13:15",
-    "Ecclesiastes 3:1",
-    "Psalm 22:1",
-    "Psalm 13:1",
-    "Lamentations 3:22-23",
-    "Genesis 50:20",
-    "Matthew 6:34",
-    "Matthew 11:28",
-    "1 Peter 5:7",
-    "Romans 8:38-39"
-  ],
   sources: [
     // Philosophical Resources
     "1. [Philosophy] Internet Encyclopedia of Philosophy. 'The Logical Problem of Evil.' https://iep.utm.edu/evil-log/",

@@ -7,6 +7,7 @@ export const trinity: Topic = {
   icon: "Shield",
   color: "gold",
   tags: ["Theology", "Scripture", "Historical"],
+  tldr: "The Trinity is the doctrine that God exists as three distinct persons—Father, Son, and Holy Spirit—who share the same divine essence. It is not three gods, but one God in three persons, a concept revealed throughout Scripture.",
   content: `
     <h3>Understanding the Trinity</h3>
     <p>The Trinity is the Christian doctrine that God exists as three distinct persons - Father, Son, and Holy Spirit - while remaining one God in essence<a href="https://www.desiringgod.org/articles/what-is-the-doctrine-of-the-trinity" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>. This is not three Gods (tritheism) nor one person in three modes (modalism), but one divine Being existing eternally in three persons who share the same divine nature<a href="https://www.researchgate.net/publication/388698128_Theological_Study_of_The_Doctrine_of_The_Trinity_of_God" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><a href="https://www.compellingtruth.org/Trinity.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a>. The doctrine is a mystery revealed by God, emphasizing that the oneness refers to His essence (*what* He is), and the threeness refers to the persons (*who* He is)<a href="https://learn.ligonier.org/devotionals/one-essence-three-person" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a>.</p>
@@ -71,15 +72,14 @@ export const trinity: Topic = {
     <p>The Trinity explains God's relational nature (love existing eternally within the Godhead) and is central to the Christian understanding of salvation<a href="https://www.youthpastortheologian.com/blog/is-the-trinity-essential-for-salvation" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[47]</a>. The Father plans salvation, the Son accomplishes it, and the Spirit applies it to believers (<a href="https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A14&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">2 Corinthians 13:14</a>)<a href="https://radical.net/podcasts/pray-the-word/a-trinitarian-blessing-2-corinthians-1314/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[48]</a>.</p>
   `,
   verses: [
-    "Deuteronomy 6:4",
-    "Isaiah 45:21", 
-    "John 1:1",
-    "John 20:28",
-    "Acts 5:3-4",
-    "Matthew 3:16-17",
-    "John 15:26",
-    "Philippians 2:6-8",
-    "2 Corinthians 13:14"
+    { reference: "Deuteronomy 6:4", text: "Hear, O Israel: The Lord our God, the Lord is one." },
+    { reference: "Matthew 28:19", text: "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit." },
+    { reference: "2 Corinthians 13:14", text: "May the grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit be with you all." },
+    { reference: "John 1:1", text: "In the beginning was the Word, and the Word was with God, and the Word was God." },
+    { reference: "John 1:14", text: "The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth." },
+    { reference: "John 10:30", text: "I and the Father are one." },
+    { reference: "1 Peter 1:2", text: "who have been chosen according to the foreknowledge of God the Father, through the sanctifying work of the Spirit, to be obedient to Jesus Christ and sprinkled with his blood: Grace and peace be yours in abundance." },
+    { reference: "Genesis 1:26", text: "Then God said, \"Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.\"" }
   ],
   sources: [
     "1. [Ministry Resource] Desiring God - 'What Is the Doctrine of the Trinity?' - Comprehensive theological article defining the Trinity and covering biblical support and practical implications. https://www.desiringgod.org/articles/what-is-the-doctrine-of-the-trinity",

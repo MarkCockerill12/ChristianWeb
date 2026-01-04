@@ -13,7 +13,10 @@ export interface Topic {
   title: string
   description: string
   content: string
-  verses: string[]
+  verses?: Array<{
+    reference: string
+    text: string
+  }>
   sources: string[]
   lastUpdated: string
   tags: string[]

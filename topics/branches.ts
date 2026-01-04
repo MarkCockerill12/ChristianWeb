@@ -260,6 +260,11 @@ export const branches: Topic = {
   icon: "Church",
   color: "purple",
   tags: ["Branches", "Historical"], //make clear what the fundamental aspect of christianity is
+  verses: [
+    { reference: "1 Corinthians 1:10", text: "I appeal to you, brothers and sisters, in the name of our Lord Jesus Christ, that all of you agree with one another in what you say and that there be no divisions among you, but that you be perfectly united in mind and thought." },
+    { reference: "John 17:21", text: "that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me." },
+    { reference: "Ephesians 4:3-6", text: "Make every effort to keep the unity of the Spirit through the bond of peace. There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all." }
+  ],
   tldr: "Christianity's main branches include the Early Universal/Catholic Church (1st-4th c.), Roman Catholic (which developed papal supremacy), Eastern Orthodox (which split in 1054 AD), Oriental Orthodox (split in 451 AD), and Protestant (which emerged from the 16th c. Reformation). Each differs on beliefs about scriptural authority, tradition, and sacraments.",
   content: ` <h3>Legend:</h3>
     <p><svg xmlns="http://www.w3.org/2000/svg" class="inline h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path d="M18 13v6a2 2 0 01-2 2H8a2 2 0 01-2-2V5a2 2 0 012-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg> Church Authority - Do they believe in church authority?</p>
@@ -545,7 +550,7 @@ export const branches: Topic = {
       Some movements, while claiming Christian identity, are considered outside orthodox Christianity by Catholic, Orthodox, and Protestant groups due to fundamental doctrinal differences. This includes groups like **Latter-day Saints (Mormons)**<a href="https://en.wikipedia.org/wiki/Latter_Day_Saint_movement" target="_blank" style_position: "relative", "z-index": 10, "color": "#007acc", "text-decoration": "none", "font-size": "0.9em", "vertical-align": "super", "top": "-0.5em">[176]</a> and **Jehovah's Witnesses** (which have unique restorationist claims and non-Trinitarian theology)<a href="https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses" target="_blank" style_position: "relative", "z-index": 10, "color": "#007acc", "text-decoration": "none", "font-size": "0.9em", "vertical-align": "super", "top": "-0.5em">[177]</a>, and **Unitarian Universalists**, who have Christian roots but now embrace a pluralistic, non-creedal faith that rejects the Trinity<a href="https://en.wikipedia.org/wiki/Unitarian_Universalism" target="_blank" style_position: "relative", "z-index": 10, "color": "#007acc", "text-decoration": "none", "font-size": "0.9em", "vertical-align": "super", "top": "-0.5em">[178]</a>.`,
     },
   ],
-  verses: [],
+
   sources: [
     // Universal / Original Catholic Church (Sources 1-11)
     "1. [Wikipedia] History of Christianity. 'Comprehensive timeline of Christian development from apostolic era to modern times.' https://en.wikipedia.org/wiki/History_of_Christianity",

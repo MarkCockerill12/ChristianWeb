@@ -8,6 +8,13 @@ export const tuning: Topic = {
   icon: 'Atom',
   color: 'teal',
   tags: ['Science', 'Cosmology', 'Physics'], //TODO say that it isnt a great argument on its own
+  verses: [
+    { reference: "Psalm 19:1", text: "The heavens declare the glory of God; the skies proclaim the work of his hands." },
+    { reference: "Romans 1:20", text: "For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse." },
+    { reference: "Jeremiah 31:35", text: "This is what the Lord says, he who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves roar— the Lord Almighty is his name:" },
+    { reference: "Colossians 1:16-17", text: "For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. He is before all things, and in him all things hold together." }
+  ],
+  tldr: "The universe's fundamental physical constants are precisely calibrated to support life. Even minute deviations in these values would make the universe uninhabitable, pointing to an intelligent designer rather than random chance.",
   subtopics: [
     {
       id: 'cosmological-constants',
@@ -437,31 +444,7 @@ export const tuning: Topic = {
     },
   ],
   content: `<strong>The Fine-Tuning Argument:</strong> The universe appears precisely calibrated for the existence of life, with fundamental constants, planetary conditions, and biological systems demonstrating purposeful design rather than random chance<a href="https://plato.stanford.edu/entries/fine-tuning/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.`,
-  verses: [
-    'Genesis 1:1',
-    'Romans 1:20',
-    'John 1:1-3',
-    'Genesis 1:27',
-    '1 Corinthians 14:33',
-    'Psalm 19:1',
-    'Isaiah 45:18',
-    'Job 38:4-7',
-    'Proverbs 8:27-30',
-    'Jeremiah 10:12',
-    'Colossians 1:16-17',
-    'Genesis 1:11-13',
-    'Genesis 1:14-18',
-    'Genesis 1:6-10',
-    'Genesis 1:6-8',
-    'Genesis 1:20-25',
-    'Psalm 139:14',
-    'Ecclesiastes 3:11',
-    'Isaiah 55:8-9',
-    '1 Corinthians 2:7',
-    'Ephesians 1:4',
-    '2 Timothy 1:9',
-    'Revelation 13:8',
-  ],
+
   sources: [
     // Cosmological Constants (1-32)
     '[1] Stanford Encyclopedia of Philosophy. (2023). Fine-Tuning. https://plato.stanford.edu/entries/fine-tuning/',

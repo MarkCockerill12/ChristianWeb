@@ -7,6 +7,16 @@ export const miracles: Topic = {
   icon: "Zap",
   color: "yellow",
   tags: ["Miracles", "Historical", "Science"],
+  verses: [
+    { reference: "John 14:12", text: "Very truly I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father." },
+    { reference: "Mark 16:17-18", text: "And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues; they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well." },
+    { reference: "James 5:14-15", text: "Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven." },
+    { reference: "1 Corinthians 12:9", text: "to another faith by the same Spirit, to another gifts of healing by that one Spirit," },
+    { reference: "Acts 3:6-8", text: "Then Peter said, 'Silver or gold I do not have, but what I do have I give you. In the name of Jesus Christ of Nazareth, walk.' Taking him by the right hand, he helped him up, and instantly the man's feet and ankles became strong." },
+    { reference: "Matthew 17:20", text: "He replied, 'Because you have so little faith. Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, 'Move from here to there,' and it will move. Nothing will be impossible for you.'" },
+    { reference: "Luke 10:19", text: "I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you." }
+  ],
+  tldr: "Miracles are not violations of natural law but interventions by the Creator. Modern documentation, including medical records and multiple witnesses, suggests that miracles continue to occur today, challenging the notion that they ceased with the invention of the camera.",
   content: `
 <h3>Did Miracles Stop When Cameras Were Invented?</h3>
 <p>Skeptics often claim that miracles conveniently stopped happening when cameras were invented and medical science advanced. This assertion, however, doesn't match the documented evidence. Modern miracles continue to occur and are often more thoroughly documented than ever before, with medical records, multiple witnesses, and even video evidence<a href="https://www.cambridge.org/core/journals/church-history/article/testing-prayer-science-and-healing-by-candy-gunther-brown-cambridge-mass-harvard-university-press-2012-x-372-pp-2995-cloth/D95E87909FA40D77C644EA29ACEB15BD" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a>.</p>
@@ -35,10 +45,6 @@ export const miracles: Topic = {
 <h4>Documented Modern Cases</h4>
 <p>Contemporary medicine continues to document cases that defy explanation. These aren't ancient stories but modern cases with full medical records, multiple witnesses, and ongoing follow-up care<a href="https://archive.org/details/testingprayersci00brow" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a>.</p>
   `,
-  verses: [
-    "John 14:12", "Mark 16:17-18", "James 5:14-15", "1 Corinthians 12:9",
-    "Acts 3:6-8", "Acts 14:8-10", "Matthew 17:20", "Luke 10:19"
-  ],
   subtopics: [
     {
       id: "key-examples",

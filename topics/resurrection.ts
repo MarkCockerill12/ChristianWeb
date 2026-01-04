@@ -7,6 +7,11 @@ export const resurrection: Topic = {
   icon: "Crown",
   color: "red",
   tags: ["Historical", "Scripture"], 
+  verses: [
+    { reference: "1 Corinthians 15:3-8", text: "For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures, and that he appeared to Cephas, and then to the Twelve. After that, he appeared to more than five hundred of the brothers and sisters at the same time, most of whom are still living, though some have fallen asleep. Then he appeared to James, then to all the apostles, and last of all he appeared to me also, as to one abnormally born" },
+    { reference: "1 Corinthians 15:17", text: "And if Christ has not been raised, your faith is futile; you are still in your sins." },
+    { reference: "John 19:34", text: "Instead, one of the soldiers pierced Jesus’ side with a spear, bringing a sudden flow of blood and water." }
+  ],
   tldr: "The resurrection of Jesus is supported by strong historical evidence and is the foundation of Christian faith.",
   content: `<h3>The Resurrection: Foundation of Christian Faith</h3>
   
@@ -123,20 +128,6 @@ Even renowned critical scholars and skeptics concede the minimal facts.
     <h4>Conclusion</h4>
     
     <p>The historical evidence strongly supports the reality of Jesus' bodily resurrection, making it the most reasonable explanation for the collection of known facts (the empty tomb, the appearance accounts, and the radical transformation of the disciples).</p>`,
-  verses: [
-    "1 Corinthians 15:3-8", 
-    "1 Corinthians 15:17", 
-    "1 Corinthians 15:6", 
-    "Matthew 28:1-10", 
-    "Luke 24:1-12",
-    "John 20:1-29",
-    "Acts 2:22-24",
-    "Romans 1:4",
-    "Psalm 16:10",
-    "Matthew 16:21",
-    "1 Peter 1:3",
-    "1 Corinthians 15:54-55"
-  ],
     sources: [
     "1. [Academic] Cross Examined - The Minimal Facts of the Resurrection. \"The Minimal Facts Approach to the Resurrection of Jesus.\" https://crossexamined.org/the-minimal-facts-of-the-resurrection/",
     "2. [Academic] Gary Habermas - Resurrection Research. 'Analysis of critical scholarship trends regarding the minimal facts.' https://digitalcommons.liberty.edu/sor_fac_pubs/9/",

@@ -7,6 +7,16 @@ export const prophecy: Topic = {
   icon: "Scroll",
   color: "purple",
   tags: ["Prophecy", "Scripture"],
+  verses: [
+    { reference: "Genesis 3:15", text: "And I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel." },
+    { reference: "Isaiah 7:14", text: "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel." },
+    { reference: "Micah 5:2", text: "But you, Bethlehem Ephrathah, though you are small among the clans of Judah, out of you will come for me one who will be ruler over Israel, whose origins are from of old, from ancient times." },
+    { reference: "Isaiah 53:5", text: "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed." },
+    { reference: "Psalm 22:16-18", text: "Dogs surround me, a pack of villains encircles me; they pierce my hands and my feet. All my bones are on display; people stare and gloat over me. They divide my clothes among them and cast lots for my garment." },
+    { reference: "Zechariah 9:9", text: "Rejoice greatly, Daughter Zion! Shout, Daughter Jerusalem! See, your king comes to you, righteous and victorious, lowly and riding on a donkey, on a colt, the foal of a donkey." },
+    { reference: "Daniel 9:26", text: "After the sixty-two 'sevens,' the Anointed One will be put to death and will have nothing. The people of the ruler who will come will destroy the city and the sanctuary." }
+  ],
+  tldr: "The Old Testament contains hundreds of specific prophecies about the Messiah, written centuries before Jesus' birth. These predictions, covering His lineage, birth, life, death, and resurrection, were fulfilled with such precision in Jesus of Nazareth that they point to divine inspiration.",
   subtopics: [
     {
       id: "born-woman",
@@ -330,13 +340,13 @@ export const prophecy: Topic = {
   content: `
 Biblical Prophecy: The Ultimate Test of Divine Inspiration
 
-The Bible contains thousands of prophecies, with estimates ranging from conservative scholarly counts of **300+ messianic prophecies** fulfilled in Christ <a href=\"https://firmisrael.org/learn/how-many-messianic-prophecies-did-jesus-fulfill/\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">[184]</a> to comprehensive catalogs identifying **over 2,500 total biblical prophecies**, with approximately **2,000 already fulfilled** with documented accuracy. Even using the most conservative estimates, this level of prophetic accuracy is **statistically impossible** without divine inspiration.
+The Bible contains thousands of prophecies, with estimates ranging from conservative scholarly counts of **300+ messianic prophecies** fulfilled in Christ <a href="https://firmisrael.org/learn/how-many-messianic-prophecies-did-jesus-fulfill/" target="_blank" style="color: #007acc; text-decoration: none;">[184]</a> to comprehensive catalogs identifying **over 2,500 total biblical prophecies**, with approximately **2,000 already fulfilled** with documented accuracy. Even using the most conservative estimates, this level of prophetic accuracy is **statistically impossible** without divine inspiration.
 
 The Mathematical Impossibility of Coincidence
 
-Professor Peter Stoner, the former Chairman of the Department of Mathematics and Astronomy at Pasadena City College, calculated that the probability of just **8 specific messianic prophecies** being fulfilled by chance in one person is **1 in 100,000,000,000,000,000** (1 in 10^17). This calculation was later endorsed by the American Scientific Affiliation as being sound and reliable <a href=\"https://www.icr.org/article/mathematics-of-messianic-prophecy\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">[185]</a>.
+Professor Peter Stoner, the former Chairman of the Department of Mathematics and Astronomy at Pasadena City College, calculated that the probability of just **8 specific messianic prophecies** being fulfilled by chance in one person is **1 in 100,000,000,000,000,000** (1 in 10^17). This calculation was later endorsed by the American Scientific Affiliation as being sound and reliable <a href="https://www.icr.org/article/mathematics-of-messianic-prophecy" target="_blank" style="color: #007acc; text-decoration: none;">[185]</a>.
 
-To illustrate this probability: *"Suppose that we take 10^17 silver dollars and lay them on the face of Texas. They will cover all of the state two feet deep. Now mark one of these silver dollars and stir the whole mass thoroughly, all over the state. Blindfold a man and tell him that he can travel as far as he wishes, but he must pick up one silver dollar and say that this is the right one."* <a href=\"https://pillars.taylor.edu/cgi/viewcontent.cgi?article=1005&context=acms-2024\" target=\"_blank\" style=\"color: #007acc; text-decoration: none;\">[186]</a>
+To illustrate this probability: *"Suppose that we take 10^17 silver dollars and lay them on the face of Texas. They will cover all of the state two feet deep. Now mark one of these silver dollars and stir the whole mass thoroughly, all over the state. Blindfold a man and tell him that he can travel as far as he wishes, but he must pick up one silver dollar and say that this is the right one."* <a href="https://pillars.taylor.edu/cgi/viewcontent.cgi?article=1005&context=acms-2024" target="_blank" style="color: #007acc; text-decoration: none;">[186]</a>
 
 <div style="text-align: center;">
 <h3>Cross-Reference Chart of Messianic Prophecies</h3>
@@ -345,38 +355,6 @@ To illustrate this probability: *"Suppose that we take 10^17 silver dollars and 
 </div>
 Each subtopic below examines individual prophecies with their specific Old Testament predictions and New Testament fulfillments. The mathematical impossibility of such precise fulfillment by chance provides overwhelming evidence for divine inspiration and Jesus as the promised Messiah.
   `,
-  verses: [
-    "Isaiah 7:14",
-    "Micah 5:2",
-    "Psalm 22:16",
-    "Isaiah 53:5",
-    "Isaiah 53:12",
-    "Psalm 16:10",
-    "Psalm 22:18",
-    "Psalm 34:20",
-    "Zechariah 9:9",
-    "Zechariah 11:12",
-    "Zechariah 12:10",
-    "Daniel 9:24-27",
-    "Genesis 3:15",
-    "Deuteronomy 18:15",
-    "Psalm 110:1",
-    "Psalm 110:4",
-    "Isaiah 9:1-2",
-    "Isaiah 40:3",
-    "Isaiah 49:6",
-    "Isaiah 50:6",
-    "Isaiah 61:1-2",
-    "Jeremiah 31:15",
-    "Hosea 11:1",
-    "Amos 8:9",
-    "Matthew 24:2",
-    "Luke 21:24",
-    "Daniel 12:4",
-    "2 Timothy 3:1-5",
-    "2 Peter 3:3-4",
-    "Isaiah 52:13-53:12"
-  ],
   sources: [
     "1. The Gospel Coalition - Protoevangelium (Genesis 3:15): https://www.thegospelcoalition.org/themelios/article/the-individual-and-collective-offspring-of-the-woman-the-canonical-outworking-of-genesis-315/",
     "2. Bible.org - Crushing Satan's Head: https://bible.org/article/crushing-satans-head",
