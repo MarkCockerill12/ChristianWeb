@@ -1,8 +1,9 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
-import { BookOpen, ExternalLink, Video, Headphones, GraduationCap } from "lucide-react"
+import { BookOpen, ExternalLink, Video, Headphones, GraduationCap, LifeBuoy } from "lucide-react"
 import Link from "next/link"
+import { BibleVerse } from "@/components/bible-verse"
 
 const resources = {
   books: [
@@ -145,11 +146,9 @@ const resources = {
   ],
 }
 
-
-
 export default function ResourcesPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
+    <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 py-8">
       <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
@@ -159,6 +158,16 @@ export default function ResourcesPage() {
             apologetics and biblical truth.
           </p>
         </div>
+
+        {/* TL;DR Section */}
+        <Card className="mb-8 border-l-4 border-indigo-600 bg-indigo-50">
+          <CardHeader>
+            <CardTitle className="text-xl text-indigo-700">TL;DR</CardTitle>
+            <CardDescription className="text-md text-gray-700">
+              This page provides a curated list of high-quality resources for studying Christian apologetics, historical evidence, and biblical scholarship across various media formats.
+            </CardDescription>
+          </CardHeader>
+        </Card>
 
         {/* Books Section */}
         <section className="mb-12">
@@ -172,9 +181,7 @@ export default function ResourcesPage() {
                 <CardHeader>
                   <div className="flex justify-between items-start mb-2">
                     <Badge variant="secondary">{book.category}</Badge>
-                    <Badge className="secondary">
-                      &quot;Resource&quot;
-                    </Badge>
+                    <Badge variant="secondary">Resource</Badge>
                   </div>
                   <CardTitle className="text-lg">{book.title}</CardTitle>
                   <CardDescription className="text-blue-600 font-medium">by {book.author}</CardDescription>
@@ -316,8 +323,34 @@ export default function ResourcesPage() {
           </div>
         </section>
 
+        {/* Bible Verses Section */}
+        <Card className="mb-12">
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <LifeBuoy className="h-6 w-6 text-indigo-600" />
+              Scriptural Encouragement for Study
+            </CardTitle>
+          </CardHeader>
+          <CardContent>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+              <BibleVerse 
+                verse={{ 
+                  reference: "2 Timothy 2:15", 
+                  text: "Do your best to present yourself to God as one approved, a worker who does not need to be ashamed and who correctly handles the word of truth." 
+                }} 
+              />
+              <BibleVerse 
+                verse={{ 
+                  reference: "Daniel 12:4", 
+                  text: "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge." 
+                }} 
+              />
+            </div>
+          </CardContent>
+        </Card>
+
         {/* Call to Action */}
-        <Card className="bg-gradient-to-r from-blue-600 to-purple-600 text-white">
+        <Card className="bg-linear-to-r from-blue-600 to-purple-600 text-white">
           <CardContent className="py-8 text-center">
             <h3 className="text-2xl font-bold mb-4">Continue Your Journey</h3>
             <p className="mb-6 opacity-90">
@@ -343,4 +376,3 @@ export default function ResourcesPage() {
     </div>
   )
 }
-

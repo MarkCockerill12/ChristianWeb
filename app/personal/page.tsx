@@ -1,10 +1,11 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Heart, BookOpen, Users, Lightbulb, Target } from "lucide-react"
+import { Heart, BookOpen, Users, Lightbulb, Target, Book } from "lucide-react"
+import { BibleVerse } from "@/components/bible-verse"
 
 export default function PersonalPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
+    <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 py-8">
       <div className="container max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
@@ -16,6 +17,16 @@ export default function PersonalPage() {
             My account and reasoning for choosing Christianity.
           </p>
         </div>
+
+        {/* TL;DR Section */}
+        <Card className="mb-8 border-l-4 border-red-500 bg-red-50">
+          <CardHeader>
+            <CardTitle className="text-xl text-red-700">TL;DR</CardTitle>
+            <CardDescription className="text-md text-gray-700">
+              I believe because Christianity is not only personally transformative but also rationally the best explanation for the historical, philosophical, and archaeological evidence we see in the world today.
+            </CardDescription>
+          </CardHeader>
+        </Card>
 
         {/* Personal Story */}
         <Card className="mb-8">
@@ -118,21 +129,40 @@ export default function PersonalPage() {
           </Card>
         </div>
 
-        {/* The Turning Point */}
-        <Card className="mb-8">
+        {/* Bible Verses Section */}
+        <Card className="mb-8 mt-8">
+          <CardHeader>
+            <CardTitle className="flex items-center gap-2">
+              <Book className="h-6 w-6 text-blue-600" />
+              Key Bible Verses
+            </CardTitle>
+          </CardHeader>
           <CardContent>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              
-            </p>
-            <p className="text-gray-700 leading-relaxed mb-4">
-              
-            </p>
-            <div className="bg-blue-50 p-4 rounded-lg mt-4">
-              <p className="text-blue-800 italic">
-                &quot;For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the
-                future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to
-                separate us from the love of God that is in Christ Jesus our Lord.&quot; - Romans 8:38-39
-              </p>
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
+              <BibleVerse 
+                verse={{ 
+                  reference: "Romans 8:38-39", 
+                  text: "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord." 
+                }} 
+              />
+              <BibleVerse 
+                verse={{ 
+                  reference: "Mark 9:24", 
+                  text: "I believe; help my unbelief!" 
+                }} 
+              />
+              <BibleVerse 
+                verse={{ 
+                  reference: "1 Peter 3:15", 
+                  text: "But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect." 
+                }} 
+              />
+              <BibleVerse 
+                verse={{ 
+                  reference: "Jeremiah 29:13", 
+                  text: "You will seek me and find me when you seek me with all your heart." 
+                }} 
+              />
             </div>
           </CardContent>
         </Card>
@@ -170,7 +200,7 @@ export default function PersonalPage() {
         </Card>
 
         {/* Current Perspective */}
-        <Card className="bg-gradient-to-r from-blue-600 to-purple-600 text-white">
+        <Card className="bg-linear-to-r from-blue-600 to-purple-600 text-white">
           <CardContent className="py-8">
             <h3 className="text-2xl font-bold mb-4 text-center">Where I Stand Today</h3>
             <p className="text-center opacity-90 mb-6">
