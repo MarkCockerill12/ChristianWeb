@@ -164,7 +164,7 @@ export default function ResourcesPage() {
           <CardHeader>
             <CardTitle className="text-xl text-indigo-700">TL;DR</CardTitle>
             <CardDescription className="text-md text-gray-700">
-              This page provides a curated list of high-quality resources for studying Christian apologetics, historical evidence, and biblical scholarship across various media formats.
+              A curated list of high-quality resources for studying Christian apologetics, historical evidence, and biblical scholarship across various media formats.
             </CardDescription>
           </CardHeader>
         </Card>

@@ -5,6 +5,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Badge } from "@/components/ui/badge"
 import { Calendar } from "lucide-react"
 import type { TimelineEvent } from "@/topics/types"
+import { badgeClass, dotClass, iconTextClass, railClass } from "@/lib/colors"
 
 interface TimelineProps {
   readonly events: TimelineEvent[]
@@ -25,7 +26,7 @@ export function Timeline({
     <Card className="mb-8">
       <CardHeader>
         <CardTitle className="flex items-center gap-2">
-          <Calendar className={`h-6 w-6 text-${accentColor}-600`} />
+          <Calendar className={`h-6 w-6 ${iconTextClass(accentColor)}`} />
           {title}
         </CardTitle>
         <CardDescription>{description}</CardDescription>
@@ -45,7 +46,7 @@ export function Timeline({
         {/* Timeline Container */}
         <div className="relative py-8">
           {/* Timeline center line (desktop only) */}
-          <div className={`hidden md:block absolute left-34 lg:left-41.5 top-0 bottom-0 w-1 bg-linear-to-b from-${accentColor}-400 to-green-400 z-0 rounded-full`}></div>
+          <div className={`hidden md:block absolute left-34 lg:left-41.5 top-0 bottom-0 w-1 bg-linear-to-b ${railClass(accentColor)} to-green-400 z-0 rounded-full`}></div>
 
           {/* Timeline events */}
           <div className="flex flex-col gap-8 md:gap-12">
@@ -54,7 +55,7 @@ export function Timeline({
                 {/* Mobile Layout */}
                 <div className="block md:hidden">
                   <div className="mb-3">
-                    <span className={`bg-white border-2 border-${event.color}-400 text-${event.color}-700 font-bold px-2 py-1 rounded-full shadow-md text-xs`}>
+                    <span className={`bg-white border-2 ${badgeClass(event.color)} font-bold px-2 py-1 rounded-full shadow-md text-xs`}>
                       {event.date}
                     </span>
                   </div>
@@ -85,13 +86,13 @@ export function Timeline({
                 {/* Desktop Layout */}
                 <div className="hidden md:flex items-center w-full relative">
                   <div className="shrink-0 w-32 lg:w-40 text-right pr-4">
-                    <span className={`bg-white border-2 border-${event.color}-400 text-${event.color}-700 font-bold px-2 lg:px-3 py-1 rounded-full shadow-md text-xs whitespace-nowrap inline-block`}>
+                    <span className={`bg-white border-2 ${badgeClass(event.color)} font-bold px-2 lg:px-3 py-1 rounded-full shadow-md text-xs whitespace-nowrap inline-block`}>
                       {event.date}
                     </span>
                   </div>
                   
                   <div className="absolute left-33 lg:left-40.5 z-10">
-                    <div className={`w-3 h-3 rounded-full border-2 border-white shadow-lg bg-${event.color}-500`}></div>
+                    <div className={`w-3 h-3 rounded-full border-2 border-white shadow-lg ${dotClass(event.color)}`}></div>
                   </div>
                   
                   <div className="flex-1 max-w-4xl ml-8 lg:ml-12">

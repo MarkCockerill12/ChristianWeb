@@ -15,6 +15,7 @@
 
 # next.js
 /.next/
+/.next-dev/
 /out/
 
 # production
@@ -45,3 +46,6 @@ next-env.d.ts
 topics/1check.py
 topics/1fix.py
 topics/1sync.py
+
+# local audit/maintenance scripts
+scripts/
