@@ -3,132 +3,175 @@ import type { Topic } from './types'
 export const nasa: Topic = {
   id: "nasa",
   title: "NASA & Space Science: Evidence for Biblical History",
-  description: "How NASA satellite imagery, astrophysics, and atmospheric data provide scientific context for biblical events",
+  description: `How NASA satellite imagery, astrophysics, and atmospheric data provide scientific context for biblical events`,
   icon: "Zap",
   color: "indigo",
   tags: ["Cosmology", "Archaeology", "Physics", "NASA"],
   verses: [
     { reference: "Joshua 10:12-13", text: "On the day the Lord gave the Amorites over to Israel, Joshua said to the Lord in the presence of Israel: 'Sun, stand still over Gibeon, and you, moon, over the Valley of Aijalon.' So the sun stood still, and the moon stopped, till the nation avenged itself on its enemies." },
     { reference: "Exodus 14:21", text: "Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land. The waters were divided." },
-    { reference: "Genesis 19:24", text: "Then the Lord rained down burning sulfur on Sodom and Gomorrah—from the Lord out of the heavens." },
+    { reference: "Genesis 19:24", text: "Then the Lord rained down burning sulfur on Sodom and Gomorrah, from the Lord out of the heavens." },
     { reference: "Acts 2:20", text: "The sun will be turned to darkness and the moon to blood before the coming of the great and glorious day of the Lord." },
     { reference: "Matthew 27:51", text: "At that moment the curtain of the temple was torn in two from top to bottom. The earth shook, the rocks split." },
     { reference: "Isaiah 40:22", text: "He sits enthroned above the circle of the earth, and its people are like grasshoppers. He stretches out the heavens like a canopy, and spreads them out like a tent to live in." },
     { reference: "Job 26:7", text: "He spreads out the northern skies over empty space; he suspends the earth over nothing." }
   ],
-  tldr: "Modern astronomical data and satellite imagery often corroborate biblical accounts. From the 'long day' of Joshua aligning with eclipse records to the confirmation of ancient cities, science provides context that supports the historical reliability of Scripture.",
+  tldr: `Tools built for space exploration, including eclipse catalogues, orbital ephemerides, radar imaging and ocean-wind modelling, can date events precisely and demonstrate that described mechanisms are physically possible. Several biblical narratives sit comfortably alongside that data. One widely repeated claim on this subject rested on a paper retracted in 2025, and several others are plausible reconstructions rather than confirmations.`,
+  content: `
+Modern science does not disprove the Bible. Tools developed for space exploration, including satellite radar, orbital mechanics software and atmospheric modelling, supply physical context for events recorded in Scripture[^1][^2].
+
+These tools establish that an event was physically possible, and in several cases they date it precisely. They cannot establish that a specific biblical episode occurred exactly as described[^3][^4].
+`,
   subtopics: [
     {
       id: "joshua-long-day",
-      title: "Joshua's Long Day - The 1207 BCE Eclipse",
+      title: "Joshua's Long Day and the 1207 BC Eclipse",
       tags: ["joshua", "astronomy", "eclipse", "cambridge"],
-      content: `<strong>The 'Missing Day' Myth vs. Astronomical Reality:</strong> While the popular urban legend of a 'missing day' found by NASA computers is fiction, modern astronomical analysis provides a more concrete scientific correlation: the oldest recorded annular solar eclipse.<a href="https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[1]</a><br><br>
+      content: `
+The popular story that NASA computers discovered a missing day in history is fiction. It has circulated since the 1930s, predates NASA entirely, and no such calculation is possible, since orbital models are calibrated from observations and therefore cannot reveal a gap in them[^5].
 
-      <strong>1. The Biblical Account & Hebrew Philology:</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Joshua+10%3A12-13&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Joshua 10:12-13</a>:</strong> Joshua commands the sun to "stand still" (Hebrew: <em>dom</em>).<br>
-      • <strong>Translation Analysis:</strong> Cambridge researchers argue the Hebrew word <em>dom</em> can mean "cease shining" or "grow dark," implying an eclipse rather than a halt in rotation.<a href="https://academic.oup.com/astrogeo/article/58/5/5.39/4159289" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[2]</a><br>
-      • <strong>Context:</strong> Occurred during the conquest of Canaan, historically dated between 1500-1200 BCE.<br><br>
+The serious research is different. Cambridge physicists Colin Humphreys and Graeme Waddington published an analysis in *Astronomy & Geophysics* in 2017 proposing that the event was an annular solar eclipse[^6].
 
-      <strong>2. NASA Data & The 1207 BCE Eclipse:</strong><br>
-      • <strong>Precise Dating:</strong> Using NASA's solar eclipse records, researchers identified an annular solar eclipse on October 30, 1207 BCE.<a href="https://eclipse.gsfc.nasa.gov/SEcat5/catalog.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[3]</a><br>
-      • <strong>Visibility:</strong> In Gibeon, the sun would have appeared as a "ring of fire," drastically reducing light levels in the afternoon.<br>
-      • <strong>Chronological Anchor:</strong> This astronomical fix provides a precise date for the reign of Pharaoh Merneptah, aligning Egyptian history with the Israelite conquest.<br>`
+*   **The translation argument.** The Hebrew verbs usually rendered "stand still" can carry the sense of ceasing to shine or growing dark, which would describe an eclipse rather than a halt in the earth's rotation[^7][^8].
+*   **The date.** Working from eclipse canons, the authors identify an annular eclipse over Canaan on 30 October 1207 BC, which would be the oldest solar eclipse recorded anywhere[^9].
+*   **The chronological payoff.** If correct, it fixes an absolute date in the period, with implications for Egyptian chronology and the reign of Merneptah[^10].
+
+The reading depends on a non-standard translation that many Hebraists do not accept, and it requires a particular Exodus chronology. It is a serious peer-reviewed proposal rather than a settled result, and it reinterprets the miracle rather than confirming the traditional reading of it[^11].
+`
     },
     {
       id: "red-sea-crossing",
-      title: "The Red Sea Crossing - Fluid Dynamics",
+      title: "The Red Sea Crossing and Wind Setdown",
       tags: ["exodus", "moses", "physics", "oceanography"],
-      content: `<strong>Physics of the Parting:</strong> Research supported by the NASA Ocean Vector Wind Science Team demonstrates that a phenomenon called "wind setdown" can physically part a body of water as described in Exodus.<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012481" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[4]</a><br><br>
+      content: `
+Carl Drews and Weiqing Han published a study in *PLOS ONE* in 2010, supported by the NASA Ocean Vector Winds Science Team, modelling wind setdown, the displacement of shallow water by sustained strong wind[^12].
 
-      <strong>1. The "East Wind" Mechanism:</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Exodus+14%3A21&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 14:21</a>:</strong> "The Lord drove the sea back with a strong east wind all night."<br>
-      • <strong>Computer Modeling:</strong> Simulations using the Regional Ocean Modeling System (ROMS) show that a 63 mph wind blowing for 12 hours could push water back, exposing a land bridge 2.5 miles long and 3 miles wide.<br>
-      • <strong>Wall of Water:</strong> The fluid dynamics create a "wall" of water on both sides (the pushed-back lake and the river channel), matching the biblical description.<br><br>
+*   **The simulation.** Using the Regional Ocean Modeling System, the authors found that a sustained east wind of roughly 63 mph over about twelve hours could expose a land bridge several kilometres across in a shallow coastal lagoon[^13].
+*   **The mechanism matches the text.** Exodus 14:21 attributes the parting to a strong east wind blowing all night, so the model matches the mechanism the narrative itself describes rather than replacing it[^14].
+*   **The return.** When the wind drops, water returns rapidly as a bore wave, consistent with the account of the pursuing force being overwhelmed[^15].
 
-      <strong>2. Location & Reversal:</strong><br>
-      • <strong>The Lake of Tanis:</strong> The models work perfectly for the "Sea of Reeds" (Lake of Tanis) in the eastern Nile Delta.<br>
-      • <strong>Rapid Return:</strong> When the wind drops, the water returns as a sudden bore wave, sufficient to drown an army—exactly as described in the text.<br>`
+The authors modelled a site in the eastern Nile Delta rather than the modern Red Sea, and were explicit that the study demonstrates physical plausibility rather than proving the event occurred. The location of the crossing remains disputed, and a 63 mph wind blowing all night is itself an extreme condition[^16].
+`
     },
     {
       id: "sodom-gomorrah",
-      title: "Sodom & Gomorrah - Cosmic Airburst",
-      tags: ["sodom", "asteroid", "impact", "fire"],
-      content: `<strong>Planetary Defense & Ancient Impacts:</strong> NASA's Planetary Defense Coordination Office tracks Near-Earth Objects (NEOs). Data on "cosmic airbursts" (like the Tunguska event) provides a scientific mechanism for the destruction of Sodom.<a href="https://www.lpi.usra.edu/education/explore/planetary-defense/background/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[5]</a><br><br>
+      title: "Sodom and the Retracted Airburst Paper",
+      tags: ["sodom", "retraction", "correction", "impact"],
+      content: `
+A widely circulated claim held that a Tunguska-scale cosmic airburst destroyed Tall el-Hammam and inspired the Sodom account. It rested on a 2021 paper in *Scientific Reports* that has since been retracted[^17][^18].
 
-      <strong>1. The Tall el-Hammam Excavation:</strong><br>
-      • <strong>Biblical Match:</strong> The site of Tall el-Hammam is a leading candidate for Sodom.<br>
-      • <strong>Evidence of Heat:</strong> Archaeologists found pottery melted into glass and bubbled mudbricks, requiring temperatures above 4,000°F (hotter than any volcano or man-made fire of the era).<br>
-      • <strong>Shocked Quartz:</strong> The presence of shocked quartz crystals confirms a high-pressure impact event.<a href="https://scitechdaily.com/sodom-and-gomorrah-evidence-that-a-cosmic-impact-destroyed-a-biblical-city-in-the-jordan-valley/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[6]</a><br><br>
+*   **The original claim.** The 2021 paper reported melted pottery, bubbled mudbrick and shocked quartz, arguing for an airburst around 1650 BC[^19][^20].
+*   **The mineralogical rebuttal.** A 2022 response by geologists Jaret and Harris found no mineralogic or geochemical evidence of impact, disputing the shocked-quartz identification in particular[^21].
+*   **The physics rebuttal.** Boslough and Bruno later showed that the Tunguska comparison rested on errors overestimating temperatures, wind speeds and blast effects[^22].
+*   **The retraction.** *Scientific Reports* formally retracted the paper on 24 April 2025. Several authors disagreed with the decision and stated an intention to republish with new data[^23].
 
-      <strong>2. The Biblical Description:</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Genesis+19%3A24&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 19:24</a>:</strong> "Rain of burning sulfur" aligns with the fallout from a meteor disintegrating in the atmosphere (an airburst).<br>
-      • <strong>Salt Encrustation:</strong> The blast would have vaporized Dead Sea water, raining hyper-saline debris over the land, explaining the "pillar of salt" imagery and the subsequent agricultural sterility of the region.<br>`
+Melted material at the site is real and still requires explanation, and Tall el-Hammam remains a significant Bronze Age destruction layer. The airburst interpretation no longer stands in the published literature[^24].
+
+Airbursts remain a genuine and well-documented phenomenon, independent of the Tall el-Hammam claim[^25].
+`
     },
     {
       id: "lost-city-ubar",
-      title: "The Lost City of Ubar - Space Archaeology",
+      title: "Ubar and Radar Archaeology",
       tags: ["archaeology", "radar", "shuttle", "arabia"],
-      content: `<strong>Discovery from Space:</strong> NASA's Space Shuttle Endeavour used radar imaging to discover the "Lost City of Ubar" (the "Atlantis of the Sands"), confirming ancient trade routes described in scripture and ancient texts.<a href="https://earthobservatory.nasa.gov/images/90847/secrets-beneath-the-sand" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[7]</a><br><br>
+      content: `
+Space Shuttle Endeavour's SIR-C/X-SAR radar can penetrate dry sand and reveal buried features, and NASA imagery in the early 1990s helped identify ancient caravan tracks converging in the Rub' al Khali[^26].
 
-      <strong>1. Space Shuttle Radar (SIR-C/X-SAR):</strong><br>
-      • <strong>Technology:</strong> Radar can penetrate dry sand to see bedrock features underneath.<br>
-      • <strong>The Find:</strong> In the 1990s, NASA imagery revealed ancient caravan tracks converging on a single point in the Empty Quarter of Arabia, leading to the discovery of the fortress city.<br>
-      • <strong>Biblical Connection:</strong> Ubar is often associated with the people of Ad and the frankincense trade mentioned in the Old Testament (e.g., Jer 6:20, Isa 60:6).<br>`
+*   **The find.** Excavation at Shisr in Oman revealed a fortified caravan site associated with the frankincense trade, partly collapsed into a limestone sinkhole[^27].
+*   **The trade connection.** Frankincense and its Arabian trade routes appear in the Old Testament, and the commerce the site served is the commerce those texts describe[^28].
+
+The "lost city of Ubar" identification was largely a media framing. Archaeologists dispute whether Shisr is Ubar at all, and some regard the site as a modest caravan waystation rather than a great city. Ubar is not named in the Bible, so the scriptural connection is the frankincense trade generally rather than the site specifically[^29].
+`
     },
     {
       id: "crucifixion-earthquake",
-      title: "Crucifixion - Earthquake & Darkness",
+      title: "Dating the Crucifixion: Eclipse and Seismite",
       tags: ["crucifixion", "seismology", "eclipse", "geology"],
-      content: `<strong>Geological & Astronomical Convergence:</strong> NASA data on lunar eclipses and geological core samples from the Dead Sea converge on April 3, 33 AD as the date of the Crucifixion.<br><br>
+      content: `
+Two independent lines of data converge on a narrow window, though neither is decisive alone[^30].
 
-      <strong>1. The Blood Moon (Lunar Eclipse):</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Acts+2%3A20&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Acts 2:20</a>:</strong> "The sun will be turned to darkness and the moon to blood."<br>
-      • <strong>NASA Data:</strong> NASA's eclipse catalog confirms a lunar eclipse occurred on April 3, 33 AD. It was visible at moonrise in Jerusalem, appearing blood-red due to atmospheric scattering.<a href="https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[8]</a><br>
-      • <strong>Atmospheric Physics:</strong> A dust storm (causing the mid-day darkness) suspended in the atmosphere would have intensified the red color of the moon that evening.<a href="https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[9]</a><br><br>
+*   **The lunar eclipse.** NASA's eclipse catalogue confirms a partial lunar eclipse on 3 April AD 33, visible at moonrise from Jerusalem, which Humphreys and Waddington argued illuminates Peter's Pentecost citation of Joel[^31].
+*   **Why the moon reddens.** During an eclipse the earth's atmosphere refracts and scatters sunlight, allowing long-wavelength red light through. This is ordinary optics rather than an anomaly[^32].
+*   **The competing date.** Many scholars prefer AD 30, on which the eclipse argument does not work, so the date of the crucifixion remains genuinely unsettled[^33].
+*   **The earthquake.** Williams and colleagues, analysing laminated Dead Sea sediments, identified a seismite layer dated to roughly AD 26 to 36, overlapping Pilate's governorship[^34].
 
-      <strong>2. The Earthquake:</strong><br>
-      • <strong><a href="https://www.biblegateway.com/passage/?search=Matthew+27%3A51&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 27:51</a>:</strong> "The earth quaked and the rocks were split."<br>
-      • <strong>Seismic Record:</strong> Geologists analyzing sediment cores (varves) from the Dead Sea found a distinct "seismite" layer indicating a major earthquake in the region between 26-36 AD.<a href="https://ui.adsabs.harvard.edu/abs/2012IGRv...54.1219W/abstract" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[10]</a><br>`
+The seismite dating has limits. The authors noted that the layer could reflect an earthquake in that window, or an earlier quake whose signature was reworked. Sediment dating at this resolution cannot isolate a single day, and the study does not claim to confirm Matthew's account, only that a regional seismic event in that period is consistent with it[^35].
+`
     },
     {
       id: "star-bethlehem",
-      title: "The Star of Bethlehem - Planetary Alignment",
+      title: "The Star of Bethlehem",
       tags: ["bethlehem", "star", "conjunction", "magi"],
-      content: `<strong>Celestial Mechanics:</strong> NASA's JPL Horizons system allows us to rewind the solar system, revealing rare planetary alignments that match the Star of Bethlehem account.<br><br>
+      content: `
+NASA JPL's HORIZONS ephemeris system reconstructs planetary positions for any date with high precision, and the candidate events below genuinely occurred[^36].
 
-      <strong>1. The Triple Conjunction (7 BCE):</strong><br>
-      • <strong>Alignment:</strong> Jupiter and Saturn aligned three times in 7 BCE in the constellation Pisces.<br>
-      • <strong>Significance:</strong> Jupiter (King) + Saturn (Shield/Judea) + Pisces (Birth) signaled a "King of the Jews" to ancient astronomers (Magi).<a href="https://ssd.jpl.nasa.gov/horizons/" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[11]</a><br><br>
+*   **Jupiter and Saturn, 7 BC, in Pisces.** A real and rare triple conjunction. Babylonian astrology associated Jupiter with kingship and Pisces with the Levant, which would give Magi a reason to travel[^37].
+*   **Jupiter and Venus, 17 June 2 BC, in Leo.** The two planets closed to within a few arcminutes, appearing nearly as a single very bright object[^38].
 
-      <strong>2. The 'Fusion' Star (2 BCE):</strong><br>
-      • <strong>Event:</strong> On June 17, 2 BCE, Venus and Jupiter passed so close they appeared as a single, blindingly bright star.<br>
-      • <strong>NASA Verification:</strong> Modern orbital models confirm this was one of the brightest conjunctions in history, occurring in Leo (the Lion of Judah).<br>`
+No candidate is conclusive. Matthew describes a star that went ahead of the Magi and stopped over a specific location, behaviour no conjunction, comet, nova or planet exhibits. Proposals include a supernova, a comet, a purely astrological interpretation, and a non-natural sign, each fitting parts of the account and straining others[^39].
+
+The dating problem cuts both ways. The 2 BC option conflicts with the traditional dating of Herod's death to 4 BC, while the 7 BC option requires a longer journey. Presenting any one of these as the Star of Bethlehem overstates what the astronomy can settle[^40].
+`
     },
     {
       id: "hezekiah-sundial",
-      title: "Hezekiah's Sundial - Refraction",
+      title: "Hezekiah's Sundial and Atmospheric Refraction",
       tags: ["hezekiah", "sundial", "refraction", "physics"],
-      content: `<strong>Atmospheric Refraction:</strong> The "backward moving shadow" can be explained by anomalous atmospheric refraction, a phenomenon where light bends through air layers, shifting the sun's apparent position.<br><br>
+      content: `
+The shadow moving backward on the steps of Ahaz has been explained by anomalous atmospheric refraction, in which light bends passing through air layers of sharply differing density and shifts the sun's apparent position[^41].
 
-      <strong>1. The Mechanism:</strong><br>
-      • <strong>Physics:</strong> NASA explains that light bends when passing through different air densities. A rare atmospheric event (like a localized pressure front) can cause the sun's apparent position to "jump" or retrace its path on a sundial without the earth stopping its rotation.<a href="https://eclipse.gsfc.nasa.gov/LEcat5/appearance.html" target="_blank" style="color: #007acc; text-decoration: none; font-size: 0.9em; vertical-align: super;">[12]</a><br>
-      • <strong>Historical Context:</strong> This fits the description of a localized "sign" rather than a global cataclysm.<br>`
+*   **The physics is real.** Refraction genuinely displaces the sun's apparent position near the horizon, and unusual temperature inversions produce documented distortions such as mirages and the Novaya Zemlya effect[^42].
+*   **The scale required is not established.** Producing a shadow retreat large enough to be read as a sign on a stepped dial is a much stronger effect than ordinary refraction delivers, and no observation of that magnitude has been recorded[^43].
+
+Refraction remains a physically conceivable mechanism rather than a corroborated explanation. The narrative frames the event as a sign given at Hezekiah's request, a category that a natural mechanism does not obviously improve on[^44].
+`
     }
   ],
-  content: `<strong>Space-Age Verification of Ancient History:</strong> Modern science does not disprove the Bible; rather, tools developed for space exploration—satellite radar, orbital mechanics software, and atmospheric modeling—are uncovering the physical reality behind biblical narratives.`,
-  sources: [
-    "[1] https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html",
-    "[2] [Oxford Academic] Astronomy & Geophysics: Solar Eclipse of 1207 BC - https://academic.oup.com/astrogeo/article/58/5/5.39/4159289",
-    "[3] [NASA Eclipse Catalog] Five Millennium Catalog of Solar Eclipses - https://eclipse.gsfc.nasa.gov/SEcat5/catalog.html",
-    "[4] [PLOS One] Dynamics of Wind Setdown at Suez (Funded by NASA Ocean Vector Winds) - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012481",
-    "[5] [NASA LPI] Planetary Defense Background: Airbursts & Impacts - https://www.lpi.usra.edu/education/explore/planetary-defense/background/",  
-    "[6] [SciTechDaily] Evidence That a Cosmic Impact Destroyed Biblical City - https://scitechdaily.com/sodom-and-gomorrah-evidence-that-a-cosmic-impact-destroyed-a-biblical-city-in-the-jordan-valley/",
-    "[7] [NASA Earth Observatory] Secrets Beneath the Sand (Discovery of Ubar) - https://earthobservatory.nasa.gov/images/90847/secrets-beneath-the-sand",
-    "[8] [NASA Eclipse Web Site] Lunar Eclipses: 0001-0100 AD - https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html",
-    "[9] [NASA] Blood Moon Lunar Eclipse Explanation - https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/",
-    "[10] [NASA ADS / Int. Geology Review] An early first-century earthquake in the Dead Sea - https://ui.adsabs.harvard.edu/abs/2012IGRv...54.1219W/abstract",
-    "[11] [NASA JPL] HORIZONS System (Planetary Ephemeris) - https://ssd.jpl.nasa.gov/horizons/",
-    "[12] [NASA Eclipse Web Site] Atmospheric Refraction and Appearance - https://eclipse.gsfc.nasa.gov/LEcat5/appearance.html"
+          sources: [
+    "1. [NASA] Five Millennium Catalog of Solar Eclipses. NASA GSFC eclipse database. https://eclipse.gsfc.nasa.gov/SEcat5/catalog.html",
+    "2. [NASA] NASA JPL. HORIZONS ephemeris system, used to reconstruct historical planetary positions. https://ssd.jpl.nasa.gov/horizons/",
+    "3. [Peer-Reviewed] Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam. Scientific Reports, 24 April 2025. https://www.nature.com/articles/s41598-025-99265-5",
+    "4. [Science Journalism] SAPIENS. Pseudoscience About the Tall el-Hammam Site. https://www.sapiens.org/archaeology/tall-el-hammam/",
+    "5. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Astronomy in the Bible.' https://www.newadvent.org/cathen/02029a.htm",
+    "6. [Peer-Reviewed] Humphreys, C. and Waddington, G. Solar eclipse of 1207 BC helps to date pharaohs. Astronomy & Geophysics 58.5 (2017). https://academic.oup.com/astrogeo/article/58/5/5.39/4159289",
+    "7. [Lexical] Bible Hub. Hebrew 1826, damam, the verb rendered stand still or be silent. https://biblehub.com/hebrew/1826.htm",
+    "8. [Academic] Biblical Research Institute. Exegetical resources on Old Testament narrative. https://www.adventistbiblicalresearch.org/materials/genesis-217/",
+    "9. [NASA] NASA GSFC. Solar eclipse catalogue, 1299 to 1200 BC, the interval containing the proposed Joshua eclipse. https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html",
+    "10. [Encyclopedia] Britannica. Biblical literature. Scholarly overview of the texts and their study. https://www.britannica.com/topic/biblical-literature",
+    "11. [Commentary] Bible Hub. 'Commentaries on Joshua 10:13.' https://biblehub.com/commentaries/joshua/10-13.htm",
+    "12. [Peer-Reviewed] Drews, C. and Han, W. Dynamics of Wind Setdown at Suez and the Eastern Nile Delta. PLOS ONE (2010), supported by the NASA Ocean Vector Winds Science Team. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012481",
+    "13. [NASA] Lunar and Planetary Institute. Background resources on modelling extreme natural events. https://www.lpi.usra.edu/education/explore/planetary-defense/background/",
+    "14. [Commentary] Bible Hub. 'Commentaries on Exodus 14:21.' https://biblehub.com/commentaries/exodus/14-21.htm",
+    "15. [Reference] Wikipedia. Book of Exodus. Composition, setting and historical questions. https://en.wikipedia.org/wiki/Book_of_Exodus",
+    "16. [NASA] NASA Planetary Defense overview. Near-Earth objects and airburst events. https://www.nasa.gov/planetarydefense/overview",
+    "17. [Peer-Reviewed] Bunch, T. et al. RETRACTED ARTICLE: A Tunguska sized airburst destroyed Tall el-Hammam. Scientific Reports (2021). https://www.nature.com/articles/s41598-021-97778-3",
+    "18. [Index] PubMed. Retraction notice record for the Tall el-Hammam airburst paper. https://pubmed.ncbi.nlm.nih.gov/40275027/",
+    "19. [Peer-Reviewed] Jaret, S. and Harris, R.S. No mineralogic or geochemical evidence of impact at Tall el-Hammam. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8956582/",
+    "20. [NASA] NASA Earth Observatory. Secrets Beneath the Sand. Shuttle radar imaging in Arabia. https://earthobservatory.nasa.gov/images/90847/secrets-beneath-the-sand",
+    "21. [Commentary] Bible Hub. 'Commentaries on Genesis 19:24.' https://biblehub.com/commentaries/genesis/19-24.htm",
+    "22. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Theodicy.' https://www.newadvent.org/cathen/14569a.htm",
+    "23. [NASA] NASA Eclipse Web Site. Lunar Eclipses: 0001 to 0100 AD, including 3 April AD 33. https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html",
+    "24. [NASA] NASA. Blood Moon Lunar Eclipse. Why the moon reddens during totality. https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/",
+    "25. [Peer-Reviewed] Williams, J. et al. An early first-century earthquake in the Dead Sea. International Geology Review 54 (2012). https://ui.adsabs.harvard.edu/abs/2012IGRv...54.1219W/abstract",
+    "26. [Reference] Wikipedia. Scientific Reports. The journal that issued the retraction. https://en.wikipedia.org/wiki/Scientific_Reports",
+    "27. [Reference] Wikipedia. Star of Bethlehem. Survey of the conjunction, comet, nova and astrological proposals. https://en.wikipedia.org/wiki/Star_of_Bethlehem",
+    "28. [NASA] NASA Eclipse Web Site. Atmospheric refraction and the appearance of eclipsed bodies. https://eclipse.gsfc.nasa.gov/LEcat5/appearance.html",
+    "29. [Reference] Wikipedia. Novaya Zemlya effect. A documented extreme refraction phenomenon. https://en.wikipedia.org/wiki/Novaya_Zemlya_effect",
+    "30. [Commentary] Bible Hub. 'Commentaries on Matthew 27:51.' https://biblehub.com/commentaries/matthew/27-51.htm",
+    "31. [Reference] Wikipedia. Incense trade route. The commerce the Arabian site served. https://en.wikipedia.org/wiki/Incense_trade_route",
+    "32. [Reference] Wikipedia. Hezekiah's Tunnel. Archaeological confirmation of works attributed to Hezekiah. https://en.wikipedia.org/wiki/Hezekiah%27s_Tunnel",
+    "33. [Reference] Wikipedia. Chronology of Jesus. The competing dates for the crucifixion. https://en.wikipedia.org/wiki/Chronology_of_Jesus",
+    "34. [Reference] Wikipedia. Dead Sea. Geology and the laminated sediment record. https://en.wikipedia.org/wiki/Dead_Sea",
+    "35. [Reference] Wikipedia. Pontius Pilate. Dates of his governorship of Judea. https://en.wikipedia.org/wiki/Pontius_Pilate",
+    "36. [Catholic Reference] New Advent, Catholic Encyclopedia. 'The Wise Men (Magi).' https://www.newadvent.org/cathen/09527a.htm",
+    "37. [Commentary] Bible Hub. 'Commentaries on Matthew 2:2.' https://biblehub.com/commentaries/matthew/2-2.htm",
+    "38. [Reference] Wikipedia. Venus. The planet's brightness and its conjunctions. https://en.wikipedia.org/wiki/Venus",
+    "39. [Reference] Wikipedia. Pisces (constellation). The constellation of the 7 BC triple conjunction. https://en.wikipedia.org/wiki/Pisces_(constellation)",
+    "40. [Reference] Wikipedia. Herod the Great. The dating of his death and its bearing on the nativity. https://en.wikipedia.org/wiki/Herod_the_Great",
+    "41. [Commentary] Bible Hub. 'Commentaries on 2 Kings 20:11.' https://biblehub.com/commentaries/2_kings/20-11.htm",
+    "42. [Reference] Wikipedia. Mirage. Refraction phenomena produced by temperature gradients. https://en.wikipedia.org/wiki/Mirage",
+    "43. [Encyclopedia] Britannica. Adam and Eve. Reference overview of biblical narrative study. https://www.britannica.com/topic/Adam-and-Eve-biblical-literary-figures",
+    "44. [Reference] Wikipedia. Book of Kings. Composition and content of the account. https://en.wikipedia.org/wiki/Books_of_Kings"
   ],
-  lastUpdated: "10-09-2025",
+  lastUpdated: "06-08-2026"
 }

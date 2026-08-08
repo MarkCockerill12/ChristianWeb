@@ -284,6 +284,74 @@ const periods = [
   "New Testament",
 ]
 
+type TimelinePageEvent = (typeof timelineEvents)[number]
+
+/** One event card. Shared by the mobile and desktop layouts. */
+function TimelineEventCard({
+  event,
+  expanded,
+  onToggle,
+}: {
+  readonly event: TimelinePageEvent
+  readonly expanded: boolean
+  readonly onToggle: () => void
+}) {
+  return (
+    <Card className="hover:shadow-lg transition-shadow duration-300">
+      <CardHeader className="pb-3">
+        <div>
+          <CardTitle className="text-lg">{event.title}</CardTitle>
+          <div className="flex items-center gap-4 text-sm text-gray-600 mt-1">
+            <Badge variant="secondary" className="text-xs">
+              {event.period}
+            </Badge>
+          </div>
+        </div>
+        <CardDescription className="text-sm">{event.description}</CardDescription>
+      </CardHeader>
+      <CardContent className="pt-0">
+        <div className="space-y-3">
+          <div>
+            <h4 className="font-semibold text-xs text-gray-700 mb-1 flex items-center gap-1">
+              <BookOpen className="h-3 w-3" />
+              Key Verses
+            </h4>
+            <div className="flex flex-wrap gap-1">
+              {event.verses.map((verse) => (
+                <Badge key={verse} variant="outline" className="text-xs px-2 py-0">
+                  {verse}
+                </Badge>
+              ))}
+            </div>
+          </div>
+
+          <div>
+            <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
+            <p className="text-xs text-gray-600">{event.significance}</p>
+          </div>
+
+          <div>
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={onToggle}
+              aria-expanded={expanded}
+              className="p-0 h-auto font-semibold text-xs text-blue-600 hover:text-blue-800"
+            >
+              Archaeological Evidence {expanded ? "▼" : "▶"}
+            </Button>
+            {expanded && (
+              <div className="mt-2 p-2 bg-blue-50 rounded-lg">
+                <p className="text-xs text-gray-700">{event.archaeological}</p>
+              </div>
+            )}
+          </div>
+        </div>
+      </CardContent>
+    </Card>
+  )
+}
+
 export default function TimelinePage() {
   const [selectedPeriod, setSelectedPeriod] = useState("All")
   const [expandedEvent, setExpandedEvent] = useState<number | null>(null)
@@ -304,7 +372,7 @@ export default function TimelinePage() {
   })
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50 py-8">
+    <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 py-8">
       <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center mb-12">
@@ -343,142 +411,32 @@ export default function TimelinePage() {
         {/* Timeline */}
         <div className="relative py-8">
           {/* Timeline line - positioned to avoid date overlap */}
-          <div className="hidden md:block absolute left-[136px] lg:left-[166px] top-0 bottom-0 w-1 bg-gradient-to-b from-purple-400 to-blue-400 z-0 rounded-full"></div>
+          <div className="hidden md:block absolute left-[136px] lg:left-[166px] top-0 bottom-0 w-1 bg-linear-to-b from-purple-400 to-blue-400 z-0 rounded-full"></div>
 
           {/* Timeline events */}
           <div className="flex flex-col gap-8 md:gap-16">
             {filteredEvents.map((event) => (
-              <div key={event.id} className="relative">
-                {/* Mobile Layout - only on screens smaller than md */}
-                <div className="block md:hidden">
-                  <div className="mb-3">
-                    <span className="bg-white border-2 border-blue-400 text-blue-700 font-bold px-2 py-1 rounded-full shadow-md text-xs">
-                      {event.date}
-                    </span>
-                  </div>
-                  <Card className="hover:shadow-lg transition-shadow duration-300">
-                    <CardHeader className="pb-3">
-                      <div className="flex flex-col gap-2">
-                        <div>
-                          <CardTitle className="text-lg">{event.title}</CardTitle>
-                          <div className="flex items-center gap-4 text-sm text-gray-600 mt-1">
-                            <Badge variant="secondary" className="text-xs">{event.period}</Badge>
-                          </div>
-                        </div>
-                      </div>
-                      <CardDescription className="text-sm">{event.description}</CardDescription>
-                    </CardHeader>
-                    <CardContent className="pt-0">
-                      <div className="space-y-3">
-                        {/* Bible verses */}
-                        <div>
-                          <h4 className="font-semibold text-xs text-gray-700 mb-1 flex items-center gap-1">
-                            <BookOpen className="h-3 w-3" />
-                            Key Verses
-                          </h4>
-                          <div className="flex flex-wrap gap-1">
-                            {event.verses.map((verse) => (
-                              <Badge key={verse} variant="outline" className="text-xs px-2 py-0">
-                                {verse}
-                              </Badge>
-                            ))}
-                          </div>
-                        </div>
-                        {/* Significance */}
-                        <div>
-                          <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
-                          <p className="text-xs text-gray-600">{event.significance}</p>
-                        </div>
-                        {/* Expandable archaeological evidence */}
-                        <div>
-                          <Button
-                            variant="ghost"
-                            size="sm"
-                            onClick={() => setExpandedEvent(expandedEvent === event.id ? null : event.id)}
-                            className="p-0 h-auto font-semibold text-xs text-blue-600 hover:text-blue-800"
-                          >
-                            Archaeological Evidence {expandedEvent === event.id ? "▼" : "▶"}
-                          </Button>
-                          {expandedEvent === event.id && (
-                            <div className="mt-2 p-2 bg-blue-50 rounded-lg">
-                              <p className="text-xs text-gray-700">{event.archaeological}</p>
-                            </div>
-                          )}
-                        </div>
-                      </div>
-                    </CardContent>
-                  </Card>
+              <div key={event.id} className="relative md:flex md:items-center md:w-full">
+                {/* Date badge: above the card on mobile, in a fixed column on desktop */}
+                <div className="mb-3 md:mb-0 md:flex-shrink-0 md:w-32 lg:w-40 md:text-right md:pr-4">
+                  <span className="bg-white border-2 border-blue-400 text-blue-700 font-bold px-2 lg:px-3 py-1 rounded-full shadow-md text-xs whitespace-nowrap inline-block">
+                    {event.date}
+                  </span>
                 </div>
 
-                {/* Desktop Layout - fixed positioning to prevent overlapping */}
-                <div className="hidden md:flex items-center w-full relative">
-                  {/* Date badge - fixed width with proper spacing */}
-                  <div className="flex-shrink-0 w-32 lg:w-40 text-right pr-4">
-                    <span className="bg-white border-2 border-blue-400 text-blue-700 font-bold px-2 lg:px-3 py-1 rounded-full shadow-md text-xs whitespace-nowrap inline-block">
-                      {event.date}
-                    </span>
-                  </div>
-                  
-                  {/* Timeline dot - centered on the line */}
-                  <div className="absolute left-[132px] lg:left-[162px] z-10">
-                    <div className="w-3 h-3 rounded-full border-2 border-white shadow-lg bg-black"></div>
-                  </div>
-                  
-                  {/* Event card - positioned after dot with margin */}
-                  <div className="flex-1 max-w-4xl ml-8 lg:ml-12">
-                    <Card className="hover:shadow-lg transition-shadow duration-300">
-                      <CardHeader className="pb-3">
-                        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
-                          <div>
-                            <CardTitle className="text-lg">{event.title}</CardTitle>
-                            <div className="flex items-center gap-4 text-sm text-gray-600 mt-1">
-                              <Badge variant="secondary" className="text-xs">{event.period}</Badge>
-                            </div>
-                          </div>
-                        </div>
-                        <CardDescription className="text-sm">{event.description}</CardDescription>
-                      </CardHeader>
-                      <CardContent className="pt-0">
-                        <div className="space-y-3">
-                          {/* Bible verses */}
-                          <div>
-                            <h4 className="font-semibold text-xs text-gray-700 mb-1 flex items-center gap-1">
-                              <BookOpen className="h-3 w-3" />
-                              Key Verses
-                            </h4>
-                            <div className="flex flex-wrap gap-1">
-                              {event.verses.map((verse) => (
-                                <Badge key={verse} variant="outline" className="text-xs px-2 py-0">
-                                  {verse}
-                                </Badge>
-                              ))}
-                            </div>
-                          </div>
-                          {/* Significance */}
-                          <div>
-                            <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
-                            <p className="text-xs text-gray-600">{event.significance}</p>
-                          </div>
-                          {/* Expandable archaeological evidence */}
-                          <div>
-                            <Button
-                              variant="ghost"
-                              size="sm"
-                              onClick={() => setExpandedEvent(expandedEvent === event.id ? null : event.id)}
-                              className="p-0 h-auto font-semibold text-xs text-blue-600 hover:text-blue-800"
-                            >
-                              Archaeological Evidence {expandedEvent === event.id ? "▼" : "▶"}
-                            </Button>
-                            {expandedEvent === event.id && (
-                              <div className="mt-2 p-2 bg-blue-50 rounded-lg">
-                                <p className="text-xs text-gray-700">{event.archaeological}</p>
-                              </div>
-                            )}
-                          </div>
-                        </div>
-                      </CardContent>
-                    </Card>
-                  </div>
+                {/* Timeline dot, centred on the rail (desktop only) */}
+                <div className="hidden md:block absolute left-[132px] lg:left-[162px] z-10">
+                  <div className="w-3 h-3 rounded-full border-2 border-white shadow-lg bg-black"></div>
+                </div>
+
+                <div className="md:flex-1 md:max-w-4xl md:ml-8 lg:ml-12">
+                  <TimelineEventCard
+                    event={event}
+                    expanded={expandedEvent === event.id}
+                    onToggle={() =>
+                      setExpandedEvent(expandedEvent === event.id ? null : event.id)
+                    }
+                  />
                 </div>
               </div>
             ))}
@@ -487,7 +445,7 @@ export default function TimelinePage() {
 
         {/* Call to action */}
         <div className="mt-16 text-center">
-          <Card className="bg-gradient-to-r from-blue-600 to-purple-600 text-white">
+          <Card className="bg-linear-to-r from-blue-600 to-purple-600 text-white">
             <CardContent className="py-8">
               <h3 className="text-2xl font-bold mb-4">Explore the Evidence Further</h3>
               <p className="mb-6 opacity-90">

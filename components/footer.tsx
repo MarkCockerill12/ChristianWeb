@@ -64,7 +64,7 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/categories/historical-jesus" className="text-gray-400 hover:text-white transition-colors">
+                <Link href="/categories/jesus" className="text-gray-400 hover:text-white transition-colors">
                   Historical Jesus
                 </Link>
               </li>
