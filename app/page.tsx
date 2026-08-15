@@ -8,6 +8,15 @@ import { UpdatesFeed, type UpdateItem } from "./updates-feed"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 5,
+    title: "Citation Rebuild & 9 New Topics",
+    description:
+      "Rebuilt citations across the entire site. Added 9 new topics: Baptism, Bible Books, Did God Change, End Times, Evolution, Free Will, Homosexuality, Lazarus, and Tree of Knowledge. Multiple UI components were also enhanced.",
+    date: "15/08/2026",
+    category: "Citations & Sources",
+    link: "/categories",
+  },
+  {
     id: 4,
     title: "All Page expanded and sources updated",
     description:
