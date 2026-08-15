@@ -31,6 +31,23 @@ function buildSourceMap(sources: readonly string[]) {
   return map
 }
 
+/**
+ * Inline emphasis, markdown links and bare scripture references.
+ *
+ * Shared with the timeline and the sources list, both of which render their text
+ * through `dangerouslySetInnerHTML` without going near the block-level pass. Without
+ * this, a markdown link in a timeline entry printed its own brackets.
+ */
+export function renderInline(text: string): string {
+  let html = text.replaceAll(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
+  html = html.replace(/(?<![*\w])\*(?!\s)([^*\n]+?)(?<![\s*])\*(?!\*)/g, "<em>$1</em>")
+  html = html.replace(
+    /\[([^\]^]+)\]\((https?:\/\/[^)]+)\)/g,
+    `<a href="$2" target="_blank" rel="noopener noreferrer" class="${LINK_CLASS}">$1</a>`,
+  )
+  return linkScriptureReferences(html, LINK_CLASS)
+}
+
 function citationAnchor(url: string, id: string) {
   const external = url.startsWith("http")
   const rel = external ? ' target="_blank" rel="noopener noreferrer"' : ""
@@ -109,12 +126,30 @@ function renderMarkdown(content: string, sources: readonly string[]): string {
     currentListType = null
   }
 
-  for (const line of html.split("\n")) {
+  const lines = html.split("\n")
+
+  /** The kind of list the next non-blank line would open, if any. */
+  const listTypeAt = (index: number): "ul" | "ol" | null => {
+    for (let i = index; i < lines.length; i++) {
+      const t = lines[i].trim()
+      if (t === "") continue
+      if (/^[-*•]\s+/.test(t)) return "ul"
+      if (/^\d+\.\s+/.test(t)) return "ol"
+      return null
+    }
+    return null
+  }
+
+  for (const [index, line] of lines.entries()) {
     const trimmed = line.trim()
 
     if (trimmed === "") {
       flushParagraph()
-      flushList()
+      // Several topic files space their bullets out with blank lines between
+      // them. Closing the list on every blank line turned those into a run of
+      // one-item lists, so an open list survives a gap that another item of the
+      // same kind follows.
+      if (listTypeAt(index + 1) !== currentListType) flushList()
       continue
     }
 
@@ -187,7 +222,7 @@ export const ContentRenderer = React.memo(function ContentRenderer({
 
   const renderedContent = (
     <div
-      className={`prose prose-blue max-w-none prose-p:leading-relaxed prose-li:leading-relaxed ${className}`}
+      className={`topic-prose max-w-none ${className}`}
       dangerouslySetInnerHTML={{ __html: html }}
     />
   )

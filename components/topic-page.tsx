@@ -172,12 +172,7 @@ const SubtopicCard = React.memo(function SubtopicCard({
           expanded ? "py-4 max-h-[50000px]" : "max-h-0 py-0"
         } overflow-hidden`}
       >
-        <ContentRenderer
-          content={sub.content}
-          sources={sources}
-          wrapInCard={false}
-          className="prose-sm sm:prose-lg"
-        />
+        <ContentRenderer content={sub.content} sources={sources} wrapInCard={false} />
       </CardContent>
     </Card>
   )

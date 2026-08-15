@@ -303,7 +303,7 @@ export const branches: Topic = {
     { reference: "John 17:21", text: "that all of them may be one, Father, just as you are in me and I am in you. May they also be in us so that the world may believe that you have sent me." },
     { reference: "Ephesians 4:3-6", text: "Make every effort to keep the unity of the Spirit through the bond of peace. There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all." }
   ],
-  tldr: `Christianity's main branches include the Early Universal/Catholic Church (1st-4th c.), Roman Catholic (which developed papal supremacy), Eastern Orthodox (which split in 1054 AD), Oriental Orthodox (split in 451 AD), and Protestant (which emerged from the 16th c. Reformation). Each differs on beliefs about scriptural authority, tradition, and sacraments.`,
+  tldr: `Christianity's main branches include the Early Universal/Catholic Church (1st-4th c.), Roman Catholic (centred on the see of Rome), Eastern Orthodox (which split in 1054 AD), Oriental Orthodox (split in 451 AD), and Protestant (which emerged from the 16th c. Reformation). Each differs on beliefs about scriptural authority, tradition, and sacraments.`,
   content: "",
 
   subtopics: [
@@ -321,15 +321,17 @@ export const branches: Topic = {
 
       • **Scripture + Tradition:** Both the Bible and apostolic tradition as sources of divine revelation[^4]
 
-      • **Episcopal authority:** Led by bishops (episkopoi) but without singular papal supremacy[^5]
+      • **Episcopal authority:** Led by bishops (episkopoi), with authority exercised locally and collegially[^5]
 
-      • **Unity in diversity:** Multiple centers of authority (Rome, Antioch, Alexandria, Jerusalem, Constantinople)[^6]
+      • **Multiple centres of authority:** Rome, Antioch, Alexandria, Jerusalem and later Constantinople each held patriarchal standing[^6]
 
       • **Early church councils:** Collective decision-making through ecumenical councils[^7]
 
       • **Martyrdom and persecution:** Sustained through Roman persecution until Constantine[^8]
 
-      **Historical Context:** The original "catholic" (universal) church before major schisms[^9]. This represents Christianity as it existed in the first few centuries before the rise of papal supremacy[^10].
+      **Historical Context:** The "catholic" (universal) church of the first centuries, before the major schisms[^9].
+
+      **A contested point, stated as contested.** How much authority the bishop of Rome held in this period is one of the genuinely disputed questions in church history, and it is not settled by description. Catholic historians point to the Petrine texts, to Clement of Rome writing to Corinth at the end of the first century, to Irenaeus on the pre-eminence of the Roman church, and to Leo's intervention at Chalcedon, arguing that a primacy was present from the start and later articulated rather than invented. Orthodox historians accept a primacy of honour among equals while denying universal jurisdiction. Protestant historians generally read the developed papal claims as a later growth. Describing the early church flatly as having no papal supremacy adopts one side of that argument as though it were plain fact, and a Catholic reader would rightly object[^10].
 
       **Distinctive Features:** House churches, bishop-led communities, emphasis on apostolic teaching and fellowship[^11]`,
     },

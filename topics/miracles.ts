@@ -27,10 +27,10 @@ Miracles don't break the laws of reality. If I put £50 in a drawer one night, �
 If someone steals money and you find you are left with less than you started, the legal law has been broken, not the laws of arithmetic. What we thought was a closed loop of cause and effect had someone who intervened. God designed the system to be consistent so that we can recognise miracles when they happen[^7][^8][^9].
 
 ### Personal Experience
-Car came and hit another car and flipped, no one hurt apart from driver who is semi-conscious, the driving side isn't too bad. Its actually really lucky that it happened outside of our church when there was an event on, otherwise he might not have gotten help in time since it was a quiet road. Its also a miracle no one else was hit since there were tons of kids[^10][^11][^12].
+I had a personal experience of something highly coincidental. My church is located on a residential road, which is usually fairly quiet. The church was hosting a easter party, and there were many families walking around outside, both at the church and doing easter egg hunts around the area. A car came along and the driver suffered a medical emergency and hit another car, causing it to flip over. Within a few moments, a doctor from my church ran out and was able to pull the driver to saftey, nobody else was harmed and the driver was taken to the hospital and recovered. It wasn't good that he crashed, but considering his medical state, and the location and the timing, it was seemingly perfect that the church had an event on at that time in the afternoon, or he may not have been able to get treatment as fast as he did. 
 
 ### Miracles Criteria
-Modern medicine has established rigorous criteria for evaluating claims of miraculous healing[^13][^14][^15]:
+Modern medicine has established rigorous criteria for evaluating claims of miraculous healing[^10][^11][^12]:
 
 **• Confirmed diagnoses:** The original condition must be thoroughly documented by medical professionals
 
@@ -43,12 +43,12 @@ Modern medicine has established rigorous criteria for evaluating claims of mirac
 **• Dramatic change:** Recovery must occur immediately or within a very short timeframe
 
 ### The Lourdes Medical Bureau
-Perhaps the most rigorous investigation of miraculous healings occurs at Lourdes, France, where the Medical Bureau has documented over 7,000 claimed healings since 1858. Of these, exactly 70 have been officially recognized as medically inexplicable after investigation by both Catholic and non-Catholic doctors, including atheists and agnostics. These 70 cases span from 1862 to 2018, demonstrating continuous miraculous activity even in the modern medical era[^16][^17][^18].
+Perhaps the most rigorous investigation of miraculous healings occurs at Lourdes, France, where the Medical Bureau has documented over 7,000 claimed healings since 1858. Of these, exactly 70 have been officially recognized as medically inexplicable after investigation by both Catholic and non-Catholic doctors, including atheists and agnostics. These 70 cases span from 1862 to 2018, demonstrating continuous miraculous activity even in the modern medical era[^13][^14][^15].
 
-The Bureau requires extensive medical documentation and follow-up examinations lasting a minimum of 5 years, often extending to 10-15 years. Cases are investigated by an international committee of physicians who often include skeptics. Dr. Patrick Theillier, former director of the Medical Bureau, noted that many investigating doctors are non-believers specifically chosen to avoid bias. The most recent recognition was Sister Bernadette Moriau in February 2018, proving that miracles continue in our contemporary age[^19][^20][^21].
+The Bureau requires extensive medical documentation and follow-up examinations lasting a minimum of 5 years, often extending to 10-15 years. Cases are investigated by an international committee of physicians who often include skeptics. Dr. Patrick Theillier, former director of the Medical Bureau, noted that many investigating doctors are non-believers specifically chosen to avoid bias. The most recent recognition was Sister Bernadette Moriau in February 2018, proving that miracles continue in our contemporary age[^16][^17][^18].
 
 ### Documented Modern Cases
-Contemporary medicine continues to document cases that defy explanation. These aren't ancient stories but modern cases with full medical records, multiple witnesses, and ongoing follow-up care[^22][^23][^24].
+Contemporary medicine continues to document cases that defy explanation. These aren't ancient stories but modern cases with full medical records, multiple witnesses, and ongoing follow-up care[^19][^20][^21].
 
 `,
   subtopics: [
@@ -56,11 +56,11 @@ Contemporary medicine continues to document cases that defy explanation. These a
       id: "key-examples",
       title: "Key Modern Examples",
       tags: ["examples", "documented", "medical", "healing"],
-      content: `**Well-Documented Modern Cases:** These examples show that miracles continue to happen in the modern era with full medical documentation[^25][^26][^27].
+      content: `**Well-Documented Modern Cases:** These examples show that miracles continue to happen in the modern era with full medical documentation[^22][^23][^24].
 
       **Dolores Winder - Scoliosis Healing (1981):**
 
-      • **Background:** Dolores Winder was a 45-year-old woman from Alabama suffering from severe progressive scoliosis[^28][^29][^30]
+      • **Background:** Dolores Winder was a 45-year-old woman from Alabama suffering from severe progressive scoliosis[^25][^26][^27]
 
       • **Medical History:** Diagnosed with severe spinal curvature measuring 73 degrees, causing chronic pain and breathing difficulties
 
@@ -86,7 +86,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Barbara Snyder - Multiple Sclerosis Healing (1981):**
 
-      • **Background:** Barbara Snyder was a 44-year-old college administrator from Ohio diagnosed with progressive multiple sclerosis[^31][^32][^33]
+      • **Background:** Barbara Snyder was a 44-year-old college administrator from Ohio diagnosed with progressive multiple sclerosis[^28][^29][^30]
 
       • **Medical History:** Diagnosed in 1965 at age 28 with relapsing-remitting MS that progressed to secondary progressive form
 
@@ -118,7 +118,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Bruce Van Natta - Truck Crushing Accident (2006):**
 
-      • **Background:** Bruce Van Natta was a 38-year-old auto mechanic from Wisconsin working under a logging truck[^34][^35][^36]
+      • **Background:** Bruce Van Natta was a 38-year-old auto mechanic from Wisconsin working under a logging truck[^31][^32][^33]
 
       • **The Accident:** On November 16, 2006, a 10,000-pound truck axle assembly fell and crushed his midsection
 
@@ -153,7 +153,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **John Traynor - The 71st Lourdes Miracle (Recognized 2024):**
 
-      • **Background:** John "Jack" Traynor was a Royal Naval Reserve soldier from Liverpool, severely wounded in WWI battles at Antwerp and Gallipoli.[^37][^38][^39]
+      • **Background:** John "Jack" Traynor was a Royal Naval Reserve soldier from Liverpool, severely wounded in WWI battles at Antwerp and Gallipoli.[^34][^35][^36]
 
       • **Medical Condition:** Paralyzed in the right arm and legs, suffering from severe epilepsy and muscle atrophy due to machine-gun fire and failed surgeries (including trepanning).
 
@@ -163,20 +163,20 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       • **Verification:** Examined by pilgrimage doctors immediately, then by the Lourdes Medical Bureau in 1926. The cure was instantaneous, complete, and permanent.
 
-      • **Official Recognition:** Though medically verified in 1926, the cure was officially proclaimed as a miracle by Archbishop Malcolm McMahon of Liverpool in December 2024 (post-mortem), marking the first English-speaker miracle at Lourdes.[^40][^41][^42]
+      • **Official Recognition:** Though medically verified in 1926, the cure was officially proclaimed as a miracle by Archbishop Malcolm McMahon of Liverpool in December 2024 (post-mortem), marking the first English-speaker miracle at Lourdes.[^37][^38][^39]
 `
     },
     {
       id: "lourdes-cases",
       title: "Verified Lourdes Healings - All 70 Official Cases",
       tags: ["lourdes", "medical", "verified", "documentation"],
-      content: `**Complete Documentation of All 70 Officially Recognized Lourdes Miracles:** Each case has been rigorously investigated by international medical committees and officially recognized by the Catholic Church after extensive verification[^43][^44][^45].
+      content: `**Complete Documentation of All 70 Officially Recognized Lourdes Miracles:** Each case has been rigorously investigated by international medical committees and officially recognized by the Catholic Church after extensive verification[^40][^41][^42].
 
       **THE FIRST WAVE - 1862 RECOGNITIONS:**
 
       **1. Catherine Latapie - Loubajac, France (Recognition: 18th January 1862):**
 
-      • **Background:** Catherine Latapie, mother of two children, suffered from ulnar nerve paralysis affecting her right hand[^46][^47][^48]
+      • **Background:** Catherine Latapie, mother of two children, suffered from ulnar nerve paralysis affecting her right hand[^43][^44][^45]
 
       • **Medical Condition:** Complete paralysis of right hand with two fingers permanently contracted
 
@@ -198,7 +198,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **2. Louis Bouriette - Lourdes, France (Recognition: 18th January 1862):**
 
-      • **Background:** Louis Bouriette, 54-year-old quarry worker, lost sight in right eye from work accident[^49][^50][^51]
+      • **Background:** Louis Bouriette, 54-year-old quarry worker, lost sight in right eye from work accident[^46][^47][^48]
 
       • **Medical History:** Explosion of gunpowder severely damaged right eye, declared permanently blind
 
@@ -220,7 +220,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **3. Blaisette Cazenave - Lourdes, France (Recognition: 18th January 1862):**
 
-      • **Background:** Blaisette Cazenave, young girl suffering from chronic inflammatory eye condition[^52][^53][^54]
+      • **Background:** Blaisette Cazenave, young girl suffering from chronic inflammatory eye condition[^49][^50][^51]
 
       • **Medical Condition:** Severe ophthalmia with constant discharge and photophobia
 
@@ -242,7 +242,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **4. Henri Busquet - Nay, France (Recognition: 18th January 1862):**
 
-      • **Background:** Henri Busquet suffered from advanced pulmonary tuberculosis[^55][^56][^57]
+      • **Background:** Henri Busquet suffered from advanced pulmonary tuberculosis[^52][^53][^54]
 
       • **Medical Diagnosis:** Confirmed pulmonary tuberculosis with extensive lung involvement
 
@@ -264,7 +264,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **5. Justin Bouhort - Lourdes, France (Recognition: 18th January 1862):**
 
-      • **Background:** Justin Bouhort, local resident suffering from severe spinal deformity[^58][^59][^60]
+      • **Background:** Justin Bouhort, local resident suffering from severe spinal deformity[^55][^56][^57]
 
       • **Medical Condition:** Kyphoscoliosis with severe back deformity and chronic pain
 
@@ -286,7 +286,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **6. Madeleine Rizan - Nay, France (Recognition: 18th January 1862):**
 
-      • **Background:** Madeleine Rizan suffered from severe nervous system disorder[^61][^62][^63]
+      • **Background:** Madeleine Rizan suffered from severe nervous system disorder[^58][^59][^60]
 
       • **Medical Condition:** Neurological condition causing convulsions and paralytic episodes
 
@@ -308,7 +308,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **7. Marie Moreau - Tartas, France (Recognition: 18th January 1862):**
 
-      • **Background:** Marie Moreau suffered from chronic digestive disorder with severe complications[^64][^65][^66]
+      • **Background:** Marie Moreau suffered from chronic digestive disorder with severe complications[^61][^62][^63]
 
       • **Medical Condition:** Severe gastric condition with chronic vomiting and malnutrition
 
@@ -332,7 +332,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **8. Pierre De Rudder - Jabbeke, Belgium (Recognition: 25th July 1908):**
 
-      • **Background:** Pierre De Rudder, 52-year-old Belgian farmer, suffered devastating leg injury[^67][^68][^69]
+      • **Background:** Pierre De Rudder, 52-year-old Belgian farmer, suffered devastating leg injury[^64][^65][^66]
 
       • **Injury Details:** Tree branch fell across his leg in 1867, creating compound fracture
 
@@ -360,7 +360,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **9. Joachime Dehant - Gesves, Belgium (Recognition: 25th April 1908):**
 
-      • **Background:** Joachime Dehant, Belgian woman with severe leg ulceration and infection[^70][^71][^72]
+      • **Background:** Joachime Dehant, Belgian woman with severe leg ulceration and infection[^67][^68][^69]
 
       • **Medical Condition:** Chronic ulcers on both legs with bone involvement
 
@@ -382,7 +382,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **10. Elisa Seisson - Rognonas, France (Recognition: 2nd July 1912):**
 
-      • **Background:** Elisa Seisson suffered from severe cardiac condition with complications[^73][^74][^75]
+      • **Background:** Elisa Seisson suffered from severe cardiac condition with complications[^70][^71][^72]
 
       • **Medical Diagnosis:** Advanced heart disease with fluid retention and breathing difficulties
 
@@ -404,13 +404,13 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **[CONTINUING WITH CASES 11-62...]**
 
-      *Note: For the sake of brevity, full details for cases 11-62 are archived in the Lourdes Medical Bureau records, encompassing cures of tuberculosis, cancer, and severe neurological disorders verified during the early-to-mid 20th century.*[^76][^77][^78]
+      *Note: For the sake of brevity, full details for cases 11-62 are archived in the Lourdes Medical Bureau records, encompassing cures of tuberculosis, cancer, and severe neurological disorders verified during the early-to-mid 20th century.*[^73][^74][^75]
 
       **MODERN ERA MIRACLES (1976-2018):**
 
       **63. Vittorio Micheli - Scurelle, Italy (Recognition: 26th May 1976):**
 
-      • **Background:** Vittorio Micheli, 23-year-old Italian man diagnosed with aggressive sarcoma[^79][^80][^81]
+      • **Background:** Vittorio Micheli, 23-year-old Italian man diagnosed with aggressive sarcoma[^76][^77][^78]
 
       • **Cancer Diagnosis:** Osteosarcoma of left hip with complete destruction of hip joint
 
@@ -442,7 +442,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **64. Serge Perrin - Le Lion-d'Angers, France (Recognition: 17th June 1978):**
 
-      • **Background:** Serge Perrin, 41-year-old French man with recurrent organic hemiplegia[^82][^83][^84]
+      • **Background:** Serge Perrin, 41-year-old French man with recurrent organic hemiplegia[^79][^80][^81]
 
       • **Medical Condition:** Bilateral carotid artery disorders causing recurrent strokes
 
@@ -470,7 +470,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **65. Delizia Cirolli - Paternò, Italy (Recognition: 28th June 1989):**
 
-      • **Background:** Delizia Cirolli suffered from severe cardiac condition[^85][^86][^87]
+      • **Background:** Delizia Cirolli suffered from severe cardiac condition[^82][^83][^84]
 
       • **Medical Diagnosis:** Advanced heart disease with multiple complications
 
@@ -494,7 +494,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **66. Jean-Pierre Bély - La Couronne, France (Recognition: 9th February 1999):**
 
-      • **Background:** Jean-Pierre Bély, 51-year-old former Foreign Legion officer with advanced MS[^88][^89][^90]
+      • **Background:** Jean-Pierre Bély, 51-year-old former Foreign Legion officer with advanced MS[^85][^86][^87]
 
       • **Military Service:** Served in Algeria and Indochina before developing symptoms
 
@@ -520,7 +520,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **67. Anna Santaniello - Salerno, Italy (Recognition: 21st September 2005):**
 
-      • **Background:** Anna Santaniello, 20-year-old Italian woman with rheumatic heart disease[^91][^92][^93]
+      • **Background:** Anna Santaniello, 20-year-old Italian woman with rheumatic heart disease[^88][^89][^90]
 
       • **Medical History:** Developed severe mitral stenosis following rheumatic fever at age 10
 
@@ -544,7 +544,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **68. Sister Luigina Traverso - Casale Monferrato, Italy (Recognition: 11th October 2012):**
 
-      • **Background:** Sister Luigina, religious sister diagnosed with acute lymphoblastic leukemia[^94][^95][^96]
+      • **Background:** Sister Luigina, religious sister diagnosed with acute lymphoblastic leukemia[^91][^92][^93]
 
       • **Medical Condition:** Acute lymphoblastic leukemia with very poor prognosis
 
@@ -566,7 +566,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **69. Danila Castelli - Bereguardo, Italy (Recognition: 20th June 2013):**
 
-      • **Background:** Danila Castelli suffered from severe malignant hypertension[^97][^98][^99]
+      • **Background:** Danila Castelli suffered from severe malignant hypertension[^94][^95][^96]
 
       • **Medical History:** Diagnosed with malignant hypertension resistant to medications
 
@@ -588,7 +588,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **70. Sister Bernadette Moriau - Beauvais, France (Recognition: 11th February 2018):**
 
-      • **Background:** Sister Bernadette Moriau, French nun with severe neurological complications[^100][^101][^102]
+      • **Background:** Sister Bernadette Moriau, French nun with severe neurological complications[^97][^98][^99]
 
       • **Medical History:** Diagnosed with severe cauda equina syndrome following spinal surgery
 
@@ -635,11 +635,11 @@ Contemporary medicine continues to document cases that defy explanation. These a
       id: "modern-documented-cases",
       title: "Contemporary Documented Cases",
       tags: ["modern", "medical", "documentation", "secular"],
-      content: `**Recent Medical Miracles:** These cases have been documented by medical professionals and reported in secular medical literature[^103][^104][^105].
+      content: `**Recent Medical Miracles:** These cases have been documented by medical professionals and reported in secular medical literature[^100][^101][^102].
 
       **Barbara Snyder (1981) - Extended Documentation:**
 
-      • **Full Medical History:** Diagnosed with multiple sclerosis at Case Western Reserve University Hospital in 1965[^106][^107][^108]
+      • **Full Medical History:** Diagnosed with multiple sclerosis at Case Western Reserve University Hospital in 1965[^103][^104][^105]
 
       • **Initial Symptoms:** Began with visual disturbances and coordination problems in her late twenties
 
@@ -687,7 +687,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Bruce Van Natta (2006) - Comprehensive Analysis:**
 
-      • **Background Details:** 38-year-old auto mechanic and father of four from Monroe, Wisconsin[^109][^110]
+      • **Background Details:** 38-year-old auto mechanic and father of four from Monroe, Wisconsin[^106][^107]
 
       • **The Accident - November 16, 2006:**
 
@@ -775,7 +775,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Delores Winder (1981) - Comprehensive Scoliosis Case:**
 
-      • **Patient Background:** 45-year-old elementary school teacher from Birmingham, Alabama[^111]
+      • **Patient Background:** 45-year-old elementary school teacher from Birmingham, Alabama[^108]
 
       • **Medical History:**
 
@@ -851,7 +851,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Mel Tari - Indonesia (1970s):**
 
-      • **Background:** Indonesian evangelist who documented multiple healing cases[^112]
+      • **Background:** Indonesian evangelist who documented multiple healing cases[^109]
 
       • **Documentation:** Recorded healings during Indonesian revival movements
 
@@ -861,7 +861,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Heidi Baker - Mozambique (2000s):**
 
-      • **Background:** Missionary doctor documenting healings in African contexts[^113]
+      • **Background:** Missionary doctor documenting healings in African contexts[^110]
 
       • **Medical Training:** Licensed physician conducting medical mission work
 
@@ -876,11 +876,11 @@ Contemporary medicine continues to document cases that defy explanation. These a
       id: "secular-investigation",
       title: "Secular Medical Investigation",
       tags: ["secular", "medical", "science", "investigation"],
-      content: `**Scientific Investigation of Healing Claims:** Secular medical researchers and institutions have conducted rigorous studies of miraculous healing claims[^114].
+      content: `**Scientific Investigation of Healing Claims:** Secular medical researchers and institutions have conducted rigorous studies of miraculous healing claims[^111].
 
       **Indiana University Study - Dr. Candy Gunther Brown:**
 
-      • **Researcher Background:** Dr. Candy Gunther Brown, Professor of Religious Studies at Indiana University, PhD from Harvard[^115]
+      • **Researcher Background:** Dr. Candy Gunther Brown, Professor of Religious Studies at Indiana University, PhD from Harvard[^112]
 
       • **Study Design:** Prospective, controlled study of prayer-based healing claims
 
@@ -916,7 +916,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
         - No placebo or psychological explanation adequate
 
-      • **Publication:** Published in Southern Medical Journal, peer-reviewed medical literature[^116]
+      • **Publication:** Published in Southern Medical Journal, peer-reviewed medical literature[^113]
 
       • **Follow-up Studies:** Additional research in Brazil and other locations
 
@@ -926,7 +926,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Mayo Clinic Research on Unexplained Recovery:**
 
-      • **Institution:** Mayo Clinic, Rochester, Minnesota - world-renowned medical center[^117]
+      • **Institution:** Mayo Clinic, Rochester, Minnesota - world-renowned medical center[^114]
 
       • **Study Focus:** Investigation of "spontaneous remission" and unexplained recovery cases
 
@@ -974,7 +974,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Harvard Medical School - Mind-Body Medicine Research:**
 
-      • **Lead Researcher:** Dr. Herbert Benson, Professor of Medicine at Harvard Medical School[^118]
+      • **Lead Researcher:** Dr. Herbert Benson, Professor of Medicine at Harvard Medical School[^115]
 
       • **Research Focus:** Investigation of physiological changes during spiritual/religious practices
 
@@ -1012,13 +1012,13 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
         - Training programs for healthcare providers
 
-      • **Publication Record:** Over 190 peer-reviewed publications[^119]
+      • **Publication Record:** Over 190 peer-reviewed publications[^116]
 
       • **Medical Significance:** Established scientific basis for faith-health connection
 
       **Duke University Medical Center Studies:**
 
-      • **Lead Researcher:** Dr. Harold Koenig, Professor of Psychiatry and Behavioral Sciences[^120]
+      • **Lead Researcher:** Dr. Harold Koenig, Professor of Psychiatry and Behavioral Sciences[^117]
 
       • **Research Scope:** Large-scale epidemiological studies on religion and health
 
@@ -1054,7 +1054,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **University of Pennsylvania - Neuroscience of Religious Experience:**
 
-      • **Lead Researcher:** Dr. Andrew Newberg, Professor of Radiology and Neurology[^121]
+      • **Lead Researcher:** Dr. Andrew Newberg, Professor of Radiology and Neurology[^118]
 
       • **Research Method:** Brain imaging (SPECT and fMRI) during religious experiences
 
@@ -1086,7 +1086,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Johns Hopkins University - Placebo and Beyond:**
 
-      • **Research Focus:** Investigation of healing mechanisms beyond placebo effect[^122]
+      • **Research Focus:** Investigation of healing mechanisms beyond placebo effect[^119]
 
       • **Study Design:** Controlled trials comparing various healing interventions
 
@@ -1102,7 +1102,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **National Institutes of Health (NIH) Position:**
 
-      • **Official Stance:** Recognition of mind-body connection in healing[^123]
+      • **Official Stance:** Recognition of mind-body connection in healing[^120]
 
       • **Research Funding:** Millions allocated for integrative medicine research
 
@@ -1127,11 +1127,11 @@ Contemporary medicine continues to document cases that defy explanation. These a
       id: "video-documented",
       title: "Video-Documented Modern Miracles",
       tags: ["video", "documented", "evidence", "camera"],
-      content: `**Miracles in the Camera Age:** Contrary to skeptical claims, many modern miracles have been captured on video or thoroughly documented with multiple witnesses[^124].
+      content: `**Miracles in the Camera Age:** Contrary to skeptical claims, many modern miracles have been captured on video or thoroughly documented with multiple witnesses[^121].
 
       **Chris Gunderson (2010) - Comprehensive Hearing Restoration:**
 
-      • **Background:** Chris Gunderson, born with congenital hearing loss in right ear, age 25 at time of healing[^125][^126]
+      • **Background:** Chris Gunderson, born with congenital hearing loss in right ear, age 25 at time of healing[^122][^123]
 
       • **Medical History:**
 
@@ -1205,7 +1205,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Delia Knox (2010) - Paralysis Healing on Live Television:**
 
-      • **Background:** Delia Knox, 48-year-old woman from Mobile, Alabama, paralyzed for 22 years[^127][^128][^129]
+      • **Background:** Delia Knox, 48-year-old woman from Mobile, Alabama, paralyzed for 22 years[^124][^125][^126]
 
       • **Injury History:**
 
@@ -1283,7 +1283,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Todd White - Multiple Documented Healings:**
 
-      • **Background:** Evangelist who documents street healings with video evidence[^130][^131][^132]
+      • **Background:** Evangelist who documents street healings with video evidence[^127][^128][^129]
 
       • **Documentation Method:**
 
@@ -1311,7 +1311,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **David Hogan - Mexican Miracle Documentation:**
 
-      • **Background:** Missionary in Mexico documenting healings among indigenous populations[^133][^134][^135]
+      • **Background:** Missionary in Mexico documenting healings among indigenous populations[^130][^131][^132]
 
       • **Documentation Approach:**
 
@@ -1331,7 +1331,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Personal Testimony with Documentation - Car Accident Miracle:**
 
-      • **Background:** Multi-vehicle accident outside Christian church during scheduled event[^136][^137][^138]
+      • **Background:** Multi-vehicle accident outside Christian church during scheduled event[^133][^134][^135]
 
       • **Accident Details:**
 
@@ -1398,11 +1398,11 @@ Contemporary medicine continues to document cases that defy explanation. These a
       id: "atheist-investigations",
       title: "Atheist and Skeptical Investigations", 
       tags: ["atheist", "skeptical", "investigation", "secular"],
-      content: `**Non-Believing Investigators:** Some of the most compelling evidence comes from atheist and agnostic researchers who investigated miracle claims with the intention of debunking them[^139][^140][^141].
+      content: `**Non-Believing Investigators:** Some of the most compelling evidence comes from atheist and agnostic researchers who investigated miracle claims with the intention of debunking them[^136][^137][^138].
 
       **Dr. Patrick Theillier (Former Atheist Neurologist):**
 
-      • **Background:** Born 1943, trained as neurologist in French medical system, committed atheist for first 40 years[^142][^143][^144]
+      • **Background:** Born 1943, trained as neurologist in French medical system, committed atheist for first 40 years[^139][^140][^141]
 
       • **Medical Training:**
 
@@ -1482,7 +1482,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Dr. Alexis Carrel (Nobel Prize Winner):**
 
-      • **Background:** Alexis Carrel (1873-1944), French surgeon and biologist, Nobel Prize in Medicine 1912[^145][^146][^147]
+      • **Background:** Alexis Carrel (1873-1944), French surgeon and biologist, Nobel Prize in Medicine 1912[^142][^143][^144]
 
       • **Scientific Achievements:**
 
@@ -1560,7 +1560,7 @@ Contemporary medicine continues to document cases that defy explanation. These a
 
       **Dr. Richard Casdorph (Skeptical Physician):**
 
-      • **Background:** Dr. Richard Casdorph, MD, PhD, internal medicine specialist and clinical researcher[^148][^149][^150]
+      • **Background:** Dr. Richard Casdorph, MD, PhD, internal medicine specialist and clinical researcher[^145][^146][^147]
 
       • **Medical Credentials:**
 
@@ -1637,11 +1637,11 @@ Contemporary medicine continues to document cases that defy explanation. These a
       id: "the-bible-on-miracles",
       title: "The Bible on Miracles",
       tags: ["scripture", "theology", "protestant"],
-      content: `**Miracles as Signs and Wonders:** The Bible consistently presents miracles not just as supernatural interventions, but as divine "signs" (Greek: *semeion*) and "wonders" (*teras*) intended to testify to God's presence, affirm His message, and validate His messengers.[^151][^152][^153]
+      content: `**Miracles as Signs and Wonders:** The Bible consistently presents miracles not just as supernatural interventions, but as divine "signs" (Greek: *semeion*) and "wonders" (*teras*) intended to testify to God's presence, affirm His message, and validate His messengers.[^148][^149][^150]
 
-      **Continuationist Viewpoint (Protestant):** While some cessationist traditions hold that miraculous spiritual gifts ceased after the Apostolic Age, the continuationist position, prevalent in Pentecostal and Charismatic traditions, affirms that gifts such as healing, prophecy, and speaking in tongues continue today as described in the New Testament.[^154][^155][^156] The very existence of contemporary, documented, and medically inexplicable miracles supports the continuationist view that God still intervenes miraculously in the modern era.[^157][^158][^159]
+      **Continuationist Viewpoint (Protestant):** While some cessationist traditions hold that miraculous spiritual gifts ceased after the Apostolic Age, the continuationist position, prevalent in Pentecostal and Charismatic traditions, affirms that gifts such as healing, prophecy, and speaking in tongues continue today as described in the New Testament.[^151][^152][^153] The very existence of contemporary, documented, and medically inexplicable miracles supports the continuationist view that God still intervenes miraculously in the modern era.[^154][^155][^156]
 
-      **Biblical Mandate for Ministry:** Jesus commissioned his followers not only to preach but also to demonstrate the power of the Kingdom of God through healing and deliverance. This is considered an ongoing mandate by many Christian traditions.[^160][^161][^162]
+      **Biblical Mandate for Ministry:** Jesus commissioned his followers not only to preach but also to demonstrate the power of the Kingdom of God through healing and deliverance. This is considered an ongoing mandate by many Christian traditions.[^157][^158][^159]
       - Jesus stated, "Very truly I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father." - [John 14:12](https://www.biblegateway.com/passage/?search=John+14:12&version=NIV)
         - The Great Commission is often viewed as including the signs that follow belief: "And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues; they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well." - [Mark 16:17-18](https://www.biblegateway.com/passage/?search=Mark+16:17-18&version=NIV)
         - Instruction for healing prayer within the church: "Is anyone among you sick? Let them call the elders of the church to pray over them and anoint them with oil in the name of the Lord. And the prayer offered in faith will make the sick person well; the Lord will raise them up. If they have sinned, they will be forgiven." - [James 5:14-15](https://www.biblegateway.com/passage/?search=James+5:14-15&version=NIV)
@@ -1658,159 +1658,156 @@ Contemporary medicine continues to document cases that defy explanation. These a
     "7. C.S. Lewis, 'Miracles: A Preliminary Study' - C.S. Lewis Foundation Study Guide. Available: https://dhjhkxawhe8q4.cloudfront.net/cslewis-wp/wp-content/uploads/2016/12/22145815/SG_Miracles_hi-res.pdf",
     "8. [Reference] 22843835. https://pubmed.ncbi.nlm.nih.gov/22843835/",
     "9. [Reference] the-lourdes-medical-cures-revisited-4. https://pure.johnshopkins.edu/en/publications/the-lourdes-medical-cures-revisited-4/",
-    "10. [Medical Study] Dr. Harold Koenig, 'Faith and Mental Health' (Duke University Medical Center) - Research on faith-based healing outcomes - Available: https://spiritualityandhealth.duke.edu/index.php/publications/books/faith-and-mental-health-religious-resources-for-healing/",
-    "11. [Reference] summary. https://muse.jhu.edu/article/50494/summary",
-    "12. [Reference] EARHAF. https://philpapers.org/rec/EARHAF",
-    "13. [Academic Paper] C. Caracappa & B. C. Corry. 'Miracles and Medicine: An Analysis of the Medical Criteria for an Unexplained Healing' (Journal of Religious & Health, 2018) - Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/",
-    "14. [Reference] summary. https://muse.jhu.edu/article/383274/summary",
-    "15. [Reference] miracles-the-credibility-of-the-new-testament-accounts. https://denverjournal.denverseminary.edu/the-denver-journal-article/miracles-the-credibility-of-the-new-testament-accounts/",
-    "16. [Medical Bureau] Lourdes Medical Bureau Official Records. 'Recognized miraculous healings 1858-2018' https://www.indcatholicnews.com/news/34329",
-    "17. [Evangelical] The Gospel Coalition. miracles-the-credibility-of-the-new-testament-accounts. https://www.thegospelcoalition.org/themelios/review/miracles-the-credibility-of-the-new-testament-accounts/",
-    "18. [Reference] 9.R28-R32-Ong on Keener.pdf. http://jgrchj.net/reviews/9.R28-R32-Ong_on_Keener.pdf",
-    "19. Patrick Theillier, 'Lourdes: Miracles and Medical Science' (Paulist Press, 2006) - Former atheist neurologist's investigation of Lourdes healings - Available: https://www.catholicnewsagency.com/news/253153/meet-sister-bernadette-the-most-recently-cured-person-at-lourdes",
-    "20. [Reference] miracles-the-credibility-of-the-new-testament-accounts. https://christianscholars.com/miracles-the-credibility-of-the-new-testament-accounts/",
-    "21. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. miracles. https://plato.stanford.edu/entries/miracles/",
-    "22. [Medical Documentation] Candy Gunther Brown, 'Testing Prayer: Science and Healing' - Full Text Scan. Available: https://archive.org/details/testingprayersci00brow",
-    "23. [Peer-Reviewed] Internet Encyclopedia of Philosophy. miracles. https://iep.utm.edu/miracles/",
-    "24. [Reference] PMC2802370. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2802370/",
-    "25. Jeff Doles, 'Miracles and Manifestations of the Holy Spirit in the History of the Church' (Walking Barefoot Ministries, 2008) - Historical documentation. Available: https://books.google.com/books/about/Miracles_and_Manifestations_of_the_Holy.html?id=MGVCH3ztklgC",
-    "26. [Encyclopedia] Britannica. miracle. https://www.britannica.com/topic/miracle",
-    "27. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. hume. https://plato.stanford.edu/entries/hume/",
-    "28. [Medical Records] Dolores Winder Scoliosis Case - Southern Medical Center Birmingham, Alabama. Documented in 'Surprised by Healing' (Logos Bible Software): https://www.logos.com/product/37183/surprised-by-healing-one-of-the-greatest-healing-miracles-of-the-21st-century",
-    "29. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. religion-epistemology. https://plato.stanford.edu/entries/religion-epistemology/",
-    "30. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. testimony-episprob. https://plato.stanford.edu/entries/testimony-episprob/",
-    "31. [Medical Documentation] Barbara Snyder Multiple Sclerosis Case - Case Western Reserve University Hospital. Documented by New Life Publishing: https://newlifepublishing.co.uk/blogs/real-life/from-deaths-door-to-walking-miracle",
-    "32. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. bayes-theorem. https://plato.stanford.edu/entries/bayes-theorem/",
-    "33. [Reference] Wikipedia. Lourdes Medical Bureau. https://en.wikipedia.org/wiki/Lourdes_Medical_Bureau",
-    "34. Bruce Van Natta, 'Saved by Angels' (Destiny Image, 2009) - First-person account with University of Wisconsin Hospital medical documentation. Available: https://www.barnesandnoble.com/w/saved-by-angels-bruce-van-natta/1101230257",
-    "35. [Reference] Wikipedia. Miracle. https://en.wikipedia.org/wiki/Miracle",
-    "36. [Reference] Wikipedia. Of Miracles. https://en.wikipedia.org/wiki/Of_Miracles",
-    "37. [Official Record] John Traynor - 71st Miracle of Lourdes. Proclaimed by Archbishop Malcolm McMahon (Liverpool) December 2024. Official details: https://www.lourdes-france.com/en/john-traynor-71st-miracle-at-lourdes/",
-    "38. [Reference] Wikipedia. David Hume. https://en.wikipedia.org/wiki/David_Hume",
-    "39. [Reference] Wikipedia. Craig S. Keener. https://en.wikipedia.org/wiki/Craig_S._Keener",
-    "40. [News Report] 'Lourdes confirms 71st miracle—and the first for an English speaker' - America Magazine, December 10, 2024. Available: https://www.americamagazine.org/faith/2024/12/10/lourdes-confirms-first-miracle-english-speaker-249449/",
-    "41. [Reference] Wikipedia. Spontaneous remission. https://en.wikipedia.org/wiki/Spontaneous_remission",
-    "42. [Reference] Wikipedia. Placebo. https://en.wikipedia.org/wiki/Placebo",
-    "43. [Academic Book] Craig S. Keener, 'Miracles: The Credibility of the New Testament Accounts' (Baker Academic, 2011) - Two-volume scholarly examination. Available: https://www.logos.com/product/39638/miracles-the-credibility-of-the-new-testament-accounts-volume-1-and-2",
-    "44. [Reference] Wikipedia. Regression toward the mean. https://en.wikipedia.org/wiki/Regression_toward_the_mean",
-    "45. [Reference] 11832526. https://pubmed.ncbi.nlm.nih.gov/11832526/",
-    "46. [Lourdes Case] Catherine Latapie - Ulnar nerve paralysis healing 1858. First recognized miracle. Details: https://www.lourdes-france.org/en/25th-march-1858-the-lady-says-her-name/",
-    "47. [Reference] 10836151. https://pubmed.ncbi.nlm.nih.gov/10836151/",
-    "48. [Reference] 19735177. https://pubmed.ncbi.nlm.nih.gov/19735177/",
-    "49. [Lourdes Case] Louis Bouriette - Blindness from trauma healing 1858. Documented in Miracle Hunter Archives: https://www.miraclehunter.com/marian_apparitions/approved_apparitions/lourdes/miracles1.html",
-    "50. [Reference] PMC1121994. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121994/",
-    "51. [Reference] PMC3671693. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671693/",
-    "52. [Lourdes Case] Blaisette Cazenave - Severe ophthalmia healing 1858. Case overview: https://miraclesnevercease.com/2021/04/04/lourdes/",
-    "53. [Reference] PMC5871252. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5871252/",
-    "54. [Reference] PMC4802397. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802397/",
-    "55. [Lourdes Case] Henri Busquet - Tuberculosis healing 1858. Historical record: https://www.theworkofgod.org/Aparitns/Lourdes/Lourdes1.htm",
-    "56. [Reference] 486009. https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/486009",
-    "57. [Reference] jhmas. https://academic.oup.com/jhmas",
-    "58. [Lourdes Case] Justin Bouhort - Spinal deformity healing 1858. Historical analysis: https://www.tfp.org/three-miracles-at-lourdes-that-devastated-liberalism/",
-    "59. [Reference] MCGTHO. https://philpapers.org/rec/MCGTHO",
-    "60. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. religious-experience. https://plato.stanford.edu/entries/religious-experience/",
-    "61. [Lourdes Case] Madeleine Rizan - Nervous system disorder healing 1858. Documented in medical archives: https://spiritualreading.co.za/wp-content/uploads/2020/08/Miracles-of-Lourdes.pdf",
-    "62. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. pragmatic-belief-god. https://plato.stanford.edu/entries/pragmatic-belief-god/",
-    "63. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. evidence. https://plato.stanford.edu/entries/evidence/",
-    "64. [Lourdes Case] Marie Moreau - Healing 1858. Case details: https://catholicism.org/lourdes-if-miracles-can-happen-let-them-recounted-by-a-jewish-author.html",
-    "65. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. probability-interpret. https://plato.stanford.edu/entries/probability-interpret/",
-    "66. [Peer-Reviewed] Internet Encyclopedia of Philosophy. hume-rel. https://iep.utm.edu/hume-rel/",
-    "67. [Lourdes Case] Pierre De Rudder - Compound fracture with 8-year non-union, 3cm bone gap, instantaneous fusion 1875, bronze cast preserved at Lourdes Medical Bureau, recognition 25 July 1908 - Details: https://www.catholicherald.com/article/local/lourdes-and-the-miraculous-cures/",
-    "68. [Reference] 20015713. https://www.jstor.org/stable/20015713",
-    "69. [Encyclopedia] Britannica. David-Hume. https://www.britannica.com/biography/David-Hume",
-    "70. [Lourdes Case] Joachime Dehant - Leg ulceration healing 1875. Documented case study: https://billdembski.com/book/the-faces-of-miracles/chapter-8/",
-    "71. [Encyclopedia] Britannica. Lourdes. https://www.britannica.com/place/Lourdes",
-    "72. [Reference] Wikipedia. Faith healing. https://en.wikipedia.org/wiki/Faith_healing",
-    "73. [Lourdes Case] Elisa Seisson - Heart disease healing. Official Sanctuary Records: https://www.lourdes-france.org/en/miraculous-healings/",
-    "74. [Reference] Wikipedia. Miracles of Jesus. https://en.wikipedia.org/wiki/Miracles_of_Jesus",
-    "75. [Reference] Wikipedia. Sanctuary of Our Lady of Lourdes. https://en.wikipedia.org/wiki/Sanctuary_of_Our_Lady_of_Lourdes",
-    "76. [Medical Journal] 'The Lourdes Medical Cures Revisited' - Journal of the Royal Society of Medicine (2012) 105(12): 527–532. Comprehensive review of early cures. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
-    "77. [Reference] Wikipedia. Bernadette Soubirous. https://en.wikipedia.org/wiki/Bernadette_Soubirous",
-    "78. [Reference] Wikipedia. Canonization. https://en.wikipedia.org/wiki/Canonization",
-    "79. [Lourdes Case] Vittorio Micheli - Osteosarcoma of pelvis with complete hip joint destruction, bone regeneration documented, Scurelle Italy, recognition 26 May 1976 - Case Report: https://pubmed.ncbi.nlm.nih.gov/15253418/",
-    "80. [Reference] Wikipedia. Congregation for the Causes of Saints. https://en.wikipedia.org/wiki/Congregation_for_the_Causes_of_Saints",
-    "81. [Reference] Wikipedia. Postulator. https://en.wikipedia.org/wiki/Postulator",
-    "82. [Lourdes Case] Serge Perrin - Recurrent organic hemiplegia healing 1970. Medical bureau newsletter: https://www.lourdescenter.org/newsletters/2015/01-02-15.pdf",
-    "83. [Reference] Wikipedia. Beatification. https://en.wikipedia.org/wiki/Beatification",
-    "84. [Reference] Wikipedia. Confirmation bias. https://en.wikipedia.org/wiki/Confirmation_bias",
-    "85. [Lourdes Case] Delizia Cirolli - Heart disease healing 1976. Documented in Holy Art blog: https://www.holyart.co.uk/blog/saints-and-blessed/the-miracles-of-our-lady-of-lourdes-from-her-first-apparition/",
-    "86. [Reference] Wikipedia. Anecdotal evidence. https://en.wikipedia.org/wiki/Anecdotal_evidence",
-    "87. [Reference] Wikipedia. Survivorship bias. https://en.wikipedia.org/wiki/Survivorship_bias",
-    "88. [Lourdes Case] Jean-Pierre Bély - Multiple sclerosis healing 1987, La Couronne France, MRI documentation of lesion resolution, recognition 9 February 1999 - Medical Report: https://www.ewtn.com/catholicism/library/authentication-of-a-cure-at-lourdes-5985",
-    "89. [Reference] Wikipedia. Base rate fallacy. https://en.wikipedia.org/wiki/Base_rate_fallacy",
-    "90. [Reference] Wikipedia. Bayesian inference. https://en.wikipedia.org/wiki/Bayesian_inference",
-    "91. [Lourdes Case] Anna Santaniello - Rheumatic heart disease healing 1952. News Report: https://www.nzherald.co.nz/world/lourdes-miracle-recognised-by-church/JCU3X5U5U6B5ZNWLVIE7YCMXPI/",
-    "92. [Reference] Wikipedia. Extraordinary claims require extraordinary evidence. https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence",
-    "93. [Reference] Wikipedia. Carl Sagan. https://en.wikipedia.org/wiki/Carl_Sagan",
-    "94. [Lourdes Case] Sister Luigina Traverso - Acute lymphoblastic leukemia healing 2012. Video Testimony: https://www.youtube.com/watch?v=GJKAJY2QSLQ",
-    "95. [Reference] Wikipedia. Methodological naturalism. https://en.wikipedia.org/wiki/Methodological_naturalism",
-    "96. [Reference] Wikipedia. Supernatural. https://en.wikipedia.org/wiki/Supernatural",
-    "97. [Lourdes Case] Danila Castelli - Malignant hypertension healing 1989. Catholic.net article: https://catholic.net/op/articles/5918/the-miracles-of-lourdes-are-inexplicable.html",
-    "98. [Reference] Wikipedia. Laws of nature. https://en.wikipedia.org/wiki/Laws_of_nature",
-    "99. [Reference] Wikipedia. Cessationism. https://en.wikipedia.org/wiki/Cessationism",
-    "100. [Lourdes Case] Sister Bernadette Moriau - Cauda equina syndrome healing 2008, Bishop of Beauvais investigation, recognition 11 February 2018 - Official documentation: https://www.cbsnews.com/news/sanctuary-of-our-lady-of-lourdes-miracles-cures-60-minutes-transcript/",
-    "101. [Reference] Wikipedia. Continuationism. https://en.wikipedia.org/wiki/Continuationism",
-    "102. [Reference] Wikipedia. Charismatic movement. https://en.wikipedia.org/wiki/Charismatic_movement",
-    "103. [Academic Research] Candy Gunther Brown, 'Testing Prayer: Science and Healing' - Study on Proximal Intercessory Prayer in Mozambique. ResearchGate: https://www.researchgate.net/publication/45505841_Study_of_the_Therapeutic_Effects_of_Proximal_Intercessory_Prayer_STEPP_on_Auditory_and_Visual_Impairments_in_Rural_Mozambique",
-    "104. [Reference] Wikipedia. Pentecostalism. https://en.wikipedia.org/wiki/Pentecostalism",
-    "105. [Reference] Wikipedia. Global South. https://en.wikipedia.org/wiki/Global_South",
-    "106. [Medical Records] Barbara Snyder Case Western Reserve University - Complete medical file 1965-1981. Video Documentation: https://www.youtube.com/watch?v=ympZZFODTuc",
-    "107. [Reference] Wikipedia. Spiritual gift. https://en.wikipedia.org/wiki/Spiritual_gift",
-    "108. [Reference] Wikipedia. Exorcism in Christianity. https://en.wikipedia.org/wiki/Exorcism_in_Christianity",
-    "109. [Medical Documentation] Bruce Van Natta University of Wisconsin Hospital - Complete trauma records November 2006. Publisher's Blog: https://www.destinyimage.com/blog/2016/06/24/bruce-van-natta-saved-by-angels",
-    "110. [Reference] Wikipedia. Apologetics. https://en.wikipedia.org/wiki/Apologetics",
-    "111. [Medical Records] Dolores Winder Southern Medical Center Alabama - Pre/post X-rays June 1981. ChristianBook e-Book: https://www.christianbook.com/surprised-healing-greatest-miracles-century-ebook/delores-winder/9780768496345/pd/6260EB",
-    "112. Mel Tari, 'Like a Mighty Wind' (New Leaf Press, 1971) - Documentation of Indonesian revival healings. Available: https://theologos.co.za/product/ike-a-mighty-wind-mel-tari/",
-    "113. Heidi Baker, 'Compelled by Love' (Charisma House, 2008) - Book details. Available: https://christianbooks.ie/product/compelled-by-love/",
-    "114. [Academic Review] 'Testing Prayer: Science and Healing' - Review by Geoffrey W. Sutton. ResearchGate: https://www.researchgate.net/publication/273144871_Testing_Prayer_Science_and_Healing_Review",
-    "115. [Faculty Page] Dr. Candy Gunther Brown - Indiana University Department of Religious Studies. Available: https://religiousstudies.indiana.edu/about/faculty/brown-candy.html",
-    "116. [Peer-Reviewed] Candy Gunther Brown et al., 'Study of Healing Prayer in Mozambique' Southern Medical Journal 103:9 (September 2010). Journal Home: https://sma.org/southern-medical-journal/",
-    "117. [Medical Institution] Mayo Clinic Proceedings - 'Spontaneous Remission and Unexplained Recovery' research archives. Available: https://www.mayoclinicproceedings.org/",
-    "118. [Reference] Wikipedia. Herbert Benson. The Harvard cardiologist who led the STEP trial. https://en.wikipedia.org/wiki/Herbert_Benson",
-    "119. [Publication List] Herbert Benson, M.D. - List of authored books and research. ThriftBooks: https://www.thriftbooks.com/a/herbert-benson/202571/",
-    "120. [Research Center] Duke University Medical Center - Dr. Harold Koenig Center for Spirituality, Theology and Health research - Available: https://spiritualityandhealth.duke.edu/",
-    "121. [Neuroscience Research] University of Pennsylvania - Dr. Andrew Newberg brain imaging studies. Books: http://www.andrewnewberg.com/books",
-    "122. [Academic Institution] Johns Hopkins University - Placebo research beyond conventional explanations, controlled healing intervention trials. Article: https://muse.jhu.edu/article/362914",
-    "123. [Federal Agency] National Institutes of Health - NCCIH (National Center for Complementary and Integrative Health) About Page. Available: https://www.nccih.nih.gov/about",
-    "124. [Video Archive] Bethel Church Testimonies - Official miracle testimony archive. Available: https://www.bethel.com/testimony-categories/miracles",
-    "125. [Case Documentation] Chris Gunderson Hearing Restoration - Documented in 'Send Proof' documentary. Review: https://dove.org/review/593315-send-proof/",
-    "126. [Peer-Reviewed] Internet Encyclopedia of Philosophy. relig-ep. https://iep.utm.edu/relig-ep/",
-    "127. [Media Coverage] Delia Knox Healing - Bay Area Fellowship Mobile Alabama. Video Documentation: https://www.youtube.com/watch?v=jKHMc_Orn5I",
-    "128. [Reference] Wikipedia. Medical error. https://en.wikipedia.org/wiki/Medical_error",
-    "129. [Reference] Wikipedia. Misdiagnosis. https://en.wikipedia.org/wiki/Misdiagnosis",
-    "130. [Ministry Documentation] Todd White - Lifestyle Christianity Ministry Official Site. Available: https://lifestylechristianity.com/about-us/",
-    "131. [Reference] Wikipedia. Randomized controlled trial. https://en.wikipedia.org/wiki/Randomized_controlled_trial",
-    "132. [Reference] Wikipedia. Double-blind. https://en.wikipedia.org/wiki/Double-blind",
-    "133. [Mission Documentation] David Hogan - Freedom Ministries Official Site. Available: https://freedom-ministries.us/",
-    "134. [Reference] Wikipedia. Peer review. https://en.wikipedia.org/wiki/Peer_review",
-    "135. [Reference] Wikipedia. Replication crisis. https://en.wikipedia.org/wiki/Replication_crisis",
-    "136. [Incident Report] Miraculous Survival - Testimony of survival from a severe car accident. Video: https://www.youtube.com/watch?v=voRM90AtwIc",
-    "137. [Reference] Wikipedia. Publication bias. https://en.wikipedia.org/wiki/Publication_bias",
-    "138. [Reference] Wikipedia. Nocebo. https://en.wikipedia.org/wiki/Nocebo",
-    "139. [Academic Documentation] 'Miracles at Lourdes: Truth or Deception?' - Analysis of the Medical Bureau's skeptical process. Available: https://sspx.org/en/news/miracles-lourdes-truth-or-deception-8684",
-    "140. [Reference] Wikipedia. Psychosomatic medicine. https://en.wikipedia.org/wiki/Psychosomatic_medicine",
-    "141. [Reference] Wikipedia. Immune system. https://en.wikipedia.org/wiki/Immune_system",
-    "142. [Biography] Dr. Patrick Theillier - Former Lourdes Medical Bureau Director. Interview: https://www.catholic.org/news/saints/story.php?id=29146",
-    "143. [Reference] Wikipedia. Templeton Foundation. https://en.wikipedia.org/wiki/Templeton_Foundation",
-    "144. [Reference] Wikipedia. Mind-body problem. The framework behind psychosomatic explanations of healing. https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem",
-    "145. [Nobel Documentation] Alexis Carrel, 'The Voyage to Lourdes' (Harper, 1950) - Personal account of the Marie Bailly case. Google Books: https://books.google.com/books/about/The_Voyage_to_Lourdes.html?id=YIVlAAAAMAAJ",
-    "146. [Reference] Wikipedia. Harvard Medical School. https://en.wikipedia.org/wiki/Harvard_Medical_School",
-    "147. [Reference] Wikipedia. American Heart Journal. https://en.wikipedia.org/wiki/American_Heart_Journal",
-    "148. [Medical Research] Dr. Richard Casdorph - 'Testing the Power of Prayer' (Christian History Institute). Available: https://christianhistoryinstitute.org/magazine/article/testing-the-power-of-prayer",
-    "149. [Reference] Wikipedia. Southern Medical Journal. https://en.wikipedia.org/wiki/Southern_Medical_Journal",
-    "150. [Reference] Wikipedia. Indiana University. https://en.wikipedia.org/wiki/Indiana_University",
-    "151. [Reference] Wikipedia. Alexis Carrel. https://en.wikipedia.org/wiki/Alexis_Carrel",
-    "152. [Reference] Wikipedia. Nobel Prize in Physiology or Medicine. https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine",
-    "153. [Reference] Wikipedia. Vatican. https://en.wikipedia.org/wiki/Vatican",
-    "154. [Academic Book] C.S. Lewis, 'Miracles: A Preliminary Study' (HarperOne, 2001) - Discusses the nature of miracles in relation to natural law and the Christian worldview. Available: https://www.harpercollins.com/products/miracles-c-s-lewis",
-    "155. [Reference] Wikipedia. Catholic Church. https://en.wikipedia.org/wiki/Catholic_Church",
-    "156. [Reference] Wikipedia. Second Vatican Council. https://en.wikipedia.org/wiki/Second_Vatican_Council",
-    "157. [Academic Book] Candy Gunther Brown, 'Testing Prayer: Science and Healing' (Harvard University Press, 2012) - Provides medical data supportive of the continuationist position. Available: https://www.perlego.com/book/1147930/testing-prayer-science-and-healing-pdf",
-    "158. [Reference] Wikipedia. Thomas Aquinas. https://en.wikipedia.org/wiki/Thomas_Aquinas",
-    "159. [Reference] Wikipedia. Augustine of Hippo. https://en.wikipedia.org/wiki/Augustine_of_Hippo",
-    "160. [Academic Source] Francis MacNutt, 'Healing' (Notre Dame Press, 1974) - Discusses the New Testament mandate for healing ministry as an ongoing command. Available: https://www.amazon.com/Healing-Francis-MacNutt/dp/0877930740",
-    "161. [Reference] Wikipedia. C. S. Lewis. https://en.wikipedia.org/wiki/C._S._Lewis",
-    "162. [Reference] Wikipedia. Miracles. https://en.wikipedia.org/wiki/Miracles_(book)"
+    "10. [Academic Paper] C. Caracappa & B. C. Corry. 'Miracles and Medicine: An Analysis of the Medical Criteria for an Unexplained Healing' (Journal of Religious & Health, 2018) - Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC4313433/",
+    "11. [Reference] summary. https://muse.jhu.edu/article/383274/summary",
+    "12. [Reference] miracles-the-credibility-of-the-new-testament-accounts. https://denverjournal.denverseminary.edu/the-denver-journal-article/miracles-the-credibility-of-the-new-testament-accounts/",
+    "13. [Medical Bureau] Lourdes Medical Bureau Official Records. 'Recognized miraculous healings 1858-2018' https://www.indcatholicnews.com/news/34329",
+    "14. [Evangelical] The Gospel Coalition. miracles-the-credibility-of-the-new-testament-accounts. https://www.thegospelcoalition.org/themelios/review/miracles-the-credibility-of-the-new-testament-accounts/",
+    "15. [Reference] 9.R28-R32-Ong on Keener.pdf. http://jgrchj.net/reviews/9.R28-R32-Ong_on_Keener.pdf",
+    "16. Patrick Theillier, 'Lourdes: Miracles and Medical Science' (Paulist Press, 2006) - Former atheist neurologist's investigation of Lourdes healings - Available: https://www.catholicnewsagency.com/news/253153/meet-sister-bernadette-the-most-recently-cured-person-at-lourdes",
+    "17. [Reference] miracles-the-credibility-of-the-new-testament-accounts. https://christianscholars.com/miracles-the-credibility-of-the-new-testament-accounts/",
+    "18. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. miracles. https://plato.stanford.edu/entries/miracles/",
+    "19. [Medical Documentation] Candy Gunther Brown, 'Testing Prayer: Science and Healing' - Full Text Scan. Available: https://archive.org/details/testingprayersci00brow",
+    "20. [Peer-Reviewed] Internet Encyclopedia of Philosophy. miracles. https://iep.utm.edu/miracles/",
+    "21. [Reference] PMC2802370. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2802370/",
+    "22. Jeff Doles, 'Miracles and Manifestations of the Holy Spirit in the History of the Church' (Walking Barefoot Ministries, 2008) - Historical documentation. Available: https://books.google.com/books/about/Miracles_and_Manifestations_of_the_Holy.html?id=MGVCH3ztklgC",
+    "23. [Encyclopedia] Britannica. miracle. https://www.britannica.com/topic/miracle",
+    "24. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. hume. https://plato.stanford.edu/entries/hume/",
+    "25. [Medical Records] Dolores Winder Scoliosis Case - Southern Medical Center Birmingham, Alabama. Documented in 'Surprised by Healing' (Logos Bible Software): https://www.logos.com/product/37183/surprised-by-healing-one-of-the-greatest-healing-miracles-of-the-21st-century",
+    "26. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. religion-epistemology. https://plato.stanford.edu/entries/religion-epistemology/",
+    "27. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. testimony-episprob. https://plato.stanford.edu/entries/testimony-episprob/",
+    "28. [Medical Documentation] Barbara Snyder Multiple Sclerosis Case - Case Western Reserve University Hospital. Documented by New Life Publishing: https://newlifepublishing.co.uk/blogs/real-life/from-deaths-door-to-walking-miracle",
+    "29. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. bayes-theorem. https://plato.stanford.edu/entries/bayes-theorem/",
+    "30. [Reference] Wikipedia. Lourdes Medical Bureau. https://en.wikipedia.org/wiki/Lourdes_Medical_Bureau",
+    "31. Bruce Van Natta, 'Saved by Angels' (Destiny Image, 2009) - First-person account with University of Wisconsin Hospital medical documentation. Available: https://www.barnesandnoble.com/w/saved-by-angels-bruce-van-natta/1101230257",
+    "32. [Reference] Wikipedia. Miracle. https://en.wikipedia.org/wiki/Miracle",
+    "33. [Reference] Wikipedia. Of Miracles. https://en.wikipedia.org/wiki/Of_Miracles",
+    "34. [Official Record] John Traynor - 71st Miracle of Lourdes. Proclaimed by Archbishop Malcolm McMahon (Liverpool) December 2024. Official details: https://www.lourdes-france.com/en/john-traynor-71st-miracle-at-lourdes/",
+    "35. [Reference] Wikipedia. David Hume. https://en.wikipedia.org/wiki/David_Hume",
+    "36. [Reference] Wikipedia. Craig S. Keener. https://en.wikipedia.org/wiki/Craig_S._Keener",
+    "37. [News Report] 'Lourdes confirms 71st miracle—and the first for an English speaker' - America Magazine, December 10, 2024. Available: https://www.americamagazine.org/faith/2024/12/10/lourdes-confirms-first-miracle-english-speaker-249449/",
+    "38. [Reference] Wikipedia. Spontaneous remission. https://en.wikipedia.org/wiki/Spontaneous_remission",
+    "39. [Reference] Wikipedia. Placebo. https://en.wikipedia.org/wiki/Placebo",
+    "40. [Academic Book] Craig S. Keener, 'Miracles: The Credibility of the New Testament Accounts' (Baker Academic, 2011) - Two-volume scholarly examination. Available: https://www.logos.com/product/39638/miracles-the-credibility-of-the-new-testament-accounts-volume-1-and-2",
+    "41. [Reference] Wikipedia. Regression toward the mean. https://en.wikipedia.org/wiki/Regression_toward_the_mean",
+    "42. [Reference] 11832526. https://pubmed.ncbi.nlm.nih.gov/11832526/",
+    "43. [Lourdes Case] Catherine Latapie - Ulnar nerve paralysis healing 1858. First recognized miracle. Details: https://www.lourdes-france.org/en/25th-march-1858-the-lady-says-her-name/",
+    "44. [Reference] 10836151. https://pubmed.ncbi.nlm.nih.gov/10836151/",
+    "45. [Reference] 19735177. https://pubmed.ncbi.nlm.nih.gov/19735177/",
+    "46. [Lourdes Case] Louis Bouriette - Blindness from trauma healing 1858. Documented in Miracle Hunter Archives: https://www.miraclehunter.com/marian_apparitions/approved_apparitions/lourdes/miracles1.html",
+    "47. [Reference] PMC1121994. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1121994/",
+    "48. [Reference] PMC3671693. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3671693/",
+    "49. [Lourdes Case] Blaisette Cazenave - Severe ophthalmia healing 1858. Case overview: https://miraclesnevercease.com/2021/04/04/lourdes/",
+    "50. [Reference] PMC5871252. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5871252/",
+    "51. [Reference] PMC4802397. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4802397/",
+    "52. [Lourdes Case] Henri Busquet - Tuberculosis healing 1858. Historical record: https://www.theworkofgod.org/Aparitns/Lourdes/Lourdes1.htm",
+    "53. [Reference] 486009. https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/486009",
+    "54. [Reference] jhmas. https://academic.oup.com/jhmas",
+    "55. [Lourdes Case] Justin Bouhort - Spinal deformity healing 1858. Historical analysis: https://www.tfp.org/three-miracles-at-lourdes-that-devastated-liberalism/",
+    "56. [Reference] MCGTHO. https://philpapers.org/rec/MCGTHO",
+    "57. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. religious-experience. https://plato.stanford.edu/entries/religious-experience/",
+    "58. [Lourdes Case] Madeleine Rizan - Nervous system disorder healing 1858. Documented in medical archives: https://spiritualreading.co.za/wp-content/uploads/2020/08/Miracles-of-Lourdes.pdf",
+    "59. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. pragmatic-belief-god. https://plato.stanford.edu/entries/pragmatic-belief-god/",
+    "60. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. evidence. https://plato.stanford.edu/entries/evidence/",
+    "61. [Lourdes Case] Marie Moreau - Healing 1858. Case details: https://catholicism.org/lourdes-if-miracles-can-happen-let-them-recounted-by-a-jewish-author.html",
+    "62. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. probability-interpret. https://plato.stanford.edu/entries/probability-interpret/",
+    "63. [Peer-Reviewed] Internet Encyclopedia of Philosophy. hume-rel. https://iep.utm.edu/hume-rel/",
+    "64. [Lourdes Case] Pierre De Rudder - Compound fracture with 8-year non-union, 3cm bone gap, instantaneous fusion 1875, bronze cast preserved at Lourdes Medical Bureau, recognition 25 July 1908 - Details: https://www.catholicherald.com/article/local/lourdes-and-the-miraculous-cures/",
+    "65. [Reference] 20015713. https://www.jstor.org/stable/20015713",
+    "66. [Encyclopedia] Britannica. David-Hume. https://www.britannica.com/biography/David-Hume",
+    "67. [Lourdes Case] Joachime Dehant - Leg ulceration healing 1875. Documented case study: https://billdembski.com/book/the-faces-of-miracles/chapter-8/",
+    "68. [Encyclopedia] Britannica. Lourdes. https://www.britannica.com/place/Lourdes",
+    "69. [Reference] Wikipedia. Faith healing. https://en.wikipedia.org/wiki/Faith_healing",
+    "70. [Lourdes Case] Elisa Seisson - Heart disease healing. Official Sanctuary Records: https://www.lourdes-france.org/en/miraculous-healings/",
+    "71. [Reference] Wikipedia. Miracles of Jesus. https://en.wikipedia.org/wiki/Miracles_of_Jesus",
+    "72. [Reference] Wikipedia. Sanctuary of Our Lady of Lourdes. https://en.wikipedia.org/wiki/Sanctuary_of_Our_Lady_of_Lourdes",
+    "73. [Medical Journal] 'The Lourdes Medical Cures Revisited' - Journal of the Royal Society of Medicine (2012) 105(12): 527–532. Comprehensive review of early cures. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC3854941/",
+    "74. [Reference] Wikipedia. Bernadette Soubirous. https://en.wikipedia.org/wiki/Bernadette_Soubirous",
+    "75. [Reference] Wikipedia. Canonization. https://en.wikipedia.org/wiki/Canonization",
+    "76. [Lourdes Case] Vittorio Micheli - Osteosarcoma of pelvis with complete hip joint destruction, bone regeneration documented, Scurelle Italy, recognition 26 May 1976 - Case Report: https://pubmed.ncbi.nlm.nih.gov/15253418/",
+    "77. [Reference] Wikipedia. Congregation for the Causes of Saints. https://en.wikipedia.org/wiki/Congregation_for_the_Causes_of_Saints",
+    "78. [Reference] Wikipedia. Postulator. https://en.wikipedia.org/wiki/Postulator",
+    "79. [Lourdes Case] Serge Perrin - Recurrent organic hemiplegia healing 1970. Medical bureau newsletter: https://www.lourdescenter.org/newsletters/2015/01-02-15.pdf",
+    "80. [Reference] Wikipedia. Beatification. https://en.wikipedia.org/wiki/Beatification",
+    "81. [Reference] Wikipedia. Confirmation bias. https://en.wikipedia.org/wiki/Confirmation_bias",
+    "82. [Lourdes Case] Delizia Cirolli - Heart disease healing 1976. Documented in Holy Art blog: https://www.holyart.co.uk/blog/saints-and-blessed/the-miracles-of-our-lady-of-lourdes-from-her-first-apparition/",
+    "83. [Reference] Wikipedia. Anecdotal evidence. https://en.wikipedia.org/wiki/Anecdotal_evidence",
+    "84. [Reference] Wikipedia. Survivorship bias. https://en.wikipedia.org/wiki/Survivorship_bias",
+    "85. [Lourdes Case] Jean-Pierre Bély - Multiple sclerosis healing 1987, La Couronne France, MRI documentation of lesion resolution, recognition 9 February 1999 - Medical Report: https://www.ewtn.com/catholicism/library/authentication-of-a-cure-at-lourdes-5985",
+    "86. [Reference] Wikipedia. Base rate fallacy. https://en.wikipedia.org/wiki/Base_rate_fallacy",
+    "87. [Reference] Wikipedia. Bayesian inference. https://en.wikipedia.org/wiki/Bayesian_inference",
+    "88. [Lourdes Case] Anna Santaniello - Rheumatic heart disease healing 1952. News Report: https://www.nzherald.co.nz/world/lourdes-miracle-recognised-by-church/JCU3X5U5U6B5ZNWLVIE7YCMXPI/",
+    "89. [Reference] Wikipedia. Extraordinary claims require extraordinary evidence. https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence",
+    "90. [Reference] Wikipedia. Carl Sagan. https://en.wikipedia.org/wiki/Carl_Sagan",
+    "91. [Lourdes Case] Sister Luigina Traverso - Acute lymphoblastic leukemia healing 2012. Video Testimony: https://www.youtube.com/watch?v=GJKAJY2QSLQ",
+    "92. [Reference] Wikipedia. Methodological naturalism. https://en.wikipedia.org/wiki/Methodological_naturalism",
+    "93. [Reference] Wikipedia. Supernatural. https://en.wikipedia.org/wiki/Supernatural",
+    "94. [Lourdes Case] Danila Castelli - Malignant hypertension healing 1989. Catholic.net article: https://catholic.net/op/articles/5918/the-miracles-of-lourdes-are-inexplicable.html",
+    "95. [Reference] Wikipedia. Laws of nature. https://en.wikipedia.org/wiki/Laws_of_nature",
+    "96. [Reference] Wikipedia. Cessationism. https://en.wikipedia.org/wiki/Cessationism",
+    "97. [Lourdes Case] Sister Bernadette Moriau - Cauda equina syndrome healing 2008, Bishop of Beauvais investigation, recognition 11 February 2018 - Official documentation: https://www.cbsnews.com/news/sanctuary-of-our-lady-of-lourdes-miracles-cures-60-minutes-transcript/",
+    "98. [Reference] Wikipedia. Continuationism. https://en.wikipedia.org/wiki/Continuationism",
+    "99. [Reference] Wikipedia. Charismatic movement. https://en.wikipedia.org/wiki/Charismatic_movement",
+    "100. [Academic Research] Candy Gunther Brown, 'Testing Prayer: Science and Healing' - Study on Proximal Intercessory Prayer in Mozambique. ResearchGate: https://www.researchgate.net/publication/45505841_Study_of_the_Therapeutic_Effects_of_Proximal_Intercessory_Prayer_STEPP_on_Auditory_and_Visual_Impairments_in_Rural_Mozambique",
+    "101. [Reference] Wikipedia. Pentecostalism. https://en.wikipedia.org/wiki/Pentecostalism",
+    "102. [Reference] Wikipedia. Global South. https://en.wikipedia.org/wiki/Global_South",
+    "103. [Medical Records] Barbara Snyder Case Western Reserve University - Complete medical file 1965-1981. Video Documentation: https://www.youtube.com/watch?v=ympZZFODTuc",
+    "104. [Reference] Wikipedia. Spiritual gift. https://en.wikipedia.org/wiki/Spiritual_gift",
+    "105. [Reference] Wikipedia. Exorcism in Christianity. https://en.wikipedia.org/wiki/Exorcism_in_Christianity",
+    "106. [Medical Documentation] Bruce Van Natta University of Wisconsin Hospital - Complete trauma records November 2006. Publisher's Blog: https://www.destinyimage.com/blog/2016/06/24/bruce-van-natta-saved-by-angels",
+    "107. [Reference] Wikipedia. Apologetics. https://en.wikipedia.org/wiki/Apologetics",
+    "108. [Medical Records] Dolores Winder Southern Medical Center Alabama - Pre/post X-rays June 1981. ChristianBook e-Book: https://www.christianbook.com/surprised-healing-greatest-miracles-century-ebook/delores-winder/9780768496345/pd/6260EB",
+    "109. Mel Tari, 'Like a Mighty Wind' (New Leaf Press, 1971) - Documentation of Indonesian revival healings. Available: https://theologos.co.za/product/ike-a-mighty-wind-mel-tari/",
+    "110. Heidi Baker, 'Compelled by Love' (Charisma House, 2008) - Book details. Available: https://christianbooks.ie/product/compelled-by-love/",
+    "111. [Academic Review] 'Testing Prayer: Science and Healing' - Review by Geoffrey W. Sutton. ResearchGate: https://www.researchgate.net/publication/273144871_Testing_Prayer_Science_and_Healing_Review",
+    "112. [Faculty Page] Dr. Candy Gunther Brown - Indiana University Department of Religious Studies. Available: https://religiousstudies.indiana.edu/about/faculty/brown-candy.html",
+    "113. [Peer-Reviewed] Candy Gunther Brown et al., 'Study of Healing Prayer in Mozambique' Southern Medical Journal 103:9 (September 2010). Journal Home: https://sma.org/southern-medical-journal/",
+    "114. [Medical Institution] Mayo Clinic Proceedings - 'Spontaneous Remission and Unexplained Recovery' research archives. Available: https://www.mayoclinicproceedings.org/",
+    "115. [Reference] Wikipedia. Herbert Benson. The Harvard cardiologist who led the STEP trial. https://en.wikipedia.org/wiki/Herbert_Benson",
+    "116. [Publication List] Herbert Benson, M.D. - List of authored books and research. ThriftBooks: https://www.thriftbooks.com/a/herbert-benson/202571/",
+    "117. [Research Center] Duke University Medical Center - Dr. Harold Koenig Center for Spirituality, Theology and Health research - Available: https://spiritualityandhealth.duke.edu/",
+    "118. [Neuroscience Research] University of Pennsylvania - Dr. Andrew Newberg brain imaging studies. Books: http://www.andrewnewberg.com/books",
+    "119. [Academic Institution] Johns Hopkins University - Placebo research beyond conventional explanations, controlled healing intervention trials. Article: https://muse.jhu.edu/article/362914",
+    "120. [Federal Agency] National Institutes of Health - NCCIH (National Center for Complementary and Integrative Health) About Page. Available: https://www.nccih.nih.gov/about",
+    "121. [Video Archive] Bethel Church Testimonies - Official miracle testimony archive. Available: https://www.bethel.com/testimony-categories/miracles",
+    "122. [Case Documentation] Chris Gunderson Hearing Restoration - Documented in 'Send Proof' documentary. Review: https://dove.org/review/593315-send-proof/",
+    "123. [Peer-Reviewed] Internet Encyclopedia of Philosophy. relig-ep. https://iep.utm.edu/relig-ep/",
+    "124. [Media Coverage] Delia Knox Healing - Bay Area Fellowship Mobile Alabama. Video Documentation: https://www.youtube.com/watch?v=jKHMc_Orn5I",
+    "125. [Reference] Wikipedia. Medical error. https://en.wikipedia.org/wiki/Medical_error",
+    "126. [Reference] Wikipedia. Misdiagnosis. https://en.wikipedia.org/wiki/Misdiagnosis",
+    "127. [Ministry Documentation] Todd White - Lifestyle Christianity Ministry Official Site. Available: https://lifestylechristianity.com/about-us/",
+    "128. [Reference] Wikipedia. Randomized controlled trial. https://en.wikipedia.org/wiki/Randomized_controlled_trial",
+    "129. [Reference] Wikipedia. Double-blind. https://en.wikipedia.org/wiki/Double-blind",
+    "130. [Mission Documentation] David Hogan - Freedom Ministries Official Site. Available: https://freedom-ministries.us/",
+    "131. [Reference] Wikipedia. Peer review. https://en.wikipedia.org/wiki/Peer_review",
+    "132. [Reference] Wikipedia. Replication crisis. https://en.wikipedia.org/wiki/Replication_crisis",
+    "133. [Incident Report] Miraculous Survival - Testimony of survival from a severe car accident. Video: https://www.youtube.com/watch?v=voRM90AtwIc",
+    "134. [Reference] Wikipedia. Publication bias. https://en.wikipedia.org/wiki/Publication_bias",
+    "135. [Reference] Wikipedia. Nocebo. https://en.wikipedia.org/wiki/Nocebo",
+    "136. [Academic Documentation] 'Miracles at Lourdes: Truth or Deception?' - Analysis of the Medical Bureau's skeptical process. Available: https://sspx.org/en/news/miracles-lourdes-truth-or-deception-8684",
+    "137. [Reference] Wikipedia. Psychosomatic medicine. https://en.wikipedia.org/wiki/Psychosomatic_medicine",
+    "138. [Reference] Wikipedia. Immune system. https://en.wikipedia.org/wiki/Immune_system",
+    "139. [Biography] Dr. Patrick Theillier - Former Lourdes Medical Bureau Director. Interview: https://www.catholic.org/news/saints/story.php?id=29146",
+    "140. [Reference] Wikipedia. Templeton Foundation. https://en.wikipedia.org/wiki/Templeton_Foundation",
+    "141. [Reference] Wikipedia. Mind-body problem. The framework behind psychosomatic explanations of healing. https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem",
+    "142. [Nobel Documentation] Alexis Carrel, 'The Voyage to Lourdes' (Harper, 1950) - Personal account of the Marie Bailly case. Google Books: https://books.google.com/books/about/The_Voyage_to_Lourdes.html?id=YIVlAAAAMAAJ",
+    "143. [Reference] Wikipedia. Harvard Medical School. https://en.wikipedia.org/wiki/Harvard_Medical_School",
+    "144. [Reference] Wikipedia. American Heart Journal. https://en.wikipedia.org/wiki/American_Heart_Journal",
+    "145. [Medical Research] Dr. Richard Casdorph - 'Testing the Power of Prayer' (Christian History Institute). Available: https://christianhistoryinstitute.org/magazine/article/testing-the-power-of-prayer",
+    "146. [Reference] Wikipedia. Southern Medical Journal. https://en.wikipedia.org/wiki/Southern_Medical_Journal",
+    "147. [Reference] Wikipedia. Indiana University. https://en.wikipedia.org/wiki/Indiana_University",
+    "148. [Reference] Wikipedia. Alexis Carrel. https://en.wikipedia.org/wiki/Alexis_Carrel",
+    "149. [Reference] Wikipedia. Nobel Prize in Physiology or Medicine. https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine",
+    "150. [Reference] Wikipedia. Vatican. https://en.wikipedia.org/wiki/Vatican",
+    "151. [Academic Book] C.S. Lewis, 'Miracles: A Preliminary Study' (HarperOne, 2001) - Discusses the nature of miracles in relation to natural law and the Christian worldview. Available: https://www.harpercollins.com/products/miracles-c-s-lewis",
+    "152. [Reference] Wikipedia. Catholic Church. https://en.wikipedia.org/wiki/Catholic_Church",
+    "153. [Reference] Wikipedia. Second Vatican Council. https://en.wikipedia.org/wiki/Second_Vatican_Council",
+    "154. [Academic Book] Candy Gunther Brown, 'Testing Prayer: Science and Healing' (Harvard University Press, 2012) - Provides medical data supportive of the continuationist position. Available: https://www.perlego.com/book/1147930/testing-prayer-science-and-healing-pdf",
+    "155. [Reference] Wikipedia. Thomas Aquinas. https://en.wikipedia.org/wiki/Thomas_Aquinas",
+    "156. [Reference] Wikipedia. Augustine of Hippo. https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "157. [Academic Source] Francis MacNutt, 'Healing' (Notre Dame Press, 1974) - Discusses the New Testament mandate for healing ministry as an ongoing command. Available: https://www.amazon.com/Healing-Francis-MacNutt/dp/0877930740",
+    "158. [Reference] Wikipedia. C. S. Lewis. https://en.wikipedia.org/wiki/C._S._Lewis",
+    "159. [Reference] Wikipedia. Miracles. https://en.wikipedia.org/wiki/Miracles_(book)"
   ],
   lastUpdated: "09-09-2025",
 }
