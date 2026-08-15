@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      '@gitgraph/react':
-        specifier: ^1.6.0
-        version: 1.6.0(react@19.2.4)
       '@radix-ui/react-dialog':
         specifier: ^1.1.14
         version: 1.1.15(@types/react-dom@19.2.3(@types/react@19.2.14))(@types/react@19.2.14)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -29,9 +26,6 @@ importers:
       next:
         specifier: ^15.1.4
         version: 15.5.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
-      next-themes:
-        specifier: ^0.4.6
-        version: 0.4.6(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
       react:
         specifier: ^19.2.3
         version: 19.2.4
@@ -125,14 +119,6 @@ packages:
   '@eslint/plugin-kit@0.4.1':
     resolution: {integrity: sha512-43/qtrDUokr7LJqoF2c3+RInu/t4zfrpYdoSDfYyhg52rwLV6TnOvdG4fXm7IkSB3wErkcmJS9iEhjVtOSEjjA==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
-
-  '@gitgraph/core@1.5.0':
-    resolution: {integrity: sha512-8CeeHbkKoFHM1y9vfjYiHyEpzl1mEhVrg5c/eFgDBsntOYswoDKU2yOf6DjtVINcE60wmcuynBSJqjMkQo07Ww==}
-
-  '@gitgraph/react@1.6.0':
-    resolution: {integrity: sha512-cLFNZDoEiNbsnMfdT82zeZti5saYghQamfCbTpVvCRr+BrrQ/k94glkZqYPXKKNTEqbQV6L9JeOfAk1hNiFYXA==}
-    peerDependencies:
-      react: '>= 16.8.0'
 
   '@humanfs/core@0.19.1':
     resolution: {integrity: sha512-5DyQ4+1JEUzejeK1JGICcideyfUbGixgS9jNgex5nqkW+cY7WZhxBigmieN5Qnw9ZosSNVC9KQKyb+GUaGyKUA==}
@@ -1667,12 +1653,6 @@ packages:
   natural-compare@1.4.0:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
 
-  next-themes@0.4.6:
-    resolution: {integrity: sha512-pZvgD5L0IEvX5/9GWyHMf3m8BKiVQwsCMHfoFosXtXBMnaS0ZnIJ9ST4b4NqLVKDEm8QBxoNNGNaBv2JNF6XNA==}
-    peerDependencies:
-      react: ^16.8 || ^17 || ^18 || ^19 || ^19.0.0-rc
-      react-dom: ^16.8 || ^17 || ^18 || ^19 || ^19.0.0-rc
-
   next@15.5.12:
     resolution: {integrity: sha512-Fi/wQ4Etlrn60rz78bebG1i1SR20QxvV8tVp6iJspjLUSHcZoeUXCt+vmWoEcza85ElZzExK/jJ/F6SvtGktjA==}
     engines: {node: ^18.18.0 || ^19.8.0 || >= 20.0.0}
@@ -2184,13 +2164,6 @@ snapshots:
     dependencies:
       '@eslint/core': 0.17.0
       levn: 0.4.1
-
-  '@gitgraph/core@1.5.0': {}
-
-  '@gitgraph/react@1.6.0(react@19.2.4)':
-    dependencies:
-      '@gitgraph/core': 1.5.0
-      react: 19.2.4
 
   '@humanfs/core@0.19.1': {}
 
@@ -3712,11 +3685,6 @@ snapshots:
   napi-postinstall@0.3.4: {}
 
   natural-compare@1.4.0: {}
-
-  next-themes@0.4.6(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
-    dependencies:
-      react: 19.2.4
-      react-dom: 19.2.4(react@19.2.4)
 
   next@15.5.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
     dependencies:
