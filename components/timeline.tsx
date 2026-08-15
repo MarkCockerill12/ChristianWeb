@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge"
 import { Calendar } from "lucide-react"
 import type { TimelineEvent } from "@/topics/types"
 import { badgeClass, dotClass, iconTextClass, railClass } from "@/lib/colors"
+import { renderInline } from "@/components/content-renderer"
 
 interface TimelineProps {
   readonly events: TimelineEvent[]
@@ -63,7 +64,7 @@ export function Timeline({
                     <CardHeader className="pb-3">
                       <div className="flex flex-col gap-2">
                         <div>
-                          <CardTitle className="text-lg" dangerouslySetInnerHTML={{ __html: event.title }}></CardTitle>
+                          <CardTitle className="text-lg" dangerouslySetInnerHTML={{ __html: renderInline(event.title) }}></CardTitle>
                           <div className="flex items-center gap-4 text-sm text-gray-600 mt-1">
                             <Badge variant="secondary" className="text-xs">{event.period}</Badge>
                           </div>
@@ -71,13 +72,13 @@ export function Timeline({
                       </div>
                       <CardDescription
                         className="text-sm"
-                        dangerouslySetInnerHTML={{ __html: event.description }}
+                        dangerouslySetInnerHTML={{ __html: renderInline(event.description) }}
                       />
                     </CardHeader>
                     <CardContent className="pt-0">
                       <div>
                         <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
-                        <p className="text-xs text-gray-600" dangerouslySetInnerHTML={{ __html: event.significance }} />
+                        <p className="text-xs text-gray-600" dangerouslySetInnerHTML={{ __html: renderInline(event.significance) }} />
                       </div>
                     </CardContent>
                   </Card>
@@ -100,7 +101,7 @@ export function Timeline({
                       <CardHeader className="pb-3">
                         <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
                           <div>
-                            <CardTitle className="text-lg" dangerouslySetInnerHTML={{ __html: event.title }}></CardTitle>
+                            <CardTitle className="text-lg" dangerouslySetInnerHTML={{ __html: renderInline(event.title) }}></CardTitle>
                             <div className="flex items-center gap-4 text-sm text-gray-600 mt-1">
                               <Badge variant="secondary" className="text-xs">{event.period}</Badge>
                             </div>
@@ -108,13 +109,13 @@ export function Timeline({
                         </div>
                         <CardDescription
                           className="text-sm"
-                          dangerouslySetInnerHTML={{ __html: event.description }}
+                          dangerouslySetInnerHTML={{ __html: renderInline(event.description) }}
                         />
                       </CardHeader>
                       <CardContent className="pt-0">
                         <div>
                           <h4 className="font-semibold text-xs text-gray-700 mb-1">Significance</h4>
-                          <p className="text-xs text-gray-600" dangerouslySetInnerHTML={{ __html: event.significance }} />
+                          <p className="text-xs text-gray-600" dangerouslySetInnerHTML={{ __html: renderInline(event.significance) }} />
                         </div>
                       </CardContent>
                     </Card>

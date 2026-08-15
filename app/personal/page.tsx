@@ -36,7 +36,7 @@ export default function PersonalPage() {
               My Journey to Faith
             </CardTitle>
           </CardHeader>
-          <CardContent className="prose prose-lg max-w-none">
+          <CardContent className="max-w-none">
             <p className="text-gray-700 leading-relaxed mb-4">
               To start, ever since I have been able to choose, I have always been a christian, always gone to church and always believed in God and the bible, so my personal story isn&apos;t one with a huge turn around and lots of drama but nontheless, a path is not any less of a path if there are less obstacles in the way.
             </p>

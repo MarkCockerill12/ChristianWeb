@@ -18,7 +18,7 @@ With thousands of religions and belief systems throughout history[^1] why should
 
 • **Fulfilled prophecies:** Scholars identify approximately 100-300 specific prophecies about the Messiah fulfilled in Jesus[^4]
 
-• **Resurrection evidence:** Strong historical evidence for Jesus' resurrection from the dead accepted by the majority of New Testament scholars[^5]
+• **Resurrection evidence:** A majority of New Testament historians accept a core set of facts, that Jesus was crucified, that his tomb was found empty, and that his followers had experiences they took to be appearances of the risen Christ. They do not agree on the explanation, and the resurrection itself is a conclusion argued from those facts rather than a scholarly consensus[^5]
 
 • **Grace over works:** Salvation by faith alone ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians%202%3A8-9&version=NIV)), not by human effort or merit
 
@@ -27,7 +27,17 @@ With thousands of religions and belief systems throughout history[^1] why should
 • **Moral foundation:** Provides absolute moral standards based on God's unchanging character[^6]
 
 
-While we should respectfully engage with other faiths and learn from their insights, Christianity provides the most compelling answers to humanity's deepest questions about meaning, morality and eternal destiny.
+### How the Two Columns Should Be Read
+
+Each tradition below is set out with a list of positive aspects and a list of areas of concern. Three rules govern what goes in the second list, because a comparison of religions is very easy to rig.
+
+• **"Areas of concern" means a Christian assessment, not an agreed defect.** These are points where a tradition differs from Christian claims, or where it faces an internal difficulty that its own thinkers discuss. Adherents contest them, and where they have a standard answer that answer is given rather than omitted.
+
+• **A difficulty that applies equally to Christianity is not counted against another faith.** Internal diversity between schools, disagreement over how far later interpretation may develop an earlier text, and the presence of legendary material in later strata are all charges that can be brought against Christianity, which has a page of its own on its divisions. Where such a point is noted, it is noted as a feature of the tradition rather than pressed as an objection.
+
+• **Criticism has to be accurate before it can be fair.** Misdescribing what a group believes in order to refute it is worthless, and worse than worthless when the misdescription flatters the critic. Several entries below were corrected on exactly that ground.
+
+Christianity's own difficult questions are not hidden elsewhere on this site, and the case for it is meant to rest on the evidence for its central claims rather than on other religions being presented at their weakest.
 
 `,
   subtopics: [
@@ -168,17 +178,17 @@ While we should respectfully engage with other faiths and learn from their insig
 
 
 
-    - **Messianic rejection:** Rejection of Jesus despite fulfilled prophecies[^41]
+    - **The messianic question:** Judaism does not accept Jesus as Messiah, and the reasons are substantive rather than a refusal to look at evidence. Jewish expectation is that the Messiah will gather the exiles, rebuild the Temple and establish universal peace, none of which happened in the first century; Maimonides set out those criteria as tests a claimant must visibly meet. Isaiah 53 is read as describing Israel corporately rather than an individual. The Christian reply distinguishes a first coming to atone from a second to reign, and argues that the servant of Isaiah 53 suffers *for* the people and so cannot simply *be* the people. Both positions are readings of the same texts, and the disagreement is old and serious[^41]
 
-      - **Oral law authority:** Talmud claims equal authority with Scripture[^42]
+      - **Authority of the oral law:** Rabbinic Judaism holds that the Oral Torah, later written down in the Mishnah and Talmud, was given alongside the written Law. Christians accept only the written Scriptures as canonical at this point. That is a genuine difference over the seat of authority rather than a flaw Jews would recognise, and it parallels the Protestant and Catholic disagreement over tradition[^42]
 
-      - **Sacrifice system interruption:** Central practices cannot be performed without Temple[^43]
+      - **Temple-dependent practice:** The sacrificial system set out in Leviticus has been impossible to perform since the destruction of the Temple in 70 AD[^43]
 
-      - **Atonement mechanism:** No clear path for sin forgiveness without sacrifices[^44][^45]
+      - **Atonement after the Temple:** Judaism did not lose a doctrine of atonement in 70 AD. Rabbinic teaching, drawing on Hosea 6:6 and on Yohanan ben Zakkai's response to the destruction, holds that repentance, prayer and deeds of loving kindness atone for sin, and the liturgy of Yom Kippur is built on it. The Christian claim is not that Judaism offers no path to forgiveness but that Hebrews argues blood sacrifice was required and that Christ supplies it once for all. Saying that Jews have no answer here misdescribes what they believe and should not be repeated[^44][^45]
 
-      - **Denominational disagreements:** Contradictory views on fundamental practices[^46]
+      - **Movements differ over halakhah:** Orthodox, Conservative and Reform Judaism disagree about how binding Jewish law is and how it may develop. This is real internal diversity, and it is the same kind Christianity displays across its own branches, so it is recorded rather than pressed as an objection[^46]
 
-      - **Rabbinic contradictions:** Later interpretations contradict plain Scripture meanings[^47]
+      - **Development of interpretation:** Christians and Jews disagree over whether rabbinic interpretation unfolds the plain sense of the Hebrew Scriptures or moves away from it. Exactly the same question is asked about the development of Christian doctrine, and it is not settled by assertion from either side[^47]
     </div>
 </div>
 
@@ -255,17 +265,17 @@ While we should respectfully engage with other faiths and learn from their insig
 
 
 
-    - **Contradictory scriptures:** Different texts present conflicting creation stories[^67]
+    - **Diversity of scripture:** The Vedas, Upanishads, Puranas and epics contain several accounts of origins that do not harmonise into one narrative. Hindu tradition largely does not require them to, treating them as complementary approaches rather than as a single historical record, which is itself a substantial difference from the Christian view of Scripture rather than an internal inconsistency by Hindu standards[^67]
 
-      - **Caste system:** Sacred texts promote social hierarchy based on birth[^68]
+      - **Caste:** The fourfold varna order appears in the Purusha hymn of the Rig Veda and is elaborated in the Manusmriti into a hereditary hierarchy with severe disabilities for those at the bottom. This is the most serious moral objection to the tradition, and it has to be made accurately: caste discrimination and untouchability are prohibited by the Indian constitution, and reform from within Hinduism runs from the Bhakti poets through Ramakrishna, Vivekananda, Narayana Guru and Gandhi. The charge is that the texts underwrite the hierarchy, not that Hindus today defend it[^68]
 
-      - **Karma problems:** Circular reasoning - suffering explained by unknown past lives[^69]
+      - **Karma and rebirth:** The strongest form of the difficulty is not circularity but unfalsifiability. An appeal to deeds in unremembered former lives can account for any distribution of suffering whatever, which means no observation can count against it. Christian theology faces the problem of suffering in its own form and answers it differently, so the point is a comparison of two accounts rather than a knock-down[^69]
 
-      - **Historical inconsistencies:** Modern practice differs from Vedic origins[^70][^71][^72]
+      - **Change over time:** Contemporary devotional Hinduism, centred on Vishnu, Shiva and the Goddess, differs considerably from the sacrificial religion of the Vedic hymns. Whether that constitutes organic development or departure is disputed among Hindu thinkers themselves, and the identical question is put to Christianity about its own first four centuries[^70][^71][^72]
 
-      - **Contradictory gods:** Deities described as both all-powerful and limited[^73][^74][^75]
+      - **Divine attributes:** Texts describe deities in ways that are difficult to hold together, as supreme and yet limited, and Hindu philosophy divides internally over how to resolve it. Advaita Vedanta treats personal deities as accessible forms of a single impersonal Brahman, while the theistic Vaishnava and Shaiva schools resist that reduction. Christian theology reaches a different answer, but this is a live philosophical argument inside the tradition and not an oversight[^73][^74][^75]
 
-      - **Scientific conflicts:** Cosmology contradicts established physics and astronomy[^76]
+      - **Cosmology:** Puranic cosmology, with its concentric continents and central mountain, does not correspond to modern geography. The picture is mixed rather than uniformly hostile, since the immense cyclical timescales of the yugas and kalpas are frequently noted as closer in order of magnitude to modern cosmological ages than a literal short chronology is[^76]
     </div>
 </div>
 
@@ -502,17 +512,17 @@ While we should respectfully engage with other faiths and learn from their insig
 
 
 
-    - **Internal doctrinal contradictions:** Different Buddhist schools contradict each other on fundamental teachings (soul/no-soul, multiple Buddhas vs. one Buddha)[^123]
+    - **Diversity across schools:** Theravada, Mahayana and Vajrayana differ on major questions, including how many Buddhas there are and what exactly is denied by the doctrine of no-self. Christianity's own branches differ comparably on questions of similar weight, so this is recorded as a feature of a tradition spread over two and a half millennia rather than pressed as an objection[^123]
 
-      - **Logical inconsistencies in karma:** If there is no permanent self, what carries karma from one life to the next?[^124][^125][^126]
+      - **Karma without a self:** If there is no permanent self, what carries karma from one life to the next is a real question, and Buddhism has developed answers to it: dependent origination, the continuity of a causal mind-stream rather than a substance, and the argument in the *Milindapanha* that a chariot's identity is conventional yet serviceable. Critics reply that a purely conventional continuity does not obviously make a future rebirth *the same person's* reward or punishment, which is the point at which the moral force of karma is at stake. The objection is live and much discussed inside Buddhist philosophy, not an oversight[^124][^125][^126]
 
-      - **Later legendary additions:** Miraculous birth stories, supernatural powers, and cosmic events were added to Buddhist texts centuries after Buddha's death[^127]
+      - **Textual development:** Miraculous birth accounts, supernatural powers and cosmic events appear in later strata of the Buddhist canon rather than in the earliest material. The same kind of historical-critical question is asked of the Christian sources, and Christians answer it by arguing for early dating and proximity to eyewitnesses rather than by denying that the question is legitimate. Applied here it is a fair observation about textual layering; it is not a charge only other religions have to answer[^127]
 
-      - **Contradictory ethics:** Compassion for all beings conflicts with the goal of detachment from worldly concerns[^128]
+      - **Compassion and detachment:** This is often listed as a contradiction and it is not one on Buddhist terms. Non-attachment means freedom from craving rather than indifference to others, and the Mahayana bodhisattva vow makes the liberation of all beings the purpose of the path. The genuine philosophical question is a narrower one, whether a tradition that regards the individual self as ultimately unreal can ground the value of persons in the way Christian theology does through the image of God[^128]
 
-      - **Cosmological inconsistencies:** Traditional Buddhist cosmology includes a view of the world and universe that conflicts with modern astronomy and geology[^129]
+      - **Cosmology:** Traditional Buddhist cosmology, with Mount Meru and its world-systems, does not correspond to modern astronomy or geology. Modern Buddhist thinkers commonly treat it as cosmological myth rather than as physical description[^129]
 
-      - **Practical contradictions:** Monasticism abandons society while claiming to help all sentient beings[^130]
+      - **Monasticism and the world:** Monastic withdrawal alongside a commitment to universal compassion has been criticised as inconsistent. The same criticism has long been made of Christian monasticism, which Christians defend as a life of prayer, learning and service, so this charge is not available without qualification to anyone making it from a Christian position[^130]
     </div>
 </div>
 
@@ -597,9 +607,9 @@ While we should respectfully engage with other faiths and learn from their insig
 
       - **Logical inconsistencies:** Simultaneous claims of universal truth and subjective relativism[^142]
 
-      - **Commercialization evidence:** Financial motivations often drive doctrine (expensive courses, products, certifications)[^143]
+      - **Commercialisation:** Paid courses, certifications and product ranges are central to the economics of several of these movements, and doctrine sometimes tracks what sells. The observation is fair; it is also one Christians have to accept about the prosperity gospel and parts of the televangelism industry, so it identifies a failure mode that religion in general is prone to rather than a feature unique to new movements[^143]
 
-      - **Psychological manipulation:** Some groups exhibit cult-like characteristics including isolation and financial exploitation[^144]
+      - **Coercive group dynamics:** Some groups show the recognised marks of coercive control, including isolation from family, information restriction and financial exploitation. This applies to specific organisations rather than to the category as a whole, and Christian groups have produced their own documented examples of the same pattern[^144]
     </div>
 </div>
 

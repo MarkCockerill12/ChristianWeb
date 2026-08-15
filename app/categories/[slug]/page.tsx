@@ -53,6 +53,37 @@ const TIMELINE_COPY: Record<string, { title: string; description: string; discla
       </>
     ),
   },
+  science: {
+    title: "Christianity and Science Timeline",
+    description:
+      "Milestones in the relationship, from the patristic rule for reading Genesis to the Human Genome Project",
+    disclaimer: (
+      <>
+        <strong>
+          The entries include the failures as well as the achievements.
+        </strong>{" "}
+        Galileo&apos;s condemnation in 1633 and the Scopes trial of 1925 are the two episodes from
+        which a general law of conflict was wrongly inferred, and both are listed here rather than
+        left out.
+      </>
+    ),
+  },
+  women: {
+    title: "Women in Scripture and Church History",
+    description:
+      "From the ancient Near Eastern law codes the Mosaic legislation was written against, to the modern debate over office",
+    disclaimer: (
+      <>
+        <strong>
+          The ancient Near Eastern entries are included as the comparison the biblical laws should be
+          measured against.
+        </strong>{" "}
+        Hammurabi and the Middle Assyrian Laws are the legal world Israel sat inside, and the fair
+        historical question is how the Mosaic provisions compare with those rather than with modern
+        statute. The European witch trials are listed for the same reason of honesty.
+      </>
+    ),
+  },
   slavery: {
     title: "Biblical Slavery Timeline",
     description:

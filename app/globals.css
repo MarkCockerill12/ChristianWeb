@@ -66,6 +66,119 @@ body {
   }
 }
 
+@layer components {
+  /*
+   * Baseline rhythm for authored topic content.
+   *
+   * ContentRenderer emits explicit utilities (mb-6, my-6, space-y-4) on the
+   * elements it builds from markdown, but block-level HTML in a topic file is
+   * passed through untouched. Preflight resets h1-h6 to inherited size and
+   * weight and strips margins from p/ul/ol, so those pass-through blocks used
+   * to render as one undifferentiated run of lines. These rules restore the
+   * spacing and heading scale for them.
+   *
+   * This sits in the components layer, so the renderer's own utilities still
+   * win wherever it sets them explicitly.
+   */
+  .topic-prose {
+    line-height: 1.75;
+  }
+
+  .topic-prose > :first-child {
+    margin-top: 0;
+  }
+
+  .topic-prose > :last-child {
+    margin-bottom: 0;
+  }
+
+  .topic-prose p {
+    margin-block: 1.5rem;
+    color: #1e2939;
+  }
+
+  .topic-prose h1,
+  .topic-prose h2,
+  .topic-prose h3,
+  .topic-prose h4,
+  .topic-prose h5,
+  .topic-prose h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+    line-height: 1.25;
+    color: #101828;
+    text-wrap: balance;
+  }
+
+  .topic-prose h1 {
+    font-size: 1.875rem;
+  }
+
+  .topic-prose h2 {
+    font-size: 1.5rem;
+  }
+
+  .topic-prose h3 {
+    font-size: 1.25rem;
+  }
+
+  .topic-prose h4,
+  .topic-prose h5,
+  .topic-prose h6 {
+    font-size: 1.125rem;
+  }
+
+  /* Headings that open a section should not push away from the block above it. */
+  .topic-prose :is(h1, h2, h3, h4, h5, h6) + * {
+    margin-top: 0;
+  }
+
+  .topic-prose ul,
+  .topic-prose ol {
+    margin-block: 1.5rem;
+    padding-inline-start: 1.5rem;
+    color: #1e2939;
+  }
+
+  .topic-prose ul {
+    list-style-type: disc;
+  }
+
+  .topic-prose ol {
+    list-style-type: decimal;
+  }
+
+  .topic-prose li + li {
+    margin-top: 0.75rem;
+  }
+
+  .topic-prose li > p {
+    margin-block: 0.5rem;
+  }
+
+  .topic-prose li::marker {
+    color: #90a1b9;
+  }
+
+  .topic-prose strong {
+    font-weight: 600;
+    color: #101828;
+  }
+
+  .topic-prose em {
+    font-style: italic;
+  }
+
+  .topic-prose blockquote {
+    margin-block: 1.5rem;
+    padding-inline-start: 1.25rem;
+    border-inline-start: 3px solid #cad5e2;
+    color: #45556c;
+    font-style: italic;
+  }
+}
+
 @layer utilities {
   /* Fluid page/section title used by topic headers */
   .text-fluid-3xl {

@@ -19,42 +19,42 @@ export const tuning: Topic = {
       id: 'cosmological-constants',
       title: 'Fundamental Physical Constants',
       tags: ['physics', 'constants', 'cosmology', 'scientific'],
-      content: `**The Precise Calibration of Universal Forces:** The fundamental constants of physics appear to be precisely calibrated to allow for the existence of life.
+      content: `**The Precise Calibration of Universal Forces:** Several of the fundamental constants of physics appear to sit within narrow ranges that permit a universe containing chemistry, stars and life.
+
+      **How to read the numbers below.** The technical literature on this question is a real research field, and the standard survey of it is Luke Barnes's review in *Publications of the Astronomical Society of Australia* (2012). Two things follow from reading it. The first is that some fine-tuning cases are robust and hold up under scrutiny. The second is that a number of figures repeated in popular apologetics have been weakened or overturned in the peer-reviewed literature, and the strongest form of the argument is the one that drops those and keeps the rest[^2].
 
       **1. The Strong Nuclear Force (αs ≈ 0.118):**
 
-      • **Hydrogen Availability:** If increased by as little as 2%, protons could not form from quarks, and no hydrogen would exist (all protons would bind into heavier elements)[^2].
+      • **Nuclear binding:** The strong force holds protons and neutrons together against electrostatic repulsion. If it were substantially weaker, the deuteron would be unbound and the chain of reactions building heavier nuclei could not start; estimates for that threshold cluster around a 10 per cent reduction[^3].
 
-      • **Heavy Element Formation:** If decreased by ~5-10%, no elements heavier than hydrogen could form, as atomic nuclei would fail to bind[^3].
+      • **The diproton claim, and its status:** A very widely repeated claim holds that a 2 per cent increase would bind the diproton, burning all hydrogen to helium and leaving no water and no hydrogen-fuelled stars. This has been examined and does not survive in that form. Bradford (2009) and MacDonald and Mullan (2009) both found that substantial hydrogen survives a bound diproton, and that destroying essentially all of it requires an increase closer to 50 per cent. A universe with a bound diproton would differ from ours, but it would not be hydrogen-free[^4].
 
-      • **Consequence of Change:** This lack of heavy elements (like carbon, oxygen) would mean no chemistry, no complex molecules, and therefore no life[^4].
+      • **Consequence of change:** A universe unable to build carbon and oxygen would have no complex chemistry and no life of any recognisable kind. That much is not in dispute; the argument is over how far the constant can move before it happens[^5].
 
-      • **Life-Permitting Range:** The life-permitting range is exceptionally narrow, estimated at only ±2-5% of its current value[^5].
+      • **On the ±2-5% figure:** The narrow range quoted in apologetics compilations is tighter than the published analyses support. It should be cited as a claim from those compilations rather than as a result from the physics literature[^6].
 
 
       **2. The Weak Nuclear Force (GF ≈ 1.166 × 10⁻⁵ GeV⁻²):**
 
-      • **Stellar Nucleosynthesis:** This force controls the rate of nuclear reactions in stars, such as the proton-proton chain which converts hydrogen to helium[^6].
+      • **Stellar Nucleosynthesis:** This force controls the rate of nuclear reactions in stars, including the proton-proton chain that converts hydrogen to helium, and it governs neutron-proton conversion[^7].
 
-      • **If Stronger:** Stars would burn their fuel (hydrogen) far too quickly, preventing stable, long-lived stars necessary for life's evolution[^7].
+      • **The honest position on the weak force is that it is the weakest of the fine-tuning cases.** Harnik, Kribs and Perez constructed a "weakless universe" with the weak interaction removed altogether and, by adjusting other parameters, obtained big-bang nucleosynthesis, structure formation, stars burning for billions of years, elements up to iron, and supernovae to distribute them. Their conclusion was that the apparent habitability of such a universe tells against anthropic reasoning fixing the electroweak scale. This is a published counter-example, and any presentation of weak-force fine-tuning that omits it is incomplete[^8].
 
-      • **If Weaker:** Stars would not be able to produce sufficient heavy elements (like carbon and oxygen) for life, as converting protons to neutrons would be inefficient[^8].
+      • **What remains:** Within a universe that has a weak force, its strength does affect the helium fraction left by the big bang and the rate at which stars burn. The defensible claim is that the value matters for the details, not that no life-permitting alternative exists[^9].
 
-      • **Element Distribution:** It is critical for supernova explosions, which are the primary mechanism for distributing these heavy elements throughout the galaxy[^9].
-
-      • **Supernova Function:** Must be within roughly 1 order of magnitude of its current value for neutrinos to interact correctly and power the supernova explosion[^10].
+      • **Supernovae:** Neutrino interactions, governed by the weak force, are part of the mechanism by which core-collapse supernovae explode and disperse heavy elements, though the explosion mechanism itself remains an active research problem rather than a settled calculation[^10].
 
       **3. Electromagnetic Force (α ≈ 1/137):**
 
       • **Fine Structure Constant:** As a dimensionless constant, it determines the strength of all electromagnetic interactions, governing light and matter[^11].
 
-      • **Atomic Stability:** If α were significantly larger, electrons would be pulled into the nucleus, preventing stable atoms from forming[^12][^13][^14].
+      • **Atomic Stability:** Increasing α makes atoms smaller and more tightly bound rather than immediately unstable, and the limits are less dramatic than often stated: problems arise as α approaches unity, where relativistic effects and pair production break the picture down, and in the balance between α and the strong force that determines whether nuclei with many protons can hold together at all[^12][^13][^14].
 
       • **Chemical Bonding:** It determines the strength and nature of molecular bonds, which form the entire basis of chemistry[^15].
 
       • **Stellar Physics:** It controls the opacity of stellar material and the rate at which stars generate energy through radiation transport[^16].
 
-      • **Habitable Stars:** Physicist Martin Rees calculates the life-permitting range at approximately ±4% of its current value to allow for habitable stars[^17].
+      • **What Rees actually argues:** Martin Rees's *Just Six Numbers* puts weight on ε ≈ 0.007, the fraction of mass converted to energy when hydrogen fuses to helium, arguing that at 0.006 deuterium would not bind and at 0.008 no hydrogen would survive the big bang. That is a claim about nuclear binding efficiency, not a ±4 per cent tolerance on the fine-structure constant, and the two are frequently conflated in secondary sources[^17].
 
       **4. Gravitational Constant (G ≈ 6.674 × 10⁻¹¹ m³ kg⁻¹ s⁻²):**
 
@@ -76,7 +76,7 @@ export const tuning: Topic = {
 
       • **Structure Formation:** If it were significantly smaller (or more negative), the universe would have recollapsed on itself (in a "Big Crunch") before life could ever evolve[^29][^30][^31].
 
-      • **Precision Required:** For life to exist, its value must be fine-tuned to an accuracy of 1 part in 10¹²⁰, a precision like hitting a one-inch target from across the observable universe[^32].
+      • **The 1 part in 10¹²⁰ figure means something different from what it is usually taken to mean.** Two separate quantities are routinely merged here. The first is the cosmological constant problem: the value that quantum field theory naively predicts for the vacuum energy exceeds the observed value by around 120 orders of magnitude. That is a genuine and famous unsolved problem in physics, and it is a discrepancy between a theoretical estimate and an observation rather than a measured tolerance for life. The second is the anthropic bound, the range within which galaxies can still form, which Weinberg's argument places a few hundred to a few thousand times above the observed value. That range is far wider than 1 part in 10¹²⁰. It is still a striking result, and it is the number the argument should actually use[^32].
 
       • **Nobel Prize:** The 2011 Nobel Prize in Physics was awarded for the discovery of this accelerating expansion, confirming the constant's non-zero value[^33].
 
@@ -200,7 +200,7 @@ export const tuning: Topic = {
 
       • **Oxygen Level (21%):** This level is high enough for complex, high-energy respiration but low enough to prevent catastrophic combustion[^97].
 
-      • **If 25% Oxygen:** At 25%, even damp organic matter (like forests) would spontaneously ignite from lightning strikes[^98].
+      • **The upper limit is real but higher than usually claimed.** The often-repeated statement that at 25 per cent oxygen even damp vegetation would ignite from lightning does not hold. Experimental work found that high-moisture fuels failed to burn even at 35 per cent oxygen, and modelling published in *Nature Communications* in 2022 concluded that the increased fire activity expected at high oxygen concentrations is compatible with the existence of forests. Atmospheric oxygen is estimated to have reached roughly 30 to 35 per cent in the late Palaeozoic, while forests grew. The defensible statement is that a practical upper bound on the fire window sits somewhere around 30 to 40 per cent, not that 21 per cent is poised on a knife edge[^98].
 
       • **If 15% Oxygen:** Below ~15-16%, complex, warm-blooded life forms could not generate sufficient metabolic energy to survive[^99].
 
@@ -731,22 +731,22 @@ export const tuning: Topic = {
 
             sources: [
     "1. [Commentary] Bible Hub. 'Commentaries on Genesis 1:31.' https://biblehub.com/commentaries/genesis/1-31.htm",
-    "2. ArXiv (Cornell). (2004). Physical Basis for Cosmological Natural Selection. https://arxiv.org/abs/astro-ph/0407086",
-    "3. HyperPhysics. (2025). The Strong Force. http://hyperphysics.phy-astr.gsu.edu/hbase/Forces/funfor.html",
-    "4. Discovery Institute. (2020). The Fine-Tuning of the Universe. https://www.discovery.org/v/the-fine-tuning-of-the-universe/",
-    "5. Discovery Institute. (2021). List of Fine-Tuning Parameters. https://www.discovery.org/a/fine-tuning-parameters/",
-    "6. Swinburne University. (N.D.). Proton-Proton Chain. https://astronomy.swin.edu.au/cosmos/p/proton-proton+chain",
-    "7. Physics Stack Exchange. (2016). What could happen if each of the four fundamental forces became stronger or weaker? https://physics.stackexchange.com/questions/271250/what-could-happen-if-each-of-the-four-fundamental-forces-became-stronger-or-weak",
-    "8. U.S. Department of Energy. (2023). DOE Explains...The Weak Force. https://www.energy.gov/science/doe-explainsthe-weak-force",
-    "9. U.S. Department of Energy. (2023). DOE Explains...Nucleosynthesis. https://www.energy.gov/science/doe-explainsnucleosynthesis",
-    "10. arXiv (Cornell). (2024). Chaos in Inhomogeneous Neutrino Fast Flavor Instability. https://arxiv.org/abs/2401.01936",
+    "2. [Peer-Reviewed Journal] Luke A. Barnes. 'The Fine-Tuning of the Universe for Intelligent Life.' Publications of the Astronomical Society of Australia 29 (2012): 529-564. The standard review of the technical literature, including the cases that have been weakened. https://arxiv.org/pdf/1112.4647",
+    "3. [Physics Reference] HyperPhysics, Georgia State University. 'The Strong Force.' Nuclear binding and the fundamental forces. http://hyperphysics.phy-astr.gsu.edu/hbase/Forces/funfor.html",
+    "4. [Peer-Reviewed Preprint] 'Binding the Diproton in Stars: Anthropic Limits on the Strength of Gravity.' arXiv 1512.06090. On the diproton claim and the work of Bradford (2009) and MacDonald and Mullan (2009). https://arxiv.org/pdf/1512.06090",
+    "5. [Intelligent Design] Discovery Institute. 'The Fine-Tuning of the Universe.' https://www.discovery.org/v/the-fine-tuning-of-the-universe/",
+    "6. [Intelligent Design] Discovery Institute. 'List of Fine-Tuning Parameters.' The compilation from which the narrow percentage ranges in popular apologetics are usually drawn. https://www.discovery.org/a/fine-tuning-parameters/",
+    "7. [University] Swinburne University, COSMOS Astronomy Encyclopedia. 'Proton-Proton Chain.' https://astronomy.swin.edu.au/cosmos/p/proton-proton+chain",
+    "8. [Peer-Reviewed Journal] Roni Harnik, Graham D. Kribs and Gilad Perez. 'A Universe Without Weak Interactions.' Physical Review D 74 (2006), 035006. Constructs a habitable universe with no weak interaction at all. https://arxiv.org/pdf/hep-ph/0604027",
+    "9. [Government Science] U.S. Department of Energy. 'DOE Explains: The Weak Force.' https://www.energy.gov/science/doe-explainsthe-weak-force",
+    "10. [Reference] Wikipedia. Core-collapse supernova. The explosion mechanism, including the role of neutrinos and the unresolved questions about it. https://en.wikipedia.org/wiki/Core-collapse_supernova",
     "11. National Institute of Standards and Technology (NIST). (2018). The Fine-Structure Constant. https://physics.nist.gov/cuu/Constants/alpha.html",
     "12. Wikipedia. (2024). Fine-structure constant: Anthropic explanation. https://en.wikipedia.org/wiki/Fine-structure_constant#Anthropic_explanation",
     "13. [Encyclopedia] Wikipedia. 'Standard Model.' https://en.wikipedia.org/wiki/Standard_Model",
     "14. [Encyclopedia] Wikipedia. 'Quantum Chromodynamics.' https://en.wikipedia.org/wiki/Quantum_chromodynamics",
     "15. Britannica. (2024). Chemical Bonding. https://www.britannica.com/science/chemical-bonding",
     "16. University of Cambridge (Pettini). (2012). Stellar Structure and Evolution: Lecture 5. https://people.ast.cam.ac.uk/~pettini/Stellar%20Structure%20Evolution/Lecture05.pdf",
-    "17. The Guardian. (2003). Martin Rees: Just Six Numbers. https://www.theguardian.com/science/2003/may/29/science.research",
+    "17. [Press] The Guardian. On Martin Rees, 'Just Six Numbers,' and the six constants it treats, including the nuclear efficiency epsilon of 0.007. https://www.theguardian.com/science/2003/may/29/science.research",
     "18. [Encyclopedia] Wikipedia. 'Entropy.' https://en.wikipedia.org/wiki/Entropy",
     "19. [Encyclopedia] Wikipedia. 'Neutron.' https://en.wikipedia.org/wiki/Neutron",
     "20. [Encyclopedia] Wikipedia. 'Proton.' https://en.wikipedia.org/wiki/Proton",
@@ -759,9 +759,9 @@ export const tuning: Topic = {
     "27. [Encyclopedia] Wikipedia. 'Quark.' https://en.wikipedia.org/wiki/Quark",
     "28. [Encyclopedia] Wikipedia. 'Gluon.' https://en.wikipedia.org/wiki/Gluon",
     "29. Wikipedia. (2024). Big Crunch. https://en.wikipedia.org/wiki/Big_Crunch",
-    "30. [Encyclopedia] Wikipedia. 'Atomic Nucleus.' https://en.wikipedia.org/wiki/Atomic_nucleus",
+    "30. [Peer-Reviewed] Luke A. Barnes. 'The Fine-Tuning of the Universe for Life.' arXiv 2110.07783. Includes the distinction between the cosmological constant problem and the anthropic bound on Lambda. https://arxiv.org/abs/2110.07783",
     "31. [Encyclopedia] Wikipedia. 'Beta Decay.' https://en.wikipedia.org/wiki/Beta_decay",
-    "32. ArXiv (Cornell). (2000). The Cosmological Constant Problem. https://arxiv.org/abs/hep-th/0004134",
+    "32. [Peer-Reviewed Preprint] 'The Cosmological Constant Problem.' arXiv hep-th/0004134. The 120-order-of-magnitude discrepancy between the quantum field theory estimate and observation. https://arxiv.org/abs/hep-th/0004134",
     "33. Nobel Prize Organization. (2011). 2011 Physics Nobel Press Release. https://www.nobelprize.org/prizes/physics/2011/press-release/",
     "34. Universe Today. (2016). How Strong is the Force of Gravity on Earth? https://www.universetoday.com/articles/gravity-of-the-earth",
     "35. [Encyclopedia] Wikipedia. 'White Dwarf.' https://en.wikipedia.org/wiki/White_dwarf",
@@ -827,7 +827,7 @@ export const tuning: Topic = {
     "95. University of California. (2023). The planet that could end life on Earth. https://www.universityofcalifornia.edu/news/planet-could-end-life-earth",
     "96. PNAS. (2015). Jupiter\\'s decisive role in the inner Solar System\\'s early evolution. https://www.pnas.org/doi/10.1073/pnas.1423252112",
     "97. University of Waterloo. (2018). Earth\\'s oxygen revolution. https://uwaterloo.ca/wat-on-earth/news/earths-oxygen-revolution",
-    "98. EarthDate. (2020). Flammable Planet. https://www.earthdate.org/episodes/flammable-planet",
+    "98. [Peer-Reviewed Journal] Nature Communications (2022). 'Increased Fire Activity under High Atmospheric Oxygen Concentrations Is Compatible with the Presence of Forests.' https://www.nature.com/articles/s41467-022-35081-z",
     "99. The Biological Bulletin (UChicago). (2022). Oxygen and Animals across Earth\\'s History. https://www.journals.uchicago.edu/doi/full/10.1086/721754",
     "100. NOAA (Global Monitoring Lab). (2019). Trace Gases and Climate Change (Nitrogen). https://gml.noaa.gov/infodata/info_activities/pdfs/TBI_trace_gases_and_climate_change.pdf",
     "101. NOAA. (2023). Basics of the Carbon Cycle and the Greenhouse Effect. https://www.noaa.gov/basics-of-carbon-cycle-and-greenhouse-effect",

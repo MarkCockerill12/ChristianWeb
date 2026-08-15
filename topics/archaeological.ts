@@ -484,7 +484,7 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "250. [Encyclopedia] Wikipedia. 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
     "251. [Peer-Reviewed Journal] Nature. 'Damon et al. Radiocarbon Dating of the Shroud of Turin (1989).' https://www.nature.com/articles/337611a0",
     "252. [Encyclopedia] Wikipedia. 'History of the Shroud of Turin.' https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
-    "253. [Academic Journal] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. *Heritage*, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
+    "253. [Academic Journal] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. Heritage, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
     "254. [Shroud Research] Shroud.com. 'Shroud of Turin Website Library.' https://www.shroud.com/library.htm",
     "255. [Encyclopedia] Wikipedia. 'Sindonology.' https://en.wikipedia.org/wiki/Sindonology",
     "256. [Shroud Research] The Medieval Shroud. 'STURP Revisited.' https://medievalshroud.com/sturp-revisited/",

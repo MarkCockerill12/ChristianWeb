@@ -30,9 +30,15 @@ The Fulfillment: Jesus Christ fulfilled this ancient promise through His virgin 
       id: "virgin-birth",
       title: "Virgin Birth Prophecy",
       tags: ["Messianic", "Birth"],
-      content: `The Prophecy: Given around 740 BC during the reign of King Ahaz of Judah, when the kingdom faced military threats from Israel and Syria, the prophet Isaiah delivered a remarkable sign from God. In [Isaiah 7:14](https://www.biblegateway.com/passage/?search=Isaiah+7%3A14&version=NIV), God declared: "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel." The Hebrew word 'almah' specifically denotes a young unmarried woman of childbearing age[^17]. While skeptics argue the distinctive Hebrew word for 'virgin' is *betulah*, scholars note that *almah* is never used of a married woman in Scripture and implies virginity in its cultural context (Genesis 24:43). The name 'Immanuel' means 'God with us,' signifying that this child would represent God's presence among His people. This prophecy was given as a divine sign that would validate God's faithfulness to the Davidic covenant even in times of national crisis.
+      content: `The Prophecy: Isaiah gave this sign around 735 BC, during the Syro-Ephraimite crisis, when Ahaz of Judah faced an alliance between Israel and Syria. In [Isaiah 7:14](https://www.biblegateway.com/passage/?search=Isaiah+7%3A14&version=NIV) the prophet says: "Therefore the Lord himself will give you a sign: The virgin will conceive and give birth to a son, and will call him Immanuel." The name Immanuel means "God with us".
 
-The Fulfillment: Seven centuries later, this extraordinary prophecy found its fulfillment in the birth of Jesus Christ. [Matthew 1:18-25](https://www.biblegateway.com/passage/?search=Matthew+1%3A18-25&version=NIV) records that Mary, a virgin betrothed to Joseph, was found to be pregnant through the Holy Spirit before they had marital relations. When Joseph considered divorcing her quietly, an angel appeared to him in a dream, explaining: "Do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins." Matthew explicitly connects this to Isaiah's prophecy, stating "All this took place to fulfill what the Lord had said through the prophet." The virgin birth demonstrates that Jesus had no earthly father but was conceived by divine intervention, making Him both fully human (through Mary) and fully divine (through the Holy Spirit), perfectly fulfilling the 'Immanuel' designation as 'God with us'[^18][^19][^20].`
+**The lexical question.** The Hebrew word is *almah*, a young woman of marriageable age. Critics point out that the unambiguous Hebrew word for virgin is *betulah*, and they are right that *almah* does not by itself assert virginity. The reply is that *almah* is never used in the Hebrew Bible of a married woman, and that in that social setting an unmarried woman of marriageable age would ordinarily be presumed a virgin, which makes the Septuagint's choice of *parthenos*, the Greek word that does mean virgin, a defensible rendering rather than a mistranslation. Matthew, writing in Greek two centuries after the Septuagint, quotes that Greek text[^17][^18].
+
+**The near-term horizon.** Isaiah 7:15-17 ties the sign to Ahaz's own crisis: before the child is old enough to tell right from wrong, the two kings threatening Judah will be finished. That happened within a few years. The next chapter records the birth of Isaiah's own son Maher-shalal-hash-baz with a similar time marker attached to it. The sign therefore meant something to Ahaz in the eighth century BC, and an account of the passage that moves straight to Bethlehem has left out the reason it was given[^19].
+
+The Fulfillment: [Matthew 1:18-25](https://www.biblegateway.com/passage/?search=Matthew+1%3A18-25&version=NIV) records that Mary, betrothed to Joseph, was found to be pregnant through the Holy Spirit before they had marital relations. When Joseph considered divorcing her quietly, an angel told him: "Do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit." Matthew connects this directly to Isaiah, stating that "All this took place to fulfill what the Lord had said through the prophet."
+
+How the two horizons fit together is an interpretive question, and three answers are held by people who accept the text as Scripture. One is a single messianic reference, with verses 15 to 17 marking time by reference to any young child rather than to the Immanuel child. One is dual or typological fulfilment, an eighth-century birth patterning the greater one. Critical scholars allow only the eighth-century sign and read Matthew as applying the text christologically in the manner of his own period. What should not be overstated is the evidential weight: the virgin birth does not rest on Isaiah 7:14 alone, since Matthew and Luke narrate it independently, and Matthew's claim is that the text finds its full sense in Christ rather than that Isaiah's first hearers would have heard it that way[^20].`
     },
     {
       id: "bethlehem-birth",
@@ -366,9 +372,17 @@ The Fulfillment: This prophecy received its most dramatic fulfillment beginning 
       id: "israel-regathering",
       title: "Israel's Regathering",
       tags: ["Historical"],
-      content: `The Prophecy: Around 700 BC, Isaiah delivered an extraordinary prophecy about Israel's future restoration. In [Isaiah 11:11-12](https://www.biblegateway.com/passage/?search=Isaiah+11%3A11-12&version=NIV), God declared: "In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people from Assyria, from Lower Egypt... He will raise a banner for the nations and gather the exiles of Israel; he will assemble the scattered people of Judah from the four quarters of the earth." The phrase 'second time' is crucial - the first regathering was from Babylonian captivity (538 BC), so this speaks of a future, far more comprehensive restoration from worldwide dispersion.[^278] added: "I will take you out of the nations; I will gather you from all the countries and bring you back into your own land." 
+      content: `The Prophecy: In [Isaiah 11:11-12](https://www.biblegateway.com/passage/?search=Isaiah+11%3A11-12&version=NIV), from the eighth century BC, God declares: "In that day the Lord will reach out his hand a second time to reclaim the surviving remnant of his people from Assyria, from Lower Egypt... He will raise a banner for the nations and gather the exiles of Israel; he will assemble the scattered people of Judah from the four quarters of the earth." [Ezekiel 36:24](https://www.biblegateway.com/passage/?search=Ezekiel+36%3A24&version=NIV) adds: "I will take you out of the nations; I will gather you from all the countries and bring you back into your own land." Those who expect a future national restoration put weight on the phrase "a second time", arguing that the return from Babylon in 538 BC was the first, so a further and wider regathering remains in view[^278][^279].
 
-The Fulfillment: This prophecy achieved its most dramatic fulfillment on **May 14, 1948**, when Israel was reborn as a nation after 1,878 years of dispersion, exactly as Isaiah had prophesied 'in a single day' ([Isaiah 66:8](https://www.biblegateway.com/passage/?search=Isaiah+66%3A8&version=NIV))[^279][^280]. The regathering fulfilled Isaiah's geographic specificity: Jews returned from over 100 countries spanning 'the four quarters of the earth'. The Hebrew language, dead as a spoken language for centuries, was miraculously revived[^281][^282]. This restoration is unprecedented in human history: no ancient people has ever been scattered for nearly two millennia, maintained their distinct identity, and then returned to establish their ancient homeland as a modern nation[^283][^284][^285].`
+The Fulfillment: Israel was re-established as a state on **14 May 1948**, after roughly 1,878 years without one, and Jewish immigration since has drawn from more than a hundred countries[^280][^281].
+
+Three qualifications belong with that claim.
+
+**Isaiah 66:8 is an application, not a date.** The verse, "who has ever heard of such things? Can a country be born in a day?", is very often attached to 14 May 1948. In context it is about Zion giving birth to her children, and treating it as a prediction of a particular calendar date goes beyond what the passage says[^282].
+
+**The revival of Hebrew was a deliberate human project, not a language returning from the dead.** Hebrew was never entirely lost. It remained in continuous liturgical, legal and literary use throughout the diaspora, which is why the material for a revival existed at all. What changed was a sustained effort from 1881, associated above all with Eliezer Ben-Yehuda, to extend it into ordinary speech, supported by schools teaching in Hebrew and by a body coining modern vocabulary. It is a genuinely remarkable achievement, and describing it as miraculous misdescribes both the history and the work of the people who did it[^283].
+
+**Whether 1948 fulfils prophecy at all is disputed among Christians who hold Scripture to be true.** Dispensational and Christian Zionist readings treat the modern state as a prophetic marker. Covenantal and amillennial readings hold that the restoration promises are fulfilled in Christ and in the church, so a modern political event is not their fulfilment. Preterist readings locate the relevant prophecies in the first century. Scripture's own instruction about the timing of the end is that no one knows it, which is a standing caution against building a schedule on any current event[^284][^285].`
     },
     {
       id: "jerusalem-trampled",
@@ -390,9 +404,19 @@ The Fulfillment: Exactly 40 years later, in 70 AD, this prophecy was fulfilled w
       id: "fig-tree-generation",
       title: "Fig Tree Generation",
       tags: ["End Times"],
-      content: `The Prophecy: Around 30 AD, during His Olivet Discourse, Jesus taught His disciples about the signs that would indicate the approaching end times. In [Matthew 24:32-34](https://www.biblegateway.com/passage/?search=Matthew+24%3A32-34&version=NIV), Jesus declared: "Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near. Even so, when you see all these things, you know that it is near, right at the door. Truly I tell you, this generation will certainly not pass away until all these things have happened." The fig tree holds deep symbolic significance throughout Scripture as a representation of Israel as a nation[^305]. The prophecy suggests that believers would recognize the nearness of Christ's return when they see Israel 'budding' again, coming back to life as a nation after a long period of dormancy.
+      content: `The Prophecy: In the Olivet Discourse, [Matthew 24:32-34](https://www.biblegateway.com/passage/?search=Matthew+24%3A32-34&version=NIV), Jesus says: "Now learn this lesson from the fig tree: As soon as its twigs get tender and its leaves come out, you know that summer is near. Even so, when you see all these things, you know that it is near, right at the door. Truly I tell you, this generation will certainly not pass away until all these things have happened."[^305]
 
-The Fulfillment: Many biblical scholars and prophecy teachers see this prophecy experiencing its primary fulfillment beginning on **May 14, 1948**, when Israel was miraculously reborn as a nation after 1,878 years of dispersion and dormancy[^306][^307][^308]. This unprecedented event in human history, a scattered people returning to establish their ancient homeland, represents the fig tree 'budding' after centuries of appearing dead. The prophetic significance is often connected to Jesus' statement about 'this generation' not passing away until 'all these things have happened.' A biblical generation can span 70-80 years ([Psalm 90:10](https://www.biblegateway.com/passage/?search=Psalm+90%3A10&version=NIV))[^309], suggesting that the generation that witnessed Israel's rebirth (1948 onwards) could potentially see the fulfillment of all end-times prophecies, including Christ's second coming[^310][^311][^312].`
+**The popular reading.** A widely repeated interpretation treats the fig tree as a symbol of Israel, its budding as the founding of the modern state in 1948, and the generation alive in that year as the one that will see Christ return[^306].
+
+That reading runs into two problems, and both are serious enough to set it aside.
+
+**In this saying the fig tree is a seasonal illustration, not a national symbol.** Luke's version of the same saying reads "the fig tree and all the trees", which the symbolic reading cannot absorb: no interpretation turns "all the trees" into a set of nations. The comparison explains itself inside the verse, that leaves appearing mean summer is near, and the fig tree is used because it is a conspicuous seasonal marker in Palestine. Scripture does elsewhere use a fig tree as an image for Israel, in Hosea and in Jesus' cursing of the barren tree, but a symbol available in other passages is not thereby the meaning of this one[^307][^308][^309].
+
+**The arithmetic has already run out.** Taking a generation as the seventy or eighty years of [Psalm 90:10](https://www.biblegateway.com/passage/?search=Psalm+90%3A10&version=NIV) and counting from 1948 yields 2018 or 2028. The first has passed without the return. Every published attempt to date the second coming from 1948 has now either expired or is within a few years of doing so[^310].
+
+**What "this generation" more likely means.** The Greek *genea* most naturally denotes the people alive at the time of speaking. On that reading, the "all these things" that must occur within it are the events the same discourse has just described around the destruction of Jerusalem, which happened about forty years later in 70 AD. Other readings take *genea* in the sense of a kind or type of people, or hold that the discourse alternates between the near horizon of 70 AD and the far horizon of the return. These are live interpretive options; a calculated date is not one of them[^311][^312].
+
+Jesus states in the same discourse that no one knows the day or the hour, not the angels and not the Son. Any reading of the fig tree that yields a date is in conflict with a statement made a few verses later.`
     },
     {
       id: "gospel-all-nations",
@@ -406,9 +430,17 @@ The Fulfillment: For nearly 2,000 years, this prophecy remained seemingly imposs
       id: "knowledge-increase",
       title: "Knowledge Shall Increase",
       tags: ["End Times"],
-      content: `The Prophecy: Around 538 BC, the prophet Daniel received one of the most remarkable end-times prophecies about the conditions that would characterize 'the time of the end.' In [Daniel 12:4](https://www.biblegateway.com/passage/?search=Daniel+12%3A4&version=NIV), the angel commanded: "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge." This prophecy contained two specific markers for the end times: unprecedented travel ("many will go here and there") and an explosion of knowledge ("knowledge shall be increased")[^323][^324]. For over 2,500 years after Daniel's prophecy, both travel and knowledge remained relatively static, with ancient travel being dangerous, slow, and expensive.
+      content: `The Prophecy: [Daniel 12:4](https://www.biblegateway.com/passage/?search=Daniel+12%3A4&version=NIV) reads: "But you, Daniel, roll up and seal the words of the scroll until the time of the end. Many will go here and there to increase knowledge."[^323]
 
-The Fulfillment: Daniel's prophecy has experienced dramatic and unprecedented fulfillment in our modern era, particularly accelerating in the digital age. Regarding knowledge increase, human understanding has grown exponentially. The pace has accelerated dramatically, it now doubles every 12-24 months according to scientific publication rates[^325]. We have unlocked the secrets of DNA, achieved space travel, and created the internet, giving billions instant access to virtually all human knowledge. Simultaneously, the 'running to and fro' aspect has been fulfilled through revolutionary transportation developments. Commercial aviation enables millions of people to travel globally every single day, with high-speed trains and automobiles moving billions of people annually across vast distances[^326][^327][^328]. The contrast with Daniel's time is staggering, perfectly fulfilling Daniel's 2,500-year-old prophecy about conditions in 'the time of the end'[^329][^330][^331].`
+**The popular reading, and why it does not hold.** A very common interpretation takes the two clauses as predictions of mass air travel and of the modern information explosion. The Hebrew does not support it, and the standard commentaries reject it explicitly rather than merely doubting it[^324].
+
+**What the verse appears to mean.** The verb behind "go here and there" is *shut*, to range or rove over something. Jeremiah 5:1 uses it of going up and down the streets of Jerusalem looking for something, which is a search rather than a journey. Read together with the first half of the verse, which is about sealing a scroll until an appointed time, the natural sense is that many will range over the sealed book, searching it, and that understanding of it will grow as that time approaches. Jamieson, Fausset and Brown put it directly: the phrase refers to scrutinising the prophecy, running through every page, and not to the rapidity of modern locomotion. The verses immediately following continue the same theme, with the words shut up until the end and the wise being the ones who understand[^325][^326][^327].
+
+The noun is *da'at*, knowledge or understanding. Nothing in it points to technical or scientific knowledge in particular, and in context the knowledge that increases is knowledge of the sealed prophecy[^328][^329].
+
+**On the statistic.** The claim that human knowledge now doubles every twelve to twenty-four months, quoted in a great deal of prophecy material, is not a scientific measurement. It descends from Buckminster Fuller's "knowledge doubling curve" in *Critical Path* (1982), an impressionistic estimate that human knowledge doubled roughly every century until 1900 and every twenty-five years by 1945. Shorter intervals were added later by consultancy and marketing material rather than by research. The volume of published information and the sum of human knowledge are not the same quantity, and there is no agreed method for measuring the second[^330].
+
+None of this makes the verse uninteresting; it limits what may be claimed from it. Daniel 12:4 is about a sealed prophecy becoming intelligible in its own time, and the growth of transport and technology is not its subject[^331].`
     },
     {
       id: "perilous-times",
@@ -452,33 +484,43 @@ The Fulfillment: This prophecy found its precise fulfillment in the **Roman Empi
     }
   ],
   content: `
-Biblical Prophecy: The Ultimate Test of Divine Inspiration
+## How Many Prophecies, and What Counts as One
 
-The Bible contains thousands of prophecies, with estimates ranging from conservative scholarly counts of **300+ messianic prophecies** fulfilled in Christ[^1][^2][^3] to comprehensive catalogs identifying **over 2,500 total biblical prophecies**, with approximately **2,000 already fulfilled** with documented accuracy. Even using the most conservative estimates, this level of prophetic accuracy is **statistically impossible** without divine inspiration.
+The numbers quoted in popular apologetics need attribution rather than repetition. The fullest catalogue is J. Barton Payne's *Encyclopedia of Biblical Prophecy* (1973), which identifies 1,817 predictive entries across 8,352 verses, around 27 per cent of the Bible. Counts of messianic prophecies in particular range from a few dozen to over 350, and the range exists because the counting is an interpretive act: figures at the high end include typological readings, where a person or event patterns Christ without predicting him, alongside direct predictions[^1][^2].
 
-The Mathematical Impossibility of Coincidence
+That distinction matters for the argument. A passage read as a type is doing real theological work, and it is not the same kind of evidence as a dated, falsifiable prediction[^3].
 
-Professor Peter Stoner, the former Chairman of the Department of Mathematics and Astronomy at Pasadena City College, calculated that the probability of just **8 specific messianic prophecies** being fulfilled by chance in one person is **1 in 100,000,000,000,000,000** (1 in 10^17). This calculation was later endorsed by the American Scientific Affiliation as being sound and reliable[^4][^5][^6].
+## The Probability Argument, and What It Assumes
 
-To illustrate this probability: *"Suppose that we take 10^17 silver dollars and lay them on the face of Texas. They will cover all of the state two feet deep. Now mark one of these silver dollars and stir the whole mass thoroughly, all over the state. Blindfold a man and tell him that he can travel as far as he wishes, but he must pick up one silver dollar and say that this is the right one."*[^7][^8]
+Peter Stoner, who taught mathematics and astronomy at Pasadena City College, calculated in *Science Speaks* that the chance of one man fulfilling eight specific messianic prophecies was about 1 in 10 to the seventeenth power, and illustrated it with silver dollars covering Texas two feet deep[^4].
+
+The argument is widely quoted and its limits are rarely quoted with it.
+
+*   **The probabilities are estimates, not measurements.** Stoner assigned each figure by judgement, and different judgements give wildly different totals. Nothing in the arithmetic is more reliable than the numbers fed into it[^5].
+*   **It assumes the events are independent, and they are not.** Multiplying probabilities together is valid only for independent events. Being born in Bethlehem and being of David's line are linked, not separate draws, and several of the eight cluster around a single sequence of events in one week[^6].
+*   **The endorsement is usually overstated.** The claim that the American Scientific Affiliation certified the calculation as sound comes from a foreword by H. Harold Hartzler stating that the manuscript had been carefully reviewed by members of a committee. That is not the same as a scientific body vouching for the probability figures, and it should not be cited as though it were[^7].
+*   **Stoner's own family is cautious about it.** His grandson has said the book is now more likely to be valued for its historical significance than as an apologetic tool[^8].
+
+**What survives.** The cumulative case does not need the arithmetic. Its strength lies in specific predictions whose fulfilment lay outside the control of Jesus or his followers: the birthplace, the timing relative to the standing Second Temple, the manner of execution described centuries before crucifixion was practised by Rome, and the burial with the rich. The honest form of the argument is that this pattern is striking and calls for explanation, not that a calculated figure has ruled out coincidence.
+
+**The objections worth answering.** The Gospel writers knew the Hebrew Scriptures intimately, so a critic can argue that narrative was shaped to match texts rather than texts predicting narrative. Some citations in the New Testament apply a passage in a sense its original context does not carry. And the dating of Daniel is disputed, which bears on the prophecies drawn from it. Each individual case below is stronger or weaker on its own merits, and they are set out that way rather than as a single undifferentiated total.
 
 <div style="text-align: center;">
 ## Cross-Reference Chart of Messianic Prophecies
 <img width="65%" height="auto" src="/ref.png" alt="Biblical Cross References" style="display: block; margin: 0 auto;" />
-The visual chart demonstrates the intricate web of prophetic connections between the Hebrew Scriptures and their fulfillment in the New Testament, showing divine orchestration across centuries.
+The chart maps citation links between the Hebrew Scriptures and the New Testament.
 
 </div>
-Each subtopic below examines individual prophecies with their specific Old Testament predictions and New Testament fulfillments. The mathematical impossibility of such precise fulfillment by chance provides overwhelming evidence for divine inspiration and Jesus as the promised Messiah.
 `,
           sources: [
-    "1. Firm Israel - 300+ Messianic Prophecies: https://firmisrael.org/learn/how-many-messianic-prophecies-did-jesus-fulfill/",
-    "2. [Lexical Resource] Bible Hub. '24.' https://biblehub.com/commentaries/daniel/7-24.htm",
-    "3. [Encyclopedia] Wikipedia. 'Four Kingdoms of Daniel.' https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel",
-    "4. Institute for Creation Research - Mathematics of Messianic Prophecy: https://www.icr.org/article/mathematics-of-messianic-prophecy",
-    "5. [Encyclopedia] Encyclopaedia Britannica. 'Roman Empire.' https://www.britannica.com/place/Roman-Empire",
-    "6. [Encyclopedia] Wikipedia. 'Roman Republic.' https://en.wikipedia.org/wiki/Roman_Republic",
-    "7. Taylor University - Peter Stoner Probability Analysis: https://pillars.taylor.edu/cgi/viewcontent.cgi?article=1005&context=acms-2024",
-    "8. [Encyclopedia] Wikipedia. 'Pax Romana.' https://en.wikipedia.org/wiki/Pax_Romana",
+    "1. [Reference Work] J. Barton Payne. 'Encyclopedia of Biblical Prophecy: The Complete Guide to Scriptural Predictions and Their Fulfilment' (1973). 1,817 predictive entries across 8,352 verses. https://archive.org/details/encyclopediaofbi0000payn",
+    "2. [Academic Review] Andrews University Seminary Studies. Review of Payne's 'Encyclopedia of Biblical Prophecy,' on its method of counting. https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1339&context=auss",
+    "3. [Reference] Wikipedia. Typology (theology). The distinction between a type and a predictive prophecy. https://en.wikipedia.org/wiki/Typology_(theology)",
+    "4. [Primary Source] Peter W. Stoner. 'Science Speaks,' chapter 3, 'The Christ of Prophecy.' The 1 in 10^17 calculation and the silver dollar illustration in Stoner's own words. https://sciencespeaks.dstoner.net/Christ_of_Prophecy.html",
+    "5. [Academic] Association of Christians in the Mathematical Sciences (Taylor University). 'Examining the Probability of Christ Fulfilling Prophecies.' Assessment of the method and of the estimates it depends on. https://pillars.taylor.edu/cgi/viewcontent.cgi?article=1005&context=acms-2024",
+    "6. [Critique] Don's Notes. 'Stoner's Probability.' Worked criticism of the independence assumption in the calculation. https://donsnotes.com/religion/stoners_probability.html",
+    "7. [Reference] Wikipedia. Peter Stoner. Publication history, the Hartzler foreword, and the later reception of the calculation. https://en.wikipedia.org/wiki/Peter_Stoner",
+    "8. [Ministry Resource] FIRM Israel. 'How Many Messianic Prophecies Did Jesus Fulfill in Scripture?' An example of the counts in circulation. https://firmisrael.org/learn/how-many-messianic-prophecies-did-jesus-fulfill/",
     "9. The Gospel Coalition - Protoevangelium (Genesis 3:15): https://www.thegospelcoalition.org/themelios/article/the-individual-and-collective-offspring-of-the-woman-the-canonical-outworking-of-genesis-315/",
     "10. Bible.org - Crushing Satan's Head: https://bible.org/article/crushing-satans-head",
     "11. Catholic Answers - Genesis 3:15 Protoevangelium: https://www.catholic.com/bible-navigator/mary%E2%80%99s-immaculate-conception/genesis315",
@@ -487,10 +529,10 @@ Each subtopic below examines individual prophecies with their specific Old Testa
     "14. Redeemer Bible Church - Seed of the Serpent: https://redeemerbible.org/insights/2020/2/18/seed-of-the-serpent-and-the-seed-of-the-woman",
     "15. [Lexical Resource] Bible Hub. '1.' https://biblehub.com/commentaries/matthew/4-1.htm",
     "16. [Lexical Resource] Bible Hub. '14.' https://biblehub.com/commentaries/hebrews/2-14.htm",
-    "17. Bible Interpretation - Almah in Isaiah 7:14: https://bibleinterp.arizona.edu/opeds/hag368019",
-    "18. Liberty University - Isaiah 7:14 Birth Motif: https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=7147&context=doctoral",
-    "19. [Lexical Resource] Bible Hub. '14.' https://biblehub.com/commentaries/isaiah/7-14.htm",
-    "20. [Lexical Resource] Bible Hub. '18.' https://biblehub.com/commentaries/matthew/1-18.htm",
+    "17. [Academic] Bible and Interpretation, University of Arizona. 'Almah in Isaiah 7:14.' Lexical study of the term and of the Septuagint's parthenos. https://bibleinterp.arizona.edu/opeds/hag368019",
+    "18. [Academic Thesis] Liberty University. 'The Birth Motif in Isaiah 7:14.' https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=7147&context=doctoral",
+    "19. [Commentary] Bible Hub. 'Commentaries on Isaiah 7:14,' including the near-term reference to the Syro-Ephraimite crisis. https://biblehub.com/commentaries/isaiah/7-14.htm",
+    "20. [Commentary] Bible Hub. 'Commentaries on Matthew 1:18,' on Matthew's use of the Septuagint text. https://biblehub.com/commentaries/matthew/1-18.htm",
     "21. Biblical Archaeology Society - Bethlehem Archaeology: https://www.biblicalarchaeology.org/tag/history-of-bethlehem/",
     "22. Answers in Genesis - The Eternal Son of God: https://answersingenesis.org/jesus/the-messiahs-birthplace-foretold/",
     "23. StudyLight - Census Dictionary: https://www.studylight.org/dictionaries/eng/hbd/c/census.html",
@@ -624,7 +666,7 @@ Each subtopic below examines individual prophecies with their specific Old Testa
     "151. [Encyclopedia] Wikipedia. 'Crucifixion Darkness.' https://en.wikipedia.org/wiki/Crucifixion_darkness",
     "152. BibleRef - Amos 8:9 Meaning: https://www.bibleref.com/Amos/8/Amos-8-9.html",
     "153. [Encyclopedia] Wikipedia. 'Thallus (historian).' https://en.wikipedia.org/wiki/Thallus_(historian)",
-    "154. Scribd - Buried with the Rich: https://www.scribd.com/document/54189472/Bat-41-Chris-to-Logy-Hegeman",
+    "154. [Commentary] Bible Hub. 'Commentaries on Mark 15:43,' on Joseph of Arimathea and the burial in a rich man's tomb. https://biblehub.com/commentaries/mark/15-43.htm",
     "155. Christian Publishing House - Joseph of Arimathea: https://christianpublishinghouse.co/2023/12/07/who-was-joseph-of-arimathea-in-the-context-of-the-jewish-sanhedrin/",
     "156. [Lexical Resource] Bible Hub. '9.' https://biblehub.com/commentaries/isaiah/53-9.htm",
     "157. Bible Hub - John 19:38 Commentary: https://biblehub.com/commentaries/john/19-38.htm",
@@ -728,7 +770,7 @@ Each subtopic below examines individual prophecies with their specific Old Testa
     "255. BibleRef - Ezekiel 29:15 Meaning: https://www.bibleref.com/Ezekiel/29/Ezekiel-29-15.html",
     "256. [Encyclopedia] World History Encyclopedia. 'Cambyses II.' https://www.worldhistory.org/Cambyses_II/",
     "257. [Encyclopedia] Wikipedia. 'History of Egypt.' https://en.wikipedia.org/wiki/History_of_Egypt",
-    "258. Scribd - Judgment on Edom: https://www.scribd.com/document/118869161/Obadiah",
+    "258. [Commentary] Bible Hub. 'Commentaries on Obadiah 1:1,' on the oracle against Edom. https://biblehub.com/commentaries/obadiah/1-1.htm",
     "259. Britannica - Edom Topic Page: https://www.britannica.com/place/Edom",
     "260. [Lexical Resource] Bible Hub. '18.' https://biblehub.com/commentaries/obadiah/1-18.htm",
     "261. [Lexical Resource] Bible Hub. '10.' https://biblehub.com/commentaries/obadiah/1-10.htm",
@@ -748,14 +790,14 @@ Each subtopic below examines individual prophecies with their specific Old Testa
     "275. Precept Austin - Preservation of Israel: https://www.preceptaustin.org/1_chronicles_commentaries",
     "276. [Encyclopedia] Wikipedia. 'First Jewish–roman War.' https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War",
     "277. [Encyclopedia] Wikipedia. 'Jewish History.' https://en.wikipedia.org/wiki/Jewish_history",
-    "278. Scribd - Israel's Regathering: https://www.scribd.com/document/727919343/He-Will-Reign-Forever-a-Biblical-Theology-of-the-Kingdom-of-God-Michael-Vlach-Vlach-Michael-Z-Library",
-    "279. [Lexical Resource] Bible Hub. '11.' https://biblehub.com/commentaries/isaiah/11-11.htm",
-    "280. [Lexical Resource] Bible Hub. '8.' https://biblehub.com/commentaries/isaiah/66-8.htm",
-    "281. LifeCoach4God - A Nation Reborn: https://lifecoach4god.life/category/eschatology-the-study-of-last-things/israel-and-prophecy/",
-    "282. [Lexical Resource] Bible Hub. '21.' https://biblehub.com/commentaries/ezekiel/37-21.htm",
-    "283. Knesset - Declaration of Independence (Official): https://main.knesset.gov.il/en/about/pages/declaration.aspx",
-    "284. [Encyclopedia] Wikipedia. 'Aliyah.' https://en.wikipedia.org/wiki/Aliyah",
-    "285. [Encyclopedia] Wikipedia. 'Israeli Declaration of Independence.' https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+    "278. [Commentary] Bible Hub. 'Commentaries on Ezekiel 36:24.' The promise of gathering from the nations. https://biblehub.com/commentaries/ezekiel/36-24.htm",
+    "279. [Commentary] Bible Hub. 'Commentaries on Isaiah 11:11,' on the phrase 'a second time.' https://biblehub.com/commentaries/isaiah/11-11.htm",
+    "280. [Reference] Wikipedia. Israeli Declaration of Independence. https://en.wikipedia.org/wiki/Israeli_Declaration_of_Independence",
+    "281. [Reference] Wikipedia. Aliyah. Jewish immigration to the land by period and country of origin. https://en.wikipedia.org/wiki/Aliyah",
+    "282. [Commentary] Bible Hub. 'Commentaries on Isaiah 66:8,' on the birth of Zion in a day. https://biblehub.com/commentaries/isaiah/66-8.htm",
+    "283. [Reference] Wikipedia. Revival of the Hebrew language. Continuous liturgical use, and the deliberate revival project from 1881. https://en.wikipedia.org/wiki/Revival_of_the_Hebrew_language",
+    "284. [Reference] Wikipedia. Dispensationalism. The framework that reads the modern state as a prophetic marker. https://en.wikipedia.org/wiki/Dispensationalism",
+    "285. [Reference] Wikipedia. Supersessionism. The covenantal alternative, and the debate over it. https://en.wikipedia.org/wiki/Supersessionism",
     "286. Christians for Israel - Times of the Gentiles: https://www.c4israel.org/ua/%D0%B1%D0%B8%D0%B1%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F/jerusalem-the-un-and-the-times-of-the-gentiles/",
     "287. EyeWitness to History - Romans Destroy the Temple: http://www.eyewitnesstohistory.com/jewishtemple.htm",
     "288. [Lexical Resource] Bible Hub. '20.' https://biblehub.com/commentaries/luke/21-20.htm",
@@ -775,14 +817,14 @@ Each subtopic below examines individual prophecies with their specific Old Testa
     "302. Britannica - Jewish Diaspora: https://www.britannica.com/topic/Diaspora-Judaism",
     "303. [Encyclopedia] Wikipedia. 'Second Temple.' https://en.wikipedia.org/wiki/Second_Temple",
     "304. [Primary Source] LacusCurtius, University of Chicago. 'War 6.' https://penelope.uchicago.edu/josephus/war-6.html",
-    "305. Ligonier - Fig Tree: https://learn.ligonier.org/sermons/mark-fig-tree-and-temple",
-    "306. The Moorings - Rebudding of the Fig Tree: https://www.themoorings.org/Bible_prophecy/Israel/rebudding.html",
-    "307. [Lexical Resource] Bible Hub. '32.' https://biblehub.com/commentaries/matthew/24-32.htm",
-    "308. [Lexical Resource] Bible Hub. '10.' https://biblehub.com/commentaries/psalms/90-10.htm",
-    "309. [Lexical Resource] Bible Hub. '29.' https://biblehub.com/commentaries/luke/21-29.htm",
-    "310. GotQuestions - The Fig Tree Prophecy: https://www.gotquestions.org/fig-tree-prophecy.html",
-    "311. [Lexical Resource] Bible Hub. '1074.' https://biblehub.com/greek/1074.htm",
-    "312. [Encyclopedia] Wikipedia. 'Olivet Discourse.' https://en.wikipedia.org/wiki/Olivet_Discourse",
+    "305. [Commentary] Bible Hub. 'Commentaries on Matthew 24:32.' The fig tree saying. https://biblehub.com/commentaries/matthew/24-32.htm",
+    "306. [Apologetics] GotQuestions.org. 'What is the fig tree prophecy?' Sets out the popular Israel-as-fig-tree reading. https://www.gotquestions.org/fig-tree-prophecy.html",
+    "307. [Commentary] Bible Hub. 'Commentaries on Luke 21:29,' where the saying reads 'the fig tree and all the trees.' https://biblehub.com/commentaries/luke/21-29.htm",
+    "308. [Commentary] StudyLight.org. Verse-by-verse commentary on Matthew 24:32. https://www.studylight.org/commentary/matthew/24-32.html",
+    "309. [Theology] Ligonier Ministries. 'The Fig Tree and the Temple.' On the fig tree as an image in the Gospels. https://learn.ligonier.org/sermons/mark-fig-tree-and-temple",
+    "310. [Commentary] Bible Hub. 'Commentaries on Psalm 90:10,' the seventy or eighty years used in generation calculations. https://biblehub.com/commentaries/psalms/90-10.htm",
+    "311. [Lexical Resource] Bible Hub. Greek 1074, genea. The range of the word translated 'generation.' https://biblehub.com/greek/1074.htm",
+    "312. [Commentary] Bible Hub. 'Commentaries on Matthew 24:34,' surveying the readings of 'this generation.' https://biblehub.com/commentaries/matthew/24-34.htm",
     "313. Christianity Matters - Gospel of the Kingdom: https://christianitymatters.com/2021/09/06/why-do-those-who-seem-to-be-christians-walk-away-from-the-faith/",
     "314. Enduring Word - Matthew 24:14 Commentary: https://enduringword.com/bible-commentary/matthew-24/",
     "315. [Lexical Resource] Bible Hub. '14.' https://biblehub.com/commentaries/matthew/24-14.htm",
@@ -793,15 +835,15 @@ Each subtopic below examines individual prophecies with their specific Old Testa
     "320. [Encyclopedia] Wikipedia. 'Christianity by Country.' https://en.wikipedia.org/wiki/Christianity_by_country",
     "321. Life Hope & Truth - Gospel Preached to All Nations: https://lifehopeandtruth.com/god/blog/the-meaning-of-matthew-24-14-the-gospel-preached-to-the-whole-world/",
     "322. [Lexical Resource] Bible Hub. '6.' https://biblehub.com/commentaries/colossians/1-6.htm",
-    "323. Way of Christ - Daniel 12:4 Knowledge Increase: https://way-of-christ.org/2024/09/19/daniel-124-knowledge-will-increase/",
-    "324. [Lexical Resource] Bible Hub. '10.' https://biblehub.com/commentaries/daniel/12-10.htm",
-    "325. ICR - Knowledge Shall Increase: https://www.icr.org/article/knowledge-shall-increase/",
-    "326. Blue Letter Bible - Daniel 12 Commentary: https://www.blueletterbible.org/comm/guzik_david/study-guide/daniel/daniel-12.cfm",
-    "327. [Lexical Resource] Bible Hub. '9.' https://biblehub.com/commentaries/daniel/12-9.htm",
-    "328. [Lexical Resource] Bible Hub. '7751.' https://biblehub.com/hebrew/7751.htm",
-    "329. Bible Hub - Daniel 12:4 Commentary: https://biblehub.com/commentaries/daniel/12-4.htm",
-    "330. [Lexical Resource] Bible Hub. '1847.' https://biblehub.com/hebrew/1847.htm",
-    "331. [Encyclopedia] Wikipedia. 'Book of Daniel.' https://en.wikipedia.org/wiki/Book_of_Daniel",
+    "323. [Commentary] Bible Hub. 'Commentaries on Daniel 12:4.' https://biblehub.com/commentaries/daniel/12-4.htm",
+    "324. [Commentary] StudyLight.org. Verse-by-verse commentary on Daniel 12:4, rejecting the modern-travel reading. https://www.studylight.org/commentary/daniel/12-4.html",
+    "325. [Lexical Resource] Bible Hub. Hebrew 7751, shut, to rove or range over. https://biblehub.com/hebrew/7751.htm",
+    "326. [Commentary] Bible Hub. 'Commentaries on Jeremiah 5:1,' where the same verb denotes searching the streets. https://biblehub.com/commentaries/jeremiah/5-1.htm",
+    "327. [Commentary] Bible Hub. 'Commentaries on Daniel 12:9,' the words shut up until the time of the end. https://biblehub.com/commentaries/daniel/12-9.htm",
+    "328. [Lexical Resource] Bible Hub. Hebrew 1847, da'ath, knowledge or understanding. https://biblehub.com/hebrew/1847.htm",
+    "329. [Commentary] Bible Hub. 'Commentaries on Daniel 12:10,' on the wise understanding. https://biblehub.com/commentaries/daniel/12-10.htm",
+    "330. [Reference] Wikipedia. Critical Path (book). Buckminster Fuller's 1982 source of the knowledge-doubling estimate. https://en.wikipedia.org/wiki/Critical_Path_(book)",
+    "331. [Reference] Wikipedia. Book of Daniel. Composition, setting and interpretation. https://en.wikipedia.org/wiki/Book_of_Daniel",
     "332. Growing 4 Life - Perilous Times: https://growing4life.net/tag/history/",
     "333. [Lexical Resource] Bible Hub. '1.' https://biblehub.com/commentaries/2_timothy/3-1.htm",
     "334. Church of the Living God - Perilous Times: https://www.clgonline.org/sermonblog/2020/11/7/the-form-but-not-the-power-2-timothy-31-9",
