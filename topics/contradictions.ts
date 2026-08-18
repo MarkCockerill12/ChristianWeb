@@ -330,6 +330,22 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
 
 **Clarification:** Moses wrote the vast majority of the Pentateuch, and his successor Joshua (or a later inspired scribe) added the final transition chapter as an obituary[^235][^236]. This was standard practice in the ancient Near East and does not negate Mosaic authorship[^237][^238][^239].`,
     },
+    {
+      id: 'FatherGreater',
+      title: 'John 14:28 vs Philippians 2:6 / John 5:18 / John 10:30 - the Father is greater than Jesus vs Jesus is equal with God',
+      tags: ['new testament', 'theology', 'christology'],
+      content: `**Supposed Contradiction:** In John 14:28 Jesus says \"the Father is greater than I,\" implying He is inferior to God. Yet Philippians 2:6 says He existed \"in the form of God\" and did not regard \"equality with God\" as something to exploit, and in John 5:18 His opponents tried to kill Him because He \"was making himself equal with God.\" John 10:30 has Him declare \"I and the Father are one.\" Is Jesus equal to God or not?
+
+**Clarification:** The resolution lies in the distinction Christian theology draws between **who Jesus is by nature** (ontological equality) and **what role He accepted during the incarnation** (economic or functional subordination)[^240][^241].
+
+**The Greek of Philippians 2:6-8** makes this explicit. Paul says Jesus existed in the *morphē theou* (μορφῇ θεοῦ, \"form of God\"), where the Greek *morphē* (Strong's 3444) does not mean outward shape but the essential, defining characteristics that make something what it is[^242][^243]. Being in the very form of God, He possessed full deity. The word \"equality\" here is the Greek *isos* (ἴσος, Strong's 2470), meaning identical or equivalent in degree[^244]. Paul's point is that Jesus did not cling to the *privileges* of that equality but voluntarily emptied Himself (*kenosis*) by taking the form of a servant and being made in human likeness[^245][^246]. The self-emptying was not a subtraction from His divine nature but an addition of human nature and a voluntary setting aside of the independent exercise of His divine prerogatives[^247].
+
+**John 14:28 in its immediate context** is about Jesus' departure. He tells the disciples: \"You heard me say, 'I am going away and I am coming back to you.' If you loved me, you would be glad that I am going to the Father, for the Father is greater than I\"[^248]. The reason they should be glad is that Jesus is about to leave His present state of humiliation, suffering, and limitation as a man walking toward the cross, and return to the glory He had with the Father before the world began ([John 17:5](https://www.biblegateway.com/passage/?search=John+17%3A5&version=NIV))[^249]. \"Greater\" here (*meizōn*, Strong's 3187) refers to the Father's position, not His nature. A king is \"greater\" than a soldier on the battlefield in rank and station, but they share the same human nature. In the same way, the Father was \"greater\" than the incarnate Son in positional glory and authority, while they remained equal in divine essence[^250][^251].
+
+**Other passages confirm the equality of essence.** In John 5:18, the Jewish leaders understood exactly what Jesus was claiming, that by calling God His own Father He was \"making himself equal with God\", and they sought to kill Him for it[^252]. In John 10:30, \"I and the Father are one\" (Greek *hen*, neuter, meaning one in essence or nature, not one person) prompted the same reaction: the crowd picked up stones for blasphemy ([John 10:33](https://www.biblegateway.com/passage/?search=John+10%3A33&version=NIV))[^253]. Hebrews 1:3 calls the Son \"the exact representation of [God's] being,\" and Colossians 2:9 states that \"in Christ all the fullness of the Deity lives in bodily form\"[^254].
+
+**In summary:** \"Equal\" describes Jesus' divine nature, *what* He is. \"Greater\" describes the Father's position relative to the incarnate Son, a difference in *role*, not in *being*. There is no contradiction because the two statements are not made in the same sense. One speaks of eternal essence, the other of the voluntary, temporary arrangement of the incarnation[^255].`,
+    },
   ],
 
             sources: [
@@ -571,7 +587,23 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     "236. [Apologetics] Christian Research Institute. 'The Death of Moses in Deuteronomy 34 and Authorship.' https://www.equip.org/articles/death-of-moses-in-deut-34-and-authorship/",
     "237. [Primary Source] Sefaria. 'Bava Batra 14b, on the authorship of the biblical books.' https://www.sefaria.org/Bava_Batra.14b",
     "238. [Bible Study Resource] BibleAsk. 'Who Wrote the Last Five Verses of Deuteronomy 34?.' https://bibleask.org/who-wrote-the-last-5-verses-of-deuteronomy-34/",
-    "239. [Encyclopedia] Wikipedia. 'Mosaic Authorship.' https://en.wikipedia.org/wiki/Mosaic_authorship"
+    "239. [Encyclopedia] Wikipedia. 'Mosaic Authorship.' https://en.wikipedia.org/wiki/Mosaic_authorship",
+    "240. [Bible Study Resource] Got Questions. 'Is the Father Greater than Jesus?' - Explains John 14:28 as referring to position during the incarnation rather than nature. https://www.gotquestions.org/Father-greater-Jesus.html",
+    "241. [Evangelical] The Gospel Coalition Canada. 'Is the Father Greater than the Son?' - Theological explanation of John 14:28 and Jesus' functional subordination in the Incarnation. https://ca.thegospelcoalition.org/columns/detrinitate/is-the-father-greater-than-the-son/",
+    "242. [Lexical Resource] Bible Hub. 'Strong's Greek 3444, morphē, form or nature.' https://biblehub.com/greek/3444.htm",
+    "243. [Commentary] Bible Hub. 'Commentaries on Philippians 2:6.' https://biblehub.com/commentaries/philippians/2-6.htm",
+    "244. [Lexical Resource] Bible Hub. 'Strong's Greek 2470, isos, equal or identical.' https://biblehub.com/greek/2470.htm",
+    "245. [Encyclopedia] Wikipedia. 'Kenosis.' - Overview of the theological concept of Christ's self-emptying in the incarnation. https://en.wikipedia.org/wiki/Kenosis",
+    "246. [Bible Study Resource] Got Questions. 'What is the kenosis? What is kenotic theology?' - Explanation of kenosis as addition of human nature, not subtraction of divine nature. https://www.gotquestions.org/kenosis.html",
+    "247. [Evangelical] Ligonier Ministries. 'The Humiliation of Christ.' - Theological treatment of Philippians 2 and the self-emptying of Christ. https://learn.ligonier.org/articles/humiliation-christ",
+    "248. [Commentary] Bible Hub. 'Commentaries on John 14:28.' https://biblehub.com/commentaries/john/14-28.htm",
+    "249. [Commentary] Bible Hub. 'Commentaries on John 17:5.' https://biblehub.com/commentaries/john/17-5.htm",
+    "250. [Apologetics] CARM. 'John 14:28, The Father Is Greater Than I.' - Distinguishes positional greatness from ontological equality. https://carm.org/about-jesus/john-1428-the-father-is-greater-than-i/",
+    "251. [Encyclopedia] Wikipedia. 'Economic Trinity.' - Distinction between the immanent Trinity (God in Himself) and the economic Trinity (God's activity in creation and salvation). https://en.wikipedia.org/wiki/Economic_Trinity",
+    "252. [Commentary] Bible Hub. 'Commentaries on John 5:18.' https://biblehub.com/commentaries/john/5-18.htm",
+    "253. [Commentary] Bible Hub. 'Commentaries on John 10:30.' https://biblehub.com/commentaries/john/10-30.htm",
+    "254. [Commentary] Bible Hub. 'Commentaries on Hebrews 1:3.' https://biblehub.com/commentaries/hebrews/1-3.htm",
+    "255. [Bible Study Resource] Got Questions. 'What does Philippians 2:5-8 mean?' - Explanation of the Christ hymn and its implications for Jesus' divine nature and incarnation. https://www.gotquestions.org/Philippians-2-5-8.html"
   ],
   lastUpdated: '07-08-2026',
 }

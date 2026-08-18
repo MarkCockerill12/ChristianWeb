@@ -77,7 +77,7 @@ Response: Neither is "incarnation" or "omniscience," but these biblical concepts
 
 **Objection: "Jesus said the Father is greater than I"**
 
-Response: This refers to Jesus' role in the incarnation, not His essence[^28]. Jesus voluntarily took on human nature and a subordinate role for our salvation while remaining equal in divine nature ([Philippians 2:6-8](https://www.biblegateway.com/passage/?search=Philippians+2%3A6-8&version=NIV))[^29].
+Response: In [John 14:28](https://www.biblegateway.com/passage/?search=John+14%3A28&version=NIV) Jesus is speaking about His imminent departure from the humiliation of the incarnation back to the Father's glory. "Greater" (*meizōn*) here refers to the Father's position relative to the incarnate Son, not to a difference in divine nature[^28]. Jesus voluntarily took on a subordinate role for our salvation while remaining fully equal in divine essence ([Philippians 2:6-8](https://www.biblegateway.com/passage/?search=Philippians+2%3A6-8&version=NIV))[^29]. The distinction is between *who Jesus is by nature* (equal with God) and *what role He accepted* (servant for our sake). For a full exploration of this topic, including the Greek of Philippians 2:6, how John 5:18 and 10:30 confirm equality of essence, and the theological distinction between ontological equality and economic subordination, see our page on [Contradictions](/categories/contradictions).
 
 
 **Objection: "Early Christians didn't believe in the Trinity"**
