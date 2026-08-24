@@ -28,6 +28,7 @@ import { slavery } from "./slavery"
 import { TREE_OF_KNOWLEDGE } from "./tree-of-knowledge"
 import { trinity } from "./trinity"
 import { women } from "./women"
+import { prayer } from "./prayer"
 
 export type { Topic, TimelineEvent } from "./types"
 
@@ -64,6 +65,7 @@ export const availableTopics: readonly Topic[] = [
   TREE_OF_KNOWLEDGE,
   trinity,
   women,
+  prayer,
 ]
 
 const topicsById = new Map(availableTopics.map((topic) => [topic.id, topic]))

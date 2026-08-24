@@ -158,6 +158,30 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
 
 **Ignatius of Antioch** (c. 108 AD) - Letter to the Smyrnaeans 1: "Jesus Christ, who was of the seed of David according to the flesh, but Son of God according to the will and power of God"[^59].
 
+**Addressing Objections: Verses Where Jesus Differentiates Himself From the Father**
+
+Skeptics often point to verses where Jesus seems to deny His divinity or distinguishes Himself from God. Understanding the orthodox doctrine of the Trinity and the Incarnation (specifically the Hypostatic Union - that Jesus is fully God and fully man) resolves these apparent contradictions. When Jesus speaks, He sometimes speaks from His divine nature, and other times from His human nature or His subordinate role in the economic Trinity.
+
+**1. "The only true God"**
+[**John 17:3**](https://www.biblegateway.com/passage/?search=John+17%3A3&version=NIV) - "Now this is eternal life: that they know you, the only true God, and Jesus Christ, whom you have sent."
+• **The Objection:** Jesus calls the Father "the only true God," which implies Jesus is not God.
+• **The Answer:** In this high priestly prayer, Jesus, acting in His role as the incarnate Son and Mediator, is addressing the Father. By calling the Father the "only true God," He is contrasting Yahweh with the false idols of the world, not excluding Himself from the Godhead. In fact, in the very same sentence, He puts knowing Himself ("and Jesus Christ") on the exact same level as knowing the Father as the requirement for eternal life - a profoundly divine claim. Furthermore, [1 John 5:20](https://www.biblegateway.com/passage/?search=1+John+5%3A20&version=NIV) uses similar language to call *Jesus* the "true God."
+
+**2. "Why do you call me good?"**
+[**Mark 10:18**](https://www.biblegateway.com/passage/?search=Mark+10%3A18&version=NIV) - "“Why do you call me good?” Jesus answered. “No one is good—except God alone.”"
+• **The Objection:** Jesus denies being good, and therefore denies being God.
+• **The Answer:** Jesus is not denying His goodness; He is challenging the rich young ruler's flippant use of the title "good teacher." He is essentially asking, "Do you realize what you are saying? Since only God is good, are you acknowledging that I am God?" Jesus forces the man to think logically about the implication of calling Him good. 
+
+**3. "The Father is greater than I"**
+[**John 14:28**](https://www.biblegateway.com/passage/?search=John+14%3A28&version=NIV) - "If you loved me, you would be glad that I am going to the Father, for the Father is greater than I."
+• **The Objection:** If the Father is "greater," Jesus must be a lesser created being.
+• **The Answer:** The word for "greater" (Greek: *meizon*) refers to position, rank, or office, not to essence or nature (which would be *kreitton*, "better"). In His incarnate state, Jesus had voluntarily humbled Himself ([Philippians 2:5-8](https://www.biblegateway.com/passage/?search=Philippians+2%3A5-8&version=NIV)), submitting to the Father's will. The Father is greater in *role* or *office* during the incarnation, but not greater in *essence* (as Jesus established in John 10:30, "I and the Father are one").
+
+**4. "Not even the Son knows the day or hour"**
+[**Matthew 24:36**](https://www.biblegateway.com/passage/?search=Matthew+24%3A36&version=NIV) - "But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father."
+• **The Objection:** If Jesus is God, He must be omniscient. If He doesn't know the time of His return, He isn't God.
+• **The Answer:** This speaks to the Hypostatic Union. In His human nature, Jesus grew in wisdom ([Luke 2:52](https://www.biblegateway.com/passage/?search=Luke+2%3A52&version=NIV)) and voluntarily restricted the independent use of His divine attributes. He knew what the Father revealed to His human consciousness. Thus, in His humanity, He did not know the hour, while in His divine nature, He remains omniscient.
+
 **The C.S. Lewis Trilemma:**
 Faced with these explicit claims to divinity, C.S. Lewis famously argued in *Mere Christianity* that we are left with only three logical options regarding Jesus' identity. Because He claimed to be God, He cannot merely be a "good moral teacher."
 • **Liar:** He knew He was not God, making Him a deceiver and a charlatan.
