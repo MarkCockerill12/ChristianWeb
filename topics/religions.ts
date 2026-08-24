@@ -2060,6 +2060,69 @@ Christianity's own difficult questions are not hidden elsewhere on this site, an
   **Conclusion:** Christian Science is neither scientific nor historically Christian. It offers a gnostic-style escape from reality rather than the redemption of reality found in Jesus Christ.
 
 </div>`
+    },
+    {
+      id: "tengrism",
+      title: "Tengrism (Tangeri)",
+      tags: ["Animism", "Polytheism", "Central Asian"],
+      content: `
+<div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+  **📚 About Tengrism (Tangeri):**
+
+  Tengrism is a Central Asian religion characterized by shamanism, animism, totemism, and polytheism/monotheism. Historically, it was the mainstream religion of the Turks, Mongols, Hungarians, and Xiongnu, centered around the sky god Tengri (or Tangeri). It emphasizes living in harmony with the surrounding world, reverence for nature spirits, and the veneration of ancestors.
+
+  **📅 Date Founded:** Prehistoric origins in the Eurasian steppes, highly prominent during the Mongol Empire (13th century) and earlier Turkic Khaganates.
+</div>
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; margin-bottom: 20px; width: 100%;">
+  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #d4edda; padding: 15px; border-radius: 8px; border-left: 4px solid #28a745; box-sizing: border-box;">
+
+<h3>✅ Positive Aspects</h3>
+
+    - **Reverence for nature:** Strong emphasis on living in balance with the natural environment.
+
+      - **Respect for ancestors:** Deep-rooted honor for family lineage and predecessors.
+
+      - **Simplicity:** Focus on practical survival and harmony without rigid dogmatic structures.
+
+      - **Tolerance:** Historically, Tengrist empires (like the Mongol Empire) often allowed freedom of religion.
+    </div>
+
+  <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
+
+<h3>❌ Areas of Concern</h3>
+
+    - **Lack of fixed revelation:** Relies on oral traditions and individual shamans rather than a coherent, verifiable historical text.
+
+      - **Animistic worldview:** Veneration of localized spirits can lead to fear and constant attempts to appease unpredictable forces.
+
+      - **No unified moral code:** Lacks a structured system of universal ethics, tying morality more to tribal loyalty and natural order than to a transcendent standard.
+
+      - **Lack of redemption:** Offers no solution for human sin or a clear pathway to eternal salvation, focusing instead on temporal balance.
+    </div>
+</div>
+
+<div style="background: #e3f2fd; padding: 15px; border-radius: 8px; border-left: 4px solid #2196f3;">
+
+<h3>🔍 Christian Response & Analysis</h3>
+
+  **Respectful Assessment:** Tengrism's appreciation for creation and its emphasis on stewardship echo the biblical mandate given to humanity in Genesis. The recognition of a supreme "Sky God" reflects a general revelation of a Creator. However, it falls short of the full truth in several ways:
+
+  <div style="margin: 10px 0;">
+    **1. Creator vs. Creation:** Tengrism often blurs the line between the Creator and the creation (animism). Christianity teaches that God is distinct from His creation, and only the Creator is worthy of worship ([Romans 1:25](https://www.biblegateway.com/passage/?search=Romans+1%3A25&version=NIV)).
+  </div>
+
+  <div style="margin: 10px 0;">
+    **2. Fear of Spirits vs. Freedom in Christ:** Shamanistic practices involve appeasing spirits. Christians are freed from the fear of spiritual forces because Christ has triumphed over them ([Colossians 2:15](https://www.biblegateway.com/passage/?search=Colossians+2%3A15&version=NIV)).
+  </div>
+
+  <div style="margin: 10px 0;">
+    **3. Written Revelation:** While Tengrism relies on changing oral traditions and subjective shamanic experiences, Christianity is grounded in God's objective, historically verifiable written Word.
+  </div>
+
+  **Conclusion:** While Tengrism correctly senses the divine in the natural world, Christianity reveals the personal God who made that world and who entered it as Jesus Christ to bring true harmony and salvation.
+
+</div>`
     }
   ],
   verses: [
