@@ -37,12 +37,12 @@ const timelineEvents = [
   {
     id: 3,
     title: "Noah's Flood",
-    date: "c. 2500-2300 BC",
+    date: "Primeval history",
     period: "Pre-History",
     description: "God judges the world with a great flood, saving Noah and his family.",
     verses: ["Genesis 6-9", "2 Peter 3:6"],
     archaeological:
-      "Flood narratives exist in many ancient cultures. Geological evidence for regional flooding in Mesopotamia.",
+      "Flood narratives exist in many ancient cultures, including the Mesopotamian Atrahasis and Gilgamesh epics. Excavations at Ur, Shuruppak and Kish found flood deposits from different dates, evidence of severe regional flooding rather than a single worldwide layer. Dating the Flood depends on how the Genesis genealogies are read.",
     significance: "Demonstrates God's judgment and mercy",
     color: "blue",
   },
@@ -66,19 +66,19 @@ const timelineEvents = [
     description: "Joseph rises to power in Egypt, saving his family during famine.",
     verses: ["Genesis 37-50", "Acts 7:9-16"],
     archaeological:
-      "Egyptian records show Semitic peoples in positions of authority. Evidence of seven-year famines in ancient Egypt.",
+      "Egyptian records show Semitic peoples settling in the Nile Delta and some rising to high office, and the Hyksos, a Semitic dynasty, later ruled northern Egypt. Egyptian texts record periodic famines; the Famine Stela's seven-year famine is a much later legend.",
     significance: "God's providence and preparation for Israel's time in Egypt",
     color: "yellow",
   },
   {
     id: 6,
     title: "The Exodus",
-    date: "c. 1446 BC",
+    date: "c. 1446 or c. 1260 BC",
     period: "Mosaic",
     description: "God delivers Israel from slavery in Egypt through Moses.",
     verses: ["Exodus 12:31-42", "1 Corinthians 10:1-4"],
     archaeological:
-      "Evidence of Semitic slaves in Egypt. Possible archaeological evidence for Israelite presence in Sinai.",
+      "Egyptian documents such as the Brooklyn Papyrus list Semitic servants in Egypt, and the Merneptah Stele (c. 1208 BC) names Israel as a people in Canaan. No direct archaeological trace of the Exodus or the wilderness journey has been found, and scholars divide between an early (15th century) date, a late (13th century) date, and doubt about the event's historicity.",
     significance: "God's power over earthly kingdoms and deliverance of His people",
     color: "orange",
   },
@@ -90,7 +90,7 @@ const timelineEvents = [
     description: "God gives the Ten Commandments and the Law to Moses at Mount Sinai.",
     verses: ["Exodus 19-20", "Deuteronomy 5:1-22"],
     archaeological:
-      "Traditional site of Mount Sinai shows evidence of ancient worship. Ancient law codes provide context for biblical law.",
+      "The location of Mount Sinai is unknown; the traditional site at Jebel Musa is attested from the 4th century AD. Ancient law codes such as Hammurabi's and Hittite treaty forms provide context for biblical law.",
     significance: "Establishment of God's moral law and covenant with Israel",
     color: "purple",
   },
@@ -102,7 +102,7 @@ const timelineEvents = [
     description: "Joshua leads Israel in conquering the Promised Land.",
     verses: ["Joshua 1:1-9", "Joshua 6:1-27"],
     archaeological:
-      "Archaeological evidence for destruction layers at Jericho and other Canaanite cities during this period.",
+      "Destruction layers at Jericho, Hazor and other Canaanite cities have been found, but their dates are disputed: Kathleen Kenyon dated Jericho's fall to c. 1550 BC, Bryant Wood argues for c. 1400 BC, and Hazor's great destruction is usually placed in the 13th century BC.",
     significance: "Fulfillment of God's promise to Abraham regarding the land",
     color: "red",
   },
@@ -137,7 +137,7 @@ const timelineEvents = [
     description: "Solomon builds the first temple in Jerusalem.",
     verses: ["1 Kings 6:1-38", "2 Chronicles 3-4"],
     archaeological:
-      "Archaeological evidence for Solomon's building projects. Phoenician architectural parallels to temple description.",
+      "Monumental gates at Hazor, Megiddo and Gezer have been linked to 1 Kings 9:15, though their dating to Solomon's reign is debated. The temple plan closely parallels temples excavated in Syria, such as Ain Dara and Tell Tayinat.",
     significance: "Central place of worship established; foreshadows Christ as true temple",
     color: "gold",
   },
@@ -172,7 +172,7 @@ const timelineEvents = [
     description: "Babylon destroys Jerusalem and takes Judah into exile.",
     verses: ["2 Kings 25:1-21", "Jeremiah 52"],
     archaeological:
-      "Babylonian records mention Jewish exiles. Archaeological evidence for Jerusalem's destruction in 586 BC.",
+      "Babylonian ration tablets name Jehoiachin, king of Judah, and the Al-Yahudu tablets document Judean exile communities. Burn layers in Jerusalem confirm its destruction in 586 BC.",
     significance: "Judgment for covenant unfaithfulness; hope for restoration",
     color: "black",
   },
@@ -230,7 +230,7 @@ const timelineEvents = [
     period: "New Testament",
     description: "Jesus is crucified and rises from the dead on the third day.",
     verses: ["Matthew 27-28", "1 Corinthians 15:3-8"],
-    archaeological: "Archaeological evidence for Roman crucifixion practices. Empty tomb traditions in Jerusalem.",
+    archaeological: "The heel bone of a crucified man, Yehohanan, found in Jerusalem with the nail still in place, confirms Roman crucifixion and burial of a crucified victim. The Church of the Holy Sepulchre preserves a tradition of the tomb's site going back to at least the 4th century.",
     significance: "Atonement for sin accomplished; victory over death",
     color: "red",
   },

@@ -74,7 +74,7 @@ The centre of the chapter is a conversation rather than a miracle. Martha affirm
 
 *   **A present reality.** Resurrection is relocated from a future event to a present person. The claim is not that Jesus will perform a resurrection but that resurrection is what He is, among the most direct claims to divine prerogative in the Gospel[^26][^27].
 *   **A sign rather than the thing itself.** Lazarus was restored to the same mortal life and died again later, whereas Christ's own resurrection was to a transformed, deathless life. Lazarus is a signpost, not a preview[^28].
-*   **Absolute authority.** The command "Lazarus, come out" carries no ritual, no prayer for power, and no technique, which is how John consistently presents Jesus' authority[^29].
+*   **Absolute authority.** Jesus first thanks the Father aloud, saying He does so for the sake of the crowd, and then raises Lazarus with a single spoken command, "Lazarus, come out", with no ritual or technique, which is how John consistently presents Jesus' authority[^29].
 
 Similar raisings appear elsewhere in the Gospels, including the widow's son at Nain and the daughter of Jairus, but neither involves a four-day interval[^30]. John states his purpose plainly at the end of the Gospel: these signs are written so that those who receive them may believe and have life in His name[^31].
 `

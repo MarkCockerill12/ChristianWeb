@@ -8,6 +8,15 @@ import { UpdatesFeed, type UpdateItem } from "./updates-feed"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 6,
+    title: "Evolution vs Creation Rebuilt & Site Fact-Check",
+    description:
+      "The Evolution vs Creation page now covers dinosaurs, Neanderthals and early humans, the age of the earth, the Flood, Babel, ancient cosmology and every major objection to Genesis, with a deep-time timeline. A site-wide fact-check corrected errors across Miracles, Religions, Canon, Prophecy, Slavery, Hell, Resurrection and other pages.",
+    date: "17/09/2026",
+    category: "Content & Accuracy",
+    link: "/categories/evolution",
+  },
+  {
     id: 5,
     title: "Citation Rebuild & 9 New Topics",
     description:

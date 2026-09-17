@@ -69,7 +69,7 @@ export default function PersonalPage() {
                 <li>• Multiple independent sources for Jesus&apos; existence</li>
                 <li>• Historical evidence for the resurrection</li>
                 <li>• Rapid spread of Christianity despite persecution</li>
-                <li>• 66,779 cross references between 66 books written by 40 different authors over 1500 years on 3 different continents</li>
+                <li>• 63,779 cross references between 66 books written by 40 different authors over 1500 years on 3 different continents</li>
                 <li>• Fulfilled prophecies about Jesus and the Old Testament</li>
               </ul>
             </CardContent>
@@ -119,11 +119,11 @@ export default function PersonalPage() {
             </CardHeader>
             <CardContent>
               <ul className="space-y-2 text-gray-700">
-                <li>• Nasa confirming an eclipse on both the day of Jesus death as well as the day in the old testament where the &quot;sun stood still&quot; for a day.</li>
-                <li>• Confirmed findings of Sodom and Gomorrah as well as sulfur deposits in the area.</li>
+                <li>• Astronomical calculations (including NASA&apos;s eclipse catalogue) showing a lunar eclipse visible from Jerusalem on 3 April AD 33, a proposed date for Jesus&apos; death, and a proposal by Cambridge scientists that Joshua&apos;s &quot;sun stood still&quot; records an eclipse in 1207 BC.</li>
+                <li>• Ruined Bronze Age cities near the Dead Sea, such as Bab edh-Dhra and Tall el-Hammam, proposed as the sites of Sodom and Gomorrah (the identifications are still debated).</li>
                 <li>• Places like Shiloh, Jericho, and Capernaum being found from Biblical accounts.</li>
                 <li>• Dead Sea Scrolls found</li>
-                <li>• Locations of worship found proving that Jesus was declared as God in early Christianity.</li>
+                <li>• Places of worship like the Megiddo prayer hall, whose mosaic (dated by its excavators to c. 230 AD, though some scholars date it later) dedicates a table &quot;to God Jesus Christ&quot;, showing that early Christians worshipped Jesus as God.</li>
               </ul>
             </CardContent>
           </Card>

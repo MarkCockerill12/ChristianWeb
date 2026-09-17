@@ -19,13 +19,13 @@ export const problemOfEvil: Topic = {
   tldr: "Evil and suffering exist because of human free will, the fallen state of creation, and for the ultimate purpose of refining our souls; God is not the author of evil but the redeemer of it.",
   content: `
 
-One of the most prominent objections to Christianity is the logical problem of evil. The argument, often attributed to Epicurus, goes as follows:
+One of the most prominent objections to Christianity is the logical problem of evil. The argument, often attributed to Epicurus (the attribution comes from the Christian writer Lactantius and is uncertain) and made famous by David Hume, goes as follows:
 
 If God is all-powerful, He can stop evil. If God is all-loving, He wants to stop evil. Yet evil exists. Therefore, an all-powerful and all-loving God cannot exist[^1][^2][^3].
 
 This seems logical on the surface, but it assumes two false premises: first, that an all-powerful God can do the logically impossible (like forcing someone to freely choose good), and second, that an all-loving God would have no higher purpose for allowing temporary suffering[^4][^5][^6].
 
-To understand this, we must first establish that "evil" is a moral judgment. Objective moral values, concepts of true "good" and "bad", cannot exist without a moral lawgiver (God). Without God, evil is just a matter of opinion, not an objective fact[^7][^8].
+Christian philosophers also point out that "evil" is a moral judgment. On the moral argument, objective moral values, concepts of true "good" and "bad", cannot exist without a moral lawgiver (God), so that the objection presupposes a standard that is hard to ground without God. Non-theistic moral realists dispute that premise, and the evidential problem of evil can be stated without it[^7][^8].
 
 ## The Free Will Defense
 The Bible teaches that God created humanity with the capacity for genuine love, which requires free will. Love that is programmed or forced is not love at all.
@@ -36,10 +36,10 @@ The Bible teaches that God created humanity with the capacity for genuine love, 
 
 3.  **The Fall:** Humanity chose rebellion. "When the woman saw that the fruit of the tree was good for food... she took some and ate it" ([Genesis 3:6](https://www.biblegateway.com/passage/?search=Genesis+3%3A6&version=NIV)).
 
-The philosopher Alvin Plantinga argues that it is logically impossible for God to create a world of free creatures who *always* choose good. If God forced us to choose good, we would not be free. Therefore, the potential for evil is the necessary cost of creating a world with free will and genuine love[^10]. God values our freedom to choose Him: "Choose for yourselves this day whom you will serve" ([Joshua 24:15](https://www.biblegateway.com/passage/?search=Joshua+24%3A15&version=NIV)).
+The philosopher Alvin Plantinga argues that it is *possible* that God could not have created a world of free creatures who always choose good, because whether free creatures sin is up to them, not to God. If God forced us to choose good, we would not be free. If that possibility holds, God and evil are logically compatible, and the potential for evil is the cost of creating a world with free will and genuine love[^10]. God values our freedom to choose Him: "Choose for yourselves this day whom you will serve" ([Joshua 24:15](https://www.biblegateway.com/passage/?search=Joshua+24%3A15&version=NIV)).
 
 ## Natural Evil and a Fallen World
-But what about earthquakes, cancer, and tsunamis? These are "natural evils" not directly caused by human choice. The Christian worldview explains this as the result of the Fall. When sin entered the world, it fractured not just human nature, but creation itself.
+But what about earthquakes, cancer, and tsunamis? These are "natural evils" not directly caused by human choice. Many Christians explain this as the result of the Fall: when sin entered the world, it fractured not just human nature, but creation itself. Christians who accept an old earth note that earthquakes, disease and animal death long predate humans, and so explain natural evil instead through the necessity of a stable, law-governed world, through a prior fall of angelic powers, or through God's purposes for a creation still in progress.
 
 "Cursed is the ground because of you" ([Genesis 3:17](https://www.biblegateway.com/passage/?search=Genesis+3%3A17&version=NIV)). The Apostle Paul writes that "the whole creation has been groaning as in the pains of childbirth right up to the present time" ([Romans 8:22](https://www.biblegateway.com/passage/?search=Romans+8%3A22&version=NIV)). We live in a broken world where the laws of nature, which sustain life, can also cause suffering[^11].
 
@@ -103,7 +103,7 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
       tags: ["sanctification", "growth"],
       content: `**Growth through trials:** God uses suffering to refine human souls[^30].
 
-• **The vale of soul-making:** Coined by John Hick, this perspective views the world not as a perfect paradise, but as a classroom designed to develop moral and spiritual virtues[^31].
+• **The vale of soul-making:** A phrase from the poet John Keats, adopted by the philosopher John Hick for his Irenaean theodicy, this perspective views the world not as a perfect paradise, but as a classroom designed to develop moral and spiritual virtues[^31].
 
 • **The Joseph Principle:** What others intend for harm, God intends for a greater redemptive good ([Genesis 50:20](https://www.biblegateway.com/passage/?search=Genesis+50%3A20&version=NIV)).`
     },
@@ -154,5 +154,5 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
     "33. [Commentary] Bible Hub. 'Commentaries on Ephesians 6:12.' https://biblehub.com/commentaries/ephesians/6-12.htm",
     "34. [Reference] Wikipedia. Last Judgment. The final accounting to which Scripture appeals. https://en.wikipedia.org/wiki/Last_Judgment"
   ],
-  lastUpdated: "2026-07-24",
+  lastUpdated: "17-09-2026",
 }

@@ -126,7 +126,7 @@ The Old Testament also contains legislation that assumes a patriarchal household
     },
     {
       id: 13,
-      date: "1739-1742",
+      date: "1711-1712",
       title: "Susanna Wesley teaches and leads",
       period: "Evangelical Revival",
       color: "#E11D48",
@@ -135,7 +135,7 @@ The Old Testament also contains legislation that assumes a patriarchal household
     },
     {
       id: 14,
-      date: "1865-1886",
+      date: "1869-1886",
       title: "Josephine Butler's campaign",
       period: "Victorian",
       color: "#DC2626",
@@ -193,7 +193,7 @@ Judging the Mosaic legislation is impossible without knowing what the alternativ
 
 **The Middle Assyrian Laws**, from roughly 1114 to 1076 BC, are harsher. Tablet A compels wives, widows and freeborn women to veil in public and forbids prostitutes and slave women to do so. A prostitute caught veiled is to receive fifty blows with rods and have hot pitch poured over her head; a slave woman caught veiled has her ears cut off. A husband may inflict corporal punishment on his wife at will[^22][^23].
 
-Against that, several features of Israelite law stand out. A wife's consent is presumed in the marriage of a widow to her brother-in-law, and she is given a public procedure to refuse. There is no provision for selling a wife. Ordeal appears once, in a narrowly bounded case, rather than as a general method of proof. Adultery is capital for both parties rather than for the woman alone, which is severe but not asymmetric[^24].
+Against that, several features of Israelite law stand out. In levirate marriage the brother-in-law who refuses to marry a childless widow must do so publicly before the elders, where she herself performs the ceremony that shames him, so the law gives her standing and a public voice in the case. There is no provision for selling a wife. Ordeal appears once, in a narrowly bounded case, rather than as a general method of proof. Adultery is capital for both parties, as in Hammurabi's code, but without the Babylonian provision allowing a husband to pardon his wife and so decide her fate himself, which is severe but not asymmetric[^24].
 
 **Three points where the comparison cuts the other way.** Israelite law gives a husband the power to annul his wife's vows, which Hammurabi does not address. It contains no provision for a wife to initiate divorce, where Babylonian law does. And it prices women lower than men in the schedule of redemption valuations. The comparison is favourable overall and it is not favourable at every point[^25][^26].
 
@@ -225,13 +225,13 @@ This is the hardest cluster in the Old Testament for the question of women, and 
 
 **The City vs. The Country: Consent vs. Assault.** Deuteronomy 22:23 to 27 establishes a clear framework for distinguishing between consensual adultery and violent assault through two distinct examples regarding a betrothed woman.
 * **The City Scenario (vv. 23-24):** If the encounter happens in a populated town, the law presumes that if it were an assault, the woman would have cried out or shouted for help. Because she did not, it is treated as consensual infidelity, and both are held responsible.
-* **The Country Scenario (vv. 25-27):** If the encounter happens in the open country, the text explicitly changes the verb to state the man "forces" (*chazaq*) her. The law reasons that even if she had cried out, no one would have heard her. In a profound departure from other ancient Near Eastern law codes, the Torah explicitly declares the woman entirely innocent: "she has done nothing deserving of death." It compares her situation directly to a murder victim, recognizing her exclusively as the victim of a violent crime[^37].
+* **The Country Scenario (vv. 25-27):** If the encounter happens in the open country, the text explicitly changes the verb to state the man "forces" (*chazaq*) her. The law reasons that even if she had cried out, no one would have heard her. As in the corresponding law of Hammurabi, and unlike the Middle Assyrian laws, which punished a rapist by handing his own wife over to be raped, the Torah explicitly declares the woman entirely innocent: "she has done nothing deserving of death." It compares her situation directly to a murder victim, recognizing her exclusively as the victim of a violent crime[^37].
 
-**The Disputed Verses (28-29) and Translation Issues.** Immediately following this, the text addresses an unbetrothed virgin involved with a man who is caught. He pays fifty shekels to her father, must marry her, and may never divorce her. When modern translations (like older versions of the NIV) translate this as a law about "rape," it seems monstrous, implying a victim is forced to marry her rapist. However, a closer look at the text and its cultural context changes the picture:
+**The Disputed Verses (28-29) and Translation Issues.** Immediately following this, the text addresses an unbetrothed virgin involved with a man who is caught. He pays fifty shekels to her father, must marry her, and may never divorce her. When modern translations such as the NIV translate this as a law about "rape," it seems monstrous, implying a victim is forced to marry her rapist. However, a closer look at the text and its cultural context changes the picture:
 
 First, the verb deliberately shifts. In the undeniable rape case of verse 25, the Hebrew word used is *chazaq* (to overpower or force), the exact same violent verb used for the rape of Tamar in 2 Samuel 13:14. In verse 28, however, the verb switches to *taphas* (to seize, catch, or lay hold of). While *taphas* can mean to grab hold, it is a much weaker term often used for catching someone in a lie or taking hold of a garment. Translations like the NKJV and KJV render this more neutrally as "lay hold on her," which is far more accurate. The sustained lexical argument, set out by Sandra Richter in the *Journal of the Evangelical Theological Society*, is that this second case is premarital seduction or mutual, albeit illicit, intimacy, not violent assault[^38][^39].
 
-Second, the Bible interprets the Bible. The direct parallel to this law is the seduction law in Exodus 22:16-17. In Exodus, a man who seduces a virgin must pay the bride-price and marry her. Critically, Exodus includes a veto clause: if her father absolutely refuses to give her to him, the man must still pay the money. Because ancient Jewish jurisprudence read these laws together (addressing the same class of case), the veto was understood to apply in Deuteronomy as well. The marriage was not compulsory[^40].
+Second, the Bible interprets the Bible. The direct parallel to this law is the seduction law in Exodus 22:16-17. In Exodus, a man who seduces a virgin must pay the bride-price and marry her. Critically, Exodus includes a veto clause: if her father absolutely refuses to give her to him, the man must still pay the money. Because later rabbinic jurisprudence read these laws together (addressing the same class of case), the veto was understood to apply in Deuteronomy as well. On that reading, the marriage was not compulsory[^40].
 
 **The Cultural Nuance.** In the ancient patriarchal economy, an unbetrothed non-virgin would face severe destitution, unable to secure a marriage to provide for her. By forcing the man to pay the highest bridal price (50 shekels) and stripping him of the right to divorce her, the law was punishing the man for treating her as disposable, while simultaneously guaranteeing the woman lifelong financial security and societal status.
 
@@ -269,7 +269,7 @@ A large share of the material cited as biblical mistreatment of women is narrati
 
 **Judges 19, the Levite's concubine.** A woman is handed to a mob, abused through the night, and dismembered. Nothing in the text approves of any of it. The Levite is presented as a coward who saves himself, the men of Gibeah as behaving like the men of Sodom, and the outcome is a civil war that nearly destroys a tribe. The book closes the whole sequence with its refrain: in those days Israel had no king, and everyone did as they saw fit. That sentence is the narrator's verdict, and it is a condemnation[^57][^58].
 
-**Judges 11, Jephthah's daughter.** Jephthah vows to offer whatever comes out of his house to meet him, and his daughter comes out. Human sacrifice is prohibited in the Law in the strongest terms and named as the reason the previous inhabitants were expelled from the land, so the vow was void the moment he made it. The text records that he kept it, and it records the annual lament of the women of Israel. Judges is a book about national decline told through the deterioration of its leaders, and Jephthah is one of the specimens[^59].
+**Judges 11, Jephthah's daughter.** Jephthah vows to offer whatever comes out of his house to meet him, and his daughter comes out. Human sacrifice is prohibited in the Law in the strongest terms and named as the reason the previous inhabitants were expelled from the land, so the vow was void the moment he made it. Some interpreters, including medieval Jewish commentators such as David Kimhi, argue that she was dedicated to lifelong virginity rather than killed, since the text dwells on her mourning her virginity, but most read the narrative as a sacrifice. The text records that he kept it, and it records the annual lament of the women of Israel. Judges is a book about national decline told through the deterioration of its leaders, and Jephthah is one of the specimens[^59].
 
 **Hagar, and Sarah's treatment of her.** Genesis does not soften what is done to Hagar. She is used, resented and driven out, and the narrative gives her the dignity of a divine encounter in the desert and a promise, and has her name the God who sees. Nothing in these chapters invites admiration for Abraham and Sarah[^60].
 
@@ -331,7 +331,7 @@ The Gospels record behaviour that was socially costly and that the writers had n
 
 **He taught women as disciples.** Mary of Bethany sits at his feet, the posture of a student with a teacher, and when Martha objects Jesus defends Mary's choice as the better one. Rabbinic instruction of women was not the norm, and the scene is a deliberate endorsement[^86].
 
-**He defended women publicly against the men in charge.** He healed a crippled woman on the Sabbath and called her a daughter of Abraham, a title not otherwise used, in direct rebuke of the synagogue ruler. He refused to join the condemnation of the woman taken in adultery and turned the question back on her accusers, whose selective application of the law had ignored the man[^87][^88].
+**He defended women publicly against the men in charge.** He healed a crippled woman on the Sabbath and called her a daughter of Abraham, a title found nowhere else in the Gospels, in direct rebuke of the synagogue ruler. He refused to join the condemnation of the woman taken in adultery and turned the question back on her accusers, whose selective application of the law had ignored the man. This account (John 7:53 to 8:11) is absent from the earliest manuscripts of John, though many scholars regard it as an authentic early tradition[^87][^88].
 
 **He broke purity conventions rather than enforce them.** The woman with the twelve-year haemorrhage was permanently unclean and her touch should have defiled him. He does not rebuke her; he calls her daughter and tells her that her faith has healed her[^89].
 
@@ -405,7 +405,7 @@ Both positions are held by people who accept the authority of Scripture and who 
       content: `
 The historical record is measurable in places, and it is not uniformly to the Church's credit.
 
-**The early centuries.** Christian communities condemned the exposure of unwanted infants, which fell disproportionately on newborn girls; the practice was widespread enough that a study of Roman family inscriptions reconstructed six hundred families of which only six had raised more than one daughter. Christians refused abortion and infanticide, supported widows rather than pressing them to remarry, with the Roman congregation reported to be maintaining fifteen hundred widows and needy persons by 251 AD, and married their daughters substantially later than their pagan neighbours. The sex ratio inside the churches ran the opposite way to the ratio in the wider empire. Rodney Stark's argument that this differential is part of why the movement grew is contested in its details and rests on evidence that is real[^132][^133][^134][^135][^136].
+**The early centuries.** Christian communities condemned the exposure of unwanted infants, which fell disproportionately on newborn girls; the practice was widespread enough that a study of Greek inscriptions from Delphi reconstructed six hundred families of which only six had raised more than one daughter. Christians refused abortion and infanticide, supported widows rather than pressing them to remarry, with the Roman congregation reported to be maintaining fifteen hundred widows and needy persons by 251 AD, and married their daughters substantially later than their pagan neighbours. The sex ratio inside the churches ran the opposite way to the ratio in the wider empire. Rodney Stark's argument that this differential is part of why the movement grew is contested in its details and rests on evidence that is real[^132][^133][^134][^135][^136].
 
 **The single sexual standard.** Roman law and custom permitted a husband recourse to slaves and prostitutes while treating a wife's infidelity as a serious offence. Christian teaching applied the same obligation to both, which was a substantial legal and social change and was resisted as such[^137].
 

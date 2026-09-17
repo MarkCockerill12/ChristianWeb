@@ -18,9 +18,9 @@ The Bible is a collection of 66 books written by more than forty authors across 
 
 For a number of books, critical scholarship reaches different conclusions from the traditional ascriptions[^4].
 
-*   **The Pentateuch.** Traditionally ascribed to Moses around 1440 to 1400 BC. Most critical scholars hold that the Torah reached its final form considerably later, drawing on multiple sources, an account known as the documentary hypothesis. Conservative scholars respond with arguments for substantial Mosaic origin together with later editorial updating[^5].
+*   **The Pentateuch.** Traditionally ascribed to Moses around 1440 to 1400 BC. Most critical scholars hold that the Torah reached its final form considerably later, drawing on multiple sources or supplements, an approach whose classic form is the documentary hypothesis. Conservative scholars respond with arguments for substantial Mosaic origin together with later editorial updating[^5].
 *   **Isaiah.** Traditionally a single eighth-century author. Many scholars divide the book into two or three parts, arguing that chapters 40 to 66 address the exile directly and therefore postdate it. Defenders of unity treat this as predictive prophecy and note that the New Testament cites both halves as Isaiah[^6].
-*   **Daniel.** Traditionally sixth century BC. Much critical scholarship dates it to the second century BC because of the detailed accuracy of its Greek-period material, so the date accepted largely follows from a prior view of predictive prophecy[^7].
+*   **Daniel.** Traditionally sixth century BC. Most critical scholars date its final form to about 165 BC, pointing to the detailed accuracy of its Greek-period material up to the persecution of Antiochus IV and its divergence from history in 11:40-45, to Greek loanwords for musical instruments, to historical difficulties such as "Darius the Mede", and to its placement among the Writings rather than the Prophets. Conservative scholars answer each point and argue that the late date partly follows from a prior rejection of predictive prophecy[^7].
 *   **The Pauline letters.** Seven are accepted as Pauline across essentially the whole field, being Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon. Many scholars regard Ephesians, Colossians, 2 Thessalonians and the Pastoral Epistles as written later by followers of Paul, arguing from vocabulary, style and assumed church structure[^8].
 *   **Hebrews and 2 Peter.** Hebrews is formally anonymous, and the traditional Pauline attribution was disputed even in the early church. The traditional authorship of 2 Peter is the most widely doubted in the New Testament[^9].
 *   **The Gospels.** All four are formally anonymous. The names attached to them are early and unanimous in the manuscript tradition, though the titles are not part of the original text, and dating ranges from roughly AD 60 to 90 depending on the scholar[^10].
@@ -32,7 +32,7 @@ The Pentateuch establishes the covenant between God and Israel and lays the foun
 The Pentateuch, or Torah, lays the foundation for all biblical theology, establishing the covenant between God and Israel.
 
 ### Genesis
-**Authorship Evidence:** Traditionally ascribed to Moses. Internal evidence points to a single author compiling early records. Textual evidence shows unity in style, and external manuscript evidence (like the Dead Sea Scrolls) supports a consistent early text.
+**Authorship Evidence:** Traditionally ascribed to Moses. Conservative scholars see a single author compiling earlier records (the ten "generations" headings may mark those sources), while critical scholars see several sources; and external manuscript evidence (like the Dead Sea Scrolls) supports a consistent early text.
 **Where Written:** Likely in the wilderness during the Israelites' wandering.
 **Date of Writing:** Approximately 1440 to 1400 BC.
 **Theological Theme:** Beginnings. The book establishes God's sovereignty over creation, the tragedy of the fall, and the promise of redemption through the Abrahamic covenant.
@@ -144,12 +144,12 @@ These books focus on practical living, the nature of suffering, and worship.
 **Date of Writing:** Mostly during Solomon's reign, around 950 BC, with Hezekiah's men compiling some sections later.
 **Theological Theme:** Wisdom for Living. It contrasts the path of wisdom (fearing God) with the path of folly.
 ### Ecclesiastes
-**Authorship Evidence:** The author identifies as "the Preacher, the son of David, king in Jerusalem," strongly pointing to Solomon.
+**Authorship Evidence:** The author identifies as "the Preacher, the son of David, king in Jerusalem," which tradition takes to mean Solomon; many scholars, conservative as well as critical, read "the Preacher" (Qohelet) as a literary persona, and its late Hebrew suggests a post-exilic date.
 **Where Written:** Jerusalem.
 **Date of Writing:** Around 935 BC, late in Solomon's life.
 **Theological Theme:** The Meaning of Life. It concludes that everything "under the sun" is vanity without a foundational fear of God.
 ### Song of Solomon
-**Authorship Evidence:** Solomon. The Hebrew title means "The Song of Songs, which is Solomon's".
+**Authorship Evidence:** Solomon. The Hebrew title reads "The Song of Songs, which is Solomon's", though the preposition can also mean "for" or "concerning" Solomon.
 **Where Written:** Jerusalem.
 **Date of Writing:** Around 965 BC, early in Solomon's reign.
 **Theological Theme:** Marital Love. It celebrates the beauty of romantic love and is often interpreted as an allegory of God's love for His people.
@@ -180,7 +180,7 @@ These extensive prophetic books warned Israel and Judah of judgment while offeri
 **Date of Writing:** Between 593 and 571 BC.
 **Theological Theme:** God's Glory and Restoration. It features apocalyptic visions and promises that God will give His people a new heart and a new spirit.
 ### Daniel
-**Authorship Evidence:** Daniel. Jesus affirmed his authorship (Matthew 24:15). Linguistic evidence shows accurate use of sixth-century BC Aramaic and Persian loanwords.
+**Authorship Evidence:** Daniel. Jesus affirmed his authorship (Matthew 24:15). Conservative scholars argue that its Aramaic fits an earlier date than critics allow, while critics point to its Persian and Greek loanwords; see the section on disputed authorship above.
 **Where Written:** Babylon.
 **Date of Writing:** Around 530 BC.
 **Theological Theme:** The Sovereignty of God Over Nations. It offers prophetic timelines leading up to the Messiah and the end of the age.

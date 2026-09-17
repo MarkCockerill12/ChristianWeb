@@ -56,7 +56,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['old testament', 'history'],
       content: `**Supposed Contradiction:** Genesis 4:17 mentions Cain's wife, yet the narrative has only recorded the creation of Adam, Eve, Cain, and Abel, leaving no clear origin for another woman.
 
-**Clarification:** This is resolved by reading the surrounding genealogy. [Genesis 5:4](https://www.biblegateway.com/passage/?search=Genesis+5%3A4&version=NIV) states that Adam lived for hundreds of years and 'had other sons and daughters.' Cain married one of his sisters or, depending on the timeline, a niece[^48][^49]. The laws prohibiting close-relative marriage were not given until the time of Moses ([Leviticus 18:6-18](https://www.biblegateway.com/passage/?search=Leviticus+18%3A6-18&version=NIV))[^50][^51][^52]. Creationist writers add that the accumulated genetic load which makes such unions dangerous now had not yet built up in the first generations, an argument that follows from a recent common ancestry and is not shared by those who date humanity differently[^53][^54][^55]. The 'city' Cain built was a small, fortified family settlement populated by his growing household over several decades[^56][^57].`,
+**Clarification:** This is resolved by reading the surrounding genealogy. [Genesis 5:4](https://www.biblegateway.com/passage/?search=Genesis+5%3A4&version=NIV) states that Adam lived for hundreds of years and 'had other sons and daughters.' Cain married one of his sisters or, depending on the timeline, a niece[^48][^49]. The laws prohibiting close-relative marriage were not given until the time of Moses ([Leviticus 18:6-18](https://www.biblegateway.com/passage/?search=Leviticus+18%3A6-18&version=NIV))[^50][^51][^52]. Creationist writers add that the accumulated genetic load which makes such unions dangerous now had not yet built up in the first generations, an argument that follows from a recent common ancestry and is not shared by those who date humanity differently[^53][^54][^55]. The 'city' Cain built was most likely a small settlement populated by his growing household over several decades[^56][^57].`,
     },
     {
       id: 'chariots',
@@ -72,7 +72,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['old testament', 'history'],
       content: `**Supposed Contradiction:** 2 Kings 24:8 states that Jehoiachin was 18 years old when he became king of Judah, whereas 2 Chronicles 36:9 states he was only 8 years old.
 
-**Clarification:** This is a well-documented scribal transmission error in the Masoretic Hebrew text of 2 Chronicles, where the symbol or word for ten was omitted during copying[^66][^67][^68]. Most ancient manuscripts, including the Septuagint (Greek translation) and the Syriac and Arabic versions, read '18' in both passages, matching [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^69]. The historical context also supports 18, as Jehoiachin had multiple wives ([2 Kings 24:15](https://www.biblegateway.com/passage/?search=2+Kings+24%3A15&version=NIV)) and made independent, responsible decisions that are described as 'evil in the sight of the Lord'[^70][^71].`,
+**Clarification:** This is a well-documented scribal transmission error in the Masoretic Hebrew text of 2 Chronicles, where the symbol or word for ten was omitted during copying[^66][^67][^68]. Some Septuagint manuscripts and the Syriac version read '18' in 2 Chronicles, matching [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^69]. The historical context also supports 18, as Jehoiachin had multiple wives ([2 Kings 24:15](https://www.biblegateway.com/passage/?search=2+Kings+24%3A15&version=NIV)) and made independent, responsible decisions that are described as 'evil in the sight of the Lord'[^70][^71].`,
     },
     {
       id: 'genealogies',
@@ -152,7 +152,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['old testament', 'history', 'scribal'],
       content: `**Supposed Contradiction:** 2 Kings 8:26 states that Ahaziah was 22 years old when he became king, whereas 2 Chronicles 22:2 states he was 42 years old.
 
-**Clarification:** This is a clear copyist error in the Masoretic Hebrew text of 2 Chronicles, as Ahaziah's father died at age 40, making a 42-year-old son chronologically impossible[^131][^132]. Older manuscript traditions, including the Septuagint, Syriac, and Arabic versions, correctly read '22' in [2 Chronicles 22:2](https://www.biblegateway.com/passage/?search=2+Chronicles+22%3A2&version=NIV), matching the age in [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^133].`,
+**Clarification:** This is a clear copyist error in the Masoretic Hebrew text of 2 Chronicles, as Ahaziah's father died at age 40, making a 42-year-old son chronologically impossible[^131][^132]. The Syriac and Arabic versions read '22' in [2 Chronicles 22:2] (the Septuagint reads '20'),(https://www.biblegateway.com/passage/?search=2+Chronicles+22%3A2&version=NIV), matching the age in [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^133].`,
     },
     {
       id: 'TempleCleansing',
@@ -168,7 +168,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['new testament', 'gospels', 'scribal'],
       content: `**Supposed Contradiction:** Mark 2:26 states that David entered the house of God and ate the showbread "in the days of Abiathar the high priest," whereas 1 Samuel 21:1 records that the high priest was actually Ahimelech.
 
-**Clarification:** The Greek phrase *epi Abiathar* in Mark 2:26 means "in the time of Abiathar" or "during the lifetime of Abiathar," rather than "at the exact moment he was high priest."[^138][^139]. Since the event led immediately to the death of Ahimelech and the rise of his son Abiathar, who served as David's primary high priest for decades, it was historically appropriate to reference the entire epoch under Abiathar's name[^140][^141].`,
+**Clarification:** The Greek phrase *epi Abiathar* in Mark 2:26 means "in the time of Abiathar" or "during the lifetime of Abiathar," rather than "at the exact moment he was high priest."[^138][^139]. Since the event led immediately to the death of Ahimelech and the rise of his son Abiathar, who served as David's primary high priest for decades, it was historically appropriate to reference the entire epoch under Abiathar's name. The phrase *epi* with the genitive does elsewhere mean "in the time of", but some scholars, including Bart Ehrman, regard the verse as a genuine slip, and Matthew and Luke both omit the name in their parallels[^140][^141].`,
     },
     {
       id: 'ResurrectionAccounts',
@@ -176,7 +176,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['new testament', 'gospels', 'harmonization'],
       content: `**Supposed Contradiction:** The four Gospels differ on the details of the resurrection morning, including who visited the tomb, what time they arrived, and how many angels were present.
 
-**Clarification:** These variations represent independent eyewitness accounts rather than collusion[^142][^143][^144]. 1) *Women:* John focuses on Mary Magdalene, while the other Gospels include her companions; focusing on one does not deny the others were present[^145]. 2) *Timing:* The women left "while it was still dark" (John) and arrived at dawn "as the sun was rising" (Mark)[^146]. 3) *Angels:* Stating there was one angel (Matthew/Mark) does not deny the presence of a second angel who remained silent (Luke/John)[^147].`,
+**Clarification:** Harmonisers argue that these variations reflect the partial perspectives of different witnesses rather than invention. Matthew and Luke drew on Mark for much of their material, so the accounts are not wholly independent, but their divergences on the resurrection morning show that they were not simply copied either[^142][^143][^144]. 1) *Women:* John focuses on Mary Magdalene, while the other Gospels include her companions; focusing on one does not deny the others were present[^145]. 2) *Timing:* The women left "while it was still dark" (John) and arrived at dawn "as the sun was rising" (Mark)[^146]. 3) *Angels:* Stating there was one angel (Matthew/Mark) does not deny the presence of a second angel who remained silent (Luke/John)[^147].`,
     },
     {
       id: 'GodRepents',
@@ -216,7 +216,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['new testament', 'acts', 'harmonization'],
       content: `**Supposed Contradiction:** The three conversion accounts of Paul in Acts differ on whether his companions stood or fell, and whether they heard the voice.
 
-**Clarification:** The Greek terms resolve these details[^167][^168]. In Acts 9, the men "heard the sound" (general noise), while Acts 22 notes they did not "understand the voice" (comprehend the words)[^169][^170]. Regarding posture, they all fell initially to the ground (Acts 26) and then stood up or remained frozen in speechless terror (Acts 9)[^171][^172].`,
+**Clarification:** The Greek terms resolve these details[^167][^168]. In Acts 9, the men "heard the sound" (general noise), while Acts 22 notes they did not "understand the voice" (comprehend the words); *akouō* can mean either to hear or to understand, as the NIV renders it, though the grammatical argument sometimes built on the case of the noun is weaker than often claimed[^169][^170]. Regarding posture, they all fell initially to the ground (Acts 26) and then stood up or remained frozen in speechless terror (Acts 9)[^171][^172].`,
     },
     {
       id: 'Quirinius',
@@ -232,7 +232,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['new testament', 'gospels', 'linguistics'],
       content: `**Supposed Contradiction:** Mark 6:8 records Jesus telling the disciples to take a staff, whereas Matthew and Luke record Him telling them not to take a staff.
 
-**Clarification:** Matthew uses the Greek verb *ktaomai*, meaning "to acquire" or "to buy extra." Jesus was commanding them not to buy *new* gear for the trip[^185][^186]. Mark uses *airo*, meaning "to take what you have." Jesus wanted them to take their existing staff but avoid procuring extra supplies, emphasizing reliance on God[^187][^188].`,
+**Clarification:** Matthew uses the Greek verb *ktaomai*, meaning "to acquire" or "to buy extra." Jesus was commanding them not to buy *new* gear for the trip[^185][^186]. Mark uses *airo*, meaning "to take what you have." Jesus wanted them to take their existing staff but avoid procuring extra supplies, emphasizing reliance on God. This distinction works for Matthew but not for Luke 9:3, which uses the same verb as Mark (*airo*), so for Luke the answer must be that the Gospels preserve the sense of the instruction (travel light and depend on hospitality) rather than its exact wording[^187][^188].`,
     },
     {
       id: 'CenturionServant',
@@ -256,7 +256,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['old testament', 'history', 'scribal'],
       content: `**Supposed Contradiction:** 1 Samuel records David killing Goliath, whereas 2 Samuel 21:19 records that Elhanan killed Goliath.
 
-**Clarification:** This is a minor copyist error in 2 Samuel, which is corrected by the parallel passage in 1 Chronicles 20:5[^196]. 1 Chronicles preserves the original reading: Elhanan killed Lahmi, the *brother of* Goliath[^197][^198][^199]. A scribe in 2 Samuel misread the Hebrew letters for "brother of" as "Bethlehemite" and omitted Lahmi's name[^200][^201].`,
+**Clarification:** The usual conservative answer is a copyist error in 2 Samuel, corrected by the parallel passage in 1 Chronicles 20:5; many critical scholars instead think the Elhanan tradition is older and that Chronicles harmonised it with the David story[^196]. 1 Chronicles preserves the original reading: Elhanan killed Lahmi, the *brother of* Goliath[^197][^198][^199]. A scribe in 2 Samuel misread the Hebrew letters for "brother of" as "Bethlehemite" and omitted Lahmi's name[^200][^201].`,
     },
     {
       id: 'MichalsChildren',
@@ -264,7 +264,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['old testament', 'history', 'scribal'],
       content: `**Supposed Contradiction:** 2 Samuel 6:23 states Michal had no children, whereas 2 Samuel 21:8 mentions her five sons.
 
-**Clarification:** This is a copyist slip where Michal's name was written instead of her sister Merab[^202]. 1 Samuel 18:19 records that Merab married Adriel, the father of the five sons[^203][^204]. Alternatively, Michal may have adopted and raised her deceased sister Merab's five sons[^205][^206][^207].`,
+**Clarification:** This is probably a copyist slip where Michal's name was written instead of her sister Merab, which is the reading of two Hebrew manuscripts and some Septuagint manuscripts[^202]. 1 Samuel 18:19 records that Merab married Adriel, the father of the five sons[^203][^204]. Alternatively, Michal may have adopted and raised her deceased sister Merab's five sons[^205][^206][^207].`,
     },
     {
       id: 'SolomonsStalls',
@@ -288,7 +288,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['old testament', 'new testament', 'chronology'],
       content: `**Supposed Contradiction:** Exodus states the Israelites lived in Egypt for 430 years, whereas Galatians states the Law came 430 years after Abraham.
 
-**Clarification:** Older manuscripts like the Septuagint and Samaritan Pentateuch read in Exodus 12:40 that they lived in Egypt *and Canaan* for 430 years[^214][^215]. The 430-year period began with the promise to Abraham, spanning 215 years in Canaan and 215 in Egypt[^216][^217].`,
+**Clarification:** The Septuagint and the Samaritan Pentateuch read in Exodus 12:40 that they lived in Egypt *and Canaan* for 430 years, whereas the Masoretic Text has Egypt alone[^214][^215]. On that reading the 430-year period began with the promise to Abraham, spanning 215 years in Canaan and 215 in Egypt. Those who follow the Masoretic Text reply that Paul may be counting from the promise's last confirmation to Jacob, or using the Septuagint figure familiar to his audience[^216][^217].`,
     },
     {
       id: 'JacobsFamily',
@@ -328,23 +328,23 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
       tags: ['old testament', 'authorship', 'history'],
       content: `**Supposed Contradiction:** Deuteronomy 34 records the death and burial of Moses, yet the book is traditionally attributed to him.
 
-**Clarification:** Moses wrote the vast majority of the Pentateuch, and his successor Joshua (or a later inspired scribe) added the final transition chapter as an obituary[^235][^236]. This was standard practice in the ancient Near East and does not negate Mosaic authorship[^237][^238][^239].`,
+**Clarification:** On the traditional view, Moses wrote the substance of the Pentateuch, and his successor Joshua (or a later inspired scribe) added the final chapter as an obituary; the Talmud (Bava Batra 14b-15a) already attributes the last eight verses to Joshua[^235][^236]. Editorial additions of this kind do not by themselves negate Mosaic authorship, though critical scholarship holds that the Pentateuch as a whole was compiled much later from several sources[^237][^238][^239].`,
     },
     {
       id: 'FatherGreater',
       title: 'John 14:28 vs Philippians 2:6 / John 5:18 / John 10:30 - the Father is greater than Jesus vs Jesus is equal with God',
       tags: ['new testament', 'theology', 'christology'],
-      content: `**Supposed Contradiction:** In John 14:28 Jesus says \"the Father is greater than I,\" implying He is inferior to God. Yet Philippians 2:6 says He existed \"in the form of God\" and did not regard \"equality with God\" as something to exploit, and in John 5:18 His opponents tried to kill Him because He \"was making himself equal with God.\" John 10:30 has Him declare \"I and the Father are one.\" Is Jesus equal to God or not?
+      content: `**Supposed Contradiction:** In John 14:28 Jesus says "the Father is greater than I," implying He is inferior to God. Yet Philippians 2:6 says He existed "in the form of God" and did not regard "equality with God" as something to exploit, and in John 5:18 His opponents tried to kill Him because He "was making himself equal with God." John 10:30 has Him declare "I and the Father are one." Is Jesus equal to God or not?
 
 **Clarification:** The resolution lies in the distinction Christian theology draws between **who Jesus is by nature** (ontological equality) and **what role He accepted during the incarnation** (economic or functional subordination)[^240][^241].
 
-**The Greek of Philippians 2:6-8** makes this explicit. Paul says Jesus existed in the *morphē theou* (μορφῇ θεοῦ, \"form of God\"), where the Greek *morphē* (Strong's 3444) does not mean outward shape but the essential, defining characteristics that make something what it is[^242][^243]. Being in the very form of God, He possessed full deity. The word \"equality\" here is the Greek *isos* (ἴσος, Strong's 2470), meaning identical or equivalent in degree[^244]. Paul's point is that Jesus did not cling to the *privileges* of that equality but voluntarily emptied Himself (*kenosis*) by taking the form of a servant and being made in human likeness[^245][^246]. The self-emptying was not a subtraction from His divine nature but an addition of human nature and a voluntary setting aside of the independent exercise of His divine prerogatives[^247].
+**The Greek of Philippians 2:6-8** makes this explicit. Paul says Jesus existed in the *morphē theou* (μορφῇ θεοῦ, "form of God"), where the Greek *morphē* (Strong's 3444) is read by many commentators, following J. B. Lightfoot, as the essential, defining characteristics that make something what it is rather than mere outward shape; others take it as "visible form" or divine glory, which on either reading is something only God possesses[^242][^243]. Being in the very form of God, He possessed full deity. The word rendered "equality" is the Greek *isos* (ἴσος, Strong's 2470), meaning equal or equivalent[^244]. Paul's point is that Jesus did not cling to the *privileges* of that equality but voluntarily emptied Himself (*kenosis*) by taking the form of a servant and being made in human likeness[^245][^246]. The self-emptying was not a subtraction from His divine nature but an addition of human nature and a voluntary setting aside of the independent exercise of His divine prerogatives[^247].
 
-**John 14:28 in its immediate context** is about Jesus' departure. He tells the disciples: \"You heard me say, 'I am going away and I am coming back to you.' If you loved me, you would be glad that I am going to the Father, for the Father is greater than I\"[^248]. The reason they should be glad is that Jesus is about to leave His present state of humiliation, suffering, and limitation as a man walking toward the cross, and return to the glory He had with the Father before the world began ([John 17:5](https://www.biblegateway.com/passage/?search=John+17%3A5&version=NIV))[^249]. \"Greater\" here (*meizōn*, Strong's 3187) refers to the Father's position, not His nature. A king is \"greater\" than a soldier on the battlefield in rank and station, but they share the same human nature. In the same way, the Father was \"greater\" than the incarnate Son in positional glory and authority, while they remained equal in divine essence[^250][^251].
+**John 14:28 in its immediate context** is about Jesus' departure. He tells the disciples: "You heard me say, 'I am going away and I am coming back to you.' If you loved me, you would be glad that I am going to the Father, for the Father is greater than I"[^248]. The reason they should be glad is that Jesus is about to leave His present state of humiliation, suffering, and limitation as a man walking toward the cross, and return to the glory He had with the Father before the world began ([John 17:5](https://www.biblegateway.com/passage/?search=John+17%3A5&version=NIV))[^249]. "Greater" (*meizōn*, Strong's 3187) is read in orthodox interpretation as referring to the Father's position, not His nature; Athanasius noted that Jesus said "greater" rather than "better" (*kreittōn*), though the word alone does not settle the question and the reading rests on the wider Johannine context. A king is "greater" than a soldier on the battlefield in rank and station, but they share the same human nature. In the same way, the Father was "greater" than the incarnate Son in positional glory and authority, while they remained equal in divine essence[^250][^251].
 
-**Other passages confirm the equality of essence.** In John 5:18, the Jewish leaders understood exactly what Jesus was claiming, that by calling God His own Father He was \"making himself equal with God\", and they sought to kill Him for it[^252]. In John 10:30, \"I and the Father are one\" (Greek *hen*, neuter, meaning one in essence or nature, not one person) prompted the same reaction: the crowd picked up stones for blasphemy ([John 10:33](https://www.biblegateway.com/passage/?search=John+10%3A33&version=NIV))[^253]. Hebrews 1:3 calls the Son \"the exact representation of [God's] being,\" and Colossians 2:9 states that \"in Christ all the fullness of the Deity lives in bodily form\"[^254].
+**Other passages confirm the equality of essence.** In John 5:18, the Jewish leaders understood exactly what Jesus was claiming, that by calling God His own Father He was "making himself equal with God", and they sought to kill Him for it[^252]. In John 10:30, "I and the Father are one" (Greek *hen*, neuter, "one thing" rather than "one person", which rules out merging Father and Son into a single person and is widely read as unity of nature) prompted the same reaction: the crowd picked up stones for blasphemy ([John 10:33](https://www.biblegateway.com/passage/?search=John+10%3A33&version=NIV))[^253]. Hebrews 1:3 calls the Son "the exact representation of [God's] being," and Colossians 2:9 states that "in Christ all the fullness of the Deity lives in bodily form"[^254].
 
-**In summary:** \"Equal\" describes Jesus' divine nature, *what* He is. \"Greater\" describes the Father's position relative to the incarnate Son, a difference in *role*, not in *being*. There is no contradiction because the two statements are not made in the same sense. One speaks of eternal essence, the other of the voluntary, temporary arrangement of the incarnation[^255].`,
+**In summary:** "Equal" describes Jesus' divine nature, *what* He is. "Greater" describes the Father's position relative to the incarnate Son, a difference in *role*, not in *being*. There is no contradiction because the two statements are not made in the same sense. One speaks of eternal essence, the other of the voluntary, temporary arrangement of the incarnation[^255].`,
     },
   ],
 

@@ -62,7 +62,7 @@ To guard against heresy, the early church used Greek terms to articulate the bib
 
 - **Ousia (Essence/Substance):** Refers to *what* God is, His single, undivided divine nature, substance, and attributes (e.g., omnipotence, omnipresence). The three persons share this one *Ousia* completely[^20].
   - **Hypostasis (Person):** Refers to *who* God is, the three distinct, concrete realities (Father, Son, and Holy Spirit) that subsist in the one divine essence. This distinction is based on their unique, eternal relationships of origin[^21].
-  - **Homoousios:** The key term adopted at the Council of Nicaea, meaning "of the same essence" or "consubstantial." It affirms that the Son is fully God, sharing the exact same divine substance as the Father, and is not merely a similar substance (*homoiousios*)[^22].
+  - **Homoousios:** The key term adopted at the Council of Nicaea, meaning "of the same essence" or "consubstantial." It affirms that the Son is fully God, sharing the exact same divine substance as the Father, and not, as a party in the later fourth-century debates proposed, merely a similar substance (*homoiousios*)[^22].
 ### Common Objections Answered
 
 **Objection: "Trinity is a logical contradiction"**
@@ -87,9 +87,9 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
 ### Historical Development and Heresies
 The Trinity was formally articulated at the Council of Nicaea (325 AD)[^34] and completed at the First Council of Constantinople (381 AD)[^35]. These councils didn't invent the doctrine but clarified biblical teaching against false interpretations (heresies)[^36].
 
-- **Arianism:** Condemned at Nicaea, Arianism claimed the Son was a created being, subordinate to and not co-eternal with the Father (*homoiousios* or "like essence" rather than *homoousios*)[^37].
-  - **Modalism:** Condemned indirectly, Modalism (or Sabellianism) asserts God is a single person who manifests Himself in three successive modes, denying the simultaneous, distinct personhood of Father, Son, and Holy Spirit[^38].
-  - **The Nicene Creed:** The resulting Nicene-Constantinopolitan Creed is the universally accepted orthodox formulation that definitively states the Father, Son, and Holy Spirit are one God in three co-equal and co-eternal persons[^39].
+- **Arianism:** Condemned at Nicaea, Arianism claimed the Son was a created being, subordinate to and not co-eternal with the Father ("there was when he was not"). The later *homoiousian* party, who called the Son "like in essence" to the Father, occupied a middle position, and many of them eventually accepted *homoousios*[^37].
+  - **Modalism:** Rejected by Hippolytus and Tertullian, with Sabellius excommunicated at Rome around 220 and the Sabellians anathematised by name in the first canon of Constantinople (381), Modalism (or Sabellianism) asserts God is a single person who manifests Himself in three successive modes, denying the simultaneous, distinct personhood of Father, Son, and Holy Spirit[^38].
+  - **The Nicene Creed:** The resulting Nicene-Constantinopolitan Creed, shared by Catholic, Orthodox and most Protestant churches (with the West later adding the disputed *filioque*), confesses the Son as "of one being with the Father" and the Spirit as "worshipped and glorified" with the Father and the Son. The explicit language of three co-equal and co-eternal persons comes from the Cappadocian Fathers and the later Athanasian Creed[^39].
 ### Practical Implications
 The Trinity explains God's relational nature (love existing eternally within the Godhead) and is central to the Christian understanding of salvation[^40]. The Father plans salvation, the Son accomplishes it, and the Spirit applies it to believers ([2 Corinthians 13:14](https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A14&version=NIV))[^41].
 
@@ -105,7 +105,7 @@ Long before the New Testament, the Hebrew Scriptures speak in ways that strain a
 
 **A son is named.** Proverbs 30:4 asks "Who has gone up to heaven and come down? ... What is his name, and what is the name of his son? Surely you know!", a question posed about the Creator[^48]. Psalm 2:7 records "You are my son; today I have become your father", and Psalm 2:12 tells the nations to "kiss the son" or perish[^49]. Psalm 110:1 has David writing "The LORD says to my lord: Sit at my right hand", a text Jesus pressed on his opponents precisely because of the two lords in it[^50].
 
-**A divine figure receives worship.** Daniel 7:13-14 shows one like a son of man coming with the clouds, given authority and worship by all nations, and an everlasting dominion, language reserved elsewhere for God alone[^51]. Isaiah 9:6 names the child to be born Mighty God and Everlasting Father[^52].
+**A divine figure receives worship.** Daniel 7:13-14 shows one like a son of man coming with the clouds, given authority and the service or worship (Aramaic *pelach*) of all nations, and an everlasting dominion, language reserved elsewhere for God alone[^51]. Isaiah 9:6 names the child to be born Mighty God and Everlasting Father[^52].
 
 **The Spirit is a third who is sent.** Isaiah 48:16 has the speaker say "And now the Sovereign LORD has sent me, endowed with his Spirit", three parties in one sentence[^53]. Isaiah 63:10 speaks of grieving the Holy Spirit, which is language for a person rather than a force[^54].
 
@@ -121,7 +121,7 @@ Long before the New Testament, the Hebrew Scriptures speak in ways that strain a
 
 **The Father calls the Son God.** Hebrews 1:8 quotes Psalm 45 as the Father addressing the Son: "Your throne, O God, will last for ever and ever"[^61]. Colossians 2:9 says the fullness of deity lives in Christ bodily, and Titus 2:13 speaks of "our great God and Saviour, Jesus Christ"[^62][^63].
 
-**The Spirit is personal and distinct.** In John 14:16-17 the Son asks the Father to send another Advocate, a word meaning one of the same kind, and John 14:26 and 16:13-14 describe the Spirit teaching, reminding and speaking[^64][^65].
+**The Spirit is personal and distinct.** In John 14:16-17 the Son asks the Father to send another (*allos*) Advocate, often taken to mean another of the same kind, and John 14:26 and 16:13-14 describe the Spirit teaching, reminding and speaking[^64][^65].
 
 **Triadic formulas appear without argument**, as settled practice rather than novelty: 2 Corinthians 13:14, 1 Peter 1:2, Ephesians 4:4-6 and 1 Corinthians 12:4-6[^66][^67].
 
@@ -207,5 +207,5 @@ The doctrine is not built on any single verse. It is what remains when three bib
     "67. [Commentary] Bible Hub. 'Commentaries on 1 Peter 1:2.' https://biblehub.com/commentaries/1_peter/1-2.htm",
     "68. [Commentary] Bible Hub. 'Commentaries on Isaiah 6:8.' https://biblehub.com/commentaries/isaiah/6-8.htm"
   ],
-  lastUpdated: "09/08/2025",
+  lastUpdated: "17-09-2026",
 }

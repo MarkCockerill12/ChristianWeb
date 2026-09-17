@@ -148,9 +148,9 @@ export const tuning: Topic = {
 
       • **Current Position:** Earth receives the optimal amount of solar radiation (insolation) to maintain surface liquid water[^65].
 
-      • **5% Closer:** A shift of just 5% closer to the Sun would trigger a runaway greenhouse effect, boiling the oceans and creating a Venus-like hothouse[^66].
+      • **Closer:** Climate models place the inner edge of the habitable zone only a few per cent inside Earth's orbit, where water loss through a moist or runaway greenhouse begins, though the exact figure depends on how clouds are modelled[^66].
 
-      • **1-2% Farther:** A small shift farther away could lead to runaway glaciation, freezing the planet's surface into a "Snowball Earth"[^67][^68][^69].
+      • **Farther:** An older estimate by Michael Hart (1979) held that moving 1-2% farther out would cause runaway glaciation. Later models that include the carbonate-silicate thermostat place the outer edge much farther away, so Earth is closer to the inner edge than the outer one[^67][^68][^69].
 
       • **Habitable Zone Width:** Modern estimates for the Sun's habitable zone place it between approximately 0.95 and 1.37 Astronomical Units (AU)[^70].
 
@@ -172,7 +172,7 @@ export const tuning: Topic = {
 
       • **Orbital Stabilization:** The Moon's significant gravity stabilizes Earth's axial tilt (obliquity) at its current 23.5°[^77].
 
-      • **Without Moon:** Without the Moon, this tilt could vary chaotically from 0° to 85° over long timescales, causing extreme and rapid climate changes uninhabitable for complex life[^78][^79][^80].
+      • **Without Moon:** Jacques Laskar's calculations (1993) suggested that without the Moon the tilt could vary chaotically between 0° and 85°. Later simulations by Lissauer and colleagues (2012) found much smaller variations over billions of years for a moonless Earth, so the size of the effect is debated[^78][^79][^80].
 
       • **Tidal Forces:** The Moon creates ocean tides, which mix nutrients from continents to oceans and may have been a crucial catalyst for the origin of life in tidal pools[^81].
 
@@ -220,7 +220,7 @@ export const tuning: Topic = {
 
       • **Magnetic Field Generation:** Mantle convection, which drives tectonics, is also necessary to power the outer core's geodynamo[^106].
 
-      • **Venus Comparison:** Venus lacks plate tectonics, which led to a runaway greenhouse effect and its current surface temperature of 864°F (462°C)[^107].
+      • **Venus Comparison:** Venus lacks plate tectonics and underwent a runaway greenhouse, leaving a surface temperature of 864°F (462°C). Its greater proximity to the Sun is the usual explanation of the greenhouse, and the loss of its water may in turn have prevented plate tectonics[^107].
 
       • **Requirements:** Requires a perfect balance of mantle temperature, water content, and crustal thickness not seen on other terrestrial planets[^108].
 
@@ -239,7 +239,7 @@ export const tuning: Topic = {
       id: 'biological-interdependence',
       title: 'Biological Systems and Cellular Interdependence',
       tags: ['biology', 'cells', 'systems', 'biochemistry'],
-      content: `**The Irreducible Complexity of Life:** Biological systems often demonstrate a precise interdependence of parts, where the removal of one component causes the entire system to fail, challenging gradualistic explanations[^113].
+      content: `**The Interdependence of Life's Machinery:** Biological systems often show a precise interdependence of parts. Michael Behe's argument from irreducible complexity holds that such systems could not be built gradually; evolutionary biologists answer that parts are often borrowed from systems with other functions, and the evolution page sets out that debate in detail[^113].
 
       **1. ATP Synthase - The Molecular Motor:**
 
@@ -255,7 +255,7 @@ export const tuning: Topic = {
 
       • **Nobel Prize:** The 1997 Nobel Prize in Chemistry (Boyer, Walker, Skou) was awarded for elucidating this rotary catalysis mechanism[^119].
 
-      • **Assembly Problem:** Requires coordination of subunits encoded by both nuclear and mitochondrial DNA, a "chicken-and-egg" problem for assembly[^120].
+      • **Assembly:** In animals and plants its subunits are encoded partly in the nucleus and partly in the mitochondria, which requires coordinated assembly; in bacteria the whole enzyme is encoded in a single operon[^120].
 
       **2. Blood Clotting Cascade - Biochemical Precision:**
 
@@ -271,7 +271,7 @@ export const tuning: Topic = {
 
       • **Inhibitors Needed:** Counter-regulatory proteins (like Protein C, Protein S, Antithrombin) are required to stop the clot from propagating indefinitely[^126].
 
-      • **System Failure:** The removal of numerous components causes the entire system to fail, leading to death[^127].
+      • **Variation Between Species:** Not every factor is essential in every animal: whales, dolphins and birds lack factor XII, and jawless fish have a simpler cascade, which Russell Doolittle and others cite as evidence that the system was built up in stages by gene duplication[^127].
 
       **3. Photosynthesis - Light-Harvesting Machinery:**
 
@@ -301,7 +301,7 @@ export const tuning: Topic = {
 
       • **Power Generation:** It is powered by a proton gradient (a flow of H+ ions), similar to ATP synthase[^139].
 
-      • **Irreducible Core:** A minimum of ~30 proteins are required for basic motor function; removal of most results in total failure[^140].
+      • **Core Proteins:** Around 20 to 30 proteins are required for a working flagellum in well-studied species, and removing most of them stops it working. Its export apparatus, however, is homologous to the Type III secretion system, and several other components have homologues elsewhere in the cell, which is the basis of the evolutionary reply[^140].
 
       • **Assembly Precision:** The 40 parts must be assembled in a precise temporal sequence, controlled by other regulatory proteins[^141].
 
@@ -325,15 +325,15 @@ export const tuning: Topic = {
 
       • **Folding Precision:** A protein is just a linear chain of amino acids until it folds into a precise, functional 3D shape[^149].
 
-      • **Levinthal's Paradox:** A modest protein has 10³⁰⁰ possible conformations, yet it folds into the correct one in milliseconds[^150].
+      • **Levinthal's Paradox:** A modest protein has an astronomically large number of possible conformations, far too many to search one by one, yet it folds into the correct one in milliseconds, because folding follows an energy landscape rather than a random search[^150].
 
       • **Chaperone Proteins:** Many proteins require assistance from other "chaperone" proteins to fold correctly and avoid clumping[^151].
 
       • **AlphaFold AI:** The immense difficulty of predicting folding from sequence alone highlights the problem's complexity, only recently partially solved by AI[^152].
 
-      • **Misfolding Diseases:** Misfolded proteins (prions) are the cause of Alzheimer's, Parkinson's, and Creutzfeldt-Jakob disease[^153].
+      • **Misfolding Diseases:** Misfolded proteins cause prion diseases such as Creutzfeldt-Jakob disease, and misfolded protein aggregates that spread in a prion-like way are central to Alzheimer's and Parkinson's disease[^153].
 
-      • **Information Content:** The correct 3D shape is determined entirely by the 1D sequence of amino acids encoded in DNA[^154].
+      • **Information Content:** The correct 3D shape is determined largely by the 1D sequence of amino acids encoded in DNA, although many proteins need chaperones to reach it inside the cell[^154].
 
       **7. Cellular Communication Networks:**
 
@@ -355,11 +355,11 @@ export const tuning: Topic = {
 
       • **Probability Calculation:** Fred Hoyle put the odds of assembling the roughly 400 proteins of a minimal cell simultaneously by chance at 1 in 10⁴⁰,⁰⁰⁰, the calculation behind his "tornado in a junkyard" image[^165]. The objection to it is that no origin-of-life researcher proposes simultaneous random assembly of finished proteins; the proposals involve chemistry, selection and simpler precursors, so the number answers a scenario nobody defends[^166][^167][^168].
 
-      • **Information Content:** The human genome contains 3.2 billion base pairs of specified, digital information[^169].
+      • **Information Content:** The human genome contains about 3.1 billion base pairs of digital sequence, of which only a minority (estimates range from under 10% to a larger share) is under selective constraint[^169].
 
-      • **Comparison:** This is an amount of specified information far exceeding any human-engineered software system[^170].
+      • **Comparison:** Design advocates compare the genome to software; the analogy is illuminating, though in raw storage terms the genome (roughly 750 megabytes) is smaller than many modern software systems, and its striking feature is its function rather than its size[^170].
 
-      • **Douglas Axe Research:** Axe's work confirms that functional sequences occupy an vanishingly small fraction of the total possible "sequence space"[^171].
+      • **Douglas Axe Research:** Axe argues that functional sequences occupy a vanishingly small fraction of the total possible "sequence space"; other laboratories estimate that fraction to be much larger[^171].
 `
     },
 {
@@ -450,7 +450,7 @@ export const tuning: Topic = {
 
       • **Sea Level Regulation:** Ice sheets act as massive reservoirs, buffering sea level changes over millennia[^217].
 
-      • **Freshwater Reservoir:** The Antarctic and Greenland ice sheets contain enough water to raise sea levels by over 70 meters (230 feet)[^218].
+      • **Freshwater Reservoir:** The Antarctic and Greenland ice sheets contain enough water to raise sea levels by about 65 meters (210 feet)[^218].
 
       **7. Biological Water Cycling:**
 
@@ -487,7 +487,7 @@ export const tuning: Topic = {
 
       **1. The Information Problem:**
 
-      • **DNA Information Content:** The simplest known free-living organism (Mycoplasma genitalium) has 580,070 base pairs of genetic information[^231].
+      • **DNA Information Content:** Mycoplasma genitalium, one of the smallest genomes of any organism that can be grown on its own in the laboratory (it is a parasite in nature), has about 580,000 base pairs of genetic information, and the synthetic minimal cell JCVI-syn3.0 needs 473 genes[^231].
 
       • **Information Density:** At 2 bits per base pair, this represents 1.16 million bits of specified, digital information[^232].
 
@@ -503,7 +503,7 @@ export const tuning: Topic = {
 
       • **Original Results (1953):** Produced a few amino acids by sparking a reducing atmosphere (methane, ammonia)[^237].
 
-      • **Atmospheric Problem:** Current geological evidence suggests the early Earth atmosphere was neutral (CO₂, N₂, H₂O), not reducing[^238].
+      • **Atmospheric Problem:** Current geological evidence suggests the early Earth atmosphere was largely neutral (CO₂, N₂, H₂O), not strongly reducing, although local reducing environments such as volcanic plumes and hydrothermal systems existed, and a 2008 re-analysis of Miller's stored samples from a volcanic-style apparatus found over twenty amino acids[^238].
 
       • **Product Analysis:** The experiment's primary product was a non-biological tar; only a small percentage of the product was amino acids[^239][^240][^241].
 
@@ -527,9 +527,9 @@ export const tuning: Topic = {
 
       • **Enzyme Requirement:** The hypothesis requires an RNA polymerase ribozyme to build RNA, but such a complex molecule is unlikely to arise spontaneously[^250].
 
-      **4. Protein Folding Impossibility:**
+      **4. Protein Folding Challenges:**
 
-      • **Functional Protein Probability:** Douglas Axe's research found the ratio of functional to non-functional sequences is 1 in 10⁷⁷, an impossibly small target[^251].
+      • **Functional Protein Probability:** Douglas Axe estimated the ratio of functional to non-functional sequences for one protein fold at 1 in 10⁷⁷; other experimental studies have found functional sequences at far higher frequencies, so the size of the target remains disputed[^251].
 
       • **Sequence Requirements:** A protein of 150 amino acids has 20¹⁵⁰ (or 10¹⁹⁵) possible sequences, a number larger than all atoms in the universe[^252].
 
@@ -545,7 +545,7 @@ export const tuning: Topic = {
 
       • **Lipid Synthesis:** The fatty acids needed for membranes are difficult to synthesize in plausible prebiotic conditions[^259].
 
-      • **Chain Length:** Stable membranes (vesicles) require lipids with chain lengths of 12 carbons or more, which are not produced in prebiotic experiments[^260][^261][^262].
+      • **Chain Length:** Stable membranes (vesicles) require amphiphiles with chain lengths of roughly 8 to 12 carbons or more; Fischer-Tropsch-type hydrothermal syntheses and some meteorites supply such molecules, but in low yields and mixed with much else[^260][^261][^262].
 
       • **Concentration:** Lipids must exceed a "critical micelle concentration" to self-assemble, which is unlikely in a dilute open ocean or pond[^263][^264][^265].
 
@@ -559,7 +559,7 @@ export const tuning: Topic = {
 
       • **Autocatalytic Sets:** The idea that a self-sustaining network of chemical reactions could form has not been demonstrated experimentally[^275][^276][^277].
 
-      • **Energy Source:** No known prebiotic mechanism can provide a continuous, stable source of chemical energy (like ATP) to drive metabolism[^278][^279][^280].
+      • **Energy Source:** Natural proton and redox gradients at alkaline hydrothermal vents have been proposed as a continuous energy source, but no experiment has yet shown them driving a self-sustaining prebiotic metabolism[^278][^279][^280].
 
       • **Thermodynamics:** Most organic synthesis reactions are "endergonic" (they require energy input) and do not proceed spontaneously[^281][^282][^283].
 
@@ -569,9 +569,9 @@ export const tuning: Topic = {
 
       • **Catalyst Problem:** While minerals can catalyze some reactions, they are non-specific and often catalyze destructive side-reactions as well[^290][^291][^292].
 
-      **7. Irreducible Complexity of Minimal Life:**
+      **7. The Complexity of Minimal Life:**
 
-      • **Essential Components:** A minimal cell requires all components (DNA, RNA, proteins, lipids) to be present *simultaneously*[^293][^294][^295].
+      • **Essential Components:** Every known cell requires DNA, RNA, proteins and lipids working together. Design advocates argue that they had to appear together; the RNA world hypothesis proposes instead that RNA once performed both genetic and catalytic roles, which is why its unsolved problems carry so much weight[^293][^294][^295].
 
       • **Genetic Code:** The machinery to translate DNA into protein (the ribosome and genetic code) requires 100+ of its own protein and RNA components[^296][^297][^298].
 
@@ -585,15 +585,15 @@ export const tuning: Topic = {
 
       **Scientific Consensus on Abiogenesis:**
 
-      • **Leslie Orgel (2008):** "The precise events giving rise to the RNA world remain unclear... researchers are divided on its plausibility"[^311][^312][^313].
+      • **Leslie Orgel (2008):** In a paper published after his death, Orgel argued that proposed self-organising metabolic cycles on the early Earth are implausible, while regarding the origin of the RNA world itself as unresolved[^311][^312][^313].
 
-      • **Eugene Koonin:** "The origin of life is the most difficult problem in biology... it is a 'problem of cosmic complexity'"[^314][^315][^316].
+      • **Eugene Koonin:** In *The Logic of Chance* (2011), Koonin calculated that the chance emergence of a replication and translation system in our universe is so improbable that he appealed to an infinite multiverse to account for it[^314][^315][^316].
 
-      • **Robert Shapiro:** "A vast gulf separates the complexity of the simplest cell from the most complex chemical mixtures... this gulf remains unbridged"[^317][^318][^319].
+      • **Robert Shapiro:** A chemist and origin-of-life researcher, Shapiro argued (*Scientific American*, 2007) that the spontaneous formation of RNA is so improbable that the RNA-first hypothesis should be abandoned in favour of simpler self-sustaining chemistry, a proposal that also remains undemonstrated[^317][^318][^319].
 
-      • **Michael Ruse:** "Evolution, as a scientific theory, cannot explain the origin of life; it begins *after* life has already begun"[^320][^321][^322].
+      • **Michael Ruse:** The philosopher of biology Michael Ruse, like evolutionary biologists generally, distinguishes Darwinian evolution, which presupposes self-replicating life, from the separate question of how life began[^320][^321][^322].
 
-      • **Paul Davies:** "The origin of life remains one of the great unsolved problems of science... we are no closer to a solution than Darwin was"[^323][^324][^325].
+      • **Paul Davies:** The physicist Paul Davies, in *The Fifth Miracle* (1998) and later work, describes the origin of life as one of the great unsolved problems of science, and argues that the key gap is the origin of biological information[^323][^324][^325].
 `
     },
     {
@@ -616,9 +616,9 @@ export const tuning: Topic = {
 
       • **Information is Non-Physical:** The genetic code in DNA is a form of specified, complex information. The information (the "software") is distinct from the physical medium (the "hardware" of the sugar-phosphate backbone)[^338][^339][^340].
 
-      • **No Known Naturalistic Source:** In our uniform and repeated experience, specified information, like a computer program or a written language, *always* arises from an intelligent mind[^341][^342][^343].
+      • **No Known Naturalistic Source:** Stephen Meyer argues that in uniform and repeated experience, specified information such as a computer program or a written language arises from an intelligent mind. Critics reply that mutation and selection do generate new functional sequence in living populations, so the argument has its full force only for the first replicator[^341][^342][^343].
 
-      • **Laws vs. Code:** Physical laws produce simple, repetitive patterns (like a crystal), but they do not produce complex, aperiodic information structures like a genetic code[^344][^345][^346].
+      • **Laws vs. Code:** Physical laws alone produce simple, repetitive patterns (like a crystal) rather than complex, aperiodic sequences like a genome; how the first such sequences arose is the unsolved part of the problem[^344][^345][^346].
 
       • **A "Software" Problem:** The origin of life is not just a chemical problem but an information problem. A "prebiotic soup" provides no explanation for the origin of the software (the genetic information) required to build the first cell[^347][^348][^349].
 
@@ -707,21 +707,21 @@ export const tuning: Topic = {
 
       • **Necessity:** There is no known physical law or deeper theory that requires the constants to have the exact values they do[^369][^370].
 
-      • **Chance:** The probabilities (e.g., 1 in 10¹²⁰) are so vanishingly small that they exceed any rational "chance" explanation, surpassing the universal probability bound[^371][^372].
+      • **Chance:** Proponents argue that the relevant probabilities are too small for chance to be a reasonable explanation. The often-quoted 1 in 10¹²⁰ is the gap between quantum field theory's naive estimate and the observed cosmological constant, not a measured life-permitting tolerance, and probability estimates of this kind depend on assumptions about how the constants could have varied[^371][^372].
 
       • **Self-Organization:** There is no known physical mechanism or law that can generate the high levels of specified information seen in DNA from random chemical processes[^373][^374].
 
-      **Modern Scientific Discoveries Confirming Biblical Truth:**
+      **Modern Scientific Discoveries Consistent With Biblical Teaching:**
 
-      • **Big Bang Cosmology:** Confirms the universe had a finite beginning, aligning with "In the beginning..." ([Genesis 1:1](https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV))[^375].
+      • **Big Bang Cosmology:** Indicates that the observable universe had a hot, dense beginning about 13.8 billion years ago, consistent with the claim of a finite beginning, aligning with "In the beginning..." ([Genesis 1:1](https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV))[^375].
 
-      • **Fine-Tuning:** Confirms the universe shows evidence of precise design, aligning with "being understood from what has been made" ([Romans 1:20](https://www.biblegateway.com/passage/?search=Romans+1%3A20&version=NIV))[^376].
+      • **Fine-Tuning:** Is read by theists as evidence of design, though naturalists offer rival explanations, aligning with "being understood from what has been made" ([Romans 1:20](https://www.biblegateway.com/passage/?search=Romans+1%3A20&version=NIV))[^376].
 
-      • **Information in DNA:** Confirms life is based on a complex, specified code, aligning with the concept of an intelligent "Word" or *Logos* ([John 1:1-3](https://www.biblegateway.com/passage/?search=John+1%3A1-3&version=NIV))[^377].
+      • **Information in DNA:** Shows that life is based on a complex genetic code, aligning with the concept of an intelligent "Word" or *Logos* ([John 1:1-3](https://www.biblegateway.com/passage/?search=John+1%3A1-3&version=NIV))[^377].
 
-      • **Anthropic Principle:** Confirms the universe is uniquely suited for humanity, aligning with a human-centric purpose for creation ([Genesis 1:27](https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV))[^378].
+      • **Habitability:** Shows that the conditions for complex life are demanding, which theists read as consistent with a purposeful creation that includes humanity ([Genesis 1:27](https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV))[^378].
 
-      • **Laws of Physics:** Confirms the universe is rational and orderly, not chaotic, aligning with a Creator who is "not a God of disorder" ([1 Corinthians 14:33](https://www.biblegateway.com/passage/?search=1+Corinthians+14%3A33&version=NIV))[^379].
+      • **Laws of Physics:** Shows the universe is rational and orderly, not chaotic, aligning with a Creator who is "not a God of disorder" ([1 Corinthians 14:33](https://www.biblegateway.com/passage/?search=1+Corinthians+14%3A33&version=NIV))[^379].
 `
     },
   ],

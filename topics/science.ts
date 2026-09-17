@@ -40,7 +40,7 @@ A stronger claim than bare compatibility is also defensible. Christian theology 
       title: "University of Bologna founded",
       period: "High Medieval",
       color: "#B45309",
-      description: "The first European university takes shape, followed by Paris and Oxford. All three are Church foundations, chartered under ecclesiastical authority and staffed by clerics.",
+      description: "The first European university takes shape, followed by Paris and Oxford. Bologna grew out of student guilds under imperial protection, while Paris and Oxford grew from cathedral and church schools; all three were staffed largely by clerics and operated under papal privileges.",
       significance: "Creates the permanent, self-governing institution with a fixed curriculum in which natural philosophy could be taught continuously for centuries."
     },
     {
@@ -50,7 +50,7 @@ A stronger claim than bare compatibility is also defensible. Christian theology 
       period: "High Medieval",
       color: "#CA8A04",
       description: "Robert Grosseteste, later Bishop of Lincoln, describes the origin of the cosmos as an expansion of light from a single point according to a consistent set of physical principles.",
-      significance: "The earliest known attempt to describe the whole universe with one coherent physical law, and an early statement of experimental method."
+      significance: "One of the earliest attempts to describe the whole universe with one coherent physical principle, alongside an early statement of experimental method."
     },
     {
       id: 5,
@@ -171,9 +171,9 @@ Two books built the idea. John William Draper's *History of the Conflict between
 
 Both books were polemics with footnotes, and neither survived examination. Draper's is no longer treated as a reliable secondary source, and specialists in nineteenth-century German material have shown that even the details of the conflict narrative were assembled to fit the argument rather than drawn from it[^10].
 
-Acceptance of the thesis declined across the twentieth century and was effectively finished by the 1970s. The decisive publication was *God and Nature*, an eighteen-essay collection edited by David Lindberg and Ronald Numbers in 1986, which reassessed the trial of Galileo, the Newtonian synthesis and the reception of Darwin using the available archival scholarship instead of the warfare frame[^11][^12].
+Acceptance of the thesis declined across the twentieth century, and by the 1980s historians of science had largely abandoned it. A landmark was *God and Nature*, an eighteen-essay collection edited by David Lindberg and Ronald Numbers in 1986, which reassessed the trial of Galileo, the Newtonian synthesis and the reception of Darwin using the available archival scholarship instead of the warfare frame[^11][^12].
 
-**A worked example of how such a myth forms.** The story that medieval Christians thought the earth flat, and that Columbus faced down hooded theologians at Salamanca, is an invention of Washington Irving's fictionalised 1828 life of Columbus. Educated Europeans had held the earth to be a sphere since antiquity; Cosmas Indicopleustes is the only medieval European known to have argued otherwise, and his work had almost no influence[^13][^14].
+**A worked example of how such a myth forms.** The story that medieval Christians thought the earth flat, and that Columbus faced down hooded theologians at Salamanca, is an invention of Washington Irving's fictionalised 1828 life of Columbus. Educated Europeans had held the earth to be a sphere since antiquity; the fourth-century Lactantius and the sixth-century Alexandrian writer Cosmas Indicopleustes are the best-known Christian authors who argued otherwise, and neither shaped educated opinion on the point[^13][^14].
 
 The corresponding picture of the medieval period as a scientific blank is equally hard to sustain. Bede tied the tides to the lunar cycle and noted their local variation in the eighth century, and Gerbert of Aurillac, who became Pope Sylvester II in 999, reintroduced the abacus and the armillary sphere to western Europe and taught Arabic numerals[^15][^16].
 
@@ -211,9 +211,9 @@ The assumptions have not gone away, and none of them has a scientific proof. Tha
       content: `
 The institutions came first. Benedictine houses copied and preserved classical texts through the collapse of Roman administration, and the Carolingian reform of the eighth and ninth centuries built a network of cathedral and monastic schools with a fixed curriculum in the liberal arts[^30][^31].
 
-Out of those schools came the university, which is a medieval Christian invention with no ancient precedent: a self-governing corporation of masters and students, holding a charter, awarding degrees, and teaching a syllabus that continued after any individual teacher had gone. Bologna dates from 1088, Paris and Oxford follow within a century, and all three were ecclesiastical foundations staffed largely by clerics[^32][^33][^34][^35].
+Out of those schools came the university, which is a medieval Christian invention with no ancient precedent: a self-governing corporation of masters and students, holding a charter, awarding degrees, and teaching a syllabus that continued after any individual teacher had gone. Bologna dates from 1088, Paris and Oxford follow within a century; Paris and Oxford grew out of church schools and Bologna out of student guilds, and all three were staffed largely by clerics and protected by papal privileges[^32][^33][^34][^35].
 
-Their arts faculties made Aristotle's natural philosophy compulsory reading for every student of theology, law or medicine. For roughly four centuries, the largest sustained investment in the study of nature anywhere in the world was funded by the Church[^36].
+Their arts faculties made Aristotle's natural philosophy compulsory reading for every student of theology, law or medicine. For roughly four centuries, the largest sustained investment in the study of nature in Europe was carried by these Church-sanctioned institutions[^36].
 
 **A restriction that opened things up.** In 1277 the Bishop of Paris condemned 219 propositions, among them the claim that God could not have created a vacuum, or more than one world. The condemnation was meant to curb Aristotelian necessitarianism, and its effect was to license enquiry: if God could have made things otherwise, the way things actually are becomes a question for investigation rather than deduction[^37].
 
@@ -244,7 +244,7 @@ The list below is not offered as an argument that Christianity is true. Many abl
 
 **Robert Boyle** (1627 to 1691) is the founder of experimental chemistry and a founding fellow of the Royal Society. He wrote *The Christian Virtuoso* to argue that experimental enquiry suits a believer rather than threatening him, and left fifty pounds a year in his will to fund annual lectures defending Christianity, a series that still runs[^57][^58][^59].
 
-**The Royal Society** itself, chartered in 1660, was founded by men who took the study of creation to be a religious as well as an intellectual undertaking, and its early membership was drawn overwhelmingly from serious churchmen[^60].
+**The Royal Society** itself, founded in 1660 and chartered in 1662, was founded by men who took the study of creation to be a religious as well as an intellectual undertaking, and its early membership was drawn overwhelmingly from serious churchmen[^60].
 
 **Isaac Newton** (1643 to 1727) wrote more on theology and biblical chronology than on physics. He added the General Scholium to the second edition of the *Principia* in 1713, arguing that the arrangement of the solar system could only proceed from the counsel and dominion of an intelligent and powerful Being. His private manuscripts also show a settled rejection of the doctrine of the Trinity, which he regarded as a fourth-century corruption, so he is properly described as a devout anti-Trinitarian rather than as an orthodox Christian[^61][^62][^63][^64].
 
@@ -256,9 +256,9 @@ The list below is not offered as an argument that Christianity is true. Many abl
 
 **Leonhard Euler** (1707 to 1783), the most prolific mathematician on record, was a lifelong Reformed Christian who held family prayers and wrote in defence of the reliability of Scripture[^69].
 
-**Alessandro Volta** (1745 to 1827) built the first electric battery, and **Luigi Galvani** (1737 to 1798) discovered bioelectricity; both were practising Catholics, and Volta wrote a public profession of faith[^70][^71]. **Lazzaro Spallanzani** (1729 to 1799), a priest, disproved spontaneous generation by experiment a century before Pasteur[^72].
+**Alessandro Volta** (1745 to 1827) built the first electric battery, and **Luigi Galvani** (1737 to 1798) discovered bioelectricity; both were practising Catholics, and Volta wrote a public profession of faith[^70][^71]. **Lazzaro Spallanzani** (1729 to 1799), a priest, challenged spontaneous generation by experiment a century before Pasteur settled the question[^72].
 
-**Michael Faraday** (1791 to 1867) discovered electromagnetic induction and the laws of electrolysis, and served as an elder and lay preacher in the Sandemanian church, a small and strict sect he never left[^73].
+**Michael Faraday** (1791 to 1867) discovered electromagnetic induction and the laws of electrolysis, and served as an elder and lay preacher in the Sandemanian church, a small and strict sect to which he belonged all his life, apart from a brief exclusion in 1844[^73].
 
 **James Clerk Maxwell** (1831 to 1879) unified electricity, magnetism and light in four equations. He was an evangelical Presbyterian elder who had the inscription from Psalm 111:2, on the great works of the Lord being sought out by those who delight in them, placed at the entrance to the Cavendish Laboratory[^74][^75].
 
@@ -284,7 +284,7 @@ The pattern did not stop in 1900.
 
 **Georges Lemaitre** (1894 to 1966), a Belgian priest and professor at Louvain, derived an expanding solution to Einstein's field equations in 1927, related the recession of galaxies to that expansion two years before Hubble's paper, and in 1931 proposed that the universe began from what he called the primeval atom[^88][^89].
 
-Lemaitre's conduct afterwards is the most instructive part of the story. When Pius XII told the Pontifical Academy in 1951 that the model demonstrated a Creator, Lemaitre, who did believe in the Creator, was alarmed that his cosmology would be taken to have been built for apologetic purposes. He travelled to Rome and asked the Pope to stop citing it. The primeval atom was a physical hypothesis, revisable like any other, and he refused to let it be fused with the doctrine of creation[^90][^91].
+Lemaitre's conduct afterwards is the most instructive part of the story. When Pius XII told the Pontifical Academy in 1951 that the model demonstrated a Creator, Lemaitre, who did believe in the Creator, was alarmed that his cosmology would be taken to have been built for apologetic purposes. He pressed, through the Vatican's scientific advisers, for the Pope to stop citing it, and Pius XII did not repeat the claim. The primeval atom was a physical hypothesis, revisable like any other, and he refused to let it be fused with the doctrine of creation[^90][^91].
 
 **Ernest Walton** (1903 to 1995) shared the 1951 Nobel Prize in Physics for the first artificial disintegration of an atomic nucleus, and spoke throughout his life of scientific research as an exploration of the works of God[^92].
 
@@ -292,7 +292,7 @@ Lemaitre's conduct afterwards is the most instructive part of the story. When Pi
 
 **Francis Collins** (born 1950) directed the Human Genome Project to its completion in 2003, went on to lead the National Institutes of Health, and came to Christian faith as an adult after training as a physical chemist and physician[^95].
 
-**Jennifer Wiseman** is Senior Project Scientist for the Hubble Space Telescope at NASA Goddard, having discovered a comet as an undergraduate, and directed the American Association for the Advancement of Science programme on Dialogue on Science, Ethics and Religion from 2010 to 2022[^96][^97].
+**Jennifer Wiseman** is Senior Project Scientist for the Hubble Space Telescope at NASA Goddard, having discovered a comet as an undergraduate, and for many years directed the American Association for the Advancement of Science programme on Dialogue on Science, Ethics and Religion[^96][^97].
 
 **John Polkinghorne** (1930 to 2021) held the chair of mathematical physics at Cambridge and worked on the quark model, then resigned in his late forties to train for Anglican orders and spent the rest of his career writing on the relation between the two disciplines[^98].
 

@@ -13,9 +13,9 @@ export const archaeological: Topic = {
     { reference: "Luke 1:1-4", text: "Many have undertaken to draw up an account of the things that have been fulfilled among us... I too decided to write an orderly account for you, most excellent Theophilus, so that you may know the certainty of the things you have been taught." },
     { reference: "Isaiah 40:8", text: "The grass withers and the flowers fall, but the word of our God endures forever." }
   ],
-  tldr: `Archaeological discoveries consistently support biblical accounts, from ancient cities and rulers to meteorological phenomena and cultural details.`,
+  tldr: `Archaeology has confirmed many people, places and cultural details in the Bible, from kings and governors to pools and inscriptions. Some episodes, such as the Exodus and the conquest of Jericho, remain without clear archaeological confirmation or are disputed.`,
   content: `
-Archaeological evidence provides substantial support for biblical accounts, demonstrating the historical reliability of Scripture across multiple categories[^1][^2][^3].
+Archaeological evidence provides substantial support for many biblical accounts, particularly from the period of the kings onward and in the New Testament, while some earlier episodes remain disputed[^1][^2][^3].
 
 The major archaeological findings fall into several categories, running from specific New and Old Testament locations to artifacts confirming biblical figures and extra-biblical writings corroborating the scriptural accounts.
 
@@ -43,13 +43,13 @@ Philip was from Bethsaida, where Jesus fed the 5,000 [John 6:5-7](https://www.bi
 
 **Pool of Bethesda** ([John 5:2](https://www.biblegateway.com/passage/?search=John+5%3A2&version=NIV))
 
-- Excavated in Jerusalem, showing five porticoes exactly as described[^25][^26][^27]
+- Excavated in Jerusalem as a double pool whose four sides and central dividing wall are consistent with the five porticoes John describes, though the reconstruction of the colonnades is debated[^25][^26][^27]
   - Long doubted, with the five porticoes read as a symbolic detail rather than a real structure, until the double pool was uncovered beside the Church of St Anne[^28][^29][^30]
   - Confirms precise geographical knowledge of Gospel writers[^31][^32]
 
 **Pool of Siloam** ([John 9:7](https://www.biblegateway.com/passage/?search=John+9%3A7&version=NIV))
 
-- Discovered in 2004, confirming Jesus's healing of the blind man[^33][^34][^35]
+- The first-century pool was discovered in 2004, confirming the setting of Jesus's healing of the blind man[^33][^34][^35]
   - Dates to first century, matching Gospel accounts[^36][^37][^38]
   - Shows detailed local knowledge of Jerusalem's water systems[^39][^40]
 
@@ -57,7 +57,7 @@ Philip was from Bethsaida, where Jesus fed the 5,000 [John 6:5-7](https://www.bi
 
 - Extensive excavations reveal first-century fishing village[^41][^42][^43]
   - Peter's house identified with early Christian veneration[^44][^45][^46]
-  - Synagogue foundations from Jesus's time discovered[^47][^48]
+  - Basalt foundations beneath the later limestone synagogue are thought by many archaeologists to belong to the first-century synagogue, though this is debated[^47][^48]
   - Confirms Gospel descriptions of Jesus's Galilean ministry base[^49][^50][^51]
 `
     },
@@ -73,7 +73,7 @@ Multiple theories and findings exist for the cities of the plain:
 - **Tall el-Hammam (Contested Airburst Theory)**: A prominent but contested theory suggested a cosmic airburst, possibly inspiring the biblical account, destroyed **Tall el-Hammam**[^52][^53][^54]. This hypothesis, published in *Scientific Reports* (a *Nature* journal)[^55][^56], was **retracted in 2025** after significant academic debate over the evidence[^57][^58][^59].
   - **Southern Dead Sea (Bab edh-Dhra and Numeira)**: Separate from the Tall el-Hammam theory, the Early Bronze Age towns of **Bab edh-Dhra** and **Numeira** on the southeastern side of the Dead Sea were both destroyed by fire, and both have been proposed as Sodom and Gomorrah since Paul Lapp and Walter Rast excavated them[^60][^61][^62]. Popular accounts add "sulfur balls" recovered from the strata as physical traces of the brimstone of Genesis 19, but that material has not been shown to be anything other than ordinary geological sulfur, and the claim circulates through ministry publications rather than excavation reports[^63][^64][^65].
   - **The dating problem**: The destruction of Bab edh-Dhra is placed around 2350 BC and that of Numeira around 2600 BC, several centuries before the period most chronologies assign to Abraham, so the southern identification carries a chronological difficulty of its own[^66][^67][^68].
-  - **Pattern of Destruction**: Research focusing on the **five cities of the plain** notes that four show burn-destruction layers, while Zoar (the city Lot fled to) was spared[^69][^70]. That pattern is cited in support of the biblical account [Genesis 19:22-23](https://biblegateway.com/passage/?search=Genesis+19%3A22-23&version=NIV), although it depends on the same contested site identifications.
+  - **Pattern of Destruction**: Research focusing on the **five cities of the plain** has been claimed to show burn-destruction layers at four of five sites, with Zoar (the city Lot fled to) spared, although only Bab edh-Dhra and Numeira have been extensively excavated[^69][^70]. That pattern is cited in support of the biblical account [Genesis 19:22-23](https://biblegateway.com/passage/?search=Genesis+19%3A22-23&version=NIV), although it depends on the same contested site identifications.
 
 **Joshua's Long Day** ([Joshua 10:12-13](https://www.biblegateway.com/passage/?search=Joshua+10%3A12-13&version=NIV))
 
@@ -87,13 +87,13 @@ Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](ht
 **Hezekiah's Tunnel**
 
 - 701 BC tunnel in Jerusalem matches biblical account in [2 Kings 20:20](https://biblegateway.com/passage/?search=2+Kings+20%3A20&version=NIV)[^82][^83]
-  - Hebrew inscription found in tunnel confirms biblical dating[^84][^85][^86]
+  - The Siloam Inscription in the tunnel does not name Hezekiah, but its script and radiometric dating of the plaster place the tunnel around 700 BC, consistent with the biblical account[^84][^85][^86]
   - Engineering marvel demonstrates advanced Israelite capabilities[^87][^88][^89]
 
 **Lachish Letters**
 
 - Pottery inscriptions from 6th century BC siege of Lachish[^90][^91][^92]
-  - Mention biblical figures and events from Jeremiah's time[^93][^94]
+  - Mention names known from Jeremiah's time and an unnamed prophet, and describe the final Babylonian advance[^93][^94]
   - Confirm biblical account of Babylonian conquest[^95][^96][^97]
 
 **Merneptah Stele (The "Israel" Stele)**
@@ -130,7 +130,7 @@ Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](ht
 
 - **Pilate Stone** discovered at Caesarea Maritima (1961)[^132][^133][^134]
   - Confirms Pilate as "Prefect of Judea" with correct title and timeframe[^135][^136][^137]
-  - Validates Gospel accounts of Jesus's trial[^138][^139]
+  - Confirms the name and office of the governor who tried Jesus[^138][^139]
 
 **King Hezekiah & Sennacherib's Prism**
 
@@ -161,7 +161,7 @@ Multiple non-Christian historians confirm Jesus's historical existence[^155][^15
 
 - **Flavius Josephus** (c. 93-94 AD): Mentions Jesus in the *Testimonium Flavianum*, which is considered authentic in its core but partially interpolated by later Christian scribes[^167][^168][^169]
   - **The Talmud**: References Jesus (Yeshua) and his execution[^170][^171][^172]
-  - **Mara bar Sarapion** (c. 73 AD): References the execution of the "wise king" of the Jews[^173][^174][^175]
+  - **Mara bar Sarapion** (after 73 AD, date debated): References the execution of the "wise king" of the Jews, widely but not universally taken to mean Jesus[^173][^174][^175]
 **Greek Sources**
 
 - **Lucian of Samosata** (c. 170 AD): Satirically describes Christians worshipping "the crucified sage"[^176][^177][^178]
@@ -201,7 +201,7 @@ Multiple non-Christian historians confirm Jesus's historical existence[^155][^15
 **New Testament Manuscripts**
 
 - **P52 (John Rylands Papyrus)**: Fragment of [John 18](https://biblegateway.com/passage/?search=John+18&version=NIV), assigned on handwriting to the first half of the second century, with later palaeographic work widening the range to roughly 125-175 AD[^214][^215][^216]
-  - **P66, P75**: Early complete Gospels from c. 200 AD[^217][^218][^219]
+  - **P66, P75**: Substantial early copies of John, and of Luke and John, from around 200 AD[^217][^218][^219]
   - Over 5,800 Greek manuscripts provide textual reliability[^220][^221][^222]
 **Old Testament Manuscripts**
 
@@ -225,7 +225,7 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
 - **Image & Physical Analysis (STURP, 1978)**: The Shroud of Turin Research Project (STURP) concluded the image was *not* a painting, scorch, or stain, as the image-forming substance has no pigment and resides only on the topmost micro-fibers[^247][^248][^249]. They also found the image contains unique three-dimensional spatial information.
   - **Contradictory Dating 1: Radiocarbon (1988)**: The most notable test, published in *Nature*, used radiocarbon dating on samples from a corner of the cloth. The results dated the linen to the medieval period (1260-1390 AD)[^250][^251][^252].
   - **Contradictory Dating 2: WAXS (2022)**: A newer study by Dr. Liberato De Caro, using Wide-Angle X-ray Scattering (WAXS) to analyze the natural aging of cellulose, dated a fiber from the main body to approximately 2,000 years ago, consistent with a 1st-century origin[^253][^254][^255]. The technique has not been independently validated as a dating method for linen, and its calibration assumes a storage history for the cloth that cannot be checked[^256][^257][^258].
-  - **The Sample Controversy**: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth[^259][^260][^261].
+  - **The Sample Controversy**: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth[^259][^260][^261]. A 2010 re-examination of surviving sample threads by Freer-Waters and Jull found no evidence of dye or re-weaving, so the question remains disputed.
   - **Botanical Evidence (Pollen)**: Analysis has identified numerous pollen grains, some of which have been claimed to be from plant species unique to the Judea/Jerusalem region[^262][^263][^264]. This evidence, like the shroud itself, remains highly debated.
 `
     }

@@ -93,7 +93,7 @@ Several arguments circulating in prophecy material fail under examination[^29].
 Jesus stated that no one knows the day or hour, not the angels and not the Son, but only the Father, and told the apostles directly that it was not for them to know times or dates[^40].
 
 *   **William Miller.** Preached that Christ would return in 1843, then recalculated to 22 October 1844, attracting perhaps 100,000 followers. The failure became known as the Great Disappointment[^41].
-*   **Edgar Whisenant.** A former NASA engineer whose booklet *88 Reasons Why the Rapture Will Be in 1988* circulated roughly two million copies. He followed the failure with revised dates for 1989, 1993 and 1994[^42].
+*   **Edgar Whisenant.** A former NASA engineer whose booklet *88 Reasons Why the Rapture Will Be in 1988* was mailed free to some 300,000 ministers and reportedly distributed in about 4.5 million copies. He followed the failure with revised dates for 1989, 1993 and 1994[^42].
 *   **Harold Camping.** Predicted judgment day for September 1994, then 21 May 2011, then 21 October 2011, backed by a national radio campaign. He later described his attempts to set a date as sinful[^43].
 
 Any framework flexible enough to map current headlines onto prophecy is flexible enough to have mapped every previous generation's headlines, which is why the method has never produced a correct prediction[^44].

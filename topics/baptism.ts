@@ -14,13 +14,13 @@ export const BAPTISM: Topic = {
     { reference: "Luke 23:42-43", text: "And he said, 'Jesus, remember me when you come into your kingdom.' And he said to him, 'Truly, I say to you, today you will be with me in paradise.'" },
     { reference: "Romans 6:3-4", text: "Or don't you know that all of us who were baptised into Christ Jesus were baptised into his death? We were therefore buried with him through baptism into death." }
   ],
-  tldr: "Christian traditions divide on this question. Catholics, Orthodox, Lutherans and the Churches of Christ hold that baptism is instrumental in salvation, while Baptists, most Reformed churches and most evangelicals hold that it follows saving faith as an act of obedience. Both positions affirm that baptism is commanded and that salvation originates in God's grace, and both draw on the same body of texts.",
+  tldr: "Christian traditions divide on this question. Catholics, Orthodox, Lutherans and the Churches of Christ hold that baptism is instrumental in salvation, while Baptists and most evangelicals hold that it follows saving faith as an act of obedience, and Reformed and Presbyterian churches treat it as a sign and seal of God's covenant that is not strictly necessary for salvation. Both positions affirm that baptism is commanded and that salvation originates in God's grace, and both draw on the same body of texts.",
   content: `
 The question of whether baptism is necessary for salvation divides Christian traditions along some of the oldest fault lines in the church, and both sides argue from the same passages[^1].
 
 One position holds that baptism is instrumental in salvation. This is the historic teaching of the Catholic Church, the Eastern Orthodox churches, Lutheranism, much of Anglicanism, and the Churches of Christ, which between them account for most of global Christianity by number of adherents[^2].
 
-The other holds that baptism follows salvation as a command to be obeyed and a public sign of an inward reality. This is the position of Baptists, most Reformed and Presbyterian churches, and most modern evangelicalism[^3][^4].
+The other holds that baptism follows salvation as a command to be obeyed and a public sign of an inward reality. This is the position of Baptists and most modern evangelicalism. Reformed and Presbyterian churches take a middle position: baptism is a sign and seal of the covenant and a means through which God confirms His grace, but it is not strictly necessary for salvation, and they baptise infants[^3][^4].
 
 Both affirm that Christ commanded baptism, that it carries real significance, and that salvation originates in God's grace rather than human merit. The dispute concerns what baptism does[^5][^6].
 `,
@@ -37,7 +37,7 @@ The Protestant argument rests on the structure of justification[^7].
 *   **Cornelius receives the Spirit first.** In Acts 10 the household of Cornelius receives the Holy Spirit before being baptised, and the baptism follows as recognition of what God has already done[^10].
 *   **Reading Acts 2:38.** The Greek preposition *eis*, translated "for the forgiveness of your sins," is argued by some to carry a causal sense meaning "because of," making baptism the response to forgiveness rather than its cause[^11][^12].
 
-The causal reading of *eis* is a minority position among Greek grammarians and is widely disputed, and most standard lexicons do not list a clearly causal sense. The thief's case is also complicated by the fact that he died before the new covenant was inaugurated at Pentecost[^13].
+The causal reading of *eis* is a minority position among Greek grammarians and is widely disputed, and most standard lexicons do not list a clearly causal sense. Sacramental interpreters also answer that the thief died before the resurrection and the command of Matthew 28:19, so his case is exceptional rather than normative[^13].
 `
     },
     {

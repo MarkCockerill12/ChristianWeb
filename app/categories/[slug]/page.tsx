@@ -47,8 +47,8 @@ const TIMELINE_COPY: Record<string, { title: string; description: string; discla
           The dates shown indicate when these books were written down, not when the events they
           describe occurred.
         </strong>{" "}
-        For example, Moses wrote Genesis around 1445 BC, but it records events from Creation through
-        Joseph&apos;s death (c. 1805 BC). Similarly, the Gospels were written 15-65 years after
+        For example, traditional dating places Moses&apos; writing of Genesis around 1445 BC (critical
+        scholars date it much later), but it records events from Creation through Joseph&apos;s death. Similarly, the Gospels were written roughly 20-70 years after
         Christ&apos;s ministry but record His life and teachings from 30-33 AD.
       </>
     ),
@@ -65,6 +65,21 @@ const TIMELINE_COPY: Record<string, { title: string; description: string; discla
         Galileo&apos;s condemnation in 1633 and the Scopes trial of 1925 are the two episodes from
         which a general law of conflict was wrongly inferred, and both are listed here rather than
         left out.
+      </>
+    ),
+  },
+  evolution: {
+    title: "Deep Time: The Scientific Timeline",
+    description:
+      "The history of the universe, of life, of the dinosaurs and of early humans as dated by mainstream geology, palaeontology and genetics",
+    disclaimer: (
+      <>
+        <strong>
+          These are the dates of mainstream science, and not every Christian accepts them.
+        </strong>{" "}
+        Young earth creationists compress this history into roughly six to ten thousand years and
+        place dinosaurs and Neanderthals alongside modern humans. Both that view and the evidence
+        for the dates are set out in the sections that follow.
       </>
     ),
   },

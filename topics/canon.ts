@@ -8,7 +8,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "Moses Writes the Torah",
     period: "Old Testament Formation",
     color: "blue",
-    description: `Moses authors the Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy) during Israel's wilderness wanderings. Genesis records events from creation to Joseph's death, while Exodus through Deuteronomy chronicles Israel's deliverance from Egypt and the giving of the Law.`,
+    description: `According to Jewish and Christian tradition, Moses authors the Pentateuch (Genesis, Exodus, Leviticus, Numbers, Deuteronomy) during Israel's wilderness wanderings. Genesis records events from creation to Joseph's death, while Exodus through Deuteronomy chronicles Israel's deliverance from Egypt and the giving of the Law. Most critical scholars instead date the Pentateuch's final form to the exilic or post-exilic period, drawing on earlier sources, and the 15th-century BC date assumes the early date of the Exodus.`,
     significance: `Establishes the foundational covenant documents and legal framework for Israel; first canonical Scripture`,
   },
   {
@@ -17,7 +17,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "David Composes Psalms",
     period: "Old Testament Formation",
     color: "blue",
-    description: `King David writes approximately 73 of the 150 Psalms during his reign, including [Psalm 23](https://www.biblegateway.com/passage/?search=Psalm+23&version=NIV) (The Lord is my shepherd) and many messianic psalms. These worship songs express the full range of human emotion in relationship with God.`,
+    description: `The superscriptions attribute 73 of the 150 Psalms to King David, including [Psalm 23](https://www.biblegateway.com/passage/?search=Psalm+23&version=NIV) (The Lord is my shepherd) and many messianic psalms. These worship songs express the full range of human emotion in relationship with God.`,
     significance: `Establishes divinely inspired worship literature; many psalms are prophetically messianic`,
   },
   {
@@ -26,7 +26,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "Solomon's Wisdom Literature",
     period: "Old Testament Formation",
     color: "blue",
-    description: `King Solomon authors most of Proverbs (practical wisdom for daily living), Ecclesiastes (the vanity of life apart from God), and Song of Songs (celebrating marital love). He also writes [Psalm 72](https://www.biblegateway.com/passage/?search=Psalm+72&version=NIV) and [Psalm 127](https://www.biblegateway.com/passage/?search=Psalm+127&version=NIV).`,
+    description: `Tradition credits King Solomon with much of Proverbs (practical wisdom for daily living), Ecclesiastes (the vanity of life apart from God), and Song of Songs (celebrating marital love), and the superscriptions attribute to him [Psalm 72](https://www.biblegateway.com/passage/?search=Psalm+72&version=NIV) and [Psalm 127](https://www.biblegateway.com/passage/?search=Psalm+127&version=NIV).`,
     significance: `Provides divinely inspired wisdom for practical Christian living and relationships`,
   },
   {
@@ -35,7 +35,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "Major Prophetic Books",
     period: "Old Testament Formation",
     color: "blue",
-    description: `Isaiah (c. 740-680 BC) writes 66 chapters of messianic prophecy and judgment. Jeremiah (c. 627-580 BC) authors his prophecy and Lamentations. Ezekiel (c. 593-571 BC) records visions from Babylonian exile. Daniel (c. 605-536 BC) writes apocalyptic prophecy.`,
+    description: `Isaiah (c. 740-680 BC) writes 66 chapters of messianic prophecy and judgment. Jeremiah (c. 627-580 BC) authors his prophecy and Lamentations. Ezekiel (c. 593-571 BC) records visions from Babylonian exile. Daniel (set in 605-536 BC, and traditionally written then, though most critical scholars date its final form to c. 165 BC) writes apocalyptic prophecy.`,
     significance: `Provides detailed messianic prophecies and warnings of judgment; establishes prophetic genre`,
   },
   {
@@ -49,12 +49,12 @@ export const canonTimeline: TimelineEvent[] = [
   },
   {
     id: 6,
-    date: "c. 400 BC",
-    title: "Hebrew Canon Closes",
+    date: "c. 400 BC - 100 AD",
+    title: "Hebrew Canon Takes Shape",
     period: "Canon Recognition",
     color: "green",
-    description: `Jewish authorities recognize the cessation of prophetic revelation with Malachi's ministry. The Hebrew canon is established at 24 books (equivalent to Protestant 39, divided differently), comprising the Law (Torah), Prophets (Nevi'im), and Writings (Ketuvim).`,
-    significance: `Formal closure of Old Testament revelation; establishes boundaries of Hebrew Scripture that Jesus would later affirm`,
+    description: `Later Jewish tradition held that prophetic revelation ceased after Malachi and the time of Artaxerxes. The Law was fixed first and the Prophets by the 2nd century BC, but the boundaries of the Writings were still discussed into the 1st century AD; Josephus (c. 95 AD) describes a closed collection of 22 books. The resulting canon has 24 books (equivalent to Protestant 39, divided differently), comprising the Law (Torah), Prophets (Nevi'im), and Writings (Ketuvim).`,
+    significance: `The Law, the Prophets and "the Psalms" (Luke 24:44) were already recognised in Jesus' day, though scholars debate how firmly the third division was closed`,
   },
   {
     id: 7,
@@ -71,7 +71,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "New Testament Books Written",
     period: "New Testament Formation",
     color: "purple",
-    description: `All 27 New Testament books authored during apostolic era: Paul's letters (49-67 AD), Gospels of Matthew, Mark, Luke (50-85 AD), Acts (60-62 AD), Hebrews, James, Peter's letters, Jude (50-85 AD), John's Gospel and letters (85-95 AD), and Revelation (95-96 AD).`,
+    description: `On conservative dating, all 27 New Testament books are written in the apostolic era: Paul's letters (49-67 AD), Gospels of Matthew, Mark, Luke (50-85 AD), Acts (60-62 AD), Hebrews, James, Peter's letters, Jude (50-85 AD), John's Gospel and letters (85-95 AD), and Revelation (95-96 AD). Most critical scholars place Mark c. 70, Matthew and Luke-Acts c. 80-90, John c. 90-100, and some letters, such as 2 Peter, into the early 2nd century.`,
     significance: `Completes divine revelation through apostolic witnesses; fulfills Jesus' promise of the Holy Spirit guiding into all truth`,
   },
   {
@@ -89,7 +89,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "Muratorian Fragment",
     period: "Canon Recognition",
     color: "green",
-    description: `Earliest known canonical list includes 22 of 27 New Testament books, explicitly naming Matthew, Luke, John, Acts, 13 Pauline letters, Jude, 1-2 John, and Revelation. It also includes the Wisdom of Solomon. Notable omissions include Hebrews, James, 1-2 Peter, and 3 John.`,
+    description: `Usually regarded as the earliest known canonical list (a minority of scholars date it to the 4th century). Its opening is lost, but it evidently included Matthew and Mark, and it names Luke, John, Acts, 13 Pauline letters, Jude, two letters of John, and Revelation. It also accepts the Wisdom of Solomon and, with reservations, the Apocalypse of Peter, and rejects the Shepherd of Hermas as too recent. Hebrews, James, 1-2 Peter, and possibly 3 John are not mentioned.`,
     significance: `Demonstrates early widespread recognition of apostolic authorship as canonical criterion`,
   },
   {
@@ -107,7 +107,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "Synod of Rome under Pope Damasus",
     period: "Canon Recognition",
     color: "green",
-    description: `Pope Damasus I formally approves a biblical canon including 73 books: 46 Old Testament books (including deuterocanonicals like Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees) plus 27 New Testament books. This represents early Catholic canonical position.`,
+    description: `According to the Decretum Gelasianum, whose attribution to this synod is disputed, Pope Damasus I approves a biblical canon including 73 books: 46 Old Testament books (including deuterocanonicals like Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees) plus 27 New Testament books. This represents early Catholic canonical position.`,
     significance: `First papal endorsement of expanded Old Testament canon including deuterocanonical books`,
   },
   {
@@ -125,7 +125,7 @@ export const canonTimeline: TimelineEvent[] = [
     title: "Jerome's Vulgate Translation",
     period: "Canon Recognition",
     color: "orange",
-    description: `Scholar Jerome translates Bible into Latin Vulgate, completing Old Testament by 405 AD. Despite papal pressure, Jerome distinguishes between 'canonical books' (Hebrew canon) and 'ecclesiastical books' (deuterocanonicals), placing latter in separate category for edification but not doctrine.`,
+    description: `Scholar Jerome translates Bible into Latin Vulgate, completing Old Testament by 405 AD. Working from the Hebrew, Jerome distinguishes between 'canonical books' (Hebrew canon) and 'ecclesiastical books' (deuterocanonicals), placing latter in separate category for edification but not doctrine, though he translated several of them and later cited them. His contemporary Augustine accepted them as canonical.`,
     significance: `Scholarly distinction between levels of canonical authority; Hebrew text tradition preserved`,
   },
   {
@@ -134,8 +134,8 @@ export const canonTimeline: TimelineEvent[] = [
     title: "Luther's 95 Theses Posted",
     period: "Protestant Reformation",
     color: "red",
-    description: `Martin Luther posts 95 theses challenging papal authority and indulgences at Wittenberg Castle Church. While not directly addressing canon, Luther's 'sola scriptura' principle (Scripture alone as ultimate authority) fundamentally challenges Catholic additions to biblical canon.`,
-    significance: `Establishes Scripture as sole religious authority, laying groundwork for Protestant canonical decisions`,
+    description: `Martin Luther issues 95 theses on indulgences at Wittenberg. The theses do not address the canon, but the dispute they began led Luther, by the Leipzig Debate of 1519, to the principle later called 'sola scriptura' (Scripture as the supreme authority), which reopened the question of the Old Testament canon.`,
+    significance: `Begins the Reformation debates that led Protestants to adopt the Hebrew canon for the Old Testament`,
   },
   {
     id: 16,
@@ -170,26 +170,26 @@ export const canonTimeline: TimelineEvent[] = [
     title: "King James Version Authorized",
     period: "Protestant Reformation",
     color: "red",
-    description: `Authorized Version commissioned by King James I includes deuterocanonical books in separate 'Apocrypha' section between Old and New Testaments. While included, these books are clearly distinguished as non-canonical but historically valuable.`,
+    description: `Authorized Version commissioned by King James I includes deuterocanonical books in separate 'Apocrypha' section between Old and New Testaments. The Church of England's Article VI (1571) held that they are read "for example of life and instruction of manners" but not to establish doctrine.`,
     significance: `Establishes English-speaking Protestant standard while maintaining historical acknowledgment of disputed books`,
   },
   {
     id: 20,
-    date: "1825 AD",
+    date: "1825-1827 AD",
     title: "British & Foreign Bible Society Decision",
     period: "Modern Era",
     color: "gray",
-    description: `British & Foreign Bible Society votes to exclude Apocrypha from all Bible distributions after heated debate. This decision is followed by American Bible Society (1827) and other Protestant organizations, making 66-book Bibles standard in Protestant missions worldwide.`,
+    description: `After a heated debate from 1825, the British & Foreign Bible Society resolves (1826) to exclude the Apocrypha from the Bibles it funds. This decision is followed by American Bible Society (1827) and other Protestant organizations, making 66-book Bibles standard in Protestant missions worldwide.`,
     significance: `Practical elimination of deuterocanonical books from Protestant Bible distribution; establishes global Protestant standard`,
   },
   {
     id: 21,
-    date: "July 18, 1870 AD",
-    title: "First Vatican Council - Pastor Aeternus",
+    date: "April 24, 1870 AD",
+    title: "First Vatican Council - Dei Filius",
     period: "Modern Era",
     color: "darkred",
-    description: `Vatican I's constitution Pastor Aeternus declares papal infallibility in matters of faith and morals, indirectly reinforcing Trent's canonical decisions as irreversible dogma. This makes any future change to Catholic canon impossible without contradicting papal infallibility.`,
-    significance: `Entrenches Catholic 73-book canon as irreversible dogma through papal infallibility doctrine`,
+    description: `Vatican I's dogmatic constitution Dei Filius explicitly reaffirms Trent's list of books as sacred and canonical, teaching that they are inspired rather than merely approved by the Church. Three months later Pastor Aeternus defines papal infallibility.`,
+    significance: `Reaffirms the Catholic 73-book canon as dogma`,
   },
   {
     id: 22,
@@ -206,7 +206,7 @@ export const canon: Topic = {
   id: "canon",
   title:
     "What are the True Canonical Books of the Bible? And how do we know these are authentic?",
-  description: `How can we tell which books are truly apart of the Bible if there are different thoughts on it?`,
+  description: `How can we tell which books are truly a part of the Bible if there are different thoughts on it?`,
   icon: "BookOpen",
   color: "blue",
   tags: ["Historical", "Scripture"],
@@ -233,13 +233,13 @@ Early church leaders used several key criteria to determine which books were tru
 • **Antiquity:** Written during the apostolic era (1st century AD)[^10]
 
 ### The Protestant Canon: 66 Books
-The Protestant Bible contains 66 books, which scholars believe represents the complete inspired Scripture[^11]. This canon was recognized (not created) by the early church and represents the books that consistently met all criteria for divine inspiration[^12].
+The Protestant Bible contains 66 books, which Protestant churches hold to be the complete inspired Scripture[^11]. This canon was recognized (not created) by the early church and represents the books that consistently met all criteria for divine inspiration[^12].
 
 ### The Deuterocanonical Books
 The Catholic Bible includes additional texts, often referred to as the Deuterocanonical books, bringing the total to 73[^13]. These books include Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch, and 1 and 2 Maccabees. While valued by Catholics, Protestant scholars maintain these texts should not be considered Scripture due to historical, theological, and canonical concerns. For a detailed analysis of why these books are not included in the Protestant canon, see the Deuterocanonical Books section below.
 
 ### Conclusion
-The careful process of canonical recognition preserved for us the authentic apostolic writings while rejecting later forgeries, theological deviations, and legendary embellishments[^14]. The 66 books of the Protestant Bible represent the complete revelation God intended to preserve for His church, confirmed by their apostolic origin, doctrinal orthodoxy, universal acceptance, and divine attestation[^15].
+The careful process of canonical recognition preserved for us the authentic apostolic writings while rejecting later forgeries, theological deviations, and legendary embellishments[^14]. On the Protestant view, the 66 books of the Protestant Bible represent the complete revelation God intended to preserve for His church, confirmed by their apostolic origin, doctrinal orthodoxy, universal acceptance, and divine attestation[^15].
 
 `,
 
@@ -253,22 +253,22 @@ The careful process of canonical recognition preserved for us the authentic apos
       **Historical Development of the Deuterocanonical Debate**
 
 
-      **Jewish Canon Foundation (circa 400 BC):** The Hebrew Bible (Tanakh) closed around 400 BC with Malachi, establishing 24 books (equivalent to the Protestant 39 Old Testament books)[^17]. Jewish authorities never accepted the deuterocanonical books as Scripture, viewing them as valuable historical and devotional literature but not divinely inspired[^18].
+      **Jewish Canon Foundation:** Jewish tradition regarded prophecy as having ceased after Malachi, and by the late 1st century AD the Hebrew Bible (Tanakh) was recognised as 24 books (equivalent to the Protestant 39 Old Testament books), although scholars debate how early the third division, the Writings, was closed[^17]. Jewish authorities never accepted the deuterocanonical books as Scripture, viewing them as valuable historical and devotional literature but not divinely inspired[^18].
 
-      **Septuagint Inclusion (3rd-1st century BC):** When the Hebrew Bible was translated into Greek (the Septuagint), some manuscripts included these additional books. However, this was not universal, and many Septuagint manuscripts omitted them[^19]. Importantly, inclusion in a translation does not establish canonicity, as the translators were preserving culturally significant texts, not declaring them Scripture[^20].
+      **Septuagint Inclusion (3rd-1st century BC):** When the Hebrew Bible was translated into Greek (the Septuagint), some manuscripts included these additional books. The surviving complete Greek Bibles are Christian codices of the 4th and 5th centuries, such as Vaticanus, Sinaiticus and Alexandrinus, and each includes a somewhat different selection of these books[^19]. Importantly, inclusion in a translation does not establish canonicity, as the translators were preserving culturally significant texts, not declaring them Scripture[^20].
 
-      **Early Church Period (1st-4th centuries):** Church fathers had mixed opinions about these books. Jerome (347-420 AD), the translator of the Latin Vulgate, explicitly distinguished between canonical books (the Hebrew canon) and those "read for edification" (the Apocrypha) but not for establishing doctrine[^21].
+      **Early Church Period (1st-4th centuries):** Church fathers had mixed opinions about these books. Jerome (347-420 AD), the translator of the Latin Vulgate, explicitly distinguished between canonical books (the Hebrew canon) and those "read for edification" (the Apocrypha) but not for establishing doctrine. Augustine, by contrast, accepted them, and the councils of Hippo (393) and Carthage (397) included them in their lists[^21].
 
-      **Council of Trent's Decision (1546 AD):** The Catholic Church officially canonized these books at the Council of Trent, largely in response to Protestant challenges. This decision came over 1,500 years after the books were written and was motivated by doctrinal disputes rather than historical evidence[^22].
+      **Council of Trent's Decision (1546 AD):** The Council of Florence had already listed these books in 1442, and the Council of Trent defined them as canonical dogma in response to Protestant challenges. Protestants argue that this settled a question the early church had left open; Catholics and Orthodox reply that the books were read as Scripture by the church from the beginning, since the Greek Old Testament used by the apostles' churches contained them[^22].
 
       **Specific Problems with Individual Deuterocanonical Books**
 
 
       **Tobit (circa 200 BC):**
 
-      • **Magical practices:** Tobit 6:5-8 prescribes burning fish liver and heart to drive away demons, and using fish gall to cure blindness, practices foreign to biblical religion[^23]
+      • **Magical practices:** Tobit 6:5-8 has the angel Raphael prescribe burning fish liver and heart to drive away demons, and using fish gall to cure blindness, which Protestant critics regard as closer to folk magic than to biblical religion; Catholic commentators read the remedies as means God chose to use through the angel[^23]
 
-    • **Salvation by works:** Tobit 12:9 states "almsgiving delivers from death and purges away every sin," directly contradicting the biblical doctrine of salvation by grace through faith ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV))[^24]
+    • **Salvation by works:** Tobit 12:9 states "almsgiving delivers from death and purges away every sin," which Protestants read as contradicting salvation by grace through faith ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV)). Catholic interpreters compare it with Daniel 4:27 and Proverbs 16:6, and read almsgiving as the fruit of grace rather than a rival to it[^24]
 
       **Judith (circa 150 BC):**
 
@@ -276,7 +276,7 @@ The careful process of canonical recognition preserved for us the authentic apos
 
       **Wisdom of Solomon (circa 50 BC):**
 
-      • **Greek philosophical influence:** Contains heavy influence from Platonic philosophy, including the pre-existence of souls (Wisdom 8:19-20), which contradicts biblical anthropology[^27]
+      • **Greek philosophical influence:** Contains heavy influence from Platonic philosophy, and Wisdom 8:19-20 is often read as teaching the pre-existence of souls, which would contradict biblical anthropology, although some interpreters dispute that reading[^27]
 
       • **False attribution:** Claims Solomon as author but was written centuries after his death, making it pseudepigraphical[^28]
 
@@ -286,7 +286,7 @@ The careful process of canonical recognition preserved for us the authentic apos
 
       **Why Jesus and the Apostles Never Endorsed These Books**
 
-    When Jesus referred to "the Law, the Prophets, and the Writings" ([Luke 24:44](https://www.biblegateway.com/passage/?search=Luke+24%3A44&version=NIV)), He was referencing the established Hebrew canon[^31]. The New Testament contains hundreds of Old Testament quotations, but it never quotes the deuterocanonical books as inspired Scripture. However, it does contain allusions to them. For example, [Hebrews 11:35](https://www.biblegateway.com/passage/?search=Hebrews+11%3A35&version=NIV) ("...others were tortured, refusing to accept release...") is widely seen as a clear allusion to the martyrdom of Eleazar and the seven brothers in 2 Maccabees 6–7[^32]. This shows the apostles were aware of these books but did not grant them the authority of Scripture.
+    When Jesus referred to "the Law of Moses, the Prophets and the Psalms" ([Luke 24:44](https://www.biblegateway.com/passage/?search=Luke+24%3A44&version=NIV)), Protestant interpreters take Him to be referencing the threefold Hebrew canon, with the Psalms heading the Writings[^31]. The New Testament contains hundreds of Old Testament quotations, but it never quotes the deuterocanonical books as inspired Scripture. However, it does contain allusions to them. For example, [Hebrews 11:35](https://www.biblegateway.com/passage/?search=Hebrews+11%3A35&version=NIV) ("...others were tortured, refusing to accept release...") is widely seen as a clear allusion to the martyrdom of Eleazar and the seven brothers in 2 Maccabees 6–7[^32]. This shows the apostles were aware of these books but did not grant them the authority of Scripture.
 
         **Daniel and Esther Additions:**
         • **Additions to Daniel:** Includes the **Susanna** narrative (where Daniel delivers Susanna from false adultery accusations)[^33], **Bel and the Dragon** (containing two stories demonstrating the vanity of idols and Daniel's survival in the lions' den)[^34], and the **Prayer of Azariah and Song of the Three Holy Children** (liturgical prayers by the three youths in the furnace)[^35].
@@ -460,7 +460,7 @@ The careful process of canonical recognition preserved for us the authentic apos
 
       • **Legalistic additions:** Claims to be a secret revelation from an angel to Moses, adding numerous laws not found in the Pentateuch[^90]
 
-      **Testament of the Twelve Patriarchs (circa 109-106 BC):**
+      **Testament of the Twelve Patriarchs (2nd century BC to 2nd century AD, dating disputed):**
 
       • **Composite work:** A collection of "last words" from Jacob's twelve sons, containing moral exhortations but also later Christian interpolations (additions)[^91].
 
@@ -476,7 +476,7 @@ The careful process of canonical recognition preserved for us the authentic apos
 
       **Letter of Aristeas (circa 2nd century BC):**
       • **Septuagint origin story:** A book describing the translation of the Hebrew Law into Greek by 72 elders under Ptolemy II Philadelphus[^95].
-      • **Why rejected:** Pseudepigraphal letter of a non-Jewish writer that serves as historical romance, not inspired prophetic revelation[^96].
+      • **Why rejected:** A pseudepigraphal work by a Jewish author writing in the persona of a Greek courtier, serving as historical romance rather than inspired prophetic revelation[^96].
 
       **Martyrdom and Ascension of Isaiah (circa 1st-2nd century AD):**
       • **Isaiah's death:** Details King Manasseh sawing the prophet Isaiah in half (referenced in [Hebrews 11:37](https://www.biblegateway.com/passage/?search=Hebrews+11%3A37&version=NIV))[^97].
@@ -508,7 +508,7 @@ The careful process of canonical recognition preserved for us the authentic apos
 
       • **Legendary embellishments:** "Fills in" Mary's childhood, claiming she was a temple virgin, and details Jesus's birth in a cave[^104]
 
-      • **Unbiblical doctrine:** The source for the doctrine of the perpetual virginity of Mary (claiming she remained a virgin even during and after Jesus's birth), a doctrine not found in the Bible[^105]
+      • **Perpetual virginity:** The earliest written source for the belief that Mary remained a virgin during and after Jesus's birth. The doctrine is held by Catholic and Orthodox Christians, and was affirmed by Luther, Calvin and Zwingli, but most modern Protestants hold that Scripture does not teach it[^105]
 
       **Infancy Gospel of Thomas (circa 180-200 AD):**
 
@@ -525,7 +525,7 @@ The careful process of canonical recognition preserved for us the authentic apos
 
       **Acts of Paul (circa 180-190 AD):**
 
-      • **Legendary adventures:** Contains fictional stories of Paul's encounters, including a baptizing lion (Acts of Paul and Thecla) and other miracles not recorded in the Bible[^110]
+      • **Legendary adventures:** Contains fictional stories of Paul's encounters, including a lion that Paul baptises and that later refuses to attack him in the arena at Ephesus, and the story of Thecla and other miracles not recorded in the Bible[^110]
 
   • **Ascetic heresy:** Promotes extreme celibacy and anti-marriage teachings contrary to Paul's balanced view in [1 Corinthians 7](https://www.biblegateway.com/passage/?search=1+Corinthians+7&version=NIV)[^111]
 
@@ -553,11 +553,11 @@ The careful process of canonical recognition preserved for us the authentic apos
 
       **Apocalypse of Peter (circa 100-150 AD):**
       • **Visions of hell:** Contains detailed, graphic accounts of specific punishments in hell for various sins, alongside descriptions of heaven[^120].
-      • **Why rejected:** Late composition, lacks prophetic sobriety, and is heavily influenced by Greek mythology rather than biblical revelation[^121].
+      • **Why rejected:** It was accepted by some in the 2nd century (the Muratorian Fragment lists it with reservations and Clement of Alexandria cited it), but it was not apostolic, and its imagery of the underworld draws on Greek and Jewish apocalyptic traditions rather than on apostolic teaching[^121].
 
       **Epistle to the Laodiceans (circa 4th century AD):**
       • **Forged Pauline epistle:** A short collection of Pauline phrases compiled to forge the "letter from Laodicea" mentioned in [Colossians 4:16](https://www.biblegateway.com/passage/?search=Colossians+4%3A16&version=NIV)[^122].
-      • **Why rejected:** Unanimously recognized by the early church as a compilation of plagiarism designed to create a "missing" letter, containing no original teaching[^123].
+      • **Why rejected:** A compilation of phrases from Paul's genuine letters designed to supply the "missing" letter. Jerome reported that it was rejected by all, yet it was copied in many medieval Latin Bibles before being excluded[^123].
 `
     },
   ],
@@ -687,5 +687,5 @@ The careful process of canonical recognition preserved for us the authentic apos
     "123. [Reference] Wikipedia. Apocalypse of Peter. https://en.wikipedia.org/wiki/Apocalypse_of_Peter"
   ],
   timeline: canonTimeline,
-  lastUpdated: "11-09-2025",
+  lastUpdated: "17-09-2026",
 };

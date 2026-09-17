@@ -28,7 +28,7 @@ These tools establish that an event was physically possible, and in several case
       title: "Joshua's Long Day and the 1207 BC Eclipse",
       tags: ["joshua", "astronomy", "eclipse", "cambridge"],
       content: `
-The popular story that NASA computers discovered a missing day in history is fiction. It has circulated since the 1930s, predates NASA entirely, and no such calculation is possible, since orbital models are calibrated from observations and therefore cannot reveal a gap in them[^5].
+The popular story that NASA computers discovered a missing day in history is fiction. It goes back to C. A. L. Totten's 1890 book on Joshua's long day and Harry Rimmer's retelling in the 1930s, predates NASA entirely, and no such calculation is possible, since orbital models are calibrated from observations and therefore cannot reveal a gap in them[^5].
 
 The serious research is different. Cambridge physicists Colin Humphreys and Graeme Waddington published an analysis in *Astronomy & Geophysics* in 2017 proposing that the event was an annular solar eclipse[^6].
 
@@ -50,7 +50,7 @@ Carl Drews and Weiqing Han published a study in *PLOS ONE* in 2010, supported by
 *   **The mechanism matches the text.** Exodus 14:21 attributes the parting to a strong east wind blowing all night, so the model matches the mechanism the narrative itself describes rather than replacing it[^14].
 *   **The return.** When the wind drops, water returns rapidly as a bore wave, consistent with the account of the pursuing force being overwhelmed[^15].
 
-The authors modelled a site in the eastern Nile Delta rather than the modern Red Sea, and were explicit that the study demonstrates physical plausibility rather than proving the event occurred. The location of the crossing remains disputed, and a 63 mph wind blowing all night is itself an extreme condition[^16].
+The authors modelled a site in the eastern Nile Delta rather than the modern Red Sea, and were explicit that the study demonstrates physical plausibility rather than proving the event occurred. The location of the crossing remains disputed, and a 63 mph wind blowing all night is itself an extreme condition. Scripture itself attributes the parting to God driving the sea back "with a strong east wind", so a natural mechanism does not reduce the event to chance: on the biblical account the miracle lies in God commanding the wind at the moment Israel needed it, as it does in other providential deliverances[^16].
 `
     },
     {
@@ -75,7 +75,7 @@ Airbursts remain a genuine and well-documented phenomenon, independent of the Ta
       title: "Ubar and Radar Archaeology",
       tags: ["archaeology", "radar", "shuttle", "arabia"],
       content: `
-Space Shuttle Endeavour's SIR-C/X-SAR radar can penetrate dry sand and reveal buried features, and NASA imagery in the early 1990s helped identify ancient caravan tracks converging in the Rub' al Khali[^26].
+Satellite and Space Shuttle radar can penetrate dry sand and reveal buried features. In the late 1980s and early 1990s a team including NASA's Jet Propulsion Laboratory used Landsat and Shuttle imaging radar to trace ancient caravan tracks converging in the Rub' al Khali[^26].
 
 *   **The find.** Excavation at Shisr in Oman revealed a fortified caravan site associated with the frankincense trade, partly collapsed into a limestone sinkhole[^27].
 *   **The trade connection.** Frankincense and its Arabian trade routes appear in the Old Testament, and the commerce the site served is the commerce those texts describe[^28].

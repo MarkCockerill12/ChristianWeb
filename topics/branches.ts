@@ -44,7 +44,7 @@ export const branchBeliefs = [
   {
     key: "priesthood",
     label: "Priesthood of All Believers",
-    description: `Do they believe all Christians are priests?`,
+    description: `Do they hold the Protestant form of the doctrine, that all believers share one priesthood with no separate sacrificial priesthood? (Catholics and Orthodox also teach a common priesthood of the baptised, alongside an ordained priesthood.)`,
     icon: "Users",
   },
 ];
@@ -216,7 +216,7 @@ export const branchTimeline = [
   },
   {
     id: "churchOfTheEast",
-    date: "451 AD",
+    date: "431 AD",
     period: "Early Church",
     color: "blue",
   },
@@ -401,7 +401,7 @@ export const branches: Topic = {
 
       • **Syriac tradition:** Uses Syriac language and Eastern liturgies[^41]
 
-      • **Married clergy:** Allows married priests and bishops[^42]
+      • **Married clergy:** Allows married priests; synods of the late 5th century also permitted married bishops, though bishops were later drawn from the celibate monastic clergy[^42]
 
       **Modern Remnants:** Assyrian Church of the East, Ancient Church of the East[^43]
 
@@ -445,7 +445,7 @@ export const branches: Topic = {
 
       • **Scripture alone:** Bible is the sole infallible authority (sola scriptura)[^57]
 
-      • **Sacramental Union:** Christ is present "in, with, and under" the bread and wine (often called Consubstantiation)[^58]
+      • **Sacramental Union:** Christ is truly present "in, with, and under" the bread and wine; outsiders often call this consubstantiation, a term Lutheran theologians reject[^58]
 
       • **Two sacraments:** Baptism and Communion as primary sacraments[^59]
 
@@ -463,7 +463,7 @@ export const branches: Topic = {
       id: "Reformed/Presbyterian",
       title: "Reformed/Presbyterian",
       tags: ["protestant", "reformation", "calvinist"],
-      content: `**Founded:** c. 1536 AD (John Calvin in Geneva)[^67]
+      content: `**Founded:** 1520s-1530s AD (Huldrych Zwingli in Zurich from 1519, then John Calvin in Geneva from 1536)[^67]
 
       **Key Beliefs:**
 
@@ -631,7 +631,7 @@ export const branches: Topic = {
 
       • **Unity movement:** Seeks to unite all Christians by returning to biblical basics[^136]
 
-      **Major Groups:** Churches of Christ, Disciples of Christ, Christian Church (Disciples of Christ)[^137].
+      **Major Groups:** Churches of Christ, Christian Church (Disciples of Christ), and the independent Christian churches and churches of Christ[^137].
 
       **Note:** Other groups like Latter-day Saints and Jehovah's Witnesses also originated in this period with a "restoration" goal, but are considered non-orthodox by mainstream Christianity (see 'Other Movements').[^138]`,
     },
@@ -775,7 +775,7 @@ export const branches: Topic = {
 
       • **Global Missions:** Pioneered modern Protestant foreign missions, sending missionaries worldwide in the 18th century[^189]
 
-      **Distinctive Features:** The oldest active Protestant denomination in the world, famous for the motto: "In essentials unity, in non-essentials liberty, in all things charity"[^190].`,
+      **Distinctive Features:** Often described as the oldest Protestant denomination still in existence, and known for adopting the motto "In essentials unity, in non-essentials liberty, in all things charity", which originated with the 17th-century Lutheran writer Rupertus Meldenius[^190].`,
     },
     {
       id: "congregationalist",

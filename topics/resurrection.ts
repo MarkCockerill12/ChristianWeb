@@ -25,15 +25,15 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 ### The Five Historical Facts
 
-Most New Testament scholars accept these basic facts, which serve as the foundation for historical investigation[^8]:
+Most New Testament scholars accept the first, fourth and fifth of these, while the burial by Joseph and the empty tomb are accepted by a clear majority but disputed by a significant minority, including John Dominic Crossan and Bart Ehrman[^8]:
 
 **1. Jesus Died by Crucifixion**[^9]
 
 • **Multiple Sources:** This event is attested in all four Gospels, in Paul's letters, and by ancient non-Christian witnesses including the Jewish historian Josephus and the Roman historian Tacitus ([Matthew 27:35](https://www.biblegateway.com/passage/?search=Matthew+27%3A35&version=NIV), [Mark 15:24](https://www.biblegateway.com/passage/?search=Mark+15%3A24&version=NIV), [Luke 23:33](https://www.biblegateway.com/passage/?search=Luke+23%3A33&version=NIV), [John 19:18](https://www.biblegateway.com/passage/?search=John+19%3A18&version=NIV))[^10].
 
-• **Enemy Attestation:** The crucifixion was a shameful fact for early Christians, yet it was never denied by opponents, indicating its historical certainty. Jewish and Roman sources confirm this execution, lending credibility to the event itself[^11].
+• **Enemy Attestation:** The crucifixion was a shameful fact for early Christians, yet no early opponent denied it, which is why historians treat it as one of the most secure facts about Jesus. Jewish and Roman sources confirm this execution, lending credibility to the event itself[^11].
 
-• **Medical Evidence:** The thorough nature of Roman crucifixion, combined with the earlier scourging, ensures death. The piercing of Jesus's side by a spear, attested in John, confirms circulatory collapse and death: "But when they came to Jesus and found that he was already dead, they did not break his legs. Instead, one of the soldiers pierced Jesus' side with a spear, bringing a sudden flow of blood and water" ([John 19:33-34](https://www.biblegateway.com/passage/?search=John+19%3A33-34&version=NIV))[^12].
+• **Medical Evidence:** The thorough nature of Roman crucifixion, combined with the earlier scourging, ensures death. The piercing of Jesus's side by a spear, attested in John, is consistent with death, though medical explanations of the "blood and water" (such as pericardial or pleural fluid) are reconstructions rather than certainties: "But when they came to Jesus and found that he was already dead, they did not break his legs. Instead, one of the soldiers pierced Jesus' side with a spear, bringing a sudden flow of blood and water" ([John 19:33-34](https://www.biblegateway.com/passage/?search=John+19%3A33-34&version=NIV))[^12].
 
 • **Medical Account:** The entire ordeal is detailed and consistent with death by asphyxiation and traumatic shock, culminating in Jesus's final words, "It is finished" ([John 19:30](https://www.biblegateway.com/passage/?search=John+19%3A30&version=NIV))[^13].
 
@@ -49,7 +49,7 @@ Most New Testament scholars accept these basic facts, which serve as the foundat
 
 • **Multiple Sources:** The empty tomb story is recounted in multiple, independent sources, demonstrating its widespread acceptance from the earliest period. "They found the stone rolled away from the tomb, but when they entered, they did not find the body of the Lord Jesus" ([Luke 24:2-3](https://www.biblegateway.com/passage/?search=Luke+24%3A2-3&version=NIV)), [John 20:1-2](https://www.biblegateway.com/passage/?search=John+20%3A1-2&version=NIV)[^20].
 
-• **Jerusalem Setting:** The resurrection was first proclaimed in Jerusalem, the very location of the tomb. The Jewish authorities could have easily crushed the movement by simply producing the body, yet they never did, implicitly conceding the empty tomb. Instead, they alleged that the disciples stole the body ([Matthew 28:11-15](https://www.biblegateway.com/passage/?search=Matthew+28%3A11-15&version=NIV)), an admission that the tomb was indeed empty[^21].
+• **Jerusalem Setting:** The resurrection was first proclaimed in Jerusalem, the very location of the tomb. Opponents could have undermined the movement by producing the body, and no source records that they did. According to Matthew, and later Justin Martyr, the Jewish response was instead that the disciples stole the body ([Matthew 28:11-15](https://www.biblegateway.com/passage/?search=Matthew+28%3A11-15&version=NIV)), a charge that presupposes the tomb was empty[^21].
 
 • **Women as First Witnesses:** In first-century Jewish and Roman culture, the legal testimony of women was considered unreliable, yet all four Gospels name women as the primary witnesses to the empty tomb (the criterion of embarrassment). If the story were a fabrication, the authors would have undoubtedly used male disciples like Peter or John to discover the tomb. This detail strongly argues for the tradition's authenticity. "Mary Magdalene and the other Mary went to look at the tomb" ([Matthew 28:1](https://www.biblegateway.com/passage/?search=Matthew+28%3A1&version=NIV)), [Mark 16:1-2](https://www.biblegateway.com/passage/?search=Mark+16%3A1-2&version=NIV)[^22].
 
@@ -63,7 +63,7 @@ Most New Testament scholars accept these basic facts, which serve as the foundat
 
 **5. The Disciples Were Transformed**[^27]
 
-• **Radical Transformation of the Disciples:** The disciples rapidly transformed from frightened, hiding individuals into bold, martyred evangelists who preached the resurrection as their central theme across the Roman Empire. "When the day of Pentecost came, they were all together in one place... All of them were filled with the Holy Spirit and began to speak in other tongues" ([Acts 2:1-4](https://www.biblegateway.com/passage/?search=Acts+2%3A1-4&version=NIV)), Peter's boldness ([Acts 2:14-36](https://www.biblegateway.com/passage/?search=Acts+2%3A14-36&version=NIV))[^28].
+• **Radical Transformation of the Disciples:** The disciples rapidly transformed from frightened, hiding individuals into bold evangelists who preached the resurrection as their central theme across the Roman Empire. The martyrdoms of Peter, Paul, James son of Zebedee and James the brother of Jesus are well attested; those of most other apostles rest on later traditions of varying reliability. "When the day of Pentecost came, they were all together in one place... All of them were filled with the Holy Spirit and began to speak in other tongues" ([Acts 2:1-4](https://www.biblegateway.com/passage/?search=Acts+2%3A1-4&version=NIV)), Peter's boldness ([Acts 2:14-36](https://www.biblegateway.com/passage/?search=Acts+2%3A14-36&version=NIV))[^28].
 
 • **Willingness to Die:** The disciples' willingness to face torture and execution for their claims is difficult to explain unless they genuinely believed Jesus rose, as no one willingly dies for a known lie[^29]. Stephen's martyrdom ([Acts 7:54-60](https://www.biblegateway.com/passage/?search=Acts+7%3A54-60&version=NIV)), James killed by Herod ([Acts 12:1-2](https://www.biblegateway.com/passage/?search=Acts+12%3A1-2&version=NIV))[^30].
 
@@ -85,17 +85,17 @@ The credibility of the claim of over 500 witnesses in [1 Corinthians 15:6](https
 
 The resurrection belief immediately led to a paradigm shift that challenged Roman and Jewish authorities. Christianity grew exponentially, leading to persecution[^37]:
 
-• **Nero's Persecution:** Christianity became unofficially banned and Christians were persecuted, blamed for tragedies (like the Great Fire of Rome in 64 AD), and hunted for centuries. Emperors like Nero were attributed as the first to initiate state-sponsored terror against Christians[^38].
+• **Nero's Persecution:** Nero blamed Christians for the Great Fire of Rome in 64 AD and had many executed, the first recorded state persecution. For the next two centuries Christianity had no legal standing and persecution was frequent but local and sporadic, until Decius ordered the first empire-wide persecution in 250 AD[^38].
 
 • **Diocletian's Persecution:** The most widespread and severe persecution occurred under Emperor Diocletian in the early 4th century, beginning in 303 AD, involving the destruction of churches, confiscation of scriptures, torture, and executions of Christians[^39].
 
-• **Edict of Toleration:** The persecution officially ended in 311 AD with the Edict of Toleration issued by Galerius, granting Christians the right to practice their religion[^40].
+• **Edict of Toleration:** Galerius's Edict of Toleration in 311 AD granted Christians the right to practise their religion. Maximinus Daia resumed persecution in the East, and it ended only after the agreement of Constantine and Licinius at Milan in 313[^40].
 
-• **State Religion:** Ultimately, Christianity became the state religion of the Roman Empire under Theodosius I in 380 AD, demonstrating its profound and enduring historical impact[^41].
+• **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^41].
 
 ### Alternative Theories and Their Problems
 
-Alternative theories attempt to explain the minimal historical facts without invoking a divine miracle. However, they all fail to account for the breadth of the historical evidence[^42]:
+Alternative theories attempt to explain the minimal historical facts without invoking a divine miracle. Christian historians argue that none accounts for the whole range of evidence; the replies below are theirs, and sceptical scholars contest several of them[^42]:
 
 **The Swoon Theory**
 
@@ -105,11 +105,11 @@ Alternative theories attempt to explain the minimal historical facts without inv
 
 - Roman executioners were experts in crucifixion and trained to verify death. Survival was highly unlikely[^43].
 
-- The spear thrust to the heart and lung area ([John 19:34](https://www.biblegateway.com/passage/?search=John+19%3A34&version=NIV)) would have been fatal, even if Jesus were still barely alive[^44].
+- The spear thrust into his side ([John 19:34](https://www.biblegateway.com/passage/?search=John+19%3A34&version=NIV)), probably into the chest cavity, would very likely have been fatal even if Jesus were still barely alive[^44].
 
-- Surviving the medical trauma of scourging and crucifixion is considered a medical impossibility by modern academic consensus[^45].
+- Survival after being taken down from a cross was not strictly impossible: Josephus records that one of three acquaintances he had taken down survived under a physician's care. But survival after a full crucifixion, scourging and the spear wound, followed by burial without treatment, is regarded as extremely improbable[^45].
 
-- A barely conscious Jesus would have had to move a multi-ton stone and overpower trained Roman guards[^46].
+- A barely conscious Jesus would have had to roll back a heavy blocking stone from inside the tomb and, on Matthew's account, get past a guard[^46].
 
 - A weakened, barely-alive Jesus would not have inspired the disciples to believe he was the conquering Lord of Life, but would have instead required a physician[^47].
 
@@ -119,11 +119,11 @@ Alternative theories attempt to explain the minimal historical facts without inv
 
 **Problems**:
 
-- Psychologists and scholars widely argue that genuine, shared (group) hallucinations of this magnitude and consistency are virtually impossible[^49].
+- Many scholars argue that hallucinations are individual experiences, so that the same experience shared by groups is very hard to explain this way. Sceptics reply that collective visionary experiences are reported elsewhere, and the question is disputed[^49].
 
 - The appearances happened consistently over a 40-day period, ending with the ascension, which contradicts the typical, short-lived nature of grief hallucinations[^50].
 
-- The theory fails to explain the empty tomb, a fact conceded by the earliest opponents of Christianity[^51].
+- The theory fails to explain the empty tomb, which the earliest recorded opponents did not dispute[^51].
 
 - The appearances transformed the lives of hostile skeptics like James (Jesus's brother, who denied him during his ministry) and Paul (Saul of Tarsus, a persecutor of the church), which hallucinations cannot account for[^52]. Paul would also need to have hallucinated years later[^53].
 
@@ -135,7 +135,7 @@ Alternative theories attempt to explain the minimal historical facts without inv
 
 - Disciples died for their claims, which is psychologically improbable if they knew the foundational claim was a lie[^55].
 
-- The tomb was guarded by Roman soldiers and sealed, making it highly difficult for a small group of terrified fishermen to break in and move the body[^56].
+- According to Matthew the tomb was sealed and guarded, making it highly difficult for a small group of frightened fishermen to break in and move the body; the guard is reported only by Matthew[^56].
 
 - The theory only explains the empty tomb; it cannot account for the multiple eyewitness appearances to Peter, the Twelve, the 500, James, and Paul[^57].
 
@@ -270,5 +270,5 @@ The historical evidence strongly supports the reality of Jesus's bodily resurrec
     "74. [Reference] Wikipedia. Golgotha. https://en.wikipedia.org/wiki/Golgotha",
     "75. [Reference] Wikipedia. Hebrew calendar. https://en.wikipedia.org/wiki/Hebrew_calendar"
   ],
-  lastUpdated: "11/20/2025",
+  lastUpdated: "17-09-2026",
 }

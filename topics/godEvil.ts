@@ -41,7 +41,7 @@ When examining cases where God acts as judge, several biblical principles apply:
 
 • **Temporal vs. Eternal:** Physical death is not the ultimate evil; separation from God for eternity (spiritual death) is far worse[^10]
 
-• **Protection of the Innocent:** In His perfect knowledge and nature as the Judge of all the earth, God ensures that innocent children who die go to His presence[^11]
+• **Protection of the Innocent:** Many theologians hold that, as the Judge of all the earth, God receives into His presence children who die before they can believe, though Scripture does not state this directly[^11]
 
 ### God's Character Revealed
 Rather than showing God to be evil, these biblical accounts reveal His perfect character:
@@ -72,7 +72,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Violence and lawlessness:** The earth was completely corrupted not only religiously but socially, being "filled with violence" ([Genesis 6:11](https://www.biblegateway.com/passage/?search=Genesis+6:11&version=NIV))[^20].
 
-      • **120-year warning period:** God patiently gave humanity 120 years to repent while Noah built the ark and preached righteousness ([2 Peter 2:5](https://www.biblegateway.com/passage/?search=2+Peter+2:5&version=NIV)), showing reluctance to judge[^21].
+      • **Warning period:** Genesis 6:3 sets a limit of 120 years, which many interpreters read as a period of grace before the flood (others read it as a limit on human lifespan), and 2 Peter 2:5 calls Noah "a preacher of righteousness" ([2 Peter 2:5](https://www.biblegateway.com/passage/?search=2+Peter+2:5&version=NIV)), showing reluctance to judge[^21].
 
       • **Preservation of the righteous:** Noah and his family were spared because of their righteousness, demonstrating God's selective mercy amidst judgment[^22].
 
@@ -108,9 +108,9 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Progressive warnings:** Nine increasingly severe plagues gave Pharaoh multiple opportunities to repent, demonstrating God's patience[^31].
 
-      • **Judgment on false gods:** Each plague targeted specific Egyptian deities (e.g., the Nile god Hapi, the frog goddess Heqet), proving their powerlessness and demonstrating Yahweh’s supremacy to both Egyptians and Israelites[^32].
+      • **Judgment on false gods:** Exodus 12:12 presents the plagues as judgment "on all the gods of Egypt". Interpreters often link individual plagues to particular deities (e.g., the Nile god Hapi, the frog goddess Heqet), though the text names none and the one-to-one pairings are conjectural. The plagues demonstrate the gods' powerlessness and demonstrating Yahweh’s supremacy to both Egyptians and Israelites[^32].
 
-      • **Protection available:** Israelites and believing Egyptians who applied the Passover blood were protected ([Exodus 12:13](https://www.biblegateway.com/passage/?search=Exodus+12:13&version=NIV)), making the judgment conditional based on faith[^33].
+      • **Protection available:** Households marked with the Passover blood were passed over ([Exodus 12:13](https://www.biblegateway.com/passage/?search=Exodus+12:13&version=NIV)). The text does not say whether Egyptians took part, but a "mixed multitude" left with Israel, and interpreters take the sign to have been open to any who obeyed[^33].
 
       • **Liberation purpose:** The entire process was aimed at freeing an enslaved people from genocidal oppression, making it an act of justice for the oppressed[^34].
 
@@ -127,11 +127,11 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **400 years of patience:** God waited 400 years (from Abraham to Moses) for Canaanite repentance before their judgment was carried out, showing profound forbearance ([Genesis 15:16](https://www.biblegateway.com/passage/?search=Genesis+15:16&version=NIV)).
 
-      • **Extreme abominations:** The judgment was delivered due to rampant, entrenched wickedness, specifically cited as child sacrifice, temple prostitution, and bestiality ([Leviticus 18:21-30](https://www.biblegateway.com/passage/?search=Leviticus+18:21-30&version=NIV)).
+      • **Extreme abominations:** The judgment was delivered due to rampant, entrenched wickedness, specifically cited as child sacrifice, incest and bestiality ([Leviticus 18:21-30](https://www.biblegateway.com/passage/?search=Leviticus+18:21-30&version=NIV)). The older claim that Canaanite religion centred on "temple prostitution" is now widely doubted by historians of the ancient Near East.
 
-      • **Hyperbolic language:** The command to "destroy completely" (*herem*) is understood in ancient Near Eastern military context as rhetorical language signifying a decisive, complete victory and removal, rather than literal biological genocide[^37].
+      • **Hyperbolic language:** Scholars such as Nicholas Wolterstorff, Paul Copan and Matthew Flannagan argue that the command to "destroy completely" (*herem*) belongs to ancient Near Eastern conquest rhetoric, in which total annihilation language describes decisive victory, pointing out that Joshua reports peoples destroyed who reappear in Judges. Critics reply that texts such as 1 Samuel 15 describe killing non-combatants explicitly, so the hyperbole reading does not remove the difficulty entirely[^37].
 
-      • **Archaeological Context:** Archaeological evidence suggests key cities like Jericho were small, heavily fortified garrisons at the time, not vast, highly populated metropolitan centers, limiting the scope of destruction to military targets[^38].
+      • **Archaeological Context:** Some apologists argue that sites like Jericho and Ai were small fortified strongholds rather than large civilian cities. The archaeology is disputed: Kathleen Kenyon found little occupation at Jericho in the Late Bronze Age, while Bryant Wood argues for a destruction around 1400 BC, so the point depends on unresolved questions of dating[^38].
 
       • **Survivors evidence:** The repeated reappearance of Canaanites throughout the book of Judges and later history confirms the conquest was territorial and political, not total ethnic extermination[^39].
 
@@ -140,7 +140,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       **Treatment of Captives and Women:**
 
-      • **Law of the Captive Wife:** In non-*herem* wars, the Law explicitly allowed taking non-Canaanite women as wives, but required a mandatory month-long waiting period for mourning, ritual cleansing (shaving head, paring nails), and the removal of her captive clothes before marriage. This process legally protected the woman from immediate sexual exploitation and forced the man to treat her as a wife, not a mere sex object ([Deuteronomy 20:14](https://www.biblegateway.com/passage/?search=Deuteronomy+20:14&version=NIV)).
+      • **Law of the Captive Wife:** In non-*herem* wars, the Law allowed taking non-Canaanite women as wives, but required a month-long period of mourning, rites of transition (shaving the head, paring the nails), and the removal of her captive clothes before marriage, and forbade selling her if she was later divorced ([Deuteronomy 21:10-14](https://www.biblegateway.com/passage/?search=Deuteronomy+21:10-14&version=NIV)). Defenders read this as protection from immediate sexual exploitation; critics note that the woman's consent is never mentioned.
 
       • **Jesus's Moral Standard:** This regulation should be viewed in light of Jesus's moral teaching, which condemned the internal sin of lust itself, stating that to look at a woman with lustful intent is already adultery in the heart ([Matthew 5:28](https://www.biblegateway.com/passage/?search=Matthew+5:28&version=NIV)). Jesus affirmed an ultimate standard of holiness that transcended the legal minimums of the Old Testament[^40].`
     },
@@ -157,11 +157,11 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Unprovoked aggression:** The Amalekites were judged for their treacherous act of attacking the Israelites at Rephidim when they were weak and weary, specifically targeting the vulnerable at the rear of the camp ([Exodus 17:8-16](https://www.biblegateway.com/passage/?search=Exodus+17:8-16&version=NIV), [Deuteronomy 25:17-18](https://www.biblegateway.com/passage/?search=Deuteronomy+25:17-18&version=NIV)).
 
-      • **Genocidal intent:** The Amalekites were not merely military opponents but were dedicated to the complete annihilation of Israel as a whole, making God's command an act of national defense for His chosen people[^43].
+      • **Repeated hostility:** The Amalekites appear throughout the narrative as raiders attacking Israel (Judges 3:13, 6:3-5; 1 Samuel 30), and defenders present the command as ending a long-standing threat rather than as an unprovoked war[^43].
 
       • **Proportional judgment:** King Agag was singled out by Samuel for his cruelty, being judged because his "sword has made women childless" ([1 Samuel 15:33](https://www.biblegateway.com/passage/?search=1+Samuel+15:33&version=NIV)), showing the judgment was a just retribution for their wickedness[^44].
 
-      • **Future consequences:** Saul's failure to completely execute the judgment led to the rise of Haman the Agagite, who later attempted to carry out a true genocide against the Jewish people in the book of Esther ([Esther 3:1](https://www.biblegateway.com/passage/?search=Esther+3:1&version=NIV)).`
+      • **Later echo:** Jewish tradition identifies Haman "the Agagite", who attempted genocide against the Jews in Esther, as a descendant of Agag, linking Saul's failure to that later threat ([Esther 3:1](https://www.biblegateway.com/passage/?search=Esther+3:1&version=NIV)).`
     },
     {
       id: "individual-judgments",
@@ -198,15 +198,15 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       **Elisha and the Bears ([2 Kings 2:23-24](https://www.biblegateway.com/passage/?search=2+Kings+2:23-24&version=NIV)):**
 
-      • **Not innocent children:** The Hebrew word used (*na'ar*) refers to young men, not little children. This was a large, hostile gang of youths (over 42) threatening God's prophet[^51].
+      • **Not necessarily small children:** The phrase is *ne'arim qetannim*, and *na'ar* covers ages from infancy to young adulthood; the same word describes Joseph at seventeen and soldiers in battle. The account describes a crowd from which forty-two were mauled, and most commentators take them as youths rather than little children, though the text does not settle their age[^51].
 
-      • **Serious threat:** Their mockery "Go up, you baldhead!" was a rejection of Elisha's authority and a physical threat, telling him to "go up" (ascend/leave) like Elijah did, effectively telling God's representative to drop dead[^52].
+      • **Serious contempt:** Their jeer "Go up, you baldhead!" is often read as mocking Elijah's ascent and rejecting Elisha as his successor, at Bethel, the centre of Jeroboam's calf worship. Whether it involved physical threat is not stated[^52].
 
       **The Midianite War ([Numbers 31](https://www.biblegateway.com/passage/?search=Numbers+31&version=NIV)):**
 
       • **Prior hostility:** The Midianites had just intentionally weaponized seduction to draw Israel into the Baal of Peor cult, resulting in a plague that killed 24,000 Israelites. The war was an act of national defense and divine justice against this destruction[^53].
 
-      • **Sparing the young women:** The command to spare the young virgin women was not for sexual slavery, but to integrate them into Israelite society under the strict, protective marriage laws of the Torah (which forbade rape and forced immediate marital rights)[^54].
+      • **Sparing the young women:** Defenders argue that the young women who were spared were absorbed into Israelite households under the regulations of Deuteronomy 21:10-14 rather than taken as sexual slaves. Critics reply that the women had no choice in the matter, and this remains one of the hardest texts in the Old Testament[^54].
 
       **David's Census and the Plague ([2 Samuel 24](https://www.biblegateway.com/passage/?search=2+Samuel+24&version=NIV)):**
 
@@ -242,7 +242,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Persecution of church:** This judgment followed his active persecution of the church, including executing James and planning to execute Peter ([Acts 12:1-4](https://www.biblegateway.com/passage/?search=Acts+12:1-4&version=NIV)), demonstrating God's defense of His people[^64].
 
-      • **Eaten by worms:** Struck down immediately by an angel, his gruesome death emphasized the seriousness of divine punishment for pride and blasphemy[^65].
+      • **Eaten by worms:** Acts says an angel struck him down and he was eaten by worms; Josephus independently records that Agrippa collapsed with violent abdominal pain after being hailed as a god in Caesarea and died five days later. Both present the death as a judgment on pride and blasphemy[^65].
 
 
       **Elymas the Sorcerer ([Acts 13:8-12](https://www.biblegateway.com/passage/?search=Acts+13:8-12&version=NIV)):**
@@ -275,7 +275,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Persistent warnings:** Jeremiah's prophetic ministry lasted approximately 40 years, characterized by constant warnings and calls to repentance that were consistently ignored by the people and leaders[^74].
 
-      • **Adopted Canaanite practices:** Judah was judged severely for adopting the same abominations the Canaanites were punished for, including child sacrifice and temple prostitution, demonstrating God's impartiality in matters of holiness[^75].
+      • **Adopted Canaanite practices:** Judah was judged severely for adopting the same abominations the Canaanites were punished for, including child sacrifice and idolatry, demonstrating God's impartiality in matters of holiness[^75].
 
       • **Mercy within judgment:** The exile was strictly limited to a 70-year period, accompanied by the promise of national restoration and return ([Jeremiah 29:10](https://www.biblegateway.com/passage/?search=Jeremiah+29:10&version=NIV))[^76].
 
