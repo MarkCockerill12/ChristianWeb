@@ -45,12 +45,12 @@ const BOOK_PATTERN = BOOKS.slice()
  * A bare chapter with no verse is deliberately not matched, because "Daniel 9"
  * and "Daniel 9 people" cannot be told apart without more context.
  */
-export const SCRIPTURE_REFERENCE = new RegExp(
+const SCRIPTURE_REFERENCE = new RegExp(
   String.raw`\b(${BOOK_PATTERN})\s+(\d{1,3})\s*(?::|\s+vv?\.?\s*)\s*(\d{1,3}(?:\s*[-–]\s*\d{1,3})?(?:\s*,\s*\d{1,3}(?:\s*[-–]\s*\d{1,3})?)*)`,
   "g",
 )
 
-export function bibleGatewayUrl(reference: string) {
+function bibleGatewayUrl(reference: string) {
   return `https://www.biblegateway.com/passage/?search=${encodeURIComponent(reference)}&version=NIV`
 }
 

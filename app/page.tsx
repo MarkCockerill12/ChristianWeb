@@ -8,6 +8,15 @@ import { UpdatesFeed, type UpdateItem } from "./updates-feed"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 7,
+    title: "Radiometric Dating & Hell Rewritten",
+    description:
+      "Evolution vs Creation now explains every major radiometric dating method, how reliable they are, whether the Flood could explain the dates, and the Christian and biblical responses. The Hell page has been rebuilt with new sections on punishment versus separation, how hell is separation from God when God is everywhere, degrees of punishment, fire imagery and the devil, and the justice of eternal punishment, all with new sources.",
+    date: "27/09/2026",
+    category: "Content & Accuracy",
+    link: "/categories/hell",
+  },
+  {
     id: 6,
     title: "Evolution vs Creation Rebuilt & Site Fact-Check",
     description:

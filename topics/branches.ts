@@ -1,20 +1,4 @@
-import {
-  BookOpen,
-  Clock,
-  Heart,
-  ExternalLink,
-  CheckCircle2,
-  Users,
-} from "lucide-react";
-
-export const iconMap = {
-  BookOpen,
-  Clock,
-  Heart,
-  ExternalLink,
-  CheckCircle2,
-  Users,
-} as const;
+import type { Topic } from "./types";
 
 export const branchBeliefs = [
   {
@@ -288,8 +272,6 @@ export const branchTimeline = [
     color: "red",
   },
 ];
-
-import type { Topic } from "./types";
 
 export const branches: Topic = {
   id: "branches",

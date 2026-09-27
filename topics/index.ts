@@ -30,13 +30,13 @@ import { trinity } from "./trinity"
 import { women } from "./women"
 import { prayer } from "./prayer"
 
-export type { Topic, TimelineEvent } from "./types"
+export type { Topic } from "./types"
 
 /**
  * The single registry of published topics. Adding a topic means adding it here
  * and nowhere else, since routing, the index page and the sitemap all read from this.
  */
-export const availableTopics: readonly Topic[] = [
+const availableTopics: readonly Topic[] = [
   archaeological,
   BAPTISM,
   BIBLE_BOOKS,
@@ -76,11 +76,4 @@ export function getAllTopics(): readonly Topic[] {
 
 export function getTopicById(id: string): Topic | undefined {
   return topicsById.get(id)
-}
-
-export function getTopicsByTag(tag: string): Topic[] {
-  const needle = tag.toLowerCase()
-  return availableTopics.filter((topic) =>
-    topic.tags.some((t) => t.toLowerCase().includes(needle)),
-  )
 }

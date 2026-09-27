@@ -507,7 +507,7 @@ The argument is widely quoted and its limits are rarely quoted with it.
 
 <div style="text-align: center;">
 ## Cross-Reference Chart of Messianic Prophecies
-<img width="65%" height="auto" src="/ref.png" alt="Biblical Cross References" style="display: block; margin: 0 auto;" />
+<img width="65%" height="auto" loading="lazy" decoding="async" src="/ref.png" alt="Biblical Cross References" style="display: block; margin: 0 auto;" />
 The chart maps citation links between the Hebrew Scriptures and the New Testament.
 
 </div>

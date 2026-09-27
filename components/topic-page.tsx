@@ -396,5 +396,3 @@ export function TopicPage({
     </div>
   )
 }
-
-export { useExpandOnBrowserFind }
