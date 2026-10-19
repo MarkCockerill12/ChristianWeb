@@ -8,6 +8,15 @@ import { UpdatesFeed, type UpdateItem } from "./updates-feed"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 8,
+    title: "New Topic: Bible Translations",
+    description:
+      "A new page on English Bible translations: the Hebrew and Greek manuscripts behind them, word-for-word versus thought-for-thought translation, the history and accuracy of the KJV, NKJV, NASB, ESV, NIV, CSB, NLT, The Message and Catholic and Orthodox Bibles, why some verses are bracketed in modern versions, sectarian versions such as the New World Translation, and the King James Only debate.",
+    date: "19/10/2026",
+    category: "New Topic",
+    link: "/categories/bible-translations",
+  },
+  {
     id: 7,
     title: "Radiometric Dating & Hell Rewritten",
     description:

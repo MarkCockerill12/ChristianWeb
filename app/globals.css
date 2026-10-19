@@ -177,6 +177,41 @@ body {
     color: #45556c;
     font-style: italic;
   }
+
+  /* Wide comparison tables scroll sideways on phones instead of the page. */
+  .topic-prose .topic-table-wrap {
+    margin-block: 1.5rem;
+    overflow-x: auto;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.5rem;
+  }
+
+  .topic-prose .topic-table {
+    width: 100%;
+    min-width: 40rem;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: #1e2939;
+  }
+
+  .topic-prose .topic-table th,
+  .topic-prose .topic-table td {
+    padding: 0.5rem 0.75rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .topic-prose .topic-table th {
+    background: #f8fafc;
+    font-weight: 600;
+    color: #101828;
+  }
+
+  .topic-prose .topic-table tbody tr:last-child td {
+    border-bottom: 0;
+  }
 }
 
 @layer utilities {

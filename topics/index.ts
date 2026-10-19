@@ -3,6 +3,7 @@ import type { Topic } from "./types"
 import { archaeological } from "./archaeological"
 import { BAPTISM } from "./baptism"
 import { BIBLE_BOOKS } from "./bible-books"
+import { BIBLE_TRANSLATIONS } from "./bible-translations"
 import { branches } from "./branches"
 import { canon } from "./canon"
 import { contradictions } from "./contradictions"
@@ -40,6 +41,7 @@ const availableTopics: readonly Topic[] = [
   archaeological,
   BAPTISM,
   BIBLE_BOOKS,
+  BIBLE_TRANSLATIONS,
   branches,
   canon,
   contradictions,
