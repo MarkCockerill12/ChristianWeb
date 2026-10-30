@@ -54,8 +54,8 @@ export function Figure({ image, className }: { readonly image: ImageCredit; read
   )
 }
 
-export function Gallery({ images, columns = 3 }: { readonly images: readonly ImageCredit[]; readonly columns?: 2 | 3 | 4 }) {
-  const cols = { 2: "sm:grid-cols-2", 3: "sm:grid-cols-2 lg:grid-cols-3", 4: "sm:grid-cols-2 lg:grid-cols-4" }[columns]
+export function Gallery({ images, columns = 3 }: { readonly images: readonly ImageCredit[]; readonly columns?: 1 | 2 | 3 | 4 }) {
+  const cols = { 1: "", 2: "sm:grid-cols-2", 3: "sm:grid-cols-2 lg:grid-cols-3", 4: "sm:grid-cols-2 lg:grid-cols-4" }[columns]
   return (
     <div className={cn("grid grid-cols-1 gap-4 items-start", cols)}>
       {images.map((img) => (

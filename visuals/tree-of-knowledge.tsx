@@ -93,29 +93,19 @@ function Parallels() {
 
 function Art() {
   return (
-    <VisualCard title="The Fall in art" subtitle="Two of the best-known Renaissance treatments of Genesis 3.">
+    <VisualCard title="The Fall in art" subtitle="Thomas Cole painted the loss of Eden as a change in the land itself, the companion to his painting of the garden.">
       <Gallery
-        columns={2}
+        columns={1}
         images={[
           {
-            src: "/images/tree-of-knowledge/cranach-adam-eve.jpg",
-            width: 800,
-            height: 1205,
-            alt: "Painting of Adam and Eve beneath the tree with the serpent",
-            caption: "Lucas Cranach the Elder, *Adam and Eve* (1526), Courtauld Gallery, London.",
-            credit: "Lucas Cranach the Elder",
+            src: "/images/tree-of-knowledge/cole-expulsion.jpg",
+            width: 1200,
+            height: 867,
+            alt: "A storm-lit landscape of crags and waterfalls, with light falling from the gate of Eden",
+            caption: "Thomas Cole, *Expulsion from the Garden of Eden* (1828), Museum of Fine Arts, Boston.",
+            credit: "Thomas Cole",
             license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Adam_und_Eva_(Courtauld_Institute_of_Art).jpg",
-          },
-          {
-            src: "/images/tree-of-knowledge/michelangelo-fall.jpg",
-            width: 1000,
-            height: 438,
-            alt: "Fresco showing the temptation on the left and the expulsion on the right",
-            caption: "Michelangelo, *The Fall and Expulsion from the Garden of Eden* (c. 1509-10), Sistine Chapel ceiling: the temptation on the left, the expulsion on the right.",
-            credit: "Michelangelo",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Michelangelo,_Fall_and_Expulsion_from_Garden_of_Eden_00.jpg",
+            sourceUrl: "https://commons.wikimedia.org/wiki/File:Cole_Thomas_Expulsion_from_the_Garden_of_Eden_1828.jpg",
           },
         ]}
       />
