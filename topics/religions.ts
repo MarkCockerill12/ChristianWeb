@@ -46,7 +46,7 @@ With thousands of religions and belief systems throughout history[^1] why should
     {
       id: "those-who-never-heard",
       title: "What About Those Who Never Heard?",
-      tags: ["Salvation"],
+      tags: ["Objections"],
       content: `
 **The objection.** If salvation comes through Christ alone, what of the billions who never heard of him, or who lived before him? Condemning them seems unjust.
 
