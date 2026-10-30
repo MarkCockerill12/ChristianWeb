@@ -2,6 +2,7 @@ import { notFound } from "next/navigation"
 import type { Metadata } from "next"
 
 import { getTopicById, getAllTopics } from "@/topics"
+import type { Topic } from "@/topics/types"
 import { TopicPage } from "@/components/topic-page"
 import { Timeline } from "@/components/timeline"
 import BranchesPageClient from "./branches-page-client"
@@ -32,6 +33,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       description: topic.description,
       type: "article",
       url: `/categories/${topic.id}`,
+      images: topic.hero ? [{ url: topic.hero.src, alt: topic.hero.alt }] : undefined,
     },
   }
 }
@@ -118,14 +120,41 @@ const TIMELINE_COPY: Record<string, { title: string; description: string; discla
   },
 }
 
+/** Article data for search engines, from the same fields the page shows. */
+function articleJsonLd(topic: Topic) {
+  const [day, month, year] = topic.lastUpdated.split(/[-/]/)
+  return {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: topic.title,
+    description: topic.description,
+    image: topic.hero?.src,
+    dateModified: year && month && day ? `${year}-${month}-${day}` : undefined,
+    isPartOf: { "@type": "WebSite", name: "Cross Examination" },
+  }
+}
+
 export default async function CategoryPage({ params }: PageProps) {
   const { slug } = await params
   const baseCategory = getTopicById(slug)
 
   if (!baseCategory) notFound()
 
+  // The topic text contains no "<" that matters here, but the escape keeps the tag closed regardless.
+  const jsonLd = (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd(baseCategory)).replace(/</g, "\\u003c") }}
+    />
+  )
+
   if (baseCategory.id === "branches") {
-    return <BranchesPageClient category={baseCategory} />
+    return (
+      <>
+        {jsonLd}
+        <BranchesPageClient category={baseCategory} />
+      </>
+    )
   }
 
   // Inject the specialised canon timeline
@@ -144,5 +173,10 @@ export default async function CategoryPage({ params }: PageProps) {
       />
     ) : null
 
-  return <TopicPage category={category} beforeSubtopics={timeline} />
+  return (
+    <>
+      {jsonLd}
+      <TopicPage category={category} beforeSubtopics={timeline} />
+    </>
+  )
 }

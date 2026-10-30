@@ -208,6 +208,8 @@ Peter Harrison has pressed a further and more specific version of the argument: 
 **Where the argument should stop.** The claim that Christianity is a sufficient cause of modern science, or that no other civilisation could have produced it, goes past the evidence. Greek natural philosophy, Islamic mathematics, astronomy and optics, and Chinese technical achievement all did real work, and much of the medieval Latin recovery of Aristotle came through Arabic translation and commentary. The defensible claim is narrower and still substantial: Christian doctrine made a set of assumptions available and normal that the scientific enterprise turned out to need[^27][^28].
 
 The assumptions have not gone away, and none of them has a scientific proof. That nature will continue to behave tomorrow as it did today is the problem of induction, unresolved since Hume, and it is presupposed by every experiment ever run[^29].
+
+**See also:** [Fine Tuning](/categories/fine-tuning).
 `
     },
     {
@@ -233,6 +235,8 @@ Their arts faculties made Aristotle's natural philosophy compulsory reading for 
 *   **Nicole Oresme** (c. 1320 to 1382), Bishop of Lisieux, gave the mean speed theorem a geometric proof using what amount to velocity-time graphs, two centuries before analytic geometry, and argued that the daily rotation of the earth could not be ruled out by any available observation[^47][^48].
 
 That is the body of work Galileo inherited. The kinematics of falling bodies did not begin in 1600; it began in fourteenth-century Church-funded colleges and was carried forward by men in holy orders[^49].
+
+**See also:** [Schools, Literacy and Language (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-education).
 `
     },
     {
@@ -277,6 +281,8 @@ The list below is not offered as an argument that Christianity is true. Many abl
 **Louis Pasteur** (1822 to 1895) established germ theory, developed vaccination against rabies and anthrax, and remained a practising Catholic[^79].
 
 The pattern extends much further than one section can hold, through Bernhard Riemann, Augustin-Louis Cauchy, Nicholas of Cusa, Andreas Vesalius and a great many others[^80][^81][^82]. What it does not show is that faith produced the discoveries. What it shows is that for most of the history of modern science, being a believing Christian was the ordinary condition of the people doing the work[^83].
+
+**See also:** [Schools, Literacy and Language (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-education).
 `
     },
     {
@@ -355,6 +361,8 @@ The details still matter, because the popular version gets most of them wrong.
 **What actually happened to him.** Galileo was never tortured and never held in a dungeon. He was lodged in the Tuscan embassy and in the Holy Office's apartments during proceedings, then confined to the villa at Arcetri, where he completed the *Discourses on Two New Sciences*, the work that founded the modern science of materials and motion. He died in 1642 a professed Catholic, and his daughter Maria Celeste was a nun[^120].
 
 **And it stayed wrong for a long time.** The condemnation was not formally set aside until the nineteenth century, and John Paul II only closed the matter in 1992, acknowledging that Galileo's theologian-critics had failed to distinguish the interpretation of Scripture from a question of physics. Three and a half centuries is a poor showing, and saying so costs the Christian case nothing[^121].
+
+**See also:** [The Firmament, a Flat Earth and Ancient Cosmology (Evolution vs Creation)](/categories/evolution#section-ancient-cosmology).
 `
     },
     {
@@ -378,6 +386,8 @@ The second episode carrying the whole weight of the warfare story is the America
 **Kitzmiller v. Dover, 2005.** A federal district court held that requiring a statement on intelligent design in Dover's biology classes was unconstitutional, finding that intelligent design is not science, that it cannot be separated from its creationist antecedents, and that some board members had lied under oath about their motives. Judge Jones, appointed by a Republican president and a churchgoer himself, wrote a 139-page opinion reviewing the trial evidence in detail[^128][^129].
 
 **How much this settles.** Legally, a great deal; theologically, almost nothing. A court ruling about what may be taught in a public school in Pennsylvania is a judgment about a curriculum and an establishment clause, not about whether God made the world. An argument for design failing in court leaves the doctrine of creation exactly where it was, and the reverse would have been true as well[^130].
+
+**See also:** [Arguments Against Evolution: Which Hold and Which Do Not (Evolution vs Creation)](/categories/evolution#section-objections-to-evolution).
 `
     },
     {
@@ -398,6 +408,8 @@ A Christian can hold the working rule without difficulty, and has a reason to ho
 **Against the God of the gaps.** The bad habit is to locate God in whatever science has not yet explained, which makes faith a hostage to the next result and has been steadily losing ground for three centuries. Bonhoeffer put the alternative sharply in a letter from prison in 1944: we should find God in what we do know, not in what we do not know. The Christian claim is about the ground of the whole intelligible order, not about the residue[^136].
 
 **Where the real disagreement sits.** Alvin Plantinga's argument is that there is superficial conflict but deep concord between science and theistic religion, and superficial concord but deep conflict between science and naturalism. Whether or not his full case succeeds, the location of the dispute is right. Nineteenth-century materialism and positivism were philosophical programmes that claimed scientific authority, and it is those programmes, not the practice of science, that Christian theology is actually arguing with[^137][^138][^139].
+
+**See also:** [The Main Christian Views on Origins (Evolution vs Creation)](/categories/evolution#section-views-on-origins).
 `
     },
     {
@@ -418,6 +430,8 @@ Several classes of question lie outside the method rather than merely unanswered
 Where the boundary of science falls is itself a live philosophical question, the demarcation problem, and it has no agreed solution. Stephen Jay Gould's proposal of non-overlapping magisteria, with science taking the empirical realm and religion the moral one, is one attempt at a settlement, and it is unsatisfactory from both ends: Christianity makes historical claims that are not confined to the moral realm, and scientists routinely make pronouncements about meaning and value[^149][^150][^151].
 
 The Christian position is not that science has limits and God lives in them. It is that the intelligibility of the universe, the applicability of mathematics to it, and the existence of minds capable of following the argument are the sort of thing that calls for explanation, and that the explanation on offer is neither a rival to physics nor a substitute for doing it properly[^152].
+
+**See also:** [Is Belief in God Reasonable?](/categories/is-belief-reasonable).
 `
     },
   ],

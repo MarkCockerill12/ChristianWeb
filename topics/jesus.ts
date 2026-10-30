@@ -65,6 +65,8 @@ Son of Man (Divine Messianic Title):
 Alpha and Omega:
 • [**Revelation 22:13**](https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=NIV) - Jesus declares: "I am the Alpha and the Omega, the First and the Last, the Beginning and the End"[^12].
 • [**Revelation 1:17-18**](https://www.biblegateway.com/passage/?search=Revelation+1%3A17-18&version=NIV) - "I am the First and the Last. I am the Living One; I was dead, and now look, I am alive for ever and ever!"[^13].
+
+**See also:** [Prophet Like Moses (Prophecy)](/categories/prophecy#section-prophet-like-moses).
 `,
     },
     {
@@ -186,6 +188,8 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
 **Ignatius of Antioch** (c. 108 AD) - Letter to the Smyrnaeans 1: "I glorify Jesus Christ, the God who has thus made you wise", and goes on to describe Him as "of the seed of David according to the flesh, but Son of God according to the will and power of God"[^41].
 
 <?viz jesus/early-christology?>
+
+**See also:** [Archaeological Confirmations of Biblical Figures (Archaeology)](/categories/archaeological#section-biblical-figures).
 `,
     },
     {
@@ -208,6 +212,8 @@ Whether he existed is therefore the easy question. The difficult one is who he w
 **The objection.** Jesus preached the kingdom of God, and Paul turned him into a divine saviour, so what Christians believe is Paul's religion. Scholars have long discussed how far Paul's teaching and the earliest church differed[^43].
 
 **The evidence.** Paul's earliest letters quote material that was already fixed before him. The creed in 1 Corinthians 15:3-7 has Jesus dying for sins and rising, and it dates from within a few years of the cross. Paul also quotes the Aramaic prayer *Maranatha*, "Our Lord, come" (1 Corinthians 16:22), which shows Aramaic-speaking believers praying to Jesus before Paul was writing to Greek speakers. Peter and James, who knew Jesus, gave Paul "the right hand of fellowship" (Galatians 2:9), and Paul says that he and they preached the same message (1 Corinthians 15:11). They disagreed over how Gentiles should be treated (Galatians 2:11), and no record shows any of them disputing who Jesus was. The Gospels also have Jesus himself forgiving sins and claiming authority that belongs to God, as set out above.
+
+**See also:** [Common Objections to Christianity (Islam)](/categories/islam#section-muslim-objections).
 `,
     },
     {
@@ -221,7 +227,11 @@ Whether he existed is therefore the easy question. The difficult one is who he w
 
 **Christians differ on how it works.** Scripture uses several pictures of the cross: a sacrifice, a ransom, a victory over evil, and a substitution. Penal substitution, held by the Reformers and by many evangelicals, is one account, while the Orthodox tradition stresses Christ's victory over death, and Anselm stressed satisfaction of God's honour. All of them agree that Christ's death does what no one else could do.
 
+**Why blood at all?** Critics ask why a loving God needs blood before he can forgive. In the Old Testament "the life of a creature is in the blood" (Leviticus 17:11, with דָּם, *dam*, "blood"), so blood stands for a life given up, and it shows that sin has a real cost. God is not being appeased by gore: the prophets say that he has no pleasure in sacrifices without justice (Micah 6:6-8), and Hebrews says that "it is impossible for the blood of bulls and goats to take away sins" (Hebrews 10:4). The sacrifices pointed forward to one life freely given (Hebrews 9:22-26).
+
 **What remains.** How one person's death can deal with others' guilt is a real question. A courtroom picture only goes so far, since guilt is not usually transferable in human law. Christians answer that believers are united with Christ (Romans 6:5), so that the exchange is not a stranger's. Critics may find this insufficient, and it is a question to be argued on these terms and not on the caricature.
+
+**See also:** ["He Sacrificed Himself to Himself" (Heresies and Fallacies)](/categories/heresies-and-fallacies#section-the-popular-joke), [Is It Fair to Inherit Adam's Sin? (The Tree of Knowledge)](/categories/tree-of-knowledge#section-is-original-sin-fair).
 `,
     },
     {
@@ -249,6 +259,8 @@ Whether he existed is therefore the easy question. The difficult one is who he w
 [**Matthew 24:36**](https://www.biblegateway.com/passage/?search=Matthew+24%3A36&version=NIV) - "But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father."
 • **The Objection:** If Jesus is God, He must be omniscient. If He doesn't know the time of His return, He isn't God.
 • **The Answer:** This speaks to the Hypostatic Union. In His human nature, Jesus grew in wisdom ([Luke 2:52](https://www.biblegateway.com/passage/?search=Luke+2%3A52&version=NIV)) and voluntarily restricted the independent use of His divine attributes. He knew what the Father revealed to His human consciousness. Thus, in His humanity, He did not know the hour, while in His divine nature, He remains omniscient.
+
+**See also:** [Common Objections Answered (The Trinity)](/categories/trinity#section-objections), [John 14:28 vs Philippians 2:6 / John 5:18 / John 10:30 - the Father is greater than Jesus vs Jesus is equal with God (Contradictions)](/categories/contradictions#section-FatherGreater).
 `,
     },
     {
@@ -262,6 +274,8 @@ Whether he existed is therefore the easy question. The difficult one is who he w
 Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^45].
 
 <?viz jesus/trilemma?>
+
+**See also:** [The Resurrection](/categories/resurrection).
 `,
     },
   ],

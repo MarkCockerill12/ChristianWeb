@@ -30,6 +30,8 @@ Sceptics often claim that miracles conveniently stopped happening once cameras a
 A miracle, on the classical Christian account, is not a breach of reason but an event brought about by God that nature on its own would not produce. C. S. Lewis compared it to money in a drawer: if I put a pound in a drawer one night and another the next, and find only one pound on the third, the laws of arithmetic have not been broken, but something from outside the system has acted on it. Regular natural laws are what allow a miracle to be recognised as one[^4][^5].
 
 David Hume's objection in *Of Miracles* (1748) is that testimony to a miracle can never outweigh the uniform experience on which our knowledge of natural law rests. Critics of Hume, including many who are not believers, argue that this assumes the answer in advance, and the debate over how much evidence a miracle claim requires remains live in philosophy[^6][^7].
+
+**See also:** [NASA and the Bible](/categories/nasa).
 `,
     },
     {
@@ -169,7 +171,10 @@ Critics answer that a small number of unexplained recoveries among millions of p
 
 **Religion and health research:** A separate body of research, associated especially with Harold Koenig of Duke University, finds that religious involvement correlates with better mental health, lower mortality and healthier behaviour, and Benson's earlier work described the physiological "relaxation response" produced by repetitive prayer and meditation. These findings concern ordinary natural effects of religious practice, not miracles, and neither supports nor refutes miraculous healing[^46][^47].
 
-**What the trials can and cannot test:** Christian theologians point out that prayer is a request to a personal God rather than a treatment whose dose can be measured, and that Scripture itself records unanswered prayer for healing (2 Corinthians 12:8-9). Critics reply that a God who heals in response to prayer ought to leave some statistical trace. Both points bear on how far experiments can settle the question[^48].`
+**What the trials can and cannot test:** Christian theologians point out that prayer is a request to a personal God rather than a treatment whose dose can be measured, and that Scripture itself records unanswered prayer for healing (2 Corinthians 12:8-9). Critics reply that a God who heals in response to prayer ought to leave some statistical trace. Both points bear on how far experiments can settle the question[^48].
+
+**See also:** [Why Does God Not Answer Prayer? (Prayer)](/categories/prayer#section-unanswered-prayer).
+`
     },
     {
       id: "assessing-the-evidence",
@@ -181,6 +186,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
 
 **The standard of evidence:** The strongest cases are those investigated by people with no stake in the outcome, with medical records from before the event. Testimony alone, however sincere, and stories that acquire details in retelling, are weak evidence, and repeating embellished versions damages the credibility of the genuine cases. Believers also hold that God's willingness to heal does not depend on whether a particular healing can be verified to a sceptic's satisfaction[^52][^53].
 
+**See also:** [The Resurrection](/categories/resurrection).
 `
     },
     {
@@ -197,7 +203,10 @@ Critics answer that a small number of unexplained recoveries among millions of p
 - James instructs the sick to call the elders of the church to pray over them and anoint them with oil (James 5:14-15).
 - Mark 16:17-18 lists signs that will accompany believers, including healing the sick. These verses belong to the longer ending of Mark, which is absent from the earliest complete manuscripts, and most scholars regard it as a later addition, so doctrine is not usually built on it alone[^56].
 
-**Not every prayer is answered with healing:** Paul left Trophimus sick at Miletus (2 Timothy 4:20), advised Timothy to take wine for his frequent illnesses (1 Timothy 5:23), and was refused the removal of his own "thorn in the flesh" (2 Corinthians 12:7-9).`
+**Not every prayer is answered with healing:** Paul left Trophimus sick at Miletus (2 Timothy 4:20), advised Timothy to take wine for his frequent illnesses (1 Timothy 5:23), and was refused the removal of his own "thorn in the flesh" (2 Corinthians 12:7-9).
+
+**See also:** [Divine Prerogatives Claimed by Jesus (Jesus' Claims)](/categories/jesus#section-divine-prerogatives).
+`
     },
     {
       id: "extraordinary-claims",

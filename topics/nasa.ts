@@ -40,6 +40,8 @@ The serious research is different. Cambridge physicists Colin Humphreys and Grae
 *   **The chronological payoff.** If correct, it fixes an absolute date in the period, with implications for Egyptian chronology and the reign of Merneptah[^7].
 
 The reading depends on a non-standard translation that many Hebraists do not accept, and it requires a particular Exodus chronology. It is a serious peer-reviewed proposal rather than a settled result, and it reinterprets the miracle rather than confirming the traditional reading of it[^8][^9].
+
+**See also:** [Old Testament Archaeological Evidence (Archaeology)](/categories/archaeological#section-old-testament).
 `
     },
     {
@@ -57,6 +59,8 @@ Carl Drews and Weiqing Han published a study in *PLOS ONE* in 2010, with co-auth
 *   **The return.** When the wind drops, water returns rapidly as a bore wave, consistent with the account of the pursuing force being overwhelmed[^13].
 
 The authors modelled a site in the eastern Nile Delta rather than the modern Red Sea, and were explicit that the study demonstrates physical plausibility rather than proving the event occurred. The location of the crossing remains disputed, and a 63 mph wind blowing all night is itself an extreme condition[^14][^15]. Scripture itself attributes the parting to God driving the sea back "with a strong east wind", so a natural mechanism does not reduce the event to chance: on the biblical account the miracle lies in God commanding the wind at the moment Israel needed it, as it does in other providential deliverances.
+
+**See also:** [Is There Evidence for the Exodus? (Archaeology)](/categories/archaeological#section-exodus-evidence).
 `
     },
     {
@@ -74,6 +78,8 @@ A widely circulated claim held that a Tunguska-scale cosmic airburst destroyed T
 Melted material at the site is real and still requires explanation, and Tall el-Hammam remains a significant Bronze Age destruction layer. The airburst interpretation no longer stands in the published literature[^23].
 
 Airbursts remain a genuine and well-documented phenomenon, independent of the Tall el-Hammam claim[^24].
+
+**See also:** [Sodom and Gomorrah (Is God Evil?)](/categories/god-evil#section-sodom-gomorrah).
 `
     },
     {
@@ -105,6 +111,8 @@ Two independent lines of data converge on a narrow window, though neither is dec
 *   **The earthquake.** Williams and colleagues, analysing laminated Dead Sea sediments, identified a seismite layer dated to roughly AD 26 to 36, overlapping Pilate's governorship[^36][^37].
 
 The seismite dating has limits. The authors noted that Matthew's earthquake could be one that occurred somewhat before or after the crucifixion and was in effect borrowed by the Gospel writer, or a local quake in that window too small to leave a historical record. Sediment dating at this resolution cannot isolate a single day, and the study does not claim to confirm Matthew's account, only that a regional seismic event in that period is consistent with it[^38].
+
+**See also:** [Darkness Over the Land (Prophecy)](/categories/prophecy#section-darkness-land).
 `
     },
     {
@@ -123,6 +131,8 @@ NASA JPL's HORIZONS ephemeris system reconstructs planetary positions for any da
 No candidate is conclusive. Matthew describes a star that went ahead of the Magi and stopped over a specific location, behaviour no conjunction, comet, nova or planet exhibits. Proposals include a supernova, a comet, a purely astrological interpretation, and a non-natural sign, each fitting parts of the account and straining others[^42].
 
 The dating problem cuts both ways. The 2 BC option conflicts with the traditional dating of Herod's death to 4 BC, while the 7 BC option requires a longer journey. Presenting any one of these as the Star of Bethlehem overstates what the astronomy can settle[^43].
+
+**See also:** [Born in Bethlehem (Prophecy)](/categories/prophecy#section-bethlehem-birth).
 `
     },
     {

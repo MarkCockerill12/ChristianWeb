@@ -52,6 +52,8 @@ Love that cannot be withheld is not love. A creature with no capacity to refuse 
 *   Plantinga's argument establishes that God and evil are logically compatible. It does not claim to identify God's actual reasons. Philosophers widely regard it as having settled the logical problem of evil, while the evidential problem remains actively debated[^13].
 
 Critics respond that God could have created beings who freely choose good every time, since a merely possible wrong choice is not a necessary one. Plantinga answers by appealing to transworld depravity, the claim that God may not have had a feasible world of that kind available. The exchange remains live philosophy rather than a settled matter[^14].
+
+**See also:** [The Choice of Love (Free Will)](/categories/free-will#section-the-choice-of-love).
 `
     },
     {
@@ -89,6 +91,8 @@ God said that in the day they ate of it they would surely die, yet Adam lived to
 *   **Mortality commenced immediately.** Access to the tree of life was cut off at once, so whatever had sustained unending life ended at once. Adam began dying the day he ate, even though the process took centuries[^23].
 
 The philological answer carries the most weight. The second and third are theological readings consistent with the wider narrative.
+
+**See also:** [Animal Death Before the Fall (Evolution vs Creation)](/categories/evolution#section-death-before-the-fall).
 `
     },
     {
@@ -115,6 +119,8 @@ Temptation follows the same pattern in the New Testament, where desire conceives
 **Christians differ.** Augustine taught that all humanity shares the guilt of Adam's sin, which became the basis of Western teaching. The Orthodox tradition holds that people inherit mortality and a damaged nature, and not Adam's guilt[^30]. Ezekiel 18:20 says that "the child will not share the guilt of the parent", and Paul adds that death spread to all "because all sinned" (Romans 5:12). Whichever view is right, no one is condemned for sins they have not shared in.
 
 **The experience of it.** Some of the force of the doctrine is simply observation. People are born into families and histories that damage them, and no one needs to be taught selfishness. G. K. Chesterton called original sin the one doctrine that can be proved by looking around. Representation is also ordinary: a nation's leader can bring it into war. Adam stands at the head of the race in that way, and in the same way Christ stands at the head of a new one: "as in Adam all die, so in Christ all will be made alive" (1 Corinthians 15:22). The objection that it is unfair to be represented by Adam is also one against being saved through Christ.
+
+**See also:** [The Historical Adam (Evolution vs Creation)](/categories/evolution#section-historical-adam).
 `,
     },
   ],

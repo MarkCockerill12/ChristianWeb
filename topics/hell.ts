@@ -45,6 +45,8 @@ The word "hell" appears 54 times in the King James Version, which uses it for se
 
 
 *   **The lake of fire:** Revelation's image for the final state after the last judgment, into which death and Hades themselves are thrown (Revelation 20:14)[^13].
+
+**See also:** [Bible Translations](/categories/bible-translations).
 `,
     },
     {
@@ -77,6 +79,8 @@ Two qualifications follow from Scripture itself. First, the separation is from G
 Catholic, Orthodox and Arminian theologians, and writers in the line of C. S. Lewis, emphasise that God gives human beings a real choice to walk with him or to reject him, and honours that choice. Reformed theology places more weight on hell as God's just judgment on sin[^21][^22]. The two emphases are not exclusive: those who persistently refuse God receive the separation they chose, and that separation is also the sentence of a just judge.
 
 The offer set against hell is God himself. Salvation does not depend on merit or on being good enough[^23][^24]. "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life" (<a href="https://www.biblegateway.com/passage/?search=John+3:16&version=NIV" target="_blank">John 3:16</a>), and Jesus defines that eternal life as knowing God (John 17:3)[^25]. Those who trust Christ are forgiven and brought into the fellowship with God whose final loss is what hell is.
+
+**See also:** [Did God Change?](/categories/did-god-change), [The Standard for Judging God (Is God Evil?)](/categories/god-evil#section-principles-of-divine-justice).
 `,
     },
     {
@@ -199,7 +203,10 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 
 **The objections to these answers.** Kvanvig argues that the seriousness of a wrong depends not only on whom it wrongs but on the wrongdoer's knowledge and intentions, and that the status argument, applied strictly, makes every sin equally and infinitely serious[^131]. Adams argues that even if hell is a choice rather than an imposed penalty, it would be unreasonable to let creatures as flawed and ignorant as human beings decide their eternal destiny, and Kvanvig agrees that God would not hold anyone to a choice made under the wrong conditions[^132]. Defenders reply that Scripture itself adjusts judgment to knowledge (Luke 12:47-48), which is why the tradition teaches degrees of punishment, and that the duration of hell rests less on a calculation of desert than on the finality of the person's own rejection of God.
 
-**Where the answer rests.** No single argument settles the question for critics, and Christian thinkers continue to debate it; annihilationism and universalism draw much of their support from it. The traditional position rests finally on the repeated warnings of Jesus and on the character of the Judge: God "will render to each one according to his works", and the Judge of all the earth will do what is just.`
+**Where the answer rests.** No single argument settles the question for critics, and Christian thinkers continue to debate it; annihilationism and universalism draw much of their support from it. The traditional position rests finally on the repeated warnings of Jesus and on the character of the Judge: God "will render to each one according to his works", and the Judge of all the earth will do what is just.
+
+**See also:** [Would a Good Person Like Gandhi Go to Hell? (Morality)](/categories/morality#section-good-people-and-hell), [The Problem of Evil](/categories/problem-of-evil).
+`
     },
     {
       id: "those-who-never-heard",
@@ -217,6 +224,8 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 * **Reserving judgment.** Many simply say that Scripture does not give the details, and trust God to be fair.
 
 **What it does not change.** Anyone asking this question has already heard, so the question that applies to them is what to do with what they have heard. Concern for the unreached is also a reason to go to them.
+
+**See also:** [Other Religions](/categories/religions).
 `,
     },
     {
@@ -227,7 +236,10 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 
 • **Finality of judgment:** Hebrews 9:27 states that "it is appointed for man to die once, and after that comes judgment", which the historic churches have read as excluding second chances after death[^138].
 
-• **Jesus' warnings:** Jesus' severe warnings about hell make little sense if it is only a temporary, purifying state. In the parable of the rich man and Lazarus, Abraham speaks of "a great chasm" fixed so that none may cross (Luke 16:26), implying that choices made in this life are final[^139].`
+• **Jesus' warnings:** Jesus' severe warnings about hell make little sense if it is only a temporary, purifying state. In the parable of the rich man and Lazarus, Abraham speaks of "a great chasm" fixed so that none may cross (Luke 16:26), implying that choices made in this life are final[^139].
+
+**See also:** [Heresies and Fallacies](/categories/heresies-and-fallacies).
+`
     }
   ],
               sources: [

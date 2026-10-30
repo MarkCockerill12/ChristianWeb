@@ -29,6 +29,7 @@ The resurrection is the central point of Christianity. After all, "...if Christ 
 
 The core facts usually include: Jesus died by crucifixion; his disciples believed he rose and appeared to them; the church persecutor Paul was suddenly converted; the skeptic James (Jesus's brother) was suddenly converted; and the tomb was empty[^6].
 
+**See also:** [Did Jesus Even Exist? (Jesus' Claims)](/categories/jesus#section-did-jesus-exist).
 `,
     },
     {
@@ -104,6 +105,8 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 • **Paul's Conversion:** Saul of Tarsus (Paul) was a violent persecutor of the early church. His sudden and radical conversion on the road to Damascus, based on his claim of seeing the risen Christ, is one of the most powerful pieces of evidence for the resurrection. A sworn enemy of Christianity abandoned his Pharisaic status to endure suffering and death for the gospel[^39][^40].
 
 • **Rapid Growth of the Early Church in Jerusalem:** The swift and immense growth of Christianity throughout the Roman world, despite intense and violent persecution, points to a powerful, galvanizing event like the resurrection. It started exactly where it should have been easiest to disprove: Jerusalem. "Those who accepted his message were baptized, and about three thousand were added to their number that day" ([Acts 2:41](https://www.biblegateway.com/passage/?search=Acts+2%3A41&version=NIV)), "So the churches were strengthened in the faith and grew daily in numbers" ([Acts 16:5](https://www.biblegateway.com/passage/?search=Acts+16%3A5&version=NIV))[^41].
+
+**See also:** [Gospel Resurrection Accounts - Multiple discrepancies in timing, women, and angels (Contradictions)](/categories/contradictions#section-ResurrectionAccounts).
 `,
     },
     {
@@ -115,6 +118,8 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 • **Early Creedal Formulation:** The language used in the creed ([1 Corinthians 15:3-7](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-7&version=NIV)) strongly suggests it originated within the earliest Jerusalem church, dating to within 2 to 5 years of the crucifixion, a period too short for mythological development[^43].
 
 • **Historical Verifiability:** Paul made this claim as a point of historical fact to a contemporary audience in Corinth. If Paul was lying or mistaken, it would have been easy for the Corinthians to disprove him by interviewing the living witnesses ("most of whom are still alive")[^44].
+
+**See also:** [Resurrection from Death (Prophecy)](/categories/prophecy#section-resurrection-prophesied).
 `,
     },
     {
@@ -132,6 +137,8 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 • **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^50].
 
 <?viz resurrection/persecution?>
+
+**See also:** [What Christianity Has Done for the World](/categories/christianity-and-the-world).
 `,
     },
     {
@@ -220,6 +227,8 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 **Bart Ehrman** (Agnostic New Testament Scholar): "We can say with complete certainty that some disciples at some later time insisted that... he soon appeared to them, convincing them that he had been raised from the dead. It is historical fact that some of Jesus' followers came to believe that he had been raised from the dead soon after his execution"[^73].
 
 **Paula Fredriksen** (Jewish Historian): "I know in their own terms what they saw was the raised Jesus... I'm not saying that they really did see the raised Jesus. I wasn't there. But I do know... as a historian they must have seen something"[^74].
+
+**See also:** [Isn't Faith Believing Without Evidence? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-faith-and-evidence).
 `,
     },
   ],

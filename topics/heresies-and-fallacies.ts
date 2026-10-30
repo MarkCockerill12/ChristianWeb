@@ -28,6 +28,8 @@ Heresies are errors about the centre of the faith, and they are still commonly r
 A heresy is a teaching that denies a central truth of the faith, as distinct from the many secondary questions on which Christians can disagree. Most of the great heresies arose from sincere attempts to explain something hard, and they were answered by the early councils, such as Nicaea in 325[^1] and Chalcedon in 451[^2]. They still matter because they keep coming back, often in sermons, children's talks and popular criticism. The word is about teaching and not about a person's sincerity, and it should be used with care.
 
 What Christians believe about the Trinity is set out in the [Trinity topic](/categories/trinity). The errors below are the ways of getting it wrong.
+
+**See also:** [Branches of Christianity](/categories/branches).
 `,
     },
     {
@@ -55,6 +57,8 @@ What Christians believe about the Trinity is set out in the [Trinity topic](/cat
 * **Nestorianism: two persons.** The human Jesus and the divine Son are two persons joined together. It was condemned at Ephesus in 431[^11]. It denies the unity of his person: "The Word became flesh" (John 1:14). Whether Nestorius himself taught this is disputed, and the Church of the East rejects the label.
 * **Monophysitism: one nature.** The human nature was absorbed into the divine, as taught by Eutyches and rejected at Chalcedon[^12]. The Oriental Orthodox churches, often labelled with this name, reject it, and describe their own view as miaphysite.
 * **Monothelitism: one will.** Christ had only a divine will, which would make his humanity a kind of puppet. It was condemned at Constantinople in 681[^13]. "Not my will, but yours be done" (Luke 22:42) shows a human will submitted to the Father's.
+
+**See also:** [Addressing Objections: Verses Where Jesus Differentiates Himself From the Father (Jesus' Claims)](/categories/jesus#section-objections).
 `,
     },
     {
@@ -77,6 +81,8 @@ These are not heresies, but truths whose denial lies behind many of the errors a
 **Divine simplicity.** God is not made of separable components or parts[^17]. His justice, love and power are not pieces of him that could pull against each other. The doctrine is complex and Christians discuss how far to take it, and it clears up a number of supposed contradictions, such as justice being set against mercy, as though these were two different parties inside God.
 
 **Divine immutability.** God does not change: "I the LORD do not change" (Malachi 3:6)[^18]. A common reply is that Jesus becoming human is a change. The answer is that he did not lose his divinity but gained a humanity, so that the divine nature remained constant. Nor did sending the Son to earth mean that God had to leave heaven, since God is everywhere. The [did God change topic](/categories/did-god-change) covers this further.
+
+**See also:** [Numbers 23:19 / 1 Samuel 15:29 vs. Genesis 6:6 - God does not repent vs. God repented (Contradictions)](/categories/contradictions#section-GodRepents).
 `,
     },
     {

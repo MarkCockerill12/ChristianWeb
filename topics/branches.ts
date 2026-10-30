@@ -298,6 +298,22 @@ export const branches: Topic = {
 
   subtopics: [
     {
+      id: "why-so-many-denominations",
+      title: "If the Bible Is Clear, Why Are There So Many Denominations?",
+      tags: ["Objections"],
+      content: `
+**The objection.** Christians cannot agree on what their own book says, so either it is not clear or it is not from God.
+
+**What is shared.** The great majority of Christians, Catholic, Orthodox and Protestant, confess one God in three persons, the deity of Christ, his death for sin and his bodily resurrection. The differences on this page are real, but most concern church government, the sacraments and the relation of Scripture to tradition.
+
+**Disagreement does not mean there is no truth.** Physicists disagree about the interpretation of quantum mechanics, and historians about the causes of the First World War, and nobody concludes that there are no facts of the matter. Human beings bring pride, history and politics to any text. Many divisions have had as much to do with language, geography and rulers as with the Bible, the split between East and West among them.
+
+**What the Bible claims about its own clarity.** Protestants hold that the main message is plain, and not that every verse is. Peter himself says that Paul wrote "some things that are hard to understand" (2 Peter 3:16).
+
+**What remains true.** The divisions are a real failure. Jesus prayed that his followers would "be one" so that the world might believe (John 17:21), and Paul rebuked the first signs of faction (1 Corinthians 1:10-13). Christians should not be comfortable with this, and critics are right to point it out.
+`,
+    },
+    {
       id: "catholic",
       title: "Universal / Original Catholic Church",
       tags: ["Early church", "Catholic"],
@@ -323,7 +339,10 @@ export const branches: Topic = {
 
       **A contested point, stated as contested.** How much authority the bishop of Rome held in this period is one of the genuinely disputed questions in church history, and it is not settled by description. Catholic historians point to the Petrine texts, to Clement of Rome writing to Corinth at the end of the first century, to Irenaeus on the pre-eminence of the Roman church, and to Leo's intervention at Chalcedon, arguing that a primacy was present from the start and later articulated rather than invented. Orthodox historians accept a primacy of honour among equals while denying universal jurisdiction. Protestant historians generally read the developed papal claims as a later growth.[^12].
 
-      **Distinctive Features:** House churches, bishop-led communities, emphasis on apostolic teaching and fellowship[^13]`,
+      **Distinctive Features:** House churches, bishop-led communities, emphasis on apostolic teaching and fellowship[^13]
+
+**See also:** [Deuterocanonical Books (The Canon)](/categories/canon#section-deuterocanonical-books).
+`,
     },
     {
       id: "romanCatholic",
@@ -395,7 +414,10 @@ export const branches: Topic = {
 
       **Modern Remnants:** Assyrian Church of the East, Ancient Church of the East[^43]
 
-      **Historical Note:** Significantly reduced due to persecution and isolation, but historically very influential in Asia[^44]`,
+      **Historical Note:** Significantly reduced due to persecution and isolation, but historically very influential in Asia[^44]
+
+**See also:** [Heresies About Jesus (Heresies and Fallacies)](/categories/heresies-and-fallacies#section-christ-heresies).
+`,
     },
     {
       id: "easternOrthodox",
@@ -476,7 +498,10 @@ export const branches: Topic = {
 
       **Church Government:** Presbyterian system with sessions, presbyteries, and general assemblies[^75]
 
-      **Major Bodies:** Presbyterian Church (USA), Orthodox Presbyterian Church[^76], World Communion of Reformed Churches[^77]`,
+      **Major Bodies:** Presbyterian Church (USA), Orthodox Presbyterian Church[^76], World Communion of Reformed Churches[^77]
+
+**See also:** [Free Will](/categories/free-will).
+`,
     },
     {
       id: "Anabaptist",
@@ -502,7 +527,10 @@ export const branches: Topic = {
 
       **Modern Descendants:** Mennonites, Amish, Hutterites, Brethren churches[^87]
 
-      **Historical Note:** Heavily persecuted by both Catholics and other Protestants[^88]`,
+      **Historical Note:** Heavily persecuted by both Catholics and other Protestants[^88]
+
+**See also:** [Baptism](/categories/baptism).
+`,
     },
     {
       id: "Anglican",
@@ -710,7 +738,10 @@ export const branches: Topic = {
 
       • **Trinity:** Most (but not all) Messianic Jews adhere to the doctrine of the Trinity[^166]
 
-      **Distinctive Features:** Synagogue-style worship, use of Hebrew, bridging Jewish and Christian theology[^167]. Not recognized as Judaism by mainstream Jewish movements[^168].`,
+      **Distinctive Features:** Synagogue-style worship, use of Hebrew, bridging Jewish and Christian theology[^167]. Not recognized as Judaism by mainstream Jewish movements[^168].
+
+**See also:** [Jewish Objections to Jesus as Messiah (Other Religions)](/categories/religions#section-jewish-objections).
+`,
     },
     {
       id: "nonDenominational",
@@ -736,7 +767,10 @@ export const branches: Topic = {
 
       **A Note on Orthodox Classification:**
 
-      Some movements, while claiming Christian identity, are considered outside orthodox Christianity by Catholic, Orthodox, and Protestant groups due to fundamental doctrinal differences. This includes groups like **Latter-day Saints (Mormons)**[^176] and **Jehovah's Witnesses** (which have unique restorationist claims and non-Trinitarian theology)[^177], and **Unitarian Universalists**, who have Christian roots but now embrace a pluralistic, non-creedal faith that rejects the Trinity[^178].`,
+      Some movements, while claiming Christian identity, are considered outside orthodox Christianity by Catholic, Orthodox, and Protestant groups due to fundamental doctrinal differences. This includes groups like **Latter-day Saints (Mormons)**[^176] and **Jehovah's Witnesses** (which have unique restorationist claims and non-Trinitarian theology)[^177], and **Unitarian Universalists**, who have Christian roots but now embrace a pluralistic, non-creedal faith that rejects the Trinity[^178].
+
+**See also:** [Heresies and Fallacies](/categories/heresies-and-fallacies).
+`,
     },
     {
       id: "waldensian",

@@ -28,6 +28,8 @@ Theologians often explain that God not only ordains the *ends* (what will happen
 
 **3. Aligning Our Will to His**
 Prayer changes us. When we pray, we are often aligning our hearts and desires with God's will, rather than trying to bend His will to ours. Jesus modeled this in the Garden of Gethsemane: "Not my will, but yours be done" (Luke 22:42)[^3].
+
+**See also:** [Sovereignty and Concurrence (Free Will)](/categories/free-will#section-concurrence).
 `,
     },
     {
@@ -51,6 +53,8 @@ Prayer changes us. When we pray, we are often aligning our hearts and desires wi
 **The response.** God is not a mechanism that can be tested by controlled experiment. Scripture says not to put him to the test (Deuteronomy 6:16), and a study cannot control for the prayers everyone else was offering for those patients. Many of the prayers Scripture records were in any case answered with "no". A fair reading of the result is that prayer is not a technique that produces measurable results on request. It leaves open whether God answers particular prayers, and it counts against the claim that faith guarantees healing.
 
 **Why the answer may be no.** Jesus himself asked for the cup to pass and did not get what he asked for (Matthew 26:39). Paul asked three times for his thorn to be removed, and was told "My grace is sufficient for you" (2 Corinthians 12:9). James says that some prayers fail because of wrong motives (James 4:3). A father who loves his child does not grant every request, and Christians trust that God sees what they do not. Those explanations do not make the silence painless, and the [problem of evil](/categories/problem-of-evil) deals with that further.
+
+**See also:** [Scientific Studies of Prayer (Miracles)](/categories/miracles#section-prayer-studies).
 `,
     },
     {
@@ -97,6 +101,8 @@ While the Father is the primary addressee, the New Testament also records prayer
 - **Protestant Traditions:** While agreeing with the classical pattern, Protestants often emphasize conversational prayer and are very accustomed to praying directly to Jesus (e.g., "Dear Jesus, help me today"). Pentecostal and Charismatic branches place a strong emphasis on praying in and to the Holy Spirit, seeking His direct empowerment and presence[^11].
 
 Because God is one in essence, praying to one person of the Trinity does not exclude the others. The entire Godhead is involved in hearing and responding to our prayers.
+
+**See also:** [The Trinity](/categories/trinity).
 `,
     },
   ],

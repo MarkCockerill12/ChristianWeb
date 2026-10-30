@@ -288,6 +288,8 @@ All of these views hold that God created deliberately, that the universe is not 
 *   **Evidence cited for youth.** Arguments from the earth's magnetic field, ocean salt, helium in zircons and radiocarbon in coal and diamonds are answered in the scientific literature as depending on incorrect assumptions or contamination[^67][^68]. Soft tissue in dinosaur bones, first reported by Mary Schweitzer in 2005, is real; Schweitzer, an evangelical Christian, has objected that young earth creationists misrepresent her work, and her team has shown that iron from blood can preserve tissue over long periods[^69][^70]. Answers in Genesis itself advises against using several older arguments, such as moon dust thickness[^71].
 
 **The honest positions on both sides.** Some young earth scientists are frank about where their conviction rests. Kurt Wise, a Harvard-trained palaeontologist, wrote that if all the evidence in the universe turned against creationism he would still be a creationist, because that is what the Word of God seems to indicate[^72][^73]. Todd Wood, a young earth biologist, wrote in 2009 that evolution "is not a theory in crisis" and has "gobs and gobs" of evidence, urging creationist students to base their position on Scripture rather than on claims that the science is failing[^74]. The case for a young earth is therefore theological, resting on a particular reading of Genesis, rather than scientific, and old earth Christians argue that the reading is not required by the text.
+
+**See also:** [How the Two Work Together Now (Christianity and Science)](/categories/science#section-working-together).
 `
     },
     {
@@ -500,6 +502,8 @@ Christians may differ on the age of the earth. The historicity of Adam stands on
 **Mitochondrial Eve and Y-chromosomal Adam** are technical terms for the most recent common ancestors along the purely maternal and purely paternal lines. Their estimated dates differ and are revised as methods change; each lived among many other people, and do not correspond to the Genesis figures, so citing them as scientific confirmation of Genesis misrepresents them[^259][^260].
 
 **Dust and rib.** Genesis 2 says that God formed the man from the dust and made the woman from his side. The traditional reading takes these as direct acts of special creation; others, such as John Walton, read them as ancient ways of describing human mortality and the union of man and woman, applicable to all humans, while still affirming a historical pair[^261][^262].
+
+**See also:** [Is It Fair to Inherit Adam's Sin? (The Tree of Knowledge)](/categories/tree-of-knowledge#section-is-original-sin-fair).
 `
     },
     {
@@ -585,6 +589,8 @@ Arguments that collapse under examination damage the case they are meant to supp
 *   **The animals.** Several translations, including the NIV, render the verb in 2:19 as "had formed", placing the creation of the animals earlier; the grammar allows but does not require this[^311].
 
 The same question is treated among the [supposed contradictions](/categories/contradictions) under Genesis 1:25-27 and 2:7-19.
+
+**See also:** [Genesis 1:25-27 vs Genesis 2:7-19 - man created after vs before the animals (Contradictions)](/categories/contradictions#section-GenAnimals).
 `
     },
     {
@@ -628,6 +634,8 @@ The same question is treated among the [supposed contradictions](/categories/con
 *   **The gods' character.** After the flood the Mesopotamian gods crowd around the sacrifice "like flies" because they have been starving; in Genesis God makes a covenant never again to destroy the earth.
 
 **The interpretations.** Conservative scholars read the parallels as evidence of a shared memory of real events, with Genesis giving the true account that other traditions distorted. Others read Genesis as a deliberate polemic that takes up familiar stories and corrects their theology. Both readings treat Genesis as asserting its own claims about God and humanity against those of its neighbours, not as repeating them[^328].
+
+**See also:** [The Old Testament and Its Neighbours (Pagan Origins)](/categories/pagan-origins#section-old-testament-and-its-neighbours).
 `
     },
     {
@@ -648,6 +656,8 @@ The same question is treated among the [supposed contradictions](/categories/con
 *   **The tree of life.** Genesis 3:22 implies that the man would need to eat from the tree of life to live forever, suggesting that physical immortality was a gift rather than the natural condition of creatures[^335].
 
 **The deeper problem of animal suffering.** Charles Darwin wrote to Asa Gray in 1860 that he could not persuade himself that a beneficent God would have created parasitic wasps that feed within the living bodies of caterpillars[^336]. Christian responses include C. S. Lewis's suggestion in *The Problem of Pain* that a fallen angelic power corrupted animal nature before humanity existed[^337]; William Dembski's proposal that the effects of the fall reached backwards in time; and Christopher Southgate's argument in *The Groaning of Creation* (2008) that a world able to produce the beauty and diversity of life may only be possible through a process that also involves suffering, which God shares in Christ and will redeem[^338]. None of these fully removes the difficulty, which is felt by holders of every view: young earth creationists face the same question about predation and disease after the fall.
+
+**See also:** [The Mystery of Natural Evil (The Problem of Evil)](/categories/problem-of-evil#section-natural-evil).
 `
     },
     {
@@ -676,6 +686,8 @@ The same question is treated among the [supposed contradictions](/categories/con
 **The New Testament.** Jesus referred to Noah and the Flood as real events (Matthew 24:37-39), and 2 Peter 3:6 says that "the world of that time was deluged and destroyed"[^354][^355]. Both sides accept the Flood as historical; they differ over whether these texts require it to have covered the entire planet or the entire world of humanity.
 
 **The rainbow.** Genesis 9:13 does not require that rainbows never appeared before the Flood; God appointed an existing phenomenon as the sign of his covenant, as circumcision and bread were given new meaning[^356].
+
+**See also:** [The Great Flood (Is God Evil?)](/categories/god-evil#section-antediluvian-judgment), [Genesis 7:17 vs Genesis 7:24 - flood lasts 40 days vs waters prevail for 150 days (Contradictions)](/categories/contradictions#section-GenFlood).
 `
     },
     {
@@ -729,6 +741,8 @@ Evolution by natural selection explains how populations of self-replicating orga
 **Consciousness is not addressed.** Why physical processes in the brain are accompanied by subjective experience is unresolved in philosophy of mind, and evolutionary biology can at most explain the behaviour that accompanies experience[^376].
 
 None of this is proof of design, and an unsolved problem may yet be solved. It does show that the naturalistic account is incomplete at exactly the points where a Creator is claimed to act, and that the question of origins is not closed.
+
+**See also:** [Fine Tuning](/categories/fine-tuning).
 `
     },
     {
@@ -745,6 +759,8 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
 **The argument turned around.** Alvin Plantinga argues that it is naturalism, not evolution, that is in tension with science. If our cognitive faculties were produced only by unguided processes selecting for survival rather than truth, we would have no good reason to trust them, including when they form the belief in naturalism. On a theistic view, by contrast, God may have guided the process to produce reliable minds[^380].
 
 **Misuse on both sides.** Evolutionary ideas were used to support social Darwinism, eugenics and scientific racism in the late nineteenth and early twentieth centuries, and the Bible was used to defend slavery and racial hierarchy. In both cases the misuse of an idea does not settle whether the idea is true.
+
+**See also:** [What Science Is Not Equipped to Ask (Christianity and Science)](/categories/science#section-limits), [Who Made God? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-who-made-god).
 `
     },
     {

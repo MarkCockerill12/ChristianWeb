@@ -29,6 +29,8 @@ The scientific support for the second premise has grown. The universe has expand
 **The argument from contingency.** Leibniz asked why there is something rather than nothing. Everything in the universe might not have existed, and the universe as a whole seems no different. If the fact that something exists has any explanation, the explanation must lie in something that exists necessarily, and Christians identify this with God[^5]. Bertrand Russell gave the standard reply: the universe "is just there", and that is all. The argument's defenders reply that this gives up on explanation at the one point where explanation is most wanted.
 
 **What they show.** If they succeed, these arguments conclude that there is a cause beyond space and time, of enormous power, and without a beginning of its own. They do not by themselves establish the God of Israel, and they are not meant to. They agree with the Bible's first sentence, "In the beginning God created the heavens and the earth" (Genesis 1:1), and with Paul's claim that God's power and nature can be seen "from what has been made" (Romans 1:20).
+
+**See also:** [Who Made God? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-who-made-god), [What Science Is Not Equipped to Ask (Christianity and Science)](/categories/science#section-limits).
 `,
     },
     {

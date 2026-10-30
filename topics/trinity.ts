@@ -97,6 +97,8 @@ Response: In [John 14:28](https://www.biblegateway.com/passage/?search=John+14%3
 **Objection: "Early Christians didn't believe in the Trinity"**
 
 Response: Early church writings show Trinitarian thinking from the apostolic period[^19]. The *Didache* (c. 60-120 AD) and the writings of Clement of Rome (c. 96 AD) refer to Father, Son, and Spirit in divine terms, indicating an "incipient Trinitarianism"[^20]. The *Didache* explicitly instructs baptism in the triadic formula[^21], and Clement invokes the Father, Son, and Holy Spirit together[^22].
+
+**See also:** [John 14:28 vs Philippians 2:6 / John 5:18 / John 10:30 - the Father is greater than Jesus vs Jesus is equal with God (Contradictions)](/categories/contradictions#section-FatherGreater), [Addressing Objections: Verses Where Jesus Differentiates Himself From the Father (Jesus' Claims)](/categories/jesus#section-objections).
 `,
     },
     {
@@ -112,6 +114,8 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
 <?viz trinity/councils?>
 
 <?viz trinity/heresies?>
+
+**See also:** [Heresies and Fallacies](/categories/heresies-and-fallacies).
 `,
     },
     {
@@ -138,6 +142,8 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
 **The Spirit is a third who is sent.** Isaiah 48:16 has the speaker say "And now the Sovereign LORD has sent me, endowed with his Spirit", three parties in one sentence[^48]. Isaiah 63:10 speaks of grieving the Holy Spirit, which is language for a person rather than a force[^49].
 
 **Malachi 3:1** has the LORD saying he will send his messenger, and then "the Lord you are seeking will come to his temple", the sender and the coming one both being the Lord[^50].
+
+**See also:** [Jewish Objections to Jesus as Messiah (Other Religions)](/categories/religions#section-jewish-objections).
 `,
     },
     {
@@ -157,6 +163,8 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
 **Triadic formulas appear without argument**, as settled practice rather than novelty: 2 Corinthians 13:14, 1 Peter 1:2, Ephesians 4:4-6 and 1 Corinthians 12:4-6[^61].
 
 The doctrine is not built on any single verse. It is what remains when three biblical commitments are held together without discarding any: there is one God, the Father and the Son and the Spirit are each addressed as God, and they are distinguished from one another in the same passages[^62].
+
+**See also:** [Direct Claims to Divinity (Jesus' Claims)](/categories/jesus#section-direct-claims).
 `,
     },
   ],

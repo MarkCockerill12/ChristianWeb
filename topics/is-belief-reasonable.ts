@@ -31,6 +31,8 @@ Many objections to Christianity are not about any particular doctrine. They sugg
 **The facts cut against it.** Birthplace affects belief, and it does not fix it. Christianity began as a tiny Jewish sect and spread into hostile cultures, and today it is growing fastest in places such as sub-Saharan Africa, far from its European past. Millions have converted from other faiths, often at great cost, and Paul himself was a persecutor before he became a Christian.
 
 **What remains true.** Many Christians have never tested what they inherited, and they should. The fair response to the objection is to examine the evidence for the resurrection, whatever one's starting point.
+
+**See also:** [Other Religions](/categories/religions).
 `,
     },
     {
@@ -55,6 +57,8 @@ Sigmund Freud argued in *The Future of an Illusion* (1927) that God is a project
       tags: ["Psychology"],
       content: `
 The cognitive science of religion studies why belief comes so easily. Proposed explanations include a tendency to detect agents even where there are none, which would have helped our ancestors survive[^5]. Some conclude that this explains God away. Yet the leading researcher Justin Barrett, who coined the name of the field, is himself a Christian, and he argues in *Born Believers* that children naturally lean towards belief[^6]. On a Christian view, a mind inclined to seek God is what Scripture would lead us to expect (Ecclesiastes 3:11; Romans 1:19). Whether the tendency points to something real cannot be decided by describing how it works. Such an argument would also undercut atheism, since our minds were not selected for finding philosophical truth, a point Alvin Plantinga presses.
+
+**See also:** [Does Evolution Make God Unnecessary? (Evolution vs Creation)](/categories/evolution#section-theological-objections).
 `,
     },
     {
@@ -63,6 +67,8 @@ The cognitive science of religion studies why belief comes so easily. Proposed e
       tags: ["Psychology"],
       content: `
 Brain scans show changes in activity during prayer and meditation[^7]. This is what would be expected whether or not God exists, since all experience involves the brain. A scan of someone eating an apple does not show that apples are imaginary. And why physical processing is accompanied by experience at all remains the hard problem of consciousness[^8].
+
+**See also:** [What Science Is Not Equipped to Ask (Christianity and Science)](/categories/science#section-limits).
 `,
     },
     {
@@ -71,6 +77,8 @@ Brain scans show changes in activity during prayer and meditation[^7]. This is w
       tags: ["Atheism"],
       content: `
 Critics define faith as believing without evidence, and that is not the biblical meaning. Luke writes so that Theophilus "may know the certainty" of what they were taught (Luke 1:4), and Paul stakes everything on a public event (1 Corinthians 15:14). Faith in Scripture is trust based on what is known, as one trusts a friend who has proved reliable. Some Christians do believe without thinking, and they are no better a guide than unthinking atheists.
+
+**See also:** [The Resurrection](/categories/resurrection), [Why Christian Theology Made Science Thinkable (Christianity and Science)](/categories/science#section-theological-roots).
 `,
     },
     {
@@ -87,6 +95,8 @@ Bertrand Russell said that no one could disprove a teapot orbiting the sun, and 
       tags: ["Atheism"],
       content: `
 Richard Dawkins calls this the central argument of *The God Delusion*: a designer would have to be more complex than what he designs, so who designed the designer[^12]? The argument for a Creator concerns what begins to exist or what could have failed to exist. God is defined as eternal and uncreated, so asking who made him is like asking who married the bachelor. Every worldview ends in something unexplained. For many atheists that is the universe or its laws, and for Christians it is God. The question is which stopping point makes better sense of the evidence.
+
+**See also:** [Why Does Anything Exist? The Cosmological Arguments (Fine Tuning)](/categories/fine-tuning#section-why-anything-exists).
 `,
     },
     {
@@ -98,11 +108,29 @@ Occam's razor says not to multiply explanations beyond what is needed[^13]. It d
 `,
     },
     {
+      id: "pascals-wager",
+      title: "Isn't Pascal's Wager Bad Reasoning?",
+      tags: ["Atheism"],
+      content: `
+**The argument.** Blaise Pascal, in the *Pensées*, argued that if the evidence does not settle the matter, one should still wager on God: if God exists the believer gains everything, and if not, the believer loses little[^14].
+
+**The objections.** The best known is the many gods objection: which God should one bet on? Others say that nobody can choose to believe at will, and that a God worth believing in would not reward a calculated bet.
+
+**The replies.** Pascal did not offer the wager as proof that God exists, and it is aimed at someone who already takes the question seriously and finds the arguments inconclusive. He answered the point about choosing belief directly, by advising such a person to act and take steps towards faith, and see whether belief follows. The many gods objection has more force, and the wager cannot settle which faith is true, so that question has to go to the evidence.
+
+**Should Christians use it?** Few rest their case on it. Christianity rests on evidence for a public event, and the wager has value only as a reminder that the question matters and that not deciding is also a decision.
+`,
+    },
+    {
       id: "why-people-leave",
       title: "Why Do People Leave the Faith?",
       tags: ["Upbringing"],
       content: `
 Some scholars and pastors have lost their faith, the New Testament scholar Bart Ehrman among them. Their reasons deserve to be heard, and Ehrman's chief reason was the problem of suffering, which is taken up in the [problem of evil](/categories/problem-of-evil). Others have travelled the opposite way, and C. S. Lewis, a former atheist, is the best known. Either way, a person's journey does not settle the evidence.
+
+**Harm done by churches.** Many people leave because of what was done to them: abuse, manipulation or a church that used fear to control them. The psychologist Marlene Winell coined the term "religious trauma syndrome" in 2011. It is not a formal diagnosis, but clinicians take the experience seriously[^15]. Christians should not explain this away. Jesus said that anyone who causes a child to stumble would be better off drowned (Matthew 18:6), and the prophets condemned shepherds who "ruled them harshly and brutally" (Ezekiel 34:4). Leaving a harmful church is not the same as rejecting Christ, and such harm is a judgment on those who did it. [The Church's own record](/categories/christianity-and-the-world#section-the-churchs-record) sets out how widespread it has been.
+
+**See also:** [If God Exists, Why Is He So Hidden? (The Problem of Evil)](/categories/problem-of-evil#section-hiddenness-of-god).
 `,
     },
   ],
@@ -119,7 +147,9 @@ Some scholars and pastors have lost their faith, the New Testament scholar Bart 
     "10. [Encyclopedia] Wikipedia. 'Flying Spaghetti Monster.' https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster",
     "11. [Encyclopedia] Wikipedia. 'Hitchens's razor.' https://en.wikipedia.org/wiki/Hitchens%27s_razor",
     "12. [Encyclopedia] Wikipedia. 'The God Delusion.' https://en.wikipedia.org/wiki/The_God_Delusion",
-    "13. [Encyclopedia] Wikipedia. 'Occam's razor.' https://en.wikipedia.org/wiki/Occam%27s_razor"
+    "13. [Encyclopedia] Wikipedia. 'Occam's razor.' https://en.wikipedia.org/wiki/Occam%27s_razor",
+    "14. [Academic] Stanford Encyclopedia of Philosophy. 'Pascal's Wager.' https://plato.stanford.edu/entries/pascal-wager/",
+    "15. [Encyclopedia] Wikipedia. 'Religious trauma syndrome.' https://en.wikipedia.org/wiki/Religious_trauma_syndrome"
   ],
   lastUpdated: "30-10-2026"
 }

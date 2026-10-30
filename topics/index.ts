@@ -36,6 +36,7 @@ import { trinity } from "./trinity"
 import { women } from "./women"
 import { prayer } from "./prayer"
 import { PAGAN_ORIGINS } from "./pagan-origins"
+import { RELATED_TOPICS, TOPIC_LEVELS } from "./extras/organisation"
 import { HEROES } from "./extras/heroes"
 import { QUESTIONS } from "./extras/questions"
 
@@ -84,11 +85,22 @@ const publishedTopics: readonly Topic[] = [
   PAGAN_ORIGINS,
 ]
 
-/** Banner pictures and challenge questions are kept apart from the prose and joined here. */
-const availableTopics: readonly Topic[] = publishedTopics.map((topic) => ({
+/** Banner pictures, challenge questions and levels are kept apart from the prose and joined here. */
+const joinedTopics: readonly Topic[] = publishedTopics.map((topic) => ({
   ...topic,
   hero: HEROES[topic.id],
   questions: QUESTIONS[topic.id],
+  level: TOPIC_LEVELS[topic.id],
+}))
+
+const joinedById = new Map(joinedTopics.map((topic) => [topic.id, topic]))
+
+const availableTopics: readonly Topic[] = joinedTopics.map((topic) => ({
+  ...topic,
+  relatedTopics: (RELATED_TOPICS[topic.id] ?? []).flatMap((id) => {
+    const related = joinedById.get(id)
+    return related ? [{ id, title: related.title, description: related.description }] : []
+  }),
 }))
 
 const topicsById = new Map(availableTopics.map((topic) => [topic.id, topic]))

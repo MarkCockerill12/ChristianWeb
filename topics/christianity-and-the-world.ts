@@ -32,6 +32,8 @@ Critics often say that Christianity has done more harm than good. Both the good 
 **Law over rulers.** Stephen Langton, Archbishop of Canterbury, played a central part in the negotiation of Magna Carta in 1215, which limited the power of the king[^4].
 
 **Modern human rights.** Charles Malik, a Lebanese Orthodox Christian philosopher, was a leading drafter of the Universal Declaration of Human Rights of 1948[^5][^6]. The drafters came from many traditions, and the Declaration was a shared achievement, not a Christian document.
+
+**See also:** [The Image of God as Moral Foundation (Morality)](/categories/morality#section-image-of-god).
 `,
     },
     {
@@ -75,6 +77,8 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
 **The arena.** Tertullian condemned the gladiatorial shows as murder, and Christian emperors moved against them. Honorius legally ended the games in 399 and again in 404[^26].
 
 **Women.** Christian communities refused to let husbands keep a double standard, and they supported widows, as the [women topic](/categories/women) sets out with its evidence and its failures. Missionaries also campaigned against practices that harmed women and children: William Carey against widow burning in India[^27][^28], others against foot binding in China[^29], and Mary Slessor against the killing of twin babies in Calabar[^30].
+
+**See also:** [What Christianity Did to the Status of Women (Women)](/categories/women#section-church-history), [What the Early Church Taught (Abortion)](/categories/abortion#section-early-church).
 `,
     },
     {
@@ -89,6 +93,8 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
 **Factories.** Lord Shaftesbury, an evangelical, drove the laws that limited child labour in mines and mills[^34].
 
 **Civil rights.** Martin Luther King Jr. was a Baptist minister, and the organisation he led was the Southern Christian Leadership Conference[^35][^36]. Archbishop Desmond Tutu opposed apartheid in South Africa[^37]. Dietrich Bonhoeffer, a Lutheran pastor, opposed Hitler and was executed in 1945[^38].
+
+**See also:** [Historical Impact of Christianity on Slavery (Slavery)](/categories/slavery#section-historical-impact).
 `,
     },
     {
@@ -107,6 +113,8 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
 **The blind.** Louis Braille, a devout Catholic who played the organ for churches, invented the reading system that bears his name[^44].
 
 **Democracy.** The sociologist Robert Woodberry argued in the *American Political Science Review* in 2012 that conversionary Protestant missions, through mass literacy, printing and voluntary groups, heavily influenced the spread of stable democracy[^45]. Other researchers have replicated his analysis with different measures and argue that the result breaks down, so this is contested[^46].
+
+**See also:** [Monasteries, Universities and the Medieval Groundwork (Christianity and Science)](/categories/science#section-medieval-groundwork).
 `,
     },
     {
@@ -145,6 +153,32 @@ None of the good above cancels what follows, all of which was done by Christians
 **Sexual abuse.** The John Jay study found 4,392 American Catholic priests and deacons accused of abuse between 1950 and 2002, and the *Boston Globe* exposed in 2002 how bishops moved offenders and hid what they had done[^64]. An Australian Royal Commission documented abuse across many institutions, Catholic and others[^65]. A 2022 independent report found that leaders of the Southern Baptist Convention had mishandled abuse claims[^66]. Children were harmed, and the people meant to protect them protected the institution.
 
 **Admission.** On 12 March 2000 Pope John Paul II led a public Day of Pardon, asking forgiveness for the sins, past and present, of the Church's members[^67]. Critics said it was too general. Many Protestant bodies have made similar confessions. "Judgment", Peter says, is to "begin with God's household" (1 Peter 4:17).
+
+**See also:** [Why Do People Leave the Faith? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-why-people-leave), [The Galileo Affair, Told Straight (Christianity and Science)](/categories/science#section-galileo).
+`,
+    },
+    {
+      id: "white-mans-religion",
+      title: "Isn't Christianity the White Man's Religion?",
+      tags: ["Objections", "History"],
+      content: `
+**The objection.** Christianity is a European religion, imposed by colonisers and slave-owners, and Black and colonised peoples should reject it. The history behind this is real, and it is set out above. The conclusion does not follow, because the faith did not begin in Europe.
+
+**Where it began.** Jesus was a Jew from the Middle East who never set foot in Europe. Those present at Pentecost came from Egypt, Libya, Arabia and Mesopotamia (Acts 2:9-11). A man from Cyrene in North Africa carried Jesus' cross (Mark 15:21), and one of the first converts Acts describes is an official from Ethiopia (Acts 8:26-39).
+
+**Africa and Asia before most of Europe.**
+
+* **Armenia** became the first state to adopt Christianity, in 301[^68].
+* **Ethiopia.** King Ezana of Aksum embraced Christianity in the fourth century[^69], and his church has an unbroken history to this day, long before most of northern Europe converted.
+* **North Africa** produced Tertullian, Cyprian and Augustine, among the most influential thinkers in Christian history[^70].
+* **India.** The Saint Thomas Christians trace their origin to the apostle Thomas in the first century, though historians dispute that visit[^71].
+* **China.** A stone stele set up in 781 records the Church of the East at work in Tang China[^72].
+
+**What the enslaved saw.** Enslaved Africans in America met in secret to worship, in what were known as hush harbours[^73]. They knew the difference between Christ and their masters' religion. Frederick Douglass, who escaped slavery, wrote: "between the Christianity of this land, and the Christianity of Christ, I recognize the widest possible difference"[^74]. The Black church went on to lead the American civil rights movement.
+
+**Today.** Christians are now a majority in every region of the world except Asia-Pacific and the Middle East and North Africa[^75], and the faith is held by people of every colour.
+
+**What is fair in the objection.** Missionaries often carried colonial assumptions with the gospel, and some churches blessed conquest and slavery, including through the [misuse of the curse of Ham](/categories/slavery). That is a charge against those Christians, and the New Testament is the ground on which it can be made: "there is neither Jew nor Gentile, neither slave nor free" (Galatians 3:28).
 `,
     },
     {
@@ -152,9 +186,9 @@ None of the good above cancels what follows, all of which was done by Christians
       title: "Has Christianity Done More Harm Than Good?",
       tags: ["History", "Objections"],
       content: `
-**"Religion causes most wars."** It does not. The *Encyclopedia of Wars* classifies 121 of 1,763 recorded conflicts, about 7 per cent, as primarily religious[^68]. Many wars have mixed motives, and counts of this sort are rough, but the claim as stated is false.
+**"Religion causes most wars."** It does not. The *Encyclopedia of Wars* classifies 121 of 1,763 recorded conflicts, about 7 per cent, as primarily religious[^76]. Many wars have mixed motives, and counts of this sort are rough, but the claim as stated is false.
 
-**Removing Christianity did not remove the killing.** Regimes committed to state atheism killed on a scale no religious persecution matched. *The Black Book of Communism* estimates more than 94 million deaths, a figure that scholars dispute, while no one disputes that the toll ran to many millions[^69]. This does not excuse a single Christian crime. It shows that the problem lies in human beings, which is what Christianity has always said.
+**Removing Christianity did not remove the killing.** Regimes committed to state atheism killed on a scale no religious persecution matched. *The Black Book of Communism* estimates more than 94 million deaths, a figure that scholars dispute, while no one disputes that the toll ran to many millions[^77]. This does not excuse a single Christian crime. It shows that the problem lies in human beings, which is what Christianity has always said.
 
 **"Those weren't real Christians."** This is too easy, and it should not be used. Many were sincere believers, and Scripture has an uncomfortable word for them all the same: "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven" (Matthew 7:21). "Whoever claims to love God yet hates a brother or sister is a liar" (1 John 4:20). The fair point is narrower. Critics condemn these acts by a standard, and Christ's own teaching condemns them too: love your enemies (Matthew 5:44), put away the sword (Matthew 26:52), and let the children come to him (Matthew 19:14). The reformers who ended these evils appealed to that same teaching.
 
@@ -232,8 +266,16 @@ None of the good above cancels what follows, all of which was done by Christians
     "65. [Encyclopedia] Wikipedia. 'Royal Commission into Institutional Responses to Child Sexual Abuse.' https://en.wikipedia.org/wiki/Royal_Commission_into_Institutional_Responses_to_Child_Sexual_Abuse",
     "66. [Encyclopedia] Wikipedia. 'Southern Baptist Convention.' https://en.wikipedia.org/wiki/Southern_Baptist_Convention",
     "67. [Primary Source] Holy See. 'Presentation of the Day of Pardon' (12 March 2000). https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20000312_presentation-day-pardon_en.html",
-    "68. [Encyclopedia] Wikipedia. 'Religious war.' https://en.wikipedia.org/wiki/Religious_war",
-    "69. [Encyclopedia] Wikipedia. 'The Black Book of Communism.' https://en.wikipedia.org/wiki/The_Black_Book_of_Communism"
+    "68. [Encyclopedia] Wikipedia. 'Religion in Armenia.' https://en.wikipedia.org/wiki/Christianity_in_Armenia",
+    "69. [Encyclopedia] Wikipedia. 'Ezana of Axum.' https://en.wikipedia.org/wiki/Ezana_of_Axum",
+    "70. [Encyclopedia] Wikipedia. 'Early African Church.' https://en.wikipedia.org/wiki/Early_African_Church",
+    "71. [Encyclopedia] Wikipedia. 'Saint Thomas Christians.' https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
+    "72. [Encyclopedia] Wikipedia. 'Xi'an Stele.' https://en.wikipedia.org/wiki/Xi%27an_Stele",
+    "73. [Encyclopedia] Wikipedia. 'Black church.' https://en.wikipedia.org/wiki/Black_church",
+    "74. [Primary Source] Frederick Douglass, Narrative of the Life of Frederick Douglass (1845), Appendix. Project Gutenberg. https://www.gutenberg.org/files/23/23-h/23-h.htm",
+    "75. [Research] Pew Research Center. 'Countries with the most Christians and global Christian population change, 2010-2020' (2025). https://www.pewresearch.org/religion/2025/06/09/christian-population-change/",
+    "76. [Encyclopedia] Wikipedia. 'Religious war.' https://en.wikipedia.org/wiki/Religious_war",
+    "77. [Encyclopedia] Wikipedia. 'The Black Book of Communism.' https://en.wikipedia.org/wiki/The_Black_Book_of_Communism"
   ],
   lastUpdated: "30-10-2026"
 }

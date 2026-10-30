@@ -182,6 +182,8 @@ The foundation is laid before any law is given. Genesis 1:27 states that God cre
 **Paul insists on mutual dependence.** In the middle of the most difficult passage he writes about men and women, Paul stops to say that woman is not independent of man nor man of woman in the Lord. The qualification is his own, inside his own argument[^14][^15].
 
 Every subsequent claim in the Christian tradition about the dignity of women rests on this material, and it is present from the first chapter of the canon rather than arriving with the Enlightenment[^16][^17].
+
+**See also:** [The Image of God as Moral Foundation (Morality)](/categories/morality#section-image-of-god).
 `
     },
     {
@@ -205,6 +207,8 @@ Against that, several features of Israelite law stand out. In levirate marriage 
 **What kind of law this is.** The Mosaic collections are casuistic, meaning they rule on cases rather than stating ideals, and much of what they contain regulates conduct they do not endorse. Slavery, polygamy, concubinage and divorce all receive legislation and none receives approval. Jesus makes the principle explicit about divorce, saying the provision was given because of hardness of heart and was not so from the beginning, which licenses the same distinction elsewhere in the code[^26].
 
 The trajectory argument follows from this: the Law restrains an existing evil while planting principles that eventually undo it, as happened with slavery. The argument is sound as far as it goes, and its weakness should be stated. It can be used to excuse anything, since any command can be called a concession to its era, and it does not by itself explain why a particular concession was set at the level it was[^27].
+
+**See also:** [Slavery](/categories/slavery).
 `
     },
     {
@@ -245,6 +249,8 @@ Second, the Bible interprets the Bible. The direct parallel to this law is the s
 **The captive wife, Deuteronomy 21:10 to 14.** A soldier who wants a woman taken in war must bring her into his house, let her shave her head and trim her nails, and let her mourn her parents for a full month before he may approach her. Then she is his wife, not his slave. If he later rejects her, he must let her go free and may not sell her, because he has humiliated her. Against the ordinary conduct of ancient armies this is restraint written into law: a compulsory delay, a formal mourning period, marriage rather than concubinage, and a prohibition on sale. Against any standard the woman still has no choice about the marriage, and the law is regulating a coerced union rather than forbidding one. Both statements are true and the second is not cancelled by the first[^41][^42].
 
 **Divorce and the certificate.** Deuteronomy 24:1 to 4 assumes a husband's power to dismiss a wife and requires him to give her a written document. The requirement is protective in effect, since without it she could not prove she was free to remarry, and it introduces a public and irreversible step in place of an unrecorded expulsion. It still gives the initiative to the husband alone, and Jesus later treats the whole provision as a concession rather than an intention[^43].
+
+**See also:** [Famous Differences: Isaiah 7:14, Psalm 22:16, Deuteronomy 22:28 and John 1:18 (Bible Translations)](/categories/bible-translations#section-famous-differences).
 `
     },
     {
@@ -281,6 +287,8 @@ A large share of the material cited as biblical mistreatment of women is narrati
 **Tamar in Genesis 38.** Judah refuses his daughter-in-law her legal right to a levirate marriage, she resorts to deception to secure it, and he is compelled to say that she is more righteous than he is. The verdict inside the text is against the man who withheld what was owed[^59].
 
 The distinction between description and prescription is not special pleading. It is how narrative works in every literature. The books of Judges and Samuel record incest, murder, mass abduction and the abuse of concubines by kings, and they narrate all of it as evidence that things had gone badly wrong.
+
+**See also:** [Is God Evil?](/categories/god-evil).
 `
     },
     {
@@ -295,6 +303,8 @@ Multiple wives and concubines appear throughout the Old Testament and are never 
 **The narratives never show a polygamous household working.** Sarah and Hagar, Leah and Rachel, Hannah and Peninnah, David's sons by different mothers: in every case the text dwells on the rivalry, the favouritism and the misery. Hannah's tormentor is her husband's other wife, and the narrator has no interest in presenting the arrangement as satisfactory[^62].
 
 **The New Testament closes it.** Paul's instruction that each husband and wife has authority over the other's body assumes an exclusive pair, and the qualifications for church office require a man to be the husband of one wife. From then on monogamy is the Christian norm and the earlier practice is treated as belonging to a superseded period[^63][^64].
+
+**See also:** [Muhammad's Wives (Islam)](/categories/islam#section-muhammads-wives).
 `
     },
     {
@@ -432,6 +442,8 @@ The historical record is measurable in places, and it is not uniformly to the Ch
 **Reform and mission.** Susanna Wesley educated her daughters as she educated her sons and led services in her kitchen that outdrew her husband's church. Josephine Butler, arguing from Christian premises, broke the Contagious Diseases Acts that subjected suspected prostitutes to forced examination while leaving their clients alone. Catherine Booth co-founded the Salvation Army and preached as a matter of course, and the movement commissioned women as officers from the beginning. Amy Carmichael spent fifty-five years in south India sheltering girls sold into temple prostitution. Mary Slessor worked against the killing of twin infants in Calabar and was appointed a vice-consul, an office no woman had held. Lottie Moon's letters from China forced her own denomination to take women's mission work seriously. Missionary pressure was a significant factor in the legal ending of widow burning in British India[^147][^148][^149][^150][^151][^152][^153].
 
 **The other side of the ledger.** Between roughly 1450 and 1750 more than a hundred thousand people were prosecuted for witchcraft in Europe and colonial America, the great majority of them women, by Catholic and Protestant courts alike, with Exodus 22:18 and Leviticus 20:27 quoted in the indictments. The *Malleus Maleficarum* argued from women's supposed weakness of mind and body that they were the likelier party to a pact with the devil. English common law's doctrine of coverture, which extinguished a wife's separate legal personality on marriage and was systematised in Blackstone's *Commentaries*, was routinely defended from Scripture. Neither can be blamed on secular thought, and neither has an excuse. The pattern in both cases is Scripture pressed into the service of a prior cultural assumption, which is the standing danger in this whole area[^154][^155][^156][^157].
+
+**See also:** [The Church's Own Record (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-the-churchs-record).
 `
     },
     {

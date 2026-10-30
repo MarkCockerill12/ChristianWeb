@@ -35,6 +35,8 @@ The biblical framework for human sexuality is established in the opening chapter
 *   **Christ grounds marriage here.** Asked about divorce in Matthew 19:4-6, Jesus goes behind the Mosaic legislation to the creation account, quoting both Genesis 1:27 and Genesis 2:24. He treats the male and female pattern as the Creator's design rather than a cultural convention of the ancient Near East[^6].
 
 Because the male and female structure of marriage rests on creation, it is not a rule tied to the circumstances of one culture that later circumstances might revise. The appeal to the beginning is an appeal past cultural variation to design[^7].
+
+**See also:** [Equal in Creation and in Christ (Women)](/categories/women#section-image-of-god).
 `
     },
     {
@@ -49,6 +51,8 @@ The most common objection is that these verses sit within the Holiness Code alon
 *   **The surrounding material is moral rather than ritual.** Leviticus 18 and 20 address incest, adultery, child sacrifice and bestiality. The subject of the chapters is sexual and moral conduct rather than diet or clothing, so extracting one verse and reclassifying it as ceremonial does not fit its context[^10].
 *   **These laws are applied to the nations.** Leviticus 18:24-30 states that the Canaanites were expelled for these very practices. Ceremonial regulations were never applied to Gentiles in that way, whereas moral standards were, which is the strongest single answer to the shellfish objection[^11].
 *   **The New Testament carries the prohibition forward.** Paul reaffirms it in two separate letters, which is not true of the dietary laws[^12].
+
+**See also:** [Shellfish, Stoning and the Harsh Laws (Did God Change?)](/categories/did-god-change#section-harsh-old-testament-laws).
 `
     },
     {
@@ -85,6 +89,8 @@ Romans 1:26-27 is the most extended New Testament treatment of the subject, and 
 
 
 Revisionists sometimes argue that the appearance of the word "homosexual" in English Bibles only from 1946 shows a translation innovation. That is a fact about the English word, which did not exist in any language before the late nineteenth century, and it says nothing about the Greek, which had been rendered with phrases such as "abusers of themselves with mankind" for centuries[^29][^30].
+
+**See also:** [Famous Differences: Isaiah 7:14, Psalm 22:16, Deuteronomy 22:28 and John 1:18 (Bible Translations)](/categories/bible-translations#section-famous-differences).
 `
     },
     {
@@ -119,6 +125,8 @@ Holding this teaching faithfully includes holding it in the manner Scripture doe
 
 
 The teaching asks some believers to forgo marriage and sexual intimacy for life. Churches that ask this while offering no genuine friendship, family or belonging leave people to carry that alone.
+
+**See also:** [Grace for Those Who Have Had an Abortion (Abortion)](/categories/abortion#section-grace).
 `
     }
   ],

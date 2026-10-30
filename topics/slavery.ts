@@ -25,7 +25,7 @@ export const slavery: Topic = {
     <p>• Voluntary service contracts[^5]</p>
     <p>• Household servants with legal protections[^6]</p>
     <p>• Military servants and administrative officials[^7]</p>
-    
+<p><strong>See also:</strong> [Shellfish, Stoning and the Harsh Laws (Did God Change?)](/categories/did-god-change#section-harsh-old-testament-laws).</p>
 `,
     },
     {
@@ -57,6 +57,9 @@ export const slavery: Topic = {
     <p><strong>The "Curse of Ham" Misconception (<a href="https://www.biblegateway.com/passage/?search=Genesis+9%3A20-27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 9:20-27</a>):</strong> For centuries, this passage was wrongly used to justify racism and African slavery. A closer look at the text debunks this:</p>
     <p>• <strong>Canaan, Not Ham:</strong> Noah's curse was placed specifically on Canaan, one of Ham's four sons, not on Ham himself or all his descendants. The descendants of Ham's other sons (Cush, Mizraim, Put) settled in Africa and the Middle East, and the curse was unrelated to race or skin color[^20].</p>
     <p>• <strong>Historical Misuse:</strong> The racialization of this passage was a much later human invention to justify economic exploitation, completely foreign to the biblical text. Historians trace the association of Ham with dark skin and slavery to late antique and medieval Jewish, Christian and Islamic writings; it was later taken up in the Atlantic slave trade and became a standard defence of slavery in the antebellum American South[^21].</p>
+    <p>• <strong>The Words Themselves:</strong> The Hebrew reads אָרוּר כְּנָעַן (<em>arur Kena'an</em>, "cursed be Canaan"). The text says nothing about colour, and the Canaanites lived in the Levant, not in Africa. The words are spoken by Noah and not by God. The story's original purpose may have been to explain Israel's later subjection of the Canaanites[^22].</p>
+    <p>• <strong>How the Myth Grew:</strong> David Goldenberg's Princeton University Press study, <em>The Curse of Ham</em>, traces how this reading of the passage developed in Judaism, Christianity and Islam, and shows that it is not in the biblical text[^23].</p>
+    <p>• <strong>What the Bible Says Instead:</strong> When Miriam speaks against Moses because of his Cushite wife, it is Miriam who is struck by God (Numbers 12:1-10). One of the first converts Acts describes is an Ethiopian official (Acts 8:26-39). God "made all the nations" "from one man" (Acts 17:26), and the final picture of heaven has people "from every nation, tribe, people and language" (Revelation 7:9). The separate question of whether Christianity is a white religion is taken up in [What Has Christianity Done for the World?](/categories/christianity-and-the-world#section-white-mans-religion).</p>
     
 `,
     },
@@ -65,17 +68,17 @@ export const slavery: Topic = {
       title: "New Testament Teaching",
       tags: ["New Testament"],
       content: `    
-    <p><strong>Spiritual Equality:</strong> Christianity introduced revolutionary concepts that undermined the foundation of slavery[^22]</p>
-    <p>• "There is neither slave nor free... you are all one in Christ Jesus" (<a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A28&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Galatians 3:28</a>)[^23]</p>
-    <p>• Masters and slaves both have the same Master in heaven (<a href="https://www.biblegateway.com/passage/?search=Ephesians+6%3A9&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Ephesians 6:9</a>)[^24]</p>
-    <p>• Paul requests freedom for Onesimus based on Christian brotherhood (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)[^25]</p>
+    <p><strong>Spiritual Equality:</strong> Christianity introduced revolutionary concepts that undermined the foundation of slavery[^24]</p>
+    <p>• "There is neither slave nor free... you are all one in Christ Jesus" (<a href="https://www.biblegateway.com/passage/?search=Galatians+3%3A28&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Galatians 3:28</a>)[^25]</p>
+    <p>• Masters and slaves both have the same Master in heaven (<a href="https://www.biblegateway.com/passage/?search=Ephesians+6%3A9&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Ephesians 6:9</a>)[^26]</p>
+    <p>• Paul requests freedom for Onesimus based on Christian brotherhood (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)[^27]</p>
     
-    <p><strong>The Radical Nature of Philemon:</strong> Paul's letter to Philemon was far more revolutionary than it appears from a modern vantage point. Under harsh Roman law (unlike the Mosaic Law), a runaway slave (<em>fugitivus</em>) was considered stolen property and could legally face severe punishment, including branding, an iron collar, or severe physical punishment at the master's discretion. By asking Philemon to receive Onesimus "no longer as a slave, but as a dear brother", and on many readings hinting at his release, Paul was appealing for the master to set aside his legal and financial rights for the sake of the Gospel, which placed the slave and master on the same spiritual footing[^26][^27].</p>
+    <p><strong>The Radical Nature of Philemon:</strong> Paul's letter to Philemon was far more revolutionary than it appears from a modern vantage point. Under harsh Roman law (unlike the Mosaic Law), a runaway slave (<em>fugitivus</em>) was considered stolen property and could legally face severe punishment, including branding, an iron collar, or severe physical punishment at the master's discretion. By asking Philemon to receive Onesimus "no longer as a slave, but as a dear brother", and on many readings hinting at his release, Paul was appealing for the master to set aside his legal and financial rights for the sake of the Gospel, which placed the slave and master on the same spiritual footing[^28][^29].</p>
 
-    <p><strong>Practical Reform:</strong> Early Christianity transformed master-slave relationships[^28]</p>
-    <p>• Masters commanded to treat slaves justly and fairly (<a href="https://www.biblegateway.com/passage/?search=Colossians+4%3A1&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Colossians 4:1</a>)[^29]</p>
-    <p>• Slaves elevated to "beloved brothers" (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)[^30]</p>
-    <p>• Church leadership included former slaves and freed people[^31][^32]</p>
+    <p><strong>Practical Reform:</strong> Early Christianity transformed master-slave relationships[^30]</p>
+    <p>• Masters commanded to treat slaves justly and fairly (<a href="https://www.biblegateway.com/passage/?search=Colossians+4%3A1&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Colossians 4:1</a>)[^31]</p>
+    <p>• Slaves elevated to "beloved brothers" (<a href="https://www.biblegateway.com/passage/?search=Philemon+1%3A16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Philemon 1:16</a>)[^32]</p>
+    <p>• Church leadership included former slaves and freed people[^33][^34]</p>
     
 `,
     },
@@ -84,21 +87,21 @@ export const slavery: Topic = {
       title: "Historical Impact of Christianity on Slavery",
       tags: ["History"],
       content: `    
-    <p><strong>Gradual Transformation:</strong> Christianity worked from within to transform society[^33]</p>
-    <p>• <strong>John Chrysostom:</strong> The early Church Father Chrysostom preached that masters would be judged by God for their treatment of slaves, effectively spiritualizing the relationship into one of mutual obligation[^34].</p>
-    <p>• <strong>Gregory of Nyssa:</strong> In the late 4th century, Church Father Gregory of Nyssa preached the first known sermon categorically condemning the institution of slavery itself, arguing that buying a human being was a theft of God's property[^35][^36].</p>
-    <p>• <strong>The "Slave Bible" vs. The Full Bible:</strong> In 1807 a missionary society in London published a heavily redacted "Slave Bible" for use in the British West Indies, omitting most of the Old Testament, including the exodus from Egypt, and passages such as Galatians 3:28, which indicates that its editors regarded the full text as dangerous to slavery[^37].</p>
-    <p>• <strong>Roman Law:</strong> Constantine forbade branding the faces of convicts sentenced to the games or the mines, on the ground that the face bears the likeness of heavenly beauty, and legally recognised the freeing of slaves in church[^38].</p>
+    <p><strong>Gradual Transformation:</strong> Christianity worked from within to transform society[^35]</p>
+    <p>• <strong>John Chrysostom:</strong> The early Church Father Chrysostom preached that masters would be judged by God for their treatment of slaves, effectively spiritualizing the relationship into one of mutual obligation[^36].</p>
+    <p>• <strong>Gregory of Nyssa:</strong> In the late 4th century, Church Father Gregory of Nyssa preached the first known sermon categorically condemning the institution of slavery itself, arguing that buying a human being was a theft of God's property[^37][^38].</p>
+    <p>• <strong>The "Slave Bible" vs. The Full Bible:</strong> In 1807 a missionary society in London published a heavily redacted "Slave Bible" for use in the British West Indies, omitting most of the Old Testament, including the exodus from Egypt, and passages such as Galatians 3:28, which indicates that its editors regarded the full text as dangerous to slavery[^39].</p>
+    <p>• <strong>Roman Law:</strong> Constantine forbade branding the faces of convicts sentenced to the games or the mines, on the ground that the face bears the likeness of heavenly beauty, and legally recognised the freeing of slaves in church[^40].</p>
     
-    <p><strong>Abolition Movement:</strong> Christians were prominent in the fight against modern slavery[^39][^40][^41]</p>
-    <p>• William Wilberforce and evangelical Christians ended British slave trade[^42][^43][^44][^45][^46]</p>
-    <p>• Quakers were the first religious body in the Atlantic world to require members to give up slaveholding[^47][^48]</p>
-    <p>• The 1688 Germantown Petition was the first formal protest against slavery in the English American colonies, drafted by Quakers of Dutch and German background citing the "Golden Rule"[^49].</p>
-    <p>• The Underground Railroad relied heavily on free Black communities and churches, especially Quaker and African Methodist Episcopal networks[^50][^51][^52]</p>
-    <p>• Christian missionaries exposed and fought slavery worldwide[^53][^54]</p>
+    <p><strong>Abolition Movement:</strong> Christians were prominent in the fight against modern slavery[^41][^42][^43]</p>
+    <p>• William Wilberforce and evangelical Christians ended British slave trade[^44][^45][^46][^47][^48]</p>
+    <p>• Quakers were the first religious body in the Atlantic world to require members to give up slaveholding[^49][^50]</p>
+    <p>• The 1688 Germantown Petition was the first formal protest against slavery in the English American colonies, drafted by Quakers of Dutch and German background citing the "Golden Rule"[^51].</p>
+    <p>• The Underground Railroad relied heavily on free Black communities and churches, especially Quaker and African Methodist Episcopal networks[^52][^53][^54]</p>
+    <p>• Christian missionaries exposed and fought slavery worldwide[^55][^56]</p>
 
 <?viz slavery/gallery?>
-    
+<p><strong>See also:</strong> [Slavery, Prisons and Factories (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-reform).</p>
 `,
     },
     {
@@ -107,11 +110,11 @@ export const slavery: Topic = {
       tags: ["Objections"],
       content: `    
     <p><strong>Objection: "Why didn't God explicitly condemn all slavery?"</strong></p>
-    <p>Response: God worked through progressive revelation and cultural transformation[^55]. Apologists argue that immediate abolition in an ancient agrarian economy would have left debtors and the destitute without subsistence, and that God instead regulated an existing institution while planting principles of human dignity that ultimately led to abolition. Critics reply that the Law did forbid other entrenched practices outright, such as child sacrifice, so the absence of a prohibition remains a real difficulty[^56].</p>
+    <p>Response: God worked through progressive revelation and cultural transformation[^57]. Apologists argue that immediate abolition in an ancient agrarian economy would have left debtors and the destitute without subsistence, and that God instead regulated an existing institution while planting principles of human dignity that ultimately led to abolition. Critics reply that the Law did forbid other entrenched practices outright, such as child sacrifice, so the absence of a prohibition remains a real difficulty[^58].</p>
     
     <p><strong>Objection: "Pro-slavery Christians used the Bible to justify slavery"</strong></p>
-    <p>Response: This represents misinterpretation and cultural blindness, not biblical teaching[^57][^58]. The same Bible was used by abolitionists to condemn slavery. Scripture's core message of human dignity and equality ultimately prevailed[^59][^60].</p>
-    
+    <p>Response: This represents misinterpretation and cultural blindness, not biblical teaching[^59][^60]. The same Bible was used by abolitionists to condemn slavery. Scripture's core message of human dignity and equality ultimately prevailed[^61][^62].</p>
+<p><strong>See also:</strong> [Is God Evil?](/categories/god-evil).</p>
 `,
     },
     {
@@ -119,12 +122,12 @@ export const slavery: Topic = {
       title: "Biblical Principles That Oppose Slavery",
       tags: ["Principles"],
       content: `    
-    <p>• <strong>Image of God:</strong> All humans bear God's image (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:27</a>)[^61][^62]</p>
-    <p>• <strong>Human trafficking condemned:</strong> "Slave trading" listed among serious sins (<a href="https://www.biblegateway.com/passage/?search=1+Timothy+1%3A10&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 1:10</a>)[^63]</p>
-    <p>• <strong>Golden Rule:</strong> Treat others as you want to be treated (<a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 7:12</a>)[^64]</p>
+    <p>• <strong>Image of God:</strong> All humans bear God's image (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:27</a>)[^63][^64]</p>
+    <p>• <strong>Human trafficking condemned:</strong> "Slave trading" listed among serious sins (<a href="https://www.biblegateway.com/passage/?search=1+Timothy+1%3A10&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 1:10</a>)[^65]</p>
+    <p>• <strong>Golden Rule:</strong> Treat others as you want to be treated (<a href="https://www.biblegateway.com/passage/?search=Matthew+7%3A12&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Matthew 7:12</a>)[^66]</p>
     <p>• <strong>Love of neighbor:</strong> Love your neighbor as yourself (<a href="https://www.biblegateway.com/passage/?search=Mark+12%3A31&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Mark 12:31</a>)</p>
     <p>• <strong>Justice required:</strong> "Let justice roll down like waters" (<a href="https://www.biblegateway.com/passage/?search=Amos+5%3A24&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Amos 5:24</a>)</p>
-    
+<p><strong>See also:</strong> [The Image of God as Moral Foundation (Morality)](/categories/morality#section-image-of-god).</p>
 `,
     },
     {
@@ -132,11 +135,11 @@ export const slavery: Topic = {
       title: "Understanding Jesus's Teaching on Masters and Slaves",
       tags: ["New Testament"],
       content: `    
-    <p><strong>Jesus's Approach:</strong> The commands for slaves to obey their masters come from Paul and Peter (Ephesians 6:5; Colossians 3:22; 1 Peter 2:18), not from Jesus, who used masters and slaves only as figures in parables (Luke 17:7-10; Matthew 24:45-51). In those parables He was not endorsing slavery but addressing the reality of His time[^65]:</p>
-    <p>• Jesus came as a spiritual liberator, not a political revolutionary (<a href="https://www.biblegateway.com/passage/?search=John+18%3A36&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 18:36</a>)[^66]</p>
-    <p>• His mission was to change hearts, which would ultimately transform society[^67]</p>
-    <p>• He taught radical equality before God while working within existing structures[^68]</p>
-    <p>• His golden rule principle ("treat others as you want to be treated") fundamentally undermined slavery[^69]</p>
+    <p><strong>Jesus's Approach:</strong> The commands for slaves to obey their masters come from Paul and Peter (Ephesians 6:5; Colossians 3:22; 1 Peter 2:18), not from Jesus, who used masters and slaves only as figures in parables (Luke 17:7-10; Matthew 24:45-51). In those parables He was not endorsing slavery but addressing the reality of His time[^67]:</p>
+    <p>• Jesus came as a spiritual liberator, not a political revolutionary (<a href="https://www.biblegateway.com/passage/?search=John+18%3A36&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 18:36</a>)[^68]</p>
+    <p>• His mission was to change hearts, which would ultimately transform society[^69]</p>
+    <p>• He taught radical equality before God while working within existing structures[^70]</p>
+    <p>• His golden rule principle ("treat others as you want to be treated") fundamentally undermined slavery[^71]</p>
     
 `,
     },
@@ -354,54 +357,56 @@ export const slavery: Topic = {
     "19. [Theological Journal] The Reformed Classicalist - 'A Dehumanizing Remedy? Exodus 21:20-21' - Analysis of judicial intent in Exodus 21. https://www.reformedclassicalist.com/home/a-dehumanizing-remedy-exodus-2120-21",
     "20. [Academic Thesis] Scholars Crossing (Liberty University) - 'Debunking the Curse of Ham' - Academic theological refutation of the racist interpretation of Genesis 9. https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1849&context=masters",
     "21. [Academic Article] MDPI - 'The Blessing of Whiteness in the Curse of Ham' - Scholarly analysis of the historical misuse of Genesis 9:18–29. https://www.mdpi.com/2077-1444/12/11/928",
-    "22. [Ministry Resource] The Gospel Coalition - 'Is the Bible Pro-Slavery?' - Analysis of Christianity's impact and biblical interpretation. https://www.thegospelcoalition.org/article/is-bible-pro-slavery/",
-    "23. [Academic Journal] Scielo - 'The theological-ethical implications of Galatians 3:28' - Scholarly article on equality. https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2305-08532019000100037",
-    "24. [Theological Resource] Theology of Work - 'Christian Masters (Ephesians 6:5–11)' - Analysis of the master-slave relationship in Ephesians. https://www.theologyofwork.org/new-testament/galatians-ephesians-philippians/ephesians-and-work/gods-grand-plan-a-practical-guide-eph-41-624/mutuality-in-working-for-the-lord-eph-521-69/christian-masters-eph-65-11/",
-    "25. [Reference] Wikipedia. Epistle to Philemon. The letter concerning a runaway slave. https://en.wikipedia.org/wiki/Epistle_to_Philemon",
-    "26. [Academic Resource] Laidlaw College - 'Philemon and Restorative Justice' - Analysis of Roman laws regarding runaway slaves and Paul's counter-cultural request. https://hail.to/laidlaw-college/article/JPbSchD",
-    "27. [Christian Publisher] Crossway - 'What Philemon Teaches Us About Forgiveness' - Biblical analysis of Paul's letter. https://www.crossway.org/articles/what-philemon-teaches-us-about-forgiveness/",
-    "28. [Ministry Resource] Ligonier Ministries - 'Christian Slaves and Masters' - Reformed theological perspective. https://learn.ligonier.org/devotionals/christian-slaves-and-masters",
-    "29. [Academic Journal] Tyndale Bulletin - 'Grant Slaves Equality: Re-examining Colossians 4:1' - Academic translation analysis. https://www.tyndalebulletin.org/article/29426-grant-slaves-equality-re-examining-the-translation-of-colossians-4-1.pdf",
-    "30. [Biblical Commentary] Working Preacher - 'Commentary on Philemon 1:1-21' - Theological analysis of the 'beloved brother' passage. https://www.workingpreacher.org/commentaries/revised-common-lectionary/ordinary-23-3/commentary-on-philemon-11-21-6",
-    "31. [Encyclopedia] Wikipedia. 'Pope Callixtus I.' https://en.wikipedia.org/wiki/Pope_Callixtus_I",
-    "32. [Reference] Wikipedia. Onesimus. The slave whose return Paul addresses. https://en.wikipedia.org/wiki/Onesimus",
-    "33. [Academic Review] Post Augustum - 'God, Slavery, and Early Christianity' - Review of academic work on early Christian slavery. https://www.postaugustum.com/en/god-slavery-and-early-christianity-2/",
-    "34. [Primary Source] New Advent - 'Homily 22 on Ephesians (Chrysostom)' - Text of Chrysostom's sermon on masters and slaves. https://www.newadvent.org/fathers/230122.htm",
-    "35. [Primary Source] Early Church Texts - 'Gregory of Nyssa: Fourth Homily on Ecclesiastes' - The first known anti-slavery text from antiquity. https://earlychurchtexts.com/public/gregoryofnyss_ecclesiastes_slavery.htm",
-    "36. [Theological Blog] The Molinist - 'Friday Fathers: Gregory of Nyssa on Slavery' - Analysis of the Imago Dei argument. https://themolinist.wordpress.com/2020/11/13/friday-fathers-gregory-of-nyssa-on-slavery/",
-    "37. [Academic Article] TheTorah.com - 'The Slave Bible: For Slavery or Salvation?' - Analysis of the redacted Bible used to suppress slave revolts. https://www.thetorah.com/article/the-slave-bible-for-slavery-or-salvation",
-    "38. [Academic] Fourth Century Christianity (Glen L. Thompson). 'Works of Constantine I (the Great)': CTh 9.40.2 (315) on branding and CTh 4.8.1 (316) on freeing slaves in church. https://www.fourthcentury.com/works-of-constantine/",
-    "39. [Academic Encyclopedia] Britannica - 'Abolitionism' - Historical analysis of Christian-led abolitionist movements. https://www.britannica.com/topic/abolitionism-European-and-American-social-movement",
-    "40. [Historical Essay] Gilder Lehrman Institute - 'Abolition and Religion' - Detailed history of the religious roots of abolition. https://www.gilderlehrman.org/history-resources/essays/abolition-and-religion",
-    "41. [Reference] Wikipedia. Abolitionism. The movement to end the institution. https://en.wikipedia.org/wiki/Abolitionism",
-    "42. [Reference] Wikipedia. William Wilberforce. The parliamentarian who led the British campaign. https://en.wikipedia.org/wiki/William_Wilberforce",
-    "43. [Academic Encyclopedia] Britannica - 'William Wilberforce' - Biography of the Christian abolitionist. https://www.britannica.com/biography/William-Wilberforce",
-    "44. [Reference] Wikipedia. Clapham Sect. The evangelical group that drove the abolition campaign. https://en.wikipedia.org/wiki/Clapham_Sect",
-    "45. [Reference] Wikipedia. Slave Trade Act 1807. The abolition of the British slave trade. https://en.wikipedia.org/wiki/Slave_Trade_Act_1807",
-    "46. [Historical Resource] BBC History - 'Abolition of the Slave Trade' - Comprehensive history of the British abolitionist movement. https://www.bbc.co.uk/history/british/abolition/",
-    "47. [Reference] Wikipedia. Quakers in the abolition movement. The earliest organised religious opposition. https://en.wikipedia.org/wiki/Quakers_in_the_abolition_movement",
-    "48. [Educational Resource] PBS History Detectives - 'Quaker Activism' - Historical overview of Quaker opposition to slavery. https://www.pbs.org/opb/historydetectives/feature/quaker-activism/",
-    "49. [Educational Resource] National Park Service - 'Germantown Quaker Petition Against Slavery' - Text and analysis of the 1688 petition. https://www.nps.gov/articles/quakerpetition.htm",
-    "50. [Reference] Wikipedia. Underground Railroad. The network sheltering those escaping slavery. https://en.wikipedia.org/wiki/Underground_Railroad",
-    "51. [Educational Resource] National Geographic - 'Harriet Tubman Risked Everything' - History of the Underground Railroad. https://www.nationalgeographic.com/history/article/harriet-tubman-risked-everything-enslaved-americans",
-    "52. [Reference] Wikipedia. Harriet Tubman. The abolitionist whose work was driven by explicit Christian conviction. https://en.wikipedia.org/wiki/Harriet_Tubman",
-    "53. [University Press] Cambridge University Press - 'Jamaican Christian Missions and the Great Slave Rebellion' - Academic study of missionary work. https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/jamaican-christian-missions-and-the-great-slave-rebellion-of-18312/752643E70F79BA9FFE2BF18B1B11CC91",
-    "54. [Reference] Wikipedia. Bartolome de las Casas. The friar who campaigned against enslavement of indigenous peoples. https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas",
-    "55. [Theological Blog] Think Theology - 'Why Doesn't the New Testament Condemn Slavery?' - Analysis of progressive revelation. https://thinktheology.co.uk/blog/article/why_doesnt_the_new_testament_condemn_slavery",
-    "56. [Encyclopedia] Wikipedia. 'The Bible and slavery.' https://en.wikipedia.org/wiki/The_Bible_and_slavery",
-    "57. [Ministry Resource] The Gospel Coalition - 'A Tragic Chapter in Christian Missions' - Review of 'Christian Slavery' history book. https://www.thegospelcoalition.org/reviews/christian-slavery/",
-    "58. [Reference] Wikipedia. Frederick Douglass. The formerly enslaved abolitionist who distinguished true from corrupted Christianity. https://en.wikipedia.org/wiki/Frederick_Douglass",
-    "59. [Historical Resource] National Humanities Center - 'The Religious Roots of Abolition' - Analysis of how abolitionists used the Bible. https://americainclass.org/the-religious-roots-of-abolition/",
-    "60. [Historical Magazine] Christian History Institute - 'William Wilberforce and the Abolition of the Slave Trade' - Historical account of Wilberforce's faith. https://christianhistoryinstitute.org/uploaded/50cf830f28e266.63027674.pdf",
-    "61. [Reference] Wikipedia. Imago Dei. The doctrine grounding equal human worth. https://en.wikipedia.org/wiki/Imago_Dei",
-    "62. [Reference] Wikipedia. Human dignity. The principle abolitionists appealed to. https://en.wikipedia.org/wiki/Human_dignity",
-    "63. [Theological Blog] Theology for the People - 'Does the Bible Explicitly Condemn Slavery?' - Analysis of 1 Timothy 1:10. https://nickcady.org/2016/02/18/does-the-bible-explicitly-condemn-slavery/",
-    "64. [Biblical Commentary] Bible Hub - 'Matthew 7:12 Commentaries' - Analysis of the Golden Rule. https://biblehub.com/commentaries/matthew/7-12.htm",
-    "65. [Reference] Wikipedia. Household code. The New Testament literary form containing the instructions. https://en.wikipedia.org/wiki/Household_code",
-    "66. [Biblical Commentary] Bible Hub - 'Matthew Henry Commentary on John 18:36' - Commentary on Jesus' kingdom. https://biblehub.com/commentaries/mhc/john/18.htm",
-    "67. [Historical Article] Countercurrents - 'How Faith Helped to Abolish Slavery from the World' - Detailed history of Christian abolitionism. https://countercurrents.org/2025/01/how-faith-helped-to-abolish-slavery-from-the-world/",
-    "68. [Biblical Commentary] Catena Bible - 'John Chrysostom on Philemon 1:16' - Early church commentary. https://catenabible.com/com/57eb0ef1b0d44ee10cfac715",
-    "69. [Apologetics Resource] Gordon Ferguson - 'American Slavery and the Bible' - Overview of biblical principles and history. https://gordonferguson.org/american-slavery-and-the-bible-by-richard-rodriguez/"
+    "22. [Encyclopedia] Wikipedia. 'Curse of Ham.' https://en.wikipedia.org/wiki/Curse_of_Ham",
+    "23. [Book] David M. Goldenberg, The Curse of Ham: Race and Slavery in Early Judaism, Christianity, and Islam. Princeton University Press, 2003. https://press.princeton.edu/books/paperback/9780691123707/the-curse-of-ham",
+    "24. [Ministry Resource] The Gospel Coalition - 'Is the Bible Pro-Slavery?' - Analysis of Christianity's impact and biblical interpretation. https://www.thegospelcoalition.org/article/is-bible-pro-slavery/",
+    "25. [Academic Journal] Scielo - 'The theological-ethical implications of Galatians 3:28' - Scholarly article on equality. https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2305-08532019000100037",
+    "26. [Theological Resource] Theology of Work - 'Christian Masters (Ephesians 6:5–11)' - Analysis of the master-slave relationship in Ephesians. https://www.theologyofwork.org/new-testament/galatians-ephesians-philippians/ephesians-and-work/gods-grand-plan-a-practical-guide-eph-41-624/mutuality-in-working-for-the-lord-eph-521-69/christian-masters-eph-65-11/",
+    "27. [Reference] Wikipedia. Epistle to Philemon. The letter concerning a runaway slave. https://en.wikipedia.org/wiki/Epistle_to_Philemon",
+    "28. [Academic Resource] Laidlaw College - 'Philemon and Restorative Justice' - Analysis of Roman laws regarding runaway slaves and Paul's counter-cultural request. https://hail.to/laidlaw-college/article/JPbSchD",
+    "29. [Christian Publisher] Crossway - 'What Philemon Teaches Us About Forgiveness' - Biblical analysis of Paul's letter. https://www.crossway.org/articles/what-philemon-teaches-us-about-forgiveness/",
+    "30. [Ministry Resource] Ligonier Ministries - 'Christian Slaves and Masters' - Reformed theological perspective. https://learn.ligonier.org/devotionals/christian-slaves-and-masters",
+    "31. [Academic Journal] Tyndale Bulletin - 'Grant Slaves Equality: Re-examining Colossians 4:1' - Academic translation analysis. https://www.tyndalebulletin.org/article/29426-grant-slaves-equality-re-examining-the-translation-of-colossians-4-1.pdf",
+    "32. [Biblical Commentary] Working Preacher - 'Commentary on Philemon 1:1-21' - Theological analysis of the 'beloved brother' passage. https://www.workingpreacher.org/commentaries/revised-common-lectionary/ordinary-23-3/commentary-on-philemon-11-21-6",
+    "33. [Encyclopedia] Wikipedia. 'Pope Callixtus I.' https://en.wikipedia.org/wiki/Pope_Callixtus_I",
+    "34. [Reference] Wikipedia. Onesimus. The slave whose return Paul addresses. https://en.wikipedia.org/wiki/Onesimus",
+    "35. [Academic Review] Post Augustum - 'God, Slavery, and Early Christianity' - Review of academic work on early Christian slavery. https://www.postaugustum.com/en/god-slavery-and-early-christianity-2/",
+    "36. [Primary Source] New Advent - 'Homily 22 on Ephesians (Chrysostom)' - Text of Chrysostom's sermon on masters and slaves. https://www.newadvent.org/fathers/230122.htm",
+    "37. [Primary Source] Early Church Texts - 'Gregory of Nyssa: Fourth Homily on Ecclesiastes' - The first known anti-slavery text from antiquity. https://earlychurchtexts.com/public/gregoryofnyss_ecclesiastes_slavery.htm",
+    "38. [Theological Blog] The Molinist - 'Friday Fathers: Gregory of Nyssa on Slavery' - Analysis of the Imago Dei argument. https://themolinist.wordpress.com/2020/11/13/friday-fathers-gregory-of-nyssa-on-slavery/",
+    "39. [Academic Article] TheTorah.com - 'The Slave Bible: For Slavery or Salvation?' - Analysis of the redacted Bible used to suppress slave revolts. https://www.thetorah.com/article/the-slave-bible-for-slavery-or-salvation",
+    "40. [Academic] Fourth Century Christianity (Glen L. Thompson). 'Works of Constantine I (the Great)': CTh 9.40.2 (315) on branding and CTh 4.8.1 (316) on freeing slaves in church. https://www.fourthcentury.com/works-of-constantine/",
+    "41. [Academic Encyclopedia] Britannica - 'Abolitionism' - Historical analysis of Christian-led abolitionist movements. https://www.britannica.com/topic/abolitionism-European-and-American-social-movement",
+    "42. [Historical Essay] Gilder Lehrman Institute - 'Abolition and Religion' - Detailed history of the religious roots of abolition. https://www.gilderlehrman.org/history-resources/essays/abolition-and-religion",
+    "43. [Reference] Wikipedia. Abolitionism. The movement to end the institution. https://en.wikipedia.org/wiki/Abolitionism",
+    "44. [Reference] Wikipedia. William Wilberforce. The parliamentarian who led the British campaign. https://en.wikipedia.org/wiki/William_Wilberforce",
+    "45. [Academic Encyclopedia] Britannica - 'William Wilberforce' - Biography of the Christian abolitionist. https://www.britannica.com/biography/William-Wilberforce",
+    "46. [Reference] Wikipedia. Clapham Sect. The evangelical group that drove the abolition campaign. https://en.wikipedia.org/wiki/Clapham_Sect",
+    "47. [Reference] Wikipedia. Slave Trade Act 1807. The abolition of the British slave trade. https://en.wikipedia.org/wiki/Slave_Trade_Act_1807",
+    "48. [Historical Resource] BBC History - 'Abolition of the Slave Trade' - Comprehensive history of the British abolitionist movement. https://www.bbc.co.uk/history/british/abolition/",
+    "49. [Reference] Wikipedia. Quakers in the abolition movement. The earliest organised religious opposition. https://en.wikipedia.org/wiki/Quakers_in_the_abolition_movement",
+    "50. [Educational Resource] PBS History Detectives - 'Quaker Activism' - Historical overview of Quaker opposition to slavery. https://www.pbs.org/opb/historydetectives/feature/quaker-activism/",
+    "51. [Educational Resource] National Park Service - 'Germantown Quaker Petition Against Slavery' - Text and analysis of the 1688 petition. https://www.nps.gov/articles/quakerpetition.htm",
+    "52. [Reference] Wikipedia. Underground Railroad. The network sheltering those escaping slavery. https://en.wikipedia.org/wiki/Underground_Railroad",
+    "53. [Educational Resource] National Geographic - 'Harriet Tubman Risked Everything' - History of the Underground Railroad. https://www.nationalgeographic.com/history/article/harriet-tubman-risked-everything-enslaved-americans",
+    "54. [Reference] Wikipedia. Harriet Tubman. The abolitionist whose work was driven by explicit Christian conviction. https://en.wikipedia.org/wiki/Harriet_Tubman",
+    "55. [University Press] Cambridge University Press - 'Jamaican Christian Missions and the Great Slave Rebellion' - Academic study of missionary work. https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/jamaican-christian-missions-and-the-great-slave-rebellion-of-18312/752643E70F79BA9FFE2BF18B1B11CC91",
+    "56. [Reference] Wikipedia. Bartolome de las Casas. The friar who campaigned against enslavement of indigenous peoples. https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas",
+    "57. [Theological Blog] Think Theology - 'Why Doesn't the New Testament Condemn Slavery?' - Analysis of progressive revelation. https://thinktheology.co.uk/blog/article/why_doesnt_the_new_testament_condemn_slavery",
+    "58. [Encyclopedia] Wikipedia. 'The Bible and slavery.' https://en.wikipedia.org/wiki/The_Bible_and_slavery",
+    "59. [Ministry Resource] The Gospel Coalition - 'A Tragic Chapter in Christian Missions' - Review of 'Christian Slavery' history book. https://www.thegospelcoalition.org/reviews/christian-slavery/",
+    "60. [Reference] Wikipedia. Frederick Douglass. The formerly enslaved abolitionist who distinguished true from corrupted Christianity. https://en.wikipedia.org/wiki/Frederick_Douglass",
+    "61. [Historical Resource] National Humanities Center - 'The Religious Roots of Abolition' - Analysis of how abolitionists used the Bible. https://americainclass.org/the-religious-roots-of-abolition/",
+    "62. [Historical Magazine] Christian History Institute - 'William Wilberforce and the Abolition of the Slave Trade' - Historical account of Wilberforce's faith. https://christianhistoryinstitute.org/uploaded/50cf830f28e266.63027674.pdf",
+    "63. [Reference] Wikipedia. Imago Dei. The doctrine grounding equal human worth. https://en.wikipedia.org/wiki/Imago_Dei",
+    "64. [Reference] Wikipedia. Human dignity. The principle abolitionists appealed to. https://en.wikipedia.org/wiki/Human_dignity",
+    "65. [Theological Blog] Theology for the People - 'Does the Bible Explicitly Condemn Slavery?' - Analysis of 1 Timothy 1:10. https://nickcady.org/2016/02/18/does-the-bible-explicitly-condemn-slavery/",
+    "66. [Biblical Commentary] Bible Hub - 'Matthew 7:12 Commentaries' - Analysis of the Golden Rule. https://biblehub.com/commentaries/matthew/7-12.htm",
+    "67. [Reference] Wikipedia. Household code. The New Testament literary form containing the instructions. https://en.wikipedia.org/wiki/Household_code",
+    "68. [Biblical Commentary] Bible Hub - 'Matthew Henry Commentary on John 18:36' - Commentary on Jesus' kingdom. https://biblehub.com/commentaries/mhc/john/18.htm",
+    "69. [Historical Article] Countercurrents - 'How Faith Helped to Abolish Slavery from the World' - Detailed history of Christian abolitionism. https://countercurrents.org/2025/01/how-faith-helped-to-abolish-slavery-from-the-world/",
+    "70. [Biblical Commentary] Catena Bible - 'John Chrysostom on Philemon 1:16' - Early church commentary. https://catenabible.com/com/57eb0ef1b0d44ee10cfac715",
+    "71. [Apologetics Resource] Gordon Ferguson - 'American Slavery and the Bible' - Overview of biblical principles and history. https://gordonferguson.org/american-slavery-and-the-bible-by-richard-rodriguez/"
   ],
   lastUpdated: "30-10-2026",
 }

@@ -68,6 +68,8 @@ The comparison was popularised by William R. Cooper in 1877 and by Acharya S in 
 One genuine link runs later in time. Images of Isis nursing the infant Horus are often suggested as an influence on pictures of Mary nursing Jesus. The latest images of Isis nursing date to the fourth century AD and the earliest of Mary nursing to the seventh; Sabrina Higgins argues that any connection is limited to Egypt and shows influence on images, not Christian adoption of the cult of Isis[^11]. It concerns how artists drew Mary centuries later, not what the Gospels say about Jesus.
 
 <?viz pagan-origins/isis?>
+
+**See also:** [Ancient Egyptian Religion (Other Religions)](/categories/religions#section-egyptian).
 `,
     },
     {
@@ -86,6 +88,8 @@ No Mithraic myth of the god's death or rising is known, and Mithras was not beli
 The one real overlap is a ritual meal. Justin Martyr, writing in the mid-second century, complained that "the wicked devils have imitated" the Lord's Supper "in the mysteries of Mithras", in which "bread and a cup of water are placed with certain incantations in the mystic rites"[^15]. Paul had described the Lord's Supper a century earlier (1 Corinthians 11:23-26), before Roman Mithraism is attested. If one group influenced the other, the dates do not favour the Mithraists, and a shared culture of sacred meals explains both.
 
 <?viz pagan-origins/tauroctony?>
+
+**See also:** [The Resurrection](/categories/resurrection).
 `,
     },
     {
@@ -141,6 +145,8 @@ Apollonius, a wandering Pythagorean philosopher of the first century, is often p
 The Roman world supplied much of the vocabulary Christians used. After the Senate declared Julius Caesar a god in 42 BC, his adopted son Octavian, the future Augustus, styled himself *divi filius*, "son of the deified one", and put the title on his coins[^25]. An inscription from Priene in Asia Minor (9 BC) praises Augustus as a saviour sent by Providence and calls his birthday "the beginning of the good tidings" for the world, using the Greek *euangelion* (εὐαγγέλιον, good news), the word translated "gospel". The wording has often been compared with the opening of Mark, "The beginning of the gospel of Jesus Christ, the Son of God" (Mark 1:1)[^26]. Across the provinces emperors received temples, priests and sacrifices[^27].
 
 The overlap is in titles, and it cuts against borrowing: Christians gave "Lord", "Saviour" and "Son of God" to a man the empire had crucified, and refused to offer sacrifice to the emperor. Shared words in common use are not a shared story.
+
+**See also:** [Early Christian Worship of Jesus (Jesus' Claims)](/categories/jesus#section-early-christian-worship).
 `,
     },
     {
@@ -183,6 +189,8 @@ At Ugarit, the *Baal Cycle* describes Lotan, "the fugitive serpent", possibly se
 Historic Christian teaching holds that Scripture is inspired through human authors writing in their own languages and genres (2 Timothy 3:16; 2 Peter 1:21). Shared forms are therefore expected. Where the texts differ is in what they say about God: one Creator rather than a family of warring gods, a flood sent in moral judgment rather than irritation, laws given within a covenant, and borrowed wisdom redirected to trust in the LORD.
 
 <?viz pagan-origins/ane-gallery?>
+
+**See also:** [Borrowed Myths? Genesis and the Mesopotamian Parallels (Evolution vs Creation)](/categories/evolution#section-ancient-near-eastern-parallels).
 `,
     },
     {
@@ -195,6 +203,8 @@ After Cyrus of Persia took Babylon, he allowed the Jewish exiles to return, and 
 Many scholars think that Jews under Persian rule absorbed Zoroastrian ideas about angels, demons and the end of the age, visible in later writings such as Tobit and 1 Enoch. Others reject direct influence, holding that no link can be found in Jewish or Christian texts, or propose Greek thought as the channel; Lester Grabbe accepts that Persian influence occurred but asks which developments can be attributed to Iran rather than Greece. The question is harder because the surviving Avesta dates at the oldest from the Sasanian empire, and the Pahlavi texts were composed or rewritten in the eighth to tenth centuries AD[^39].
 
 Within the Old Testament the hope of resurrection appears in Isaiah 26:19 and Daniel 12:2. Whatever the history of the idea, the Christian claim was not that resurrection could happen, which many Jews already believed, but that it had happened to one man ahead of everyone else (1 Corinthians 15:20-23).
+
+**See also:** [Zoroastrianism (Other Religions)](/categories/religions#section-zoroastrianism).
 `,
     },
     {

@@ -44,6 +44,7 @@ Raising a man on the fourth day removed any suggestion of resuscitation from a c
 
 <?viz lazarus/tombs?>
 
+**See also:** [Why Does God Not Answer Prayer? (Prayer)](/categories/prayer#section-unanswered-prayer).
 `
     },
     {
@@ -58,6 +59,8 @@ Raising a man on the fourth day removed any suggestion of resuscitation from a c
 *   **A distinction in vocabulary.** John uses *dakryo* (δακρύω, shed tears) for Jesus' quiet weeping and *klaio* (κλαίω, weep aloud) for the wailing of the mourners, which suggests restrained grief rather than public display[^17][^18].
 
 Paul calls death the last enemy to be destroyed, which fits the reading of indignation. Some translators render the term as deep emotional agitation rather than anger, so the precise force remains debated[^19].
+
+**See also:** [God's Solidarity in Suffering (The Problem of Evil)](/categories/problem-of-evil#section-gods-solidarity).
 `
     },
     {
@@ -86,6 +89,8 @@ The centre of the chapter is a conversation rather than a miracle. Martha affirm
 *   **Absolute authority.** Jesus first thanks the Father aloud, saying He does so for the sake of the crowd, and then raises Lazarus with a single spoken command, "Lazarus, come out", with no ritual or technique, which is how John consistently presents Jesus' authority[^30][^31].
 
 Similar raisings appear elsewhere in the Gospels, including the widow's son at Nain and the daughter of Jairus, but neither involves a four-day interval[^32]. John states his purpose plainly at the end of the Gospel: these signs are written so that those who receive them may believe and have life in His name[^33].
+
+**See also:** [The Resurrection](/categories/resurrection).
 `
     }
   ],

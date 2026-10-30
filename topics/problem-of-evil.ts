@@ -43,6 +43,7 @@ Christian philosophers also point out that "evil" is a moral judgment. On the mo
 
 • **The Probabilistic (Evidential) Problem:** Concedes that God and evil are logically compatible, but argues that the sheer amount of gratuitous, unexplained suffering makes the existence of a good God highly improbable. Traditionalists reply that humans, being finite, are not in a position to judge whether a particular instance of suffering is truly gratuitous or if it serves a greater redemptive purpose in the grand scope of history[^9][^10].
 
+**See also:** [The Moral Argument, Premise by Premise (Morality)](/categories/morality#section-the-moral-argument).
 `
     },
     {
@@ -62,6 +63,8 @@ The philosopher Alvin Plantinga argues that it is *possible* that God could not 
 
 
 • **The Limits of Omnipotence:** Omnipotence means God can do anything that is logically possible, but creating a creature with genuine free will who is forced to always choose good is a logical contradiction, like drawing a square circle[^13].
+
+**See also:** [The Free Will Defense against the Problem of Evil (Free Will)](/categories/free-will#section-free-will-defense).
 `
     },
     {
@@ -75,7 +78,7 @@ But what about earthquakes, cancer, and tsunamis? These are "natural evils" not 
 
 C.S. Lewis argued that for souls to interact, there must be a neutral "nature" with fixed laws (like gravity). These laws allow us to walk and build, but they also mean that if we fall, we get hurt. A world where the laws of nature constantly changed to prevent pain would be a world without consequences or meaningful action[^15].
 
-
+**See also:** [Animal Death Before the Fall (Evolution vs Creation)](/categories/evolution#section-death-before-the-fall).
 `
     },
     {
@@ -110,6 +113,8 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
 * **God is not as hidden as the objection supposes.** Scripture says he can be seen in creation (Romans 1:20) and is "not far from any one of us" (Acts 17:27), and promises that "you will seek me and find me when you seek me with all your heart" (Jeremiah 29:13). He came in person in Jesus. The cumulative evidence from creation, history and prophecy is one answer.
 
 **What remains hard.** The objection has real force for those who have prayed sincerely and heard nothing, and Scripture does not conceal this experience: "Truly you are a God who has been hiding himself" (Isaiah 45:15), and "My God, my God, why have you forsaken me?" (Psalm 22:1). Those words are in the Bible's own prayers, and Jesus prayed the second from the cross. Faith here is trust in the character of a God who has shown himself in Christ, in the absence of an explanation of each silence.
+
+**See also:** [Why Do People Leave the Faith? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-why-people-leave).
 `,
     },
     {
@@ -130,7 +135,10 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
 
 • **The suffering savior:** Through the Incarnation, Jesus Christ experienced physical torture, emotional betrayal, and death on the cross, showing that God is not indifferent to our tears[^22].
 
-• **The future hope:** The empty tomb guarantees that suffering is not the final chapter. Revelation 21:4 promises the complete, eternal eradication of pain and death[^23].`
+• **The future hope:** The empty tomb guarantees that suffering is not the final chapter. Revelation 21:4 promises the complete, eternal eradication of pain and death[^23].
+
+**See also:** [Is It Just for an Innocent Man to Die for the Guilty? (Jesus' Claims)](/categories/jesus#section-is-the-atonement-just).
+`
     }
   ],
             sources: [

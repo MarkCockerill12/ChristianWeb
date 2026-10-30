@@ -5,6 +5,7 @@ import { BookOpen, Clock, Heart, Search, TimerIcon as Timeline } from "lucide-re
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { UpdatesFeed, type UpdateItem } from "./updates-feed"
+import { StartHere } from "@/components/start-here"
 
 const whatsNewItems: UpdateItem[] = [
   {
@@ -171,6 +172,21 @@ export default function HomePage() {
 
   return (
     <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: "Cross Examination",
+            potentialAction: {
+              "@type": "SearchAction",
+              target: "/search?q={search_term_string}",
+              "query-input": "required name=search_term_string",
+            },
+          }),
+        }}
+      />
       {/* Hero */}
       <section className="relative py-20 px-4 text-center">
         <div className="absolute inset-0 bg-linear-to-r from-blue-600/10 to-purple-600/10 rounded-3xl mx-4 mt-4"></div>
@@ -218,6 +234,12 @@ export default function HomePage() {
               </Link>
             </Button>
           </div>
+        </div>
+      </section>
+
+      <section className="px-4 sm:px-6 lg:px-8">
+        <div className="mx-auto max-w-5xl">
+          <StartHere />
         </div>
       </section>
 

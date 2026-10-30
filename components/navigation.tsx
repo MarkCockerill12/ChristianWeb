@@ -5,14 +5,15 @@ import Link from "next/link"
 import { usePathname } from "next/navigation"
 import { Button } from "@/components/ui/button"
 import { Sheet, SheetContent, SheetTrigger, SheetTitle, SheetHeader } from "@/components/ui/sheet"
-import { Cross, Menu, Search, TimerIcon as Timeline, Heart, BookOpen, Home } from "lucide-react"
+import { Cross, Menu, LayoutGrid, TimerIcon as Timeline, Heart, BookOpen, Home } from "lucide-react"
 import { cn } from "@/lib/utils"
 import { ThemeToggle } from "@/components/theme-toggle"
+import { SiteSearchButton } from "@/components/site-search"
 
 const navigation = [
   { name: "Home", href: "/", icon: Home },
   { name: "Timeline", href: "/timeline", icon: Timeline },
-  { name: "Topics", href: "/categories", icon: Search },
+  { name: "Topics", href: "/categories", icon: LayoutGrid },
   { name: "Personal", href: "/personal", icon: Heart },
   { name: "Resources", href: "/resources", icon: BookOpen },
 ]
@@ -49,12 +50,16 @@ export function Navigation() {
           })}
         </div>
 
-        <div className="hidden md:flex ml-auto">
+        <div className="ml-auto mr-2 flex items-center">
+          <SiteSearchButton />
+        </div>
+
+        <div className="hidden md:flex md:items-center">
           <ThemeToggle />
         </div>
 
         {/* Mobile Navigation */}
-        <div className="flex items-center space-x-2 ml-auto md:hidden">
+        <div className="flex items-center space-x-2 md:hidden">
           <ThemeToggle />
           <Sheet open={isOpen} onOpenChange={setIsOpen}>
             <SheetTrigger asChild>

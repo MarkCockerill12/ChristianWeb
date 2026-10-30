@@ -3,7 +3,7 @@
 import React, { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
 import Link from "next/link"
 import Image from "next/image"
-import { ArrowLeft, ArrowUp, BookOpen, Calendar, ChevronDown, ChevronUp, Clock, ExternalLink, ListTree } from "lucide-react"
+import { ArrowLeft, ArrowRight, ArrowUp, BookOpen, Calendar, Check, ChevronDown, ChevronUp, Clock, ExternalLink, Link2, ListTree } from "lucide-react"
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
@@ -13,6 +13,7 @@ import { ContentRenderer } from "@/components/content-renderer"
 import { TopicPopover } from "@/components/topic-popover"
 import { TopicPageContext, sectionDomId } from "@/components/topic-context"
 import { ChallengeQuestions } from "@/components/challenge-questions"
+import { LEVEL_MEANINGS } from "@/topics/extras/organisation"
 import type { Topic } from "@/topics/types"
 
 type Subtopic = NonNullable<Topic["subtopics"]>[number]
@@ -117,6 +118,31 @@ function SubtopicSearch({
   )
 }
 
+/** A small, quiet control beside a section's tags that copies a direct link to it. */
+function CopySectionLink({ id }: { readonly id: string }) {
+  const [copied, setCopied] = useState(false)
+  useEffect(() => {
+    if (!copied) return
+    const timer = setTimeout(() => setCopied(false), 1500)
+    return () => clearTimeout(timer)
+  }, [copied])
+  const copy = () => {
+    const url = `${window.location.origin}${window.location.pathname}#${sectionDomId(id)}`
+    navigator.clipboard?.writeText(url).then(() => setCopied(true), () => undefined)
+  }
+  return (
+    <button
+      type="button"
+      onClick={copy}
+      title={copied ? "Link copied" : "Copy link to this section"}
+      aria-label={copied ? "Link copied" : "Copy link to this section"}
+      className="ml-auto rounded p-1 text-gray-300 transition-colors hover:text-blue-600 focus-visible:text-blue-600 focus-visible:outline-2 focus-visible:outline-blue-600"
+    >
+      {copied ? <Check className="h-3.5 w-3.5 text-green-600" aria-hidden /> : <Link2 className="h-3.5 w-3.5" aria-hidden />}
+    </button>
+  )
+}
+
 const SubtopicCard = React.memo(function SubtopicCard({
   sub,
   sources,
@@ -153,12 +179,13 @@ const SubtopicCard = React.memo(function SubtopicCard({
               {expanded ? <ChevronUp className="mt-1 h-4 w-4 flex-shrink-0" aria-hidden /> : <ChevronDown className="mt-1 h-4 w-4 flex-shrink-0" aria-hidden />}
             </button>
           </h3>
-          <div className="flex flex-wrap gap-1">
+          <div className="flex flex-wrap items-center gap-1">
             {sub.tags.map((tag) => (
               <Badge key={tag} variant="outline" className="text-xs">
                 {tag}
               </Badge>
             ))}
+            <CopySectionLink id={sub.id} />
           </div>
           {header}
         </div>
@@ -426,15 +453,17 @@ export function TopicPage({
     [expand, setSearch, setSelectedTag],
   )
 
-  // Deep links: /categories/x#section-y opens that section on arrival. Only on
-  // first load; later hash changes come from openSection itself.
-  const initialHash = useRef(true)
+  // Deep links: /categories/x#section-y opens that section on arrival, and again when a
+  // link within the page changes the hash. openSection's own replaceState fires no event.
   useEffect(() => {
-    if (!initialHash.current) return
-    initialHash.current = false
-    const m = /^#section-(.+)$/.exec(window.location.hash)
-    const id = m ? decodeURIComponent(m[1]) : null
-    if (id && subtopics.some((s) => s.id === id)) openSection(id)
+    const openFromHash = () => {
+      const m = /^#section-(.+)$/.exec(window.location.hash)
+      const id = m ? decodeURIComponent(m[1]) : null
+      if (id && subtopics.some((s) => s.id === id)) openSection(id)
+    }
+    openFromHash()
+    window.addEventListener("hashchange", openFromHash)
+    return () => window.removeEventListener("hashchange", openFromHash)
   }, [openSection, subtopics])
 
   const context = useMemo(() => ({ expand, openSection }), [expand, openSection])
@@ -459,6 +488,14 @@ export function TopicPage({
           {category.hero && <TopicHero hero={category.hero} />}
           <CardHeader>
             <div className="flex flex-wrap items-center gap-2 mb-4">
+              {category.level && (
+                <span
+                  className="rounded-full border border-blue-200 bg-blue-50 px-2.5 py-0.5 text-xs font-semibold text-blue-700"
+                  title={LEVEL_MEANINGS[category.level]}
+                >
+                  {category.level}
+                </span>
+              )}
               {category.tags.map((tag) => (
                 <Badge key={tag} variant="secondary">
                   {tag}
@@ -569,6 +606,29 @@ export function TopicPage({
                   <BibleVerse key={verse.reference} verse={verse} />
                 ))}
               </div>
+            </CardContent>
+          </Card>
+        )}
+
+        {category.relatedTopics && category.relatedTopics.length > 0 && (
+          <Card className="mb-8">
+            <CardHeader>
+              <CardTitle className="flex items-center gap-2">
+                <ArrowRight className="h-6 w-6 text-purple-600" />
+                Read next
+              </CardTitle>
+            </CardHeader>
+            <CardContent>
+              <ul className="m-0 grid list-none gap-3 p-0 sm:grid-cols-2">
+                {category.relatedTopics.map((topic) => (
+                  <li key={topic.id}>
+                    <Link href={`/categories/${topic.id}`} className="block rounded-md p-2 no-underline hover:bg-blue-50">
+                      <span className="block text-sm font-semibold text-blue-700">{topic.title}</span>
+                      <span className="block text-[13px] leading-snug text-gray-600 line-clamp-2">{topic.description}</span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
             </CardContent>
           </Card>
         )}

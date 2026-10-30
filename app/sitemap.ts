@@ -19,7 +19,7 @@ function parseLastUpdated(value: string | undefined): Date | undefined {
 export const dynamic = "force-static"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ["", "/categories", "/timeline", "/resources", "/personal"].map((path) => ({
+  const staticRoutes = ["", "/categories", "/search", "/timeline", "/resources", "/personal"].map((path) => ({
     url: `${siteUrl}${path}`,
     changeFrequency: "monthly" as const,
     priority: path === "" ? 1 : 0.8,

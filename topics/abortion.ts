@@ -40,6 +40,8 @@ The Bible has no verse containing the word "abortion". Its teaching comes from h
 **Human life bears God's image.** Murder is forbidden because of what a human being is: "in the image of God has God made mankind" (Genesis 9:6). The commandment is "You shall not murder" (Exodus 20:13), using the Hebrew *ratsach* (רָצַח, murder), the term for murder and slaying[^3]. Scripture condemns "hands that shed innocent blood" (Proverbs 6:17) and the sacrifice of children to Molech (Leviticus 18:21). No one in the womb has done anything to deserve death.
 
 These texts do not give a medical definition or a date. Their combined force is that the Bible treats the unborn child as a person known to God, and gives no ground for treating that child as a thing.
+
+**See also:** [The Image of God as Moral Foundation (Morality)](/categories/morality#section-image-of-god).
 `,
     },
     {
@@ -69,6 +71,8 @@ Abortion and exposing unwanted infants were both common in the Roman world. Chri
 **A qualification.** Later theologians, following Aristotle's biology, debated when the soul entered the body. Augustine thought an early abortion was not murder for that reason, and Aquinas held a similar view of ensoulment[^14]. They still condemned the act. Their question was how grave it was, not whether it was acceptable, and the biology on which they depended has since been superseded.
 
 **Practice as well as teaching.** Christians in the Roman Empire became known for rescuing and raising exposed infants[^15]. The church's opposition has always been tied to the care of the child and the mother.
+
+**See also:** [Children, Women and the Arena (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-children-and-the-weak).
 `,
     },
     {
@@ -105,6 +109,8 @@ The traditions differ on the framework and agree on the principle: a doctor may 
 **Keeping the exception honest.** This reasoning applies to a real threat to the mother's life. It does not turn into a general permission, and the same care applies in the other direction: law and practice must not leave doctors afraid to act. In Ireland in 2012, Savita Halappanavar died of sepsis during a prolonged miscarriage after being refused a termination on legal grounds[^28]. A true pro-life ethic counts her life too.
 
 **Miscarriage is not abortion.** Around 10 in 100 known pregnancies end in early loss[^29]. A woman who has lost a child has done nothing wrong, and treating a miscarriage to remove a child who has already died is not an abortion. She needs comfort and no suspicion.
+
+**See also:** [Morality](/categories/morality).
 `,
     },
     {
@@ -153,6 +159,8 @@ The traditions differ on the framework and agree on the principle: a doctor may 
 **Words written to these women.** John Paul II wrote in *Evangelium Vitae* one of the clearest pastoral passages on the subject: "The Church is aware of the many factors which may have influenced your decision, and she does not doubt that in many cases it was a painful and even shattering decision." He said that what happened was "terribly wrong", then went on, "do not give in to discouragement and do not lose hope", and "the Father of mercies is ready to give you his forgiveness and his peace"[^35]. Christians of every tradition can use those words.
 
 **The same applies to men, doctors and everyone else involved.** Forgiveness is on offer on the same terms to the fathers who pressed for it or walked away, and to everyone who took part. "The LORD is close to the brokenhearted and saves those who are crushed in spirit" (Psalm 34:18).
+
+**See also:** [The Christian Response: Truth and Grace (Homosexuality)](/categories/homosexuality#section-truth-and-grace).
 `,
     },
   ],

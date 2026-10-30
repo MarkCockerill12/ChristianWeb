@@ -33,6 +33,8 @@ The Bible is a collection of 66 books written by more than forty authors across 
 <?viz bible-books/dating-compare?>
 
 <?viz bible-books/written-vs-events?>
+
+**See also:** ["The Bible Was Written by Men" (The Canon)](/categories/canon#section-written-by-men), [Daniel's 70 Weeks - Precise Timing (Prophecy)](/categories/prophecy#section-daniel-timing).
 `,
     },
     {
@@ -67,6 +69,8 @@ The Bible is a collection of 66 books written by more than forty authors across 
 **Where Written:** On the plains of Moab, east of the Jordan River.
 **Date of Writing:** Approximately 1400 BC.
 **Theological Theme:** Renewal of the Covenant. It prepares the new generation for the Promised Land through a repetition of the Law, emphasizing love and obedience.
+
+**See also:** [Did God Change?](/categories/did-god-change), [Is There Evidence for the Exodus? (Archaeology)](/categories/archaeological#section-exodus-evidence).
 `,
     },
     {
@@ -307,6 +311,8 @@ The Bible is a collection of 66 books written by more than forty authors across 
 **Where Written:** Rome.
 **Date of Writing:** Around AD 62.
 **Theological Theme:** The Growth of the Church. It records the coming of the Holy Spirit and the rapid spread of the Gospel from Jerusalem to Rome.
+
+**See also:** [Can the Gospels Be Trusted? (The Resurrection)](/categories/resurrection#section-gospel-reliability), [Gospel Resurrection Accounts - Multiple discrepancies in timing, women, and angels (Contradictions)](/categories/contradictions#section-ResurrectionAccounts).
 `,
     },
     {
@@ -437,6 +443,8 @@ The Bible is a collection of 66 books written by more than forty authors across 
 **Where Written:** The Isle of Patmos, in exile.
 **Date of Writing:** Around AD 95.
 **Theological Theme:** The Ultimate Victory. An apocalyptic vision of the tribulation, the second coming of Jesus Christ, the final judgment, and the creation of the New Heavens and New Earth.
+
+**See also:** [Four Ways Christians Read Revelation (End Times)](/categories/end-times#section-interpretive-frameworks).
 `,
     },
   ],

@@ -58,6 +58,8 @@ The millennium forms a separate axis. Premillennialism holds that Christ returns
 
 
 The signs framework set out in the following sections is largely a futurist reading. Amillennial and preterist Christians, who together account for much of the global church including most of the Reformed and Catholic traditions, do not treat current events as prophetic countdown markers[^18].
+
+**See also:** [New Testament: General Epistles and Revelation (The 66 Books)](/categories/bible-books#section-general-epistles-and-revelation).
 `
     },
     {
@@ -77,6 +79,8 @@ In the Olivet Discourse Jesus lists indicators, and the way He frames them diffe
 *   **Moral decline.** Paul's warning to Timothy describes the last days in terms many find recognisable. Every generation has read its own decline into that passage, and Paul's instruction to have nothing to do with such people assumes they were present in Timothy's own congregation[^29].
 
 These signs have characterised most of church history, which fits the reading that they describe the whole already-and-not-yet era rather than pinpointing its end[^30].
+
+**See also:** [Temple Destruction (Prophecy)](/categories/prophecy#section-temple-destruction).
 `
     },
     {
@@ -95,6 +99,8 @@ Jesus told his followers to watch: there will be "signs in the sun, moon and sta
 **Buying and selling.** Revelation says that no one could "buy or sell unless they had the mark" (Revelation 13:16-17). Digital payments, digital identity and biometrics make such control possible on a worldwide scale for the first time. Past generations have identified many people and things as the mark, and all of them proved wrong, so no technology today should be named as the mark itself[^40]. What has changed is that the verse no longer describes something impossible.
 
 **How much weight these can bear.** Christians in many past ages have seen signs in their own days, and the failed predictions set out next are a warning against certainty. The signs do not tell us when. Jesus' instruction is to keep watch and to live ready, whichever generation it turns out to be (Matthew 24:42).
+
+**See also:** [Israel's Regathering (Prophecy)](/categories/prophecy#section-israel-regathering).
 `
     },
     {
@@ -112,6 +118,8 @@ Jesus stated that no one knows the day or hour, not the angels and not the Son, 
 
 
 Any framework flexible enough to map current headlines onto prophecy is flexible enough to have mapped every previous generation's headlines, which is why the method has never produced a correct prediction[^45][^46].
+
+**See also:** [Fig Tree Generation (Prophecy)](/categories/prophecy#section-fig-tree-generation).
 `
     },
     {

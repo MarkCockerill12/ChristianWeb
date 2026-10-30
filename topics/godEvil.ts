@@ -49,6 +49,8 @@ When examining cases where God acts as judge, several biblical principles apply:
 • **Temporal vs. Eternal:** Physical death is not the ultimate evil; separation from God for eternity (spiritual death) is far worse[^6]
 
 • **Protection of the Innocent:** Many theologians hold that, as the Judge of all the earth, God receives into His presence children who die before they can believe, though Scripture does not state this directly[^7]
+
+**See also:** [The Problem of Evil](/categories/problem-of-evil), [The Justice of Eternal Punishment for Finite Sins (Hell)](/categories/hell#section-the-justice-of-hell).
 `,
     },
     {
@@ -87,7 +89,10 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Preservation of the righteous:** Noah and his family were spared because of their righteousness, demonstrating God's selective mercy amidst judgment[^12].
 
-      • **New covenant promise:** Following the flood, God established a covenant with Noah, promising never to destroy the earth by flood again ([Genesis 9:11-17](https://www.biblegateway.com/passage/?search=Genesis+9:11-17&version=NIV)), emphasizing His desire for cosmic stability[^13].`
+      • **New covenant promise:** Following the flood, God established a covenant with Noah, promising never to destroy the earth by flood again ([Genesis 9:11-17](https://www.biblegateway.com/passage/?search=Genesis+9:11-17&version=NIV)), emphasizing His desire for cosmic stability[^13].
+
+**See also:** [Noah's Flood: Global, Regional or Local? (Evolution vs Creation)](/categories/evolution#section-the-flood).
+`
     },
     {
       id: "sodom-gomorrah",
@@ -104,7 +109,10 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Warning and escape:** Lot and his family were warned and physically removed by angels before judgment fell ([Genesis 19:12-16](https://www.biblegateway.com/passage/?search=Genesis+19:12-16&version=NIV)).
 
-      • **Example for future:** The destruction is used throughout Scripture as a physical and moral warning against rampant sexual immorality and social rebellion ([Jude 7](https://www.biblegateway.com/passage/?search=Jude+7&version=NIV), [2 Peter 2:6](https://www.biblegateway.com/passage/?search=2+Peter+2:6&version=NIV)).`
+      • **Example for future:** The destruction is used throughout Scripture as a physical and moral warning against rampant sexual immorality and social rebellion ([Jude 7](https://www.biblegateway.com/passage/?search=Jude+7&version=NIV), [2 Peter 2:6](https://www.biblegateway.com/passage/?search=2+Peter+2:6&version=NIV)).
+
+**See also:** [Sodom and the Retracted Airburst Paper (NASA and the Bible)](/categories/nasa#section-sodom-gomorrah).
+`
     },
     {
       id: "egyptian-plagues",
@@ -128,7 +136,10 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Liberation purpose:** The entire process was aimed at freeing an enslaved people from genocidal oppression, making it an act of justice for the oppressed[^20].
 
-      • **Mixed multitude:** A "mixed multitude" of non-Israelites joined the exodus, indicating that God’s mercy and salvation were available to any who believed[^21].`
+      • **Mixed multitude:** A "mixed multitude" of non-Israelites joined the exodus, indicating that God’s mercy and salvation were available to any who believed[^21].
+
+**See also:** [Is There Evidence for the Exodus? (Archaeology)](/categories/archaeological#section-exodus-evidence).
+`
     },
     {
       id: "canaanite-conquest",
@@ -159,7 +170,10 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Law of the Captive Wife:** In non-*herem* wars, the Law allowed taking non-Canaanite women as wives, but required a month-long period of mourning, rites of transition (shaving the head, paring the nails), and the removal of her captive clothes before marriage, and forbade selling her if she was later divorced ([Deuteronomy 21:10-14](https://www.biblegateway.com/passage/?search=Deuteronomy+21:10-14&version=NIV)). Defenders read this as protection from immediate sexual exploitation; critics note that the woman's consent is never mentioned.
 
-      • **Jesus's Moral Standard:** This regulation should be viewed in light of Jesus's moral teaching, which condemned the internal sin of lust itself, stating that to look at a woman with lustful intent is already adultery in the heart ([Matthew 5:28](https://www.biblegateway.com/passage/?search=Matthew+5:28&version=NIV)). Jesus affirmed an ultimate standard of holiness that transcended the legal minimums of the Old Testament[^28].`
+      • **Jesus's Moral Standard:** This regulation should be viewed in light of Jesus's moral teaching, which condemned the internal sin of lust itself, stating that to look at a woman with lustful intent is already adultery in the heart ([Matthew 5:28](https://www.biblegateway.com/passage/?search=Matthew+5:28&version=NIV)). Jesus affirmed an ultimate standard of holiness that transcended the legal minimums of the Old Testament[^28].
+
+**See also:** [The Moral Argument, Premise by Premise (Morality)](/categories/morality#section-the-moral-argument), [Did God Change?](/categories/did-god-change).
+`
     },
     {
       id: "amalekite-judgment",
@@ -237,7 +251,10 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **A test of faith:** God never intended for Isaac to die. The narrative explicitly calls it a "test" of Abraham's faith, distinguishing Yahweh from the surrounding Canaanite deities who *actually* demanded child sacrifice[^46].
 
-      • **The provision:** God Himself provided the substitute ram, foreshadowing the ultimate substitute: God offering His own Son, Jesus, on the cross for the sins of the world[^47].`
+      • **The provision:** God Himself provided the substitute ram, foreshadowing the ultimate substitute: God offering His own Son, Jesus, on the cross for the sins of the world[^47].
+
+**See also:** [Shellfish, Stoning and the Harsh Laws (Did God Change?)](/categories/did-god-change#section-harsh-old-testament-laws).
+`
     },
     {
       id: "new-testament-judgments",

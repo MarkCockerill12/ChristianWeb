@@ -64,6 +64,8 @@ The Moral Argument formalizes this intuition into a logically valid syllogism[^1
 3.  **Conclusion:** Therefore, God exists.
 
 The argument is valid, so debate turns on its premises. Most atheist philosophers accept Premise 2 and reject Premise 1: non-theistic moral realists such as Derek Parfit, Russ Shafer-Landau and Erik Wielenberg hold that basic moral truths are necessary truths that need no further foundation, while theists reply that such brute moral facts cannot explain moral obligation or why a universe of matter should contain beings bound by it[^13][^14].
+
+**See also:** [The Standard for Judging God (Is God Evil?)](/categories/god-evil#section-principles-of-divine-justice).
 `,
     },
     {
@@ -102,6 +104,8 @@ The Bible provides the logical foundation for our moral reality: *"So God create
 6.  **Confucianism:** *"Do not impose on others what you do not wish for yourself."*
 
 This universal moral insight points to a common source: a moral lawgiver who created all humanity in His image[^28][^29].
+
+**See also:** [Equal in Creation and in Christ (Women)](/categories/women#section-image-of-god), [Human Worth and Rights (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-human-worth).
 `,
     },
     {
@@ -151,6 +155,8 @@ This universal moral insight points to a common source: a moral lawgiver who cre
 • **The Christian Resolution:** Goodness is grounded in God's eternal, unchanging **nature**, not His arbitrary commands or an external standard[^74][^75][^76][^77][^78]. God is essentially holy, loving, just, and merciful. His commands are a reflection of His character. Therefore, goodness is neither independent of God nor arbitrary.
 
 <?viz morality/euthyphro?>
+
+**See also:** [The Standard for Judging God (Is God Evil?)](/categories/god-evil#section-principles-of-divine-justice).
 `
     },
     {
@@ -166,7 +172,10 @@ This universal moral insight points to a common source: a moral lawgiver who cre
 <?viz morality/dignity?>
 
 
-• **Modern Rights:** Even the Universal Declaration of Human Rights has roots in this theological soil. As secular philosopher Jürgen Habermas notes, universalistic egalitarianism is the direct heir of the Judaic ethic of justice and the Christian ethic of love[^88][^89].`
+• **Modern Rights:** Even the Universal Declaration of Human Rights has roots in this theological soil. As secular philosopher Jürgen Habermas notes, universalistic egalitarianism is the direct heir of the Judaic ethic of justice and the Christian ethic of love[^88][^89].
+
+**See also:** [Human Worth and Rights (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-human-worth), [Historical Impact of Christianity on Slavery (Slavery)](/categories/slavery#section-historical-impact).
+`
     },
     {
       id: "modern-moral-objections",
@@ -179,7 +188,25 @@ This universal moral insight points to a common source: a moral lawgiver who cre
 • **The Challenge of Evolution:** Critics claim evolution explains moral feelings, eliminating the need for God[^92][^93]. *Response:* Evolution might explain the *feelings* of cooperation, but it cannot explain moral *duties*. If our beliefs are just survival programming, we have no reason to trust them as true moral facts.
 
 • **The Challenge of Suffering:** If God is good, why is there evil?[^94][^95][^96] *Response:* This objection actually presupposes objective morality. If suffering is objectively "bad" rather than just an unfortunate accident, it requires an objective standard of good (which points back to God).`
-    }
+    },
+    {
+      id: "good-people-and-hell",
+      title: "Would a Good Person Like Gandhi Go to Hell?",
+      tags: ["Objections"],
+      content: `
+**The objection.** Christianity says that a repentant murderer can be saved while a man like Gandhi, who led a nation by non-violence, is lost. Any moral standard that produces that result looks backwards.
+
+**What Gandhi himself said.** He was admired with good reason. He also knew the Christian claim and declined it in his own words: "I cannot ascribe exclusive divinity to Jesus. He is as divine as Krishna or Rama or Mahomed or Zoroaster"[^97]. He was a man of conviction, and the question should treat him as one, not as someone who had never heard.
+
+**Good compared with whom?** The objection measures people against one another, and by that measure Gandhi stands high. Jesus measures differently: "No one is good, except God alone" (Mark 10:18). Paul says that "all have sinned and fall short of the glory of God" (Romans 3:23). No one is being told that Gandhi was not admirable. The claim is that the standard is the character of God, as argued above, and that nobody meets it.
+
+**The gospel is not a reward for the good.** If heaven were a prize for goodness, there would have to be a pass mark, and everyone just below it would have a grievance. Christianity says there is no such mark: salvation is "by grace... not by works, so that no one can boast" (Ephesians 2:8-9). That is why a dying thief can be told, "Today you will be with me in paradise" (Luke 23:43), and why Paul, who hunted Christians, calls himself the worst of sinners (1 Timothy 1:15). Grace does seem unfair, and Jesus' parable of the workers paid the same wage for an hour's work says so openly (Matthew 20:1-16). The complaint in that parable is the same one being made here.
+
+**What Christians may not say.** No Christian is in a position to announce the final state of any person. "Will not the Judge of all the earth do right?" (Genesis 18:25). Paul tells believers to "judge nothing before the appointed time" (1 Corinthians 4:5), and he says that people will be judged according to the light they had (Romans 2:14-16). The [hell topic](/categories/hell) sets out the degrees of punishment and [those who never heard](/categories/hell#section-those-who-never-heard).
+
+**What remains hard.** The objection has real moral force, and philosophers continue to debate whether a loving God could allow anyone to be lost forever[^98]. Christians who feel no difficulty here have probably not thought about it. The objection also assumes that some people really are good and that some outcomes really are unjust, which is the kind of objective moral claim this topic argues needs a foundation.
+`,
+    },
   ],
               sources: [
     "1. Reasonable Faith - The Indispensability of Theological Meta-Ethical Foundations: https://www.reasonablefaith.org/writings/scholarly-writings/the-existence-of-god/the-indispensability-of-theological-meta-ethical-foundations-for-morality",
@@ -277,6 +304,8 @@ This universal moral insight points to a common source: a moral lawgiver who cre
     "93. Stanford Encyclopedia of Philosophy - Morality and Evolutionary Biology: https://plato.stanford.edu/entries/morality-biology/",
     "94. The Gospel Coalition - The Problem of Evil: https://www.thegospelcoalition.org/essay/the-problem-of-evil/",
     "95. GotQuestions - Why does God allow evil?: https://www.gotquestions.org/God-allow-evil.html",
-    "96. Stanford Encyclopedia of Philosophy - The Problem of Evil: https://plato.stanford.edu/entries/evil/"
+    "96. Stanford Encyclopedia of Philosophy - The Problem of Evil: https://plato.stanford.edu/entries/evil/",
+    "97. [Primary Source] M. K. Gandhi, 'Only Begotten Son of God?', Harijan, 6 March 1937, in What Jesus Means to Me. Gandhi Sevagram Ashram. https://www.mkgandhi.org/whatjesusmeanstome/04sonofgod.php",
+    "98. [Academic] Stanford Encyclopedia of Philosophy. 'Heaven and Hell in Christian Thought.' https://plato.stanford.edu/entries/heaven-hell/"
   ]
 }

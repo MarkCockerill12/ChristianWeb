@@ -40,6 +40,8 @@ The Protestant argument rests on the structure of justification[^3].
 *   **Reading Acts 2:38.** The Greek preposition *eis* (εἰς, into, for), translated "for the forgiveness of your sins," is argued by some to carry a causal sense meaning "because of," making baptism the response to forgiveness rather than its cause[^7].
 
 The causal reading of *eis* is a minority position among Greek grammarians and is widely disputed, and most standard lexicons do not list a clearly causal sense. Sacramental interpreters also answer that the thief died before the resurrection and the command of Matthew 28:19, so his case is exceptional rather than normative[^8].
+
+**See also:** [Ephesians 2:8-9 vs James 2:24 - salvation by faith alone vs salvation by works too (Contradictions)](/categories/contradictions#section-FaithAlone).
 `
     },
     {
@@ -111,6 +113,8 @@ The shared ground between the positions is larger than popular treatments sugges
 For an individual asking the question, every tradition gives the same instruction, which is to trust Christ and be baptised. The doctrinal dispute concerns the mechanism rather than the practice.
 
 Presenting one of these positions as simply what the Bible teaches requires the claim that Augustine, Aquinas, Luther and the entire Eastern church misread the New Testament on a basic point, which is a claim requiring argument rather than assumption[^37][^38].
+
+**See also:** [Branches of Christianity](/categories/branches).
 `
     }
   ],

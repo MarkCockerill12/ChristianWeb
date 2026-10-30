@@ -81,6 +81,8 @@ A theological argument distinct from the philosophical ones turns on the nature 
 God, who is love in His essence, created human beings for relationship with Him. A relationship guaranteed by construction would be something other than love, and a programmed affirmation offers no intimacy[^28]. The freedom to accept therefore entails the freedom to reject, and the risk of rebellion was the price of a universe containing creatures capable of genuine devotion[^29].
 
 The strongest objection holds that God could have created beings who freely love Him without exception, since a choice freely made for good once is possible always. Plantinga answers by appealing to transworld depravity, the claim that such a world may not have been feasible for God to actualise, and whether that reply succeeds remains disputed[^30].
+
+**See also:** [Why a Prohibition Was Necessary (The Tree of Knowledge)](/categories/tree-of-knowledge#section-why-a-prohibition).
 `
     },
     {
@@ -95,6 +97,8 @@ A world containing significantly free creatures is more valuable than one contai
 The argument is a defense rather than a theodicy, aiming only to show that the existence of God and the existence of evil are not logically contradictory. It does not claim to state God's actual reasons for permitting any particular evil, and Plantinga was explicit on that point[^34].
 
 It is widely regarded as having succeeded against the logical problem of evil, with most philosophers of religion including many atheists accepting that the bare incompatibility charge fails. The evidential problem, concerning whether the amount and distribution of suffering makes God's existence improbable, remains fully live and is where the contemporary debate sits[^35].
+
+**See also:** [The Free Will Defense (The Problem of Evil)](/categories/problem-of-evil#section-free-will-defense).
 `
     },
     {
@@ -148,6 +152,8 @@ Scripture asserts both truths without resolving the mechanism, and the doctrine 
 God is described as doing whatever pleases Him and as declaring the end from the beginning, while human beings are treated throughout as fully responsible agents whose choices have real effect[^56]. Concurrence holds that an action is entirely the agent's own and simultaneously entirely under God's providential governance, which describes what Scripture affirms rather than explaining how it operates[^57].
 
 Collapsing the tension in either direction carries practical cost. Fatalism breeds passivity, and a God whose purposes depend on human cooperation is not the God of Scripture. Holding both sustains urgent action alongside genuine rest[^58].
+
+**See also:** [Why Pray if God Already Has a Plan? (Prayer)](/categories/prayer#section-why-pray).
 `
     }
   ],

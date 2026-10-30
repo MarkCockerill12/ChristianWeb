@@ -57,6 +57,8 @@ Printed Greek New Testaments fall into three families, and the family a translat
 
 - **The Majority Text** follows whatever reading most surviving manuscripts contain. Because more than 80% of the later minuscule manuscripts carry the Byzantine text, this produces a Byzantine text, edited in modern form by Hodges and Farstad and by Robinson and Pierpont[^17][^18].
 - **The Critical Text**, published as the Nestle-Aland 28th edition and the identical United Bible Societies 5th edition, weighs the age and quality of manuscripts rather than their number. It forms the basis of most modern translations[^19][^20].
+
+**See also:** [Was the Quran Perfectly Preserved? (Islam)](/categories/islam#section-preservation), [Did Constantine or the Council of Nicaea Choose the Bible? (The Canon)](/categories/canon#section-did-constantine-choose-the-bible).
 `
     },
     {
@@ -208,6 +210,8 @@ Joseph Smith revised the KJV, mostly between 1830 and 1833, describing the work 
 ### The Passion Translation
 
 The Passion Translation, led by Brian Simmons (New Testament 2017), is marketed as a translation, but scholars have criticised it as a one-man paraphrase that adds material without support in the manuscripts[^137][^138][^139]. Bible Gateway removed it from its site in early 2022; its publisher said the licence was discontinued without explanation[^140][^141].
+
+**See also:** [Jehovah's Witnesses (Other Religions)](/categories/religions#section-jehovahswitnesses), [Mormonism (LDS) (Other Religions)](/categories/religions#section-mormonism).
 `
     },
     {
@@ -224,6 +228,8 @@ Lists of "verses removed from the NIV" circulate widely. The same verses are mis
 - **Revelation 22:19.** Erasmus's only manuscript of Revelation lacked the final six verses, so he translated them back into Greek from the Latin Vulgate. The KJV's "book of life" in 22:19, against "tree of life" in the Greek manuscripts, comes from that back-translation[^155][^156][^157].
 
 No doctrine depends on these passages. The Trinity, for example, is taught throughout the New Testament without the Comma Johanneum (Matthew 28:19; 2 Corinthians 13:14)[^158].
+
+**See also:** [Historical Development and Heresies (The Trinity)](/categories/trinity#section-history-and-heresies).
 `
     },
     {
@@ -246,6 +252,8 @@ In verse 25 the man overpowers a betrothed woman in the open country, and he alo
 ### John 1:18: modern versions and the deity of Christ
 
 The KJV and NKJV read "the only begotten Son", following later manuscripts. The oldest manuscripts read *monogenēs theos* (μονογενὴς θεός, only God), "the only God" or "God the One and Only", so the NASB, LSB, ESV, NIV, CSB and NLT name the Son as God in this verse more directly than the KJV does[^174][^175]. The ESV's 2025 edition changed its rendering from "the only God" to "God the only Son"[^176][^177].
+
+**See also:** [Linguistic Analysis: Arsenokoitai and Malakoi (Homosexuality)](/categories/homosexuality#section-greek-terms), [Virgin Birth Prophecy (Prophecy)](/categories/prophecy#section-virgin-birth), [Deuteronomy 22 and the Laws on Sexual Violence (Women)](/categories/women#section-sexual-violence-laws).
 `
     },
     {

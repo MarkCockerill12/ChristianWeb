@@ -1,3 +1,5 @@
+import type { TopicLevel } from "./extras/organisation"
+
 export interface TimelineEvent {
   id: number
   date: string
@@ -48,6 +50,10 @@ export interface Topic {
   tldr?: string
   hero?: TopicHero
   questions?: ChallengeQuestion[]
+  /** How demanding the topic is, shown on its card and page. */
+  level?: TopicLevel
+  /** Topics to read next, resolved to what the page needs to link to them. */
+  relatedTopics?: ReadonlyArray<{ id: string; title: string; description: string }>
   timeline?: TimelineEvent[]
   subtopics?: Array<{
     id: string

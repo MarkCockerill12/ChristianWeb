@@ -41,6 +41,8 @@ The most damaging evidence comes from Islam's own texts, so those are cited dire
 **Sunni and Shia.** The main division began as a dispute over who should succeed Muhammad. It turned violent in the civil war of 656 to 661 and was sealed by the killing of Muhammad's grandson Husayn at Karbala in 680[^4].
 
 **Salvation.** Deeds are weighed at the judgment, and no one has assurance. The Quran has Muhammad say that he does not know what will happen to him (Quran 46:9)[^5], and he told his followers that even he would not enter paradise by his deeds unless God gave him mercy[^6]. The contrast with the New Testament is direct: "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life" (1 John 5:13).
+
+**See also:** [Other Religions](/categories/religions).
 `,
     },
     {
@@ -314,6 +316,8 @@ The problem cuts two ways. Anyone who rejects the hadith to avoid such errors, a
 **A fair statement.** After Uthman the text was transmitted with considerable care, and the Quran is an unusually stable book from then on. That is not the claim being made. The claim is divine preservation of what was revealed, and on Islam's own reports some of it was burned, some forgotten and some lost.
 
 The New Testament's variants, by contrast, are visible in thousands of manuscripts across several regions because no authority ever tried to destroy the alternatives, which is why the original can be reconstructed. The [Bible translations topic](/categories/bible-translations) sets out that evidence.
+
+**See also:** [What Translators Actually Translate: The Manuscripts (Bible Translations)](/categories/bible-translations#section-manuscripts).
 `,
     },
     {
@@ -375,6 +379,8 @@ This is the most serious difficulty in Islam, because it does not depend on any 
 **The Gospel of Barnabas.** This work has Jesus deny being the Messiah and foretell Muhammad by name, and it is sometimes offered as the true Gospel. Scholars date it to the late medieval period or later. It uses medieval Italian conventions, and it has a jubilee every hundred years, a rule introduced by Pope Boniface VIII in 1300, where the Jewish jubilee is every fifty[^220]. It also contradicts the Quran by denying that Jesus is the Messiah.
 
 **The result.** The Quran calls these Scriptures a witness to Muhammad, yet none of the proposed passages describes him. The [prophecy topic](/categories/prophecy) sets out what the Old Testament does foretell.
+
+**See also:** [Jewish Objections to Jesus as Messiah (Other Religions)](/categories/religions#section-jewish-objections).
 `,
     },
     {
@@ -421,6 +427,8 @@ The Quran honours Jesus: born of a virgin, called the Messiah, a worker of mirac
 **What Islam itself says of the two.** Muslims teach that Jesus was born of a virgin and that Muhammad was not (Quran 19:20). They teach that Jesus was "a pure son" (Quran 19:19) who is never told to seek forgiveness, while Muhammad is told to do so more than once (Quran 47:19). The Quran credits Jesus with healing the blind and the leper and raising the dead (Quran 3:49), and when Muhammad is asked for signs it replies that "Signs are only with Allah" and that the Book is enough (Quran 29:50-51)[^251]. Later hadith attribute miracles to Muhammad, such as the splitting of the moon, but the Quran itself does not credit him with healing or raising anyone. On Islam's own account, then, the one it calls a lesser prophet is the one without sin, born of a virgin and raising the dead, and those facts raise the question of why he should not be followed above the one who came after him.
 
 **The consequences.** Without the cross there is no atonement. Islam offers a scale and an unknown verdict; the gospel gives a sinner a substitute and a certain one.
+
+**See also:** [Jesus' Claims](/categories/jesus).
 `,
     },
     {

@@ -38,6 +38,8 @@ The two gods reading was formulated, tested, and rejected within the second cent
 
 
 The modern objection is a version of Marcion's and inherits the same method, which is a selective reading of each testament[^8].
+
+**See also:** [Other Major Errors (Heresies and Fallacies)](/categories/heresies-and-fallacies#section-other-heresies).
 `
     },
     {
@@ -56,6 +58,8 @@ The caricature struggles against the Old Testament's most repeated statement abo
 *   **Judgment as the reluctant last resort.** Hosea and Ezekiel present God pleading with Israel to return, stating explicitly that He takes no pleasure in the death of the wicked[^14].
 
 Old Testament judgment is severe and real. The wrath-only reading requires ignoring the material the Old Testament itself treats as its headline description of God[^15].
+
+**See also:** [God's Character and the Cross (Is God Evil?)](/categories/god-evil#section-gods-character).
 `
     },
     {
@@ -72,7 +76,7 @@ The inverse half of the caricature fails just as badly[^16].
 
 Anyone reading the New Testament as uniformly gentle applies to it exactly the selectivity that the wrathful Old Testament reading applies in the other direction[^21].
 
-
+**See also:** [Hell](/categories/hell).
 `
     },
     {
@@ -124,6 +128,8 @@ How completely the new covenant replaces the old, and what that means for Israel
 **Which laws apply.** Christian theology has long distinguished moral, civil and ceremonial law[^41]. Food and purity laws marked Israel out, and the New Testament explicitly ends them: Jesus "declared all foods clean" (Mark 7:19), and Peter's vision and the Jerusalem council settled the matter for Gentiles (Acts 10; 15). Civil penalties belonged to Israel's own national covenant, and no New Testament church was given them to enforce. The moral law is repeated in the New Testament. This is a principle given by the texts themselves, which is why the Christian position on shellfish does not settle anything about the moral commands.
 
 **The penalties themselves.** These are harder, and the distinction does not make them comfortable. Some interpreters note that the rebellious son of Deuteronomy 21 is a violent drunkard, brought before the elders by both parents, which limited a father's power of life and death, and that later Jewish law made the penalty almost impossible to carry out. Jesus, faced with a woman liable to stoning, says, "Let any one of you who is without sin be the first to throw a stone" (John 8:7), though that passage is absent from the earliest manuscripts. These laws still leave real difficulties for Christians, and the [is God evil topic](/categories/god-evil) addresses the hardest of them.
+
+**See also:** [Slavery](/categories/slavery), [Servitude, Vows, Purity and Inheritance (Women)](/categories/women#section-household-law).
 `,
     },
     {

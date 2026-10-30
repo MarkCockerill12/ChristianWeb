@@ -13,6 +13,7 @@ export default function CategoriesPage() {
     icon: topic.icon,
     color: topic.color,
     tags: topic.tags,
+    level: topic.level,
     image: topic.hero?.src,
     imagePosition: topic.hero?.position,
     imageAlt: topic.hero?.alt,

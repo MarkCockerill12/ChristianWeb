@@ -65,6 +65,8 @@ Philip was from Bethsaida, where Jesus fed the 5,000 [John 6:5-7](https://www.bi
   - Peter's house identified with early Christian veneration[^44][^45][^46]
   - Basalt foundations beneath the later limestone synagogue are thought by many archaeologists to belong to the first-century synagogue, though this is debated[^47][^48]
   - Confirms Gospel descriptions of Jesus's Galilean ministry base[^49][^50][^51]
+
+**See also:** [Can the Gospels Be Trusted? (The Resurrection)](/categories/resurrection#section-gospel-reliability), [External Historical Testimony (Jesus' Claims)](/categories/jesus#section-external-testimony).
 `
     },
     {
@@ -113,6 +115,8 @@ Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](ht
 - A clay cylinder from the 6th century BC (c. 539 BC) inscribed with a declaration by Cyrus the Great, king of Persia[^102][^103][^104].
   - It describes his policy of allowing exiled peoples to return to their homelands and rebuild the sanctuaries of their gods[^105][^106][^107].
   - While it doesn't name the Jews, this general policy strongly corroborates the biblical account in [Ezra 1:1-4](https://www.biblegateway.com/passage/?search=Ezra+1%3A1-4&version=NIV), which records a specific edict from Cyrus for the Jews to return to Jerusalem and rebuild the Temple[^108][^109].
+
+**See also:** [NASA and the Bible](/categories/nasa), [Destruction of Tyre (Prophecy)](/categories/prophecy#section-tyre-destruction).
 `
     },
     {
@@ -135,6 +139,8 @@ Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](ht
 **The numbers.** The text's 600,000 men (Exodus 12:37) imply a population of about 2.5 million, far more than the land or the archaeology of Sinai and Canaan can support[^115]. Some scholars take the Hebrew *elef* (אֶלֶף, thousand, or a clan) as a group or clan, not "a thousand", which brings the total down sharply[^116]. Others defend the plain figure.
 
 **Assessment.** The evidence is consistent with a historical Exodus in the setting the Bible describes, and it does not confirm one. Whatever else it shows, Israel remembered itself from the start as a nation of freed slaves, an unlikely origin for a people to invent. The [NASA topic](/categories/nasa) covers the physics of the Red Sea crossing.
+
+**See also:** [The Red Sea Crossing and Wind Setdown (NASA and the Bible)](/categories/nasa#section-red-sea-crossing), [The Egyptian Plagues and Firstborn Deaths (Is God Evil?)](/categories/god-evil#section-egyptian-plagues).
 `,
     },
     {
@@ -245,6 +251,8 @@ Non-Christian writers of the ancient world attest Jesus's existence[^155][^156][
   - **Biblical canon**: Evidence for established Hebrew scriptures before Christ[^235][^236][^237].
   - **Nash Papyrus**: Ten Commandments from 2nd century BC[^238][^239][^240]
   - **Aleppo Codex**: Medieval manuscript matching ancient texts[^241][^242][^243]
+
+**See also:** [What Translators Actually Translate: The Manuscripts (Bible Translations)](/categories/bible-translations#section-manuscripts), [The Canon](/categories/canon).
 `
     },
     {
