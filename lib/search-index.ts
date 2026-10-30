@@ -17,8 +17,7 @@ export interface SearchEntry {
 export function plainText(markup: string): string {
   return markup
     .replace(/<p><strong>See also:<\/strong>.*?<\/p>/g, " ")
-    .replace(/\*\*See also:\*\*[^
-]*/g, " ")
+    .replace(/\*\*See also:\*\*.*/g, " ")
     .replace(/<\?viz[^?]*\?>/g, " ")
     .replace(/\[\^[^\]]+\]/g, "")
     .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1")
