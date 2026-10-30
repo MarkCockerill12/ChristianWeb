@@ -9,9 +9,9 @@ import { UpdatesFeed, type UpdateItem } from "./updates-feed"
 const whatsNewItems: UpdateItem[] = [
   {
     id: 11,
-    title: "New Topics on Islam and Abortion, and Every Page Rebuilt",
+    title: "New Topics on Islam, Abortion and Christianity's Record, and Every Page Rebuilt",
     description:
-      "Two new topics: Islam, covering what it gets right, the life, wives and death of Muhammad, the Quran's sources and errors, paradise and hell, and its history, all from the Quran and hadith directly; and abortion, setting out the Bible's pro-life teaching, why saving a mother's life is not murder, and the grace owed to everyone affected. Every page now moves from a quick visual overview to questions to ask of each challenge and then the sections in depth, with new pictures and an interactive chart of the Bible's prophecies. Arguments for God's existence, the reliability of the Gospels and the evidence for the Exodus have joined the existing topics. Every citation was checked by hand against its claim, more than 470 new sources were added, and factual errors and overstated claims were corrected across the site.",
+      "Two new topics: Islam, covering what it gets right, the life, wives and death of Muhammad, the Quran's sources and errors, paradise and hell, and its history, all from the Quran and hadith directly; and abortion, setting out the Bible's pro-life teaching, why saving a mother's life is not murder, and the grace owed to everyone affected. Every page now moves from a quick visual overview to questions to ask of each challenge and then the sections in depth, with new pictures and an interactive chart of the Bible's prophecies. Arguments for God's existence, the reliability of the Gospels and the evidence for the Exodus have joined the existing topics. A third new topic sets out the good Christianity has done for the world and the Church's own failures, and other topics now answer unanswered prayer, Jesus' existence, the atonement, psychology and upbringing. Every citation was checked by hand against its claim, more than 470 new sources were added, and factual errors and overstated claims were corrected across the site.",
     date: "30/10/2026",
     category: "Site Update",
     link: "/categories",

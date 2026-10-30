@@ -6,6 +6,14 @@ import type { ChallengeQuestion } from "../types"
  * none. `section` is checked against the topic's subtopics by scripts/check_extras.ts.
  */
 export const QUESTIONS: Record<string, ChallengeQuestion[]> = {
+  "christianity-and-the-world": [
+    {
+      claim: "Christianity has done more harm than good.",
+      asks: ["By what standard do you judge those acts to be wrong, and where did it come from?", "Would Jesus' own teaching condemn them?", "Who founded the first public hospitals, and who led the campaign against the slave trade?", "Have officially atheist governments done better?"],
+      point: "The harm is real and should be admitted. Weighing it fairly means setting it against the good, against the alternatives, and against what Christ actually taught.",
+      section: "weighing-the-record",
+    },
+  ],
   abortion: [
     {
       claim: "It's my body, my choice.",

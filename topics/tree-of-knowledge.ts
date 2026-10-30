@@ -104,7 +104,19 @@ The prohibition marked a boundary that the image of God does not erase. Genesis 
 
 Temptation follows the same pattern in the New Testament, where desire conceives and gives birth to sin. The mechanism visible in Eden recurs throughout Scripture[^29].
 `
-    }
+    },
+    {
+      id: "is-original-sin-fair",
+      title: "Is It Fair to Inherit Adam's Sin?",
+      tags: ["Objections"],
+      content: `
+**The objection.** Why should anyone be condemned for what a distant ancestor did?
+
+**Christians differ.** Augustine taught that all humanity shares the guilt of Adam's sin, which became the basis of Western teaching. The Orthodox tradition holds that people inherit mortality and a damaged nature, and not Adam's guilt[^30]. Ezekiel 18:20 says that "the child will not share the guilt of the parent", and Paul adds that death spread to all "because all sinned" (Romans 5:12). Whichever view is right, no one is condemned for sins they have not shared in.
+
+**The experience of it.** Some of the force of the doctrine is simply observation. People are born into families and histories that damage them, and no one needs to be taught selfishness. G. K. Chesterton called original sin the one doctrine that can be proved by looking around. Representation is also ordinary: a nation's leader can bring it into war. Adam stands at the head of the race in that way, and in the same way Christ stands at the head of a new one: "as in Adam all die, so in Christ all will be made alive" (1 Corinthians 15:22). The objection that it is unfair to be represented by Adam is also one against being saved through Christ.
+`,
+    },
   ],
             sources: [
     "1. [Lexical] Bible Hub. Hebrew 3045, yada (to know). The verb behind knowledge in Genesis 2:17. https://biblehub.com/hebrew/3045.htm",
@@ -135,7 +147,8 @@ Temptation follows the same pattern in the New Testament, where desire conceives
     "26. [Commentary] Bible Hub. 'Commentaries on Genesis 3:5.' The serpent's promise of divinity. https://biblehub.com/commentaries/genesis/3-5.htm",
     "27. [Theology] Association of Certified Biblical Counselors. Because I Am Not God: Three Reflections on the Creator-Creature Distinction. https://biblicalcounseling.com/resource-library/articles/because-i-am-not-god-three-reflections-on-the-creator-creature-distinction/",
     "28. [Commentary] Bible Hub. 'Commentaries on Proverbs 9:10.' https://biblehub.com/commentaries/proverbs/9-10.htm",
-    "29. [Commentary] Bible Hub. 'Commentaries on James 1:15.' https://biblehub.com/commentaries/james/1-15.htm"
+    "29. [Commentary] Bible Hub. 'Commentaries on James 1:15.' https://biblehub.com/commentaries/james/1-15.htm",
+    "30. [Encyclopedia] Wikipedia. 'Original sin.' https://en.wikipedia.org/wiki/Original_sin"
   ],
   lastUpdated: "30-10-2026"
 }

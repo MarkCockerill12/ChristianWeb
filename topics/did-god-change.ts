@@ -115,15 +115,27 @@ How completely the new covenant replaces the old, and what that means for Israel
 `
     },
     {
+      id: "harsh-old-testament-laws",
+      title: "Shellfish, Stoning and the Harsh Laws",
+      tags: ["Objections"],
+      content: `
+**The objection.** The Law of Moses orders the stoning of rebellious sons (Deuteronomy 21:18-21) and Sabbath-breakers (Numbers 15:32-36), and forbids shellfish and mixed fabrics (Leviticus 11:10; 19:19). Christians ignore these, and critics say that they pick and choose.
+
+**Which laws apply.** Christian theology has long distinguished moral, civil and ceremonial law[^41]. Food and purity laws marked Israel out, and the New Testament explicitly ends them: Jesus "declared all foods clean" (Mark 7:19), and Peter's vision and the Jerusalem council settled the matter for Gentiles (Acts 10; 15). Civil penalties belonged to Israel's own national covenant, and no New Testament church was given them to enforce. The moral law is repeated in the New Testament. This is a principle given by the texts themselves, which is why the Christian position on shellfish does not settle anything about the moral commands.
+
+**The penalties themselves.** These are harder, and the distinction does not make them comfortable. Some interpreters note that the rebellious son of Deuteronomy 21 is a violent drunkard, brought before the elders by both parents, which limited a father's power of life and death, and that later Jewish law made the penalty almost impossible to carry out. Jesus, faced with a woman liable to stoning, says, "Let any one of you who is without sin be the first to throw a stone" (John 8:7), though that passage is absent from the earliest manuscripts. These laws still leave real difficulties for Christians, and the [is God evil topic](/categories/god-evil) addresses the hardest of them.
+`,
+    },
+    {
       id: "assessment",
       title: "Assessment",
       tags: ["Covenant"],
       content: `
-The objection depends on a selective reading of both testaments. The Old Testament's own creedal self-description is of a God slow to anger and abounding in love, while the New Testament contains Scripture's most severe judgment material. Removing the selectivity causes the two portraits to converge sharply[^41].
+The objection depends on a selective reading of both testaments. The Old Testament's own creedal self-description is of a God slow to anger and abounding in love, while the New Testament contains Scripture's most severe judgment material. Removing the selectivity causes the two portraits to converge sharply[^42].
 
-The texts in which God relents are genuine data, and the classical doctrine of immutability requires careful statement to accommodate them[^42].
+The texts in which God relents are genuine data, and the classical doctrine of immutability requires careful statement to accommodate them[^43].
 
-What changed was the covenant, the ceremonial apparatus, and the stage of revelation, administered by the same God toward the same ends. On the historic Christian account the incarnation is not a change in God's character but its clearest expression, displaying the same holiness and the same mercy now visible in a person[^43].
+What changed was the covenant, the ceremonial apparatus, and the stage of revelation, administered by the same God toward the same ends. On the historic Christian account the incarnation is not a change in God's character but its clearest expression, displaying the same holiness and the same mercy now visible in a person[^44].
 `
     }
   ],
@@ -168,9 +180,10 @@ What changed was the covenant, the ceremonial apparatus, and the stage of revela
     "38. [Commentary] Bible Hub. Matthew 5:28 Commentaries. https://biblehub.com/commentaries/matthew/5-28.htm",
     "39. [Reference] Wikipedia. Biblical law in Christianity. How Christians have distinguished moral, civil and ceremonial law. https://en.wikipedia.org/wiki/Biblical_law_in_Christianity",
     "40. [Reference] Wikipedia. Supersessionism. The disputed question of how far the new covenant replaces the old. https://en.wikipedia.org/wiki/Supersessionism",
-    "41. [Apologetics] Billy Graham Evangelistic Association. Is it true that the God of the Old Testament is different from the God of the New Testament? https://billygraham.org.uk/answer/is-it-true-that-the-god-of-the-old-testament-is-different-from-the-god-of-the-new-testament/",
-    "42. [Academic] Bob Jones University Seminary. Greater Is He Than Man Can Know: Divine Repentance. Journal article on the relenting texts. https://seminary.bju.edu/files/2022/03/JBTW2.2_Article05_GreaterIsHeThanManCanKnow.pdf",
-    "43. [Commentary] Bible Hub. 'Commentaries on Hebrews 13:8.' https://biblehub.com/commentaries/hebrews/13-8.htm"
+    "41. [Encyclopedia] Wikipedia. 'Christian views on the old covenant.' https://en.wikipedia.org/wiki/Christian_views_on_the_old_covenant",
+    "42. [Apologetics] Billy Graham Evangelistic Association. Is it true that the God of the Old Testament is different from the God of the New Testament? https://billygraham.org.uk/answer/is-it-true-that-the-god-of-the-old-testament-is-different-from-the-god-of-the-new-testament/",
+    "43. [Academic] Bob Jones University Seminary. Greater Is He Than Man Can Know: Divine Repentance. Journal article on the relenting texts. https://seminary.bju.edu/files/2022/03/JBTW2.2_Article05_GreaterIsHeThanManCanKnow.pdf",
+    "44. [Commentary] Bible Hub. 'Commentaries on Hebrews 13:8.' https://biblehub.com/commentaries/hebrews/13-8.htm"
   ],
   lastUpdated: "30-10-2026"
 }

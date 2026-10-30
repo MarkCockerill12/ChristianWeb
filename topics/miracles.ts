@@ -200,6 +200,18 @@ Critics answer that a small number of unexplained recoveries among millions of p
 **Not every prayer is answered with healing:** Paul left Trophimus sick at Miletus (2 Timothy 4:20), advised Timothy to take wine for his frequent illnesses (1 Timothy 5:23), and was refused the removal of his own "thorn in the flesh" (2 Corinthians 12:7-9).`
     },
     {
+      id: "extraordinary-claims",
+      title: "Extraordinary Claims Require Extraordinary Evidence",
+      tags: ["Objections"],
+      content: `
+Carl Sagan's slogan, with roots in Laplace and others, says that the more unlikely a claim, the stronger the evidence it needs[^57]. As a principle of weighing evidence, it is fair, and Christians should accept it.
+
+It raises a question, however, about what counts as extraordinary. A miracle is unlikely if the universe is a closed system, and much less so if God exists. So the slogan cannot settle the matter by itself, because the answer depends on what one already believes about God. And it does not mean that the evidence has to be of a special kind: extremely unlikely events are accepted every day on ordinary testimony, such as a report of a lottery result.
+
+The strongest test case is the resurrection. It is extraordinary, and what is offered in support is also unusual: early testimony, a transformed group of witnesses, and people willing to die for what they said they saw, as the [resurrection topic](/categories/resurrection) sets out.
+`,
+    },
+    {
       id: "a-personal-experience",
       title: "A Personal Experience",
       tags: ["Cases"],
@@ -264,7 +276,8 @@ I had a personal experience of something highly coincidental. My church is locat
     "53. [Academic] Denver Journal (Denver Seminary). Review of Keener, 'Miracles.' https://denverjournal.denverseminary.edu/the-denver-journal-article/miracles-the-credibility-of-the-new-testament-accounts/",
     "54. [Reference] Wikipedia. 'Miracle.' https://en.wikipedia.org/wiki/Miracle",
     "55. [Reference] Wikipedia. 'Cessationism versus continuationism.' https://en.wikipedia.org/wiki/Cessationism",
-    "56. [Reference] Wikipedia. 'Mark 16.' The longer ending and its manuscript evidence. https://en.wikipedia.org/wiki/Mark_16"
+    "56. [Reference] Wikipedia. 'Mark 16.' The longer ending and its manuscript evidence. https://en.wikipedia.org/wiki/Mark_16",
+    "57. [Encyclopedia] Wikipedia. 'Sagan standard.' https://en.wikipedia.org/wiki/Sagan_standard"
   ],
   lastUpdated: "30-10-2026"
 }

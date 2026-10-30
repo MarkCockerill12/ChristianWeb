@@ -189,6 +189,42 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
 `,
     },
     {
+      id: "did-jesus-exist",
+      title: "Did Jesus Even Exist?",
+      tags: ["Objections"],
+      content: `
+The theory that Jesus never existed, the Christ myth theory, is popular online, and has a few academic defenders such as Richard Carrier. Almost all historians of the period reject it, whatever their beliefs[^42]. Bart Ehrman, an agnostic critic of Christianity, wrote a whole book, *Did Jesus Exist?*, arguing that he did.
+
+The reasons are these. Paul knew Jesus' brother James and his disciple Peter personally (Galatians 1:18-19). Several independent sources report him within decades, among them Mark, Paul, Josephus and Tacitus. Nobody inventing a Messiah for first-century Jews would have made him a crucified Galilean, baptised by another man. The parallels with pagan gods that are usually offered do not hold up, as the [pagan origins topic](/categories/pagan-origins) sets out.
+
+Whether he existed is therefore the easy question. The difficult one is who he was.
+`,
+    },
+    {
+      id: "did-paul-invent-christianity",
+      title: "Did Paul Invent Christianity?",
+      tags: ["Objections"],
+      content: `
+**The objection.** Jesus preached the kingdom of God, and Paul turned him into a divine saviour, so what Christians believe is Paul's religion. Scholars have long discussed how far Paul's teaching and the earliest church differed[^43].
+
+**The evidence.** Paul's earliest letters quote material that was already fixed before him. The creed in 1 Corinthians 15:3-7 has Jesus dying for sins and rising, and it dates from within a few years of the cross. Paul also quotes the Aramaic prayer *Maranatha*, "Our Lord, come" (1 Corinthians 16:22), which shows Aramaic-speaking believers praying to Jesus before Paul was writing to Greek speakers. Peter and James, who knew Jesus, gave Paul "the right hand of fellowship" (Galatians 2:9), and Paul says that he and they preached the same message (1 Corinthians 15:11). They disagreed over how Gentiles should be treated (Galatians 2:11), and no record shows any of them disputing who Jesus was. The Gospels also have Jesus himself forgiving sins and claiming authority that belongs to God, as set out above.
+`,
+    },
+    {
+      id: "is-the-atonement-just",
+      title: "Is It Just for an Innocent Man to Die for the Guilty?",
+      tags: ["Objections"],
+      content: `
+**The objection.** Punishing an innocent person for someone else's crime is unjust, and critics have called the doctrine "cosmic child abuse", a phrase from the British pastor Steve Chalke, who was himself criticising one form of it[^44].
+
+**The response.** The charge pictures an angry father and an unwilling son. The New Testament pictures something else. Jesus says: "No one takes it from me, but I lay it down of my own accord" (John 10:18), and "God was reconciling the world to himself in Christ" (2 Corinthians 5:19). If Jesus is God, as Christians claim, then the judge is bearing the penalty himself, as when someone who has been wronged pays the cost of forgiving it. Forgiveness always costs the one who forgives.
+
+**Christians differ on how it works.** Scripture uses several pictures of the cross: a sacrifice, a ransom, a victory over evil, and a substitution. Penal substitution, held by the Reformers and by many evangelicals, is one account, while the Orthodox tradition stresses Christ's victory over death, and Anselm stressed satisfaction of God's honour. All of them agree that Christ's death does what no one else could do.
+
+**What remains.** How one person's death can deal with others' guilt is a real question. A courtroom picture only goes so far, since guilt is not usually transferable in human law. Christians answer that believers are united with Christ (Romans 6:5), so that the exchange is not a stranger's. Critics may find this insufficient, and it is a question to be argued on these terms and not on the caricature.
+`,
+    },
+    {
       id: "objections",
       title: "Addressing Objections: Verses Where Jesus Differentiates Himself From the Father",
       tags: ["Objections"],
@@ -223,7 +259,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
 • **Liar:** He knew He was not God, making Him a deceiver and a charlatan.
 • **Lunatic:** He sincerely thought He was God but was mistaken, putting Him on the level of a madman.
 • **Lord:** He is exactly who He claimed to be, God incarnate, demanding our worship and obedience.
-Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^42].
+Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^45].
 
 <?viz jesus/trilemma?>
 `,
@@ -271,7 +307,10 @@ Given His profound moral teaching and the sanity of His character, Lewis argues 
     "39. [Academic] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
     "40. [Early Church] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
     "41. [Early Church] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",
-    "42. [Encyclopedia] Wikipedia. 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
+    "42. [Encyclopedia] Wikipedia. 'Christ myth theory.' https://en.wikipedia.org/wiki/Christ_myth_theory",
+    "43. [Encyclopedia] Wikipedia. 'Pauline Christianity.' https://en.wikipedia.org/wiki/Pauline_Christianity",
+    "44. [Encyclopedia] Wikipedia. 'Penal substitution.' https://en.wikipedia.org/wiki/Penal_substitution",
+    "45. [Encyclopedia] Wikipedia. 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
   ],
   lastUpdated: "30-10-2026"
 }

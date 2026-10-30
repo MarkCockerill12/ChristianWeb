@@ -1,6 +1,7 @@
 import type { Topic } from "./types"
 
 import { ABORTION } from "./abortion"
+import { CHRISTIANITY_AND_THE_WORLD } from "./christianity-and-the-world"
 import { archaeological } from "./archaeological"
 import { BAPTISM } from "./baptism"
 import { BIBLE_BOOKS } from "./bible-books"
@@ -46,6 +47,7 @@ const publishedTopics: readonly Topic[] = [
   ABORTION,
   archaeological,
   BAPTISM,
+  CHRISTIANITY_AND_THE_WORLD,
   BIBLE_BOOKS,
   BIBLE_TRANSLATIONS,
   branches,

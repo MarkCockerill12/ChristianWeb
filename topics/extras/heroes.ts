@@ -2,6 +2,15 @@ import type { TopicHero } from "../types"
 
 /** Banner picture per topic id, all licence-checked on Wikimedia Commons. */
 export const HEROES: Record<string, TopicHero> = {
+  "christianity-and-the-world": {
+    src: "/images/heroes/christianity-and-the-world.jpg",
+    alt: "Physicians and friars tending patients in a crowded medieval hospital ward",
+    caption: "The Care of the Sick, Domenico di Bartolo, 1440, in the hospital of Santa Maria della Scala, Siena.",
+    credit: "Domenico di Bartolo",
+    license: "Public domain",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Domenico_di_Bartolo_-_Care_of_the_Sick_-_WGA06417.jpg",
+    position: "center 62%",
+  },
   "abortion": {
     src: "/images/heroes/abortion.jpg",
     alt: "Mary and Elizabeth, both pregnant, greeting one another",
