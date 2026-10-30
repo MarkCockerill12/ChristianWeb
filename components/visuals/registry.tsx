@@ -16,6 +16,7 @@ const loading = () => <div className="viz-skeleton my-8 h-40 rounded-xl border" 
 const MODULES: Record<string, TopicVisuals> = {
   abortion: dynamic(() => import("@/visuals/abortion"), { loading }),
   "christianity-and-the-world": dynamic(() => import("@/visuals/christianity-and-the-world"), { loading }),
+  "is-belief-reasonable": dynamic(() => import("@/visuals/is-belief-reasonable"), { loading }),
   islam: dynamic(() => import("@/visuals/islam"), { loading }),
   archaeological: dynamic(() => import("@/visuals/archaeological"), { loading }),
   baptism: dynamic(() => import("@/visuals/baptism"), { loading }),

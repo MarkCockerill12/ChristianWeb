@@ -14,6 +14,20 @@ export const QUESTIONS: Record<string, ChallengeQuestion[]> = {
       section: "weighing-the-record",
     },
   ],
+  "is-belief-reasonable": [
+    {
+      claim: "You only believe because of how you were raised.",
+      asks: ["Does the same apply to your own beliefs?", "Does explaining how someone came to a belief show that it is false?", "What about those who converted against their upbringing?"],
+      point: "How a belief arose and whether it is true are separate questions, so the evidence still has to be examined.",
+      section: "born-into-it",
+    },
+    {
+      claim: "Faith means believing without evidence.",
+      asks: ["Where does the Bible define it that way?", "Why does Luke write so that readers may know the certainty of what they were taught?", "What evidence would you accept?"],
+      point: "Biblical faith is trust based on what is known, which is why Paul stakes it on a public event.",
+      section: "faith-and-evidence",
+    },
+  ],
   abortion: [
     {
       claim: "It's my body, my choice.",

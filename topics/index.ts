@@ -16,6 +16,7 @@ import { tuning } from "./fine-tuning"
 import { FREE_WILL } from "./free-will"
 import { godEvil } from "./godEvil"
 import { hell } from "./hell"
+import { IS_BELIEF_REASONABLE } from "./is-belief-reasonable"
 import { ISLAM } from "./islam"
 import { HOMOSEXUALITY } from "./homosexuality"
 import { jesus } from "./jesus"
@@ -61,6 +62,7 @@ const publishedTopics: readonly Topic[] = [
   godEvil,
   hell,
   HOMOSEXUALITY,
+  IS_BELIEF_REASONABLE,
   ISLAM,
   jesus,
   LAZARUS,

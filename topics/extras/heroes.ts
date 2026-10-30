@@ -11,6 +11,15 @@ export const HEROES: Record<string, TopicHero> = {
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Domenico_di_Bartolo_-_Care_of_the_Sick_-_WGA06417.jpg",
     position: "center 62%",
   },
+  "is-belief-reasonable": {
+    src: "/images/heroes/is-belief-reasonable.jpg",
+    alt: "The apostle Paul with raised arms addressing a crowd of philosophers in Athens",
+    caption: "Paul Preaching at Athens, after Raphael. Paul reasoned with the philosophers of his day (Acts 17:16-34).",
+    credit: "After Raphael",
+    license: "Public domain",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Paul_preaching_at_Athens_(BM_1842,0319.7).jpg",
+    position: "center 38%",
+  },
   "abortion": {
     src: "/images/heroes/abortion.jpg",
     alt: "Mary and Elizabeth, both pregnant, greeting one another",

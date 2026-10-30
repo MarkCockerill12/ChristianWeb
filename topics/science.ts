@@ -420,22 +420,6 @@ Where the boundary of science falls is itself a live philosophical question, the
 The Christian position is not that science has limits and God lives in them. It is that the intelligibility of the universe, the applicability of mathematics to it, and the existence of minds capable of following the argument are the sort of thing that calls for explanation, and that the explanation on offer is neither a rival to physics nor a substitute for doing it properly[^152].
 `
     },
-    {
-      id: "psychology-of-belief",
-      title: "Is Faith Just Psychology?",
-      tags: ["Theology", "Psychology"],
-      content: `
-**Wish fulfilment.** Sigmund Freud argued in *The Future of an Illusion* (1927) that God is a projection of the wish for a protective father[^153]. The argument cuts both ways: atheism could as easily be the wish that no judge exists. The psychologist Paul Vitz has argued, against Freud, that many famous atheists had absent or failed fathers[^154]. Neither explanation shows that the belief is false, and wishing for something does not make it unreal. A thirsty person wishes for water, and water exists. Nor is the God of the Bible an obvious wish: a holy judge who demands that people deny themselves is not what human beings tend to invent.
-
-**The evolved mind.** The cognitive science of religion studies why belief comes so easily. Proposed explanations include a tendency to detect agents even where there are none, which would have helped our ancestors survive[^155]. Some conclude that this explains God away. Yet the leading researcher Justin Barrett, who coined the name of the field, is himself a Christian, and he argues in *Born Believers* that children naturally lean towards belief[^156]. On a Christian view, a mind inclined to seek God is what Scripture would lead us to expect (Ecclesiastes 3:11; Romans 1:19). Whether the tendency points to something real cannot be decided by describing how it works. Such an argument would also undercut atheism, since our minds were not selected for finding philosophical truth, a point Alvin Plantinga presses.
-
-**The brain.** Brain scans show changes in activity during prayer and meditation[^157]. This is what would be expected whether or not God exists, since all experience involves the brain. A scan of someone eating an apple does not show that apples are imaginary. And why physical processing is accompanied by experience at all remains the hard problem of consciousness[^158].
-
-**Faith and evidence.** Critics define faith as believing without evidence, and that is not the biblical meaning. Luke writes so that a reader "may know the certainty" of what they were taught (Luke 1:4), and Paul stakes everything on a public event (1 Corinthians 15:14). Faith in Scripture is trust based on what is known, as one trusts a friend who has proved reliable. Some Christians do believe without thinking, and they are no better a guide than unthinking atheists.
-
-**The teapot and the spaghetti monster.** Bertrand Russell said that no one could disprove a teapot orbiting the sun, and that the burden of proof lies with the one who claims it[^159]. The Flying Spaghetti Monster makes the same point in parody[^160]. The point about the burden of proof is fair for anyone who claims that God exists, and Christians accept it, which is why they offer evidence. The comparison fails because a teapot explains nothing, while God is offered as an explanation of why the universe exists, why it is ordered, and why Jesus' tomb was empty. Christopher Hitchens said that what can be asserted without evidence can be dismissed without evidence[^161], and that rule would apply here if there were no evidence. The [resurrection](/categories/resurrection) and [fine-tuning](/categories/fine-tuning) topics set out that evidence.
-`,
-    },
   ],
   verses: [
     { reference: "Psalm 19:1", text: "The heavens declare the glory of God; the skies proclaim the work of his hands." },
@@ -598,16 +582,7 @@ The Christian position is not that science has limits and God lives in them. It 
     "149. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'Science and Pseudo-Science.' The demarcation problem and its lack of an agreed solution. https://plato.stanford.edu/entries/pseudo-science/",
     "150. [Reference] Wikipedia. Demarcation problem. https://en.wikipedia.org/wiki/Demarcation_problem",
     "151. [Reference] Wikipedia. Non-overlapping magisteria. Gould's proposal and the objections to it. https://en.wikipedia.org/wiki/Non-overlapping_magisteria",
-    "152. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Astronomy.' On the study of the heavens as a Christian intellectual tradition. https://www.newadvent.org/cathen/02025a.htm",
-    "153. [Encyclopedia] Wikipedia. 'The Future of an Illusion.' https://en.wikipedia.org/wiki/The_Future_of_an_Illusion",
-    "154. [Encyclopedia] Wikipedia. 'Paul Vitz.' https://en.wikipedia.org/wiki/Paul_Vitz",
-    "155. [Encyclopedia] Wikipedia. 'Cognitive science of religion.' https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
-    "156. [Encyclopedia] Wikipedia. 'Justin L. Barrett.' https://en.wikipedia.org/wiki/Justin_L._Barrett",
-    "157. [Encyclopedia] Wikipedia. 'Neurotheology.' https://en.wikipedia.org/wiki/Neurotheology",
-    "158. [Encyclopedia] Wikipedia. 'Hard problem of consciousness.' https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
-    "159. [Encyclopedia] Wikipedia. 'Russell's teapot.' https://en.wikipedia.org/wiki/Russell%27s_teapot",
-    "160. [Encyclopedia] Wikipedia. 'Flying Spaghetti Monster.' https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster",
-    "161. [Encyclopedia] Wikipedia. 'Hitchens's razor.' https://en.wikipedia.org/wiki/Hitchens%27s_razor"
+    "152. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Astronomy.' On the study of the heavens as a Christian intellectual tradition. https://www.newadvent.org/cathen/02025a.htm"
   ],
   lastUpdated: "30-10-2026",
 }

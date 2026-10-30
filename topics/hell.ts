@@ -202,14 +202,32 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 **Where the answer rests.** No single argument settles the question for critics, and Christian thinkers continue to debate it; annihilationism and universalism draw much of their support from it. The traditional position rests finally on the repeated warnings of Jesus and on the character of the Judge: God "will render to each one according to his works", and the Judge of all the earth will do what is just.`
     },
     {
+      id: "those-who-never-heard",
+      title: "What About Those Who Never Heard?",
+      tags: ["Justice"],
+      content: `
+**The objection.** If salvation comes through Christ alone, what of the billions who never heard of him, or who lived before him? Condemning them seems unjust.
+
+**What Scripture says.** God is just, and the Judge of all the earth will do right (Genesis 18:25). People are judged by the light they had: Paul says that those without the law have it "written on their hearts" (Romans 2:14-15), and that creation itself shows God's power (Romans 1:20). God "wants all people to be saved" (1 Timothy 2:4), and he has "set the times and places" of each life "so that they would seek him" (Acts 17:26-27). Old Testament believers such as Abraham were saved without ever hearing Jesus' name (Romans 4). Jesus himself says it will be more bearable for those with less knowledge (Matthew 11:22).
+
+**Three Christian answers.** Christians agree that any salvation comes through Christ's death, and differ over whether a person must knowingly hear of him.
+
+* **Exclusivism.** Conscious faith in Christ is required, as Romans 10:14 suggests, which is why missions are urgent.
+* **Inclusivism.** Christ's work may save those who respond to the light they have without knowing his name. C. S. Lewis held a view of this kind, as did Karl Rahner, who spoke of "anonymous Christians"[^133].
+* **Reserving judgment.** Many simply say that Scripture does not give the details, and trust God to be fair.
+
+**What it does not change.** Anyone asking this question has already heard, so the question that applies to them is what to do with what they have heard. Concern for the unreached is also a reason to go to them.
+`,
+    },
+    {
       id: "universalism-heresy",
       title: "What About Universalism?",
       tags: ["Duration"],
-      content: `**Will everyone eventually be saved?** Christian universalism holds that God will finally save all people, emptying hell[^133]. Origen taught a final restoration (*apokatastasis*) and Gregory of Nyssa expressed a similar hope[^134][^135]. Origenist teaching was condemned at Constantinople in 543 and again in 553, when the bishops of the Second Council of Constantinople signed canons against it, most likely just before the council formally opened[^136]. The church's creeds and confessions have consistently taught the finality of judgment.
+      content: `**Will everyone eventually be saved?** Christian universalism holds that God will finally save all people, emptying hell[^134]. Origen taught a final restoration (*apokatastasis*) and Gregory of Nyssa expressed a similar hope[^135][^136]. Origenist teaching was condemned at Constantinople in 543 and again in 553, when the bishops of the Second Council of Constantinople signed canons against it, most likely just before the council formally opened[^137]. The church's creeds and confessions have consistently taught the finality of judgment.
 
-• **Finality of judgment:** Hebrews 9:27 states that "it is appointed for man to die once, and after that comes judgment", which the historic churches have read as excluding second chances after death[^137].
+• **Finality of judgment:** Hebrews 9:27 states that "it is appointed for man to die once, and after that comes judgment", which the historic churches have read as excluding second chances after death[^138].
 
-• **Jesus' warnings:** Jesus' severe warnings about hell make little sense if it is only a temporary, purifying state. In the parable of the rich man and Lazarus, Abraham speaks of "a great chasm" fixed so that none may cross (Luke 16:26), implying that choices made in this life are final[^138].`
+• **Jesus' warnings:** Jesus' severe warnings about hell make little sense if it is only a temporary, purifying state. In the parable of the rich man and Lazarus, Abraham speaks of "a great chasm" fixed so that none may cross (Luke 16:26), implying that choices made in this life are final[^139].`
     }
   ],
               sources: [
@@ -345,11 +363,12 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     "130. [Commentary] Bible Hub. 'Commentaries on Romans 5:8.' https://biblehub.com/commentaries/romans/5-8.htm",
     "131. [Philosophy] Internet Encyclopedia of Philosophy. 'Hell.' The status principle and Kvanvig's objections. https://iep.utm.edu/hell/",
     "132. [Reference] Wikipedia. 'Problem of Hell.' Objections of Adams and Kvanvig to the choice model. https://en.wikipedia.org/wiki/Problem_of_Hell",
-    "133. [Reference] Wikipedia. 'Christian universalism.' https://en.wikipedia.org/wiki/Christian_universalism",
-    "134. [Reference] Wikipedia. 'Apocatastasis.' Origen's teaching of final restoration. https://en.wikipedia.org/wiki/Apocatastasis",
-    "135. [Reference] Wikipedia. 'Gregory of Nyssa.' https://en.wikipedia.org/wiki/Gregory_of_Nyssa",
-    "136. [Reference] Wikipedia. 'Second Council of Constantinople.' The canons against Origenism signed before the council formally opened. https://en.wikipedia.org/wiki/Second_Council_of_Constantinople",
-    "137. [Commentary] Bible Hub. 'Commentaries on Hebrews 9:27.' https://biblehub.com/commentaries/hebrews/9-27.htm",
-    "138. [Commentary] Bible Hub. 'Commentaries on Luke 16:26.' https://biblehub.com/commentaries/luke/16-26.htm"
+    "133. [Encyclopedia] Wikipedia. 'Inclusivism.' https://en.wikipedia.org/wiki/Inclusivism",
+    "134. [Reference] Wikipedia. 'Christian universalism.' https://en.wikipedia.org/wiki/Christian_universalism",
+    "135. [Reference] Wikipedia. 'Apocatastasis.' Origen's teaching of final restoration. https://en.wikipedia.org/wiki/Apocatastasis",
+    "136. [Reference] Wikipedia. 'Gregory of Nyssa.' https://en.wikipedia.org/wiki/Gregory_of_Nyssa",
+    "137. [Reference] Wikipedia. 'Second Council of Constantinople.' The canons against Origenism signed before the council formally opened. https://en.wikipedia.org/wiki/Second_Council_of_Constantinople",
+    "138. [Commentary] Bible Hub. 'Commentaries on Hebrews 9:27.' https://biblehub.com/commentaries/hebrews/9-27.htm",
+    "139. [Commentary] Bible Hub. 'Commentaries on Luke 16:26.' https://biblehub.com/commentaries/luke/16-26.htm"
   ]
 }
