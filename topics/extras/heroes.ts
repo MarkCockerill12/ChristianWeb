@@ -236,8 +236,7 @@ export const HEROES: Record<string, TopicHero> = {
     credit: "Rembrandt",
     license: "Public domain",
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Jeremia_treurend_over_de_verwoesting_van_Jeruzalem_Rijksmuseum_SK-A-3276.jpeg",
-    position: "center 65%",
-    contain: true,
+    position: "center 45%",
   },
   "prophecy": {
     src: "/images/heroes/prophecy.jpg",
