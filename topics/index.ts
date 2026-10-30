@@ -70,7 +70,6 @@ const publishedTopics: readonly Topic[] = [
   LAZARUS,
   miracles,
   morality,
-  ABORTION,
   nasa,
   problemOfEvil,
   prophecy,
@@ -83,6 +82,7 @@ const publishedTopics: readonly Topic[] = [
   women,
   prayer,
   PAGAN_ORIGINS,
+  ABORTION,
 ]
 
 /** Banner pictures, challenge questions and levels are kept apart from the prose and joined here. */

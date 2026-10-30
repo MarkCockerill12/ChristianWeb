@@ -4,7 +4,30 @@ import { Compass } from "lucide-react"
 import { START_HERE } from "@/topics/extras/organisation"
 
 /** The suggested first route through the site, for someone new to these questions. */
-export function StartHere({ className = "" }: { readonly className?: string }) {
+export function StartHere({ className = "", compact = false }: { readonly className?: string; readonly compact?: boolean }) {
+  if (compact) {
+    return (
+      <nav aria-label="Suggested first topics" className={className}>
+        <ol className="m-0 flex list-none flex-wrap items-center justify-center gap-1.5 p-0">
+          <li className="mr-1 text-xs font-semibold text-gray-700">New here?</li>
+          {START_HERE.map((step, i) => (
+            <li key={step.id}>
+              <Link
+                href={`/categories/${step.id}`}
+                className="flex items-center gap-1.5 rounded-full border border-gray-200 bg-white py-0.5 pl-0.5 pr-2.5 text-xs font-medium text-gray-900 no-underline transition-shadow hover:shadow-md"
+              >
+                <span className="flex h-4 w-4 flex-shrink-0 items-center justify-center rounded-full bg-blue-600 text-[10px] font-semibold text-white" aria-hidden>
+                  {i + 1}
+                </span>
+                {step.question}
+              </Link>
+            </li>
+          ))}
+        </ol>
+      </nav>
+    )
+  }
+
   return (
     <section aria-labelledby="start-here" className={className}>
       <div className="mb-3 flex items-center gap-2">

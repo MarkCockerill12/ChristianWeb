@@ -137,19 +137,19 @@ Some scholars and pastors have lost their faith, the New Testament scholar Bart 
   sources: [
     "1. [Academic] Stanford Encyclopedia of Philosophy. 'Religious Pluralism.' https://plato.stanford.edu/entries/religious-pluralism/",
     "2. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#Genetic",
-    "3. [Encyclopedia] Wikipedia. \'The Future of an Illusion.\' https://en.wikipedia.org/wiki/The_Future_of_an_Illusion",
-    "4. [Encyclopedia] Wikipedia. 'Paul Vitz.' https://en.wikipedia.org/wiki/Paul_Vitz",
-    "5. [Encyclopedia] Wikipedia. 'Cognitive science of religion.' https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
-    "6. [Encyclopedia] Wikipedia. 'Justin L. Barrett.' https://en.wikipedia.org/wiki/Justin_L._Barrett",
-    "7. [Encyclopedia] Wikipedia. 'Neurotheology.' https://en.wikipedia.org/wiki/Neurotheology",
+    "3. [Wikipedia] \'The Future of an Illusion.\' https://en.wikipedia.org/wiki/The_Future_of_an_Illusion",
+    "4. [Wikipedia] 'Paul Vitz.' https://en.wikipedia.org/wiki/Paul_Vitz",
+    "5. [Wikipedia] 'Cognitive science of religion.' https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
+    "6. [Wikipedia] 'Justin L. Barrett.' https://en.wikipedia.org/wiki/Justin_L._Barrett",
+    "7. [Wikipedia] 'Neurotheology.' https://en.wikipedia.org/wiki/Neurotheology",
     "8. [Academic] Internet Encyclopedia of Philosophy. 'The Hard Problem of Consciousness.' https://iep.utm.edu/hard-problem-of-conciousness/",
-    "9. [Encyclopedia] Wikipedia. 'Russell's teapot.' https://en.wikipedia.org/wiki/Russell%27s_teapot",
-    "10. [Encyclopedia] Wikipedia. 'Flying Spaghetti Monster.' https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster",
-    "11. [Encyclopedia] Wikipedia. 'Hitchens's razor.' https://en.wikipedia.org/wiki/Hitchens%27s_razor",
-    "12. [Encyclopedia] Wikipedia. 'The God Delusion.' https://en.wikipedia.org/wiki/The_God_Delusion",
+    "9. [Wikipedia] 'Russell's teapot.' https://en.wikipedia.org/wiki/Russell%27s_teapot",
+    "10. [Wikipedia] 'Flying Spaghetti Monster.' https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster",
+    "11. [Wikipedia] 'Hitchens's razor.' https://en.wikipedia.org/wiki/Hitchens%27s_razor",
+    "12. [Wikipedia] 'The God Delusion.' https://en.wikipedia.org/wiki/The_God_Delusion",
     "13. [Academic] Stanford Encyclopedia of Philosophy. 'Simplicity.' https://plato.stanford.edu/entries/simplicity/",
     "14. [Academic] Stanford Encyclopedia of Philosophy. 'Pascal's Wager.' https://plato.stanford.edu/entries/pascal-wager/",
-    "15. [Encyclopedia] Wikipedia. 'Religious trauma syndrome.' https://en.wikipedia.org/wiki/Religious_trauma_syndrome"
+    "15. [Wikipedia] 'Religious trauma syndrome.' https://en.wikipedia.org/wiki/Religious_trauma_syndrome"
   ],
   lastUpdated: "30-10-2026"
 }

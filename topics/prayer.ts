@@ -109,14 +109,14 @@ Because God is one in essence, praying to one person of the Trinity does not exc
   sources: [
     "1. [Apologetics] GotQuestions.org - Why pray?. 'An overview of why believers should pray even though God already knows everything and has a plan.' https://www.gotquestions.org/why-pray.html",
     "2. [Primary Source] Blaise Pascal, Pensées, trans. W. F. Trotter (Project Gutenberg). https://www.gutenberg.org/files/18269/18269-h/18269-h.htm",
-    "3. [Encyclopedia] Wikipedia - Prayer in Christianity. 'Comprehensive article on the history, theology, and practice of prayer within Christianity.' https://en.wikipedia.org/wiki/Prayer_in_Christianity",
+    "3. [Wikipedia] Prayer in Christianity. 'Comprehensive article on the history, theology, and practice of prayer within Christianity.' https://en.wikipedia.org/wiki/Prayer_in_Christianity",
     "4. [Apologetics] GotQuestions.org - What is intercessory prayer?. 'Explains the biblical basis for interceding on behalf of others and Christ's role as our intercessor.' https://www.gotquestions.org/intercessory-prayer.html",
-    "5. [Encyclopedia] Wikipedia - Intercession. 'Detailed look at intercessory prayer, including differences in how various Christian traditions approach it.' https://en.wikipedia.org/wiki/Intercession",
+    "5. [Wikipedia] Intercession. 'Detailed look at intercessory prayer, including differences in how various Christian traditions approach it.' https://en.wikipedia.org/wiki/Intercession",
     "6. [Academic] Benson H et al. Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients. American Heart Journal, 2006. PubMed. https://pubmed.ncbi.nlm.nih.gov/16569567/",
     "7. [Apologetics] GotQuestions.org - What is the Lord's prayer and should we pray it?. 'Examines the model prayer Jesus gave His disciples and how it applies to our daily prayer life.' https://www.gotquestions.org/Lords-prayer.html",
-    "8. [Encyclopedia] Wikipedia - Lord's Prayer. 'Historical and theological analysis of the most famous Christian prayer.' https://en.wikipedia.org/wiki/Lord%27s_Prayer",
+    "8. [Wikipedia] Lord's Prayer. 'Historical and theological analysis of the most famous Christian prayer.' https://en.wikipedia.org/wiki/Lord%27s_Prayer",
     "9. [Commentary] Bible Hub. 'Commentaries on Matthew 6:7.' https://biblehub.com/commentaries/matthew/6-7.htm",
-    "10. [Encyclopedia] Wikipedia - Prayer in the Catholic Church. 'Overview of Catholic prayer traditions, including Trinitarian formulas and the role of the saints.' https://en.wikipedia.org/wiki/Prayer_in_the_Catholic_Church",
+    "10. [Wikipedia] Prayer in the Catholic Church. 'Overview of Catholic prayer traditions, including Trinitarian formulas and the role of the saints.' https://en.wikipedia.org/wiki/Prayer_in_the_Catholic_Church",
     "11. [Apologetics] GotQuestions.org - Should we pray to the Father, the Son, or the Holy Spirit?. 'A biblical look at the Trinitarian nature of prayer and who we should address.' https://www.gotquestions.org/pray-Father-Son-Spirit.html"
   ],
   lastUpdated: "30-10-2026"

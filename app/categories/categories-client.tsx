@@ -90,7 +90,7 @@ export default function CategoriesClient({ categories }: CategoriesClientProps) 
     <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 py-8">
       <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-6">
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-4">Apologetics Topics</h1>
           <p className="text-lg sm:text-xl text-gray-600 max-w-5xl mx-auto">
             Comprehensive answers to common questions, objections, and challenges to the Christian faith. Each topic is
@@ -98,9 +98,9 @@ export default function CategoriesClient({ categories }: CategoriesClientProps) 
           </p>
         </div>
 
-        {/* Search and Filters */}
-        <div className="mb-8 space-y-4">
-          <div className="relative max-w-md mx-auto">
+        {/* Search and levels */}
+        <div className="mb-3 flex flex-col items-center justify-center gap-3 md:flex-row">
+          <div className="relative w-full md:w-72">
             <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 h-4 w-4" />
             <Input
               type="text"
@@ -110,30 +110,30 @@ export default function CategoriesClient({ categories }: CategoriesClientProps) 
               className="pl-10"
             />
           </div>
-        </div>
-
-        {/* Levels */}
-        <div className="mb-3 flex flex-wrap items-center justify-center gap-2" role="group" aria-label="Filter by level">
-          <Button variant={level === null ? "default" : "outline"} size="sm" onClick={() => setLevel(null)}>
-            All
-          </Button>
-          {(Object.keys(LEVEL_MEANINGS) as TopicLevel[]).map((name) => (
-            <Button
-              key={name}
-              variant={level === name ? "default" : "outline"}
-              size="sm"
-              title={LEVEL_MEANINGS[name]}
-              onClick={() => setLevel(level === name ? null : name)}
-            >
-              {name}
+          <div className="flex flex-wrap items-center justify-center gap-2" role="group" aria-label="Filter by level">
+            <Button variant={level === null ? "default" : "outline"} size="sm" onClick={() => setLevel(null)}>
+              All
             </Button>
-          ))}
+            {(Object.keys(LEVEL_MEANINGS) as TopicLevel[]).map((name) => (
+              <Button
+                key={name}
+                variant={level === name ? "default" : "outline"}
+                size="sm"
+                title={LEVEL_MEANINGS[name]}
+                onClick={() => setLevel(level === name ? null : name)}
+              >
+                {name}
+              </Button>
+            ))}
+          </div>
         </div>
-        <p className="mb-6 text-center text-xs text-gray-500">
-          {level ? `${level}: ${LEVEL_MEANINGS[level]}.` : "General topics are the easiest place to begin. Specific ones answer one question. In depth ones are full references."}
-        </p>
+        {level && (
+          <p className="mb-3 text-center text-xs text-gray-500">
+            {level}: {LEVEL_MEANINGS[level]}.
+          </p>
+        )}
 
-        {!filtering && <StartHere className="mb-10" />}
+        {!filtering && <StartHere compact className="mb-6" />}
 
         {/* Results Count */}
         {filtering && (

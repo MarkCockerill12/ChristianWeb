@@ -88,12 +88,6 @@ export const TOPIC_GROUPS: readonly TopicGroup[] = [
     topics: ["problem-of-evil", "god-evil", "hell", "morality", "free-will", "christianity-and-the-world"],
   },
   {
-    id: "ethics",
-    title: "Ethics and Society",
-    blurb: "What Scripture teaches on the moral questions most often raised today.",
-    topics: ["slavery", "women", "homosexuality", "abortion"],
-  },
-  {
     id: "faiths",
     title: "Other Faiths",
     blurb: "The world's religions, and a full examination of Islam.",
@@ -104,6 +98,12 @@ export const TOPIC_GROUPS: readonly TopicGroup[] = [
     title: "Christian Belief and Life",
     blurb: "The doctrines, the traditions, and how Christians live and pray.",
     topics: ["trinity", "heresies-and-fallacies", "branches", "baptism", "prayer", "end-times"],
+  },
+  {
+    id: "ethics",
+    title: "Ethics and Society",
+    blurb: "What Scripture teaches on the moral questions most often raised today.",
+    topics: ["slavery", "women", "homosexuality", "abortion"],
   },
 ]
 
@@ -154,5 +154,5 @@ export const START_HERE: ReadonlyArray<{ readonly id: string; readonly question:
   { id: "archaeological", question: "Can the Bible be trusted?" },
   { id: "jesus", question: "Who did Jesus claim to be?" },
   { id: "resurrection", question: "Did he rise from the dead?" },
-  { id: "problem-of-evil", question: "Then why is there so much suffering?" },
+  { id: "problem-of-evil", question: "Why so much suffering?" },
 ]
