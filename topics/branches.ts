@@ -300,7 +300,7 @@ export const branches: Topic = {
     {
       id: "catholic",
       title: "Universal / Original Catholic Church",
-      tags: ["catholic", "traditional", "early"],
+      tags: ["Early church", "Catholic"],
       content: `**Founded:** 1st century (Apostolic era, established by The Holy Spirit through the Apostles following Pentecost)[^1]
 
       **Key Beliefs:**
@@ -321,14 +321,14 @@ export const branches: Topic = {
 
       **Historical Context:** The "catholic" (universal) church of the first centuries, before the major schisms[^11].
 
-      **A contested point, stated as contested.** How much authority the bishop of Rome held in this period is one of the genuinely disputed questions in church history, and it is not settled by description. Catholic historians point to the Petrine texts, to Clement of Rome writing to Corinth at the end of the first century, to Irenaeus on the pre-eminence of the Roman church, and to Leo's intervention at Chalcedon, arguing that a primacy was present from the start and later articulated rather than invented. Orthodox historians accept a primacy of honour among equals while denying universal jurisdiction. Protestant historians generally read the developed papal claims as a later growth. Describing the early church flatly as having no papal supremacy adopts one side of that argument as though it were plain fact, and a Catholic reader would rightly object[^12].
+      **A contested point, stated as contested.** How much authority the bishop of Rome held in this period is one of the genuinely disputed questions in church history, and it is not settled by description. Catholic historians point to the Petrine texts, to Clement of Rome writing to Corinth at the end of the first century, to Irenaeus on the pre-eminence of the Roman church, and to Leo's intervention at Chalcedon, arguing that a primacy was present from the start and later articulated rather than invented. Orthodox historians accept a primacy of honour among equals while denying universal jurisdiction. Protestant historians generally read the developed papal claims as a later growth.[^12].
 
       **Distinctive Features:** House churches, bishop-led communities, emphasis on apostolic teaching and fellowship[^13]`,
     },
     {
       id: "romanCatholic",
       title: "Roman Catholic Church",
-      tags: ["catholic", "traditional", "papal"],
+      tags: ["Catholic"],
       content: `**Founded:** Gradual development, with papal supremacy solidifying from the 4th-11th centuries[^14]
 
       **Key Beliefs:**
@@ -356,7 +356,7 @@ export const branches: Topic = {
     {
       id: "orientalOrthodox",
       title: "Oriental Orthodox",
-      tags: ["orthodox", "traditional"],
+      tags: ["Early church", "Orthodox"],
       content: `**Founded:** c. 451 AD (split at Council of Chalcedon)[^25][^26]
 
       **Key Beliefs:**
@@ -378,7 +378,7 @@ export const branches: Topic = {
     {
       id: "churchOfTheEast",
       title: "Church of the East",
-      tags: ["traditional"],
+      tags: ["Early church"],
       content: `**Founded:** c. 410 AD (Synod of Seleucia-Ctesiphon); split from West after 431 AD Council of Ephesus[^37]
 
       **Key Beliefs:**
@@ -400,8 +400,11 @@ export const branches: Topic = {
     {
       id: "easternOrthodox",
       title: "Eastern Orthodox",
-      tags: ["orthodox", "traditional"],
-      content: `**Founded:** 1054 AD (Great Schism from Roman Catholicism)[^45]
+      tags: ["Orthodox"],
+      content: `
+<?viz branches/hagia-sophia?>
+
+**Founded:** 1054 AD (Great Schism from Roman Catholicism)[^45]
 
       **Key Beliefs:**
 
@@ -426,7 +429,7 @@ export const branches: Topic = {
     {
       id: "Lutheran",
       title: "Lutheran",
-      tags: ["protestant", "reformation"],
+      tags: ["Reformation"],
       content: `**Founded:** c. 1517 AD (Martin Luther's Reformation)[^55]
 
       **Key Beliefs:**
@@ -452,7 +455,7 @@ export const branches: Topic = {
     {
       id: "Reformed/Presbyterian",
       title: "Reformed/Presbyterian",
-      tags: ["protestant", "reformation", "calvinist"],
+      tags: ["Reformation"],
       content: `**Founded:** 1520s-1530s AD (Huldrych Zwingli in Zurich from 1519, then John Calvin in Geneva from 1536)[^67]
 
       **Key Beliefs:**
@@ -478,7 +481,7 @@ export const branches: Topic = {
     {
       id: "Anabaptist",
       title: "Anabaptist",
-      tags: ["protestant", "reformation"],
+      tags: ["Reformation"],
       content: `**Founded:** 1525 AD (Swiss Brethren, radical reformation)[^78]
 
       **Key Beliefs:**
@@ -504,7 +507,7 @@ export const branches: Topic = {
     {
       id: "Anglican",
       title: "Anglican",
-      tags: ["protestant"],
+      tags: ["Reformation"],
       content: `**Founded:** 1534 AD (Henry VIII's break from Rome)[^89]
 
       **Key Beliefs:**
@@ -530,7 +533,7 @@ export const branches: Topic = {
     {
       id: "Baptist",
       title: "Baptist",
-      tags: ["protestant"],
+      tags: ["Later Protestant"],
       content: `**Founded:** 1609 AD (Amsterdam, John Smyth)[^99]
 
       **Key Beliefs:**
@@ -556,7 +559,7 @@ export const branches: Topic = {
     {
       id: "Methodist",
       title: "Methodist",
-      tags: ["protestant"],
+      tags: ["Later Protestant"],
       content: `**Founded:** 18th century (John Wesley's revival movement)[^109]
 
       **Key Beliefs:**
@@ -582,7 +585,7 @@ export const branches: Topic = {
     {
       id: "Pentecostal",
       title: "Pentecostal",
-      tags: ["protestant", "charismatic"],
+      tags: ["Later Protestant"],
       content: `**Founded:** Early 1900s (Azusa Street Revival, Los Angeles)[^119]
 
       **Key Beliefs:**
@@ -608,7 +611,7 @@ export const branches: Topic = {
     {
       id: "Restorationist",
       title: "Restorationist",
-      tags: ["protestant", "restoration"],
+      tags: ["Later Protestant"],
       content: `**Founded:** 1800s onwards (Stone-Campbell Movement and others)[^129][^130]
 
       **Key Beliefs:**
@@ -628,7 +631,7 @@ export const branches: Topic = {
     {
       id: "Episcopal",
       title: "Episcopal",
-      tags: ["anglican", "protestant"],
+      tags: ["Later Protestant"],
       content: `**Founded:** 1789 AD (American Episcopal Church formed after American Revolution)[^137]
 
       **Key Beliefs:**
@@ -654,7 +657,7 @@ export const branches: Topic = {
     {
       id: "quakers",
       title: "Quakers (Religious Society of Friends)",
-      tags: ["other", "modern", "pacifist"],
+      tags: ["Other movements"],
       content: `**Founded:** c. 1650s (George Fox, England)[^147]
 
       **Key Beliefs:**
@@ -674,7 +677,7 @@ export const branches: Topic = {
     {
       id: "seventhDayAdventist",
       title: "Seventh-day Adventist",
-      tags: ["other", "modern", "restorationist"],
+      tags: ["Other movements"],
       content: `**Founded:** 1863 (USA, from Millerite movement)[^154]
 
       **Key Beliefs:**
@@ -694,7 +697,7 @@ export const branches: Topic = {
     {
       id: "messianicJudaism",
       title: "Messianic Judaism",
-      tags: ["other", "modern", "jewish"],
+      tags: ["Other movements"],
       content: `**Founded:** Modern movement, 1960s-1970s[^162]
 
       **Key Beliefs:**
@@ -712,7 +715,7 @@ export const branches: Topic = {
     {
       id: "nonDenominational",
       title: "Non-denominational / Other Movements",
-      tags: ["other", "modern", "independent"],
+      tags: ["Other movements"],
       content: `**Founded:** 20th century onwards (especially in the USA)[^169]
 
       **Key Beliefs (General):**
@@ -738,7 +741,7 @@ export const branches: Topic = {
     {
       id: "waldensian",
       title: "Waldensians",
-      tags: ["pre-reformation", "traditional", "protestant"],
+      tags: ["Pre-Reformation"],
       content: `**Founded:** c. 1173 AD (Peter Waldo, France)[^179]
 
       **Key Beliefs:**
@@ -754,7 +757,7 @@ export const branches: Topic = {
     {
       id: "moravian",
       title: "Moravian Church (Unitas Fratrum)",
-      tags: ["pre-reformation", "traditional", "protestant"],
+      tags: ["Pre-Reformation"],
       content: `**Founded:** 1457 AD (Bohemian Reformation, inspired by Jan Hus)[^184]
 
       **Key Beliefs:**
@@ -770,7 +773,7 @@ export const branches: Topic = {
     {
       id: "congregationalist",
       title: "Congregationalists",
-      tags: ["protestant", "puritan"],
+      tags: ["Later Protestant"],
       content: `**Founded:** c. 1580s AD (Puritan Separatists, England)[^189]
 
       **Key Beliefs:**
@@ -981,5 +984,5 @@ export const branches: Topic = {
     "193. [Encyclopedia] Wikipedia. 'Plymouth Colony.' https://en.wikipedia.org/wiki/Plymouth_Colony",
     "194. [Encyclopedia] Wikipedia. Congregationalism. https://en.wikipedia.org/wiki/Congregational_church"
   ],
-  lastUpdated: "26-10-2026",
+  lastUpdated: "30-10-2026",
 };

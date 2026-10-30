@@ -1,7 +1,8 @@
 "use client"
 
-import React, { useCallback, useEffect, useMemo, useRef, useState } from "react"
+import React, { useCallback, useEffect, useLayoutEffect, useMemo, useRef, useState } from "react"
 import Link from "next/link"
+import Image from "next/image"
 import { ArrowLeft, ArrowUp, BookOpen, Calendar, ChevronDown, ChevronUp, Clock, ExternalLink, ListTree } from "lucide-react"
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
@@ -11,43 +12,32 @@ import { BibleVerse } from "@/components/bible-verse"
 import { ContentRenderer } from "@/components/content-renderer"
 import { TopicPopover } from "@/components/topic-popover"
 import { TopicPageContext, sectionDomId } from "@/components/topic-context"
+import { ChallengeQuestions } from "@/components/challenge-questions"
 import type { Topic } from "@/topics/types"
 
 type Subtopic = NonNullable<Topic["subtopics"]>[number]
 
 /**
- * Browser find (Ctrl+F) can match text inside a collapsed subtopic, because the
- * content stays in the DOM behind `max-h-0`. When that happens the browser moves
- * the selection into it, so we listen for selection changes and expand the owner.
- *
- * Registered once for the lifetime of the page: the previous implementation
- * re-ran on every expand/collapse and never removed its listener, so handlers
- * accumulated one per toggle.
+ * Browser find (Ctrl+F) can match text inside a collapsed section, which is held
+ * `hidden="until-found"`. The browser fires `beforematch` on it just before revealing
+ * the match, and that is the moment to mark the section open so React agrees.
  */
 function useExpandOnBrowserFind(expand: (id: string) => void) {
   const expandRef = useRef(expand)
   expandRef.current = expand
 
   useEffect(() => {
-    const onSelectionChange = () => {
-      const selection = globalThis.getSelection()
-      if (!selection || selection.rangeCount === 0 || selection.isCollapsed) return
-
-      const container = selection.getRangeAt(0).commonAncestorContainer
-      const element =
-        container.nodeType === Node.TEXT_NODE
-          ? container.parentElement
-          : (container as HTMLElement)
-
-      const owner = element?.closest("[data-subtopic-id]")
+    const onBeforeMatch = (event: Event) => {
+      const owner = (event.target as HTMLElement).closest("[data-subtopic-id]")
       const id = owner?.getAttribute("data-subtopic-id")
       if (id) expandRef.current(id)
     }
-
-    document.addEventListener("selectionchange", onSelectionChange)
-    return () => document.removeEventListener("selectionchange", onSelectionChange)
+    document.addEventListener("beforematch", onBeforeMatch, true)
+    return () => document.removeEventListener("beforematch", onBeforeMatch, true)
   }, [])
 }
+
+const MAX_FILTER_TAGS = 10
 
 /** Search/tag filtering over a topic's subtopics. */
 function useSubtopicFilter(subtopics: readonly Subtopic[]) {
@@ -64,10 +54,13 @@ function useSubtopicFilter(subtopics: readonly Subtopic[]) {
     [subtopics],
   )
 
-  const allTags = useMemo(
-    () => Array.from(new Set(subtopics.flatMap((sub) => sub.tags))),
-    [subtopics],
-  )
+  // A filter row stops being useful past ten choices. The topic data is curated to
+  // stay within this, and the cap keeps the most-used tags if a later edit does not.
+  const allTags = useMemo(() => {
+    const counts = new Map<string, number>()
+    for (const tag of subtopics.flatMap((sub) => sub.tags)) counts.set(tag, (counts.get(tag) ?? 0) + 1)
+    return [...counts.keys()].sort((a, b) => (counts.get(b) ?? 0) - (counts.get(a) ?? 0)).slice(0, MAX_FILTER_TAGS)
+  }, [subtopics])
 
   const filtered = useMemo(() => {
     if (selectedTag) return subtopics.filter((sub) => sub.tags.includes(selectedTag))
@@ -137,28 +130,29 @@ const SubtopicCard = React.memo(function SubtopicCard({
   readonly onToggle: (id: string) => void
   readonly header?: React.ReactNode
 }) {
+  const panelId = `panel-${sub.id}`
+  // React treats `hidden` as a plain boolean and writes hidden="", so the value browser
+  // find needs has to be set on the element directly.
+  const panelRef = useRef<HTMLDivElement>(null)
+  useLayoutEffect(() => {
+    if (!expanded) panelRef.current?.setAttribute("hidden", "until-found")
+  }, [expanded])
   return (
-    <Card
-      id={sectionDomId(sub.id)}
-      className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 cursor-pointer scroll-mt-24"
-      onClick={() => onToggle(sub.id)}
-    >
+    <Card id={sectionDomId(sub.id)} className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 scroll-mt-24">
       <CardHeader className="flex flex-col">
         <div className="flex flex-col gap-3">
-          <div className="flex items-start justify-between">
-            <CardTitle className="text-lg text-purple-700 flex-1 leading-tight">
-              {sub.title}
-            </CardTitle>
-            <Button
-              variant="ghost"
-              size="sm"
-              className="ml-2 flex-shrink-0 pointer-events-none"
-              tabIndex={-1}
-              aria-hidden
+          <h3 className="m-0">
+            <button
+              type="button"
+              aria-expanded={expanded}
+              aria-controls={panelId}
+              onClick={() => onToggle(sub.id)}
+              className="flex w-full items-start justify-between gap-2 rounded text-left focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-600"
             >
-              {expanded ? <ChevronUp className="h-4 w-4" /> : <ChevronDown className="h-4 w-4" />}
-            </Button>
-          </div>
+              <span className="flex-1 text-lg font-semibold leading-tight text-purple-700">{sub.title}</span>
+              {expanded ? <ChevronUp className="mt-1 h-4 w-4 flex-shrink-0" aria-hidden /> : <ChevronDown className="mt-1 h-4 w-4 flex-shrink-0" aria-hidden />}
+            </button>
+          </h3>
           <div className="flex flex-wrap gap-1">
             {sub.tags.map((tag) => (
               <Badge key={tag} variant="outline" className="text-xs">
@@ -169,11 +163,14 @@ const SubtopicCard = React.memo(function SubtopicCard({
           {header}
         </div>
       </CardHeader>
+      {/* until-found keeps collapsed text out of the tab order and away from screen
+          readers, while still letting browser find reveal it (see useExpandOnBrowserFind). */}
       <CardContent
+        ref={panelRef}
+        id={panelId}
         data-subtopic-id={sub.id}
-        className={`text-gray-800 transition-all duration-300 ${
-          expanded ? "py-4 max-h-[50000px]" : "max-h-0 py-0"
-        } overflow-hidden`}
+        hidden={!expanded}
+        className={expanded ? "py-4 text-gray-800" : "py-0 text-gray-800"}
       >
         <ContentRenderer content={sub.content} sources={sources} wrapInCard={false} />
       </CardContent>
@@ -188,7 +185,7 @@ function readingMinutes(topic: Topic) {
   return Math.max(1, Math.round(words / 230))
 }
 
-/** Thin bar under the navigation showing how far down the page the reader is. */
+/** Thin bar along the very top of the window showing how far down the page the reader is. */
 function ReadingProgress() {
   const [progress, setProgress] = useState(0)
   const [showTop, setShowTop] = useState(false)
@@ -213,7 +210,7 @@ function ReadingProgress() {
   }, [])
   return (
     <>
-      <div className="fixed left-0 right-0 top-16 z-40 h-1 pointer-events-none" aria-hidden>
+      <div className="fixed left-0 right-0 top-0 z-[60] h-1 pointer-events-none" aria-hidden>
         <div className="h-full bg-blue-600 origin-left" style={{ transform: `scaleX(${progress})` }} />
       </div>
       {showTop && (
@@ -227,6 +224,50 @@ function ReadingProgress() {
         </button>
       )}
     </>
+  )
+}
+
+/**
+ * A short list of collapsed sections already works as its own contents, so the
+ * separate card is only worth its space on the long topics.
+ */
+const CONTENTS_MIN_SECTIONS = 15
+
+/** Divides the overview from the sections, so each part of the page has one job. */
+function SectionHeading({ title }: { readonly title: string }) {
+  return (
+    <div className="flex items-center gap-3 mt-10 mb-5">
+      <h2 className="text-xl sm:text-2xl font-bold text-gray-900 whitespace-nowrap">{title}</h2>
+      <div className="h-px flex-1 bg-gray-200" aria-hidden />
+    </div>
+  )
+}
+
+/** Banner picture for a topic, with the attribution its licence requires. */
+function TopicHero({ hero }: { readonly hero: NonNullable<Topic["hero"]> }) {
+  return (
+    <figure className="m-0 -mt-6">
+      <div className="relative h-44 sm:h-64 w-full overflow-hidden bg-gray-100">
+        {hero.contain && (
+          <Image src={hero.src} alt="" fill aria-hidden sizes="640px" className="object-cover scale-110 blur-xl opacity-70" />
+        )}
+        <Image
+          src={hero.src}
+          alt={hero.alt}
+          fill
+          priority
+          sizes="(min-width: 1280px) 1216px, 100vw"
+          className={hero.contain ? "object-contain" : "object-cover"}
+          style={hero.contain ? undefined : { objectPosition: hero.position ?? "center" }}
+        />
+      </div>
+      <figcaption className="px-6 pt-2 text-[11px] leading-snug text-gray-500">
+        {hero.caption}{" "}
+        <a href={hero.sourceUrl} target="_blank" rel="noopener noreferrer" className="hover:underline">
+          {hero.credit}, {hero.license}
+        </a>
+      </figcaption>
+    </figure>
   )
 }
 
@@ -324,24 +365,17 @@ function SourcesCard({ sources }: { readonly sources: readonly string[] }) {
   )
 }
 
-/** Handed to `afterSubtopics` so sibling UI (e.g. the branching timeline) can open a section. */
-export interface TopicPageApi {
-  readonly expand: (subtopicId: string) => void
-}
-
 export interface TopicPageProps {
   readonly category: Topic
-  /** Rendered between the TL;DR and the search box (e.g. the branches legend). */
+  /** Rendered at the start of the sections, before the search box (e.g. the branches legend). */
   readonly beforeSearch?: React.ReactNode
-  /** Rendered after the subtopic list (e.g. the branching timeline). */
-  readonly afterSubtopics?: React.ReactNode | ((api: TopicPageApi) => React.ReactNode)
   /** Extra header content inside each subtopic card (e.g. branch belief icons). */
   readonly renderSubtopicHeader?: (sub: Subtopic) => React.ReactNode
   /** Wraps each subtopic card, for the branches timeline rail. */
   readonly renderSubtopicWrapper?: (sub: Subtopic, card: React.ReactNode) => React.ReactNode
   /** Container class for the subtopic list. */
   readonly subtopicListClassName?: string
-  /** Rendered between the main content and the subtopic search (e.g. a Timeline). */
+  /** Rendered at the end of the overview (e.g. a Timeline). */
   readonly beforeSubtopics?: React.ReactNode
 }
 
@@ -349,7 +383,6 @@ export function TopicPage({
   category,
   beforeSearch,
   beforeSubtopics,
-  afterSubtopics,
   renderSubtopicHeader,
   renderSubtopicWrapper,
   subtopicListClassName = "space-y-4",
@@ -422,7 +455,8 @@ export function TopicPage({
           </Button>
         </div>
 
-        <Card className="mb-8">
+        <Card className="mb-8 overflow-hidden">
+          {category.hero && <TopicHero hero={category.hero} />}
           <CardHeader>
             <div className="flex flex-wrap items-center gap-2 mb-4">
               {category.tags.map((tag) => (
@@ -457,7 +491,7 @@ export function TopicPage({
           </Card>
         )}
 
-        {beforeSearch}
+        {(category.content || beforeSubtopics) && <SectionHeading title="At a glance" />}
 
         {category.content && (
           <ContentRenderer content={category.content} sources={category.sources} />
@@ -465,10 +499,18 @@ export function TopicPage({
 
         {beforeSubtopics}
 
-        {subtopics.length >= 3 && <ContentsCard subtopics={subtopics} onOpen={openSection} />}
+        {category.questions && category.questions.length > 0 && (
+          <ChallengeQuestions questions={category.questions} />
+        )}
 
         {subtopics.length > 0 && (
           <>
+            <SectionHeading title="In depth" />
+
+            {beforeSearch}
+
+            {subtopics.length >= CONTENTS_MIN_SECTIONS && <ContentsCard subtopics={subtopics} onOpen={openSection} />}
+
             {subtopics.length > 1 && (
               <div className="flex justify-end gap-2 mb-3">
                 <Button variant="outline" size="sm" onClick={() => setExpanded(new Set(subtopics.map((s) => s.id)))}>
@@ -512,8 +554,6 @@ export function TopicPage({
             </div>
           </>
         )}
-
-        {typeof afterSubtopics === "function" ? afterSubtopics({ expand }) : afterSubtopics}
 
         {category.verses && category.verses.length > 0 && (
           <Card className="mb-8 mt-8">

@@ -1,5 +1,6 @@
 "use client"
 
+import { Figure } from "@/components/visuals/figure"
 import { useState } from "react"
 
 import { CardGrid, CompareTable, Rich, VisualCard } from "@/components/visuals/kit"
@@ -156,7 +157,29 @@ function TwoReadings() {
   )
 }
 
+function Hildegard() {
+  return (
+    <VisualCard title="Hildegard of Bingen" subtitle="Abbess, author and composer of the twelfth century, one of several women whose writing the medieval church preserved and honoured." sources={[{ label: "Wikipedia, \"Hildegard of Bingen\"", url: "https://en.wikipedia.org/wiki/Hildegard_of_Bingen" }]}>
+      <div className="max-w-sm">
+        <Figure
+          image={{
+            src: "/images/women/hildegard.jpg",
+            width: 900,
+            height: 1158,
+            alt: "Medieval illumination of Hildegard receiving a vision and writing on a wax tablet",
+            caption: "Hildegard receiving a vision and dictating it to her scribe, from the Rupertsberg manuscript of her Scivias.",
+            credit: "Meister des Hildegardis-Codex",
+            license: "Public domain",
+            sourceUrl: "https://commons.wikimedia.org/wiki/File:Meister_des_Hildegardis-Codex_001.jpg",
+          }}
+        />
+      </div>
+    </VisualCard>
+  )
+}
+
 const VISUALS: Record<string, () => React.JSX.Element> = {
+  "hildegard": Hildegard,
   "romans-16": Romans16,
   "law-comparison": LawComparison,
   "women-of-scripture": WomenOfScripture,

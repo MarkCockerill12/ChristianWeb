@@ -30,7 +30,7 @@ The major archaeological findings fall into several categories, running from spe
     {
       id: "new-testament",
       title: "New Testament Archaeological Evidence",
-      tags: ["new-testament", "gospels", "acts"],
+      tags: ["New Testament"],
       content: `
 **Biblical Bethsaida** ([John 1:44](https://www.biblegateway.com/passage/?search=John+1%3A44&version=NIV), [Luke 9:10](https://www.biblegateway.com/passage/?search=Luke+9%3A10&version=NIV), [John 6:5-7](https://www.biblegateway.com/passage/?search=John+6%3A5-7&version=NIV))
 
@@ -70,7 +70,7 @@ Philip was from Bethsaida, where Jesus fed the 5,000 [John 6:5-7](https://www.bi
     {
       id: "old-testament",
       title: "Old Testament Archaeological Evidence",
-      tags: ["old-testament", "genesis", "kings", "exile"],
+      tags: ["Old Testament"],
       content: `
 **Sodom and Gomorrah** ([Genesis 19:24-25](https://biblegateway.com/passage/?search=Genesis+19%3A24-25&version=NIV), [Genesis 19:22-23](https://www.biblegateway.com/passage/?search=Genesis+19%3A22-23&version=NIV))
 
@@ -83,7 +83,7 @@ Multiple theories and findings exist for the cities of the plain:
 
 **Joshua's Long Day** ([Joshua 10:12-13](https://www.biblegateway.com/passage/?search=Joshua+10%3A12-13&version=NIV))
 
-Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](https://www.biblegateway.com/passage/?search=Joshua+10%3A12-13&version=NIV) records the annular solar eclipse of 30 October 1207 BC. For more details on what evidence NASA has found, take a look at the [NASA page](/categories/nasa):
+Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](https://www.biblegateway.com/passage/?search=Joshua+10%3A12-13&version=NIV) records the annular solar eclipse of 30 October 1207 BC. The [NASA topic](/categories/nasa) sets out the astronomy in more detail:
 
 - The eclipse itself is not in question: it is the only annular eclipse visible from the region of Gibeon between 1500 and 1050 BC in the standard calculations[^71][^72][^73]
   - The proposal turns on rendering the Hebrew verbs *dom* and *amad* as "stop shining" rather than "stand still", a minority reading of both words[^74][^75]
@@ -116,129 +116,151 @@ Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](ht
 `
     },
     {
+      id: "exodus-evidence",
+      title: "Is There Evidence for the Exodus?",
+      tags: ["Old Testament", "Disputed finds"],
+      content: `
+**The honest starting point.** No inscription or excavation directly records the Exodus, and Egyptian records do not mention it. The mainstream scholarly view is that the Pentateuch does not give an accurate account of Israel's origins and that the Israelites emerged within Canaan, while most scholars hold that a small group of Egyptian origin may have joined them and contributed the story[^110]. An absence of Egyptian records would not be surprising, because Egypt's monuments rarely record defeats, and nomads in the Sinai leave little trace. It is still a real difficulty, particularly for the numbers.
+
+**What is consistent with it.**
+
+* **Semites lived in the Nile Delta.** Avaris, in the region the Bible calls Goshen, had a large Semitic population, part of which remained after the Egyptians retook the city in the sixteenth century BC[^111].
+* **Pharaoh's store city.** Exodus 1:11 says the Israelites built Rameses. Pi-Ramesses was built by Ramesses II in the thirteenth century BC on the same site[^112].
+* **"Yahweh" in Egyptian lists.** A temple list at Soleb, from the time of Amenhotep III, names a land of the "Shasu of Yhw", which may be the earliest occurrence of the divine name, and would place worshippers of Yahweh among nomads south of Canaan. The reading and its significance are debated[^113].
+* **Israel in Canaan by 1208 BC.** The Merneptah Stele shows Israel already established as a people by then.
+* **Egyptian names.** Several names in the early priestly line, Moses among them, are widely taken to be Egyptian in origin, which would be an odd thing for a later Israelite writer to invent[^114].
+
+**The date.** There are two main proposals. 1 Kings 6:1 puts the Exodus 480 years before Solomon's temple, which gives about 1446 BC, while Exodus 1:11 and the archaeology of Pi-Ramesses fit about 1260 BC better. Conservative scholars defend both.
+
+**The numbers.** The text's 600,000 men (Exodus 12:37) imply a population of about 2.5 million, far more than the land or the archaeology of Sinai and Canaan can support[^115]. Some scholars take the Hebrew *elef* as a group or clan, not "a thousand", which brings the total down sharply[^116]. Others defend the plain figure.
+
+**Assessment.** The evidence is consistent with a historical Exodus in the setting the Bible describes, and it does not confirm one. Whatever else it shows, Israel remembered itself from the start as a nation of freed slaves, an unlikely origin for a people to invent. The [NASA topic](/categories/nasa) covers the physics of the Red Sea crossing.
+`,
+    },
+    {
       id: "biblical-figures",
       title: "Archaeological Confirmations of Biblical Figures",
-      tags: ["historical", "david", "pilate", "hezekiah"],
+      tags: ["New Testament", "Old Testament"],
       content: `
 **King David**
 
-- **Tel Dan Stele** (9th century BC): References "House of David"[^110][^111][^112]
+- **Tel Dan Stele** (9th century BC): References "House of David"[^117][^118][^119]
 
 <?viz archaeological/finds?>
 
-- **Mesha Stele**: Records Moab's revolt against the house of Omri and names Israelite territory[^113][^114]. Whether line 31 also reads "House of David" is contested: André Lemaire read it that way, while Finkelstein, Na'aman and Römer read the name of Balak[^115][^116][^117]
-- Confirms David's historical existence and dynasty[^118][^119][^120]
+- **Mesha Stele**: Records Moab's revolt against the house of Omri and names Israelite territory[^120][^121]. Whether line 31 also reads "House of David" is contested: André Lemaire read it that way, while Finkelstein, Na'aman and Römer read the name of Balak[^122][^123][^124]
+- Confirms David's historical existence and dynasty[^125][^126][^127]
 
 **King Jehu & the Black Obelisk of Shalmaneser III**
 
-- Neo-Assyrian black limestone monument discovered in Nimrud in 1846 (c. 825 BC)[^121][^122][^123].
-- Contains one of the earliest contemporary depictions of a biblical figure, showing King Jehu of Israel (or his representative) bowing and presenting tribute to King Shalmaneser III[^124][^125].
+- Neo-Assyrian black limestone monument discovered in Nimrud in 1846 (c. 825 BC)[^128][^129][^130].
+- Contains one of the earliest contemporary depictions of a biblical figure, showing King Jehu of Israel (or his representative) bowing and presenting tribute to King Shalmaneser III[^131][^132].
 - Corroborates the historical existence of the northern kingdom and its interactions with Assyrian rulers mentioned in Kings.
 
 **Pontius Pilate**
 
-- **Pilate Stone** discovered at Caesarea Maritima (1961)[^126][^127][^128]
-  - Confirms Pilate as "Prefect of Judea" with correct title and timeframe[^129][^130][^131]
-  - Confirms the name and office of the governor who tried Jesus[^132][^133]
+- **Pilate Stone** discovered at Caesarea Maritima (1961)[^133][^134][^135]
+  - Confirms Pilate as "Prefect of Judea" with correct title and timeframe[^136][^137][^138]
+  - Confirms the name and office of the governor who tried Jesus[^139][^140]
 
 **King Hezekiah & Sennacherib's Prism**
 
-- **Sennacherib's (Taylor) Prism**: Assyrian account of siege of Jerusalem[^134][^135]. It corroborates the biblical story of King Hezekiah and the Assyrian invasion[^136][^137][^138].
-  - Matches biblical account in [2 Kings 18-19](https://www.biblegateway.com/passage/?search=2+Kings+18-19&version=NIV) and [Isaiah 36-37](https://biblegateway.com/passage/?search=Isaiah+36-37&version=NIV)[^139].
-  - **Hezekiah's Seal**: Personal seal (bulla) of King Hezekiah discovered[^140][^141][^142].
+- **Sennacherib's (Taylor) Prism**: Assyrian account of siege of Jerusalem[^141][^142]. It corroborates the biblical story of King Hezekiah and the Assyrian invasion[^143][^144][^145].
+  - Matches biblical account in [2 Kings 18-19](https://www.biblegateway.com/passage/?search=2+Kings+18-19&version=NIV) and [Isaiah 36-37](https://biblegateway.com/passage/?search=Isaiah+36-37&version=NIV)[^146].
+  - **Hezekiah's Seal**: Personal seal (bulla) of King Hezekiah discovered[^147][^148][^149].
 
 **Caiaphas the High Priest**
 
-- **Caiaphas Ossuary**: Limestone burial box with inscription[^143][^144][^145]
-  - Confirms the high priest who presided over Jesus's trial[Matthew 26:57](https://biblegateway.com/passage/?search=Matthew+26%3A57&version=NIV), [Mark 14:53](https://biblegateway.com/passage/?search=Mark+14%3A53&version=NIV), [Luke 22:54](https://biblegateway.com/passage/?search=Luke+22%3A54&version=NIV), [John 18:13](https://biblegateway.com/passage/?search=John+18%3A13&version=NIV)
-  - Dating matches Gospel timeline[^146][^147]
+- **Caiaphas Ossuary**: Limestone burial box with inscription[^150][^151][^152]
+  - Confirms the high priest who presided over Jesus's trial: [Matthew 26:57](https://biblegateway.com/passage/?search=Matthew+26%3A57&version=NIV), [Mark 14:53](https://biblegateway.com/passage/?search=Mark+14%3A53&version=NIV), [Luke 22:54](https://biblegateway.com/passage/?search=Luke+22%3A54&version=NIV), [John 18:13](https://biblegateway.com/passage/?search=John+18%3A13&version=NIV)
+  - Dating matches Gospel timeline[^153][^154]
 `
     },
     {
       id: "extra-biblical",
       title: "Extra-Biblical Historical Sources",
-      tags: ["historians", "roman", "jewish", "greek"],
+      tags: ["Texts and manuscripts"],
       content: `
-Multiple non-Christian historians confirm Jesus's historical existence[^148][^149][^150]:
+Non-Christian writers of the ancient world attest Jesus's existence[^155][^156][^157]:
 
 **Roman Sources**
 
-- **Tacitus** (c. 116 AD): "*Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus*"[^151][^152][^153][^154][^155]
-  - **Suetonius** (c. 121 AD): References Christians and "Chrestus"[^156][^157]
-  - **Pliny the Younger** (c. 112 AD): Letters describe early Christian worship practices[^158][^159][^160]
+- **Tacitus** (c. 116 AD): "*Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus*"[^158][^159][^160][^161][^162]
+  - **Suetonius** (c. 121 AD): References Christians and "Chrestus"[^163][^164]
+  - **Pliny the Younger** (c. 112 AD): Letters describe early Christian worship practices[^165][^166][^167]
 **Jewish Sources**
 
-- **Flavius Josephus** (c. 93-94 AD): Mentions Jesus in the *Testimonium Flavianum*, which is considered authentic in its core but partially interpolated by later Christian scribes[^161][^162]
-  - **The Talmud**: References Jesus (Yeshua) and his execution[^163][^164][^165]
-  - **Mara bar Sarapion** (after 73 AD, date debated): References the execution of the "wise king" of the Jews, widely but not universally taken to mean Jesus[^166][^167][^168]
+- **Flavius Josephus** (c. 93-94 AD): Mentions Jesus in the *Testimonium Flavianum*, which is considered authentic in its core but partially interpolated by later Christian scribes[^168][^169]
+  - **The Talmud**: References Jesus (Yeshua) and his execution[^170][^171][^172]
+  - **Mara bar Sarapion** (after 73 AD, date debated): References the execution of the "wise king" of the Jews, widely but not universally taken to mean Jesus[^173][^174][^175]
 **Greek Sources**
 
-- **Lucian of Samosata** (c. 170 AD): Satirically describes Christians worshipping "the crucified sage"[^169][^170][^171]
-  - **Celsus** (c. 178 AD): Anti-Christian writer who doesn't deny Jesus's existence[^172][^173][^174]
+- **Lucian of Samosata** (c. 170 AD): Satirically describes Christians worshipping "the crucified sage"[^176][^177][^178]
+  - **Celsus** (c. 178 AD): Anti-Christian writer who doesn't deny Jesus's existence[^179][^180][^181]
 `
     },
     {
       id: "cultural-geographic",
       title: "Cultural and Geographic Accuracy",
-      tags: ["culture", "geography", "nazareth", "jerusalem"],
+      tags: ["Places and culture"],
       content: `
 **First-Century Palestine**
 
-- Excavations confirm Gospel descriptions of[^175]:
-  - Synagogue practices and architecture[^176][^177][^178][^179][^180]
-  - Jewish burial customs[^181][^182][^183]
-  - Roman administrative procedures[^184][^185][^186]
-  - Economic activities (fishing, agriculture, crafts)[^187][^188][^189]
+- Excavations confirm Gospel descriptions of[^182]:
+  - Synagogue practices and architecture[^183][^184][^185][^186][^187]
+  - Jewish burial customs[^188][^189][^190]
+  - Roman administrative procedures[^191][^192][^193]
+  - Economic activities (fishing, agriculture, crafts)[^194][^195][^196]
 
 **Nazareth**
 
-- Archaeological evidence confirms first-century settlement[^190][^191][^192]
-  - Residential quarters and agricultural terraces from Jesus's time[^193][^194][^195]
-  - Challenges claims that Nazareth didn't exist in the first century[^196][^197][^198]
+- Archaeological evidence confirms first-century settlement[^197][^198][^199]
+  - Residential quarters and agricultural terraces from Jesus's time[^200][^201][^202]
+  - Challenges claims that Nazareth didn't exist in the first century[^203][^204][^205]
 **Jerusalem**
 
-- Temple Mount excavations reveal Herodian construction[^199][^200][^201]
-  - **Warning Stone**: Inscription forbidding Gentiles in temple courts[^202][^203][^204]
-  - Confirms Gospel accounts of temple practices and layout[^205][^206]
+- Temple Mount excavations reveal Herodian construction[^206][^207][^208]
+  - **Warning Stone**: Inscription forbidding Gentiles in temple courts[^209][^210][^211]
+  - Confirms Gospel accounts of temple practices and layout[^212][^213]
 `
     },
     {
       id: "manuscripts",
       title: "Manuscript Evidence",
-      tags: ["manuscripts", "dead-sea-scrolls", "papyri"],
+      tags: ["Texts and manuscripts"],
       content: `
 **New Testament Manuscripts**
 
-- **P52 (John Rylands Papyrus)**: Fragment of [John 18](https://biblegateway.com/passage/?search=John+18&version=NIV), assigned on handwriting to the first half of the second century, with later palaeographic work widening the range to roughly 125-175 AD[^207][^208]
-  - **P66, P75**: Substantial early copies of John, and of Luke and John, from around 200 AD[^209][^210][^211][^212]
-  - Over 5,800 Greek manuscripts provide textual reliability[^213][^214][^215]
+- **P52 (John Rylands Papyrus)**: Fragment of [John 18](https://biblegateway.com/passage/?search=John+18&version=NIV), assigned on handwriting to the first half of the second century, with later palaeographic work widening the range to roughly 125-175 AD[^214][^215]
+  - **P66, P75**: Substantial early copies of John, and of Luke and John, from around 200 AD[^216][^217][^218][^219]
+  - Over 5,800 Greek manuscripts provide textual reliability[^220][^221][^222]
 
 <?viz archaeological/manuscript-counts?>
 
 **Old Testament Manuscripts**
 
-- **Dead Sea Scrolls**: Push the manuscript evidence for the Hebrew Bible back by roughly a thousand years[^216][^217][^218]. The scrolls agree with the medieval Masoretic Text closely, with differences that are overwhelmingly spelling and word order, though the biblical manuscripts among them represent several text traditions rather than one, about 60 percent of them proto-Masoretic[^219][^220][^221].
-  - **Ketef Hinnom Silver Scrolls**: Two rolled silver amulets discovered in Jerusalem in 1979, paleographically dated to c. 600 BC[^222][^223][^224]. They contain a variation of the Priestly Blessing (Numbers 6:24-26) and represent the **oldest surviving fragments of a biblical text ever found**, predating the Dead Sea Scrolls by several centuries.
-  - **Isaiah Scroll**: A complete scroll of Isaiah a thousand years older than the oldest Hebrew copies previously known, agreeing with them in substance while carrying some 2,600 mostly orthographic variants[^225][^226][^227].
-  - **Biblical canon**: Evidence for established Hebrew scriptures before Christ[^228][^229][^230].
-  - **Nash Papyrus**: Ten Commandments from 2nd century BC[^231][^232][^233]
-  - **Aleppo Codex**: Medieval manuscript matching ancient texts[^234][^235][^236]
+- **Dead Sea Scrolls**: Push the manuscript evidence for the Hebrew Bible back by roughly a thousand years[^223][^224][^225]. The scrolls agree with the medieval Masoretic Text closely, with differences that are overwhelmingly spelling and word order, though the biblical manuscripts among them represent several text traditions rather than one, about 60 percent of them proto-Masoretic[^226][^227][^228].
+  - **Ketef Hinnom Silver Scrolls**: Two rolled silver amulets discovered in Jerusalem in 1979, paleographically dated to c. 600 BC[^229][^230][^231]. They contain a variation of the Priestly Blessing (Numbers 6:24-26) and represent the **oldest surviving fragments of a biblical text ever found**, predating the Dead Sea Scrolls by several centuries.
+  - **Isaiah Scroll**: A complete scroll of Isaiah a thousand years older than the oldest Hebrew copies previously known, agreeing with them in substance while carrying some 2,600 mostly orthographic variants[^232][^233][^234].
+  - **Biblical canon**: Evidence for established Hebrew scriptures before Christ[^235][^236][^237].
+  - **Nash Papyrus**: Ten Commandments from 2nd century BC[^238][^239][^240]
+  - **Aleppo Codex**: Medieval manuscript matching ancient texts[^241][^242][^243]
 `
     },
     {
       id: "contested-artifacts",
       title: "Contested & Significant Artifacts",
-      tags: ["shroud-of-turin", "relics"],
+      tags: ["Disputed finds"],
       content: `
 **The Shroud of Turin**
 
-The Shroud of Turin is a linen cloth bearing the faint image of a crucified man. It is one of the most intensely studied and debated artifacts in the world.[^237][^238][^239] 
+The Shroud of Turin is a linen cloth bearing the faint image of a crucified man. It is one of the most intensely studied and debated artifacts in the world.[^244][^245][^246] 
 
-- **Image & Physical Analysis (STURP, 1978)**: The Shroud of Turin Research Project (STURP) concluded the image was *not* a painting, scorch, or stain, as the image-forming substance has no pigment and resides only on the topmost micro-fibers[^240][^241][^242][^243]. They also found the image contains unique three-dimensional spatial information.
-  - **Contradictory Dating 1: Radiocarbon (1988)**: The most notable test, published in *Nature*, used radiocarbon dating on samples from a corner of the cloth. The results dated the linen to the medieval period (1260-1390 AD)[^244][^245][^246].
-  - **Contradictory Dating 2: WAXS (2022)**: A newer study by Dr. Liberato De Caro, using Wide-Angle X-ray Scattering (WAXS) to analyze the natural aging of cellulose, dated a thread taken near the 1988 radiocarbon sampling area to approximately 2,000 years ago, consistent with a 1st-century origin[^247]. The technique has not been independently replicated on the Shroud, and its result assumes the cloth was kept at an average of about 20 to 22.5 °C through some thirteen centuries of unknown history, a storage history that cannot be checked; De Caro himself has called for X-ray measurements by several laboratories[^248].
-  - **The Sample Controversy**: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth[^249][^250][^251][^252]. A 2010 re-examination of a surviving piece of the dated sample by Freer-Waters and Jull found no evidence of coatings or dyes, and their observations were consistent with it coming from the main cloth, so the question remains disputed[^253].
-  - **Botanical Evidence (Pollen)**: Analysis has identified numerous pollen grains, some of which have been claimed to be from plant species unique to the Judea/Jerusalem region[^254][^255][^256]. This evidence, like the shroud itself, remains highly debated.
+- **Image & Physical Analysis (STURP, 1978)**: The Shroud of Turin Research Project (STURP) concluded the image was *not* a painting, scorch, or stain, as the image-forming substance has no pigment and resides only on the topmost micro-fibers[^247][^248][^249][^250]. They also found the image contains unique three-dimensional spatial information.
+  - **Contradictory Dating 1: Radiocarbon (1988)**: The most notable test, published in *Nature*, used radiocarbon dating on samples from a corner of the cloth. The results dated the linen to the medieval period (1260-1390 AD)[^251][^252][^253].
+  - **Contradictory Dating 2: WAXS (2022)**: A newer study by Dr. Liberato De Caro, using Wide-Angle X-ray Scattering (WAXS) to analyze the natural aging of cellulose, dated a thread taken near the 1988 radiocarbon sampling area to approximately 2,000 years ago, consistent with a 1st-century origin[^254]. The technique has not been independently replicated on the Shroud, and its result assumes the cloth was kept at an average of about 20 to 22.5 °C through some thirteen centuries of unknown history, a storage history that cannot be checked; De Caro himself has called for X-ray measurements by several laboratories[^255].
+  - **The Sample Controversy**: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth[^256][^257][^258][^259]. A 2010 re-examination of a surviving piece of the dated sample by Freer-Waters and Jull found no evidence of coatings or dyes, and their observations were consistent with it coming from the main cloth, so the question remains disputed[^260].
+  - **Botanical Evidence (Pollen)**: Analysis has identified numerous pollen grains, some of which have been claimed to be from plant species unique to the Judea/Jerusalem region[^261][^262][^263]. This evidence, like the shroud itself, remains highly debated.
 `
     }
   ],
@@ -353,153 +375,160 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "107. [Research Institute] Tyndale House, Cambridge. 'The Cyrus Cylinder.' https://tyndalehouse.com/2020/07/24/the-cyrus-cylinder/",
     "108. [Educational Resource] OT in Context. 'How Does the Cyrus Decree Compare to Biblical Text?' https://otincontext.com/learn/context/cyrus-return-decree-comparison",
     "109. [Historical Resource] Livius. 'Cyrus the Great.' https://www.livius.org/articles/person/cyrus-the-great/",
-    "110. [Encyclopedia] Wikipedia. 'Tel Dan Stele.' https://en.wikipedia.org/wiki/Tel_Dan_stele",
-    "111. [Archaeology Publication] Biblical Archaeology Society Library. 'Biran and Naveh, David Found at Dan.' https://library.biblicalarchaeology.org/article/david-found-at-dan/",
-    "112. [Archaeology Publication] Biblical Archaeology Society. 'The Tel Dan Inscription: The First Historical Evidence of King David.' https://www.biblicalarchaeology.org/daily/biblical-artifacts/the-tel-dan-inscription-the-first-historical-evidence-of-the-king-david-bible-story/",
-    "113. [Encyclopedia] Wikipedia. 'Mesha Stele.' https://en.wikipedia.org/wiki/Mesha_Stele",
-    "114. [Encyclopedia] Encyclopaedia Britannica. 'Mesha Stele.' https://www.britannica.com/topic/Mesha-Stele",
-    "115. [Peer-Reviewed Journal] Tel Aviv. 'Finkelstein, Na'aman and Romer, Restoring Line 31 in the Mesha Stele.' https://www.tandfonline.com/doi/full/10.1080/03344355.2019.1586378",
-    "116. [Archaeology Publication] Biblical Archaeology Society. 'Scholars Identify Biblical King Balak on the Mesha Stele.' https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/biblical-king-balak-mesha-stele/",
-    "117. [Archaeology Publication] Biblical Archaeology Society. 'The Mesha Stele and King David of the Bible.' https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/the-mesha-stele-and-king-david-of-the-bible/",
-    "118. [Archaeology Organisation] Associates for Biblical Research. 'The Evidence for King David and an Update on the Tel Dan Stela.' https://biblearchaeology.org/research/chronological-categories/united-monarchy/5246-the-evidence-for-king-david-and-an-update-on-the-tel-dan-stela",
-    "119. [Encyclopedia] Wikipedia. 'House of David.' https://en.wikipedia.org/wiki/House_of_David",
-    "120. [Academic Resource] Bible Odyssey, Society of Biblical Literature. 'David.' https://www.bibleodyssey.org/people/david/",
-    "121. [Museum] The British Museum. 'The Black Obelisk of Shalmaneser III, BM 1848,1104.1.' https://www.britishmuseum.org/collection/object/W_1848-1104-1",
-    "122. [Encyclopedia] Wikipedia. 'Black Obelisk of Shalmaneser III.' https://en.wikipedia.org/wiki/Black_Obelisk_of_Shalmaneser_III",
-    "123. [University Project] Oracc, University of Pennsylvania. 'The Black Obelisk of Shalmaneser III.' https://oracc.museum.upenn.edu/nimrud/livesofobjects/blackobelisk/",
-    "124. [Research Institute] Tyndale House, Cambridge. 'The Black Obelisk.' https://tyndalehouse.com/2020/11/20/the-black-obelisk/",
-    "125. [Encyclopedia] World History Encyclopedia. 'The Black Obelisk of Shalmaneser III at the British Museum.' https://etc.worldhistory.org/photos/black-obelisk-of-shalmaneser-iii-british-museum/",
-    "126. [Encyclopedia] World History Encyclopedia. 'Pontius Pilate.' https://www.worldhistory.org/Pontius_Pilate/",
-    "127. [Encyclopedia] Wikipedia. 'Pilate Stone.' https://en.wikipedia.org/wiki/Pilate_stone",
-    "128. [Archaeology Resource] Madain Project. 'Pilate Inscription Stone.' https://madainproject.com/pilate_stone",
-    "129. [Encyclopedia] Encyclopedia Britannica. 'Pontius Pilate.' https://www.britannica.com/biography/Pontius-Pilate",
-    "130. [Historical Resource] Livius. 'Pontius Pilate.' https://www.livius.org/articles/person/pontius-pilate/",
-    "131. [Ministry Journal] Ministry Magazine. 'Pontius Pilate and the Caesarea Inscription.' https://www.ministrymagazine.org/archive/1975/04/pontius-pilate-and-the-caesarea-inscription",
-    "132. [Archaeology Resource] Bible Archaeology Report. 'Pontius Pilate: An Archaeological Biography.' https://biblearchaeologyreport.com/2019/10/11/pontius-pilate-an-archaeological-biography/",
-    "133. [Encyclopedia] Wikipedia. 'Pontius Pilate.' https://en.wikipedia.org/wiki/Pontius_Pilate",
-    "134. [Academic Resource] CDLI (Oxford). 'The Taylor Prism.' https://cdli.ox.ac.uk/wiki/doku.php?id=taylor_prism",
-    "135. [Encyclopedia] Wikipedia. 'Sennacherib's Annals.' https://en.wikipedia.org/wiki/Sennacherib%27s_Annals",
-    "136. [Museum Artifact] The British Museum. 'The Taylor Prism.' https://www.britishmuseum.org/collection/object/W_1855-1003-1",
-    "137. [Archaeology Resource] Bible Archaeology Report. 'Three Assyrian Inscriptions About Hebrew Kings.' https://biblearchaeologyreport.com/2019/03/15/three-assyrian-inscriptions-about-hebrew-kings/",
-    "138. [Encyclopedia] Wikipedia. 'Sennacherib.' https://en.wikipedia.org/wiki/Sennacherib",
-    "139. [Encyclopedia] Wikipedia. 'Hezekiah.' https://en.wikipedia.org/wiki/Hezekiah",
-    "140. [Magazine] Smithsonian Magazine. 'Is This the Seal of the Prophet Isaiah?' https://www.smithsonianmag.com/smart-news/seal-prophet-isaiah-180968255/",
-    "141. [Encyclopedia] Wikipedia. 'King Hezekiah Bulla.' https://en.wikipedia.org/wiki/King_Hezekiah_bulla",
-    "142. [Archaeology Publication] Biblical Archaeology Society. 'Royal Seal of Hezekiah Comes to Light.' https://www.biblicalarchaeology.org/daily/news/king-hezekiah-in-the-bible-royal-seal-of-hezekiah-comes-to-light/",
-    "143. [Archaeology] Biblical Archaeology Society. 'Burial Cave of the Caiaphas Family.' https://library.biblicalarchaeology.org/article/burial-cave-of-the-caiaphas-family/",
-    "144. [Encyclopedia] Wikipedia. 'Caiaphas Ossuary.' https://en.wikipedia.org/wiki/Caiaphas_ossuary",
-    "145. [Archaeology Publication] Biblical Archaeology Society Library. 'The Tomb of Caiaphas.' https://library.biblicalarchaeology.org/sidebar/the-tomb-of-caiaphas/",
-    "146. [Academic Resource] Center for Online Judaic Studies. 'Ossuary of the High Priest Caiaphas, 18-36 CE.' https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/",
-    "147. [Encyclopedia] Wikipedia. 'Caiaphas.' https://en.wikipedia.org/wiki/Caiaphas",
-    "148. [Encyclopedia] Wikipedia. 'Historicity of Jesus.' https://en.wikipedia.org/wiki/Historicity_of_Jesus",
-    "149. [Encyclopedia] Encyclopaedia Britannica. 'Jesus.' https://www.britannica.com/biography/Jesus",
-    "150. [Encyclopedia] Wikipedia. 'Jesus.' https://en.wikipedia.org/wiki/Jesus",
-    "151. [Encyclopedia] Encyclopedia Britannica. 'Tacitus.' https://www.britannica.com/biography/Tacitus-Roman-historian",
-    "152. [Encyclopedia] Wikipedia. 'Tacitus on Christ.' https://en.wikipedia.org/wiki/Tacitus_on_Christ",
-    "153. [Historical Resource] Livius. 'Tacitus on the Christians.' https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/",
-    "154. [Primary Source] LacusCurtius, University of Chicago. 'Tacitus, Annals Book 15.' https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html",
-    "155. [History Resource] History for Atheists. 'The Tacitus Reference to Jesus.' https://historyforatheists.com/2017/09/jesus-mythicism-1-the-tacitus-reference-to-jesus/",
-    "156. [Encyclopedia] Wikipedia. 'Suetonius on Christians.' https://en.wikipedia.org/wiki/Suetonius_on_Christians",
-    "157. [Primary Source] LacusCurtius, University of Chicago. 'Suetonius, Life of Claudius.' https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html",
-    "158. [Encyclopedia] Wikipedia. 'Pliny the Younger on Christians.' https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians",
-    "159. [Primary Source] Early Christian Writings. 'Pliny.' https://www.earlychristianwritings.com/text/pliny.html",
-    "160. [Encyclopedia] Wikipedia. 'Pliny the Younger.' https://en.wikipedia.org/wiki/Pliny_the_Younger",
-    "161. [Encyclopedia] Wikipedia. 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
-    "162. [Primary Source] Early Christian Writings. 'Testimonium.' https://www.earlychristianwritings.com/testimonium.html",
-    "163. [Primary Source] Sefaria. 'Sanhedrin.43a.' https://www.sefaria.org/Sanhedrin.43a",
-    "164. [Encyclopedia] Wikipedia. 'Jesus in the Talmud.' https://en.wikipedia.org/wiki/Jesus_in_the_Talmud",
-    "165. [Reference] Jewish Encyclopedia. 'Jesus of Nazareth.' https://www.jewishencyclopedia.com/articles/8616-jesus-of-nazareth",
-    "166. [Encyclopedia] Wikipedia. 'Mara bar Serapion on Jesus.' https://en.wikipedia.org/wiki/Mara_bar_Serapion_on_Jesus",
-    "167. [Encyclopedia] Wikipedia. 'Mara Bar Serapion.' https://en.wikipedia.org/wiki/Mara_bar_Serapion",
-    "168. [Academic Reference] Gorgias Encyclopedic Dictionary of the Syriac Heritage. 'Mara bar Serapion, Letter of.' https://gedsh.bethmardutho.org/Mara-bar-Serapion-Letter-of",
-    "169. [Encyclopedia] Wikipedia. 'Lucian on Christianity.' https://en.wikipedia.org/wiki/Lucian#On_Christianity",
-    "170. [Primary Source] The Tertullian Project. 'Lucian of Samosata, The Death of Peregrine.' https://www.tertullian.org/rpearse/lucian/peregrinus.htm",
-    "171. [Encyclopedia] Wikipedia. 'Sources for the Historicity of Jesus.' https://en.wikipedia.org/wiki/Sources_for_the_historicity_of_Jesus",
-    "172. [Encyclopedia] Wikipedia. 'Celsus.' https://en.wikipedia.org/wiki/Celsus",
-    "173. [Encyclopedia] Wikipedia. 'The True Word.' https://en.wikipedia.org/wiki/The_True_Word",
-    "174. [Primary Source] New Advent, Church Fathers. 'Origen, Contra Celsum, Book I.' https://www.newadvent.org/fathers/04161.htm",
-    "175. [Encyclopedia] Wikipedia. 'Second Temple Judaism.' https://en.wikipedia.org/wiki/Second_Temple_Judaism",
-    "176. [Encyclopedia] Wikipedia. 'Ancient Synagogues in Palestine.' https://en.wikipedia.org/wiki/Ancient_synagogues_in_Palestine",
-    "177. [Archaeology Publication] Biblical Archaeology Society. 'Archaeologists Discover New First-Century Synagogue in Magdala.' https://www.biblicalarchaeology.org/daily/new-first-century-synagogue/",
-    "178. [Encyclopedia] World History Encyclopedia. 'The Archaeological Excavations at Magdala.' https://www.worldhistory.org/article/1219/the-archaeological-excavations-at-magdala/",
-    "179. [Excavation Project] Magdala Archaeological Park. 'The Archaeology of Magdala.' https://www.magdala.org/archaeology",
-    "180. [Encyclopedia] Wikipedia. 'Synagogue.' https://en.wikipedia.org/wiki/Synagogue",
-    "181. [Reference] Jewish Virtual Library. 'Burial Sites and Tombs in Jerusalem of the Second Temple Period.' https://www.jewishvirtuallibrary.org/burial-sites-and-tombs-in-jerusalem-of-the-second-temple-period",
-    "182. [Academic Resource] Jerusalem Perspective. 'Jewish Burial Customs in the First Century.' https://www.jerusalemperspective.com/19613/",
-    "183. [Peer-Reviewed Journal] Journal of Biblical Literature. 'Magness, J. Ossuaries and the Burials of Jesus and James.' https://jamestabor.com/wp-content/uploads/2018/03/BurialJamesJesusMagnessSBL.pdf",
-    "184. [Encyclopedia] Wikipedia. 'Roman Administration of Judaea (AD 6–135).' https://en.wikipedia.org/wiki/Roman_administration_of_Judaea_(AD_6%E2%80%93135)",
-    "185. [University Publication] BYU Studies. 'The Roman Province of Judea: A Historical Overview.' https://byustudies.byu.edu/article/the-roman-province-of-judea-a-historical-overview",
-    "186. [Peer-Reviewed Journal] Journal for the Study of the New Testament. 'Curran, J. Pilate, Barabbas, and the Privilegium Paschale.' https://journals.sagepub.com/doi/10.1177/0142064X241307204",
-    "187. [Academic Paper] K. C. Hanson. 'The Galilean Fishing Economy and the Jesus Tradition.' https://www.kchanson.com/ARTICLES/fishing.html",
-    "188. [Encyclopedia] Wikipedia. 'Sea of Galilee Boat.' https://en.wikipedia.org/wiki/Sea_of_Galilee_Boat",
-    "189. [Academic Paper] Atiqot 19. 'Wachsmann, S. The Excavations of an Ancient Boat from the Sea of Galilee.' https://www.academia.edu/5058314/The_Excavations_of_an_Ancient_Boat_from_the_Sea_of_Galilee_Lake_Kinneret_Atiqot_19",
-    "190. [Encyclopedia] Wikipedia. 'Nazareth History.' https://en.wikipedia.org/wiki/Nazareth#History",
-    "191. [Archaeology Organisation] Associates for Biblical Research. 'First Century House Unearthed in Nazareth.' https://biblearchaeology.org/current-events-list/3447-first-century-house-unearthed-in-nazareth",
-    "192. [Archaeology Resource] BiblePlaces. 'First Century House Excavated in.' https://www.bibleplaces.com/blog/2009/12/first-century-house-excavated-in/",
-    "193. [University Publication] Bible and Interpretation, University of Arizona. 'The Archaeology of Nazareth in the Early First Century.' https://bibleinterp.arizona.edu/articles/archaeology-nazareth-early-first-century",
-    "194. [News] Jewish Telegraphic Agency. 'Digging Up History in Nazareth.' https://www.jta.org/2009/12/22/ny/digging-up-history",
-    "195. [Archaeology Resource] BiblePlaces. 'Nazareth.' https://www.bibleplaces.com/nazareth/",
-    "196. [Archaeological Report] Bible Archaeology Report. 'Did First-Century Nazareth Exist?' https://biblearchaeologyreport.com/2018/08/09/did-first-century-nazareth-exist/",
-    "197. [Scholarly Blog] Bart Ehrman. 'Nazareth in the Time of Jesus: The Archaeological Record.' https://ehrmanblog.org/nazareth-in-the-time-of-jesus-the-archaeological-record/",
-    "198. [Encyclopedia] Encyclopaedia Britannica. 'Nazareth.' https://www.britannica.com/place/Nazareth",
-    "199. [Encyclopedia] Wikipedia. 'Robinson's Arch.' https://en.wikipedia.org/wiki/Robinson%27s_Arch",
-    "200. [Encyclopedia] Wikipedia. 'Herod's Temple.' https://en.wikipedia.org/wiki/Herod%27s_Temple",
-    "201. [Archaeology Publication] Biblical Archaeology Society. 'The Temple Mount in the Herodian Period.' https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-temple-mount-in-the-herodian-period/",
-    "202. [Encyclopedia] Wikipedia. 'Temple Warning Inscription.' https://en.wikipedia.org/wiki/Temple_Warning_inscription",
-    "203. [Archaeology Publication] Armstrong Institute of Biblical Archaeology. 'The Temple Warning Inscriptions.' https://armstronginstitute.org/360-the-temple-warning-inscriptions-closest-thing-to-the-temple-we-have",
-    "204. [News] The Times of Israel. 'Ancient Temple Mount Warning Stone Is Closest Thing We Have to the Temple.' https://www.timesofisrael.com/ancient-temple-mount-warning-stone-is-closest-thing-we-have-to-the-temple/",
-    "205. [Encyclopedia] Wikipedia. 'Temple Mount.' https://en.wikipedia.org/wiki/Temple_Mount",
-    "206. [Reference] Jewish Virtual Library. 'The Temple Mount.' https://www.jewishvirtuallibrary.org/the-temple-mount",
-    "207. [Encyclopedia] Wikipedia. 'Rylands Library Papyrus P52.' https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
-    "208. [Encyclopedia] Wikipedia. 'List of New Testament Papyri.' https://en.wikipedia.org/wiki/List_of_New_Testament_papyri",
-    "209. [Scholarly Blog] Larry Hurtado. 'The Date of P66: Nongbri's New Argument.' https://larryhurtado.wordpress.com/2014/06/03/the-date-of-p66-p-bodmer-ii-nongbris-new-argument/",
-    "210. [Encyclopedia] Wikipedia. 'Papyrus 66.' https://en.wikipedia.org/wiki/Papyrus_66",
-    "211. [Encyclopedia] Wikipedia. 'Papyrus 75.' https://en.wikipedia.org/wiki/Papyrus_75",
-    "212. [Encyclopedia] Wikipedia. 'Biblical Manuscript.' https://en.wikipedia.org/wiki/Biblical_manuscript",
-    "213. [Academic Database] INTF, University of Munster. 'Kurzgefasste Liste of Greek New Testament Manuscripts.' https://ntvmr.uni-muenster.de/liste",
-    "214. [Encyclopedia] Wikipedia. 'Institute for New Testament Textual Research.' https://en.wikipedia.org/wiki/Institute_for_New_Testament_Textual_Research",
-    "215. [Scholarly Blog] Bart Ehrman. 'The Greek Manuscripts of the New Testament.' https://ehrmanblog.org/the-greek-manuscripts-of-the-new-testament/",
-    "216. [Archaeological Organization] Dead Sea Scrolls Foundation. 'Introduction.' https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
-    "217. [Encyclopedia] Wikipedia. 'Dead Sea Scrolls.' https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
-    "218. [Encyclopedia] Encyclopaedia Britannica. 'Dead Sea Scrolls.' https://www.britannica.com/topic/Dead-Sea-Scrolls",
-    "219. [Apologetics Resource] Cold Case Christianity. 'Reliability of the Old Testament.' https://coldcasechristianity.com/writings/establishing-the-reliability-of-the-old-testament-a-timely-test-of-transmission/",
-    "220. [Academic Resource] Text and Canon Institute. 'How Much Can the Most Famous Dead Sea Scroll Prove?.' https://textandcanon.org/how-much-can-the-most-famous-dead-sea-scroll-prove/",
-    "221. [Encyclopedia] Wikipedia. 'Masoretic Text.' https://en.wikipedia.org/wiki/Masoretic_Text",
-    "222. [Encyclopedia] Wikipedia. 'Ketef Hinnom Scrolls.' https://en.wikipedia.org/wiki/Ketef_Hinnom_scrolls",
-    "223. [Archaeology Organisation] Associates for Biblical Research. 'The Blessing of the Silver Scrolls.' https://biblearchaeology.org/research-articles/the-blessing-of-the-silver-scrolls/",
-    "224. [Academic Resource] Center for Online Judaic Studies. 'Silver Scroll Amulets from Ketef Hinnom, c. 600 BCE.' https://cojs.org/silver_scroll_amulets_from_ketef_hinnom-_c-_600_bce/",
-    "225. [Encyclopedia] Wikipedia. 'Isaiah Scroll.' https://en.wikipedia.org/wiki/Isaiah_Scroll",
-    "226. [Museum] The Israel Museum, Jerusalem. 'The Digital Dead Sea Scrolls: The Great Isaiah Scroll.' http://dss.collections.imj.org.il/isaiah",
-    "227. [Lexical Resource] Ancient Hebrew Research Center. 'The Great Isaiah Scroll and the Masoretic Text.' https://www.ancient-hebrew.org/dss/great-isaiah-scroll-and-the-masoretic-text.htm",
-    "228. [Apologetics Resource] Logos. 'Dead Sea Scrolls and the Canon.' https://www.logos.com/grow/dead-sea-scrolls-answer-canon-question",
-    "229. [Encyclopedia] Wikipedia. 'Development of the Hebrew Bible Canon.' https://en.wikipedia.org/wiki/Development_of_the_Hebrew_Bible_canon",
-    "230. [Encyclopedia] Encyclopaedia Britannica. 'Biblical Literature.' https://www.britannica.com/topic/biblical-literature",
-    "231. [University Library] Cambridge Digital Library. 'Hebrew Manuscripts: Nash Papyrus.' https://cudl.lib.cam.ac.uk/view/MS-OR-00233/1",
-    "232. [Encyclopedia] Wikipedia. 'Nash Papyrus.' https://en.wikipedia.org/wiki/Nash_Papyrus",
-    "233. [Reference] History of Information. 'The Nash Fragment of the Ten Commandments.' https://www.historyofinformation.com/detail.php?id=2412",
-    "234. [Encyclopedia] Wikipedia. 'Aleppo Codex.' https://en.wikipedia.org/wiki/Aleppo_Codex",
-    "235. [Manuscript Archive] The Aleppo Codex. 'The Aleppo Codex Online.' https://www.aleppocodex.org/",
-    "236. [Encyclopedia] Encyclopaedia Britannica. 'Aleppo Codex.' https://www.britannica.com/topic/Aleppo-Codex",
-    "237. [Shroud Research] Shroud.com. 'Dating The Shroud Of Turin: Weighing All The Evidence.' https://www.shroud.com/pdfs/stlschneiderpaper.pdf",
-    "238. [Encyclopedia] Wikipedia. 'Shroud of Turin.' https://en.wikipedia.org/wiki/Shroud_of_Turin",
-    "239. [Encyclopedia] Encyclopaedia Britannica. 'Shroud of Turin.' https://www.britannica.com/topic/Shroud-of-Turin",
-    "240. [Shroud Research] Schwortz, B. 'The Shroud of Turin Research Project 1978 Scientific Examination.' https://www.shroud.com/pdfs/schwortz2p.pdf",
-    "241. [Encyclopedia] Wikipedia. 'Shroud of Turin Research Project.' https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
-    "242. [Peer-Reviewed Paper] Rogers and Arnoldi, Melanoidins vol. 4. 'The Shroud of Turin: An Amino-Carbonyl Reaction May Explain the Image Formation.' https://www.shroud.com/pdfs/rogers7.pdf",
-    "243. [Shroud Research] The Medieval Shroud. 'STURP Revisited.' https://medievalshroud.com/sturp-revisited/",
-    "244. [Encyclopedia] Wikipedia. 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
-    "245. [Peer-Reviewed Journal] Nature. 'Damon et al. Radiocarbon Dating of the Shroud of Turin (1989).' https://www.nature.com/articles/337611a0",
-    "246. [Encyclopedia] Wikipedia. 'History of the Shroud of Turin.' https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
-    "247. [Academic Journal] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. Heritage, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
-    "248. [News] National Catholic Register. 'New Scientific Technique Dates Shroud of Turin to Around the Time of Christ's Death and Resurrection' (interview with Liberato De Caro, 2022). https://www.ncregister.com/interview/new-scientific-technique-dates-shroud-of-turin-to-around-the-time-of-christ-s-death-and-resurrection",
-    "249. [Peer-Reviewed Journal] Journal of Archaeological Science, Reports. 'An Instructive Inter-Laboratory Comparison: The 1988 Radiocarbon Dating of the Shroud of Turin.' https://www.sciencedirect.com/science/article/pii/S2352409X19301865",
-    "250. [Peer-Reviewed Journal] Entropy. 'Di Lazzaro, P. et al. Statistical and Proactive Analysis of an Inter-Laboratory Comparison: The Radiocarbon Dating of the Shroud of Turin (2020).' https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7597180/",
-    "251. [Peer-Reviewed Journal] Advances in Social Sciences Research Journal. 'Revisiting the Analysis of 1988 Radiocarbon Dating of the Shroud of Turin.' https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/3418",
-    "252. [Academic Paper] ResearchGate. 'Casabianca et al. Radiocarbon Dating of the Turin Shroud: New Evidence from Raw Data.' https://www.researchgate.net/publication/331956466_Radiocarbon_Dating_of_the_Turin_Shroud_New_Evidence_from_Raw_Data",
-    "253. [Peer-Reviewed Journal] Radiocarbon 52(4). 'Freer-Waters, R. and Jull, A. J. T. Investigating a Dated Piece of the Shroud of Turin (2010).' https://www.cambridge.org/core/journals/radiocarbon/article/investigating-a-dated-piece-of-the-shroud-of-turin/8CC26C322198300E051C49A0BA5B96D9",
-    "254. [Skeptical Resource] Center for Inquiry. 'Pollens on the 'Shroud': A Study in Deception.' https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1994/07/22165128/p45.pdf",
-    "255. [Shroud Research] Shroud.com. 'Pollen Grains on the Shroud of Turin.' https://www.shroud.com/pdfs/ssi10part4.pdf",
-    "256. [Encyclopedia] Wikipedia. 'Max Frei.' https://en.wikipedia.org/wiki/Max_Frei"
+    "110. [Encyclopedia] Wikipedia. 'The Exodus.' https://en.wikipedia.org/wiki/The_Exodus",
+    "111. [Encyclopedia] Wikipedia. 'Avaris.' https://en.wikipedia.org/wiki/Avaris",
+    "112. [Encyclopedia] Wikipedia. 'Pi-Ramesses.' https://en.wikipedia.org/wiki/Pi-Ramesses",
+    "113. [Encyclopedia] Wikipedia. 'Shasu.' https://en.wikipedia.org/wiki/Shasu",
+    "114. [Encyclopedia] Wikipedia. 'Moses.' https://en.wikipedia.org/wiki/Moses",
+    "115. [Magazine] Biblical Archaeology Society. 'Exodus: Fact or Fiction?' https://www.biblicalarchaeology.org/daily/biblical-topics/exodus/exodus-fact-or-fiction/",
+    "116. [Encyclopedia] Wikipedia. 'Book of Numbers.' https://en.wikipedia.org/wiki/Book_of_Numbers",
+    "117. [Encyclopedia] Wikipedia. 'Tel Dan Stele.' https://en.wikipedia.org/wiki/Tel_Dan_stele",
+    "118. [Archaeology Publication] Biblical Archaeology Society Library. 'Biran and Naveh, David Found at Dan.' https://library.biblicalarchaeology.org/article/david-found-at-dan/",
+    "119. [Archaeology Publication] Biblical Archaeology Society. 'The Tel Dan Inscription: The First Historical Evidence of King David.' https://www.biblicalarchaeology.org/daily/biblical-artifacts/the-tel-dan-inscription-the-first-historical-evidence-of-the-king-david-bible-story/",
+    "120. [Encyclopedia] Wikipedia. 'Mesha Stele.' https://en.wikipedia.org/wiki/Mesha_Stele",
+    "121. [Encyclopedia] Encyclopaedia Britannica. 'Mesha Stele.' https://www.britannica.com/topic/Mesha-Stele",
+    "122. [Peer-Reviewed Journal] Tel Aviv. 'Finkelstein, Na'aman and Romer, Restoring Line 31 in the Mesha Stele.' https://www.tandfonline.com/doi/full/10.1080/03344355.2019.1586378",
+    "123. [Archaeology Publication] Biblical Archaeology Society. 'Scholars Identify Biblical King Balak on the Mesha Stele.' https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/biblical-king-balak-mesha-stele/",
+    "124. [Archaeology Publication] Biblical Archaeology Society. 'The Mesha Stele and King David of the Bible.' https://www.biblicalarchaeology.org/daily/biblical-artifacts/inscriptions/the-mesha-stele-and-king-david-of-the-bible/",
+    "125. [Archaeology Organisation] Associates for Biblical Research. 'The Evidence for King David and an Update on the Tel Dan Stela.' https://biblearchaeology.org/research/chronological-categories/united-monarchy/5246-the-evidence-for-king-david-and-an-update-on-the-tel-dan-stela",
+    "126. [Encyclopedia] Wikipedia. 'House of David.' https://en.wikipedia.org/wiki/House_of_David",
+    "127. [Academic Resource] Bible Odyssey, Society of Biblical Literature. 'David.' https://www.bibleodyssey.org/people/david/",
+    "128. [Museum] The British Museum. 'The Black Obelisk of Shalmaneser III, BM 1848,1104.1.' https://www.britishmuseum.org/collection/object/W_1848-1104-1",
+    "129. [Encyclopedia] Wikipedia. 'Black Obelisk of Shalmaneser III.' https://en.wikipedia.org/wiki/Black_Obelisk_of_Shalmaneser_III",
+    "130. [University Project] Oracc, University of Pennsylvania. 'The Black Obelisk of Shalmaneser III.' https://oracc.museum.upenn.edu/nimrud/livesofobjects/blackobelisk/",
+    "131. [Research Institute] Tyndale House, Cambridge. 'The Black Obelisk.' https://tyndalehouse.com/2020/11/20/the-black-obelisk/",
+    "132. [Encyclopedia] World History Encyclopedia. 'The Black Obelisk of Shalmaneser III at the British Museum.' https://etc.worldhistory.org/photos/black-obelisk-of-shalmaneser-iii-british-museum/",
+    "133. [Encyclopedia] World History Encyclopedia. 'Pontius Pilate.' https://www.worldhistory.org/Pontius_Pilate/",
+    "134. [Encyclopedia] Wikipedia. 'Pilate Stone.' https://en.wikipedia.org/wiki/Pilate_stone",
+    "135. [Archaeology Resource] Madain Project. 'Pilate Inscription Stone.' https://madainproject.com/pilate_stone",
+    "136. [Encyclopedia] Encyclopedia Britannica. 'Pontius Pilate.' https://www.britannica.com/biography/Pontius-Pilate",
+    "137. [Historical Resource] Livius. 'Pontius Pilate.' https://www.livius.org/articles/person/pontius-pilate/",
+    "138. [Ministry Journal] Ministry Magazine. 'Pontius Pilate and the Caesarea Inscription.' https://www.ministrymagazine.org/archive/1975/04/pontius-pilate-and-the-caesarea-inscription",
+    "139. [Archaeology Resource] Bible Archaeology Report. 'Pontius Pilate: An Archaeological Biography.' https://biblearchaeologyreport.com/2019/10/11/pontius-pilate-an-archaeological-biography/",
+    "140. [Encyclopedia] Wikipedia. 'Pontius Pilate.' https://en.wikipedia.org/wiki/Pontius_Pilate",
+    "141. [Academic Resource] CDLI (Oxford). 'The Taylor Prism.' https://cdli.ox.ac.uk/wiki/doku.php?id=taylor_prism",
+    "142. [Encyclopedia] Wikipedia. 'Sennacherib's Annals.' https://en.wikipedia.org/wiki/Sennacherib%27s_Annals",
+    "143. [Museum Artifact] The British Museum. 'The Taylor Prism.' https://www.britishmuseum.org/collection/object/W_1855-1003-1",
+    "144. [Archaeology Resource] Bible Archaeology Report. 'Three Assyrian Inscriptions About Hebrew Kings.' https://biblearchaeologyreport.com/2019/03/15/three-assyrian-inscriptions-about-hebrew-kings/",
+    "145. [Encyclopedia] Wikipedia. 'Sennacherib.' https://en.wikipedia.org/wiki/Sennacherib",
+    "146. [Encyclopedia] Wikipedia. 'Hezekiah.' https://en.wikipedia.org/wiki/Hezekiah",
+    "147. [Magazine] Smithsonian Magazine. 'Is This the Seal of the Prophet Isaiah?' https://www.smithsonianmag.com/smart-news/seal-prophet-isaiah-180968255/",
+    "148. [Encyclopedia] Wikipedia. 'King Hezekiah Bulla.' https://en.wikipedia.org/wiki/King_Hezekiah_bulla",
+    "149. [Archaeology Publication] Biblical Archaeology Society. 'Royal Seal of Hezekiah Comes to Light.' https://www.biblicalarchaeology.org/daily/news/king-hezekiah-in-the-bible-royal-seal-of-hezekiah-comes-to-light/",
+    "150. [Archaeology] Biblical Archaeology Society. 'Burial Cave of the Caiaphas Family.' https://library.biblicalarchaeology.org/article/burial-cave-of-the-caiaphas-family/",
+    "151. [Encyclopedia] Wikipedia. 'Caiaphas Ossuary.' https://en.wikipedia.org/wiki/Caiaphas_ossuary",
+    "152. [Archaeology Publication] Biblical Archaeology Society Library. 'The Tomb of Caiaphas.' https://library.biblicalarchaeology.org/sidebar/the-tomb-of-caiaphas/",
+    "153. [Academic Resource] Center for Online Judaic Studies. 'Ossuary of the High Priest Caiaphas, 18-36 CE.' https://cojs.org/ossuary_of_the_high_priest_caiaphas-_18-36_ce/",
+    "154. [Encyclopedia] Wikipedia. 'Caiaphas.' https://en.wikipedia.org/wiki/Caiaphas",
+    "155. [Encyclopedia] Wikipedia. 'Historicity of Jesus.' https://en.wikipedia.org/wiki/Historicity_of_Jesus",
+    "156. [Encyclopedia] Encyclopaedia Britannica. 'Jesus.' https://www.britannica.com/biography/Jesus",
+    "157. [Encyclopedia] Wikipedia. 'Jesus.' https://en.wikipedia.org/wiki/Jesus",
+    "158. [Encyclopedia] Encyclopedia Britannica. 'Tacitus.' https://www.britannica.com/biography/Tacitus-Roman-historian",
+    "159. [Encyclopedia] Wikipedia. 'Tacitus on Christ.' https://en.wikipedia.org/wiki/Tacitus_on_Christ",
+    "160. [Historical Resource] Livius. 'Tacitus on the Christians.' https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/",
+    "161. [Primary Source] LacusCurtius, University of Chicago. 'Tacitus, Annals Book 15.' https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html",
+    "162. [History Resource] History for Atheists. 'The Tacitus Reference to Jesus.' https://historyforatheists.com/2017/09/jesus-mythicism-1-the-tacitus-reference-to-jesus/",
+    "163. [Encyclopedia] Wikipedia. 'Suetonius on Christians.' https://en.wikipedia.org/wiki/Suetonius_on_Christians",
+    "164. [Primary Source] LacusCurtius, University of Chicago. 'Suetonius, Life of Claudius.' https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html",
+    "165. [Encyclopedia] Wikipedia. 'Pliny the Younger on Christians.' https://en.wikipedia.org/wiki/Pliny_the_Younger_on_Christians",
+    "166. [Primary Source] Early Christian Writings. 'Pliny.' https://www.earlychristianwritings.com/text/pliny.html",
+    "167. [Encyclopedia] Wikipedia. 'Pliny the Younger.' https://en.wikipedia.org/wiki/Pliny_the_Younger",
+    "168. [Encyclopedia] Wikipedia. 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
+    "169. [Primary Source] Early Christian Writings. 'Testimonium.' https://www.earlychristianwritings.com/testimonium.html",
+    "170. [Primary Source] Sefaria. 'Sanhedrin.43a.' https://www.sefaria.org/Sanhedrin.43a",
+    "171. [Encyclopedia] Wikipedia. 'Jesus in the Talmud.' https://en.wikipedia.org/wiki/Jesus_in_the_Talmud",
+    "172. [Reference] Jewish Encyclopedia. 'Jesus of Nazareth.' https://www.jewishencyclopedia.com/articles/8616-jesus-of-nazareth",
+    "173. [Encyclopedia] Wikipedia. 'Mara bar Serapion on Jesus.' https://en.wikipedia.org/wiki/Mara_bar_Serapion_on_Jesus",
+    "174. [Encyclopedia] Wikipedia. 'Mara Bar Serapion.' https://en.wikipedia.org/wiki/Mara_bar_Serapion",
+    "175. [Academic Reference] Gorgias Encyclopedic Dictionary of the Syriac Heritage. 'Mara bar Serapion, Letter of.' https://gedsh.bethmardutho.org/Mara-bar-Serapion-Letter-of",
+    "176. [Encyclopedia] Wikipedia. 'Lucian on Christianity.' https://en.wikipedia.org/wiki/Lucian#On_Christianity",
+    "177. [Primary Source] The Tertullian Project. 'Lucian of Samosata, The Death of Peregrine.' https://www.tertullian.org/rpearse/lucian/peregrinus.htm",
+    "178. [Encyclopedia] Wikipedia. 'Sources for the Historicity of Jesus.' https://en.wikipedia.org/wiki/Sources_for_the_historicity_of_Jesus",
+    "179. [Encyclopedia] Wikipedia. 'Celsus.' https://en.wikipedia.org/wiki/Celsus",
+    "180. [Encyclopedia] Wikipedia. 'The True Word.' https://en.wikipedia.org/wiki/The_True_Word",
+    "181. [Primary Source] New Advent, Church Fathers. 'Origen, Contra Celsum, Book I.' https://www.newadvent.org/fathers/04161.htm",
+    "182. [Encyclopedia] Wikipedia. 'Second Temple Judaism.' https://en.wikipedia.org/wiki/Second_Temple_Judaism",
+    "183. [Encyclopedia] Wikipedia. 'Ancient Synagogues in Palestine.' https://en.wikipedia.org/wiki/Ancient_synagogues_in_Palestine",
+    "184. [Archaeology Publication] Biblical Archaeology Society. 'Archaeologists Discover New First-Century Synagogue in Magdala.' https://www.biblicalarchaeology.org/daily/new-first-century-synagogue/",
+    "185. [Encyclopedia] World History Encyclopedia. 'The Archaeological Excavations at Magdala.' https://www.worldhistory.org/article/1219/the-archaeological-excavations-at-magdala/",
+    "186. [Excavation Project] Magdala Archaeological Park. 'The Archaeology of Magdala.' https://www.magdala.org/archaeology",
+    "187. [Encyclopedia] Wikipedia. 'Synagogue.' https://en.wikipedia.org/wiki/Synagogue",
+    "188. [Reference] Jewish Virtual Library. 'Burial Sites and Tombs in Jerusalem of the Second Temple Period.' https://www.jewishvirtuallibrary.org/burial-sites-and-tombs-in-jerusalem-of-the-second-temple-period",
+    "189. [Academic Resource] Jerusalem Perspective. 'Jewish Burial Customs in the First Century.' https://www.jerusalemperspective.com/19613/",
+    "190. [Peer-Reviewed Journal] Journal of Biblical Literature. 'Magness, J. Ossuaries and the Burials of Jesus and James.' https://jamestabor.com/wp-content/uploads/2018/03/BurialJamesJesusMagnessSBL.pdf",
+    "191. [Encyclopedia] Wikipedia. 'Roman Administration of Judaea (AD 6–135).' https://en.wikipedia.org/wiki/Roman_administration_of_Judaea_(AD_6%E2%80%93135)",
+    "192. [University Publication] BYU Studies. 'The Roman Province of Judea: A Historical Overview.' https://byustudies.byu.edu/article/the-roman-province-of-judea-a-historical-overview",
+    "193. [Peer-Reviewed Journal] Journal for the Study of the New Testament. 'Curran, J. Pilate, Barabbas, and the Privilegium Paschale.' https://journals.sagepub.com/doi/10.1177/0142064X241307204",
+    "194. [Academic Paper] K. C. Hanson. 'The Galilean Fishing Economy and the Jesus Tradition.' https://www.kchanson.com/ARTICLES/fishing.html",
+    "195. [Encyclopedia] Wikipedia. 'Sea of Galilee Boat.' https://en.wikipedia.org/wiki/Sea_of_Galilee_Boat",
+    "196. [Academic Paper] Atiqot 19. 'Wachsmann, S. The Excavations of an Ancient Boat from the Sea of Galilee.' https://www.academia.edu/5058314/The_Excavations_of_an_Ancient_Boat_from_the_Sea_of_Galilee_Lake_Kinneret_Atiqot_19",
+    "197. [Encyclopedia] Wikipedia. 'Nazareth History.' https://en.wikipedia.org/wiki/Nazareth#History",
+    "198. [Archaeology Organisation] Associates for Biblical Research. 'First Century House Unearthed in Nazareth.' https://biblearchaeology.org/current-events-list/3447-first-century-house-unearthed-in-nazareth",
+    "199. [Archaeology Resource] BiblePlaces. 'First Century House Excavated in.' https://www.bibleplaces.com/blog/2009/12/first-century-house-excavated-in/",
+    "200. [University Publication] Bible and Interpretation, University of Arizona. 'The Archaeology of Nazareth in the Early First Century.' https://bibleinterp.arizona.edu/articles/archaeology-nazareth-early-first-century",
+    "201. [News] Jewish Telegraphic Agency. 'Digging Up History in Nazareth.' https://www.jta.org/2009/12/22/ny/digging-up-history",
+    "202. [Archaeology Resource] BiblePlaces. 'Nazareth.' https://www.bibleplaces.com/nazareth/",
+    "203. [Archaeological Report] Bible Archaeology Report. 'Did First-Century Nazareth Exist?' https://biblearchaeologyreport.com/2018/08/09/did-first-century-nazareth-exist/",
+    "204. [Scholarly Blog] Bart Ehrman. 'Nazareth in the Time of Jesus: The Archaeological Record.' https://ehrmanblog.org/nazareth-in-the-time-of-jesus-the-archaeological-record/",
+    "205. [Encyclopedia] Encyclopaedia Britannica. 'Nazareth.' https://www.britannica.com/place/Nazareth",
+    "206. [Encyclopedia] Wikipedia. 'Robinson's Arch.' https://en.wikipedia.org/wiki/Robinson%27s_Arch",
+    "207. [Encyclopedia] Wikipedia. 'Herod's Temple.' https://en.wikipedia.org/wiki/Herod%27s_Temple",
+    "208. [Archaeology Publication] Biblical Archaeology Society. 'The Temple Mount in the Herodian Period.' https://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-temple-mount-in-the-herodian-period/",
+    "209. [Encyclopedia] Wikipedia. 'Temple Warning Inscription.' https://en.wikipedia.org/wiki/Temple_Warning_inscription",
+    "210. [Archaeology Publication] Armstrong Institute of Biblical Archaeology. 'The Temple Warning Inscriptions.' https://armstronginstitute.org/360-the-temple-warning-inscriptions-closest-thing-to-the-temple-we-have",
+    "211. [News] The Times of Israel. 'Ancient Temple Mount Warning Stone Is Closest Thing We Have to the Temple.' https://www.timesofisrael.com/ancient-temple-mount-warning-stone-is-closest-thing-we-have-to-the-temple/",
+    "212. [Encyclopedia] Wikipedia. 'Temple Mount.' https://en.wikipedia.org/wiki/Temple_Mount",
+    "213. [Reference] Jewish Virtual Library. 'The Temple Mount.' https://www.jewishvirtuallibrary.org/the-temple-mount",
+    "214. [Encyclopedia] Wikipedia. 'Rylands Library Papyrus P52.' https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
+    "215. [Encyclopedia] Wikipedia. 'List of New Testament Papyri.' https://en.wikipedia.org/wiki/List_of_New_Testament_papyri",
+    "216. [Scholarly Blog] Larry Hurtado. 'The Date of P66: Nongbri's New Argument.' https://larryhurtado.wordpress.com/2014/06/03/the-date-of-p66-p-bodmer-ii-nongbris-new-argument/",
+    "217. [Encyclopedia] Wikipedia. 'Papyrus 66.' https://en.wikipedia.org/wiki/Papyrus_66",
+    "218. [Encyclopedia] Wikipedia. 'Papyrus 75.' https://en.wikipedia.org/wiki/Papyrus_75",
+    "219. [Encyclopedia] Wikipedia. 'Biblical Manuscript.' https://en.wikipedia.org/wiki/Biblical_manuscript",
+    "220. [Academic Database] INTF, University of Munster. 'Kurzgefasste Liste of Greek New Testament Manuscripts.' https://ntvmr.uni-muenster.de/liste",
+    "221. [Encyclopedia] Wikipedia. 'Institute for New Testament Textual Research.' https://en.wikipedia.org/wiki/Institute_for_New_Testament_Textual_Research",
+    "222. [Scholarly Blog] Bart Ehrman. 'The Greek Manuscripts of the New Testament.' https://ehrmanblog.org/the-greek-manuscripts-of-the-new-testament/",
+    "223. [Archaeological Organization] Dead Sea Scrolls Foundation. 'Introduction.' https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
+    "224. [Encyclopedia] Wikipedia. 'Dead Sea Scrolls.' https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+    "225. [Encyclopedia] Encyclopaedia Britannica. 'Dead Sea Scrolls.' https://www.britannica.com/topic/Dead-Sea-Scrolls",
+    "226. [Apologetics Resource] Cold Case Christianity. 'Reliability of the Old Testament.' https://coldcasechristianity.com/writings/establishing-the-reliability-of-the-old-testament-a-timely-test-of-transmission/",
+    "227. [Academic Resource] Text and Canon Institute. 'How Much Can the Most Famous Dead Sea Scroll Prove?.' https://textandcanon.org/how-much-can-the-most-famous-dead-sea-scroll-prove/",
+    "228. [Encyclopedia] Wikipedia. 'Masoretic Text.' https://en.wikipedia.org/wiki/Masoretic_Text",
+    "229. [Encyclopedia] Wikipedia. 'Ketef Hinnom Scrolls.' https://en.wikipedia.org/wiki/Ketef_Hinnom_scrolls",
+    "230. [Archaeology Organisation] Associates for Biblical Research. 'The Blessing of the Silver Scrolls.' https://biblearchaeology.org/research-articles/the-blessing-of-the-silver-scrolls/",
+    "231. [Academic Resource] Center for Online Judaic Studies. 'Silver Scroll Amulets from Ketef Hinnom, c. 600 BCE.' https://cojs.org/silver_scroll_amulets_from_ketef_hinnom-_c-_600_bce/",
+    "232. [Encyclopedia] Wikipedia. 'Isaiah Scroll.' https://en.wikipedia.org/wiki/Isaiah_Scroll",
+    "233. [Museum] The Israel Museum, Jerusalem. 'The Digital Dead Sea Scrolls: The Great Isaiah Scroll.' http://dss.collections.imj.org.il/isaiah",
+    "234. [Lexical Resource] Ancient Hebrew Research Center. 'The Great Isaiah Scroll and the Masoretic Text.' https://www.ancient-hebrew.org/dss/great-isaiah-scroll-and-the-masoretic-text.htm",
+    "235. [Apologetics Resource] Logos. 'Dead Sea Scrolls and the Canon.' https://www.logos.com/grow/dead-sea-scrolls-answer-canon-question",
+    "236. [Encyclopedia] Wikipedia. 'Development of the Hebrew Bible Canon.' https://en.wikipedia.org/wiki/Development_of_the_Hebrew_Bible_canon",
+    "237. [Encyclopedia] Encyclopaedia Britannica. 'Biblical Literature.' https://www.britannica.com/topic/biblical-literature",
+    "238. [University Library] Cambridge Digital Library. 'Hebrew Manuscripts: Nash Papyrus.' https://cudl.lib.cam.ac.uk/view/MS-OR-00233/1",
+    "239. [Encyclopedia] Wikipedia. 'Nash Papyrus.' https://en.wikipedia.org/wiki/Nash_Papyrus",
+    "240. [Reference] History of Information. 'The Nash Fragment of the Ten Commandments.' https://www.historyofinformation.com/detail.php?id=2412",
+    "241. [Encyclopedia] Wikipedia. 'Aleppo Codex.' https://en.wikipedia.org/wiki/Aleppo_Codex",
+    "242. [Manuscript Archive] The Aleppo Codex. 'The Aleppo Codex Online.' https://www.aleppocodex.org/",
+    "243. [Encyclopedia] Encyclopaedia Britannica. 'Aleppo Codex.' https://www.britannica.com/topic/Aleppo-Codex",
+    "244. [Shroud Research] Shroud.com. 'Dating The Shroud Of Turin: Weighing All The Evidence.' https://www.shroud.com/pdfs/stlschneiderpaper.pdf",
+    "245. [Encyclopedia] Wikipedia. 'Shroud of Turin.' https://en.wikipedia.org/wiki/Shroud_of_Turin",
+    "246. [Encyclopedia] Encyclopaedia Britannica. 'Shroud of Turin.' https://www.britannica.com/topic/Shroud-of-Turin",
+    "247. [Shroud Research] Schwortz, B. 'The Shroud of Turin Research Project 1978 Scientific Examination.' https://www.shroud.com/pdfs/schwortz2p.pdf",
+    "248. [Encyclopedia] Wikipedia. 'Shroud of Turin Research Project.' https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
+    "249. [Peer-Reviewed Paper] Rogers and Arnoldi, Melanoidins vol. 4. 'The Shroud of Turin: An Amino-Carbonyl Reaction May Explain the Image Formation.' https://www.shroud.com/pdfs/rogers7.pdf",
+    "250. [Shroud Research] The Medieval Shroud. 'STURP Revisited.' https://medievalshroud.com/sturp-revisited/",
+    "251. [Encyclopedia] Wikipedia. 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+    "252. [Peer-Reviewed Journal] Nature. 'Damon et al. Radiocarbon Dating of the Shroud of Turin (1989).' https://www.nature.com/articles/337611a0",
+    "253. [Encyclopedia] Wikipedia. 'History of the Shroud of Turin.' https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+    "254. [Academic Journal] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. Heritage, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
+    "255. [News] National Catholic Register. 'New Scientific Technique Dates Shroud of Turin to Around the Time of Christ's Death and Resurrection' (interview with Liberato De Caro, 2022). https://www.ncregister.com/interview/new-scientific-technique-dates-shroud-of-turin-to-around-the-time-of-christ-s-death-and-resurrection",
+    "256. [Peer-Reviewed Journal] Journal of Archaeological Science, Reports. 'An Instructive Inter-Laboratory Comparison: The 1988 Radiocarbon Dating of the Shroud of Turin.' https://www.sciencedirect.com/science/article/pii/S2352409X19301865",
+    "257. [Peer-Reviewed Journal] Entropy. 'Di Lazzaro, P. et al. Statistical and Proactive Analysis of an Inter-Laboratory Comparison: The Radiocarbon Dating of the Shroud of Turin (2020).' https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7597180/",
+    "258. [Peer-Reviewed Journal] Advances in Social Sciences Research Journal. 'Revisiting the Analysis of 1988 Radiocarbon Dating of the Shroud of Turin.' https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/3418",
+    "259. [Academic Paper] ResearchGate. 'Casabianca et al. Radiocarbon Dating of the Turin Shroud: New Evidence from Raw Data.' https://www.researchgate.net/publication/331956466_Radiocarbon_Dating_of_the_Turin_Shroud_New_Evidence_from_Raw_Data",
+    "260. [Peer-Reviewed Journal] Radiocarbon 52(4). 'Freer-Waters, R. and Jull, A. J. T. Investigating a Dated Piece of the Shroud of Turin (2010).' https://www.cambridge.org/core/journals/radiocarbon/article/investigating-a-dated-piece-of-the-shroud-of-turin/8CC26C322198300E051C49A0BA5B96D9",
+    "261. [Skeptical Resource] Center for Inquiry. 'Pollens on the 'Shroud': A Study in Deception.' https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1994/07/22165128/p45.pdf",
+    "262. [Shroud Research] Shroud.com. 'Pollen Grains on the Shroud of Turin.' https://www.shroud.com/pdfs/ssi10part4.pdf",
+    "263. [Encyclopedia] Wikipedia. 'Max Frei.' https://en.wikipedia.org/wiki/Max_Frei"
   ],
-  lastUpdated: "26-10-2026",
+  lastUpdated: "30-10-2026",
 }

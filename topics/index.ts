@@ -1,5 +1,6 @@
 import type { Topic } from "./types"
 
+import { ABORTION } from "./abortion"
 import { archaeological } from "./archaeological"
 import { BAPTISM } from "./baptism"
 import { BIBLE_BOOKS } from "./bible-books"
@@ -14,6 +15,7 @@ import { tuning } from "./fine-tuning"
 import { FREE_WILL } from "./free-will"
 import { godEvil } from "./godEvil"
 import { hell } from "./hell"
+import { ISLAM } from "./islam"
 import { HOMOSEXUALITY } from "./homosexuality"
 import { jesus } from "./jesus"
 import { LAZARUS } from "./lazarus"
@@ -31,6 +33,8 @@ import { trinity } from "./trinity"
 import { women } from "./women"
 import { prayer } from "./prayer"
 import { PAGAN_ORIGINS } from "./pagan-origins"
+import { HEROES } from "./extras/heroes"
+import { QUESTIONS } from "./extras/questions"
 
 export type { Topic } from "./types"
 
@@ -38,7 +42,8 @@ export type { Topic } from "./types"
  * The single registry of published topics. Adding a topic means adding it here
  * and nowhere else, since routing, the index page and the sitemap all read from this.
  */
-const availableTopics: readonly Topic[] = [
+const publishedTopics: readonly Topic[] = [
+  ABORTION,
   archaeological,
   BAPTISM,
   BIBLE_BOOKS,
@@ -54,6 +59,7 @@ const availableTopics: readonly Topic[] = [
   godEvil,
   hell,
   HOMOSEXUALITY,
+  ISLAM,
   jesus,
   LAZARUS,
   miracles,
@@ -71,6 +77,13 @@ const availableTopics: readonly Topic[] = [
   prayer,
   PAGAN_ORIGINS,
 ]
+
+/** Banner pictures and challenge questions are kept apart from the prose and joined here. */
+const availableTopics: readonly Topic[] = publishedTopics.map((topic) => ({
+  ...topic,
+  hero: HEROES[topic.id],
+  questions: QUESTIONS[topic.id],
+}))
 
 const topicsById = new Map(availableTopics.map((topic) => [topic.id, topic]))
 

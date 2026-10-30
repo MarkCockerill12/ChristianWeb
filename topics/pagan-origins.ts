@@ -37,12 +37,14 @@ In 1961 the scholar Samuel Sandmel warned colleagues against "parallelomania": n
 Almost all historians of the period, religious or not, accept that Jesus existed and reject the theory that he was invented from myths[^4]. The earliest Christian summary of belief, the creed Paul quotes in 1 Corinthians 15:3-7, is commonly dated to within a few years of the crucifixion, which leaves little time for foreign myths to grow into a new religion[^5]. Its framework is Jewish: the hope of a bodily resurrection at the end of the age, held by the Pharisees and found in Daniel 12:2[^6].
 
 <?viz pagan-origins/source-dates?>
+
+<?viz pagan-origins/claim-checker?>
 `,
   subtopics: [
     {
       id: "horus-and-osiris",
       title: "Horus and the Egyptian Gods",
-      tags: ["egypt", "horus", "osiris", "isis"],
+      tags: ["Pagan gods"],
       content: `
 Egyptian religion is genuinely ancient. Horus and his father Osiris already appear in the Pyramid Texts of the third millennium BC, among the oldest religious writings in the world[^7]. The question is not whether Horus is older than Jesus, but whether the popular list of parallels is found in Egyptian sources.
 
@@ -60,7 +62,6 @@ Egyptian sources support none of the best-known claims[^10]:
 
 The comparison was popularised by William R. Cooper in 1877 and by Acharya S in the 2000s, and it remains disputed by specialists.
 
-<?viz pagan-origins/claim-checker?>
 
 ### Isis and Mary
 
@@ -72,7 +73,7 @@ One genuine link runs later in time. Images of Isis nursing the infant Horus are
     {
       id: "mithras",
       title: "Mithras and the Roman Mysteries",
-      tags: ["rome", "mithras", "persia"],
+      tags: ["Pagan gods"],
       content: `
 Mithras is the most often cited parallel, and the evidence can be dated. Mithra was an old Indo-Iranian god of covenant and light, worshipped in Persia[^12]. The Roman cult of Mithras was something else: a secret religion for initiated men, popular in the army, whose meeting places appear suddenly in the archaeology in the last quarter of the first century AD and which was suppressed by the end of the fourth. Since the 1970s most scholars have rejected Franz Cumont's view that it was Persian religion moved west, and many think that, apart from the god's name, it developed within Roman culture. Its monuments show Mithras born from a rock as a youth, holding a dagger and a torch, and every Mithraic temple centred on a scene of Mithras killing a bull. Vermaseren held that 25 December was Mithras's birthday; Roger Beck disagreed strongly, and Manfred Clauss notes that the mysteries had no public festivals of their own and that the December feast was a general solar one[^13].
 
@@ -90,7 +91,7 @@ The one real overlap is a ritual meal. Justin Martyr, writing in the mid-second 
     {
       id: "dying-and-rising-gods",
       title: "Dying and Rising Gods",
-      tags: ["resurrection", "frazer", "scholarship"],
+      tags: ["Pagan gods"],
       content: `
 The broader theory comes from James Frazer's *The Golden Bough* (1890), which grouped Osiris, Tammuz, Adonis, Attis, Dionysus and Jesus as gods who die and rise with the yearly cycle of the crops. By the late twentieth century most scholars had concluded that many of Frazer's examples died but did not rise[^16]. Jonathan Z. Smith, writing the entry for the *Encyclopedia of Religion* (1987), concluded that "there is no unambiguous instance in the history of religions of a dying and rising deity", and that the resurrections of Adonis and Attis appear only in late, often Christian, reports[^17].
 
@@ -115,7 +116,7 @@ The detailed historical case is set out in [the resurrection topic](/categories/
     {
       id: "dionysus-krishna-and-others",
       title: "Dionysus, Krishna and Apollonius",
-      tags: ["greece", "india", "dionysus", "krishna"],
+      tags: ["Pagan gods"],
       content: `
 ### Dionysus
 
@@ -135,7 +136,7 @@ Apollonius, a wandering Pythagorean philosopher of the first century, is often p
     {
       id: "rome-and-the-emperor",
       title: "Rome and the Emperor",
-      tags: ["rome", "augustus", "language"],
+      tags: ["Pagan gods"],
       content: `
 The Roman world supplied much of the vocabulary Christians used. After the Senate declared Julius Caesar a god in 42 BC, his adopted son Octavian, the future Augustus, styled himself *divi filius*, "son of the deified one", and put the title on his coins[^25]. An inscription from Priene in Asia Minor (9 BC) praises Augustus as a saviour sent by Providence and calls his birthday "the beginning of the good tidings" for the world, using the Greek *euangelion*, the word translated "gospel". The wording has often been compared with the opening of Mark, "The beginning of the gospel of Jesus Christ, the Son of God" (Mark 1:1)[^26]. Across the provinces emperors received temples, priests and sacrifices[^27].
 
@@ -145,7 +146,7 @@ The overlap is in titles, and it cuts against borrowing: Christians gave "Lord",
     {
       id: "old-testament-and-its-neighbours",
       title: "The Old Testament and Its Neighbours",
-      tags: ["babylon", "egypt", "canaan", "genesis", "proverbs"],
+      tags: ["Old Testament"],
       content: `
 Unlike most of the parallels to Jesus, the Old Testament parallels are real, ancient and accepted by scholars of every persuasion. Israel lived among Egyptians, Babylonians and Canaanites, and its writings share their languages, poetic forms, legal styles and images. The question is what Israel did with them.
 
@@ -187,7 +188,7 @@ Historic Christian teaching holds that Scripture is inspired through human autho
     {
       id: "persia-and-zoroastrianism",
       title: "Persia and Zoroastrianism",
-      tags: ["persia", "zoroastrianism", "angels", "end times"],
+      tags: ["Old Testament"],
       content: `
 After Cyrus of Persia took Babylon, he allowed the Jewish exiles to return, and Isaiah 45:1 calls him the LORD's anointed[^38]. The Persian state religion, Zoroastrianism, taught a final saviour (the Saoshyant), a last battle between good and evil, judgment, heaven and hell, and the resurrection of the body.
 
@@ -199,7 +200,7 @@ Within the Old Testament the hope of resurrection appears in Isaiah 26:19 and Da
     {
       id: "christmas",
       title: "Christmas",
-      tags: ["holidays", "christmas", "december 25", "santa"],
+      tags: ["Holidays"],
       content: `
 The Gospels give no date for the birth of Jesus. The earliest known reference to 25 December as the date of the nativity is in the Chronograph of 354, a Roman almanac[^40]. Two explanations compete.
 
@@ -233,7 +234,7 @@ Santa Claus comes from a Christian bishop. Nicholas of Myra, traditionally 270 t
     {
       id: "easter",
       title: "Easter",
-      tags: ["holidays", "easter", "passover", "ishtar"],
+      tags: ["Holidays"],
       content: `
 ### The Name
 
@@ -251,7 +252,7 @@ Eating eggs was forbidden during Lent in medieval western Europe, so they return
     {
       id: "halloween",
       title: "Halloween",
-      tags: ["holidays", "halloween", "samhain", "all saints"],
+      tags: ["Holidays"],
       content: `
 "Halloween" is a contraction of All Hallows' Eve, the evening before All Saints' Day. On 13 May 609 or 610 Pope Boniface IV consecrated the Pantheon in Rome as a church of Mary and the martyrs; by 800 churches in Ireland and Northumbria kept a feast of all saints on 1 November, and in 835 the Frankish Empire adopted that date with the backing of Pope Gregory IV[^52].
 
@@ -263,7 +264,7 @@ Some historians think the church Christianised Samhain as All Hallows; others ar
     {
       id: "sunday-and-valentines",
       title: "Sunday, Valentine's Day and Other Claims",
-      tags: ["sunday", "constantine", "valentine", "lupercalia"],
+      tags: ["Holidays"],
       content: `
 ### Sunday
 
@@ -277,7 +278,7 @@ Lupercalia was a Roman festival of purification held on 15 February. The popular
     {
       id: "what-christianity-did-borrow",
       title: "What Christianity Did Borrow",
-      tags: ["art", "culture", "summary"],
+      tags: ["Borrowing"],
       content: `
 Christianity grew up inside the Roman world, and some borrowing is clear. Most of it is in art and custom rather than in what Christians believed about Jesus.
 
@@ -297,7 +298,7 @@ The line historians draw is between form and content. Shared images, words and c
     {
       id: "objections",
       title: "Objections and Responses",
-      tags: ["objections", "apologetics"],
+      tags: ["Objections"],
       content: `
 <?viz pagan-origins/objections?>
 `,
@@ -367,5 +368,5 @@ The line historians draw is between form and content. Shared images, words and c
     "61. [Encyclopedia] Wikipedia. Kriophoros. https://en.wikipedia.org/wiki/Kriophoros",
     "62. [Encyclopedia] Wikipedia. Tomb of the Julii. https://en.wikipedia.org/wiki/Tomb_of_the_Julii"
   ],
-  lastUpdated: "29-10-2026",
+  lastUpdated: "30-10-2026",
 }

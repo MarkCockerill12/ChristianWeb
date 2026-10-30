@@ -21,12 +21,14 @@ The question of whether we are in the end times combines two questions that Scri
 Whether we are in the "last days" is answered plainly in the affirmative, and has been since the first century. Peter, at Pentecost, declared Joel's last days prophecy fulfilled that morning, Hebrews states that God has spoken in these last days through His Son, and John wrote that it was the last hour around AD 90[^2].
 
 Whether we are in the final generation before Christ's return is a separate question, and Scripture states directly that no one knows the answer[^3].
+
+<?viz end-times/frameworks?>
 `,
   subtopics: [
     {
       id: "inaugurated-eschatology",
       title: "Defining the End Times and Prophetic Context",
-      tags: ["inaugurated eschatology", "new testament", "pentecost"],
+      tags: ["Scripture"],
       content: `
 From a biblical perspective the last days are the entire period between Christ's ascension and His second coming, which places the church within them for over two thousand years[^4]. The kingdom of God has already begun in the life, death and resurrection of Jesus, while awaiting its final consummation, a framework theologians describe as inaugurated eschatology[^5].
 
@@ -39,7 +41,7 @@ Scripture also describes a specific period of tribulation immediately preceding 
     {
       id: "interpretive-frameworks",
       title: "Four Ways Christians Read Revelation",
-      tags: ["hermeneutics", "revelation", "frameworks"],
+      tags: ["Revelation"],
       content: `
 Orthodox Christians have read the prophetic texts in four distinct ways for centuries, and the differences are substantial[^11].
 
@@ -48,7 +50,6 @@ Orthodox Christians have read the prophetic texts in four distinct ways for cent
 *   **Futurism.** Most of Revelation chapters 4 to 20 describes events still to come. This is the dominant view in modern evangelicalism, especially in its dispensationalist form[^14].
 *   **Idealism.** The imagery depicts timeless spiritual realities, the conflict of good and evil in every age, rather than a datable sequence[^15].
 
-<?viz end-times/frameworks?>
 
 
 The millennium forms a separate axis. Premillennialism holds that Christ returns before a literal thousand-year reign, postmillennialism that He returns after a golden age, and amillennialism that the millennium is the present church age described symbolically[^16][^17]. These correlate loosely with the frameworks above, with futurists tending premillennial and idealists tending amillennial.
@@ -62,7 +63,7 @@ The signs framework set out in the following sections is largely a futurist read
     {
       id: "signs-jesus-named",
       title: "Traditional and Historical Signs of the End",
-      tags: ["olivet discourse", "matthew 24", "signs"],
+      tags: ["Scripture"],
       content: `
 In the Olivet Discourse Jesus lists indicators, and the way He frames them differs from the way they are commonly used[^19].
 
@@ -81,7 +82,7 @@ These signs have characterised most of church history, which fits the reading th
     {
       id: "modern-claims",
       title: "Modern Claims That Do Not Hold Up",
-      tags: ["correction", "science", "assessment"],
+      tags: ["Modern claims"],
       content: `
 Several arguments circulating in prophecy material fail under examination.
 
@@ -97,7 +98,7 @@ Several arguments circulating in prophecy material fail under examination.
     {
       id: "date-setting",
       title: "The Track Record of Date-Setting",
-      tags: ["date setting", "history", "warning"],
+      tags: ["Modern claims"],
       content: `
 Jesus stated that no one knows the day or hour, not the angels and not the Son, but only the Father, and told the apostles directly that it was not for them to know times or dates[^41].
 
@@ -114,7 +115,7 @@ Any framework flexible enough to map current headlines onto prophecy is flexible
     {
       id: "how-to-respond",
       title: "How Christians Should Respond",
-      tags: ["application", "watchfulness", "hope"],
+      tags: ["Response"],
       content: `
 Scripture's own application of eschatology is practical rather than speculative[^47].
 
@@ -183,5 +184,5 @@ In the New Testament sense the answer to the question is yes, since the last day
     "53. [Reference] Wikipedia. Biblical hermeneutics. Principles distinguishing text from inference. https://en.wikipedia.org/wiki/Biblical_hermeneutics",
     "54. [Commentary] Bible Hub. 'Commentaries on Acts 1:7.' https://biblehub.com/commentaries/acts/1-7.htm"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

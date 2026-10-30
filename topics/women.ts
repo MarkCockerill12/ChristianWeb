@@ -14,6 +14,8 @@ Two claims about the Bible and women are made confidently and neither survives c
 The picture that fits the evidence is more demanding than either. Men and women are declared equal in worth at the first mention of humanity in Scripture, and that declaration is the foundation on which every later argument for the dignity of women in the Christian tradition has been built[^3][^4].
 
 The Old Testament also contains legislation that assumes a patriarchal household economy, that treats a daughter's sexual status as an asset attached to her father's house, and that regulates practices, polygamy and concubinage among them, which it plainly does not commend. Some of that legislation restricts damage that was already being done. Some of it is hard to read charitably at all. Both facts belong in an honest account, and the arguments below are given with their weaknesses attached[^5].
+
+<?viz women/women-of-scripture?>
 `,
   timeline: [
     {
@@ -165,7 +167,7 @@ The Old Testament also contains legislation that assumes a patriarchal household
     {
       id: "image-of-god",
       title: "Equal in Creation and in Christ",
-      tags: ["genesis", "imago dei", "galatians"],
+      tags: ["Creation and Christ"],
       content: `
 The foundation is laid before any law is given. Genesis 1:27 states that God created humanity in his own image, and then specifies male and female, so that the image is borne by both without distinction of rank. The dominion mandate in the next verse is given to both jointly, not to the man with the woman attached[^6].
 
@@ -185,7 +187,7 @@ Every subsequent claim in the Christian tradition about the dignity of women res
     {
       id: "ane-comparison",
       title: "Reading the Law in Its Own World",
-      tags: ["ancient near east", "hammurabi", "law"],
+      tags: ["The Law"],
       content: `
 Judging the Mosaic legislation is impossible without knowing what the alternatives were. The relevant comparison is not modern statute but the law of the surrounding cultures in the same centuries[^18].
 
@@ -208,7 +210,7 @@ The trajectory argument follows from this: the Law restrains an existing evil wh
     {
       id: "bitter-water",
       title: "Numbers 5: The Ordeal of the Bitter Water",
-      tags: ["numbers 5", "difficult texts", "sotah"],
+      tags: ["The Law"],
       content: `
 A husband who suspects his wife of adultery without witnesses or evidence brings her to the priest. A grain offering is made without oil or incense, the woman's hair is loosened, she swears an oath, the oath is written and washed off into water mixed with dust from the tabernacle floor, and she drinks it. If she is guilty her body suffers; if she is innocent she is cleared and shall conceive. The husband bears no penalty for a false accusation[^28][^29].
 
@@ -222,7 +224,7 @@ A husband who suspects his wife of adultery without witnesses or evidence brings
     {
       id: "sexual-violence-laws",
       title: "Deuteronomy 22 and the Laws on Sexual Violence",
-      tags: ["deuteronomy 22", "difficult texts", "hebrew"],
+      tags: ["The Law"],
       content: `
 This is the hardest cluster in the Old Testament for the question of women, and the common English rendering, particularly in modern translations like the NIV, often causes massive confusion and makes it harder than the Hebrew requires. The chapter is structured around establishing boundaries, protecting the vulnerable, and maintaining relational purity.
 
@@ -248,7 +250,7 @@ Second, the Bible interprets the Bible. The direct parallel to this law is the s
     {
       id: "household-law",
       title: "Servitude, Vows, Purity and Inheritance",
-      tags: ["exodus 21", "numbers 30", "leviticus", "law"],
+      tags: ["The Law"],
       content: `
 **Exodus 21:7 to 11, the daughter sold as a servant.** A father in debt may sell a daughter, and the text immediately restricts what may be done with her. She is not to be sold on to foreigners. If the master designates her for himself or his son she has the status of a daughter, not a slave. If he takes another wife he must not reduce her food, clothing or marital rights, and if he fails in any of the three she goes free without payment. The provisions read as a debt-bondage arrangement expected to end in marriage, with an automatic release clause enforced against the master. The hard fact underneath remains that a father could dispose of a daughter this way at all, and that the law addresses itself to limiting the practice rather than abolishing it[^44][^45][^46].
 
@@ -266,7 +268,7 @@ Second, the Bible interprets the Bible. The direct parallel to this law is the s
     {
       id: "narratives-not-commands",
       title: "Judges 19, Jephthah, and What the Bible Records Rather Than Commands",
-      tags: ["judges", "narrative", "difficult texts"],
+      tags: ["Hard narratives"],
       content: `
 A large share of the material cited as biblical mistreatment of women is narrative, and the narratives are told as atrocity.
 
@@ -284,7 +286,7 @@ The distinction between description and prescription is not special pleading. It
     {
       id: "polygamy",
       title: "Polygamy and Concubinage",
-      tags: ["polygamy", "patriarchs", "marriage"],
+      tags: ["Hard narratives"],
       content: `
 Multiple wives and concubines appear throughout the Old Testament and are never commended.
 
@@ -298,11 +300,10 @@ Multiple wives and concubines appear throughout the Old Testament and are never 
     {
       id: "ot-women-of-standing",
       title: "Women of Standing in the Old Testament",
-      tags: ["deborah", "huldah", "esther", "leadership"],
+      tags: ["Leadership"],
       content: `
 The claim that the Old Testament allows women no public role does not survive a reading of it.
 
-<?viz women/women-of-scripture?>
 
 
 **Deborah** holds two offices at once, prophet and judge, and Israel comes to her for judgment. She summons the commander Barak, who will not go without her, and the victory song calls her a mother in Israel. Nothing in the account treats her authority as irregular or as a rebuke to the men around her, though later interpreters have often read it that way[^65][^66][^67].
@@ -329,7 +330,7 @@ The claim that the Old Testament allows women no public role does not survive a 
     {
       id: "jesus",
       title: "How Jesus Treated Women",
-      tags: ["jesus", "gospels", "discipleship"],
+      tags: ["Creation and Christ"],
       content: `
 The Gospels record behaviour that was socially costly and that the writers had no incentive to invent.
 
@@ -351,7 +352,7 @@ The Gospels record behaviour that was socially costly and that the writers had n
     {
       id: "nt-ministry",
       title: "Women in the Ministry of the Early Church",
-      tags: ["romans 16", "junia", "phoebe", "priscilla"],
+      tags: ["Leadership"],
       content: `
 Romans 16 names ten women in a list of twenty-nine people, and the descriptions are functional rather than decorative.
 
@@ -376,7 +377,7 @@ Romans 16 names ten women in a list of twenty-nine people, and the descriptions 
     {
       id: "paul-hard-texts",
       title: "The Difficult Passages in Paul",
-      tags: ["1 timothy 2", "1 corinthians", "ephesians 5"],
+      tags: ["Paul"],
       content: `
 Four passages carry the weight of the debate, and each has a serious case on both sides.
 
@@ -396,7 +397,7 @@ The restrictive reading takes the appeal to creation as putting the instruction 
     {
       id: "two-views",
       title: "Complementarian and Egalitarian",
-      tags: ["complementarian", "egalitarian", "church"],
+      tags: ["Paul"],
       content: `
 **The complementarian position** holds that men and women are equal in worth, dignity and standing before God, and that Scripture assigns distinct and complementary responsibilities in the church and the home, with the office of elder and the authority to teach the gathered congregation reserved to men, and with a husband bearing a particular responsibility of sacrificial leadership. Its case rests on the appeal to creation in 1 Timothy 2, on the pattern of male eldership in the New Testament churches, and on the household material in Ephesians 5 and 1 Peter 3[^125][^126][^127].
 
@@ -413,8 +414,11 @@ Both positions are held by people who accept the authority of Scripture and who 
     {
       id: "church-history",
       title: "What Christianity Did to the Status of Women",
-      tags: ["history", "early church", "reform"],
+      tags: ["History"],
       content: `
+<?viz women/hildegard?>
+
+
 The historical record is measurable in places, and it is not uniformly to the Church's credit.
 
 **The early centuries.** Christian communities condemned the exposure of unwanted infants, which fell disproportionately on newborn girls; the practice was widespread enough that a study of Greek inscriptions from Delphi reconstructed six hundred families of which only six had raised more than one daughter. Christians refused abortion and infanticide, supported widows rather than pressing them to remarry, with the Roman congregation reported to be maintaining fifteen hundred widows and needy persons by 251 AD, and married their daughters substantially later than their pagan neighbours. The sex ratio inside the churches ran the opposite way to the ratio in the wider empire. Rodney Stark's argument that this differential is part of why the movement grew is contested in its details and rests on evidence that is real[^132][^133][^134][^135].
@@ -433,7 +437,7 @@ The historical record is measurable in places, and it is not uniformly to the Ch
     {
       id: "honest-assessment",
       title: "What Remains Difficult",
-      tags: ["assessment", "open questions"],
+      tags: ["Assessment"],
       content: `
 Several things should be conceded rather than argued around.
 
@@ -622,5 +626,5 @@ Several things should be conceded rather than argued around.
     "161. [Reference] Wikipedia. Progressive revelation (Christianity). https://en.wikipedia.org/wiki/Progressive_revelation_(Christianity)",
     "162. [Reference] Wikipedia. Infanticide. Christianity and the abolition of infant exposure in Roman law. https://en.wikipedia.org/wiki/Infanticide"
   ],
-  lastUpdated: "26-10-2026",
+  lastUpdated: "30-10-2026",
 }

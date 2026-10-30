@@ -1,5 +1,6 @@
 "use client"
 
+import { Figure } from "@/components/visuals/figure"
 import { useMemo, useState } from "react"
 
 import { branchBeliefMap, branchBeliefs, branches, branchTimeline } from "@/topics/branches"
@@ -179,7 +180,30 @@ function TraditionMap() {
   )
 }
 
+function HagiaSophia() {
+  return (
+    <VisualCard title="Hagia Sophia" subtitle="The great church of Constantinople, completed in 537 and for nine centuries the centre of Eastern Christianity." sources={[{ label: "Wikipedia, \"Hagia Sophia\"", url: "https://en.wikipedia.org/wiki/Hagia_Sophia" }]}>
+      <div className="max-w-2xl">
+        <Figure
+          image={{
+            src: "/images/branches/hagia-sophia.jpg",
+            width: 900,
+            height: 601,
+            alt: "The domed interior of Hagia Sophia in Istanbul",
+            caption: "The interior of Hagia Sophia, Istanbul.",
+            credit: "Arild Vågen",
+            license: "CC BY-SA 3.0",
+            licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0",
+            sourceUrl: "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+          }}
+        />
+      </div>
+    </VisualCard>
+  )
+}
+
 const VISUALS: Record<string, () => React.JSX.Element> = {
+  "hagia-sophia": HagiaSophia,
   "tradition-map": TraditionMap,
   matrix: Matrix,
   quiz: Quiz,

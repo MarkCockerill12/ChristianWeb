@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Search, BookOpen, AlertTriangle, Heart, Microscope, History, Scale, Globe, Zap, Shield, Cross, Flame, Scroll, Church, Atom, Mountain, Crown, Users, Brain, Gavel } from "lucide-react"
+import Image from "next/image"
 import Link from "next/link"
 import { iconTextClass } from "@/lib/colors"
 
@@ -39,6 +40,9 @@ interface CategoryMetadata {
   icon?: string
   color?: string
   tags: string[]
+  image?: string
+  imagePosition?: string
+  imageAlt?: string
 }
 
 interface CategoriesClientProps {
@@ -101,7 +105,19 @@ export default function CategoriesClient({ categories }: CategoriesClientProps) 
           {filteredCategories.map((category) => {
             const Icon = category.iconElement
             return (
-              <Card key={category.id} className="hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+              <Card key={category.id} className="overflow-hidden hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
+                {category.image && (
+                  <div className="relative -mt-6 h-32 w-full bg-gray-100">
+                    <Image
+                      src={category.image}
+                      alt={category.imageAlt ?? ""}
+                      fill
+                      sizes="(min-width: 1280px) 300px, (min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
+                      className="object-cover"
+                      style={{ objectPosition: category.imagePosition ?? "center" }}
+                    />
+                  </div>
+                )}
                 <CardHeader>
                   <div className="flex items-start justify-between mb-2">
                     <Icon className={`h-8 w-8 ${iconTextClass(category.color)}`} />

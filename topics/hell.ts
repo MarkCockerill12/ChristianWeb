@@ -3,7 +3,7 @@ import type { Topic } from './types'
 export const hell: Topic = {
   id: "hell",
   title: "How can a Loving God Send People to Hell?",
-  description: "What the hell is Hell?",
+  description: "What the Bible actually says about hell, whether it lasts forever, and whether eternal punishment can be just.",
   tldr: "Hell in the Bible is both God's just punishment of sin and the final loss of His favour and fellowship, chosen by those who reject Him. The lost are not beyond God's reach, but they are shut out from every good thing that comes from Him, with a severity that varies with each person's guilt.",
   icon: "Flame",
   color: "red",
@@ -17,15 +17,22 @@ export const hell: Topic = {
     { reference: "Matthew 5:22", text: "But I tell you that anyone who is angry with a brother or sister will be subject to judgment. Again, anyone who says to a brother or sister, 'Raca,' is answerable to the court. And anyone who says, 'You fool!' will be in danger of the fire of hell." },
     { reference: "Matthew 25:46", text: "Then they will go away to eternal punishment, but the righteous to eternal life." }
   ],
-  lastUpdated: "26-10-2026",
+  lastUpdated: "30-10-2026",
   content: `
 Hell is often pictured as a furnace ruled by the devil, where the damned are tortured forever. The biblical teaching is more restrained in its details and more serious in its substance[^1][^2].
 
-## The Words Behind "Hell"
+<?viz hell/words?>
 
+<?viz hell/views?>
+`,
+  subtopics: [
+    {
+      id: "the-words-behind-hell",
+      title: "Sheol, Hades, Tartarus, Gehenna: The Words Behind \"Hell\"",
+      tags: ["Scripture"],
+      content: `
 The word "hell" appears 54 times in the King James Version, which uses it for several different Hebrew and Greek terms. Modern translations use it far less, rendering Sheol and Hades as "the grave" or "the realm of the dead" or leaving them untranslated[^3]. In the Old Testament, Sheol is primarily the grave or the place of the dead, not a place of punishment[^4][^5].
 
-<?viz hell/words?>
 
 
 *   **Hades:** The Greek equivalent of Sheol, used in the New Testament for the intermediate, temporary state of the dead awaiting final judgment[^6][^7].
@@ -38,8 +45,14 @@ The word "hell" appears 54 times in the King James Version, which uses it for se
 
 
 *   **The lake of fire:** Revelation's image for the final state after the last judgment, into which death and Hades themselves are thrown (Revelation 20:14)[^13].
-
-## How Jesus Describes It
+`,
+    },
+    {
+      id: "what-hell-is",
+      title: "What the New Testament Says Hell Is",
+      tags: ["Scripture"],
+      content: `
+**How Jesus describes it:**
 
 1.  **Outer darkness,** where "there will be weeping and gnashing of teeth" (<a href="https://www.biblegateway.com/passage/?search=Matthew+8:12&version=NIV" target="_blank">Matthew 8:12</a>)[^14].
 
@@ -49,26 +62,29 @@ The word "hell" appears 54 times in the King James Version, which uses it for se
 
 4.  **Eternal fire prepared for the devil and his angels,** and **eternal punishment,** set in parallel with eternal life (<a href="https://www.biblegateway.com/passage/?search=Matthew+25:41-46&version=NIV" target="_blank">Matthew 25:41-46</a>)[^17].
 
-## The Fullest Description
+**The fullest description:**
 
 The New Testament uses three main pictures of hell: **punishment** (Matthew 25:46; 2 Thessalonians 1:9), **destruction** (Matthew 10:28; Philippians 3:19) and **banishment** (Matthew 25:41; 22:13). Christopher Morgan, surveying the biblical material in *Hell Under Fire* (2004), argues that the three belong together and that none excludes the others[^18][^19]. Drawing them together, the historic Christian teaching can be summarised in one sentence: hell is the final, conscious and just exclusion of unrepentant sinners from the favour and fellowship of God, and so from every good thing that flows from him, under his judgment, with a severity proportioned to each person's guilt. Crossway's summary is "total, conscious, eternal separation from the blessings of God"[^20]. Annihilationists accept the same pictures but read "destruction" as final ceasing to exist.
 
 Two qualifications follow from Scripture itself. First, the separation is from God's favour, not from God's existence or reach: God is present everywhere, and the lost stand before him as judge. Second, hell is not a single uniform torment; Jesus taught that some will be punished more severely than others.
-
-## Why Would a Loving God Send Anyone There?
-
+`,
+    },
+    {
+      id: "why-would-a-loving-god",
+      title: "Why Would a Loving God Send Anyone There?",
+      tags: ["Justice"],
+      content: `
 Catholic, Orthodox and Arminian theologians, and writers in the line of C. S. Lewis, emphasise that God gives human beings a real choice to walk with him or to reject him, and honours that choice. Reformed theology places more weight on hell as God's just judgment on sin[^21][^22]. The two emphases are not exclusive: those who persistently refuse God receive the separation they chose, and that separation is also the sentence of a just judge.
 
 The offer set against hell is God himself. Salvation does not depend on merit or on being good enough[^23][^24]. "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life" (<a href="https://www.biblegateway.com/passage/?search=John+3:16&version=NIV" target="_blank">John 3:16</a>), and Jesus defines that eternal life as knowing God (John 17:3)[^25]. Those who trust Christ are forgiven and brought into the fellowship with God whose final loss is what hell is.
 `,
-  subtopics: [
+    },
     {
       id: "eternal-conscious-torment-vs-annihilationism",
       title: "Will Hell Last Forever? Eternal Punishment vs. Annihilationism",
-      tags: ["eternity", "annihilationism", "eternal punishment", "conditional immortality"],
+      tags: ["Duration"],
       content: `**What is agreed.** Judgment follows death (Hebrews 9:27), and every historic Christian position except universalism holds that its outcome is final and irreversible. The debate among those who accept the authority of Scripture is narrower: whether the lost suffer consciously without end, or are punished and then destroyed forever[^26].
 
-<?viz hell/views?>
 
 
 **Eternal conscious punishment: the traditional view.** Held by Augustine, Aquinas, the Reformers and the major Catholic, Orthodox and Protestant confessions, it remains the majority view[^27]. Its main texts:
@@ -93,7 +109,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     {
       id: "punishment-or-separation",
       title: "Is Hell a Punishment, or Simply Separation from God?",
-      tags: ["punishment", "separation", "justice", "judgment"],
+      tags: ["Nature of hell"],
       content: `**Both, on the historic Christian view.** Scripture describes hell in two kinds of language at once, and the major traditions hold them together rather than choosing between them.
 
 **The language of punishment.** Jesus calls it "eternal punishment" (Matthew 25:46), using the Greek *kolasis*, a word for penalty or chastisement[^51][^52]. Paul writes that God "will render to each one according to his works", with "wrath and fury" for those who obey unrighteousness (Romans 2:6-8), and that those who do not obey the gospel "will suffer the punishment of eternal destruction, away from the presence of the Lord" (2 Thessalonians 1:9)[^53][^54]. At the final judgment the dead are "judged according to what they had done" (Revelation 20:12)[^55]. These are the terms of a court: a judge passing sentence for wrongs done.
@@ -114,7 +130,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     {
       id: "separation-and-gods-presence",
       title: "If God Is Everywhere, How Is Hell Separation from God?",
-      tags: ["separation", "omnipresence", "presence of god", "common grace"],
+      tags: ["Nature of hell"],
       content: `**Yes, hell is separation from God.** Scripture repeatedly describes it as banishment: "depart from me" (Matthew 25:41), "cast him into the outer darkness" (Matthew 22:13), "away from the presence of the Lord" (2 Thessalonians 1:9), and outside the city of God (Revelation 22:15)[^68][^69]. The question is what the lost are separated from, since Scripture also teaches that God is everywhere.
 
 **Not separated from God's existence or reach.** God holds all things in being: "in him all things hold together" (Colossians 1:17), and he upholds "the universe by the word of his power" (Hebrews 1:3)[^70][^71]. Nothing, hell included, could exist if God withdrew in that sense. Theologians therefore distinguish ways in which God is present. Aquinas, quoting Gregory the Great, wrote that "God by a common mode is in all things by His presence, power and substance; still He is said to be present more familiarly in some by grace"[^72]. The Puritan Stephen Charnock described "a presence of glory in heaven, whereby he comforts the saints; [and] a presence of wrath in hell, whereby he torments the damned"[^73]. What the lost are cut off from is God's gracious presence: his favour, fellowship and blessing.
@@ -139,7 +155,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     {
       id: "degrees-of-punishment",
       title: "Are There Degrees or Levels of Punishment in Hell?",
-      tags: ["degrees", "judgment", "proportion", "dante"],
+      tags: ["Nature of hell"],
       content: `**Scripture teaches degrees of punishment.** Several passages say that the lost will not all be judged alike.
 
 *   **Knowledge.** The servant who knew his master's will and did not do it "will receive a severe beating", but the one who did not know "will receive a light beating. Everyone to whom much was given, of him much will be required" (Luke 12:47-48)[^98].
@@ -156,7 +172,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     {
       id: "fire-darkness-and-the-devil",
       title: "Is Hell Literal Fire? Is It Only for the Devil?",
-      tags: ["fire", "imagery", "satan", "lake of fire"],
+      tags: ["Scripture"],
       content: `**Fire and darkness together.** Jesus describes hell both as "outer darkness" and as a "fiery furnace" (Matthew 13:42) and "unquenchable fire" (Mark 9:43), and Revelation speaks of "the lake of fire and sulfur"[^112]. Because literal fire gives off light, many interpreters conclude that at least some of this imagery is figurative, though they agree that it describes something real and terrible[^113].
 
 **The main views.** The 1996 volume *Four Views on Hell* sets out the options. John Walvoord argued for literal fire; William Crockett argued that the images are metaphors for realities worse than the images themselves; Clark Pinnock argued for conditional immortality; and Zachary Hayes presented the Catholic doctrine of purgatory alongside hell[^114]. Calvin already took the images as figurative: "as language cannot describe the severity of the divine vengeance on the reprobate, their pains and torments are figured to us by corporeal things, such as darkness, wailing and gnashing of teeth, inextinguishable fire, the ever-gnawing worm" (*Institutes* 3.25.12)[^115]. A metaphorical reading does not make hell milder; the metaphors point to a reality that no image adequately conveys.
@@ -168,7 +184,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     {
       id: "the-justice-of-hell",
       title: "The Justice of Eternal Punishment for Finite Sins",
-      tags: ["justice", "philosophy", "sin", "objections"],
+      tags: ["Justice"],
       content: `**The objection.** A human life is finite, and so is the number of sins committed in it. How can a finite amount of wrongdoing deserve a punishment that never ends? Philosophers including Jonathan Kvanvig and Marilyn McCord Adams have pressed this as the central moral problem of the traditional doctrine[^121][^122]. Christian thinkers have given several answers, usually in combination.
 
 **1. The length of a crime does not set the length of its penalty.** Augustine answered the objection directly: no law "regulated the duration of the punishment by the duration of the offense punished" (*City of God* 21.11)[^123]. A murder takes a moment and may be punished by life imprisonment; the penalty is measured by the gravity of the act, not the time it took.
@@ -188,7 +204,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     {
       id: "universalism-heresy",
       title: "What About Universalism?",
-      tags: ["universalism", "heresy", "salvation"],
+      tags: ["Duration"],
       content: `**Will everyone eventually be saved?** Christian universalism holds that God will finally save all people, emptying hell[^133]. Origen taught a final restoration (*apokatastasis*) and Gregory of Nyssa expressed a similar hope[^134][^135]. Origenist teaching was condemned at Constantinople in 543 and again in 553, when the bishops of the Second Council of Constantinople signed canons against it, most likely just before the council formally opened[^136]. The church's creeds and confessions have consistently taught the finality of judgment.
 
 • **Finality of judgment:** Hebrews 9:27 states that "it is appointed for man to die once, and after that comes judgment", which the historic churches have read as excluding second chances after death[^137].

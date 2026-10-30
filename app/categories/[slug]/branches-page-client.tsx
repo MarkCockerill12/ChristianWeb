@@ -5,6 +5,7 @@ import { BookOpen, CheckCircle2, Clock, ExternalLink, Heart, Users } from "lucid
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { TopicPage } from "@/components/topic-page"
+import { useTopicPage } from "@/components/topic-context"
 import { BranchingTimeline } from "@/components/branching-timeline"
 import { branchBeliefs, branchBeliefMap, branchTimeline } from "@/topics/branches"
 import type { Topic } from "@/topics/types"
@@ -92,6 +93,23 @@ function Legend() {
   )
 }
 
+function TimelineCard() {
+  const { openSection } = useTopicPage()
+  return (
+    <Card className="mb-8 mt-8">
+      <CardHeader>
+        <CardTitle className="flex items-center gap-2">
+          <Clock className="h-6 w-6 text-purple-600" />
+          Christian Branches Timeline
+        </CardTitle>
+      </CardHeader>
+      <CardContent className="px-4 sm:px-6">
+        <BranchingTimeline onSelectNode={openSection} />
+      </CardContent>
+    </Card>
+  )
+}
+
 interface BranchesPageClientProps {
   readonly category: Topic
 }
@@ -111,7 +129,7 @@ export default function BranchesPageClient({ category }: BranchesPageClientProps
   const renderSubtopicWrapper = useCallback((sub: { id: string }, card: React.ReactNode) => {
     const date = branchTimeline.find((t) => t.id === sub.id)?.date
     return (
-      <div id={`subtopic-${sub.id}`} className="relative">
+      <div className="relative">
         <div className="absolute -left-[22px] sm:-left-[28px] top-6 w-3.5 h-3.5 rounded-full border-2 border-white shadow-md bg-purple-600 z-10" />
         {date && (
           <div className="mb-2">
@@ -132,29 +150,7 @@ export default function BranchesPageClient({ category }: BranchesPageClientProps
       renderSubtopicHeader={renderSubtopicHeader}
       renderSubtopicWrapper={renderSubtopicWrapper}
       subtopicListClassName="relative pl-6 sm:pl-8 space-y-8 before:absolute before:left-1.5 sm:before:left-2 before:top-2 before:bottom-2 before:w-0.5 before:bg-purple-200 before:rounded-full"
-      afterSubtopics={({ expand }) => (
-        <Card className="mb-8 mt-8">
-          <CardHeader>
-            <CardTitle className="flex items-center gap-2">
-              <Clock className="h-6 w-6 text-purple-600" />
-              Christian Branches Timeline
-            </CardTitle>
-          </CardHeader>
-          <CardContent className="px-4 sm:px-6">
-            <BranchingTimeline
-              onSelectNode={(id) => {
-                expand(id)
-                // Let the expand render before scrolling to the card
-                requestAnimationFrame(() =>
-                  document
-                    .getElementById(`subtopic-${id}`)
-                    ?.scrollIntoView({ behavior: "smooth", block: "start" }),
-                )
-              }}
-            />
-          </CardContent>
-        </Card>
-      )}
+      beforeSubtopics={<TimelineCard />}
     />
   )
 }

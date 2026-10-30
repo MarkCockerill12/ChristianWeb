@@ -29,7 +29,7 @@ These tools establish that an event was physically possible, and in several case
     {
       id: "joshua-long-day",
       title: "Joshua's Long Day and the 1207 BC Eclipse",
-      tags: ["joshua", "astronomy", "eclipse", "cambridge"],
+      tags: ["Old Testament"],
       content: `
 The popular story that NASA computers discovered a missing day in history is fiction. It goes back to C. A. L. Totten's 1890 book on Joshua's long day and Harry Rimmer's retelling in the 1930s, predates NASA entirely, and no such calculation is possible, since orbital models are calibrated from observations and therefore cannot reveal a gap in them[^3].
 
@@ -45,7 +45,7 @@ The reading depends on a non-standard translation that many Hebraists do not acc
     {
       id: "red-sea-crossing",
       title: "The Red Sea Crossing and Wind Setdown",
-      tags: ["exodus", "moses", "physics", "oceanography"],
+      tags: ["Old Testament"],
       content: `
 Carl Drews and Weiqing Han published a study in *PLOS ONE* in 2010, with co-author Han supported in part by the NASA Ocean Vector Winds Science Team, modelling wind setdown, the displacement of shallow water by sustained strong wind[^10].
 
@@ -62,7 +62,7 @@ The authors modelled a site in the eastern Nile Delta rather than the modern Red
     {
       id: "sodom-gomorrah",
       title: "Sodom and the Retracted Airburst Paper",
-      tags: ["sodom", "retraction", "correction", "impact"],
+      tags: ["Old Testament", "Archaeology"],
       content: `
 A widely circulated claim held that a Tunguska-scale cosmic airburst destroyed Tall el-Hammam and inspired the Sodom account. It rested on a 2021 paper in *Scientific Reports* that has since been retracted[^16][^17].
 
@@ -79,7 +79,7 @@ Airbursts remain a genuine and well-documented phenomenon, independent of the Ta
     {
       id: "lost-city-ubar",
       title: "Ubar and Radar Archaeology",
-      tags: ["archaeology", "radar", "shuttle", "arabia"],
+      tags: ["Archaeology"],
       content: `
 Satellite and Space Shuttle radar can penetrate dry sand and reveal buried features. In the late 1980s and early 1990s a team including NASA's Jet Propulsion Laboratory used Landsat and Shuttle imaging radar to trace ancient caravan tracks converging in the Rub' al Khali[^25].
 
@@ -95,7 +95,7 @@ The "lost city of Ubar" identification was largely a media framing. Archaeologis
     {
       id: "crucifixion-earthquake",
       title: "Dating the Crucifixion: Eclipse and Seismite",
-      tags: ["crucifixion", "seismology", "eclipse", "geology"],
+      tags: ["New Testament"],
       content: `
 Two independent lines of data converge on a narrow window, though neither is decisive alone[^30].
 
@@ -110,7 +110,7 @@ The seismite dating has limits. The authors noted that Matthew's earthquake coul
     {
       id: "star-bethlehem",
       title: "The Star of Bethlehem",
-      tags: ["bethlehem", "star", "conjunction", "magi"],
+      tags: ["New Testament"],
       content: `
 NASA JPL's HORIZONS ephemeris system reconstructs planetary positions for any date with high precision, and the candidate events below genuinely occurred[^39].
 
@@ -128,7 +128,7 @@ The dating problem cuts both ways. The 2 BC option conflicts with the traditiona
     {
       id: "hezekiah-sundial",
       title: "Hezekiah's Sundial and Atmospheric Refraction",
-      tags: ["hezekiah", "sundial", "refraction", "physics"],
+      tags: ["Old Testament"],
       content: `
 The shadow moving backward on the steps of Ahaz has been explained by anomalous atmospheric refraction, in which light bends passing through air layers of sharply differing density and shifts the sun's apparent position[^44].
 
@@ -188,5 +188,5 @@ Refraction remains a physically conceivable mechanism rather than a corroborated
     "46. [Reference] Wikipedia. Mirage. Refraction phenomena produced by temperature gradients. https://en.wikipedia.org/wiki/Mirage",
     "47. [Encyclopedia] Wikipedia. 'Atmospheric Refraction.' Magnitude of ordinary refraction near the horizon. https://en.wikipedia.org/wiki/Atmospheric_refraction"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

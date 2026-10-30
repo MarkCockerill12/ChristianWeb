@@ -14,6 +14,8 @@ type TopicVisuals = ComponentType<{ readonly name: string }>
 const loading = () => <div className="viz-skeleton my-8 h-40 rounded-xl border" aria-hidden />
 
 const MODULES: Record<string, TopicVisuals> = {
+  abortion: dynamic(() => import("@/visuals/abortion"), { loading }),
+  islam: dynamic(() => import("@/visuals/islam"), { loading }),
   archaeological: dynamic(() => import("@/visuals/archaeological"), { loading }),
   baptism: dynamic(() => import("@/visuals/baptism"), { loading }),
   "bible-books": dynamic(() => import("@/visuals/bible-books"), { loading }),

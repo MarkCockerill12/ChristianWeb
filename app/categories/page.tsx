@@ -13,6 +13,9 @@ export default function CategoriesPage() {
     icon: topic.icon,
     color: topic.color,
     tags: topic.tags,
+    image: topic.hero?.src,
+    imagePosition: topic.hero?.position,
+    imageAlt: topic.hero?.alt,
   }))
 
   return <CategoriesClient categories={categoriesMetadata} />

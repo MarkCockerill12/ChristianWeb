@@ -9,14 +9,16 @@ export const slavery: Topic = {
   tags: ["Morality", "Historical", "Scripture"],
   tldr: "Slavery for fellow Israelites in the Mosaic Law was largely time-limited debt servitude, very different from the race-based chattel slavery of the Atlantic world, but the Law also permitted permanent, heritable slavery of foreigners, which is the hardest part of the question. The Bible regulated slavery rather than abolishing it, and its teaching on human dignity was later central to Christian abolitionism, even as other Christians defended slavery from the same texts.",
   content: `
-<h3>Understanding Biblical Slavery in Context</h3>
-    <p>The Bible's treatment of slavery is often misunderstood when viewed through the lens of modern chattel slavery. Biblical slavery in ancient Israel was fundamentally different from the horrific institution of slavery in the American South and other historical contexts[^1].</p>
+<h3></h3>
+    <p>The Bible's treatment of slavery is often read through the lens of modern chattel slavery. For fellow Israelites, servitude in ancient Israel differed sharply from the slavery of the American South; for foreigners it came much closer, and that is where the real difficulty lies[^1].</p>
+
+<?viz slavery/law-comparison?>
 `,
   subtopics: [
     {
       id: "key-distinctions",
       title: "Key Distinctions in Biblical \"Slavery\"",
-      tags: ["Terminology"],
+      tags: ["Old Testament"],
       content: `    
     <p><strong>Hebrew Terminology:</strong> The Hebrew word עֶבֶד (ebed - "servant/slave") and Greek δοῦλος (doulos - "servant/slave") are often translated as "slave" but cover a range of relationships, from royal officials and hired or debt servants to foreign slaves held permanently as property[^2][^3].</p>
     <p>• Indentured servitude for debt relief[^4]</p>
@@ -29,22 +31,21 @@ export const slavery: Topic = {
     {
       id: "biblical-protections",
       title: "Biblical Protections and Regulations",
-      tags: ["Law", "Old Testament"],
-      content: `    <p>The Mosaic Law provided unprecedented protections compared to surrounding cultures, acknowledging the humanity of the servant[^8].</p>
+      tags: ["Old Testament"],
+      content: `    <p>The Mosaic Law gave stronger protections in several respects than surrounding cultures, acknowledging the humanity of the servant[^8].</p>
     <p>• Hebrew servants went free in the seventh year (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A2&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:2</a>)[^9]</p>
     <p>• Injury to servants required compensation or freedom (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A26-27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:26-27</a>)[^10]</p>
     <p>• Killing a servant was to be "avenged", which many interpreters read as the death penalty (<a href="https://www.biblegateway.com/passage/?search=Exodus+21%3A20&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Exodus 21:20</a>)[^11]</p>
     <p>• Slaves fleeing to Israel (probably from foreign masters) were to be sheltered, not returned (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+23%3A15-16&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Deuteronomy 23:15-16</a>)[^12][^13]</p>
     <p>• Servants participated in religious festivals (<a href="https://www.biblegateway.com/passage/?search=Deuteronomy+16%3A11-14&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Deuteronomy 16:11-14</a>)[^14][^15]</p>
 
-<?viz slavery/law-comparison?>
     
 `,
     },
     {
       id: "difficult-passages",
       title: "Addressing Difficult Passages",
-      tags: ["Old Testament", "Objections"],
+      tags: ["Old Testament"],
       content: `    
     <p><strong>The Foreign Slave Distinction (<a href="https://www.biblegateway.com/passage/?search=Leviticus+25%3A44-46&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Leviticus 25:44-46</a>):</strong> Critics often point to this passage which allows acquiring servants from neighboring nations as "property" for life. This must be understood in its Near Eastern context:</p>
     <p>• <strong>Contextual Necessity:</strong> While God established a debt-release system for Israelites (Jubilee), foreign slaves could be bought and held permanently, and passed on to children as inherited property. This is the strongest form of the objection and the text does not soften it. Foreign residents were still protected by the "do not mistreat the alien" commands found in the same book (<a href="https://www.biblegateway.com/passage/?search=Leviticus+19%3A33-34&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Leviticus 19:33-34</a>)[^16][^17].</p>
@@ -81,7 +82,7 @@ export const slavery: Topic = {
     {
       id: "historical-impact",
       title: "Historical Impact of Christianity on Slavery",
-      tags: ["Church History", "Abolition"],
+      tags: ["History"],
       content: `    
     <p><strong>Gradual Transformation:</strong> Christianity worked from within to transform society[^33]</p>
     <p>• <strong>John Chrysostom:</strong> The early Church Father Chrysostom preached that masters would be judged by God for their treatment of slaves, effectively spiritualizing the relationship into one of mutual obligation[^34].</p>
@@ -89,7 +90,7 @@ export const slavery: Topic = {
     <p>• <strong>The "Slave Bible" vs. The Full Bible:</strong> In 1807 a missionary society in London published a heavily redacted "Slave Bible" for use in the British West Indies, omitting most of the Old Testament, including the exodus from Egypt, and passages such as Galatians 3:28, which indicates that its editors regarded the full text as dangerous to slavery[^37].</p>
     <p>• <strong>Roman Law:</strong> Constantine forbade branding the faces of convicts sentenced to the games or the mines, on the ground that the face bears the likeness of heavenly beauty, and legally recognised the freeing of slaves in church[^38].</p>
     
-    <p><strong>Abolition Movement:</strong> Christianity led the fight against modern slavery[^39][^40][^41]</p>
+    <p><strong>Abolition Movement:</strong> Christians were prominent in the fight against modern slavery[^39][^40][^41]</p>
     <p>• William Wilberforce and evangelical Christians ended British slave trade[^42][^43][^44][^45][^46]</p>
     <p>• Quakers were the first religious body in the Atlantic world to require members to give up slaveholding[^47][^48]</p>
     <p>• The 1688 Germantown Petition was the first formal protest against slavery in the English American colonies, drafted by Quakers of Dutch and German background citing the "Golden Rule"[^49].</p>
@@ -116,7 +117,7 @@ export const slavery: Topic = {
     {
       id: "principles-opposing-slavery",
       title: "Biblical Principles That Oppose Slavery",
-      tags: ["Scripture", "Ethics"],
+      tags: ["Principles"],
       content: `    
     <p>• <strong>Image of God:</strong> All humans bear God's image (<a href="https://www.biblegateway.com/passage/?search=Genesis+1%3A27&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">Genesis 1:27</a>)[^61][^62]</p>
     <p>• <strong>Human trafficking condemned:</strong> "Slave trading" listed among serious sins (<a href="https://www.biblegateway.com/passage/?search=1+Timothy+1%3A10&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">1 Timothy 1:10</a>)[^63]</p>
@@ -129,7 +130,7 @@ export const slavery: Topic = {
     {
       id: "jesus-on-masters-and-slaves",
       title: "Understanding Jesus's Teaching on Masters and Slaves",
-      tags: ["Jesus", "New Testament"],
+      tags: ["New Testament"],
       content: `    
     <p><strong>Jesus's Approach:</strong> The commands for slaves to obey their masters come from Paul and Peter (Ephesians 6:5; Colossians 3:22; 1 Peter 2:18), not from Jesus, who used masters and slaves only as figures in parables (Luke 17:7-10; Matthew 24:45-51). In those parables He was not endorsing slavery but addressing the reality of His time[^65]:</p>
     <p>• Jesus came as a spiritual liberator, not a political revolutionary (<a href="https://www.biblegateway.com/passage/?search=John+18%3A36&version=NIV" target="_blank" style="color: #007acc; text-decoration: none;">John 18:36</a>)[^66]</p>
@@ -137,13 +138,6 @@ export const slavery: Topic = {
     <p>• He taught radical equality before God while working within existing structures[^68]</p>
     <p>• His golden rule principle ("treat others as you want to be treated") fundamentally undermined slavery[^69]</p>
     
-`,
-    },
-    {
-      id: "conclusion",
-      title: "Conclusion",
-      tags: ["Summary"],
-      content: `    <p>While the Bible regulates the institution of slavery as it existed in ancient times, it plants the seeds for slavery's ultimate abolition through its teaching on human dignity, equality, and love[^70]. The trajectory of biblical ethics leads away from oppression toward freedom and justice[^71]. Christian conviction drove the abolition movements of the eighteenth and nineteenth centuries, but slavery persisted in Christian societies for centuries and was defended from Scripture as well as attacked from it.</p>
 `,
     },
   ],
@@ -407,9 +401,7 @@ export const slavery: Topic = {
     "66. [Biblical Commentary] Bible Hub - 'Matthew Henry Commentary on John 18:36' - Commentary on Jesus' kingdom. https://biblehub.com/commentaries/mhc/john/18.htm",
     "67. [Historical Article] Countercurrents - 'How Faith Helped to Abolish Slavery from the World' - Detailed history of Christian abolitionism. https://countercurrents.org/2025/01/how-faith-helped-to-abolish-slavery-from-the-world/",
     "68. [Biblical Commentary] Catena Bible - 'John Chrysostom on Philemon 1:16' - Early church commentary. https://catenabible.com/com/57eb0ef1b0d44ee10cfac715",
-    "69. [Apologetics Resource] Gordon Ferguson - 'American Slavery and the Bible' - Overview of biblical principles and history. https://gordonferguson.org/american-slavery-and-the-bible-by-richard-rodriguez/",
-    "70. [Public Policy Journal] Acton Institute - 'Heroes and Monsters: British Abolition and the Art of Compromise' - Historical analysis of Christian influence. https://www.acton.org/religion-liberty/volume-33-number-1/heroes-and-monsters-british-abolition-and-art-compromise",
-    "71. [Reference] Wikipedia. Progressive revelation (Christianity). The framework for reading regulation as preparatory. https://en.wikipedia.org/wiki/Progressive_revelation_(Christianity)"
+    "69. [Apologetics Resource] Gordon Ferguson - 'American Slavery and the Bible' - Overview of biblical principles and history. https://gordonferguson.org/american-slavery-and-the-bible-by-richard-rodriguez/"
   ],
-  lastUpdated: "26-10-2026",
+  lastUpdated: "30-10-2026",
 }

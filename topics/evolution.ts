@@ -23,7 +23,7 @@ A position on the first does not automatically settle the second, which is why p
 
 Scripture is true in what it affirms, and the real question in each case is what a given passage affirms[^5]. Its authority does not rest on any particular apologetic argument holding up. Augustine warned in the early fifth century that when believers make confident claims about the natural world that an unbeliever knows from reason and experience to be false, they bring Scripture itself into contempt[^6].
 
-Two subjects draw the most questions: whether dinosaurs lived before humans or alongside them, and how early humans such as the Neanderthals relate to Adam. Both are set out in detail, along with the main scientific, historical and literary objections raised against Genesis and the answers each Christian view gives to them.
+<?viz evolution/views?>
 `,
   timeline: [
     {
@@ -211,7 +211,7 @@ Two subjects draw the most questions: whether dinosaurs lived before humans or a
     {
       id: "reading-genesis",
       title: "Reading Genesis 1: Days, Genre and Structure",
-      tags: ["hebrew", "genesis", "interpretation", "yom"],
+      tags: ["Genesis"],
       content: `
 The interpretive question turns largely on genre and on one Hebrew word, *yom*, "day"[^7].
 
@@ -232,7 +232,7 @@ The interpretive question turns largely on genre and on one Hebrew word, *yom*, 
     {
       id: "history-of-interpretation",
       title: "How the Church Has Read Genesis",
-      tags: ["history", "church fathers", "reformation", "fundamentalism"],
+      tags: ["Genesis"],
       content: `
 The modern debate is often presented as a new compromise with science. The history is more mixed than either side usually allows.
 
@@ -250,11 +250,10 @@ The modern debate is often presented as a new compromise with science. The histo
     {
       id: "views-on-origins",
       title: "The Main Christian Views on Origins",
-      tags: ["yec", "oec", "gap theory", "framework", "evolutionary creation", "intelligent design"],
+      tags: ["Views"],
       content: `
 The positions below are all held by Christians who accept the authority of Scripture. They differ on the age of the earth, on how the days are read, and on common descent[^37].
 
-<?viz evolution/views?>
 
 
 *   **Young Earth Creationism.** The universe and earth are roughly 6,000 to 10,000 years old, created in six consecutive 24-hour days. Distinct "kinds" were created separately, there was no animal death before Adam's sin, and a global flood laid down most of the fossil-bearing rock. Represented by Answers in Genesis, the Institute for Creation Research and Creation Ministries International[^38].
@@ -272,7 +271,7 @@ All of these views hold that God created deliberately, that the universe is not 
     {
       id: "age-of-the-earth",
       title: "How Old Is the Earth? The Evidence and the Young-Earth Response",
-      tags: ["age of the earth", "radiometric dating", "starlight", "geology"],
+      tags: ["Dating"],
       content: `
 **The mainstream evidence.** Several independent lines of evidence point to an old earth and universe, and their agreement is the main reason scientists regard the question as settled[^50].
 
@@ -294,7 +293,7 @@ All of these views hold that God created deliberately, that the universe is not 
     {
       id: "radiometric-dating",
       title: "Radiometric Dating: The Methods and How Reliable They Are",
-      tags: ["radiometric dating", "carbon dating", "geology", "age of the earth"],
+      tags: ["Dating"],
       content: `
 **How it works.** Some atoms are unstable and decay into other atoms at a fixed rate, expressed as a half-life: the time taken for half of a quantity of the parent isotope to turn into its daughter product. When a mineral crystallises it locks in parent atoms, and the daughter atoms then build up inside it. Measuring the ratio of parent to daughter, and knowing the half-life, gives the time since the mineral formed[^75][^76][^77].
 
@@ -328,7 +327,7 @@ All of these views hold that God created deliberately, that the universe is not 
     {
       id: "radiometric-dating-responses",
       title: "Radiometric Dating: Christian Responses and the Flood",
-      tags: ["radiometric dating", "flood", "rate", "yec", "oec"],
+      tags: ["Dating"],
       content: `
 **Could the Flood explain the dates?** Young and old earth scientists largely agree that a flood by itself could not.
 
@@ -361,7 +360,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
     {
       id: "ice-cores-tree-rings-varves",
       title: "Ice Cores, Tree Rings and Varves: The Other Clocks and the Young-Earth Responses",
-      tags: ["ice cores", "tree rings", "varves", "dating", "yec"],
+      tags: ["Dating"],
       content: `
 **Why they matter.** These methods do not depend on radioactive decay at all. They count layers laid down once a year, like counting the rings of a tree, and they reach back far beyond a young earth chronology. Where they overlap with radiocarbon they are used to check it, and the two agree.
 
@@ -392,7 +391,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
     {
       id: "dinosaurs",
       title: "Dinosaurs: Before Humans or Alongside Them?",
-      tags: ["dinosaurs", "age of the earth", "fossils", "genesis"],
+      tags: ["Dinosaurs"],
       content: `
 **What the Bible says.** The word "dinosaur" was coined by Richard Owen in 1842, so no English Bible uses it, just as none uses "kangaroo"[^165]. Scripture neither names dinosaurs nor dates them. Every answer to the question therefore depends on how Genesis 1 and the age of the earth are understood.
 
@@ -408,7 +407,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
     {
       id: "behemoth-leviathan-dragons",
       title: "Behemoth, Leviathan, Dragons and Other Dinosaur Claims",
-      tags: ["behemoth", "leviathan", "dragons", "paluxy", "job"],
+      tags: ["Dinosaurs"],
       content: `
 **Behemoth (Job 40:15-24).** The Hebrew *behemot* is the plural of the ordinary word for "beast", probably used as a plural of majesty: "the great beast"[^179]. It eats grass like an ox, lies under lotus plants in the marsh, and is untroubled when the Jordan rushes against its mouth[^180]. The most debated line is verse 17, "he stiffens his tail like a cedar"[^181].
 
@@ -433,7 +432,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
     {
       id: "human-origins",
       title: "Early Humans: What the Fossil and Genetic Record Shows",
-      tags: ["human evolution", "fossils", "neanderthals", "genetics"],
+      tags: ["Human origins"],
       content: `
 **The scientific picture.** The fossil record of the human lineage is now extensive, and the dates below are those of mainstream palaeoanthropology[^202].
 
@@ -458,7 +457,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
     {
       id: "neanderthals-and-adam",
       title: "Neanderthals, Denisovans and the Image of God",
-      tags: ["neanderthals", "denisovans", "image of god", "adam"],
+      tags: ["Human origins", "Adam"],
       content: `
 **Interbreeding.** The sequencing of the Neanderthal genome, for which Svante Pääbo received the 2022 Nobel Prize, showed that modern humans and Neanderthals interbred. People of non-African ancestry carry roughly 1 to 2 per cent Neanderthal DNA, and Papuans and some other Oceanians carry around 4 to 6 per cent from the Denisovans, a group first identified from a finger bone in a Siberian cave[^224][^225][^226]. Because they produced fertile offspring with modern humans, some biologists regard Neanderthals and Denisovans as varieties of one human population rather than wholly separate species[^227].
 
@@ -480,7 +479,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
     {
       id: "historical-adam",
       title: "The Historical Adam",
-      tags: ["adam", "romans 5", "doctrine", "genetics"],
+      tags: ["Adam"],
       content: `
 Christians may differ on the age of the earth. The historicity of Adam stands on a different footing, because the New Testament's account of sin and salvation depends on it.
 
@@ -506,7 +505,7 @@ Christians may differ on the age of the earth. The historicity of Adam stands on
     {
       id: "common-descent",
       title: "The Case for Common Descent, and the Creationist Response",
-      tags: ["common descent", "fossils", "genetics", "evolution"],
+      tags: ["Evolution"],
       content: `
 **The evidence as biologists present it.** Common descent is supported by several independent lines of evidence that point to the same family tree[^263][^264].
 
@@ -529,7 +528,7 @@ Christians may differ on the age of the earth. The historicity of Adam stands on
     {
       id: "objections-to-evolution",
       title: "Arguments Against Evolution: Which Hold and Which Do Not",
-      tags: ["objections", "irreducible complexity", "apologetics", "fossils"],
+      tags: ["Evolution"],
       content: `
 Arguments that collapse under examination damage the case they are meant to support. The common arguments are set out with the scientific response[^279].
 
@@ -555,7 +554,7 @@ Arguments that collapse under examination damage the case they are meant to supp
     {
       id: "order-of-creation",
       title: "Genesis 1 and the Scientific Order of Events",
-      tags: ["genesis 1", "order", "sun", "concordism"],
+      tags: ["Genesis"],
       content: `
 **The objection.** Read as a scientific chronology, the order of Genesis 1 does not match the order science reconstructs. Light and "evening and morning" come before the sun (days one and four); land plants and fruit trees come before the sun, moon and stars (days three and four); birds and sea creatures, including whales, come before land animals (days five and six), whereas land vertebrates appear before birds and whales evolved from land mammals; and the earth exists before the stars[^303].
 
@@ -575,7 +574,7 @@ Arguments that collapse under examination damage the case they are meant to supp
     {
       id: "two-creation-accounts",
       title: "Genesis 1 and 2: Two Creation Accounts?",
-      tags: ["genesis 2", "documentary hypothesis", "order"],
+      tags: ["Genesis"],
       content: `
 **The objection.** In Genesis 1 plants and animals are made before humans, and man and woman are created together. In Genesis 2 no plant of the field has yet sprung up when the man is formed (2:5-7), the animals are formed and brought to the man afterwards (2:19), and the woman is made last. Critical scholars assign the two chapters to different sources, the Priestly and the Yahwist, with different vocabulary for God and different concerns[^307].
 
@@ -591,7 +590,7 @@ The same question is treated among the [supposed contradictions](/categories/con
     {
       id: "ancient-cosmology",
       title: "The Firmament, a Flat Earth and Ancient Cosmology",
-      tags: ["firmament", "cosmology", "flat earth", "accommodation"],
+      tags: ["Genesis"],
       content: `
 **The objection.** Genesis 1:6-8 describes a *raqia*, traditionally translated "firmament", separating waters above from waters below. Elsewhere the sky is "hard as a mirror of cast bronze" (Job 37:18), has "windows" through which the Flood waters came (Genesis 7:11), and the earth rests on pillars and foundations. Critics argue that Scripture assumes the ancient Near Eastern picture of a flat earth under a solid dome with a heavenly ocean above it[^312][^313].
 
@@ -612,7 +611,7 @@ The same question is treated among the [supposed contradictions](/categories/con
     {
       id: "ancient-near-eastern-parallels",
       title: "Borrowed Myths? Genesis and the Mesopotamian Parallels",
-      tags: ["enuma elish", "gilgamesh", "atrahasis", "ancient near east"],
+      tags: ["Genesis"],
       content: `
 **The objection.** Genesis 1 to 11 closely resembles older Mesopotamian texts, suggesting it was borrowed from myths. The Babylonian *Enūma Eliš* describes creation beginning from primeval waters, with the goddess Tiamat, whose name is related to the Hebrew *tehom*, "the deep" of Genesis 1:2[^322][^323]. The *Atrahasis* epic and Tablet XI of the *Epic of Gilgamesh* tell of a flood sent by the gods, a man warned to build a boat, animals preserved, birds sent out to find land, and a sacrifice after the waters recede[^324][^325]. The Sumerian King List gives kings before its flood reigns of tens of thousands of years, much as Genesis 5 gives long lifespans before Noah[^326].
 
@@ -634,7 +633,7 @@ The same question is treated among the [supposed contradictions](/categories/con
     {
       id: "death-before-the-fall",
       title: "Animal Death Before the Fall",
-      tags: ["death", "fall", "predation", "suffering"],
+      tags: ["The Fall"],
       content: `
 **The objection.** The fossil record shows predation, disease, parasites, injury and extinction for hundreds of millions of years before humans existed, including cancer in dinosaurs. If Genesis teaches that there was no death of any kind before Adam's sin, an old earth contradicts it; and if there was death, the objection runs, God created a world of suffering and called it "very good".
 
@@ -654,7 +653,7 @@ The same question is treated among the [supposed contradictions](/categories/con
     {
       id: "the-flood",
       title: "Noah's Flood: Global, Regional or Local?",
-      tags: ["flood", "noah", "geology", "ark"],
+      tags: ["Flood and early Genesis"],
       content: `
 **What the text says.** The waters covered "all the high mountains under the entire heavens" (Genesis 7:19), and every living thing on the land outside the ark died[^339]. The Hebrew *erets*, translated "earth", also means "land" or "country", and phrases such as "all the earth" are used elsewhere of a region: "all the world" came to Egypt to buy grain from Joseph (Genesis 41:57)[^340][^341].
 
@@ -682,7 +681,7 @@ The same question is treated among the [supposed contradictions](/categories/con
     {
       id: "babel-genealogies-lifespans",
       title: "Babel, the Genealogies and the Long Lifespans",
-      tags: ["babel", "genealogies", "lifespans", "chronology"],
+      tags: ["Flood and early Genesis"],
       content: `
 **Babel and the origin of languages.** Linguists trace language families diverging over many thousands of years, and writing, cities and ziggurats appear in Mesopotamia from about the fourth millennium BC[^357]. Genesis 10 already describes the nations spread out "each with its own language" (10:5) before the Babel narrative of chapter 11, which shows that the chapters are not arranged in strict chronological order[^358][^359]. Interpreters who read Babel as a regional event see it as explaining the scattering of the peoples of the Mesopotamian world rather than the origin of every human language, while young earth creationists read it as the origin of the world's language families[^360].
 
@@ -701,7 +700,7 @@ The same question is treated among the [supposed contradictions](/categories/con
     {
       id: "jesus-and-genesis",
       title: "What Jesus and the Apostles Affirmed About Genesis",
-      tags: ["jesus", "new testament", "adam", "noah"],
+      tags: ["Adam"],
       content: `
 The New Testament refers to the early chapters of Genesis often, and every Christian view has to account for these references.
 
@@ -717,7 +716,7 @@ The New Testament refers to the early chapters of Genesis often, and every Chris
     {
       id: "origin-of-life",
       title: "Where Naturalistic Explanation Runs Out",
-      tags: ["origin of life", "genetic code", "consciousness", "limits"],
+      tags: ["Evolution"],
       content: `
 Evolution by natural selection explains how populations of self-replicating organisms diversify once such organisms exist. It does not claim to explain how replication began, and the questions below sit outside its scope rather than inside it. Each is an open problem in the mainstream literature[^370].
 
@@ -735,7 +734,7 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
     {
       id: "theological-objections",
       title: "Does Evolution Make God Unnecessary?",
-      tags: ["god of the gaps", "providence", "naturalism", "theology"],
+      tags: ["Views"],
       content: `
 **The objection.** If natural processes explain the development of life, the argument runs, there is nothing left for God to do, and belief in a Creator becomes superfluous.
 
@@ -751,13 +750,13 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
     {
       id: "open-questions",
       title: "Open Questions and Summary",
-      tags: ["open questions", "assessment", "summary"],
+      tags: ["Views"],
       content: `
 **Where the evidence is strong.** The age of the earth and universe is supported by many independent lines of evidence, dinosaurs lived and died long before humans on every mainstream dating method, and the fossil and genetic evidence for common ancestry, including between humans and other primates, is extensive. Young earth scientists who acknowledge this base their position on their reading of Scripture.
 
 **Where honest disagreement remains.** How Genesis 1 to 11 should be read; where, when and how Adam and Eve lived; how Neanderthals and other archaic humans relate to the image of God; whether the Flood was global or regional; and how to understand animal death and suffering before the fall are genuinely debated among Christians who accept biblical authority.
 
-**Where naturalism has no answer.** The origin of life, the origin of the genetic code, the fine-tuning of physical constants and the existence of consciousness and moral agency remain open problems that biological evolution does not address.
+**Where naturalism has no agreed answer.** The origin of life, the origin of the genetic code, the fine-tuning of physical constants and the existence of consciousness and moral agency remain open problems that biological evolution does not address.
 
 **What every Christian view affirms.** Creation is deliberate and not self-explanatory; it is the work of Christ, in whom all things hold together (Colossians 1:16-17); God's power and nature are seen in what has been made (Romans 1:20); humans bear God's image; sin is real and entered a good creation; and the whole creation, subjected to frustration, waits to be set free (Romans 8:21). None of these claims is settled by biology in either direction.
 `
@@ -1145,5 +1144,5 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
     "379. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Catholics and Evolution.' https://www.newadvent.org/cathen/05654a.htm",
     "380. [Reference] Wikipedia. 'Evolutionary argument against naturalism.' https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

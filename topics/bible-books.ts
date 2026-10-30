@@ -10,7 +10,7 @@ export const BIBLE_BOOKS: Topic = {
   verses: [
     { reference: "2 Timothy 3:16", text: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness." }
   ],
-  tldr: "The Bible is a unified collection of 66 books written by over 40 authors across thousands of years, telling one complete story of creation, fall, redemption, and restoration through Jesus Christ.",
+  tldr: "The Bible is a collection of 66 books written by more than forty authors across roughly fifteen centuries, telling one story of creation, fall, redemption and restoration through Jesus Christ. Its dates and authors are given as traditionally held, with the main points where critical scholarship differs set out separately.",
   content: `
 The Bible is a collection of 66 books written by more than forty authors across roughly fifteen centuries, presenting a single account of creation, fall, redemption and restoration[^1]. The authorship, provenance, date and theme given for each book below follow the traditional ascriptions held through most of church history and still defended by many conservative scholars[^2].
 
@@ -41,7 +41,6 @@ The Bible is a collection of 66 books written by more than forty authors across 
       tags: ["Old Testament", "Law"],
       content: `The Pentateuch establishes the covenant between God and Israel and lays the foundation for all later biblical theology[^14].
 
-The Pentateuch, or Torah, lays the foundation for all biblical theology, establishing the covenant between God and Israel.
 
 ### Genesis
 **Authorship Evidence:** Traditionally ascribed to Moses. Conservative scholars see a single author compiling earlier records (the ten "generations" headings may mark those sources), while critical scholars see several sources; and external manuscript evidence (like the Dead Sea Scrolls) supports a consistent early text.
@@ -471,5 +470,5 @@ These letters were written to a broader audience, concluding with the great prop
     "20. [Reference] Wikipedia. Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
     "21. [Reference] Wikipedia. Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

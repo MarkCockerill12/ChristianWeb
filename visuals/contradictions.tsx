@@ -1,6 +1,8 @@
 "use client"
 
-import { CompareTable, PassageCompare, SectionExplorer, VisualCard, type ExplorerItem } from "@/components/visuals/kit"
+import { BarChart } from "@/components/visuals/charts"
+import { CompareTable, PassageCompare, VisualCard } from "@/components/visuals/kit"
+import { useTopicPage } from "@/components/topic-context"
 import { cn } from "@/lib/utils"
 
 type Row = readonly [section: string, title: string, testament: string, kind: string, resolution: string, difficulty: string]
@@ -47,29 +49,39 @@ const ROWS: readonly Row[] = [
   ["FatherGreater", "Is the Father greater than Jesus?", "New Testament", "Theology", "Different focus or order", "Moderate"],
 ]
 
-const ITEMS: readonly ExplorerItem[] = ROWS.map(([section, title, testament, kind, resolution, difficulty]) => ({
-  section,
-  title,
-  facets: { testament, kind, resolution, difficulty },
-}))
+function countBy(index: 1 | 3 | 4 | 5) {
+  const counts = new Map<string, number>()
+  ROWS.forEach((row) => counts.set(row[index], (counts.get(row[index]) ?? 0) + 1))
+  return [...counts.entries()].sort((a, b) => b[1] - a[1])
+}
 
-function Explorer() {
+/** The verdicts in aggregate. The cases themselves are the sections, so they are not listed again here. */
+function Verdicts() {
+  const { openSection } = useTopicPage()
+  const hard = ROWS.filter((row) => row[5] === "Hard")
   return (
     <VisualCard
-      title="All 39 alleged contradictions, sorted"
-      subtitle="Filter by testament, by the kind of difficulty, by the kind of answer each section gives, and by how hard the section itself judges the problem to be. Selecting a card opens it below."
-      note={"\"Hard\" marks the four cases where the section itself says no answer commands agreement or that the harmonisation is among the most difficult."}
+      title={`How the ${ROWS.length} alleged contradictions resolve`}
+      subtitle="Each section's own verdict, counted. Most are parallel accounts giving different details or a copyist's slip in a number; a few remain hard."
     >
-      <SectionExplorer
-        items={ITEMS}
-        countLabel="contradictions"
-        facets={[
-          { key: "testament", label: "Testament" },
-          { key: "kind", label: "Kind" },
-          { key: "resolution", label: "Answer" },
-          { key: "difficulty", label: "Difficulty" },
-        ]}
-      />
+      <div className="grid gap-6 md:grid-cols-2">
+        <div>
+          <div className="text-sm font-semibold mb-2">The kind of answer</div>
+          <BarChart labelWidth="11rem" max={Math.max(...countBy(4).map(([, n]) => n))} data={countBy(4).map(([label, value]) => ({ label, value, display: String(value) }))} />
+        </div>
+        <div>
+          <div className="text-sm font-semibold mb-2">How hard the section judges it</div>
+          <BarChart labelWidth="8rem" max={Math.max(...countBy(5).map(([, n]) => n))} data={countBy(5).map(([label, value]) => ({ label, value, display: String(value), highlight: label === "Hard" }))} />
+          <div className="text-sm font-semibold mt-4 mb-1.5">The hard ones</div>
+          <div className="flex flex-wrap gap-1.5">
+            {hard.map((row) => (
+              <button key={row[0]} type="button" className="viz-chip" onClick={() => openSection(row[0])}>
+                {row[1]}
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
     </VisualCard>
   )
 }
@@ -241,7 +253,7 @@ function Hours() {
 }
 
 const VISUALS: Record<string, () => React.JSX.Element> = {
-  explorer: Explorer,
+  verdicts: Verdicts,
   genealogies: Genealogies,
   inscription: Inscription,
   paul: PaulAccounts,

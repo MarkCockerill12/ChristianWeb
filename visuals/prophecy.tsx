@@ -1,6 +1,7 @@
 "use client"
 
-import { CompareTable, PassageCompare, SectionExplorer, VisualCard, type ExplorerItem } from "@/components/visuals/kit"
+import { CompareTable, PassageCompare, VisualCard } from "@/components/visuals/kit"
+import { BibleArcs, type CuratedLink } from "@/components/visuals/bible-arcs"
 import { RangeChart } from "@/components/visuals/charts"
 import { Figure, Gallery } from "@/components/visuals/figure"
 
@@ -69,29 +70,26 @@ const ROWS: readonly Row[] = [
   ["scoffers-coming", "Scoffers will come", "Last days", "Letters", null, "2 Peter 3:3-4"],
 ]
 
-const ITEMS: readonly ExplorerItem[] = ROWS.map(([section, title, topic, source, control, meta]) => ({
+const CURATED: readonly CuratedLink[] = ROWS.map(([section, title, topic, , control, meta]) => ({
   section,
   title,
+  group: topic,
+  note: control ?? "",
   meta,
-  facets: (control ? { topic, source, control } : { topic, source }) as Record<string, string>,
 }))
 
-function Explorer() {
+function Arcs() {
   return (
     <VisualCard
-      title="All 53 prophecies at a glance"
-      subtitle="Filter by subject, by the part of Scripture the prophecy comes from, or (for the prophecies about Jesus) by whether he could have chosen to act it out. Selecting a card opens its full section below."
-      note="Dates in brackets are the traditional dates given in each section; critical scholars date several of these texts later."
+      title="How the Bible's prophecies and cross-references link together"
+      subtitle={"One line of chapters, Genesis to Revelation, with an arc for each link. The first view draws the prophecies examined on this topic; select an arc to open its section. The other two views add every cross-reference, or only those running from the Old Testament to the New."}
+      note={"A cross-reference is not a prophecy. Most mark a shared theme, phrase or allusion, and nobody has an agreed list of which of the Bible's links are predictions. The Old Testament to New Testament view is the nearest general filter, and the first view is this site's own selection. The full set is votes of 7 or more in OpenBible.info's data (64,568 of about 340,000 links), close in size to the 63,779 of the original chart."}
+      sources={[
+        { label: "OpenBible.info, \"Bible Cross References\" (data, CC BY; mainly the Treasury of Scripture Knowledge)", url: "https://www.openbible.info/labs/cross-references/" },
+        { label: "Chris Harrison and Christoph Römhild, \"Bible Cross-References\" (2007), the chart this layout follows", url: "https://www.chrisharrison.net/index.php/Visualizations/BibleViz" },
+      ]}
     >
-      <SectionExplorer
-        items={ITEMS}
-        countLabel="prophecies"
-        facets={[
-          { key: "topic", label: "Subject" },
-          { key: "source", label: "Source" },
-          { key: "control", label: "Could Jesus arrange it?" },
-        ]}
-      />
+      <BibleArcs curated={CURATED} />
     </VisualCard>
   )
 }
@@ -310,7 +308,7 @@ function Diadochi() {
 }
 
 const VISUALS: Record<string, () => React.JSX.Element> = {
-  explorer: Explorer,
+  arcs: Arcs,
   "seventy-weeks": SeventyWeeks,
   kingdoms: Kingdoms,
   gaps: Gaps,

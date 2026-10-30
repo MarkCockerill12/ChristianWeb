@@ -15,16 +15,17 @@ export const jesus: Topic = {
     { reference: "John 5:18", text: "For this reason they tried all the more to kill him; not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God." },
     { reference: "Exodus 3:14", text: "God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: I AM has sent me to you.'" }
   ],
-  tldr: `Jesus explicitly claimed divinity through His use of the divine name 'I AM', His acceptance of worship, and His authority to forgive sins. His resurrection and the immediate rise of early Christian worship confirm that His followers understood Him to be God.`,
-  content: `The question of Jesus Christ's identity stands as the most significant inquiry in human history. Did Jesus merely claim to be a good teacher, or did He explicitly claim to be God incarnate? The biblical and historical evidence overwhelmingly demonstrates that Jesus made unmistakable claims to divinity, which were recognized by both His followers and His opponents.
+  tldr: `In the Gospels Jesus uses the divine "I AM", forgives sins and accepts worship, and he was condemned for blasphemy. Letters written within about twenty years of his death already address him as Lord and treat him as divine, and pagan writers report Christians singing hymns to him as to a god. So the belief did not develop centuries later. Critics reply that some sayings are later additions, and the question then turns on how early and reliable the sources are.`,
+  content: `The question of Jesus Christ's identity stands as the most significant inquiry in human history. Did Jesus merely claim to be a good teacher, or did He explicitly claim to be God incarnate? The Gospels present Jesus making claims that his hearers took as claims to divinity, and his earliest followers worshipped him within years of his death.
+
+<?viz jesus/claims?>
 `,
   subtopics: [
     {
       id: "direct-claims",
       title: "Direct Claims to Divinity",
-      tags: ["Claims", "Scripture"],
-      content: `<?viz jesus/claims?>
-
+      tags: ["His claims"],
+      content: `
 ### 1. The "I AM" Declarations
 Jesus repeatedly used the divine name "I AM" (Ancient Greek: Ἐγώ εἰμί), directly referencing [Exodus 3:14](https://www.biblegateway.com/passage/?search=Exodus+3%3A14&version=NIV) where God reveals His name to Moses as "I AM WHO I AM". The phrase in the Septuagint (LXX) is a powerful indicator of eternal, self-existent deity[^1].
 
@@ -69,7 +70,7 @@ Alpha and Omega:
     {
       id: "divine-prerogatives",
       title: "Divine Prerogatives Claimed by Jesus",
-      tags: ["Claims", "Authority"],
+      tags: ["His claims"],
       content: `### 1. Authority to Forgive Sins
 [**Mark 2:5-7**](https://www.biblegateway.com/passage/?search=Mark+2%3A5-7&version=NIV) - Jesus forgives sins, prompting the scribes to ask, "Who can forgive sins but God alone?":
 • Forgiving sins was considered a prerogative belonging exclusively to God in Jewish theology[^14].
@@ -111,7 +112,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
     {
       id: "acceptance-of-worship",
       title: "Acceptance of Worship",
-      tags: ["Worship"],
+      tags: ["His claims"],
       content: `### 1. Worship from Disciples
 [**Matthew 14:33**](https://www.biblegateway.com/passage/?search=Matthew+14%3A33&version=NIV) - After walking on water, "those who were in the boat worshiped him, saying, 'Truly you are the Son of God.'"[^23].
 
@@ -122,13 +123,13 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
 ### 2. Worship from Others
 [**John 9:38**](https://www.biblegateway.com/passage/?search=John+9%3A38&version=NIV) - The blind man healed by Jesus "said, 'Lord, I believe,' and he worshiped him."[^25].
 
-[**John 20:28**](https://www.biblegateway.com/passage/?search=John+20%3A28&version=NIV) - Thomas declares to Jesus: "My Lord and my God!" - Jesus accepts this worship rather than correcting it[^26]. This acceptance of worship, which angels and apostles explicitly refuse ([Acts 10:25-26; Revelation 22:8-9](https://www.biblegateway.com/passage/?search=Acts+10%3A25-26%3B+Revelation+22%3A8-9&version=NIV)), is considered conclusive evidence of His divinity.
+[**John 20:28**](https://www.biblegateway.com/passage/?search=John+20%3A28&version=NIV) - Thomas declares to Jesus: "My Lord and my God!" - Jesus accepts this worship rather than correcting it[^26]. This acceptance of worship, which angels and apostles explicitly refuse ([Acts 10:25-26; Revelation 22:8-9](https://www.biblegateway.com/passage/?search=Acts+10%3A25-26%3B+Revelation+22%3A8-9&version=NIV)), is strong evidence of what He took Himself to be.
 `,
     },
     {
       id: "early-christian-worship",
       title: "Early Christian Worship of Jesus",
-      tags: ["Worship", "Early Church"],
+      tags: ["Early worship"],
       content: `### 1. Apostolic Testimony
 [**Colossians 2:9**](https://www.biblegateway.com/passage/?search=Colossians+2%3A9&version=NIV) - "For in Christ all the fullness of the Deity lives in bodily form."[^27].
 
@@ -145,7 +146,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
     {
       id: "archaeological-evidence",
       title: "Archaeological Evidence for Early Christian Worship",
-      tags: ["Archaeology"],
+      tags: ["Early worship"],
       content: `### 1. Crucifixion Inscriptions and Graffiti
 **The Alexamenos Graffito (probably c. 200 AD, with estimates ranging from the late first to the third century)** - Found on the Palatine Hill in Rome, this anti-Christian graffito shows a figure with a donkey's head on a cross, with the inscription "Alexamenos worships his god". This provides early, hostile evidence that Christians were known for worshipping the crucified Christ as divine[^29].
 
@@ -166,7 +167,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
     {
       id: "external-testimony",
       title: "External Historical Testimony",
-      tags: ["Historical", "Sources"],
+      tags: ["Early worship"],
       content: `### 1. Roman Historians
 **Tacitus** (c. 116 AD) - Annals 15.44: Confirms the historical existence of "Christus" (Christ) and His execution under "Pontius Pilatus" during the reign of Tiberius[^35].
 
@@ -217,7 +218,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
     {
       id: "trilemma",
       title: "The C.S. Lewis Trilemma",
-      tags: ["Apologetics"],
+      tags: ["Objections"],
       content: `Faced with these explicit claims to divinity, C.S. Lewis famously argued in *Mere Christianity* that we are left with only three logical options regarding Jesus' identity. Because He claimed to be God, He cannot merely be a "good moral teacher."
 • **Liar:** He knew He was not God, making Him a deceiver and a charlatan.
 • **Lunatic:** He sincerely thought He was God but was mistaken, putting Him on the level of a madman.
@@ -225,19 +226,6 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
 Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^42].
 
 <?viz jesus/trilemma?>
-`,
-    },
-    {
-      id: "conclusion",
-      title: "Conclusion",
-      tags: ["Summary"],
-      content: `The evidence overwhelmingly demonstrates that Jesus of Nazareth made explicit claims to divinity that were understood and recorded by both His followers and His opponents. From His use of the divine name "I AM" to His acceptance of worship, Jesus consistently presented Himself as God incarnate. This is supported by:
-
-**1.  Biblical Evidence**: Dozens of passages where Jesus claims divine attributes, accepts worship, or is identified as God.
-**2.  Historical Testimony**: Multiple independent sources from Roman, Jewish, and Christian writers confirming early Christian worship of Jesus as divine.
-**3.  Archaeological Evidence**: Physical artifacts, inscriptions, and manuscripts demonstrating that within decades of His death, Christians were worshipping Jesus as God.
-
-The question is not whether Jesus claimed to be God; the evidence is overwhelming that He did. The question is whether we believe His claims were true[^43]. The historical and archaeological evidence strongly supports the conclusion that Jesus not only claimed divinity but was immediately recognized and worshipped as such by His earliest followers, establishing Christianity's central doctrine of the Incarnation from its very beginning.
 `,
     },
   ],
@@ -283,8 +271,7 @@ The question is not whether Jesus claimed to be God; the evidence is overwhelmin
     "39. [Academic] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
     "40. [Early Church] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
     "41. [Early Church] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",
-    "42. [Encyclopedia] Wikipedia. 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma",
-    "43. [Apologetics] Christian Publishers - How Does Historical Apologetics Defend Christianity Based on Historical Evidence?. 'Article arguing that historical evidence, particularly the resurrection, validates Jesus' claims to divinity and the truth of Christianity.' https://www.christianpublishers.org/post/how-does-historical-apologetics-defend-christianity-based-on-historical-evidence"
+    "42. [Encyclopedia] Wikipedia. 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
   ],
-  lastUpdated: '17-09-2026'
+  lastUpdated: "30-10-2026"
 }

@@ -14,6 +14,10 @@ The claim that Christianity and science are natural enemies is a specific histor
 Abandoning the warfare story is not the same as claiming that relations were always smooth. Galileo was condemned for holding a proposition that turned out to be true, and the American courtroom fights over evolution were real fights[^4]. Historians now describe the pattern as complexity rather than conflict: religious people stood on both sides of nearly every dispute, and in most of them no party set out to discredit faith or to discredit science[^5].
 
 A stronger claim than bare compatibility is also defensible. Christian theology supplied several of the assumptions the scientific enterprise runs on, the institutions in which it was first practised were Church foundations, and the disagreement that actually divides the field runs between theism and metaphysical naturalism rather than between faith and scientific method[^6].
+
+<?viz science/models?>
+
+<?viz science/founders?>
 `,
   timeline: [
     {
@@ -165,11 +169,10 @@ A stronger claim than bare compatibility is also defensible. Christian theology 
     {
       id: "conflict-thesis",
       title: "Where the Warfare Story Came From",
-      tags: ["history", "conflict thesis", "myths"],
+      tags: ["History"],
       content: `
 Two books built the idea. John William Draper's *History of the Conflict between Religion and Science* appeared in 1874, written in the wake of the First Vatican Council and its definition of papal infallibility, and Andrew Dickson White's *A History of the Warfare of Science with Theology in Christendom* followed in 1896[^7]. White was the founding president of Cornell, a university established without religious affiliation, and his history served partly to defend that founding against clerical criticism[^8][^9].
 
-<?viz science/models?>
 
 
 Both books were polemics with footnotes, and neither survived examination. Draper's is no longer treated as a reliable secondary source, and specialists in nineteenth-century German material have shown that even the details of the conflict narrative were assembled to fit the argument rather than drawn from it[^10].
@@ -186,7 +189,7 @@ None of this makes the record clean. Galileo's condemnation stands, the receptio
     {
       id: "theological-roots",
       title: "Why Christian Theology Made Science Thinkable",
-      tags: ["theology", "philosophy of science", "creation"],
+      tags: ["Theology"],
       content: `
 Natural science needs assumptions it cannot itself establish. It needs nature to be orderly, that order to be intelligible to human minds, and the actual order to be discoverable only by looking. Christian doctrine supplied all three[^18].
 
@@ -210,7 +213,7 @@ The assumptions have not gone away, and none of them has a scientific proof. Tha
     {
       id: "medieval-groundwork",
       title: "Monasteries, Universities and the Medieval Groundwork",
-      tags: ["medieval", "universities", "history"],
+      tags: ["History"],
       content: `
 The institutions came first. Benedictine houses copied and preserved classical texts through the collapse of Roman administration, and the Carolingian reform of the eighth and ninth centuries built a network of cathedral and monastic schools with a fixed curriculum in the liberal arts[^30][^31].
 
@@ -235,11 +238,10 @@ That is the body of work Galileo inherited. The kinematics of falling bodies did
     {
       id: "founders",
       title: "Christians Who Built Modern Science",
-      tags: ["scientists", "history", "biography"],
+      tags: ["Scientists"],
       content: `
 The list below is not offered as an argument that Christianity is true. Many able scientists have held other views or none, and counting heads settles nothing. It is offered against a narrower claim, namely that serious scientific work and Christian conviction do not sit together in the same head[^50].
 
-<?viz science/founders?>
 
 
 **Nicolaus Copernicus** (1473 to 1543) was a canon of the cathedral chapter at Frombork, and held that post while working out the heliocentric model. *De revolutionibus* was dedicated to Pope Paul III and circulated for seventy-three years before the Congregation of the Index took any action against it[^51][^52].
@@ -280,7 +282,7 @@ The pattern extends much further than one section can hold, through Bernhard Rie
     {
       id: "modern-scientists",
       title: "The Twentieth Century and the Present",
-      tags: ["modern", "scientists", "astronomy"],
+      tags: ["Scientists"],
       content: `
 The pattern did not stop in 1900.
 
@@ -310,7 +312,7 @@ Professional bodies exist for the overlap. The American Scientific Affiliation h
     {
       id: "belief-among-scientists",
       title: "What Scientists Actually Believe",
-      tags: ["statistics", "surveys", "sociology"],
+      tags: ["Scientists"],
       content: `
 Two claims circulate here, and both are unreliable. One holds that essentially all serious scientists are atheists. The other, common in apologetic material, holds that around 65 per cent of Nobel laureates between 1901 and 2000 were Christians, a figure taken from a single reference book that classified laureates largely by cultural and family background rather than by stated personal conviction. The second figure should not be used as evidence of belief, and it is dropped here for that reason[^101].
 
@@ -331,7 +333,7 @@ What the numbers support is narrow. American academic science is unusually secul
     {
       id: "galileo",
       title: "The Galileo Affair, Told Straight",
-      tags: ["galileo", "history", "church"],
+      tags: ["History"],
       content: `
 This is the hard case, and the honest verdict is that the Church was wrong. A tribunal of the Roman Catholic Church convicted a man for holding a physical proposition that is true, extracted an abjuration, and confined him for the rest of his life. No account of the relationship between Christianity and science is complete without conceding that[^110].
 
@@ -358,7 +360,7 @@ The details still matter, because the popular version gets most of them wrong.
     {
       id: "courtroom",
       title: "Scopes, Dover and the Courtroom Fights",
-      tags: ["scopes", "law", "education"],
+      tags: ["History"],
       content: `
 The second episode carrying the whole weight of the warfare story is the American dispute over teaching evolution. The scientific questions of origins and design are treated under evolution and fine-tuning. The courtroom history is a separate matter, and popular memory of it derives largely from a stage play rather than from the transcripts[^122].
 
@@ -381,7 +383,7 @@ The second episode carrying the whole weight of the warfare story is the America
     {
       id: "working-together",
       title: "How the Two Work Together Now",
-      tags: ["methodology", "naturalism", "two books"],
+      tags: ["Theology"],
       content: `
 The practical relationship turns on one distinction that is easy to state and constantly missed.
 
@@ -401,7 +403,7 @@ A Christian can hold the working rule without difficulty, and has a reason to ho
     {
       id: "limits",
       title: "What Science Is Not Equipped to Ask",
-      tags: ["scientism", "limits", "philosophy"],
+      tags: ["Theology"],
       content: `
 Science is a method for investigating the natural world, and an extraordinarily successful one. Scientism is the further claim that it is the only route to knowledge, and that claim is not itself a scientific result. It cannot be tested, and it fails its own standard, which is why it is treated in the philosophical literature as a position to be argued for rather than as a finding[^140][^141].
 
@@ -582,5 +584,5 @@ The Christian position is not that science has limits and God lives in them. It 
     "151. [Reference] Wikipedia. Non-overlapping magisteria. Gould's proposal and the objections to it. https://en.wikipedia.org/wiki/Non-overlapping_magisteria",
     "152. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Astronomy.' On the study of the heavens as a Christian intellectual tradition. https://www.newadvent.org/cathen/02025a.htm"
   ],
-  lastUpdated: "26-10-2026",
+  lastUpdated: "30-10-2026",
 }

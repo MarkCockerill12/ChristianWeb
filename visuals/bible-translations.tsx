@@ -8,20 +8,20 @@ import { Gallery } from "@/components/visuals/figure"
 import VERSES from "@/visuals/data/verses.json"
 import { cn } from "@/lib/utils"
 
-/* Positions follow the method column of the page's own comparison table. */
+/* Positions follow each translation's stated method. */
 const SPECTRUM = [
-  { v: "LSB", at: 4, method: "Word for word" },
-  { v: "NASB", at: 8, method: "Word for word" },
-  { v: "KJV", at: 14, method: "Word for word" },
-  { v: "NKJV", at: 17, method: "Word for word" },
-  { v: "ESV", at: 24, method: "Essentially literal" },
-  { v: "NRSV", at: 30, method: "As literal as possible, as free as necessary" },
-  { v: "CSB", at: 44, method: "Optimal equivalence" },
-  { v: "NET", at: 49, method: "Middle, with extensive notes" },
-  { v: "NIV", at: 56, method: "Balanced, leaning thought for thought" },
-  { v: "NLT", at: 73, method: "Thought for thought" },
-  { v: "GNT", at: 79, method: "Thought for thought" },
-  { v: "The Message", at: 96, method: "Paraphrase" },
+  { v: "LSB", at: 4, method: "Word for word", year: "2021", base: "Critical text", by: "The Master's Seminary" },
+  { v: "NASB", at: 8, method: "Word for word", year: "1971, revised 1995 and 2020", base: "Critical text", by: "Lockman Foundation" },
+  { v: "KJV", at: 14, method: "Word for word", year: "1611", base: "Textus Receptus", by: "47 Church of England scholars" },
+  { v: "NKJV", at: 17, method: "Word for word", year: "1982", base: "Textus Receptus", by: "Thomas Nelson" },
+  { v: "ESV", at: 24, method: "Essentially literal", year: "2001", base: "Critical text", by: "Crossway" },
+  { v: "NRSV", at: 30, method: "As literal as possible, as free as necessary", year: "1989, revised 2021", base: "Critical text", by: "National Council of Churches" },
+  { v: "CSB", at: 44, method: "Optimal equivalence", year: "2017", base: "Critical text", by: "Holman / Lifeway" },
+  { v: "NET", at: 49, method: "Middle, with extensive notes", year: "2005", base: "Critical text, with 60,932 notes", by: "Biblical Studies Press" },
+  { v: "NIV", at: 56, method: "Balanced, leaning thought for thought", year: "1978, revised 2011", base: "Critical text", by: "Committee on Bible Translation" },
+  { v: "NLT", at: 73, method: "Thought for thought", year: "1996, revised 2004", base: "Critical text", by: "Tyndale House" },
+  { v: "GNT", at: 79, method: "Thought for thought", year: "1976", base: "Critical text", by: "American Bible Society" },
+  { v: "The Message", at: 96, method: "Paraphrase", year: "2002", base: "Original languages, single author", by: "Eugene Peterson" },
 ] as const
 
 function Spectrum() {
@@ -66,6 +66,9 @@ function Spectrum() {
       <div className="viz-info rounded-lg border p-3 mt-4" aria-live="polite">
         <span className="font-semibold">{s.v}</span>
         <span className="text-[13px] text-[color:var(--viz-ink-2)]">: {s.method}</span>
+        <div className="text-[12px] mt-1 text-[color:var(--viz-muted)]">
+          {s.year}. New Testament base: {s.base}. Produced by {s.by}.
+        </div>
       </div>
     </VisualCard>
   )

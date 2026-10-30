@@ -492,6 +492,11 @@ body {
 }
 
 @layer utilities {
+  .dark [style*="background: #f8f9fa"] { background: #1e293b !important; }
+  .dark [style*="background: #d4edda"] { background: #10291b !important; }
+  .dark [style*="background: #f8d7da"] { background: #2e1518 !important; }
+  .dark [style*="background: #e3f2fd"] { background: #0c1f33 !important; }
+  .dark [style*="color: #007acc"] { color: #60a5fa !important; }
   .dark .bg-white { background-color: #111827; }
   .dark .bg-white\/95 { background-color: rgb(17 24 39 / 0.95); }
   .dark .bg-white\/80 { background-color: rgb(17 24 39 / 0.8); }

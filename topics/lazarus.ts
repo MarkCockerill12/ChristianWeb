@@ -14,7 +14,7 @@ export const LAZARUS: Topic = {
     { reference: "John 11:33", text: "When Jesus saw her weeping, and the Jews who had come with her also weeping, he groaned in the spirit and was troubled." },
     { reference: "John 11:35-36", text: "Jesus wept. So the Jews said, 'See how he loved him!'" }
   ],
-  tldr: "Jesus allowed Lazarus to die so that the raising would be undeniable, occurring on the fourth day when decomposition had begun. Even knowing He would raise him, Jesus wept from genuine human grief and, on the Greek, from indignation at death itself. The miracle carried a cost He understood in advance, since it was the event that moved the Sanhedrin to decide on His execution.",
+  tldr: "Jesus allowed Lazarus to die so that the raising would be unmistakable, occurring on the fourth day when decomposition had begun. Even knowing He would raise him, Jesus wept from genuine human grief and, on the Greek, from indignation at death itself. The miracle carried a cost He understood in advance, since it was the event that moved the Sanhedrin to decide on His execution.",
   content: `
 The account of Lazarus in [John 11](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=NIV) is the longest continuous miracle narrative in the Gospels and the last of the signs John records before the passion[^1]. Rather than presenting an aloof deity or a mere wonder-worker, the chapter shows the intersection of absolute divine power with authentic, weeping humanity[^2].
 
@@ -27,7 +27,7 @@ John states that Jesus loved this family, and then that He remained where He was
     {
       id: "the-divine-delay",
       title: "The Purposeful Two-Day Delay",
-      tags: ["delay", "sovereignty", "timing"],
+      tags: ["The delay"],
       content: `
 When Jesus first received word that Lazarus was terminally ill, He declared that the illness was for the glory of God, then deliberately stayed where He was for two additional days, allowing Lazarus to die before setting out for Bethany[^5][^6].
 
@@ -49,7 +49,7 @@ Raising a man on the fourth day removed any suggestion of resuscitation from a c
     {
       id: "the-meaning-of-jesus-wept",
       title: "Why Jesus Wept: Empathy and Outrage",
-      tags: ["empathy", "grief", "humanity"],
+      tags: ["His grief"],
       content: `
 "Jesus wept" is the shortest verse in most English Bibles, and it raises a sharp question: why weep at all, knowing what He was about to do[^12][^13]?
 
@@ -63,7 +63,7 @@ Paul calls death the last enemy to be destroyed, which fits the reading of indig
     {
       id: "the-cost",
       title: "The Cost of Lazarus's Life",
-      tags: ["sanhedrin", "crucifixion", "consequence"],
+      tags: ["The cost"],
       content: `
 The chapter does not close with the miracle. It closes with a council meeting[^20].
 
@@ -77,7 +77,7 @@ To call Lazarus out of the tomb, Jesus set in motion the events that placed Him 
     {
       id: "the-resurrection-and-the-life",
       title: "Christ as the Resurrection and the Life",
-      tags: ["resurrection", "hope", "divinity"],
+      tags: ["Meaning"],
       content: `
 The centre of the chapter is a conversation rather than a miracle. Martha affirms standard Jewish belief that her brother will rise at the last day, and Jesus shifts the category entirely: "I am the resurrection and the life"[^26].
 
@@ -124,5 +124,5 @@ Similar raisings appear elsewhere in the Gospels, including the widow's son at N
     "32. [Commentary] Bible Hub. 'Commentaries on Luke 7:11.' https://biblehub.com/commentaries/luke/7-11.htm",
     "33. [Commentary] Bible Hub. 'Commentaries on John 20:31.' https://biblehub.com/commentaries/john/20-31.htm"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

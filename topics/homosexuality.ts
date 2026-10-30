@@ -19,12 +19,14 @@ export const HOMOSEXUALITY: Topic = {
 The historic teaching of the Christian church, held across Catholic, Orthodox and Protestant traditions for two millennia, is that sexual activity is reserved for marriage between a man and a woman, and that same-sex sexual acts fall outside God's design[^1].
 
 Revisionist readings claim that the biblical writers knew nothing of committed same-sex relationships, that they addressed only exploitative practices such as pederasty or cultic prostitution, or that key Greek terms have been mistranslated. Each of these claims is examined below against the linguistic and exegetical evidence[^2].
+
+<?viz homosexuality/texts?>
 `,
   subtopics: [
     {
       id: "genesis-design",
       title: "The Foundational Design of Sexuality in Genesis",
-      tags: ["genesis", "marriage", "design"],
+      tags: ["Old Testament"],
       content: `
 The biblical framework for human sexuality is established in the opening chapters of Genesis, before any prohibition appears[^3].
 
@@ -38,7 +40,7 @@ Because the male and female structure of marriage rests on creation, it is not a
     {
       id: "leviticus",
       title: "Old Testament Prohibitions: Leviticus 18:22 and 20:13",
-      tags: ["leviticus", "old testament", "law"],
+      tags: ["Old Testament"],
       content: `
 Leviticus 18:22 states that a man must not lie with a man as with a woman, and Leviticus 20:13 repeats the prohibition with a penalty attached[^8].
 
@@ -52,7 +54,7 @@ The most common objection is that these verses sit within the Holiness Code alon
     {
       id: "romans-1",
       title: "New Testament Prohibitions: Romans 1:26-27",
-      tags: ["romans", "paul", "physis"],
+      tags: ["New Testament"],
       content: `
 Romans 1:26-27 is the most extended New Testament treatment of the subject, and its details carry the argument.
 
@@ -65,7 +67,7 @@ Romans 1:26-27 is the most extended New Testament treatment of the subject, and 
     {
       id: "greek-terms",
       title: "Linguistic Analysis: Arsenokoitai and Malakoi",
-      tags: ["greek", "lexicon", "1 corinthians"],
+      tags: ["New Testament"],
       content: `
 1 Corinthians 6:9-10 and 1 Timothy 1:9-10 use two disputed words, and the lexical evidence is stronger than revisionist treatments allow[^18].
 
@@ -86,7 +88,7 @@ Revisionists sometimes argue that the appearance of the word "homosexual" in Eng
     {
       id: "objections",
       title: "Addressing Modern Arguments",
-      tags: ["objections", "apologetics", "response"],
+      tags: ["Objections"],
       content: `
 **Jesus never mentioned homosexuality.** An argument from silence carries little weight, since Jesus also never mentions incest or bestiality and no one concludes that He permitted them. More significantly, the silence is not real. In Matthew 19 Jesus defines marriage positively as male and female from creation, settling the question by establishing the norm rather than by listing exceptions[^26]. He also condemns *porneia*, a term covering sexual immorality as defined by the Levitical code His hearers knew[^27][^28].
 
@@ -102,7 +104,7 @@ Revisionists sometimes argue that the appearance of the word "homosexual" in Eng
     {
       id: "truth-and-grace",
       title: "The Christian Response: Truth and Grace",
-      tags: ["pastoral", "gospel", "response"],
+      tags: ["Response"],
       content: `
 Holding this teaching faithfully includes holding it in the manner Scripture does.
 
@@ -158,5 +160,5 @@ The teaching asks some believers to forgo marriage and sexual intimacy for life.
     "37. [Reference] Wikipedia. Sanctification. The process of being made holy after conversion. https://en.wikipedia.org/wiki/Sanctification",
     "38. [Catholic] Catechism of the Catholic Church, on chastity and homosexuality. States the prohibition and the requirement of respect and compassion. https://www.vatican.va/archive/ENG0015/__P85.HTM"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

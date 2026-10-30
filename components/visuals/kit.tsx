@@ -18,7 +18,6 @@ import {
 } from "lucide-react"
 
 import { renderInline } from "@/components/content-renderer"
-import { useTopicPage } from "@/components/topic-context"
 import { cn } from "@/lib/utils"
 
 /* ------------------------------------------------------------------ */
@@ -333,7 +332,8 @@ export function CompareTable({
                     className={cn(
                       "viz-th text-left font-semibold align-bottom",
                       cellPad,
-                      i === 0 && "sticky left-0 z-10",
+                      // Not sticky on phones: a wide first column would cover the whole table and hide the rest.
+                      i === 0 && "sm:sticky sm:left-0 sm:z-10",
                       c.className,
                     )}
                     aria-sort={active ? (sort.dir === 1 ? "ascending" : "descending") : undefined}
@@ -359,7 +359,7 @@ export function CompareTable({
                 {columns.map((c, i) => (
                   <td
                     key={c.key}
-                    className={cn("viz-td align-top", cellPad, i === 0 && "sticky left-0 z-10 font-medium", c.className)}
+                    className={cn("viz-td align-top", cellPad, i === 0 && "font-medium sm:sticky sm:left-0 sm:z-10", c.className)}
                   >
                     <Cell value={r[c.key] ?? ""} />
                   </td>
@@ -377,7 +377,7 @@ export function CompareTable({
         </table>
       </div>
       <div className="mt-1.5 text-[11px] text-[color:var(--viz-muted)]">
-        {shown.length} of {rows.length} rows. Click a column heading to sort.
+        {shown.length} of {rows.length} rows. <span className="sm:hidden">Swipe sideways for every column. </span>Select a column heading to sort.
       </div>
     </div>
   )
@@ -521,119 +521,6 @@ export function ObjectionCards({
           </div>
         )
       })}
-    </div>
-  )
-}
-
-/* ------------------------------------------------------------------ */
-/* Section explorer (prophecy, contradictions)                         */
-/* ------------------------------------------------------------------ */
-
-export interface ExplorerItem {
-  readonly section: string
-  readonly title: string
-  readonly facets: Readonly<Record<string, string>>
-  readonly summary?: string
-  readonly level?: ClaimLevel
-  readonly meta?: string
-}
-
-/**
- * Filterable grid over a topic's subtopics. "Open section" expands the card
- * further down and scrolls to it, so nothing here duplicates the prose.
- */
-export function SectionExplorer({
-  items,
-  facets,
-  countLabel = "sections",
-}: {
-  readonly items: readonly ExplorerItem[]
-  readonly facets: ReadonlyArray<{ readonly key: string; readonly label: string }>
-  readonly countLabel?: string
-}) {
-  const { openSection } = useTopicPage()
-  const [active, setActive] = useState<Record<string, string | null>>({})
-  const [query, setQuery] = useState("")
-  const [showAll, setShowAll] = useState(false)
-
-  const values = useMemo(
-    () => Object.fromEntries(facets.map((f) => [f.key, Array.from(new Set(items.map((i) => i.facets[f.key]).filter(Boolean)))])),
-    [facets, items],
-  )
-
-  const shown = items.filter(
-    (it) =>
-      Object.entries(active).every(([k, v]) => !v || it.facets[k] === v) &&
-      (!query.trim() || `${it.title} ${it.summary ?? ""} ${it.meta ?? ""}`.toLowerCase().includes(query.trim().toLowerCase())),
-  )
-
-  return (
-    <div>
-      <div className="space-y-2 mb-4">
-        <input
-          type="search"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder={`Search ${countLabel}...`}
-          aria-label={`Search ${countLabel}`}
-          className="w-full sm:w-80 rounded-md border px-3 py-1.5 text-sm bg-[color:var(--viz-surface)]"
-        />
-        {facets.map((f) => (
-          <div key={f.key} className="flex flex-wrap items-center gap-1.5">
-            <span className="text-xs font-medium text-[color:var(--viz-ink-2)] mr-1">{f.label}:</span>
-            {values[f.key].map((v) => {
-              const on = active[f.key] === v
-              const count = items.filter((i) => i.facets[f.key] === v).length
-              return (
-                <button
-                  key={v}
-                  type="button"
-                  aria-pressed={on}
-                  onClick={() => setActive((a) => ({ ...a, [f.key]: on ? null : v }))}
-                  className={cn("viz-chip", on && "viz-chip-active")}
-                >
-                  {v} <span className="opacity-60">{count}</span>
-                </button>
-              )
-            })}
-          </div>
-        ))}
-      </div>
-      <div className="text-[11px] text-[color:var(--viz-muted)] mb-2">
-        Showing {shown.length} of {items.length} {countLabel}
-      </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
-        {(showAll || shown.length <= 15 ? shown : shown.slice(0, 12)).map((it) => (
-          <button
-            key={it.section}
-            type="button"
-            onClick={() => openSection(it.section)}
-            className="viz-info rounded-lg border p-3 text-left hover:border-[color:var(--viz-ink-2)] transition-colors flex flex-col"
-          >
-            <div className="flex flex-wrap gap-1 mb-1.5">
-              {facets.map((f) =>
-                it.facets[f.key] ? (
-                  <span key={f.key} className="viz-tag">
-                    {it.facets[f.key]}
-                  </span>
-                ) : null,
-              )}
-            </div>
-            <div className="flex items-start justify-between gap-2">
-              <span className="font-semibold text-sm leading-snug">{it.title}</span>
-              {it.level && <ClaimBadge level={it.level} />}
-            </div>
-            {it.meta && <Rich as="div" text={it.meta} className="text-[12px] mt-1 text-[color:var(--viz-ink-2)]" />}
-            {it.summary && <Rich as="div" text={it.summary} className="text-[13px] mt-1.5 leading-relaxed text-[color:var(--viz-ink-2)] grow" />}
-            <span className="text-xs text-blue-600 mt-2">Open section</span>
-          </button>
-        ))}
-      </div>
-      {shown.length > 15 && (
-        <button type="button" className="viz-chip mt-3" onClick={() => setShowAll((v) => !v)} aria-expanded={showAll}>
-          {showAll ? "Show fewer" : `Show all ${shown.length} ${countLabel}`}
-        </button>
-      )}
     </div>
   )
 }

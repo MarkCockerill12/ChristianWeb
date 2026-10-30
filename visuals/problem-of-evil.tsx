@@ -43,7 +43,7 @@ function Triad() {
     >
       <Toggle label="Stage of the debate" value={mode} onChange={setMode} options={Object.entries(MODES).map(([value, x]) => ({ value: value as keyof typeof MODES, label: x.label }))} />
       <div className="grid gap-4 md:grid-cols-2 items-center mt-3">
-        <svg viewBox="0 0 400 310" className="w-full max-w-md mx-auto" role="img" aria-label={`Triangle of three claims: ${m.centre}`}>
+        <svg viewBox="-40 0 480 310" className="w-full max-w-md mx-auto" role="img" aria-label={`Triangle of three claims: ${m.centre}`}>
           <polygon
             points={CORNERS.map((c) => `${c.x},${c.y}`).join(" ")}
             fill="none"

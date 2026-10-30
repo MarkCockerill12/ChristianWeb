@@ -17,18 +17,26 @@ export const miracles: Topic = {
   ],
   tldr: `Claims of miraculous healing continue in the modern era, and a small number have been investigated carefully, most rigorously at Lourdes, where 72 of more than 7,000 reported cures have been recognised as miracles. The quality of evidence varies enormously: some famous cases rest on well-documented medical histories, others on the testimony of the person healed, and controlled trials of prayer have produced mixed or negative results. Several widely repeated stories have also been embellished in retelling.`,
   content: `
-## Did Miracles Stop When Cameras Were Invented?
 Sceptics often claim that miracles conveniently stopped happening once cameras and modern medicine arrived. Claims of miraculous healing have not stopped: the New Testament scholar Craig Keener's two-volume *Miracles* (2011) gathers hundreds of modern accounts from across the world, and the historian of religion Candy Gunther Brown has studied healing practices with medical instruments[^1][^2]. What has changed is that some claims can now be checked against medical records, and when they are checked the results vary: some cases remain unexplained after long investigation, many dissolve under examination, and a few well-known stories turn out to have grown in the retelling[^3].
 
-### Miracles Explained
+<?viz miracles/ladder?>
+`,
+  subtopics: [
+    {
+      id: "what-is-a-miracle",
+      title: "What a Miracle Is, and Hume's Objection",
+      tags: ["Philosophy"],
+      content: `
 A miracle, on the classical Christian account, is not a breach of reason but an event brought about by God that nature on its own would not produce. C. S. Lewis compared it to money in a drawer: if I put a pound in a drawer one night and another the next, and find only one pound on the third, the laws of arithmetic have not been broken, but something from outside the system has acted on it. Regular natural laws are what allow a miracle to be recognised as one[^4][^5].
 
 David Hume's objection in *Of Miracles* (1748) is that testimony to a miracle can never outweigh the uniform experience on which our knowledge of natural law rests. Critics of Hume, including many who are not believers, argue that this assumes the answer in advance, and the debate over how much evidence a miracle claim requires remains live in philosophy[^6][^7].
-
-### Personal Experience
-I had a personal experience of something highly coincidental. My church is located on a residential road, which is usually fairly quiet. The church was hosting a easter party, and there were many families walking around outside, both at the church and doing easter egg hunts around the area. A car came along and the driver suffered a medical emergency and hit another car, causing it to flip over. Within a few moments, a doctor from my church ran out and was able to pull the driver to saftey, nobody else was harmed and the driver was taken to the hospital and recovered. It wasn't good that he crashed, but considering his medical state, and the location and the timing, it was seemingly perfect that the church had an event on at that time in the afternoon, or he may not have been able to get treatment as fast as he did. 
-
-### How Healing Claims Are Assessed
+`,
+    },
+    {
+      id: "how-claims-are-assessed",
+      title: "How Healing Claims Are Assessed",
+      tags: ["Evidence"],
+      content: `
 The standards the Catholic Church uses go back to Prospero Lambertini, later Pope Benedict XIV, whose treatise on canonisation (1734-1738) set out criteria still applied at Lourdes and in canonisation causes[^8]:
 
 **• A certain diagnosis:** The illness must be established by competent medical evidence.
@@ -41,18 +49,17 @@ The standards the Catholic Church uses go back to Prospero Lambertini, later Pop
 
 **• Permanence:** The cure must last, which is why investigations take years.
 
-### The Lourdes Medical Bureau
-Since the apparitions of 1858, more than 7,000 cures have been reported to the sanctuary at Lourdes, and 72 have been recognised as miraculous by the Church. More than 80% of those recognised are women, and the youngest was two years old[^9][^10]. The Medical Bureau was established in 1883. A case it considers promising goes to the International Medical Committee of Lourdes, a panel of around twenty specialists, which must vote by a two-thirds majority that the cure is medically unexplained; only then may the bishop of the healed person's diocese declare it a miracle. The committee's physicians are not all Catholics, and the process typically takes many years[^11][^12].
+**The Lourdes Medical Bureau.** Since the apparitions of 1858, more than 7,000 cures have been reported to the sanctuary at Lourdes, and 72 have been recognised as miraculous by the Church. More than 80% of those recognised are women, and the youngest was two years old[^9][^10]. The Medical Bureau was established in 1883. A case it considers promising goes to the International Medical Committee of Lourdes, a panel of around twenty specialists, which must vote by a two-thirds majority that the cure is medically unexplained; only then may the bishop of the healed person's diocese declare it a miracle. The committee's physicians are not all Catholics, and the process typically takes many years[^11][^12].
 
 The two most recent recognitions are John Traynor, a Liverpool veteran of Gallipoli healed in 1923 and recognised in December 2024, and Antonia Raco, an Italian woman healed of primary lateral sclerosis in 2009 and recognised in April 2025[^13][^14].
 
 Critics answer that a small number of unexplained recoveries among millions of pilgrims is what spontaneous remission, misdiagnosis and incomplete records would produce anyway, and that several recognised cases, especially the older ones, lack the diagnostic tests a modern investigation would require[^15][^16].
 `,
-  subtopics: [
+    },
     {
       id: "key-examples",
       title: "Well-Known Modern Cases",
-      tags: ["examples", "documented", "medical", "healing"],
+      tags: ["Cases"],
       content: `**What the evidence is in each case:** Several healing stories are repeated widely in apologetics. Versions circulating online often add details (named specialists, scans, publications) that the primary accounts do not contain, so each is set out here with what is actually documented[^17].
 
 **Barbara Snyder (Barbara Cummiskey), Wheaton, Illinois, 1981:**
@@ -98,7 +105,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
     {
       id: "lourdes-cases",
       title: "Recognised Lourdes Healings",
-      tags: ["lourdes", "medical", "verified", "documentation"],
+      tags: ["Cases"],
       content: `**The official list:** The sanctuary publishes the names, origins and recognition dates of all 72 recognised healings. The first seven were recognised together in 1862, most of the next group in 1907-1913, a large group between 1946 and 1965, and ten since 1976[^27].
 
 <?viz miracles/lourdes?>
@@ -134,7 +141,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
     {
       id: "physician-investigators",
       title: "Physicians Who Investigated Healing Claims",
-      tags: ["investigation", "physicians", "sceptics"],
+      tags: ["Cases"],
       content: `**Doctors on both sides:** Physicians have investigated healing claims both as believers and as sceptics, and their conclusions differ[^32].
 
 **Alexis Carrel (1873-1944):** A Lyon surgeon who later won the 1912 Nobel Prize for his work on suturing blood vessels, Carrel accompanied a pilgrimage to Lourdes in 1902 as an agnostic. On the train he examined Marie Bailly, aged 22, who had been diagnosed with tuberculous peritonitis and appeared to be dying, and he saw her abdominal swelling subside at Lourdes and her condition transform within hours. He reported what he had seen, which damaged his standing in the anticlericalist medical circles of Lyon, though he did not claim a miracle and only returned to Catholic practice near the end of his life. Marie Bailly's cure is not among the 72 officially recognised healings. Carrel's later reputation is also clouded by his advocacy of eugenics[^33][^34][^35].
@@ -150,7 +157,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
     {
       id: "prayer-studies",
       title: "Scientific Studies of Prayer",
-      tags: ["studies", "prayer", "medicine", "research"],
+      tags: ["Evidence"],
       content: `**Controlled research:** Several research teams have tried to measure the effect of prayer on health, with mixed results[^41].
 
 <?viz miracles/trials?>
@@ -167,20 +174,19 @@ Critics answer that a small number of unexplained recoveries among millions of p
     {
       id: "assessing-the-evidence",
       title: "Assessing the Evidence Honestly",
-      tags: ["evidence", "scepticism", "apologetics"],
+      tags: ["Evidence"],
       content: `**Why many claims fail:** Spontaneous remission of cancer and other diseases does occur, rarely but measurably; conditions such as multiple sclerosis have natural relapses and remissions; symptoms with a psychological component can improve dramatically in an emotional setting; and the excitement of a meeting can mask pain for a time[^49][^50].
 
 **Why some claims remain:** A minority of cases involve conditions that do not ordinarily reverse, such as destroyed bone reforming or a malignant tumour regressing without treatment, with records made before and after, and a long period without relapse. These are the cases on which the argument rests, and apologists increasingly argue from them rather than from the much larger number of uninvestigated testimonies[^51].
 
 **The standard of evidence:** The strongest cases are those investigated by people with no stake in the outcome, with medical records from before the event. Testimony alone, however sincere, and stories that acquire details in retelling, are weak evidence, and repeating embellished versions damages the credibility of the genuine cases. Believers also hold that God's willingness to heal does not depend on whether a particular healing can be verified to a sceptic's satisfaction[^52][^53].
 
-<?viz miracles/ladder?>
 `
     },
     {
       id: "the-bible-on-miracles",
       title: "The Bible on Miracles",
-      tags: ["scripture", "theology", "protestant"],
+      tags: ["Scripture"],
       content: `**Miracles as Signs and Wonders:** The Bible presents miracles not merely as supernatural interventions but as "signs" (Greek *semeion*) and "wonders" (*teras*) that testify to God's presence, confirm His message and point to the coming of His kingdom (John 20:30-31, Hebrews 2:3-4)[^54].
 
 **Cessationism and Continuationism:** Cessationists, including much of the Reformed tradition, hold that the miraculous gifts of the apostolic age ended with the apostles, though God may still heal in answer to prayer. Continuationists, including Pentecostal and Charismatic churches, hold that gifts of healing continue. Catholic and Orthodox churches have always recognised miracles associated with the saints[^55].
@@ -192,7 +198,15 @@ Critics answer that a small number of unexplained recoveries among millions of p
 - Mark 16:17-18 lists signs that will accompany believers, including healing the sick. These verses belong to the longer ending of Mark, which is absent from the earliest complete manuscripts, and most scholars regard it as a later addition, so doctrine is not usually built on it alone[^56].
 
 **Not every prayer is answered with healing:** Paul left Trophimus sick at Miletus (2 Timothy 4:20), advised Timothy to take wine for his frequent illnesses (1 Timothy 5:23), and was refused the removal of his own "thorn in the flesh" (2 Corinthians 12:7-9).`
-    }
+    },
+    {
+      id: "a-personal-experience",
+      title: "A Personal Experience",
+      tags: ["Cases"],
+      content: `
+I had a personal experience of something highly coincidental. My church is located on a residential road, which is usually fairly quiet. The church was hosting an Easter party, and there were many families walking around outside, both at the church and doing Easter egg hunts around the area. A car came along and the driver suffered a medical emergency and hit another car, causing it to flip over. Within a few moments, a doctor from my church ran out and was able to pull the driver to safety, nobody else was harmed and the driver was taken to the hospital and recovered. It wasn't good that he crashed, but considering his medical state, and the location and the timing, it was seemingly perfect that the church had an event on at that time in the afternoon, or he may not have been able to get treatment as fast as he did.
+`,
+    },
   ],
       sources: [
     "1. [Reference] Wikipedia. Craig S. Keener. Author of the two-volume Miracles: The Credibility of the New Testament Accounts (2011). https://en.wikipedia.org/wiki/Craig_S._Keener",
@@ -252,5 +266,5 @@ Critics answer that a small number of unexplained recoveries among millions of p
     "55. [Reference] Wikipedia. 'Cessationism versus continuationism.' https://en.wikipedia.org/wiki/Cessationism",
     "56. [Reference] Wikipedia. 'Mark 16.' The longer ending and its manuscript evidence. https://en.wikipedia.org/wiki/Mark_16"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

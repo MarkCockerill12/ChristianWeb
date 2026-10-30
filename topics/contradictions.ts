@@ -12,7 +12,7 @@ export const contradictions: Topic = {
     { reference: "John 17:17", text: "Sanctify them by the truth; your word is truth." },
     { reference: "Proverbs 30:5", text: "Every word of God is flawless; he is a shield to those who take refuge in him." }
   ],
-  tldr: `Apparent contradictions in the Bible often resolve when considering context, literary genre, and translation nuances. Differences in perspective or details between accounts usually point to independent verification rather than error.`,
+  tldr: `Most alleged contradictions resolve when context, genre, language and copying are taken into account, and many are simply different details of the same event. A few remain genuinely hard, such as the two genealogies of Jesus and Luke's census, and they are marked as hard. Christians hold that none of them overturns a central doctrine, and the claim of inerrancy applies to the original writings and not to every later copy.`,
   content: `
 Many apparent contradictions in the Bible can be resolved through careful examination of context, language, literary genre, and historical background[^1][^2][^3]. Most perceived contradictions arise from:
 
@@ -23,16 +23,16 @@ Many apparent contradictions in the Bible can be resolved through careful examin
   - **Complementary accounts**: Details that supplement rather than contradict each other, like two witnesses describing different parts of the same event[^14][^15][^16].
   - **Scribal transmission**: Minor errors in manual copying over millennia (e.g., miscopying a number), which are identifiable and correctable through textual criticism[^17][^18].
 
-The principle of "Scripture interprets Scripture" suggests that when apparent contradictions arise, we should look at the broader biblical context and allow clearer passages to illuminate more difficult ones[^19].
+The principle of "Scripture interprets Scripture" means that an apparent contradiction is read in the light of the broader biblical context, with clearer passages illuminating more difficult ones[^19].
 
-<?viz contradictions/explorer?>
+<?viz contradictions/verdicts?>
 
 `,
   subtopics: [
     {
       id: 'GenAnimals',
       title: 'Genesis 1:25-27 vs Genesis 2:7-19 - man created after vs before the animals',
-      tags: ['old testament', 'history'],
+      tags: ["Old Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Genesis 1:25-27 states that animals were created before man on the sixth day, whereas Genesis 2:7-19 seems to describe God creating man first, then creating the animals afterward to find a suitable companion for him.
 
 **Clarification:** This apparent contradiction resolves when we understand that [Genesis 1](https://www.biblegateway.com/passage/?search=Genesis+1&version=NIV) and [Genesis 2](https://www.biblegateway.com/passage/?search=Genesis+2&version=NIV) serve different literary purposes; Genesis 1 has a cosmological focus providing a chronological "global overview" of all creation, while Genesis 2 "zooms in" on the sixth day with an anthropological (human-centered) focus to detail humanity's creation[^20]. The Hebrew verb *yatsar* ('formed') in [Genesis 2:19](https://www.biblegateway.com/passage/?search=Genesis+2%3A19&version=NIV) can be translated in the pluperfect tense as "had formed," indicating a past action; God had already formed the animals before bringing them to Adam[^21][^22][^23]. Furthermore, Genesis 2 refers specifically to the local 'beasts of the field' brought to Adam, focusing not on chronological ordering but on man's need for companionship[^24].`,
@@ -40,7 +40,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'GenArk',
       title: 'Genesis 6:19-20 vs Genesis 7:2-3 - two animals per species vs seven pairs of clean animals',
-      tags: ['old testament', 'history'],
+      tags: ["Old Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Genesis 6:19-20 commands Noah to bring two of every kind of animal onto the Ark, whereas Genesis 7:2-3 commands him to take seven pairs of clean animals and birds.
 
 **Clarification:** These passages are complementary, not contradictory[^25]. [Genesis 6:19-20](https://www.biblegateway.com/passage/?search=Genesis+6%3A19-20&version=NIV) gives the general command for preserving animal life (a minimum of two of every kind)[^26][^27][^28]. [Genesis 7:2-3](https://www.biblegateway.com/passage/?search=Genesis+7%3A2-3&version=NIV) then provides a more specific, layered instruction for clean animals and birds (seven pairs)[^29][^30][^31]. The 'two of every kind' establishes the minimum for species preservation, while the extra clean animals were taken specifically for post-flood sacrifices, which Noah indeed offers in [Genesis 8:20](https://www.biblegateway.com/passage/?search=Genesis+8%3A20&version=NIV)[^32][^33].`,
@@ -48,7 +48,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'GenFlood',
       title: 'Genesis 7:17 vs Genesis 7:24 - flood lasts 40 days vs waters prevail for 150 days',
-      tags: ['old testament', 'history'],
+      tags: ["Old Testament", "Chronology"],
       content: `**Supposed Contradiction:** Genesis 7:17 states that the flood was on the earth for 40 days, whereas Genesis 7:24 states that the waters prevailed upon the earth for 150 days.
 
 **Clarification:** These verses describe different phases of the same flood event. [Genesis 7:17](https://www.biblegateway.com/passage/?search=Genesis+7%3A17&version=NIV) refers specifically to the initial period of rising waters and active rainfall[^34][^35]. [Genesis 7:24](https://www.biblegateway.com/passage/?search=Genesis+7%3A24&version=NIV) uses the Hebrew verb *gabar* ('prevailed'), meaning 'to be strong' or 'have power over'[^36][^37][^38]. This 150-day period refers to the entire time the waters remained at their peak level, which includes the initial 40 days of rain, before they finally began to recede[^39][^40].`,
@@ -56,7 +56,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'CainsWife',
       title: 'Genesis 4:17 - Where did Cain get his wife?',
-      tags: ['old testament', 'history'],
+      tags: ["Old Testament", "Family and genealogy"],
       content: `**Supposed Contradiction:** Genesis 4:17 mentions Cain's wife, yet the narrative has only recorded the creation of Adam, Eve, Cain, and Abel, leaving no clear origin for another woman.
 
 **Clarification:** This is resolved by reading the surrounding genealogy. [Genesis 5:4](https://www.biblegateway.com/passage/?search=Genesis+5%3A4&version=NIV) states that Adam lived for hundreds of years and 'had other sons and daughters.' Cain married one of his sisters or, depending on the timeline, a niece[^41][^42]. The laws prohibiting close-relative marriage were not given until the time of Moses ([Leviticus 18:6-18](https://www.biblegateway.com/passage/?search=Leviticus+18%3A6-18&version=NIV))[^43][^44][^45]. Creationist writers add that the accumulated genetic load which makes such unions dangerous now had not yet built up in the first generations, an argument that follows from a recent common ancestry and is not shared by those who date humanity differently[^46][^47]. The 'city' Cain built was most likely a small settlement populated by his growing household over several decades[^48][^49].`,
@@ -64,7 +64,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'chariots',
       title: '2 Samuel 10:18 vs 1 Chronicles 19:18 - 700 chariots vs 7,000 charioteers',
-      tags: ['old testament', 'history'],
+      tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 2 Samuel 10:18 records that David killed the men of 700 Syrian chariots, whereas 1 Chronicles 19:18 states that David killed 7,000 men who fought in chariots.
 
 **Clarification:** Two explanations are available, and the second is the stronger[^50]. [2 Samuel 10:18](https://www.biblegateway.com/passage/?search=2+Samuel+10%3A18&version=NIV) may count chariot units while [1 Chronicles 19:18](https://www.biblegateway.com/passage/?search=1+Chronicles+19%3A18&version=NIV) counts the men who crewed and supported them, though the ratio of ten men to a chariot that this reading requires is not attested in Near Eastern sources[^51]. More probably a number was miscopied: Hebrew numerals were written in forms that scribes confused readily, and the Chronicles parallels contain several such divergences[^52]. Neither reading changes the outcome of the battle that both texts report[^53].
@@ -75,7 +75,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'jehoiachin',
       title: '2 Kings 24:8 vs 2 Chronicles 36:9 - Jehoiachin is 18 years old vs 8 years old when king',
-      tags: ['old testament', 'history'],
+      tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 2 Kings 24:8 states that Jehoiachin was 18 years old when he became king of Judah, whereas 2 Chronicles 36:9 states he was only 8 years old.
 
 **Clarification:** This is a well-documented scribal transmission error in the Masoretic Hebrew text of 2 Chronicles, where the symbol or word for ten was omitted during copying[^54][^55][^56]. Some Septuagint manuscripts and the Syriac version read '18' in 2 Chronicles, matching [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^57][^58]. The historical context also supports 18, as Jehoiachin had multiple wives ([2 Kings 24:15](https://www.biblegateway.com/passage/?search=2+Kings+24%3A15&version=NIV)) and made independent, responsible decisions that are described as 'evil in the sight of the Lord'[^59].`,
@@ -83,7 +83,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'genealogies',
       title: 'Matthew 1 vs Luke 3 - two different genealogies of Jesus',
-      tags: ['new testament', 'gospels'],
+      tags: ["New Testament", "Family and genealogy"],
       content: `**Supposed Contradiction:** Matthew 1 and Luke 3 provide two entirely different lists of ancestors for Jesus between King David and Joseph.
 
 **Clarification:** Three explanations are in circulation, and no one of them commands agreement[^60][^61][^62]. The first, popular since Annius of Viterbo in the fifteenth century, is that [Matthew 1](https://www.biblegateway.com/passage/?search=Matthew+1&version=NIV) traces Joseph's legal lineage while [Luke 3](https://www.biblegateway.com/passage/?search=Luke+3&version=NIV) traces Mary's, since 'son of' could cover a son-in-law; its weakness is that Luke never mentions Mary in the list and names Joseph outright[^63][^64]. The second, reported by Julius Africanus in the third century, is levirate marriage: Joseph's legal and biological fathers differed because a childless brother's widow was married by his kinsman[^65][^66][^67]. The third takes both lines through Joseph, one by legal royal succession and one by natural descent[^68][^69]. What the two lists agree on is the point each writer is making: descent from David through the royal line, Matthew arranging his in three sets of fourteen for a Jewish readership and Luke running his back to Adam for a Gentile one[^70].
@@ -94,7 +94,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'DavidSin',
       title: '2 Samuel 24:1 vs 1 Chronicles 21:1 - God incites David to sin vs Satan incites David',
-      tags: ['old testament', 'theology'],
+      tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** 2 Samuel 24:1 states that the anger of the Lord burned against Israel and He incited David to count the fighting men, whereas 1 Chronicles 21:1 states that Satan rose up against Israel and incited David to take a census.
 
 **Clarification:** This reflects different theological perspectives on divine sovereignty and secondary causes[^71][^72]. Both are true: God ultimately permitted Satan to tempt David (similar to the book of Job)[^73][^74]. 2 Samuel emphasizes God's primary sovereignty (allowing the event to proceed in judgment), whereas 1 Chronicles identifies the immediate spiritual agent (Satan) who tempted David to act out of pride rather than trust in God[^75][^76].`,
@@ -102,7 +102,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'BlindMen',
       title: 'Matthew 20:29-30 vs Mark 10:46 vs Luke 18:35 - two blind men healed vs one blind man',
-      tags: ['new testament', 'gospels'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew 20:29-30 states that Jesus healed two blind men as He left Jericho, whereas Mark 10:46 and Luke 18:35 mention only one blind man (named Bartimaeus in Mark).
 
 **Clarification:** This is a case of selective reporting, not a contradiction[^77]. Stating there were two blind men (Matthew) does not contradict stating there was one (Mark/Luke), especially if one of them (Bartimaeus) was far more prominent or later became well-known in the early church[^78][^79]. Additionally, the healings may have occurred at different points of Jesus' journey around Jericho, as the area had multiple city sites (an old ruins site and a newer Herod-built Roman city)[^80][^81][^82].`,
@@ -110,7 +110,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'JudasDeath',
       title: 'Matthew 27:5 vs Acts 1:18 - Judas hangs himself vs Judas falls and bursts open',
-      tags: ['new testament', 'gospels'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew 27:5 states that Judas went and hanged himself, whereas Acts 1:18 states that Judas fell headlong, and his body burst open.
 
 **Clarification:** The usual answer is that the accounts describe different stages of the same event: Matthew records the method of death, and Acts the state of the body afterwards, the rope or branch having given way so that the corpse fell and ruptured[^83]. That reconstruction is not stated by either writer and has to be supplied[^84][^85][^86]. A second difference is harder: Matthew has the priests buy the field with the returned money, while Acts says Judas acquired it, which is best read as the priests buying it in his name with what was legally still his[^87][^88]. The two writers are pursuing different ends, Matthew the fulfilment of prophecy and Luke the vacancy among the Twelve, and neither is attempting a full account of the death[^89].`,
@@ -118,7 +118,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'CrucifixionTiming',
       title: 'Mark 15:25 vs John 19:14-15 - crucifixion at 9 a.m. vs condemnation at noon',
-      tags: ['new testament', 'gospels'],
+      tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** Mark 15:25 states that Jesus was crucified at the "third hour" (9 a.m.), whereas John 19:14-15 states that Jesus was still standing trial before Pilate at the "sixth hour" (noon).
 
 **Clarification:** Two answers are given, and this remains one of the harder harmonisations[^90]. On the first, Mark uses Jewish reckoning from sunrise, so the "third hour" is 9 a.m., while John uses Roman civil reckoning from midnight, so his "sixth hour" is 6 a.m., leaving time for the sentence to be carried out[^91][^92][^93]. Against it, John elsewhere appears to use the Jewish system, as at [John 4:6](https://www.biblegateway.com/passage/?search=John+4%3A6&version=NIV)[^94]. On the second, both writers use Jewish hours and are dividing the day into rough three-hour blocks rather than clock times, so a death sequence running through the middle of the day could be reported by one as the third hour and by the other as approaching the sixth[^95][^96]. Ancient timekeeping without clocks worked in quarters of the day, and precision of the modern sort is not what either writer is offering[^97].
@@ -129,7 +129,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'CrossCarrying',
       title: 'John 19:17 vs Matthew 27:32 - Jesus carries his cross vs Simon of Cyrene carries it',
-      tags: ['new testament', 'gospels'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** John 19:17 states that Jesus went out bearing His own cross, whereas Matthew 27:32 (and Mark and Luke) state that the Roman soldiers forced Simon of Cyrene to carry it.
 
 **Clarification:** These accounts describe different stages of the journey to Golgotha[^98]. Jesus initially carried the crossbeam (patibulum) Himself as He went out (John)[^99][^100][^101]. However, severely weakened by the preceding Roman scourging, blood loss, and exhaustion, Jesus collapsed along the way, forcing the soldiers to conscript Simon to carry it the rest of the distance (Matthew)[^102].`,
@@ -137,7 +137,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'FinalCry',
       title: 'Matthew 27:46 vs Luke 23:46 vs John 19:30 - "My God, why have you forsaken me?" vs "Father, into your hands I commit my spirit" vs "It is finished"',
-      tags: ['new testament', 'gospels'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The Gospels record different final words spoken by Jesus on the cross, with none of them recording all of them.
 
 **Clarification:** Jesus survived for six hours on the cross, giving Him ample time to make several statements[^103][^104]. The chronological sequence is: 1) "My God, why have you forsaken me?" (Matthew/Mark), representing His spiritual suffering; 2) "It is finished" (John), declaring His work complete; and 3) "Father, into your hands I commit my spirit" (Luke), His final act of trust[^105]. Each author selected the statement that aligned best with their theological focus[^106].`,
@@ -145,7 +145,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'GodSeen',
       title: 'John 1:18 / Exodus 33:20 vs Genesis 32:30 - God invisible vs Jacob sees God face to face',
-      tags: ['old testament', 'theology'],
+      tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** John 1:18 and Exodus 33:20 state that no one has ever seen God, whereas Genesis 32:30 states that Jacob saw God face to face at Peniel.
 
 **Clarification:** The verses stating God is invisible refer to His full, unshielded essence and glory as the Father ([1 Timothy 6:16](https://www.biblegateway.com/passage/?search=1+Timothy+6%3A16&version=NIV))[^107]. However, God chose to appear in accommodated, localized forms (theophanies or Christophanies) to individuals like Jacob[^108][^109][^110]. The phrase "face to face" is also a Hebrew idiom meaning "directly" or "intimately," rather than literally gazing upon God's full, infinite glory[^111][^112].`,
@@ -153,7 +153,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'FaithAlone',
       title: 'Ephesians 2:8-9 vs James 2:24 - salvation by faith alone vs salvation by works too',
-      tags: ['new testament', 'theology'],
+      tags: ["New Testament", "Theology"],
       content: `**Supposed Contradiction:** Paul in Ephesians 2:8-9 states that salvation is by grace through faith, not of works, whereas James 2:24 states that a person is justified by works and not by faith alone.
 
 **Clarification:** These passages address different contexts and use the word "justified" in different ways[^113][^114][^115]. Paul is discussing the *root* of salvation, how a sinner is declared righteous before God solely by faith ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV))[^116]. James is discussing the *fruit* of salvation, how a believer's claim of faith is vindicated or demonstrated as genuine before men ([James 2:24](https://www.biblegateway.com/passage/?search=James+2%3A24&version=NIV))[^117]. Both agree that saving faith inevitably produces good works.`,
@@ -161,7 +161,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'AhaziahsAge',
       title: '2 Kings 8:26 vs 2 Chronicles 22:2 - Ahaziah\'s age: 22 vs 42',
-      tags: ['old testament', 'history', 'scribal'],
+      tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 2 Kings 8:26 states that Ahaziah was 22 years old when he became king, whereas 2 Chronicles 22:2 states he was 42 years old.
 
 **Clarification:** This is a clear copyist error in the Masoretic Hebrew text of 2 Chronicles, as Ahaziah's father died at age 40, making a 42-year-old son chronologically impossible[^118][^119]. The Syriac and Arabic versions read '22' in [2 Chronicles 22:2](https://www.biblegateway.com/passage/?search=2+Chronicles+22%3A2&version=NIV) (the Septuagint reads '20'), matching the age in [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^120].`,
@@ -169,7 +169,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'TempleCleansing',
       title: 'John 2:13-17 vs Matthew 21:12-13 - Temple cleansing at start vs end of ministry',
-      tags: ['new testament', 'gospels', 'chronology'],
+      tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** John places the cleansing of the Temple at the start of Jesus' ministry, whereas the Synoptic Gospels place it at the very end of His ministry.
 
 **Clarification:** There are two main resolutions. First, Jesus may have cleansed the Temple twice: once at the start of His ministry (John) as a warning, and once at the end (Synoptics) as a final judgment[^121][^122]. Second, John may have arranged the event thematically at the beginning of his Gospel for theological impact rather than strict chronological order[^123][^124].`,
@@ -177,7 +177,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'HighPriest',
       title: 'Mark 2:26 vs 1 Samuel 21:1 - Abiathar vs Ahimelech the High Priest',
-      tags: ['new testament', 'gospels', 'scribal'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Mark 2:26 states that David entered the house of God and ate the showbread "in the days of Abiathar the high priest," whereas 1 Samuel 21:1 records that the high priest was actually Ahimelech.
 
 **Clarification:** The Greek phrase *epi Abiathar* in Mark 2:26 means "in the time of Abiathar" or "during the lifetime of Abiathar," rather than "at the exact moment he was high priest."[^125][^126]. Since the event led immediately to the death of Ahimelech and the rise of his son Abiathar, who served as David's primary high priest for decades, it was historically appropriate to reference the entire epoch under Abiathar's name. The phrase *epi* with the genitive does elsewhere mean "in the time of", but some scholars, including Bart Ehrman, regard the verse as a genuine slip, and Matthew and Luke both omit the name in their parallels[^127][^128].`,
@@ -185,7 +185,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'ResurrectionAccounts',
       title: 'Gospel Resurrection Accounts - Multiple discrepancies in timing, women, and angels',
-      tags: ['new testament', 'gospels', 'harmonization'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The four Gospels differ on the details of the resurrection morning, including who visited the tomb, what time they arrived, and how many angels were present.
 
 **Clarification:** Harmonisers argue that these variations reflect the partial perspectives of different witnesses rather than invention. Matthew and Luke drew on Mark for much of their material, so the accounts are not wholly independent, but their divergences on the resurrection morning show that they were not simply copied either[^129][^130][^131]. 1) *Women:* John focuses on Mary Magdalene, while the other Gospels include her companions; focusing on one does not deny the others were present[^132]. 2) *Timing:* The women left "while it was still dark" (John) and arrived at dawn "as the sun was rising" (Mark)[^133]. 3) *Angels:* Stating there was one angel (Matthew/Mark) does not deny the presence of a second angel who remained silent (Luke/John)[^134].
@@ -196,7 +196,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'GodRepents',
       title: 'Numbers 23:19 / 1 Samuel 15:29 vs. Genesis 6:6 - God does not repent vs. God repented',
-      tags: ['old testament', 'theology', 'linguistics'],
+      tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** Numbers 23:19 states that God is not a man that He should repent, whereas Genesis 6:6 states that God repented that He had made man.
 
 **Clarification:** This resolves by examining the Hebrew word נָחַם (niham - "grief/relenting")[^135][^136]. Numbers 23 refers to God's immutable character; He does not change His mind or break His word[^137]. Genesis 6 uses an anthropomorphism to express God's emotional grief over sin[^138][^139][^140]. It describes a change in God's *dealings* with man (judgment instead of favor) in perfect *consistency* with His unchanging holy character[^141].`,
@@ -204,7 +204,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'LexTalionis',
       title: "Exodus 21:24 vs Matthew 5:38-39 - 'An eye for an eye' vs 'Turn the other cheek'",
-      tags: ['old testament', 'new testament', 'theology', 'ethics'],
+      tags: ["Both", "Theology"],
       content: `**Supposed Contradiction:** Exodus 21:24 commands retaliation ("an eye for an eye"), whereas Jesus in Matthew 5:38-39 commands non-retaliation ("turn the other cheek").
 
 **Clarification:** These commands address different contexts. The *Lex Talionis* ("eye for an eye") in Exodus was a *civil law* for judges to ensure punishments were proportional, thereby preventing excessive revenge[^142][^143]. Jesus in Matthew 5 was speaking to individuals about *personal relationships*, forbidding personal vengeance and insults ("a slap on the right cheek"), while leaving civil justice to the state ([Romans 13:4](https://www.biblegateway.com/passage/?search=Romans+13%3A4&version=NIV))[^144].`,
@@ -212,7 +212,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'CrossInscription',
       title: 'Matthew 27:37 vs Mark 15:26 vs Luke 23:38 vs John 19:19 - The inscription on the cross',
-      tags: ['new testament', 'gospels', 'harmonization'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The four Gospels record different wordings for the inscription on the cross.
 
 **Clarification:** All four accounts agree on the core charge: "The King of the Jews"[^145]. None of the authors claim to quote the entire sign verbatim; they summarize or select the part relevant to their focus[^146][^147]. Furthermore, Luke and John note that the sign was written in three languages (Hebrew, Latin, Greek), meaning minor variations reflect translations from different languages on the sign[^148][^149].
@@ -223,7 +223,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'PetersDenial',
       title: 'Mark 14:30 vs Matthew 26:34 - Rooster crows twice vs once',
-      tags: ['new testament', 'gospels', 'harmonization'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Mark records Jesus predicting the rooster will crow twice, whereas Matthew (and Luke and John) records the rooster crowing once.
 
 **Clarification:** This is an example of precision against summary[^150]. Mark, on the early tradition that his Gospel carries Peter's testimony, records two crowings[^151][^152]. The others report the crowing that mattered, the one that broke Peter, and pass over the first; a prediction of a single crowing is not denied by a record of two, since the second crowing is also a crowing[^153].`,
@@ -231,7 +231,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'PaulsConversion',
       title: 'Acts 9 vs Acts 22 vs Acts 26 - Paul\'s conversion account discrepancies',
-      tags: ['new testament', 'acts', 'harmonization'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The three conversion accounts of Paul in Acts differ on whether his companions stood or fell, and whether they heard the voice.
 
 **Clarification:** The Greek terms resolve these details[^154][^155]. In Acts 9, the men "heard the sound" (general noise), while Acts 22 notes they did not "understand the voice" (comprehend the words); *akouō* can mean either to hear or to understand, as the NIV renders it, though the grammatical argument sometimes built on the case of the noun is weaker than often claimed[^156][^157]. Regarding posture, they all fell initially to the ground (Acts 26) and then stood up or remained frozen in speechless terror (Acts 9)[^158][^159].
@@ -242,7 +242,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'Quirinius',
       title: 'Luke 2:2 vs History - The Census of Quirinius',
-      tags: ['new testament', 'history', 'gospels'],
+      tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** Luke links Jesus' birth to the reign of Herod (who died in 4 BC) and a census under Quirinius (who became governor of Syria in 6 AD).
 
 **Clarification:** This is the most substantial historical objection in the list, and none of the answers is free of difficulty[^160][^161]. The Greek of Luke 2:2 can be read as "this registration was before Quirinius was governing Syria", which removes the clash, though the construction is unusual and most translators have not taken it that way[^162][^163][^164]. A second answer proposes an earlier commission for Quirinius in the east under Herod, which is possible but not directly attested; the Lapis Tiburtinus inscription naming an unnamed official twice made legate is often cited and does not name him[^165][^166][^167]. Josephus places the census of Quirinius in 6 AD and treats it as a novelty that provoked revolt, which is the weight of evidence on the other side[^168][^169][^170]. What can be said is that Luke knew of that 6 AD census and refers to it in [Acts 5:37](https://www.biblegateway.com/passage/?search=Acts+5%3A37&version=NIV), which tells against the idea that he simply confused its date[^171].`,
@@ -250,7 +250,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'StaffOrNoStaff',
       title: 'Mark 6:8 vs Matthew 10:9 / Luke 9:3 - Take a staff vs do not take a staff',
-      tags: ['new testament', 'gospels', 'linguistics'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Mark 6:8 records Jesus telling the disciples to take a staff, whereas Matthew and Luke record Him telling them not to take a staff.
 
 **Clarification:** Matthew uses the Greek verb *ktaomai*, meaning "to acquire" or "to buy extra." Jesus was commanding them not to buy *new* gear for the trip[^172][^173]. Mark uses *airo*, meaning "to take what you have." Jesus wanted them to take their existing staff but avoid procuring extra supplies, emphasizing reliance on God. This distinction works for Matthew but not for Luke 9:3, which uses the same verb as Mark (*airo*), so for Luke the answer must be that the Gospels preserve the sense of the instruction (travel light and depend on hospitality) rather than its exact wording[^174][^175].`,
@@ -258,7 +258,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'CenturionServant',
       title: 'Matthew 8:5 vs Luke 7:3 - Centurion came personally vs sent elders',
-      tags: ['new testament', 'gospels', 'harmonization'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew records that the centurion came personally to Jesus, whereas Luke records that he sent Jewish elders on his behalf.
 
 **Clarification:** This employs the standard ancient and modern legal principle of agency, that what a person does through their representative is described as being done by themselves[^176][^177]. Matthew highlights the centurion as the source of the request for brevity, while Luke provides the precise historical mechanism of his messengers[^178][^179].`,
@@ -266,7 +266,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'SaulsDeath',
       title: '1 Samuel 31:4 vs 2 Samuel 1:10 - Saul falls on his sword vs Amalekite kills him',
-      tags: ['old testament', 'history', 'narrative'],
+      tags: ["Old Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** 1 Samuel records Saul committing suicide by falling on his own sword, whereas 2 Samuel records an Amalekite claiming he killed Saul.
 
 **Clarification:** 1 Samuel records the actual historical event[^180]. 2 Samuel records a character telling a lie: the Amalekite found Saul's dead body, stole his crown, and fabricated the story of a mercy-killing to gain a reward from David[^181][^182].`,
@@ -274,7 +274,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'WhoKilledGoliath',
       title: '1 Samuel 17 vs 2 Samuel 21:19 - David vs Elhanan killed Goliath',
-      tags: ['old testament', 'history', 'scribal'],
+      tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 1 Samuel records David killing Goliath, whereas 2 Samuel 21:19 records that Elhanan killed Goliath.
 
 **Clarification:** The usual conservative answer is a copyist error in 2 Samuel, corrected by the parallel passage in 1 Chronicles 20:5; many critical scholars instead think the Elhanan tradition is older and that Chronicles harmonised it with the David story[^183][^184]. 1 Chronicles preserves the original reading: Elhanan killed Lahmi, the *brother of* Goliath[^185][^186][^187]. A scribe in 2 Samuel misread the Hebrew letters for "brother of" as "Bethlehemite" and omitted Lahmi's name[^188][^189].`,
@@ -282,7 +282,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'MichalsChildren',
       title: '2 Samuel 6:23 vs 2 Samuel 21:8 - Michal had no children vs five sons',
-      tags: ['old testament', 'history', 'scribal'],
+      tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 2 Samuel 6:23 states Michal had no children, whereas 2 Samuel 21:8 mentions her five sons.
 
 **Clarification:** This is probably a copyist slip where Michal's name was written instead of her sister Merab, which is the reading of two Hebrew manuscripts and some Septuagint manuscripts[^190]. 1 Samuel 18:19 records that Merab married Adriel, the father of the five sons[^191][^192]. Alternatively, Michal may have adopted and raised her deceased sister Merab's five sons[^193][^194][^195].`,
@@ -290,7 +290,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'SolomonsStalls',
       title: '1 Kings 4:26 vs 2 Chronicles 9:25 - 40,000 vs 4,000 stalls for horses',
-      tags: ['old testament', 'history', 'scribal'],
+      tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 1 Kings records Solomon having 40,000 stalls for horses, whereas 2 Chronicles records 4,000 stalls.
 
 **Clarification:** This is a scribal transcription error where a copyist added a plural ending to the Hebrew word for 'four,' multiplying the original number 4,000 by ten[^196][^197]. The number 4,000 matches the proportional 12,000 horsemen and is logistically realistic[^198][^199][^200].`,
@@ -298,7 +298,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'PunishingSons',
       title: 'Exodus 20:5 vs Ezekiel 18:20 - Punishing children vs individual responsibility',
-      tags: ['old testament', 'theology', 'ethics'],
+      tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** Exodus records God visiting the sins of the fathers on their children, whereas Ezekiel records that children will not bear their fathers' iniquity.
 
 **Clarification:** Exodus describes the *earthly, natural consequences* of sin affecting future generations within a family[^201][^202]. Ezekiel describes *eternal, spiritual guilt* before God, where every individual is judged solely for their own choices[^203].`,
@@ -306,7 +306,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'CaptivityLength',
       title: 'Exodus 12:40 vs Galatians 3:17 - 430 years in Egypt vs 430 from Abraham',
-      tags: ['old testament', 'new testament', 'chronology'],
+      tags: ["Both", "Chronology"],
       content: `**Supposed Contradiction:** Exodus states the Israelites lived in Egypt for 430 years, whereas Galatians states the Law came 430 years after Abraham.
 
 **Clarification:** The Septuagint and the Samaritan Pentateuch read in Exodus 12:40 that they lived in Egypt *and Canaan* for 430 years, whereas the Masoretic Text has Egypt alone[^204][^205]. On that reading the 430-year period began with the promise to Abraham, spanning 215 years in Canaan and 215 in Egypt. Those who follow the Masoretic Text reply that Paul may be counting from the promise's last confirmation to Jacob, or using the Septuagint figure familiar to his audience[^206][^207].`,
@@ -314,7 +314,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'JacobsFamily',
       title: 'Genesis 46:27 vs Acts 7:14 - 70 vs 75 people going to Egypt',
-      tags: ['old testament', 'new testament', 'chronology'],
+      tags: ["Both", "Numbers and copying"],
       content: `**Supposed Contradiction:** Genesis records 70 people of Jacob's household going to Egypt, whereas Stephen in Acts records 75 people.
 
 **Clarification:** Genesis uses the Hebrew Masoretic count of 70 (direct descendants)[^208]. Stephen quoted the Septuagint Greek translation, which counts 75 by including five additional grandsons of Joseph born in Egypt[^209][^210]. Both are correct under their respective criteria.`,
@@ -322,7 +322,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'PostResurrection',
       title: 'Matthew 28:16 vs Luke 24:49 - Appearances in Galilee vs Jerusalem',
-      tags: ['new testament', 'gospels', 'harmonization'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew records Jesus commanding the disciples to meet Him in Galilee, whereas Luke records Him telling them to stay in Jerusalem.
 
 **Clarification:** These accounts describe different parts of a 40-day sequence[^211]. The disciples remained in Jerusalem initially, then traveled to Galilee where Jesus appeared to them (Matthew), and finally returned to Jerusalem prior to the Ascension and Pentecost (Luke)[^212].`,
@@ -330,7 +330,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'PassoverTiming',
       title: 'Synoptics vs John 19:14 - Crucified after Passover meal vs before',
-      tags: ['new testament', 'gospels', 'chronology'],
+      tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** The Synoptics place the Last Supper as the Passover meal (Thursday), whereas John places the crucifixion on the Preparation of the Passover (Friday).
 
 **Clarification:** Two answers carry weight[^213]. The first appeals to competing calendars, with Galileans and Pharisees keeping the meal on Thursday evening and Judeans and Sadducees on Friday evening, so that both writers describe a real Passover[^214][^215][^216][^217]. The second reads John's "day of Preparation" as Friday of Passover week, the day before the Sabbath, rather than preparation for the Seder itself, which removes the clash without positing two calendars[^218][^219]. A third position holds that John has moved the day deliberately so that Jesus dies as the lambs are killed, a theological arrangement rather than a chronological claim, and this reading is common among critical scholars[^220][^221].`,
@@ -338,7 +338,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'TemptationOrder',
       title: 'Matthew 4 vs Luke 4 - The order of the three temptations',
-      tags: ['new testament', 'gospels', 'harmonization'],
+      tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew and Luke record different orders for the second and third temptations of Jesus.
 
 **Clarification:** Matthew uses chronological conjunctions ("then," "again"), representing the historical order[^222][^223]. Luke uses the simple "and," presenting the temptations in a thematic order ending at the Jerusalem Temple for theological emphasis[^224][^225].`,
@@ -346,7 +346,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'MosesDeath',
       title: 'Deuteronomy 34 - Did Moses write about his own death?',
-      tags: ['old testament', 'authorship', 'history'],
+      tags: ["Old Testament", "Authorship"],
       content: `**Supposed Contradiction:** Deuteronomy 34 records the death and burial of Moses, yet the book is traditionally attributed to him.
 
 **Clarification:** On the traditional view, Moses wrote the substance of the Pentateuch, and his successor Joshua (or a later inspired scribe) added the final chapter as an obituary; the Talmud (Bava Batra 14b-15a) already attributes the last eight verses to Joshua[^226][^227][^228]. Editorial additions of this kind do not by themselves negate Mosaic authorship, though critical scholarship holds that the Pentateuch as a whole was compiled much later from several sources[^229][^230].`,
@@ -354,7 +354,7 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     {
       id: 'FatherGreater',
       title: 'John 14:28 vs Philippians 2:6 / John 5:18 / John 10:30 - the Father is greater than Jesus vs Jesus is equal with God',
-      tags: ['new testament', 'theology', 'christology'],
+      tags: ["New Testament", "Theology"],
       content: `**Supposed Contradiction:** In John 14:28 Jesus says "the Father is greater than I," implying He is inferior to God. Yet Philippians 2:6 says He existed "in the form of God" and did not regard "equality with God" as something to exploit, and in John 5:18 His opponents tried to kill Him because He "was making himself equal with God." John 10:30 has Him declare "I and the Father are one." Is Jesus equal to God or not?
 
 **Clarification:** The resolution lies in the distinction Christian theology draws between **who Jesus is by nature** (ontological equality) and **what role He accepted during the incarnation** (economic or functional subordination)[^231].
@@ -616,5 +616,5 @@ The principle of "Scripture interprets Scripture" suggests that when apparent co
     "244. [Commentary] Bible Hub. 'Commentaries on Hebrews 1:3.' https://biblehub.com/commentaries/hebrews/1-3.htm",
     "245. [Encyclopedia] Wikipedia. Trinity (economic and immanent Trinity; Augustine and Aquinas on John 14:28). https://en.wikipedia.org/wiki/Trinity"
   ],
-  lastUpdated: '07-08-2026',
+  lastUpdated: "30-10-2026",
 }

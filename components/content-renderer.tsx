@@ -33,6 +33,16 @@ function buildSourceMap(sources: readonly string[]) {
   return map
 }
 
+/** Markdown links: external ones open a new tab, links within the site stay in it. */
+function linkMarkdown(html: string): string {
+  return html
+    .replace(
+      /\[([^\]^]+)\]\((https?:\/\/[^)]+)\)/g,
+      `<a href="$2" target="_blank" rel="noopener noreferrer" class="${LINK_CLASS}">$1</a>`,
+    )
+    .replace(/\[([^\]^]+)\]\((\/[^)\s]*)\)/g, `<a href="$2" class="${LINK_CLASS}">$1</a>`)
+}
+
 /**
  * Inline emphasis, markdown links and bare scripture references.
  *
@@ -43,10 +53,7 @@ function buildSourceMap(sources: readonly string[]) {
 export function renderInline(text: string): string {
   let html = text.replaceAll(/\*\*(.*?)\*\*/g, "<strong>$1</strong>")
   html = html.replace(/(?<![*\w])\*(?!\s)([^*\n]+?)(?<![\s*])\*(?!\*)/g, "<em>$1</em>")
-  html = html.replace(
-    /\[([^\]^]+)\]\((https?:\/\/[^)]+)\)/g,
-    `<a href="$2" target="_blank" rel="noopener noreferrer" class="${LINK_CLASS}">$1</a>`,
-  )
+  html = linkMarkdown(html)
   return linkScriptureReferences(html, LINK_CLASS)
 }
 
@@ -91,10 +98,7 @@ function renderMarkdown(content: string, sources: readonly string[]): string {
   html = html.replace(/(?<![*\w])\*(?!\s)([^*\n]+?)(?<![\s*])\*(?!\*)/g, "<em>$1</em>")
 
   // Markdown links [text](url)
-  html = html.replace(
-    /\[([^\]^]+)\]\((https?:\/\/[^)]+)\)/g,
-    `<a href="$2" target="_blank" rel="noopener noreferrer" class="${LINK_CLASS}">$1</a>`,
-  )
+  html = linkMarkdown(html)
 
   // Footnote citations [^1] -> linked superscript
   html = html.replace(/\[\^(\d+)\]/g, (match, id: string) => {

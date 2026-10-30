@@ -19,12 +19,14 @@ export const FREE_WILL: Topic = {
 Free will denotes the capacity of human beings to make genuine, uncoerced choices that shape their character, their relationships, and their eternal destinies[^1]. Without that capacity the universe would resemble a mechanistic system devoid of moral significance or authentic personal interaction[^2].
 
 Two separate disputes are usually run together. The philosophical dispute concerns whether free will is compatible with determinism at all, a question debated independently of theology and on which philosophers remain divided[^3][^4]. The theological dispute is narrower, concerning in what sense human choices are ours given that God is sovereign. Both sides of the theological question affirm divine sovereignty and human responsibility, and disagree about the mechanism[^5].
+
+<?viz free-will/spectrum?>
 `,
   subtopics: [
     {
       id: "biblical-foundation",
       title: "The Biblical Foundation of Free Will",
-      tags: ["scripture", "responsibility", "old testament"],
+      tags: ["Scripture"],
       content: `
 The pages of Scripture are replete with commands and appeals that presuppose the reality of human choice[^6].
 
@@ -40,11 +42,10 @@ These texts establish that humans are genuine agents whose choices are truly the
     {
       id: "philosophical-arguments",
       title: "Philosophical Arguments for Free Will",
-      tags: ["philosophy", "argument from reason", "determinism"],
+      tags: ["Philosophy"],
       content: `
 Several arguments are offered for libertarian freedom, each carrying force and each contested[^14].
 
-<?viz free-will/spectrum?>
 
 
 **The argument from reason.** If every belief is the inevitable product of prior physical causes, then beliefs are caused rather than justified, including the belief in determinism itself. Versions of this argument were pressed by C.S. Lewis and later by Alvin Plantinga[^15]. Determinists reply that a causal process can be truth-tracking, since natural selection plausibly produces reliable cognitive faculties because accuracy aids survival[^16].
@@ -59,7 +60,7 @@ Several arguments are offered for libertarian freedom, each carrying force and e
     {
       id: "moral-responsibility",
       title: "Moral Responsibility and Accountability",
-      tags: ["ethics", "justice", "judgment"],
+      tags: ["Philosophy"],
       content: `
 The most significant implication of free will concerns moral responsibility[^22].
 
@@ -73,7 +74,7 @@ Neither camp holds that humans are puppets. Compatibilists insist as strongly as
     {
       id: "the-choice-of-love",
       title: "The Choice of Love",
-      tags: ["love", "relationship", "theology"],
+      tags: ["Love"],
       content: `
 A theological argument distinct from the philosophical ones turns on the nature of love. Authentic love cannot be forced, programmed or coerced, and must be freely given[^27].
 
@@ -85,7 +86,7 @@ The strongest objection holds that God could have created beings who freely love
     {
       id: "free-will-defense",
       title: "The Free Will Defense against the Problem of Evil",
-      tags: ["problem of evil", "plantinga", "philosophy"],
+      tags: ["Problem of evil"],
       content: `
 The most influential apologetic use of free will is Alvin Plantinga's Free Will Defense[^31].
 
@@ -99,7 +100,7 @@ It is widely regarded as having succeeded against the logical problem of evil, w
     {
       id: "libertarian-vs-compatibilism",
       title: "Libertarian Free Will vs. Compatibilism",
-      tags: ["libertarian", "compatibilism", "reformed"],
+      tags: ["Philosophy"],
       content: `
 This is the central disagreement within Christian theology, and both positions are held by serious orthodox theologians[^36][^37].
 
@@ -113,7 +114,7 @@ The Reformed position developed within a longer controversy running from Pelagia
     {
       id: "molinism",
       title: "The Molinist Approach and Middle Knowledge",
-      tags: ["molinism", "middle knowledge", "foreknowledge"],
+      tags: ["Sovereignty"],
       content: `
 Molinism, developed by the sixteenth-century Jesuit Luis de Molina, proposes a third way[^45].
 
@@ -130,7 +131,7 @@ The principal objection is the grounding problem. What makes a counterfactual of
     {
       id: "concurrence",
       title: "Sovereignty and Concurrence",
-      tags: ["sovereignty", "providence", "concurrence"],
+      tags: ["Sovereignty"],
       content: `
 Scripture asserts both truths without resolving the mechanism, and the doctrine of concurrence names that fact[^52].
 
@@ -210,5 +211,5 @@ Collapsing the tension in either direction carries practical cost. Fatalism bree
     "57. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. Divine Providence. How divine governance relates to creaturely action. https://plato.stanford.edu/entries/providence-divine/",
     "58. [Reference] Wikipedia. Fatalism. The position distinguished from providence, and its practical effect. https://en.wikipedia.org/wiki/Fatalism"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

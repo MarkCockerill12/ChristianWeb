@@ -128,7 +128,34 @@ function Denominations() {
   )
 }
 
+function Texts() {
+  return (
+    <VisualCard
+      title="The texts, and what each one contributes"
+      subtitle="From creation to the letters of Paul. Each is examined in its own section, along with the main revisionist reading."
+    >
+      <CompareTable
+        minWidth="44rem"
+        compact
+        columns={[
+          { key: "text", label: "Text" },
+          { key: "says", label: "What it contributes" },
+          { key: "rival", label: "The revisionist reading" },
+        ]}
+        rows={[
+          { text: "Genesis 1:27; 2:24", says: "Male and female as the pattern of marriage, which Jesus quotes in Matthew 19:4-6", rival: "Describes the usual case and does not forbid others" },
+          { text: "Leviticus 18:22; 20:13", says: "Prohibits male same-sex acts in the holiness code", rival: "Concerned with cultic prostitution, or set aside with the ceremonial law" },
+          { text: "Romans 1:26-27", says: "Treats same-sex acts, by women and by men, as departing from creation", rival: "Addresses excess or pederasty, not committed relationships" },
+          { text: "1 Corinthians 6:9; 1 Timothy 1:10", says: "*Arsenokoitai*, a word apparently built from the Greek of Leviticus", rival: "An obscure term for exploitative practices, and so mistranslated" },
+          { text: "1 Corinthians 6:11", says: "\"And that is what some of you were. But you were washed\": the same passage offers forgiveness and a new identity", rival: "@na" },
+        ]}
+      />
+    </VisualCard>
+  )
+}
+
 const VISUALS: Record<string, () => React.JSX.Element> = {
+  texts: Texts,
   coinage: Coinage,
   words: Words,
   denominations: Denominations,

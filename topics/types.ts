@@ -8,6 +8,29 @@ export interface TimelineEvent {
   significance: string
 }
 
+export interface TopicHero {
+  src: string
+  alt: string
+  caption: string
+  credit: string
+  license: string
+  sourceUrl: string
+  /** CSS object-position, for pictures whose subject is off-centre in the crop. */
+  position?: string
+  /** Show the whole picture over a blurred copy of itself; for portraits a banner would crop badly. */
+  contain?: boolean
+}
+
+/** One challenge and the questions that test it, in the manner of Koukl's Columbo tactic. */
+export interface ChallengeQuestion {
+  claim: string
+  asks: string[]
+  /** What the questions bring into the open. */
+  point: string
+  /** Subtopic holding the full answer. */
+  section?: string
+}
+
 export interface Topic {
   id: string
   title: string
@@ -23,6 +46,8 @@ export interface Topic {
   icon?: string
   color?: string
   tldr?: string
+  hero?: TopicHero
+  questions?: ChallengeQuestion[]
   timeline?: TimelineEvent[]
   subtopics?: Array<{
     id: string

@@ -20,17 +20,24 @@ export const godEvil: Topic = {
     { reference: "2 Peter 3:9", text: "The Lord is not slow in keeping his promise, as some understand slowness. Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance." },
     { reference: "Romans 5:8", text: "But God demonstrates his own love for us in this: While we were still sinners, Christ died for us." }
   ],
-  tldr: `God's judgments in the Bible, while sometimes severe, are consistent with His nature as both perfectly just and perfectly good. They are often responses to extreme moral corruption and are always enacted with the ultimate goal of redemption and the preservation of good.`,
+  tldr: `Critics point to the Flood, the conquest of Canaan and other judgments as proof that the God of the Bible is evil. The biblical accounts present them as responses to extreme corruption, usually after long warning and with mercy offered to those who turned. That makes many of them intelligible as judgment, and it does not make all of them easy: the killing of children in the Canaanite and Amalekite commands remains among the hardest parts of Scripture. The Christian answer ends at the cross, where the same God bears the judgment himself.`,
   content: `
-## The Question of God's Character
 Critics often accuse God of being evil based on biblical accounts where He commands destruction or directly causes death. They point to the flood, Sodom and Gomorrah, the Canaanite conquest, and individual judgments as evidence that the God of the Bible is immoral, violent, or evil.
 
-**Note:** For broader questions about why evil exists in general, see our page on [If God, Why Evil?](/categories/problem-of-evil) The narrower question below is whether God's recorded actions make Him evil.
+**Note:** For broader questions about why evil exists in general, see [If God, Why Evil?](/categories/problem-of-evil) The narrower question below is whether God's recorded actions make Him evil.
 
-### The Foundation for Moral Judgment
-Before examining specific cases, we must establish the proper foundation for moral judgment. If God exists and is the source of moral law (Divine Command Theory), then His actions must be evaluated by His own perfect nature, not by fallen human standards corrupted by sin[^1][^2].
+<?viz godEvil/case-files?>
 
-### Key Principles for Understanding Divine Justice
+
+`,
+  subtopics: [
+    {
+      id: "principles-of-divine-justice",
+      title: "The Standard for Judging God",
+      tags: ["Principles"],
+      content: `
+The specific cases depend on a prior question: by what standard are they judged? If God exists and is the source of moral law (Divine Command Theory), then His actions must be evaluated by His own perfect nature, not by fallen human standards corrupted by sin[^1][^2].
+
 When examining cases where God acts as judge, several biblical principles apply:
 
 • **Creator's Authority:** As the Creator of life, God has the absolute right to determine the length and circumstances of earthly existence[^3]
@@ -39,14 +46,16 @@ When examining cases where God acts as judge, several biblical principles apply:
 
 • **Mercy Within Judgment:** Even in acts of judgment, God provides opportunities for repentance and shows mercy to the righteous[^5]
 
-<?viz godEvil/case-files?>
-
-
 • **Temporal vs. Eternal:** Physical death is not the ultimate evil; separation from God for eternity (spiritual death) is far worse[^6]
 
 • **Protection of the Innocent:** Many theologians hold that, as the Judge of all the earth, God receives into His presence children who die before they can believe, though Scripture does not state this directly[^7]
-
-### God's Character Revealed
+`,
+    },
+    {
+      id: "gods-character",
+      title: "God's Character and the Cross",
+      tags: ["The Cross"],
+      content: `
 Rather than showing God to be evil, these biblical accounts reveal His perfect character:
 
 • **Perfect Holiness:** "Holy, holy, holy is the Lord God Almighty" - God cannot tolerate sin indefinitely ([Isaiah 6:3](https://www.biblegateway.com/passage/?search=Isaiah+6:3&version=NIV))
@@ -57,15 +66,14 @@ Rather than showing God to be evil, these biblical accounts reveal His perfect c
 
 • **Long-suffering Patience:** "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish" ([2 Peter 3:9](https://www.biblegateway.com/passage/?search=2+Peter+3:9&version=NIV)) - God's delay is an act of mercy
 
-### The Ultimate Demonstration
+**The ultimate demonstration.**
 The greatest proof that God is not evil is found in the cross. Rather than destroying humanity for sin, God sent His Son to bear the judgment we deserved: "But God shows his love for us in that while we were still sinners, Christ died for us" ([Romans 5:8](https://www.biblegateway.com/passage/?search=Romans+5:8&version=NIV)). The cross is the ultimate intersection where God's perfect justice and boundless love meet[^8]. The same God who judges sin also provides salvation from that judgment[^9].
-
 `,
-  subtopics: [
+    },
     {
       id: "antediluvian-judgment",
       title: "The Great Flood",
-      tags: ["flood", "noah", "genesis", "global-judgment"],
+      tags: ["Genesis"],
       content: `**Biblical Account:** [Genesis 6:5-8:22](https://www.biblegateway.com/passage/?search=Genesis+6:5-8:22&version=NIV) - God destroys the world with a flood, saving only Noah's family and the animals[^10].
 
 
@@ -84,7 +92,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     {
       id: "sodom-gomorrah",
       title: "Sodom and Gomorrah",
-      tags: ["sodom", "gomorrah", "abraham", "lot"],
+      tags: ["Genesis"],
       content: `**Biblical Account:** [Genesis 18:16-19:29](https://www.biblegateway.com/passage/?search=Genesis+18:16-19:29&version=NIV) - God destroys Sodom, Gomorrah, and surrounding cities with fire and sulfur[^14][^15].
 
 
@@ -101,7 +109,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     {
       id: "egyptian-plagues",
       title: "The Egyptian Plagues and Firstborn Deaths",
-      tags: ["egypt", "plagues", "pharaoh", "exodus"],
+      tags: ["Exodus and conquest"],
       content: `**Biblical Account:** [Exodus 7:14-12:30](https://www.biblegateway.com/passage/?search=Exodus+7:14-12:30&version=NIV) - Ten plagues culminating in the death of all Egyptian firstborn[^16][^17].
 
 <?viz godEvil/plagues?>
@@ -114,7 +122,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Progressive warnings:** Nine increasingly severe plagues gave Pharaoh multiple opportunities to repent, demonstrating God's patience[^18].
 
-      • **Judgment on false gods:** Exodus 12:12 presents the plagues as judgment "on all the gods of Egypt". Interpreters often link individual plagues to particular deities (e.g., the Nile god Hapi, the frog goddess Heqet), though the text names none and the one-to-one pairings are conjectural. The plagues demonstrate the gods' powerlessness and demonstrating Yahweh’s supremacy to both Egyptians and Israelites[^19].
+      • **Judgment on false gods:** Exodus 12:12 presents the plagues as judgment "on all the gods of Egypt". Interpreters often link individual plagues to particular deities (e.g., the Nile god Hapi, the frog goddess Heqet), though the text names none and the one-to-one pairings are conjectural. The plagues demonstrate the gods' powerlessness and Yahweh’s supremacy to both Egyptians and Israelites[^19].
 
       • **Protection available:** Households marked with the Passover blood were passed over ([Exodus 12:13](https://www.biblegateway.com/passage/?search=Exodus+12:13&version=NIV)). The text does not say whether Egyptians took part, but a "mixed multitude" left with Israel, and interpreters take the sign to have been open to any who obeyed.
 
@@ -125,7 +133,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     {
       id: "canaanite-conquest",
       title: "The Canaanite Conquest",
-      tags: ["canaanites", "joshua", "jericho", "conquest", "holy-war"],
+      tags: ["Exodus and conquest"],
       content: `**Biblical Account:** [Joshua 6:1-11:23](https://www.biblegateway.com/passage/?search=Joshua+6:1-11:23&version=NIV) - Israel conquers Canaan under divine command (known as *herem*) to destroy certain peoples[^22][^23].
 
 
@@ -156,7 +164,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     {
       id: "amalekite-judgment",
       title: "The Amalekite Destruction",
-      tags: ["amalekites", "saul", "samuel", "agag"],
+      tags: ["Exodus and conquest"],
       content: `**Biblical Account:** [1 Samuel 15:1-33](https://www.biblegateway.com/passage/?search=1+Samuel+15:1-33&version=NIV) - God commands Saul to completely destroy the Amalekites including King Agag[^29].
 
 
@@ -170,12 +178,14 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Proportional judgment:** King Agag was singled out by Samuel for his cruelty, being judged because his "sword has made women childless" ([1 Samuel 15:33](https://www.biblegateway.com/passage/?search=1+Samuel+15:33&version=NIV)), showing the judgment was a just retribution for their wickedness[^32].
 
-      • **Later echo:** Jewish tradition identifies Haman "the Agagite", who attempted genocide against the Jews in Esther, as a descendant of Agag, linking Saul's failure to that later threat ([Esther 3:1](https://www.biblegateway.com/passage/?search=Esther+3:1&version=NIV)).`
+      • **What remains hard:** The command in 1 Samuel 15:3 explicitly includes women, children and infants. The hyperbole reading discussed under the Canaanite conquest helps less here, since the wording is so specific, and those who defend it fall back on the argument that the Creator alone has the right to give and take life, that the children's deaths were not the end of their existence, and that this was a one-off act of judgment rather than a pattern for anyone to follow. Many Christians find these answers incomplete, and this remains among the most difficult texts in Scripture.
+ • **What remains hard:** The command in 1 Samuel 15:3 explicitly includes women, children and infants. The hyperbole reading applied to the Canaanite conquest helps less here, since the wording is so specific. Those who defend the text argue that the Creator alone has the right to give and take life, that death is not the end of a child's existence, and that this was a single act of judgment and no pattern for anyone to follow. Many Christians find these answers incomplete, and this remains among the most difficult texts in Scripture.
+ • **Later echo:** Jewish tradition identifies Haman "the Agagite", who attempted genocide against the Jews in Esther, as a descendant of Agag, linking Saul's failure to that later threat ([Esther 3:1](https://www.biblegateway.com/passage/?search=Esther+3:1&version=NIV)).`
     },
     {
       id: "individual-judgments",
       title: "Individual Death Judgments",
-      tags: ["uzzah", "nadab", "abihu", "korah"],
+      tags: ["Individuals"],
       content: `**Multiple Cases:** These immediate judgments emphasize the severity of sin against a holy God and are meant to teach reverence to the entire community[^33].
 
 
@@ -202,7 +212,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     {
       id: "difficult-commands",
       title: "Difficult Commands and OT Narratives",
-      tags: ["elisha", "bears", "midianites", "isaac", "census"],
+      tags: ["Individuals"],
       content: `**Addressing Controversial Passages:** Several specific Old Testament narratives are frequently raised as objections to God's goodness. When examined in context, these reveal consistent divine justice[^39].
 
       **Elisha and the Bears ([2 Kings 2:23-24](https://www.biblegateway.com/passage/?search=2+Kings+2:23-24&version=NIV)):**
@@ -232,7 +242,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     {
       id: "new-testament-judgments",
       title: "New Testament Divine Judgments",
-      tags: ["ananias", "sapphira", "herod", "new-testament"],
+      tags: ["New Testament"],
       content: `**Divine Judgment Continues:** God's righteousness and justice are eternal attributes that continued to be demonstrated within the foundational period of the New Testament Church[^48].
 
 
@@ -265,7 +275,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     {
       id: "israel-judgment",
       title: "God's Judgment on His Own People",
-      tags: ["israel", "exile", "assyria", "babylon"],
+      tags: ["Israel"],
       content: `**Impartial Justice:** God judged Israel when they sinned just as He judged the nations around them, proving His justice applies universally and is not biased toward His chosen people[^57].
 
 
@@ -363,5 +373,5 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     "62. GotQuestions.org - 'Wilderness Generation' - Generational consequences. https://www.gotquestions.org/wilderness-wandering.html",
     "63. Harold Herring - 'Provisions in Wilderness' - Preservation of children. https://haroldherring.com/blogs/harolds-blogs/richthoughts/266-7-provisions-for-your-trip-through-the-wilderness"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }

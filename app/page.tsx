@@ -8,6 +8,24 @@ import { UpdatesFeed, type UpdateItem } from "./updates-feed"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 13,
+    title: "New Topics: Islam and Abortion",
+    description:
+      "A full page on Islam covers the life of Muhammad, where the Quran's material came from, its plain errors, the history of its conquests and how to answer Muslim objections. A new page on abortion sets out the Bible's pro-life teaching, why saving a mother's life is not murder, and the grace owed to everyone affected. Arguments for God's existence, the reliability of the Gospels, the hiddenness of God and the evidence for the Exodus have joined the existing topics.",
+    date: "30/10/2026",
+    category: "New Topic",
+    link: "/categories/islam",
+  },
+  {
+    id: 12,
+    title: "Every Topic Reorganised: Overview, Questions, Depth",
+    description:
+      "Each page now opens with a quick visual overview, then questions to ask of each challenge, then the sections in depth, with duplication between the two removed and every topic given its own picture. New: an interactive chart of the Bible's cross-references and prophecies, a calculator of everything life needs and the odds of getting it, and the religions dated by the evidence, with the Bible's own claim set beside it.",
+    date: "30/10/2026",
+    category: "Site Update",
+    link: "/categories/prophecy",
+  },
+  {
     id: 11,
     title: "Every Citation Checked Against Its Claim",
     description:

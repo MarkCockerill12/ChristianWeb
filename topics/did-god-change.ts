@@ -19,12 +19,14 @@ export const DID_GOD_CHANGE: Topic = {
 A common criticism holds that the God of the Old Testament appears drastically different from the God revealed in the New. Sceptics characterise the former as wrathful and vindictive, demanding bloody sacrifice and violent conquest, while the latter is seen as characterised exclusively by grace and unconditional love[^1].
 
 This dichotomy has a name. Marcion of Sinope taught in the second century that the two testaments featured two different gods, and the position was examined and rejected by the early church[^2]. The Christian claim is not that God evolved or revised His intentions, but that He is immutable in nature, character, and purpose, and that the apparent differences are explained by a change in humanity's redemptive timeline rather than in God[^3].
+
+<?viz did-god-change/both-testaments?>
 `,
   subtopics: [
     {
       id: "marcion",
       title: "Marcion and the Two Gods Proposal",
-      tags: ["marcion", "heresy", "canon", "history"],
+      tags: ["History"],
       content: `
 The two gods reading was formulated, tested, and rejected within the second century[^4].
 
@@ -41,7 +43,7 @@ The modern objection is a version of Marcion's and inherits the same method, whi
     {
       id: "old-testament-mercy",
       title: "The Old Testament's Own Description of God",
-      tags: ["mercy", "exodus 34", "old testament"],
+      tags: ["Old Testament"],
       content: `
 The caricature struggles against the Old Testament's most repeated statement about God's character[^9].
 
@@ -59,7 +61,7 @@ Old Testament judgment is severe and real. The wrath-only reading requires ignor
     {
       id: "new-testament-severity",
       title: "The New Testament's Judgment Language",
-      tags: ["judgment", "new testament", "jesus"],
+      tags: ["New Testament"],
       content: `
 The inverse half of the caricature fails just as badly[^16].
 
@@ -70,14 +72,13 @@ The inverse half of the caricature fails just as badly[^16].
 
 Anyone reading the New Testament as uniformly gentle applies to it exactly the selectivity that the wrathful Old Testament reading applies in the other direction[^21].
 
-<?viz did-god-change/both-testaments?>
 
 `
     },
     {
       id: "god-relented",
       title: "Texts Where God Relents",
-      tags: ["objection", "immutability", "anthropopathism"],
+      tags: ["Old Testament"],
       content: `
 The strongest counter-evidence to divine immutability comes from passages describing God relenting[^22].
 
@@ -95,7 +96,7 @@ The anthropopathism answer can be applied so broadly that it drains the texts of
     {
       id: "progressive-revelation",
       title: "Progressive Revelation and Covenant",
-      tags: ["progressive revelation", "covenant", "law"],
+      tags: ["Covenant"],
       content: `
 The standard Christian explanation is that revelation unfolded in stages while its author did not change[^32].
 
@@ -116,7 +117,7 @@ How completely the new covenant replaces the old, and what that means for Israel
     {
       id: "assessment",
       title: "Assessment",
-      tags: ["conclusion", "summary"],
+      tags: ["Covenant"],
       content: `
 The objection depends on a selective reading of both testaments. The Old Testament's own creedal self-description is of a God slow to anger and abounding in love, while the New Testament contains Scripture's most severe judgment material. Removing the selectivity causes the two portraits to converge sharply[^41].
 
@@ -171,5 +172,5 @@ What changed was the covenant, the ceremonial apparatus, and the stage of revela
     "42. [Academic] Bob Jones University Seminary. Greater Is He Than Man Can Know: Divine Repentance. Journal article on the relenting texts. https://seminary.bju.edu/files/2022/03/JBTW2.2_Article05_GreaterIsHeThanManCanKnow.pdf",
     "43. [Commentary] Bible Hub. 'Commentaries on Hebrews 13:8.' https://biblehub.com/commentaries/hebrews/13-8.htm"
   ],
-  lastUpdated: "26-10-2026"
+  lastUpdated: "30-10-2026"
 }
