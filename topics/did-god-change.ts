@@ -176,7 +176,7 @@ What changed was the covenant, the ceremonial apparatus, and the stage of revela
     "28. [Lexicon] Bible Hub. Hebrew 5162, nacham, the verb behind relent, regret, and comfort. https://biblehub.com/hebrew/5162.htm",
     "29. [Encyclopedia] New Advent, Catholic Encyclopedia. Immutability of God. Classical formulation of the doctrine. https://www.newadvent.org/cathen/09645c.htm",
     "30. [Apologetics] The Gospel Coalition. The Immutability of God. Theological essay on God's unchanging character across Scripture. https://www.thegospelcoalition.org/essay/the-immutability-of-god/",
-    "31. [Wikipedia] Open theism. The position that classical immutability overstates the biblical data. https://en.wikipedia.org/wiki/Open_theism",
+    "31. [Academic] 'Open Theism.' Internet Encyclopedia of Philosophy. https://www.iep.utm.edu/o-theism/",
     "32. [Wikipedia] Progressive revelation (Christianity). https://en.wikipedia.org/wiki/Progressive_revelation_(Christianity)",
     "33. [Commentary] Bible Hub. Hebrews 1:1 Commentaries. https://biblehub.com/commentaries/hebrews/1-1.htm",
     "34. [Apologetics] GotQuestions.org. What is progressive revelation as it relates to salvation? https://www.gotquestions.org/progressive-revelation.html",

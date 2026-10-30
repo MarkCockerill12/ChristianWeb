@@ -302,10 +302,10 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
     "67. [Wikipedia] 'Ancient astronauts.' https://en.wikipedia.org/wiki/Ancient_astronauts",
     "68. [Wikipedia] 'Creed' (Christian creeds: 1 Corinthians 15:3-7). https://en.wikipedia.org/wiki/Creed",
     "69. [Commentary] Bible Hub. 'Commentaries on Acts 2:32.' https://biblehub.com/commentaries/acts/2-32.htm",
-    "70. [Wikipedia] 'Kerygma.' https://en.wikipedia.org/wiki/Kerygma",
+    "70. [Academic] Hartog. Kerygma. The Encyclopedia of Christian Civilization, 2011. https://doi.org/10.1002/9780470670606.wbecc0751",
     "71. [Wikipedia] 'Pauline epistles.' https://en.wikipedia.org/wiki/Pauline_epistles",
-    "72. [Academic] Gerd Lüdemann - What Really Happened to Jesus? (p. 80). 'It may be taken as historically certain that Peter and the disciples had experiences after Jesus' death...' https://www.amazon.com/What-Really-Happened-Jesus-Historical/dp/0664256473",
-    "73. [Academic] Bart Ehrman - Jesus: Apocalyptic Prophet of the New Millennium (p. 231). 'We can say with complete certainty that some disciples... insisted that he soon appeared to them.' https://www.amazon.com/Jesus-Apocalyptic-Prophet-New-Millennium/dp/019512474X",
+    "72. [Academic] Gerd Lüdemann - What Really Happened to Jesus? (p. 80). 'It may be taken as historically certain that Peter and the disciples had experiences after Jesus' death..' https://www.amazon.com/What-Really-Happened-Jesus-Historical/dp/0664256473",
+    "73. [Academic] Bart Ehrman - Jesus: Apocalyptic Prophet of the New Millennium (p. 231). 'We can say with complete certainty that some disciples.. insisted that he soon appeared to them.' https://www.amazon.com/Jesus-Apocalyptic-Prophet-New-Millennium/dp/019512474X",
     "74. [Commentary] Justin Bass, Christianity Today (2020), quoting Paula Fredriksen in ABC's 'The Search for Jesus' (2000). 'What Skeptical Scholars Admit about the Resurrection Appearances of Jesus.' https://www.christianitytoday.com/2020/04/justin-bass-bedrock-christianity-resurrection-appearances/"
   ],
   lastUpdated: "30-10-2026",

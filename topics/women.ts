@@ -627,7 +627,7 @@ Several things should be conceded rather than argued around.
     "150. [Wikipedia] Amy Carmichael. https://en.wikipedia.org/wiki/Amy_Carmichael",
     "151. [Wikipedia] Mary Slessor. https://en.wikipedia.org/wiki/Mary_Slessor",
     "152. [Wikipedia] Lottie Moon. https://en.wikipedia.org/wiki/Lottie_Moon",
-    "153. [Wikipedia] Sati (practice). The legal abolition of widow burning and the role of missionary pressure. https://en.wikipedia.org/wiki/Sati_(practice)",
+    "153. [Academic] 'The Representation of Sati.' University of Texas at Austin. https://www.laits.utexas.edu/solvyns-project/Satiart.rft.html",
     "154. [Reference] Research Guides. 'Witch Trials and Witchcraft.' Scale of the prosecutions and the sources. https://guides.loc.gov/feminism-french-women-history/witch-trials-witchcraft",
     "155. [Archaeology] English Heritage. 'Witchcraft: Eight Myths and Misconceptions.' https://www.english-heritage.org.uk/learn/histories/eight-witchcraft-myths/",
     "156. [Wikipedia] Feminist interpretations of witch trials in the early modern period. The Malleus Maleficarum and the gendering of accusations. https://en.wikipedia.org/wiki/Feminist_interpretations_of_witch_trials_in_the_early_modern_period",

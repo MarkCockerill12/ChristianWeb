@@ -172,12 +172,12 @@ Refraction remains a physically conceivable mechanism rather than a corroborated
     "20. [Academic] Boslough, M. and Bruno, A. Misunderstandings about the Tunguska event, shock wave physics, and airbursts have resulted in misinterpretations of evidence at Tall el-Hammam. Scientific Reports 15 (2025). https://www.nature.com/articles/s41598-025-98362-9",
     "21. [Academic] Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam. Scientific Reports, 24 April 2025. https://www.nature.com/articles/s41598-025-99265-5",
     "22. [News] Retraction Watch. 'Sodom Comet Paper to Be Retracted Two Years After Editor's Note Acknowledging Concerns' (23 April 2025). https://retractionwatch.com/2025/04/23/sodom-comet-paper-to-be-retracted-two-years-after-editors-note-acknowledging-concerns/",
-    "23. [Wikipedia] 'Tell el-Hammam.' https://en.wikipedia.org/wiki/Tall_el-Hammam",
+    "23. [Academic] T. E. Bunch. Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea. Scientific Reports, 2025. https://doi.org/10.1038/s41598-025-99265-5",
     "24. [Academic] Lunar and Planetary Institute. Explore! Planetary Defense: Background, on asteroid impacts and airbursts such as Tunguska and Chelyabinsk. https://www.lpi.usra.edu/education/explore/planetary-defense/background/",
     "25. [Reference] NASA Earth Observatory. Secrets Beneath the Sand. Shuttle radar imaging in Arabia. https://earthobservatory.nasa.gov/images/90847/secrets-beneath-the-sand",
     "26. [Archaeology] Madain Project. 'Ubar (Shisr).' https://madainproject.com/ubar",
     "27. [Reference] NASA JPL. 'Space Radar Image of Ubar Optical/Radar' (PIA01302). https://www.jpl.nasa.gov/images/pia01302-space-radar-image-of-ubar-opticalradar/",
-    "28. [Wikipedia] Incense trade route. The commerce the Arabian site served. https://en.wikipedia.org/wiki/Incense_trade_route",
+    "28. [Reference] 'Incense Route - Desert Cities in the Negev - UNESCO World Heritage Centre.' UNESCO. https://whc.unesco.org/en/list/1107",
     "29. [Wikipedia] 'Iram of the Pillars.' Including the disputed identification of Ubar with Shisr. https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
     "30. [News] NBC News. 'Quake Reveals Day of Jesus' Crucifixion, Researchers Believe' (2012). https://www.nbcnews.com/news/amp/wbna47555983",
     "31. [Reference] NASA Eclipse Web Site. Lunar Eclipses: 0001 to 0100 AD, including 3 April AD 33. https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html",
@@ -195,7 +195,7 @@ Refraction remains a physically conceivable mechanism rather than a corroborated
     "43. [Wikipedia] Herod the Great. The dating of his death and its bearing on the nativity. https://en.wikipedia.org/wiki/Herod_the_Great",
     "44. [Commentary] Bible Hub. 'Commentaries on 2 Kings 20:11.' https://biblehub.com/commentaries/2_kings/20-11.htm",
     "45. [Wikipedia] Novaya Zemlya effect. A documented extreme refraction phenomenon. https://en.wikipedia.org/wiki/Novaya_Zemlya_effect",
-    "46. [Wikipedia] Mirage. Refraction phenomena produced by temperature gradients. https://en.wikipedia.org/wiki/Mirage",
+    "46. [Academic] 'Mirages and Green Flashes.' San Diego State University. https://aty.sdsu.edu/mirages/mirintro.html",
     "47. [Wikipedia] 'Atmospheric Refraction.' Magnitude of ordinary refraction near the horizon. https://en.wikipedia.org/wiki/Atmospheric_refraction"
   ],
   lastUpdated: "30-10-2026"

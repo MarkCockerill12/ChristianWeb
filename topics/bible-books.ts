@@ -456,7 +456,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
     "5. [Reference] ESV Global Study Bible. Introduction to Genesis, a representative conservative treatment of authorship and date. https://www.esv.org/resources/esv-global-study-bible/introduction-to-genesis/",
     "6. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Isaias.' https://www.newadvent.org/cathen/08179b.htm",
     "7. [Wikipedia] Book of Daniel. Composition, dating and the Antiochene setting of chapters 7 to 12. https://en.wikipedia.org/wiki/Book_of_Daniel",
-    "8. [Wikipedia] Authorship of the Pauline epistles. Undisputed and disputed letters. https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles",
+    "8. [Academic] 'Scribes and Ancient Letters.' Religious Studies Center, Brigham Young University. https://rsc.byu.edu/how-new-testament-came-be/scribes-ancient-letters",
     "9. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Epistle to the Ephesians.' https://www.newadvent.org/cathen/05485a.htm",
     "10. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Epistles to Titus and Timothy.' https://www.newadvent.org/cathen/14727b.htm",
     "11. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Epistle to the Hebrews.' https://www.newadvent.org/cathen/07181a.htm",
@@ -467,7 +467,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
     "16. [Wikipedia] Poetic Books. Job, Psalms, Proverbs, Ecclesiastes and Song of Songs. https://en.wikipedia.org/wiki/Poetic_Books",
     "17. [Wikipedia] Major prophet. Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. https://en.wikipedia.org/wiki/Major_prophet",
     "18. [Wikipedia] Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
-    "19. [Wikipedia] Synoptic Gospels. The relationship between Matthew, Mark and Luke. https://en.wikipedia.org/wiki/Synoptic_Gospels",
+    "19. [Encyclopedia] 'Synoptics.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/14389b.htm",
     "20. [Wikipedia] Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
     "21. [Wikipedia] Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
   ],

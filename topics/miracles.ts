@@ -235,7 +235,7 @@ I had a personal experience of something highly coincidental. My church is locat
     "3. [Reference] Internet Archive. Candy Gunther Brown, 'Testing Prayer: Science and Healing' (Harvard University Press, 2012). https://archive.org/details/testingprayersci00brow",
     "4. [Reference] HarperCollins. C. S. Lewis, 'Miracles.' https://harpercollins.co.uk/products/miracles-c-s-lewis-signature-classic-c-s-lewis",
     "5. [Academic] Stanford Encyclopedia of Philosophy. 'Miracles.' https://plato.stanford.edu/entries/miracles/",
-    "6. [Wikipedia] 'Of Miracles.' Hume's argument and its critics. https://en.wikipedia.org/wiki/Of_Miracles",
+    "6. [Academic] 'Hume on Religion.' Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/hume-religion/",
     "7. [Academic] Internet Encyclopedia of Philosophy. 'Miracles.' https://iep.utm.edu/miracles/",
     "8. [Academic] Church History (Cambridge). 'Revising the Supernatural: Prospero Lambertini's Reconsideration of the Concept of Miracle.' https://www.cambridge.org/core/journals/church-history/article/revising-the-supernatural-prospero-lambertinis-reconsideration-of-the-concept-of-miracle/98636CB98646D3AB16F83BDE2316B7F8",
     "9. [Primary Source] Sanctuary of Lourdes. 'Miraculous healings.' Official list of the 72 recognised cures. https://www.lourdes-france.com/en/miraculous-healings/",

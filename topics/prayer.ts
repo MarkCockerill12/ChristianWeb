@@ -114,7 +114,7 @@ Because God is one in essence, praying to one person of the Trinity does not exc
     "5. [Wikipedia] Intercession. 'Detailed look at intercessory prayer, including differences in how various Christian traditions approach it.' https://en.wikipedia.org/wiki/Intercession",
     "6. [Academic] Benson H et al. Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients. American Heart Journal, 2006. PubMed. https://pubmed.ncbi.nlm.nih.gov/16569567/",
     "7. [Apologetics] GotQuestions.org - What is the Lord's prayer and should we pray it?. 'Examines the model prayer Jesus gave His disciples and how it applies to our daily prayer life.' https://www.gotquestions.org/Lords-prayer.html",
-    "8. [Wikipedia] Lord's Prayer. 'Historical and theological analysis of the most famous Christian prayer.' https://en.wikipedia.org/wiki/Lord%27s_Prayer",
+    "8. [Reference] 'BBC - Religions - Christianity: The Lord's Prayer.' BBC. https://www.bbc.co.uk/religion/religions/christianity/prayer/lordsprayer_1.shtml",
     "9. [Commentary] Bible Hub. 'Commentaries on Matthew 6:7.' https://biblehub.com/commentaries/matthew/6-7.htm",
     "10. [Wikipedia] Prayer in the Catholic Church. 'Overview of Catholic prayer traditions, including Trinitarian formulas and the role of the saints.' https://en.wikipedia.org/wiki/Prayer_in_the_Catholic_Church",
     "11. [Apologetics] GotQuestions.org - Should we pray to the Father, the Son, or the Holy Spirit?. 'A biblical look at the Trinitarian nature of prayer and who we should address.' https://www.gotquestions.org/pray-Father-Son-Spirit.html"

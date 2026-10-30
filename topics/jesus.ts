@@ -321,7 +321,7 @@ Given His profound moral teaching and the sanity of His character, Lewis argues 
     "39. [Primary Source] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
     "40. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
     "41. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",
-    "42. [Wikipedia] 'Christ myth theory.' https://en.wikipedia.org/wiki/Christ_myth_theory",
+    "42. [Academic] 'Rankled by Wrangling over Rank-Raglan Rankings: Jesus and the Mythic Hero Archetype | Bible Interp.' The Bible and Interpretation. https://bibleinterp.arizona.edu/articles/2014/12/mcg388023",
     "43. [Wikipedia] 'Pauline Christianity.' https://en.wikipedia.org/wiki/Pauline_Christianity",
     "44. [Wikipedia] 'Penal substitution.' https://en.wikipedia.org/wiki/Penal_substitution",
     "45. [Wikipedia] 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
