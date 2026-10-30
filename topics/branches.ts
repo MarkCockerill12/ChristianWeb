@@ -652,7 +652,7 @@ export const branches: Topic = {
 
       • **LGBTQ+ inclusion:** Generally affirming of LGBTQ+ individuals and clergy[^145]
 
-      **Distinctive Features:** Beautiful liturgy, cathedral tradition, theological education emphasis[^146]`,
+      **Distinctive Features:** Formal liturgy, cathedral tradition, theological education emphasis[^146]`,
     },
     {
       id: "quakers",
@@ -746,7 +746,7 @@ export const branches: Topic = {
 
       **Key Beliefs:**
 
-      • **Pre-Reformation Protestantism:** Emphasized lay preaching, voluntary poverty, and the authority of scripture centuries before Martin Luther[^180]
+      • **Reform before the Reformation:** Emphasized lay preaching, voluntary poverty, and the authority of scripture centuries before Martin Luther[^180]
 
       • **Calvinist Alignment:** Formally merged into the Reformed (Calvinist) tradition during the Swiss Reformation in 1532[^181]
 

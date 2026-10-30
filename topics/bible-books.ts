@@ -75,7 +75,6 @@ The Bible is a collection of 66 books written by more than forty authors across 
       tags: ["Old Testament", "History"],
       content: `The historical books trace Israel from the conquest of Canaan through the monarchy, the exile and the return[^15].
 
-These books record the history of Israel from the conquest of Canaan to the return from Babylonian exile.
 
 ### Joshua
 **Authorship Evidence:** Traditionally Joshua, except for his death account. Early Jewish traditions support this, and eyewitness details imply a contemporary author.
@@ -145,7 +144,6 @@ These books record the history of Israel from the conquest of Canaan to the retu
       tags: ["Old Testament", "Wisdom"],
       content: `The wisdom and poetic books address suffering, worship, prudence and the limits of human understanding[^16].
 
-These books focus on practical living, the nature of suffering, and worship.
 
 ### Job
 **Authorship Evidence:** Unknown. Some suggest Moses, others Solomon or Job himself. The poetic style is ancient and unique.
@@ -153,7 +151,7 @@ These books focus on practical living, the nature of suffering, and worship.
 **Date of Writing:** The events likely occurred during the patriarchal period (c. 2000 BC), though the date of writing is debated.
 **Theological Theme:** Sovereignty in Suffering. It explores why the righteous suffer and concludes that God's wisdom is beyond human comprehension.
 ### Psalms
-**Authorship Evidence:** Multiple authors, primarily David (73 psalms), Asaph, the Sons of Korah, Solomon, and Moses. Verified by numerous Dead Sea Scroll fragments.
+**Authorship Evidence:** Multiple authors, primarily David (73 psalms), Asaph, the Sons of Korah, Solomon, and Moses. Many psalms survive in the Dead Sea Scrolls.
 **Where Written:** Primarily Israel.
 **Date of Writing:** From the time of Moses (c. 1440 BC) to the post-exilic period (c. 400 BC).
 **Theological Theme:** Worship and Prayer. The Psalms express every human emotion and point frequently to the coming Messiah.
@@ -180,7 +178,6 @@ These books focus on practical living, the nature of suffering, and worship.
       tags: ["Old Testament", "Prophets"],
       content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^17].
 
-These extensive prophetic books warned Israel and Judah of judgment while offering hope of future restoration.
 
 ### Isaiah
 **Authorship Evidence:** Isaiah the son of Amoz. The Great Isaiah Scroll from Qumran confirms the textual transmission of the entire book.
@@ -203,7 +200,7 @@ These extensive prophetic books warned Israel and Judah of judgment while offeri
 **Date of Writing:** Between 593 and 571 BC.
 **Theological Theme:** God's Glory and Restoration. It features apocalyptic visions and promises that God will give His people a new heart and a new spirit.
 ### Daniel
-**Authorship Evidence:** Daniel. Jesus affirmed his authorship (Matthew 24:15). Conservative scholars argue that its Aramaic fits an earlier date than critics allow, while critics point to its Persian and Greek loanwords; see the section on disputed authorship above.
+**Authorship Evidence:** Daniel. Jesus affirmed his authorship (Matthew 24:15). Conservative scholars argue that its Aramaic fits an earlier date than critics allow, while critics point to its Persian and Greek loanwords.
 **Where Written:** Babylon.
 **Date of Writing:** Around 530 BC.
 **Theological Theme:** The Sovereignty of God Over Nations. It offers prophetic timelines leading up to the Messiah and the end of the age.
@@ -215,7 +212,6 @@ These extensive prophetic books warned Israel and Judah of judgment while offeri
       tags: ["Old Testament", "Prophets"],
       content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^18].
 
-Shorter but equally significant prophetic works.
 
 ### Hosea
 **Authorship Evidence:** Hosea.
@@ -285,7 +281,6 @@ Shorter but equally significant prophetic works.
       tags: ["New Testament", "Gospels"],
       content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^19].
 
-These books detail the life, death, and resurrection of Jesus, and the birth of His church.
 
 ### Matthew
 **Authorship Evidence:** Matthew (Levi), the tax collector. Early church fathers unanimously attribute it to him.
@@ -320,7 +315,6 @@ These books detail the life, death, and resurrection of Jesus, and the birth of 
       tags: ["New Testament", "Letters"],
       content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^20].
 
-Letters written by the Apostle Paul to early churches and individuals.
 
 <?viz bible-books/letters-map?>
 
@@ -358,12 +352,12 @@ Letters written by the Apostle Paul to early churches and individuals.
 **Authorship Evidence:** Paul.
 **Where Written:** Rome.
 **Date of Writing:** Around AD 60.
-**Theological Theme:** The Supremacy of Christ. Combats early Gnostic heresies by declaring Christ as the exact image of the invisible God and head of the Church.
+**Theological Theme:** The Supremacy of Christ. Combats a false teaching at Colossae by declaring Christ as the exact image of the invisible God and head of the Church.
 ### 1 Thessalonians
 **Authorship Evidence:** Paul.
 **Where Written:** Corinth.
 **Date of Writing:** Around AD 51.
-**Theological Theme:** The Return of Christ. Encourages believers under persecution and clarifies details regarding the rapture of the church.
+**Theological Theme:** The Return of Christ. Encourages believers under persecution and explains what happens to believers who have died when Christ returns.
 ### 2 Thessalonians
 **Authorship Evidence:** Paul.
 **Where Written:** Corinth.
@@ -376,7 +370,7 @@ Letters written by the Apostle Paul to early churches and individuals.
 **Theological Theme:** Church Leadership. Provides crucial instructions on the qualifications for elders and deacons, and proper conduct in the church.
 ### 2 Timothy
 **Authorship Evidence:** Paul. His final recorded words before his execution.
-**Where Written:** Rome, in the Mamertine Prison.
+**Where Written:** Rome, in prison (by tradition, the Mamertine).
 **Date of Writing:** Around AD 67.
 **Theological Theme:** Endurance. An emotional plea for Timothy to boldly preach the Word and endure hardship as a good soldier of Christ.
 ### Titus
@@ -397,7 +391,6 @@ Letters written by the Apostle Paul to early churches and individuals.
       tags: ["New Testament", "Letters"],
       content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^21].
 
-These letters were written to a broader audience, concluding with the great prophetic book of Revelation.
 
 ### Hebrews
 **Authorship Evidence:** Anonymous. Suggestions include Paul, Apollos, Barnabas, or Luke.
