@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/button"
 import { Sheet, SheetContent, SheetTrigger, SheetTitle, SheetHeader } from "@/components/ui/sheet"
 import { Cross, Menu, Search, TimerIcon as Timeline, Heart, BookOpen, Home } from "lucide-react"
 import { cn } from "@/lib/utils"
+import { ThemeToggle } from "@/components/theme-toggle"
 
 const navigation = [
   { name: "Home", href: "/", icon: Home },
@@ -48,8 +49,13 @@ export function Navigation() {
           })}
         </div>
 
+        <div className="hidden md:flex ml-auto">
+          <ThemeToggle />
+        </div>
+
         {/* Mobile Navigation */}
         <div className="flex items-center space-x-2 ml-auto md:hidden">
+          <ThemeToggle />
           <Sheet open={isOpen} onOpenChange={setIsOpen}>
             <SheetTrigger asChild>
               <Button variant="ghost" size="icon">

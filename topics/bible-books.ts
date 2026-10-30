@@ -12,22 +12,34 @@ export const BIBLE_BOOKS: Topic = {
   ],
   tldr: "The Bible is a unified collection of 66 books written by over 40 authors across thousands of years, telling one complete story of creation, fall, redemption, and restoration through Jesus Christ.",
   content: `
-The Bible is a collection of 66 books written by more than forty authors across roughly fifteen centuries, presenting a single account of creation, fall, redemption and restoration[^1]. The authorship, provenance, date and theme given for each book below follow the traditional ascriptions held through most of church history and still defended by many conservative scholars[^2][^3].
+The Bible is a collection of 66 books written by more than forty authors across roughly fifteen centuries, presenting a single account of creation, fall, redemption and restoration[^1]. The authorship, provenance, date and theme given for each book below follow the traditional ascriptions held through most of church history and still defended by many conservative scholars[^2].
 
-## Where Traditional and Critical Scholarship Diverge
+<?viz bible-books/bookshelf?>
+`,
+  subtopics: [
+    {
+      id: "traditional-and-critical",
+      title: "Where Traditional and Critical Scholarship Diverge",
+      tags: ["Scholarship", "Dating"],
+      content: `For a number of books, critical scholarship reaches different conclusions from the traditional ascriptions[^3].
 
-For a number of books, critical scholarship reaches different conclusions from the traditional ascriptions[^4].
-
-*   **The Pentateuch.** Traditionally ascribed to Moses around 1440 to 1400 BC. Most critical scholars hold that the Torah reached its final form considerably later, drawing on multiple sources or supplements, an approach whose classic form is the documentary hypothesis. Conservative scholars respond with arguments for substantial Mosaic origin together with later editorial updating[^5].
+*   **The Pentateuch.** Traditionally ascribed to Moses around 1440 to 1400 BC. Most critical scholars hold that the Torah reached its final form considerably later, drawing on multiple sources or supplements, an approach whose classic form is the documentary hypothesis. Conservative scholars respond with arguments for substantial Mosaic origin together with later editorial updating[^4][^5].
 *   **Isaiah.** Traditionally a single eighth-century author. Many scholars divide the book into two or three parts, arguing that chapters 40 to 66 address the exile directly and therefore postdate it. Defenders of unity treat this as predictive prophecy and note that the New Testament cites both halves as Isaiah[^6].
 *   **Daniel.** Traditionally sixth century BC. Most critical scholars date its final form to about 165 BC, pointing to the detailed accuracy of its Greek-period material up to the persecution of Antiochus IV and its divergence from history in 11:40-45, to Greek loanwords for musical instruments, to historical difficulties such as "Darius the Mede", and to its placement among the Writings rather than the Prophets. Conservative scholars answer each point and argue that the late date partly follows from a prior rejection of predictive prophecy[^7].
-*   **The Pauline letters.** Seven are accepted as Pauline across essentially the whole field, being Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon. Many scholars regard Ephesians, Colossians, 2 Thessalonians and the Pastoral Epistles as written later by followers of Paul, arguing from vocabulary, style and assumed church structure[^8].
-*   **Hebrews and 2 Peter.** Hebrews is formally anonymous, and the traditional Pauline attribution was disputed even in the early church. The traditional authorship of 2 Peter is the most widely doubted in the New Testament[^9].
-*   **The Gospels.** All four are formally anonymous. The names attached to them are early and unanimous in the manuscript tradition, though the titles are not part of the original text, and dating ranges from roughly AD 60 to 90 depending on the scholar[^10].
+*   **The Pauline letters.** Seven are accepted as Pauline across essentially the whole field, being Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon. Many scholars regard Ephesians, Colossians, 2 Thessalonians and the Pastoral Epistles as written later by followers of Paul, arguing from vocabulary, style and assumed church structure[^8][^9][^10].
+*   **Hebrews and 2 Peter.** Hebrews is formally anonymous, and the traditional Pauline attribution was disputed even in the early church. The traditional authorship of 2 Peter is the most widely doubted in the New Testament[^11][^12].
+*   **The Gospels.** All four are formally anonymous. The names attached to them are early and unanimous in the manuscript tradition, though the titles are not part of the original text, and dating ranges from roughly AD 60 to 100 depending on the scholar[^13].
 
-## The Old Testament: The Law (Torah)
+<?viz bible-books/dating-compare?>
 
-The Pentateuch establishes the covenant between God and Israel and lays the foundation for all later biblical theology[^11].
+<?viz bible-books/written-vs-events?>
+`,
+    },
+    {
+      id: "the-law",
+      title: "The Old Testament: The Law (Torah)",
+      tags: ["Old Testament", "Law"],
+      content: `The Pentateuch establishes the covenant between God and Israel and lays the foundation for all later biblical theology[^14].
 
 The Pentateuch, or Torah, lays the foundation for all biblical theology, establishing the covenant between God and Israel.
 
@@ -56,9 +68,13 @@ The Pentateuch, or Torah, lays the foundation for all biblical theology, establi
 **Where Written:** On the plains of Moab, east of the Jordan River.
 **Date of Writing:** Approximately 1400 BC.
 **Theological Theme:** Renewal of the Covenant. It prepares the new generation for the Promised Land through a repetition of the Law, emphasizing love and obedience.
-## Old Testament: Historical Books
-
-The historical books trace Israel from the conquest of Canaan through the monarchy, the exile and the return[^12].
+`,
+    },
+    {
+      id: "historical-books",
+      title: "Old Testament: Historical Books",
+      tags: ["Old Testament", "History"],
+      content: `The historical books trace Israel from the conquest of Canaan through the monarchy, the exile and the return[^15].
 
 These books record the history of Israel from the conquest of Canaan to the return from Babylonian exile.
 
@@ -122,9 +138,13 @@ These books record the history of Israel from the conquest of Canaan to the retu
 **Where Written:** Persia, likely Susa.
 **Date of Writing:** Around 470 to 460 BC.
 **Theological Theme:** Divine Providence. Though God is never mentioned, His unseen hand in preserving the Jewish people is evident throughout.
-## Old Testament: Wisdom Literature
-
-The wisdom and poetic books address suffering, worship, prudence and the limits of human understanding[^13].
+`,
+    },
+    {
+      id: "wisdom-literature",
+      title: "Old Testament: Wisdom Literature",
+      tags: ["Old Testament", "Wisdom"],
+      content: `The wisdom and poetic books address suffering, worship, prudence and the limits of human understanding[^16].
 
 These books focus on practical living, the nature of suffering, and worship.
 
@@ -153,9 +173,13 @@ These books focus on practical living, the nature of suffering, and worship.
 **Where Written:** Jerusalem.
 **Date of Writing:** Around 965 BC, early in Solomon's reign.
 **Theological Theme:** Marital Love. It celebrates the beauty of romantic love and is often interpreted as an allegory of God's love for His people.
-## Old Testament: Major Prophets
-
-The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^14].
+`,
+    },
+    {
+      id: "major-prophets",
+      title: "Old Testament: Major Prophets",
+      tags: ["Old Testament", "Prophets"],
+      content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^17].
 
 These extensive prophetic books warned Israel and Judah of judgment while offering hope of future restoration.
 
@@ -184,9 +208,13 @@ These extensive prophetic books warned Israel and Judah of judgment while offeri
 **Where Written:** Babylon.
 **Date of Writing:** Around 530 BC.
 **Theological Theme:** The Sovereignty of God Over Nations. It offers prophetic timelines leading up to the Messiah and the end of the age.
-## Old Testament: Minor Prophets
-
-The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^15].
+`,
+    },
+    {
+      id: "minor-prophets",
+      title: "Old Testament: Minor Prophets",
+      tags: ["Old Testament", "Prophets"],
+      content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^18].
 
 Shorter but equally significant prophetic works.
 
@@ -250,9 +278,13 @@ Shorter but equally significant prophetic works.
 **Where Written:** Jerusalem.
 **Date of Writing:** Around 430 BC.
 **Theological Theme:** True Worship and the Forerunner. It condemns corrupt sacrifices and prophesies the coming of John the Baptist.
-## New Testament: The Gospels and Acts
-
-The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^16].
+`,
+    },
+    {
+      id: "gospels-and-acts",
+      title: "New Testament: The Gospels and Acts",
+      tags: ["New Testament", "Gospels"],
+      content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^19].
 
 These books detail the life, death, and resurrection of Jesus, and the birth of His church.
 
@@ -281,11 +313,17 @@ These books detail the life, death, and resurrection of Jesus, and the birth of 
 **Where Written:** Rome.
 **Date of Writing:** Around AD 62.
 **Theological Theme:** The Growth of the Church. It records the coming of the Holy Spirit and the rapid spread of the Gospel from Jerusalem to Rome.
-## New Testament: The Pauline Epistles
-
-The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^17].
+`,
+    },
+    {
+      id: "pauline-epistles",
+      title: "New Testament: The Pauline Epistles",
+      tags: ["New Testament", "Letters"],
+      content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^20].
 
 Letters written by the Apostle Paul to early churches and individuals.
+
+<?viz bible-books/letters-map?>
 
 ### Romans
 **Authorship Evidence:** Paul. Universally accepted by scholars.
@@ -352,9 +390,13 @@ Letters written by the Apostle Paul to early churches and individuals.
 **Where Written:** Rome.
 **Date of Writing:** Around AD 60.
 **Theological Theme:** Forgiveness. A masterful and tactful plea for a master to forgive and receive his runaway slave as a brother in Christ.
-## New Testament: General Epistles and Revelation
-
-The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^18].
+`,
+    },
+    {
+      id: "general-epistles-and-revelation",
+      title: "New Testament: General Epistles and Revelation",
+      tags: ["New Testament", "Letters"],
+      content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^21].
 
 These letters were written to a broader audience, concluding with the great prophetic book of Revelation.
 
@@ -404,25 +446,30 @@ These letters were written to a broader audience, concluding with the great prop
 **Date of Writing:** Around AD 95.
 **Theological Theme:** The Ultimate Victory. An apocalyptic vision of the tribulation, the second coming of Jesus Christ, the final judgment, and the creation of the New Heavens and New Earth.
 `,
-          sources: [
-    "1. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Romans.' https://www.newadvent.org/cathen/13156a.htm",
-    "2. [Study Resource] Blue Letter Bible. ESV book introductions, giving traditional authorship, date and theme for each book. https://www.blueletterbible.org/study/intros/esv_intros.cfm",
-    "3. [Apologetics] GotQuestions.org. What are the books of the Bible? Summary listing by division. https://www.gotquestions.org/books-of-the-Bible.html",
-    "4. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistles to the Corinthians.' https://www.newadvent.org/cathen/04364a.htm",
-    "5. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Galatians.' https://www.newadvent.org/cathen/06336a.htm",
-    "6. [Study Resource] ESV Global Study Bible. Introduction to Genesis, a representative conservative treatment of authorship and date. https://www.esv.org/resources/esv-global-study-bible/introduction-to-genesis/",
-    "7. [Encyclopedia] Britannica. Biblical literature. Scholarly overview of the books and their study. https://www.britannica.com/topic/biblical-literature",
-    "8. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Ephesians.' https://www.newadvent.org/cathen/05485a.htm",
-    "9. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Philippians.' https://www.newadvent.org/cathen/12008a.htm",
-    "10. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Colossians.' https://www.newadvent.org/cathen/04131b.htm",
-    "11. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Hebrews.' https://www.newadvent.org/cathen/07181a.htm",
-    "12. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistles to the Thessalonians.' https://www.newadvent.org/cathen/14629d.htm",
-    "13. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistles to Titus and Timothy.' https://www.newadvent.org/cathen/14727b.htm",
-    "14. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistles of John.' https://www.newadvent.org/cathen/08435a.htm",
-    "15. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Isaias.' https://www.newadvent.org/cathen/08179b.htm",
-    "16. [Reference] Wikipedia. Synoptic Gospels. The relationship between Matthew, Mark and Luke. https://en.wikipedia.org/wiki/Synoptic_Gospels",
-    "17. [Reference] Wikipedia. Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
-    "18. [Reference] Wikipedia. Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
+    },
   ],
-  lastUpdated: "07-08-2026"
+          sources: [
+    "1. [Apologetics] GotQuestions.org. What are the books of the Bible? Summary listing by division. https://www.gotquestions.org/books-of-the-Bible.html",
+    "2. [Study Resource] Blue Letter Bible. ESV book introductions, giving traditional authorship, date and theme for each book. https://www.blueletterbible.org/study/intros/esv_intros.cfm",
+    "3. [Encyclopedia] Britannica. Biblical literature. Scholarly overview of the books and their study. https://www.britannica.com/topic/biblical-literature",
+    "4. [Encyclopedia] Wikipedia. Documentary hypothesis. The source-critical account of the Pentateuch and its alternatives. https://en.wikipedia.org/wiki/Documentary_hypothesis",
+    "5. [Study Resource] ESV Global Study Bible. Introduction to Genesis, a representative conservative treatment of authorship and date. https://www.esv.org/resources/esv-global-study-bible/introduction-to-genesis/",
+    "6. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Isaias.' https://www.newadvent.org/cathen/08179b.htm",
+    "7. [Encyclopedia] Wikipedia. Book of Daniel. Composition, dating and the Antiochene setting of chapters 7 to 12. https://en.wikipedia.org/wiki/Book_of_Daniel",
+    "8. [Encyclopedia] Wikipedia. Authorship of the Pauline epistles. Undisputed and disputed letters. https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles",
+    "9. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Ephesians.' https://www.newadvent.org/cathen/05485a.htm",
+    "10. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistles to Titus and Timothy.' https://www.newadvent.org/cathen/14727b.htm",
+    "11. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Epistle to the Hebrews.' https://www.newadvent.org/cathen/07181a.htm",
+    "12. [Encyclopedia] Wikipedia. Second Epistle of Peter. Authorship and dating. https://en.wikipedia.org/wiki/Second_Epistle_of_Peter",
+    "13. [Encyclopedia] Wikipedia. Gospel. Anonymity, traditional ascriptions and dating of the canonical gospels. https://en.wikipedia.org/wiki/Gospel",
+    "14. [Encyclopedia] Wikipedia. Torah. The five books of Moses and their place in Jewish and Christian scripture. https://en.wikipedia.org/wiki/Torah",
+    "15. [Encyclopedia] Wikipedia. Historical books. Joshua through Esther in the Christian Old Testament. https://en.wikipedia.org/wiki/Historical_books",
+    "16. [Encyclopedia] Wikipedia. Poetic Books. Job, Psalms, Proverbs, Ecclesiastes and Song of Songs. https://en.wikipedia.org/wiki/Poetic_Books",
+    "17. [Encyclopedia] Wikipedia. Major prophet. Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. https://en.wikipedia.org/wiki/Major_prophet",
+    "18. [Encyclopedia] Wikipedia. Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
+    "19. [Reference] Wikipedia. Synoptic Gospels. The relationship between Matthew, Mark and Luke. https://en.wikipedia.org/wiki/Synoptic_Gospels",
+    "20. [Reference] Wikipedia. Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
+    "21. [Reference] Wikipedia. Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
+  ],
+  lastUpdated: "26-10-2026"
 }

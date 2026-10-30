@@ -286,7 +286,15 @@ export const branches: Topic = {
     { reference: "Ephesians 4:3-6", text: "Make every effort to keep the unity of the Spirit through the bond of peace. There is one body and one Spirit, just as you were called to one hope when you were called; one Lord, one faith, one baptism; one God and Father of all, who is over all and through all and in all." }
   ],
   tldr: `Christianity's main branches include the Early Universal/Catholic Church (1st-4th c.), Roman Catholic (centred on the see of Rome), Eastern Orthodox (which split in 1054 AD), Oriental Orthodox (split in 451 AD), and Protestant (which emerged from the 16th c. Reformation). Each differs on beliefs about scriptural authority, tradition, and sacraments.`,
-  content: "",
+  content: `
+<?viz branches/adherents?>
+
+<?viz branches/tradition-map?>
+
+<?viz branches/matrix?>
+
+<?viz branches/quiz?>
+`,
 
   subtopics: [
     {
@@ -305,29 +313,29 @@ export const branches: Topic = {
 
       • **Episcopal authority:** Led by bishops (episkopoi), with authority exercised locally and collegially[^5]
 
-      • **Multiple centres of authority:** Rome, Antioch, Alexandria, Jerusalem and later Constantinople each held patriarchal standing[^6]
+      • **Multiple centres of authority:** Rome, Antioch, Alexandria, Jerusalem and later Constantinople each held patriarchal standing[^6][^7]
 
-      • **Early church councils:** Collective decision-making through ecumenical councils[^7]
+      • **Early church councils:** Collective decision-making through ecumenical councils[^8][^9]
 
-      • **Martyrdom and persecution:** Sustained through Roman persecution until Constantine[^8]
+      • **Martyrdom and persecution:** Sustained through Roman persecution until Constantine[^10]
 
-      **Historical Context:** The "catholic" (universal) church of the first centuries, before the major schisms[^9].
+      **Historical Context:** The "catholic" (universal) church of the first centuries, before the major schisms[^11].
 
-      **A contested point, stated as contested.** How much authority the bishop of Rome held in this period is one of the genuinely disputed questions in church history, and it is not settled by description. Catholic historians point to the Petrine texts, to Clement of Rome writing to Corinth at the end of the first century, to Irenaeus on the pre-eminence of the Roman church, and to Leo's intervention at Chalcedon, arguing that a primacy was present from the start and later articulated rather than invented. Orthodox historians accept a primacy of honour among equals while denying universal jurisdiction. Protestant historians generally read the developed papal claims as a later growth. Describing the early church flatly as having no papal supremacy adopts one side of that argument as though it were plain fact, and a Catholic reader would rightly object[^10].
+      **A contested point, stated as contested.** How much authority the bishop of Rome held in this period is one of the genuinely disputed questions in church history, and it is not settled by description. Catholic historians point to the Petrine texts, to Clement of Rome writing to Corinth at the end of the first century, to Irenaeus on the pre-eminence of the Roman church, and to Leo's intervention at Chalcedon, arguing that a primacy was present from the start and later articulated rather than invented. Orthodox historians accept a primacy of honour among equals while denying universal jurisdiction. Protestant historians generally read the developed papal claims as a later growth. Describing the early church flatly as having no papal supremacy adopts one side of that argument as though it were plain fact, and a Catholic reader would rightly object[^12].
 
-      **Distinctive Features:** House churches, bishop-led communities, emphasis on apostolic teaching and fellowship[^11]`,
+      **Distinctive Features:** House churches, bishop-led communities, emphasis on apostolic teaching and fellowship[^13]`,
     },
     {
       id: "romanCatholic",
       title: "Roman Catholic Church",
       tags: ["catholic", "traditional", "papal"],
-      content: `**Founded:** Gradual development, with papal supremacy solidifying from the 4th-11th centuries[^12][^13]
+      content: `**Founded:** Gradual development, with papal supremacy solidifying from the 4th-11th centuries[^14]
 
       **Key Beliefs:**
 
-      • **Papal supremacy:** The Pope (Bishop of Rome) has ultimate, universal authority over the Church[^14]
+      • **Papal supremacy:** The Pope (Bishop of Rome) has ultimate, universal authority over the Church[^15]
 
-      • **Seven sacraments:** Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony[^15][^16]
+      • **Seven sacraments:** Baptism, Confirmation, Eucharist, Penance, Anointing, Holy Orders, Matrimony[^16]
 
       • **Scripture + Tradition + Magisterium:** Authority from the Bible, tradition, and the teaching office of the Church[^17]
 
@@ -341,15 +349,15 @@ export const branches: Topic = {
 
       • **Celibate clergy:** Priests and bishops must remain unmarried (in the Latin Rite)[^22]
 
-      **Historical Development:** Evolved from the early Catholic church with increasing papal authority, especially after the fall of the Western Roman Empire[^23] and the East-West Schism (1054 AD)[^24].
+      **Historical Development:** Evolved from the early Catholic church with increasing papal authority, especially after the fall of the Western Roman Empire and the East-West Schism (1054 AD)[^23].
 
-      **Distinctive Practices:** Mass, confession to priests, extensive liturgical calendar, Vatican authority, elaborate church hierarchy[^25]`,
+      **Distinctive Practices:** Mass, confession to priests, extensive liturgical calendar, Vatican authority, elaborate church hierarchy[^24]`,
     },
     {
       id: "orientalOrthodox",
       title: "Oriental Orthodox",
       tags: ["orthodox", "traditional"],
-      content: `**Founded:** c. 451 AD (split at Council of Chalcedon)[^26]
+      content: `**Founded:** c. 451 AD (split at Council of Chalcedon)[^25][^26]
 
       **Key Beliefs:**
 
@@ -423,23 +431,23 @@ export const branches: Topic = {
 
       **Key Beliefs:**
 
-      • **Justification by faith alone:** Salvation by grace through faith, not works (sola fide)[^56]
+      • **Justification by faith alone:** Salvation by grace through faith, not works (sola fide)[^56][^57]
 
-      • **Scripture alone:** Bible is the sole infallible authority (sola scriptura)[^57]
+      • **Scripture alone:** Bible is the sole infallible authority (sola scriptura)[^58]
 
-      • **Sacramental Union:** Christ is truly present "in, with, and under" the bread and wine; outsiders often call this consubstantiation, a term Lutheran theologians reject[^58]
+      • **Sacramental Union:** Christ is truly present "in, with, and under" the bread and wine; outsiders often call this consubstantiation, a term Lutheran theologians reject[^59]
 
-      • **Two sacraments:** Baptism and Communion as primary sacraments[^59]
+      • **Two sacraments:** Baptism and Communion as primary sacraments[^60]
 
-      • **Liturgical worship:** Maintains traditional liturgical structure (though varies)[^60]
+      • **Liturgical worship:** Maintains traditional liturgical structure (though varies)[^61]
 
-      • **Grace alone:** Salvation is entirely God's unmerited work (sola gratia)[^61]
+      • **Grace alone:** Salvation is entirely God's unmerited work (sola gratia)[^62]
 
-      • **Priesthood of all believers:** All Christians have direct access to God[^62]
+      • **Priesthood of all believers:** All Christians have direct access to God[^63]
 
-      **Distinctive Features:** Lutheran Confessions (Book of Concord, Augsburg Confession)[^63], liturgical calendar, infant baptism[^64].
+      **Distinctive Features:** Lutheran Confessions (Book of Concord, Augsburg Confession)[^64], liturgical calendar, infant baptism[^65].
 
-      **Major Bodies:** Lutheran World Federation[^65], Lutheran Church–Missouri Synod, Wisconsin Evangelical Lutheran Synod[^66]`,
+      **Major Bodies:** Lutheran World Federation, Lutheran Church–Missouri Synod, Wisconsin Evangelical Lutheran Synod[^66]`,
     },
     {
       id: "Reformed/Presbyterian",
@@ -465,7 +473,7 @@ export const branches: Topic = {
 
       **Church Government:** Presbyterian system with sessions, presbyteries, and general assemblies[^75]
 
-      **Major Bodies:** Presbyterian Church (USA)[^76], Orthodox Presbyterian Church, World Communion of Reformed Churches[^77]`,
+      **Major Bodies:** Presbyterian Church (USA), Orthodox Presbyterian Church[^76], World Communion of Reformed Churches[^77]`,
     },
     {
       id: "Anabaptist",
@@ -485,11 +493,11 @@ export const branches: Topic = {
 
       • **Community discipline:** Strong emphasis on church discipline ("the ban") and mutual accountability[^83]
 
-      • **Biblical literalism:** Direct application of New Testament teachings, especially the Sermon on the Mount[^84]
+      • **Biblical literalism:** Direct application of New Testament teachings, especially the Sermon on the Mount[^84][^85]
 
-      • **Voluntary faith:** Faith cannot be coerced or inherited[^85]
+      • **Voluntary faith:** Faith cannot be coerced or inherited[^86]
 
-      **Modern Descendants:** Mennonites[^86], Amish, Hutterites, Brethren churches[^87]
+      **Modern Descendants:** Mennonites, Amish, Hutterites, Brethren churches[^87]
 
       **Historical Note:** Heavily persecuted by both Catholics and other Protestants[^88]`,
     },
@@ -515,465 +523,463 @@ export const branches: Topic = {
 
       • **Married clergy:** Priests and bishops can marry[^96]
 
-      **Global Communion:** Church of England, Episcopal Church (USA)[^97], Anglican churches worldwide[^98]
+      **Global Communion:** Church of England, Episcopal Church (USA), Anglican churches worldwide[^97]
 
-      **Distinctive Features:** Cathedrals, choral tradition, theological diversity within unity[^99]`,
+      **Distinctive Features:** Cathedrals, choral tradition, theological diversity within unity[^98]`,
     },
     {
       id: "Baptist",
       title: "Baptist",
       tags: ["protestant"],
-      content: `**Founded:** 1609 AD (Amsterdam, John Smyth)[^100]
+      content: `**Founded:** 1609 AD (Amsterdam, John Smyth)[^99]
 
       **Key Beliefs:**
 
-      • **Believer's baptism:** Baptism by full immersion only after personal faith decision[^101]
+      • **Believer's baptism:** Baptism by full immersion only after personal faith decision[^100]
 
-      • **Local church autonomy:** Each congregation is independent and self-governing[^102]
+      • **Local church autonomy:** Each congregation is independent and self-governing[^101]
 
-      • **Biblical authority:** Scripture alone as the final authority (sola scriptura)[^103]
+      • **Biblical authority:** Scripture alone as the final authority (sola scriptura)[^102]
 
-      • **Priesthood of believers:** Every Christian has direct access to God[^104]
+      • **Priesthood of believers:** Every Christian has direct access to God[^103]
 
-      • **Religious liberty:** Strong advocate for freedom of conscience and separation of church and state[^105]
+      • **Religious liberty:** Strong advocate for freedom of conscience and separation of church and state[^104]
 
-      • **Evangelism:** Strong emphasis on personal evangelism and missions[^106]
+      • **Evangelism:** Strong emphasis on personal evangelism and missions[^105]
 
-      • **Congregational polity:** Democratic church governance[^107]
+      • **Congregational polity:** Democratic church governance[^106]
 
-      **Major Groups:** Southern Baptist Convention, American Baptist Churches, Independent Baptist churches[^108]
+      **Major Groups:** Southern Baptist Convention, American Baptist Churches, Independent Baptist churches[^107]
 
-      **Cultural Impact:** Historically influential in religious freedom movements[^109]`,
+      **Cultural Impact:** Historically influential in religious freedom movements[^108]`,
     },
     {
       id: "Methodist",
       title: "Methodist",
       tags: ["protestant"],
-      content: `**Founded:** 18th century (John Wesley's revival movement)[^110]
+      content: `**Founded:** 18th century (John Wesley's revival movement)[^109]
 
       **Key Beliefs:**
 
-      • **Prevenient grace:** God's grace is available to all people, enabling them to respond to Him[^111]
+      • **Prevenient grace:** God's grace is available to all people, enabling them to respond to Him[^110]
 
-      • **Arminian soteriology:** Humans have free will to accept or reject salvation[^112]
+      • **Arminian soteriology:** Humans have free will to accept or reject salvation[^111]
 
-      • **Social holiness:** Personal holiness must lead to social action and justice[^113]
+      • **Social holiness:** Personal holiness must lead to social action and justice[^112]
 
-      • **Perfectionism:** Christians can achieve "Christian perfection" (sanctification) in this life[^114]
+      • **Perfectionism:** Christians can achieve "Christian perfection" (sanctification) in this life[^113]
 
-      • **Means of grace:** Emphasizes spiritual growth through scripture, sacraments, prayer, and fellowship[^115]
+      • **Means of grace:** Emphasizes spiritual growth through scripture, sacraments, prayer, and fellowship[^114]
 
-      • **Methodist quadrilateral:** Authority based on Scripture (primary), tradition, reason, and experience[^116]
+      • **Methodist quadrilateral:** Authority based on Scripture (primary), tradition, reason, and experience[^115]
 
-      • **Social justice:** Strong emphasis on helping the poor and marginalized[^117]
+      • **Social justice:** Strong emphasis on helping the poor and marginalized[^116]
 
-      **Historical Impact:** Abolition movement, temperance, civil rights[^118]
+      **Historical Impact:** Abolition movement, temperance, civil rights[^117]
 
-      **Major Bodies:** United Methodist Church[^119], Free Methodist, African Methodist Episcopal Church (AME)[^120]`,
+      **Major Bodies:** United Methodist Church, Free Methodist, African Methodist Episcopal Church (AME)[^118]`,
     },
     {
       id: "Pentecostal",
       title: "Pentecostal",
       tags: ["protestant", "charismatic"],
-      content: `**Founded:** Early 1900s (Azusa Street Revival, Los Angeles)[^121]
+      content: `**Founded:** Early 1900s (Azusa Street Revival, Los Angeles)[^119]
 
       **Key Beliefs:**
 
-      • **Baptism in the Holy Spirit:** A distinct experience after salvation, evidenced by speaking in tongues[^122]
+      • **Baptism in the Holy Spirit:** A distinct experience after salvation, evidenced by speaking in tongues[^120]
 
-      • **Spiritual gifts:** Emphasis on all nine gifts of the Spirit (1 Corinthians 12) for today[^123]
+      • **Spiritual gifts:** Emphasis on all nine gifts of the Spirit (1 Corinthians 12) for today[^121]
 
-      • **Divine healing:** God heals today through prayer and faith[^124]
+      • **Divine healing:** God heals today through prayer and faith[^122]
 
-      • **Prosperity teaching:** God desires believers to be healthy and prosperous (common, but not universal)[^125]
+      • **Prosperity teaching:** God desires believers to be healthy and prosperous (common, but not universal)[^123]
 
-      • **Premillennialism:** Belief that Jesus will return before the millennium[^126]
+      • **Premillennialism:** Belief that Jesus will return before the millennium[^124]
 
-      • **Personal experience:** Direct, personal relationship with God through the Spirit[^127]
+      • **Personal experience:** Direct, personal relationship with God through the Spirit[^125]
 
-      • **Evangelistic fervor:** Strong emphasis on missions and church planting[^128]
+      • **Evangelistic fervor:** Strong emphasis on missions and church planting[^126]
 
-      **Global Movement:** One of the fastest-growing Christian movements worldwide[^129]
+      **Global Movement:** One of the fastest-growing Christian movements worldwide[^127]
 
-      **Major Bodies:** Assemblies of God[^130], Church of God in Christ, Foursquare Church[^131]`,
+      **Major Bodies:** Assemblies of God, Church of God in Christ, Foursquare Church[^128]`,
     },
     {
       id: "Restorationist",
       title: "Restorationist",
       tags: ["protestant", "restoration"],
-      content: `**Founded:** 1800s onwards (Stone-Campbell Movement and others)[^132]
+      content: `**Founded:** 1800s onwards (Stone-Campbell Movement and others)[^129][^130]
 
       **Key Beliefs:**
 
-      • **Primitive Christianity:** Attempt to restore New Testament Christianity exactly, bypassing tradition[^133]
+      • **Primitive Christianity:** Attempt to restore New Testament Christianity exactly, bypassing tradition[^131]
 
-      • **No creeds:** "No creed but Christ, no book but the Bible"[^134]
+      • **No creeds:** "No creed but Christ, no book but the Bible"[^132]
 
-      • **Biblical patterns:** Strict adherence to perceived New Testament patterns for worship and structure[^135]
+      • **Biblical patterns:** Strict adherence to perceived New Testament patterns for worship and structure[^133]
 
-      • **Unity movement:** Seeks to unite all Christians by returning to biblical basics[^136]
+      • **Unity movement:** Seeks to unite all Christians by returning to biblical basics[^134]
 
-      **Major Groups:** Churches of Christ, Christian Church (Disciples of Christ), and the independent Christian churches and churches of Christ[^137].
+      **Major Groups:** Churches of Christ, Christian Church (Disciples of Christ), and the independent Christian churches and churches of Christ[^135].
 
-      **Note:** Other groups like Latter-day Saints and Jehovah's Witnesses also originated in this period with a "restoration" goal, but are considered non-orthodox by mainstream Christianity (see 'Other Movements').[^138]`,
+      **Note:** Other groups like Latter-day Saints and Jehovah's Witnesses also originated in this period with a "restoration" goal, but are considered non-orthodox by mainstream Christianity (see 'Other Movements').[^136]`,
     },
     {
       id: "Episcopal",
       title: "Episcopal",
       tags: ["anglican", "protestant"],
-      content: `**Founded:** 1789 AD (American Episcopal Church formed after American Revolution)[^139]
+      content: `**Founded:** 1789 AD (American Episcopal Church formed after American Revolution)[^137]
 
       **Key Beliefs:**
 
-      • **Anglican tradition:** Part of the worldwide Anglican Communion (USA branch)[^140]
+      • **Anglican tradition:** Part of the worldwide Anglican Communion (USA branch)[^138]
 
-      • **Via media:** "Middle way" between Catholicism and Protestantism[^141]
+      • **Via media:** "Middle way" between Catholicism and Protestantism[^139]
 
-      • **Episcopal governance:** Led by bishops in apostolic succession[^142]
+      • **Episcopal governance:** Led by bishops in apostolic succession[^140]
 
-      • **Book of Common Prayer:** Liturgical worship with structured prayers[^143]
+      • **Book of Common Prayer:** Liturgical worship with structured prayers[^141]
 
-      • **Broad theological spectrum:** Includes Anglo-Catholic, Evangelical, and Liberal traditions[^144]
+      • **Broad theological spectrum:** Includes Anglo-Catholic, Evangelical, and Liberal traditions[^142]
 
-      • **Social justice:** Strong emphasis on social issues and inclusion[^145]
+      • **Social justice:** Strong emphasis on social issues and inclusion[^143]
 
-      • **Ordination of women:** Ordains women as priests and bishops[^146]
+      • **Ordination of women:** Ordains women as priests and bishops[^144]
 
-      • **LGBTQ+ inclusion:** Generally affirming of LGBTQ+ individuals and clergy[^147]
+      • **LGBTQ+ inclusion:** Generally affirming of LGBTQ+ individuals and clergy[^145]
 
-      **Distinctive Features:** Beautiful liturgy, cathedral tradition, theological education emphasis[^148]`,
+      **Distinctive Features:** Beautiful liturgy, cathedral tradition, theological education emphasis[^146]`,
     },
     {
       id: "quakers",
       title: "Quakers (Religious Society of Friends)",
       tags: ["other", "modern", "pacifist"],
-      content: `**Founded:** c. 1650s (George Fox, England)[^149]
+      content: `**Founded:** c. 1650s (George Fox, England)[^147]
 
       **Key Beliefs:**
 
-      • **Inner Light:** Emphasize the "inner light" of God in every person[^150]
+      • **Inner Light:** Emphasize the "inner light" of God in every person[^148]
 
-      • **Unprogrammed Worship:** Often meet in silent worship, waiting for the Holy Spirit to move members to speak[^151]
+      • **Unprogrammed Worship:** Often meet in silent worship, waiting for the Holy Spirit to move members to speak[^149]
 
-      • **No Sacraments:** Traditionally do not practice physical sacraments like baptism or communion, seeing all of life as sacramental[^152]
+      • **No Sacraments:** Traditionally do not practice physical sacraments like baptism or communion, seeing all of life as sacramental[^150]
 
-      • **Peace Testimony:** Historic commitment to pacifism and non-violence[^153]
+      • **Peace Testimony:** Historic commitment to pacifism and non-violence[^151]
 
-      • **Equality:** Strong belief in the equality of all people, leading to advocacy for abolition, women's rights, etc.[^154]
+      • **Equality:** Strong belief in the equality of all people, leading to advocacy for abolition, women's rights, etc.[^152]
 
-      **Distinctive Features:** Testimonies (Simplicity, Peace, Integrity, Community, Equality), decision-making by "sense of the meeting" (seeking unity)[^155]`,
+      **Distinctive Features:** Testimonies (Simplicity, Peace, Integrity, Community, Equality), decision-making by "sense of the meeting" (seeking unity)[^153]`,
     },
     {
       id: "seventhDayAdventist",
       title: "Seventh-day Adventist",
       tags: ["other", "modern", "restorationist"],
-      content: `**Founded:** 1863 (USA, from Millerite movement)[^156]
+      content: `**Founded:** 1863 (USA, from Millerite movement)[^154]
 
       **Key Beliefs:**
 
-      • **Seventh-day Sabbath:** Observance of the Sabbath on Saturday[^157]
+      • **Seventh-day Sabbath:** Observance of the Sabbath on Saturday[^155]
 
-      • **Second Coming:** Emphasis on the imminent literal return (Advent) of Christ[^158]
+      • **Second Coming:** Emphasis on the imminent literal return (Advent) of Christ[^156]
 
-      • **Health Message:** Focus on health and wellness, often including vegetarianism and abstinence from alcohol/tobacco[^159]
+      • **Health Message:** Focus on health and wellness, often including vegetarianism and abstinence from alcohol/tobacco[^157]
 
-      • **Ellen G. White:** Regard her writings as an authoritative source of truth, though subordinate to the Bible[^160]
+      • **Ellen G. White:** Regard her writings as an authoritative source of truth, though subordinate to the Bible[^158]
 
-      • **State of the Dead:** Belief in "soul sleep" (unconsciousness) between death and resurrection[^161]
+      • **State of the Dead:** Belief in "soul sleep" (unconsciousness) between death and resurrection[^159]
 
-      **Distinctive Features:** Large worldwide missions, hospital, and education systems[^162]; belief in an "investigative judgment" that began in 1844[^163]`,
+      **Distinctive Features:** Large worldwide missions, hospital, and education systems[^160]; belief in an "investigative judgment" that began in 1844[^161]`,
     },
     {
       id: "messianicJudaism",
       title: "Messianic Judaism",
       tags: ["other", "modern", "jewish"],
-      content: `**Founded:** Modern movement, 1960s-1970s[^164]
+      content: `**Founded:** Modern movement, 1960s-1970s[^162]
 
       **Key Beliefs:**
 
-      • **Jesus as Messiah:** Jewish believers who accept Jesus (Yeshua) as the promised Messiah of Israel[^165]
+      • **Jesus as Messiah:** Jewish believers who accept Jesus (Yeshua) as the promised Messiah of Israel[^163]
 
-      • **Jewish Identity:** Maintain Jewish identity, customs, and holidays (e.g., Passover, Yom Kippur)[^166]
+      • **Jewish Identity:** Maintain Jewish identity, customs, and holidays (e.g., Passover, Yom Kippur)[^164]
 
-      • **Torah Observance:** Varies, but many observe aspects of the Torah as a sign of cultural identity and obedience, not for salvation[^167]
+      • **Torah Observance:** Varies, but many observe aspects of the Torah as a sign of cultural identity and obedience, not for salvation[^165]
 
-      • **Trinity:** Most (but not all) Messianic Jews adhere to the doctrine of the Trinity[^168]
+      • **Trinity:** Most (but not all) Messianic Jews adhere to the doctrine of the Trinity[^166]
 
-      **Distinctive Features:** Synagogue-style worship, use of Hebrew, bridging Jewish and Christian theology[^169]. Not recognized as Judaism by mainstream Jewish movements[^170].`,
+      **Distinctive Features:** Synagogue-style worship, use of Hebrew, bridging Jewish and Christian theology[^167]. Not recognized as Judaism by mainstream Jewish movements[^168].`,
     },
     {
       id: "nonDenominational",
       title: "Non-denominational / Other Movements",
       tags: ["other", "modern", "independent"],
-      content: `**Founded:** 20th century onwards (especially in the USA)[^171]
+      content: `**Founded:** 20th century onwards (especially in the USA)[^169]
 
       **Key Beliefs (General):**
 
-      • **No Denominational Ties:** Reject formal ties to historic denominations and their hierarchies[^172]
+      • **No Denominational Ties:** Reject formal ties to historic denominations and their hierarchies[^170]
 
-      • **Local Church Autonomy:** Emphasize independence and self-governance[^173]
+      • **Local Church Autonomy:** Emphasize independence and self-governance[^171]
 
-      • **Bible-Centered:** Strongly Bible-focused, usually with an evangelical theology (similar to Baptist or Pentecostal beliefs)[^174]
+      • **Bible-Centered:** Strongly Bible-focused, usually with an evangelical theology (similar to Baptist or Pentecostal beliefs)[^172]
 
-      • **Contemporary Worship:** Often characterized by modern music and informal service styles[^175]
+      • **Contemporary Worship:** Often characterized by modern music and informal service styles[^173]
 
       **Related Movements:**
 
-      • **House Church Movement:** Focuses on simple, small-group meetings in homes, emphasizing community and mimicking the New Testament model[^176].
+      • **House Church Movement:** Focuses on simple, small-group meetings in homes, emphasizing community and mimicking the New Testament model[^174].
 
-      • **Emerging Church:** A postmodern movement questioning traditional evangelical structures and embracing social justice and deconstructed faith[^177].
+      • **Emerging Church:** A postmodern movement questioning traditional evangelical structures and embracing social justice and deconstructed faith[^175].
 
       **A Note on Orthodox Classification:**
 
-      Some movements, while claiming Christian identity, are considered outside orthodox Christianity by Catholic, Orthodox, and Protestant groups due to fundamental doctrinal differences. This includes groups like **Latter-day Saints (Mormons)**[^178] and **Jehovah's Witnesses** (which have unique restorationist claims and non-Trinitarian theology)[^179], and **Unitarian Universalists**, who have Christian roots but now embrace a pluralistic, non-creedal faith that rejects the Trinity[^180].`,
+      Some movements, while claiming Christian identity, are considered outside orthodox Christianity by Catholic, Orthodox, and Protestant groups due to fundamental doctrinal differences. This includes groups like **Latter-day Saints (Mormons)**[^176] and **Jehovah's Witnesses** (which have unique restorationist claims and non-Trinitarian theology)[^177], and **Unitarian Universalists**, who have Christian roots but now embrace a pluralistic, non-creedal faith that rejects the Trinity[^178].`,
     },
     {
       id: "waldensian",
       title: "Waldensians",
       tags: ["pre-reformation", "traditional", "protestant"],
-      content: `**Founded:** c. 1173 AD (Peter Waldo, France)[^181]
+      content: `**Founded:** c. 1173 AD (Peter Waldo, France)[^179]
 
       **Key Beliefs:**
 
-      • **Pre-Reformation Protestantism:** Emphasized lay preaching, voluntary poverty, and the authority of scripture centuries before Martin Luther[^182]
+      • **Pre-Reformation Protestantism:** Emphasized lay preaching, voluntary poverty, and the authority of scripture centuries before Martin Luther[^180]
 
-      • **Calvinist Alignment:** Formally merged into the Reformed (Calvinist) tradition during the Swiss Reformation in 1532[^183]
+      • **Calvinist Alignment:** Formally merged into the Reformed (Calvinist) tradition during the Swiss Reformation in 1532[^181]
 
-      • **Priesthood of Believers:** Rejects papal authority and Catholic church hierarchies in favor of scriptural authority[^184]
+      • **Priesthood of Believers:** Rejects papal authority and Catholic church hierarchies in favor of scriptural authority[^182]
 
-      **Distinctive Features:** Survived centuries of severe persecution in the Alpine valleys of Italy. Today, they form the Waldensian Evangelical Church[^185].`,
+      **Distinctive Features:** Survived centuries of severe persecution in the Alpine valleys of Italy. Today, they form the Waldensian Evangelical Church[^183].`,
     },
     {
       id: "moravian",
       title: "Moravian Church (Unitas Fratrum)",
       tags: ["pre-reformation", "traditional", "protestant"],
-      content: `**Founded:** 1457 AD (Bohemian Reformation, inspired by Jan Hus)[^186]
+      content: `**Founded:** 1457 AD (Bohemian Reformation, inspired by Jan Hus)[^184]
 
       **Key Beliefs:**
 
-      • **Jan Hus Influence:** Traces roots to the Hussite movement which challenged papal authority, liturgical language, and communion practices prior to the Reformation[^187]
+      • **Jan Hus Influence:** Traces roots to the Hussite movement which challenged papal authority, liturgical language, and communion practices prior to the Reformation[^185]
 
-      • **Herrnhut Revival:** Renewed in 1727 under Count Zinzendorf, leading to a famous 100-year continuous prayer vigil[^188]
+      • **Herrnhut Revival:** Renewed in 1727 under Count Zinzendorf, leading to a famous 100-year continuous prayer vigil[^186]
 
-      • **Global Missions:** Pioneered modern Protestant foreign missions, sending missionaries worldwide in the 18th century[^189]
+      • **Global Missions:** Pioneered modern Protestant foreign missions, sending missionaries worldwide in the 18th century[^187]
 
-      **Distinctive Features:** Often described as the oldest Protestant denomination still in existence, and known for adopting the motto "In essentials unity, in non-essentials liberty, in all things charity", which originated with the 17th-century Lutheran writer Rupertus Meldenius[^190].`,
+      **Distinctive Features:** Often described as the oldest Protestant denomination still in existence, and known for adopting the motto "In essentials unity, in non-essentials liberty, in all things charity", which originated with the 17th-century Lutheran writer Rupertus Meldenius[^188].`,
     },
     {
       id: "congregationalist",
       title: "Congregationalists",
       tags: ["protestant", "puritan"],
-      content: `**Founded:** c. 1580s AD (Puritan Separatists, England)[^191]
+      content: `**Founded:** c. 1580s AD (Puritan Separatists, England)[^189]
 
       **Key Beliefs:**
 
-      • **Local Autonomy:** Rejects both episcopal (bishop) and presbyterian (elder council) hierarchies; each local congregation is fully independent and self-governing under Christ[^192]
+      • **Local Autonomy:** Rejects both episcopal (bishop) and presbyterian (elder council) hierarchies; each local congregation is fully independent and self-governing under Christ[^190]
 
-      • **Puritan Roots:** Developed by English Puritans who wanted to simplify worship and purify the church of Catholic-style rituals[^193]
+      • **Puritan Roots:** Developed by English Puritans who wanted to simplify worship and purify the church of Catholic-style rituals[^191]
 
-      • **Cambridge Platform (1648):** Established church government rules for early American Congregationalists[^194]
+      • **Cambridge Platform (1648):** Established church government rules for early American Congregationalists[^192]
 
-      **Distinctive Features:** Heavily influenced the settlement of colonial New England (including the Pilgrims)[^195]. Highly democratic church governance[^196].`,
+      **Distinctive Features:** Heavily influenced the settlement of colonial New England (including the Pilgrims)[^193]. Highly democratic church governance[^194].`,
     },
   ],
 
           sources: [
-    "1. [Catholic Reference] New Advent, Catholic Encyclopedia. '03449a.' https://www.newadvent.org/cathen/03449a.htm",
+    "1. [Academic] World History Encyclopedia - Christianity. 'Academic overview of Christian historical development.' https://www.worldhistory.org/Christianity/",
     "2. [Encyclopedia] Britannica - Apostolic Succession. 'Doctrine of apostolic succession.' https://www.britannica.com/topic/apostolic-succession",
     "3. [Religious Encyclopedia] New Advent - Sacraments. 'Catholic perspective on the sacraments.' https://www.newadvent.org/cathen/13295a.htm",
-    "4. [Academic] World History Encyclopedia - Christianity. 'Academic overview of Christian historical development.' https://www.worldhistory.org/Christianity/",
-    "5. [Primary Source] Schaff, Creeds of Christendom. 'The Apostles' Creed.' https://www.ccel.org/ccel/schaff/creeds1.iv.ii.html",
-    "6. [Primary Source] Schaff, Creeds of Christendom. 'The Nicene Creed.' https://www.ccel.org/ccel/schaff/creeds1.iv.iii.html",
-    "7. [Primary Source] Schaff, Creeds of Christendom. 'The Creed of Chalcedon.' https://www.ccel.org/ccel/schaff/creeds1.iv.iv.html",
-    "8. [Primary Source] Schaff, Creeds of Christendom. 'The Athanasian Creed.' https://www.ccel.org/ccel/schaff/creeds1.iv.v.html",
-    "9. [Primary Source] Schaff, Creeds of Christendom. 'General Character of the Oecumenical Creeds.' https://www.ccel.org/ccel/schaff/creeds1.iv.i.html",
-    "10. [Primary Source] Schaff, Creeds of Christendom. 'The Origin of Creeds.' https://www.ccel.org/ccel/schaff/creeds1.iii.ii.html",
-    "11. [Primary Source] Schaff, Creeds of Christendom. 'The Authority of Creeds.' https://www.ccel.org/ccel/schaff/creeds1.iii.iii.html",
-    "12. [Encyclopedia] Britannica - Roman Catholicism. 'Academic overview of Roman Catholic doctrine, history, and organization.' https://www.britannica.com/topic/Roman-Catholicism",
-    "13. [Reference] Vatican. 'Index.htm.' https://www.vatican.va/archive/ENG0015/_INDEX.HTM",
-    "14. [Primary Source] Schaff, Creeds of Christendom. 'The Canons and Decrees of the Council of Trent.' https://www.ccel.org/ccel/schaff/creeds1.vi.iii.html",
-    "15. [Official Church] Catechism of the Catholic Church. 'The Seven Sacraments.' https://www.vatican.va/archive/ENG0015/__P3E.HTM",
-    "16. [Catholic Reference] New Advent, Catholic Encyclopedia. '12260a.' https://www.newadvent.org/cathen/12260a.htm",
+    "4. [Catholic Reference] New Advent, Catholic Encyclopedia. Tradition and Living Magisterium. https://www.newadvent.org/cathen/15006b.htm",
+    "5. [Catholic Reference] New Advent, Catholic Encyclopedia. Bishop. https://www.newadvent.org/cathen/02581b.htm",
+    "6. [Catholic Reference] New Advent, Catholic Encyclopedia. Patriarch and Patriarchate. https://www.newadvent.org/cathen/11549a.htm",
+    "7. [Religious Organization] Orthodox Council. 'The Ecumenical Patriarchate.' https://www.orthodoxcouncil.org/ecumenical-patriarchate.html",
+    "8. [Primary Source] Schaff, Creeds of Christendom. 'The Nicene Creed.' https://www.ccel.org/ccel/schaff/creeds1.iv.iii.html",
+    "9. [Primary Source] Schaff, Creeds of Christendom. 'The Creed of Chalcedon.' https://www.ccel.org/ccel/schaff/creeds1.iv.iv.html",
+    "10. [Encyclopedia] Wikipedia. Persecution of Christians in the Roman Empire. https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire",
+    "11. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Catholic.' https://www.newadvent.org/cathen/03449a.htm",
+    "12. [Catholic Reference] New Advent, Catholic Encyclopedia. 'The Pope.' https://www.newadvent.org/cathen/12260a.htm",
+    "13. [Encyclopedia] Wikipedia. Early Christianity. https://en.wikipedia.org/wiki/Early_Christianity",
+    "14. [Encyclopedia] Britannica - Roman Catholicism. 'Academic overview of Roman Catholic doctrine, history, and organization.' https://www.britannica.com/topic/Roman-Catholicism",
+    "15. [Primary Source] Schaff, Creeds of Christendom. 'The Vatican Decrees, the Papal Infallibility Decree.' https://www.ccel.org/ccel/schaff/creeds1.vi.xii.html",
+    "16. [Official Church] Catechism of the Catholic Church. 'The Seven Sacraments.' https://www.vatican.va/archive/ENG0015/__P3E.HTM",
     "17. [Primary Source] Schaff, Creeds of Christendom. 'The Profession of the Tridentine Faith, 1564.' https://www.ccel.org/ccel/schaff/creeds1.vi.iv.html",
-    "18. [Primary Source] Schaff, Creeds of Christendom. 'The Roman Catechism, A.D. 1566.' https://www.ccel.org/ccel/schaff/creeds1.vi.v.html",
+    "18. [Primary Source] Schaff, Creeds of Christendom. 'The Canons and Decrees of the Council of Trent.' https://www.ccel.org/ccel/schaff/creeds1.vi.iii.html",
     "19. [Religious Encyclopedia] New Advent - Intercession of Saints. 'Catholic doctrine on the intercession of saints.' https://www.newadvent.org/cathen/08070a.htm",
     "20. [Encyclopedia] Britannica - Transubstantiation. 'Definition and explanation of transubstantiation.' https://www.britannica.com/topic/transubstantiation",
     "21. [Religious Encyclopedia] New Advent - Purgatory. 'Catholic doctrine of purgatory.' https://www.newadvent.org/cathen/12575a.htm",
-    "22. [Primary Source] Schaff, Creeds of Christendom. 'The Vatican Decrees, Constitution of the Catholic Faith.' https://www.ccel.org/ccel/schaff/creeds1.vi.xi.html",
-    "23. [Primary Source] Schaff, Creeds of Christendom. 'The Vatican Decrees, the Papal Infallibility Decree.' https://www.ccel.org/ccel/schaff/creeds1.vi.xii.html",
-    "24. [Primary Source] Schaff, Creeds of Christendom. 'The Papal Syllabus, A.D. 1864.' https://www.ccel.org/ccel/schaff/creeds1.vi.ix.html",
-    "25. [Primary Source] Schaff, Creeds of Christendom. 'The Creeds of the Roman Church.' https://www.ccel.org/ccel/schaff/creeds1.vi.html",
-    "26. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Eutychianism.' https://www.newadvent.org/cathen/05633a.htm",
-    "27. [Primary Source] Schaff, Creeds of Christendom. 'The Symbol of Chalcedon.' https://www.ccel.org/ccel/schaff/creeds2.iv.i.iii.html",
+    "22. [Catholic Reference] New Advent, Catholic Encyclopedia. Celibacy of the Clergy. https://www.newadvent.org/cathen/03481a.htm",
+    "23. [Encyclopedia] Wikipedia. History of the papacy. https://en.wikipedia.org/wiki/History_of_the_papacy",
+    "24. [Encyclopedia] Wikipedia. Catholic Church. https://en.wikipedia.org/wiki/Catholic_Church",
+    "25. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Monophysites and Monophysitism.' https://www.newadvent.org/cathen/10489b.htm",
+    "26. [Primary Source] Schaff, Creeds of Christendom. 'The Symbol of Chalcedon.' https://www.ccel.org/ccel/schaff/creeds2.iv.i.iii.html",
+    "27. [Encyclopedia] Wikipedia. Miaphysitism. https://en.wikipedia.org/wiki/Miaphysitism",
     "28. [Encyclopedia] Britannica - Oriental Orthodox church. 'Overview of the tradition.' https://www.britannica.com/topic/Oriental-Orthodox-church",
-    "29. [Encyclopedia] Wikipedia. 'Malankara Orthodox Syrian Church.' https://en.wikipedia.org/wiki/Malankara_Orthodox_Syrian_Church",
-    "30. [Encyclopedia] Wikipedia. 'Cyril of Alexandria.' https://en.wikipedia.org/wiki/Cyril_of_Alexandria",
-    "31. [Encyclopedia] Wikipedia. 'Monophysitism.' https://en.wikipedia.org/wiki/Monophysitism",
+    "29. [Wikipedia] Liturgy of Saint James. 'An ancient Christian liturgy used by Oriental Orthodox.' https://en.wikipedia.org/wiki/Liturgy_of_Saint_James",
+    "30. [Encyclopedia] Wikipedia. Papal primacy. https://en.wikipedia.org/wiki/Primacy_of_the_Bishop_of_Rome",
+    "31. [Encyclopedia] Wikipedia. 'Oriental Orthodox Churches.' https://en.wikipedia.org/wiki/Oriental_Orthodoxy",
     "32. [Encyclopedia] Wikipedia. 'Christianity in Ethiopia.' https://en.wikipedia.org/wiki/Christianity_in_Ethiopia",
-    "33. [Catholic Reference] New Advent, Catholic Encyclopedia. '10489b.' https://www.newadvent.org/cathen/10489b.htm",
-    "34. [Encyclopedia] Wikipedia. 'Oriental Orthodoxy.' https://en.wikipedia.org/wiki/Oriental_Orthodoxy",
-    "35. [Encyclopedia] Wikipedia. 'Fasting in Christianity.' https://en.wikipedia.org/wiki/Fasting_in_Christianity",
-    "36. [Wikipedia] Liturgy of Saint James. 'An ancient Christian liturgy used by Oriental Orthodox.' https://en.wikipedia.org/wiki/Liturgy_of_Saint_James",
-    "37. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Nestorius and Nestorianism.' https://www.newadvent.org/cathen/10755a.htm",
-    "38. [Catholic Reference] New Advent, Catholic Encyclopedia. 'East Syrian Rite.' https://www.newadvent.org/cathen/14413a.htm",
+    "33. [Encyclopedia] Wikipedia. Coptic Orthodox Church. https://en.wikipedia.org/wiki/Coptic_Orthodox_Church",
+    "34. [Encyclopedia] Wikipedia. Armenian Apostolic Church. https://en.wikipedia.org/wiki/Armenian_Apostolic_Church",
+    "35. [Encyclopedia] Wikipedia. Syriac Orthodox Church. https://en.wikipedia.org/wiki/Syriac_Orthodox_Church",
+    "36. [Encyclopedia] Wikipedia. 'Religious fasting.' https://en.wikipedia.org/wiki/Fasting_in_Christianity",
+    "37. [Encyclopedia] Wikipedia. Church of the East. https://en.wikipedia.org/wiki/Church_of_the_East",
+    "38. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Nestorius and Nestorianism.' https://www.newadvent.org/cathen/10755a.htm",
     "39. [Academic Article] ResearchGate. 'The Church of the East: A Concise History.' https://www.researchgate.net/publication/293179513_The_Church_of_the_East_A_Concise_History",
-    "40. [Academic] World History Encyclopedia - Assyrian Church of the East. 'Independent development.' https://www.worldhistory.org/Assyrian_Church_of_the_East/",
-    "41. [Catholic Reference] New Advent, Catholic Encyclopedia. 'The Eastern Schism.' https://www.newadvent.org/cathen/13535a.htm",
-    "42. [Encyclopedia] Wikipedia. 'Married Clergy.' https://en.wikipedia.org/wiki/Married_clergy",
+    "40. [Encyclopedia] Wikipedia. Nestorianism. https://en.wikipedia.org/wiki/Nestorianism",
+    "41. [Catholic Reference] New Advent, Catholic Encyclopedia. 'East Syrian Rite.' https://www.newadvent.org/cathen/14413a.htm",
+    "42. [Encyclopedia] Wikipedia. 'Clerical marriage.' https://en.wikipedia.org/wiki/Married_clergy",
     "43. [Encyclopedia] Wikipedia. 'Ancient Church of the East.' https://en.wikipedia.org/wiki/Ancient_Church_of_the_East",
-    "44. [Academic/Public] PBS Frontline - From Jesus to Christ. 'Map and history of its expansion.' https://www.pbs.org/wgbh/pages/frontline/shows/religion/",
+    "44. [Academic] Gorgias Encyclopedic Dictionary of the Syriac Heritage (Beth Mardutho). Church of the East. https://gedsh.bethmardutho.org/Church-of-the-East",
     "45. [Encyclopedia] Britannica - Schism of 1054. 'The Great Schism.' https://www.britannica.com/event/Schism-of-1054",
     "46. [Encyclopedia] Britannica - Eastern Orthodoxy. 'Structure and organization.' https://www.britannica.com/topic/Eastern-Orthodoxy",
     "47. [Official Church] Orthodox Church in America (OCA). 'The Sacraments.' https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments",
     "48. [Official Church] Saint Katherine Greek Orthodox Church. 'Scripture and Tradition.' https://stkatherineaz.org/holy-scripture-holy-tradition",
-    "49. [Primary Source] Schaff, Creeds of Christendom. 'The Orthodox Confession of Mogilas, A.D. 1643.' https://www.ccel.org/ccel/schaff/creeds1.v.vi.html",
-    "50. [Religious Organization] Orthodox Council. 'The Ecumenical Patriarchate.' https://www.orthodoxcouncil.org/ecumenical-patriarchate.html",
-    "51. [Primary Source] Schaff, Creeds of Christendom. 'The Synod of Jerusalem and the Confession of Dositheus.' https://www.ccel.org/ccel/schaff/creeds1.v.vii.html",
-    "52. [Primary Source] Schaff, Creeds of Christendom. 'The Confession of Gennadius, A.D. 1453.' https://www.ccel.org/ccel/schaff/creeds1.v.ii.html",
+    "49. [Encyclopedia] Wikipedia. Icon. https://en.wikipedia.org/wiki/Icon",
+    "50. [Catholic Reference] New Advent, Catholic Encyclopedia. 'The Eastern Schism.' https://www.newadvent.org/cathen/13535a.htm",
+    "51. [Encyclopedia] Wikipedia. Clerical celibacy. https://en.wikipedia.org/wiki/Clerical_celibacy",
+    "52. [Encyclopedia] Wikipedia. Theosis (Eastern Christian theology). https://en.wikipedia.org/wiki/Theosis_(Eastern_Christian_theology)",
     "53. [Religious Organization] World Council of Churches. 'Eastern Orthodox Churches.' https://www.oikoumene.org/church-families/orthodox-churches-eastern",
     "54. [Official Church] OCA. 'Worship.' https://www.oca.org/orthodoxy/the-orthodox-faith/worship",
-    "55. [Primary Source] Schaff, Creeds of Christendom. 'The Augsburg Confession, A.D. 1530.' https://www.ccel.org/ccel/schaff/creeds3.iii.ii.html",
+    "55. [Academic] World History Encyclopedia - Protestant Reformation. 'Overview of Reformation movements.' https://www.worldhistory.org/Protestant_Reformation",
     "56. [Encyclopedia] Britannica - Justification. 'Theological doctrine of justification by faith.' https://www.britannica.com/topic/justification-Christianity",
-    "57. [Primary Source] Schaff, Creeds of Christendom. 'Luther's Small Catechism, A.D. 1529.' https://www.ccel.org/ccel/schaff/creeds3.iii.iii.html",
-    "58. [Primary Source] Schaff, Creeds of Christendom. 'The Formula of Concord, A.D. 1576.' https://www.ccel.org/ccel/schaff/creeds3.iii.iv.html",
-    "59. [Primary Source] Schaff, Creeds of Christendom. 'The Apology of the Augsburg Confession.' https://www.ccel.org/ccel/schaff/creeds1.viii.iii.html",
-    "60. [Primary Source] Schaff, Creeds of Christendom. 'The Articles of Smalcald, A.D. 1537.' https://www.ccel.org/ccel/schaff/creeds1.viii.v.html",
-    "61. [Primary Source] Schaff, Creeds of Christendom. 'The Saxon Visitation Articles, A.D. 1592.' https://www.ccel.org/ccel/schaff/creeds3.iii.v.html",
-    "62. [Primary Source] Schaff, Creeds of Christendom. 'The Lutheran Confessions.' https://www.ccel.org/ccel/schaff/creeds1.viii.i.html",
-    "63. [Primary Source] Schaff, Creeds of Christendom. 'Luther's Catechisms, A.D. 1529.' https://www.ccel.org/ccel/schaff/creeds1.viii.iv.html",
-    "64. [Encyclopedia] Wikipedia. 'Lutheran Hymnody.' https://en.wikipedia.org/wiki/Lutheran_hymnody",
-    "65. [Encyclopedia] Wikipedia. 'Formula of Concord.' https://en.wikipedia.org/wiki/Formula_of_Concord",
-    "66. [Academic] World History Encyclopedia - Protestant Reformation. 'Overview of Reformation movements.' https://www.worldhistory.org/Protestant_Reformation",
-    "67. [Primary Source] Schaff, Creeds of Christendom. 'The Westminster Confession of Faith, A.D. 1647.' https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.html",
+    "57. [Primary Source] Schaff, Creeds of Christendom. 'The Augsburg Confession, A.D. 1530.' https://www.ccel.org/ccel/schaff/creeds3.iii.ii.html",
+    "58. [Encyclopedia] Wikipedia. Sola scriptura. https://en.wikipedia.org/wiki/Sola_scriptura",
+    "59. [Primary Source] Schaff, Creeds of Christendom. 'The Formula of Concord, A.D. 1576.' https://www.ccel.org/ccel/schaff/creeds3.iii.iv.html",
+    "60. [Primary Source] Schaff, Creeds of Christendom. 'Luther's Small Catechism, A.D. 1529.' https://www.ccel.org/ccel/schaff/creeds3.iii.iii.html",
+    "61. [Encyclopedia] Wikipedia. Divine Service (Lutheran). https://en.wikipedia.org/wiki/Divine_Service_(Lutheran)",
+    "62. [Encyclopedia] Wikipedia. Sola gratia. https://en.wikipedia.org/wiki/Sola_gratia",
+    "63. [Encyclopedia] Wikipedia. Priesthood of all believers. https://en.wikipedia.org/wiki/Universal_priesthood",
+    "64. [Primary Source] Schaff, Creeds of Christendom. 'The Lutheran Confessions.' https://www.ccel.org/ccel/schaff/creeds1.viii.i.html",
+    "65. [Encyclopedia] Wikipedia. Lutheranism. https://en.wikipedia.org/wiki/Lutheranism",
+    "66. [Encyclopedia] Wikipedia. List of Lutheran denominations. https://en.wikipedia.org/wiki/List_of_Lutheran_denominations",
+    "67. [Encyclopedia] Wikipedia. 'Reformed Christianity.' https://en.wikipedia.org/wiki/Reformed_Christianity",
     "68. [Primary Source] Schaff, Creeds of Christendom. 'The Westminster Shorter Catechism, A.D. 1647.' https://www.ccel.org/ccel/schaff/creeds3.iv.xviii.html",
     "69. [Encyclopedia] Britannica - Predestination. 'Doctrine of predestination.' https://www.britannica.com/topic/predestination",
-    "70. [Official Agency] Presbyterian Mission Agency. 'Church Government.' https://www.presbyterianmission.org/what-we-believe/church-government/",
-    "71. [Primary Source] Schaff, Creeds of Christendom. 'The Canons of the Synod of Dort, A.D. 1619.' https://www.ccel.org/ccel/schaff/creeds3.iv.xvi.html",
-    "72. [Primary Source] Schaff, Creeds of Christendom. 'The Heidelberg Catechism, A.D. 1563.' https://www.ccel.org/ccel/schaff/creeds3.iv.vi.html",
-    "73. [Primary Source] Schaff, Creeds of Christendom. 'The Belgic Confession, A.D. 1561.' https://www.ccel.org/ccel/schaff/creeds3.iv.viii.html",
-    "74. [Primary Source] Schaff, Creeds of Christendom. 'The Second Helvetic Confession, A.D. 1566.' https://www.ccel.org/ccel/schaff/creeds3.iv.v.html",
-    "75. [Primary Source] Schaff, Creeds of Christendom. 'The Scotch Confession of Faith, A.D. 1560.' https://www.ccel.org/ccel/schaff/creeds3.iv.ix.html",
-    "76. [Primary Source] Schaff, Creeds of Christendom. 'The Sixty-seven Articles of Ulrich Zwingli, 1523.' https://www.ccel.org/ccel/schaff/creeds3.iv.ii.html",
+    "70. [Encyclopedia] Wikipedia. Elder (Christianity). https://en.wikipedia.org/wiki/Elder_(Christianity)",
+    "71. [Encyclopedia] Wikipedia. Regulative principle of worship. https://en.wikipedia.org/wiki/Regulative_principle_of_worship",
+    "72. [Primary Source] Schaff, Creeds of Christendom. 'The Westminster Confession of Faith, A.D. 1647.' https://www.ccel.org/ccel/schaff/creeds3.iv.xvii.html",
+    "73. [Encyclopedia] Wikipedia. Westminster Standards. https://en.wikipedia.org/wiki/Westminster_Standards",
+    "74. [Primary Source] Schaff, Creeds of Christendom. 'The Canons of the Synod of Dort, A.D. 1619.' https://www.ccel.org/ccel/schaff/creeds3.iv.xvi.html",
+    "75. [Encyclopedia] Wikipedia. Presbyterian polity. https://en.wikipedia.org/wiki/Presbyterian_polity",
+    "76. [Encyclopedia] Wikipedia. Presbyterianism. https://en.wikipedia.org/wiki/Presbyterianism",
     "77. [Religious Organization] World Communion of Reformed Churches. 'Homepage.' https://wcrc.eu",
-    "78. [Primary Source] Schaff, Creeds of Christendom. 'The Lutheran and Reformed Confessions.' https://www.ccel.org/ccel/schaff/creeds1.vii.iii.html",
-    "79. [Encyclopedia] GAMEO. 'Global Anabaptist Mennonite Encyclopedia Online.' https://gameo.org",
-    "80. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Anabaptists.' https://www.newadvent.org/cathen/01445b.htm",
-    "81. [Religious Organization] Mennonite World Conference. 'Shared Convictions of Anabaptists.' https://mwc-cmm.org/en/prayer/shared-conviction-7/",
-    "82. [Encyclopedia] Wikipedia. 'Church State Separation.' https://en.wikipedia.org/wiki/Church-state_separation",
+    "78. [Encyclopedia] Wikipedia. Swiss Brethren. https://en.wikipedia.org/wiki/Swiss_Brethren",
+    "79. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Anabaptists.' https://www.newadvent.org/cathen/01445b.htm",
+    "80. [Encyclopedia] Wikipedia. 'Nonresistance.' https://en.wikipedia.org/wiki/Nonresistance",
+    "81. [Encyclopedia] Wikipedia. Plain people. https://en.wikipedia.org/wiki/Plain_people",
+    "82. [Encyclopedia] Wikipedia. 'Separation of church and state.' https://en.wikipedia.org/wiki/Church-state_separation",
     "83. [Religious Encyclopedia] Global Anabaptist Mennonite Encyclopedia Online (GAMEO). 'Ban.' https://gameo.org/index.php?title=Ban",
     "84. [Religious Encyclopedia] GAMEO. 'Bible.' https://gameo.org/index.php?title=Bible",
-    "85. [Encyclopedia] Wikipedia. 'Nonresistance.' https://en.wikipedia.org/wiki/Nonresistance",
-    "86. [Encyclopedia] Wikipedia. 'Martyrs Mirror.' https://en.wikipedia.org/wiki/Martyrs_Mirror",
-    "87. [Religious Encyclopedia] GAMEO. 'Anabaptism.' https://gameo.org/index.php?title=Anabaptism",
-    "88. [Encyclopedia] Wikipedia. 'Radical Reformation, the Anabaptists.' https://en.wikipedia.org/wiki/Radical_Reformation#Anabaptists",
-    "89. [Primary Source] Schaff, Creeds of Christendom. 'The Thirty-Nine Articles of Religion.' https://www.ccel.org/ccel/schaff/creeds3.iv.xi.html",
+    "85. [Encyclopedia] Wikipedia. 'Radical Reformation.' https://en.wikipedia.org/wiki/Radical_Reformation#Anabaptists",
+    "86. [Religious Encyclopedia] GAMEO. 'Anabaptism.' https://gameo.org/index.php?title=Anabaptism",
+    "87. [Encyclopedia] Wikipedia. Anabaptism. https://en.wikipedia.org/wiki/Anabaptism",
+    "88. [Encyclopedia] Wikipedia. 'Martyrs Mirror.' https://en.wikipedia.org/wiki/Martyrs_Mirror",
+    "89. [Encyclopedia] Wikipedia. 'Anglicanism.' https://en.wikipedia.org/wiki/Anglican_Church",
     "90. [Encyclopedia] Britannica - Anglicanism. 'The 'via media'.' https://www.britannica.com/topic/Anglicanism",
-    "91. [Primary Source] Schaff, Creeds of Christendom. 'The Anglican Catechism, A.D. 1549 and 1662.' https://www.ccel.org/ccel/schaff/creeds3.iv.xii.html",
-    "92. [Reference] Anglicancommunion. 'Instruments of Communion.aspx.' https://www.anglicancommunion.org/structures/instruments-of-communion.aspx",
-    "93. [Primary Source] Schaff, Creeds of Christendom. 'The Lambeth Articles, A.D. 1595.' https://www.ccel.org/ccel/schaff/creeds3.iv.xiii.html",
-    "94. [Primary Source] Schaff, Creeds of Christendom. 'The Irish Articles of Religion, A.D. 1615.' https://www.ccel.org/ccel/schaff/creeds3.iv.xiv.html",
-    "95. [Primary Source] Leo XIII. 'Apostolicae Curae, on Anglican Orders.' https://www.ccel.org/ccel/schaff/creeds2.vii.vi.html",
-    "96. [Encyclopedia] Wikipedia. 'Church of Ireland.' https://en.wikipedia.org/wiki/Church_of_Ireland",
-    "97. [Encyclopedia] Wikipedia. 'Reformed Christianity.' https://en.wikipedia.org/wiki/Reformed_Christianity",
-    "98. [Religious Organization] Anglican Communion. 'Homepage.' https://www.anglicancommunion.org/",
-    "99. [Official Church] Church of England. 'Homepage.' https://www.churchofengland.org/",
-    "100. [Primary Source] Schaff, Creeds of Christendom. 'The Baptist Confession of 1688, the Philadelphia Confession.' https://www.ccel.org/ccel/schaff/creeds3.v.ii.i.html",
-    "101. [Primary Source] Schaff, Creeds of Christendom. 'The New Hampshire Baptist Confession, A.D. 1833.' https://www.ccel.org/ccel/schaff/creeds3.v.ii.ii.html",
-    "102. [Primary Source] Schaff, Creeds of Christendom. 'Confession of the Free-will Baptists, A.D. 1834.' https://www.ccel.org/ccel/schaff/creeds3.v.ii.iii.html",
-    "103. [Primary Source] Schaff, Creeds of Christendom. 'The Baptist Confessions.' https://www.ccel.org/ccel/schaff/creeds3.v.ii.html",
-    "104. [Official Church] Southern Baptist Church (Boston). 'What We Believe.' https://www.sbcboston.org/our-beliefs",
-    "105. [Encyclopedia] Wikipedia. 'Freedom of Religion in the United States.' https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States",
-    "106. [Encyclopedia] Britannica. 'Baptist World Alliance.' https://www.britannica.com/topic/Baptist-World-Alliance",
-    "107. [Encyclopedia] Wikipedia. 'Congregational Polity.' https://en.wikipedia.org/wiki/Congregational_polity",
-    "108. [Religious Organization] Baptist World Alliance. 'Member Bodies.' https://baptistworld.org/members/",
-    "109. [Wikipedia] Roger Williams (theologian). 'Early Baptist advocate for religious freedom.' https://en.wikipedia.org/wiki/Roger_Williams_(theologian)",
-    "110. [Primary Source] Schaff, Creeds of Christendom. 'The Methodist Articles of Religion, A.D. 1784.' https://www.ccel.org/ccel/schaff/creeds3.v.vi.html",
-    "111. [Official Church] McCabe United Methodist Church. 'Glossary: Prevenient Grace.' https://www.mccabechurch.com/wp-content/uploads/2019/cache/10-15-17.pdf",
-    "112. [Primary Source] Schaff, Creeds of Christendom. 'The Five Arminian Articles, A.D. 1610.' https://www.ccel.org/ccel/schaff/creeds3.iv.xv.html",
-    "113. [Official Church] UMC. 'Our Wesleyan Heritage.' https://www.umc.org/en/content/our-wesleyan-heritage",
-    "114. [Reference] Umc. 'How We Serve.' https://www.umc.org/en/how-we-serve",
-    "115. [Encyclopedia] Encyclopaedia Britannica. 'Methodism, History, Beliefs and Organization.' https://www.britannica.com/topic/Methodism",
-    "116. [Wikipedia] Wesleyan Quadrilateral. 'Scripture, tradition, reason, experience.' https://en.wikipedia.org/wiki/Wesleyan_Quadrilateral",
-    "117. [Official Church] UMC Justice. 'Social Principles.' https://www.umcjustice.org/documents/124",
-    "118. [Encyclopedia] Wikipedia. 'Free Will.' https://en.wikipedia.org/wiki/Free_will",
-    "119. [Encyclopedia] Wikipedia. 'Methodist Local Preacher.' https://en.wikipedia.org/wiki/Methodist_local_preacher",
-    "120. [Encyclopedia] Wikipedia. 'Wesleyan–arminian Theology.' https://en.wikipedia.org/wiki/Wesleyan%E2%80%93Arminian_theology",
-    "121. [Primary Source] Schaff, Creeds of Christendom. 'Recent Confessional Declarations.' https://www.ccel.org/ccel/schaff/creeds3.vi.ii.html",
-    "122. [Encyclopedia] Wikipedia. 'Assemblies of God Statement of Fundamental Truths.' https://en.wikipedia.org/wiki/Assemblies_of_God_Statement_of_Fundamental_Truths",
-    "123. [Wikipedia] Gifts of the Spirit. 'Nine gifts listed in 1 Corinthians 12.' https://en.wikipedia.org/wiki/Gifts_of_the_Spirit",
-    "124. [Encyclopedia] Wikipedia. 'Divine Healing.' https://en.wikipedia.org/wiki/Divine_healing",
-    "125. [Wikipedia] Prosperity theology. 'Common (but not universal) belief.' https://en.wikipedia.org/wiki/Prosperity_theology",
-    "126. [Official Church] A/G. 'The Blessed Hope.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths/The-Blessed-Hope",
-    "127. [Research Center] Pew Research Center. 'Pentecostal Family.' https://www.pewresearch.org/religion/religious-landscape-study/religious-family/pentecostal-family-evangelical-trad/",
-    "128. [Official Church] A/G. 'The Final Judgment.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths#16",
-    "129. [Encyclopedia] Wikipedia. 'Church of God in Christ.' https://en.wikipedia.org/wiki/Church_of_God_in_Christ",
-    "130. [Encyclopedia] Wikipedia. 'Global Christianity.' https://en.wikipedia.org/wiki/Global_Christianity",
-    "131. [Research Center] Pew Research Center. 'Global Christianity - Traditions.' https://www.pewresearch.org/religion/2011/12/19/global-christianity-traditions/",
-    "132. [Primary Source] Schaff, Creeds of Christendom. 'The Doctrinal Basis of the Evangelical Alliance, 1846.' https://www.ccel.org/ccel/schaff/creeds3.v.viii.html",
-    "133. [Research Center] The ARDA. 'Restoration Movement Timeline.' https://www.thearda.com/us-religion/history/timelines/entry?etype=3&eid=32",
-    "134. [Encyclopedia] Wikipedia. 'Christian Church (disciples of Christ).' https://en.wikipedia.org/wiki/Christian_Church_(Disciples_of_Christ)",
-    "135. [Encyclopedia] Wikipedia. 'Declaration and Address.' https://en.wikipedia.org/wiki/Declaration_and_Address",
-    "136. [Encyclopedia] Wikipedia. 'World Convention of Churches of Christ.' https://en.wikipedia.org/wiki/World_Convention_of_Churches_of_Christ",
-    "137. [Wikipedia] Stone-Campbell Movement. 'Major groups.' https://en.wikipedia.org/wiki/Stone-Campbell_Movement",
-    "138. [Academic Resource] Cambridge University Press. 'The Stone-Campbell Movement.' https://www.cambridge.org/core/books/cambridge-companion-to-american-protestantism/stonecampbell-movement/1F4959CCE0BD59A2F2A00E4B2D22D2C6",
-    "139. [Primary Source] Schaff, Creeds of Christendom. 'Articles of Religion of the Reformed Episcopal Church.' https://www.ccel.org/ccel/schaff/creeds3.v.vii.html",
-    "140. [Primary Source] Schaff, Creeds of Christendom. 'The Corporate Union of Church Bodies.' https://www.ccel.org/ccel/schaff/creeds3.vi.iii.html",
-    "141. [Encyclopedia] Wikipedia. 'Chicago Lambeth Quadrilateral.' https://en.wikipedia.org/wiki/Chicago-Lambeth_Quadrilateral",
-    "142. [Encyclopedia] Wikipedia. 'Broad Church.' https://en.wikipedia.org/wiki/Broad_church",
-    "143. [Encyclopedia] Wikipedia. 'Anglican Devotions.' https://en.wikipedia.org/wiki/Anglican_devotions",
-    "144. [Wikipedia] Episcopal Church (United States) - Theology. 'Theological spectrum.' https://en.wikipedia.org/wiki/Episcopal_Church_(United_States)#Theology",
-    "145. [Encyclopedia] Wikipedia. 'Christianity and Social Justice.' https://en.wikipedia.org/wiki/Christianity_and_social_justice",
-    "146. [Encyclopedia] Wikipedia. 'Anglican Church.' https://en.wikipedia.org/wiki/Anglican_Church",
-    "147. [Encyclopedia] Wikipedia. 'Homosexuality and Anglicanism.' https://en.wikipedia.org/wiki/Homosexuality_and_Anglicanism",
-    "148. [Encyclopedia] Wikipedia. 'Anglican Church Music.' https://en.wikipedia.org/wiki/Anglican_church_music",
-    "149. [Primary Source] Schaff, Creeds of Christendom. 'The Confession of the Society of Friends, or Quakers.' https://www.ccel.org/ccel/schaff/creeds3.v.iv.html",
-    "150. [Religious Organization] Quakers in Britain. 'Our faith.' https://www.quaker.org.uk/about-quakers/our-faith/",
-    "151. [Reference] Quaker.Org. 'About Quakers.' https://www.quaker.org.uk/about-quakers",
-    "152. [Encyclopedia] Britannica - Quaker. 'Sacraments.' https://www.britannica.com/topic/Quaker",
-    "153. [Wikipedia] Peace Testimony. 'Quaker commitment to non-violence.' https://en.wikipedia.org/wiki/Peace_Testimony",
-    "154. [Religious Organization] Quakers in Britain. 'Equality.' https://www.quaker.org.uk/about-quakers/our-values/equality/",
-    "155. [Religious Organization] Philadelphia Yearly Meeting. 'The Testimonies.' https://www.pym.org/quakerism/quaker-testimonies/",
-    "156. [Primary Source] Schaff, Creeds of Christendom. 'American Congregational Declarations of Faith.' https://www.ccel.org/ccel/schaff/creeds3.vi.ii.i.html",
-    "157. [Encyclopedia] Wikipedia. 'Sabbath in Seventh-day Churches.' https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches",
-    "158. [Encyclopedia] Wikipedia. 'Second Advent.' https://en.wikipedia.org/wiki/Second_Advent",
-    "159. [Encyclopedia] Wikipedia. 'Adventist Health Studies.' https://en.wikipedia.org/wiki/Adventist_Health_Studies",
-    "160. [Religious Resource] Ask an Adventist Friend (NAD). 'What is the Spirit of Prophecy?' https://www.askanadventistfriend.com/ellen-g-white/spirit-of-prophecy/",
-    "161. [Encyclopedia] Wikipedia. 'Soul Sleep.' https://en.wikipedia.org/wiki/Soul_sleep",
-    "162. [Encyclopedia] Wikipedia. 'List of Christian Denominations by Number of Members.' https://en.wikipedia.org/wiki/List_of_Christian_denominations_by_number_of_members",
-    "163. [Encyclopedia] Wikipedia. 'Adventism.' https://en.wikipedia.org/wiki/Adventism",
-    "164. [Wikipedia] Messianic Judaism. 'Modern movement.' https://en.wikipedia.org/wiki/Messianic_Judaism",
-    "165. [Encyclopedia] Britannica - Messianism. 'Belief in Jesus as Messiah.' https://www.britannica.com/topic/messianism",
-    "166. [Academic Encyclopedia] St Andrews Encyclopaedia of Theology. 'Messianic Jewish Theology.' https://www.saet.ac.uk/Christianity/MessianicJewishTheology",
-    "167. [Religious Education] My Jewish Learning. 'Messianic Judaism Overview.' https://www.myjewishlearning.com/article/messianic-judaism/",
-    "168. [Wikipedia] Messianic Judaism - Theology. 'Adherence to the Trinity.' https://en.wikipedia.org/wiki/Messianic_Judaism#Theology",
-    "169. [Religious Organization] Messianic Jewish Alliance of America. 'About MJAA.' https://mjaa.org/",
-    "170. [Religious Ministry] ONE FOR ISRAEL. 'Messianic Judaism & Messianic Jews.' https://www.oneforisrael.org/messianic-judaism-messianic-jews/",
-    "171. [Wikipedia] Nondenominational Christianity. '20th-century movement.' https://en.wikipedia.org/wiki/Nondenominational_Christianity",
-    "172. [Religious Site] Grace Plano. 'What Is a Nondenominational Church?' https://graceplano.church/non-denominational-church-explained",
-    "173. [Religious Site] GotQuestions.org. 'What are nondenominational churches?' https://www.gotquestions.org/non-denominational-church.html",
-    "174. [Research Center] Pew Research Center. 'Religious Landscape Study.' https://www.pewresearch.org/religion/religious-landscape-study/",
-    "175. [Encyclopedia] Wikipedia. 'Church Planting.' https://en.wikipedia.org/wiki/Church_planting",
-    "176. [Encyclopedia] Wikipedia. 'House Church Movement.' https://en.wikipedia.org/wiki/House_Church_Movement",
-    "177. [Encyclopedia] Wikipedia. 'Emerging Church.' https://en.wikipedia.org/wiki/Emerging_Church",
-    "178. [Wikipedia] Latter Day Saint movement. 'Overview.' https://en.wikipedia.org/wiki/Latter_Day_Saint_movement",
-    "179. [Encyclopedia] Wikipedia. 'Evangelical Theology.' https://en.wikipedia.org/wiki/Evangelical_theology",
-    "180. [Encyclopedia] Wikipedia. 'Unitarian Universalists.' https://en.wikipedia.org/wiki/Unitarian_Universalists",
-    "181. [Primary Source] Schaff, Creeds of Christendom. 'The Confession of the Waldenses, A.D. 1655.' https://www.ccel.org/ccel/schaff/creeds3.v.iii.i.html",
-    "182. [Catholic Reference] New Advent, Catholic Encyclopedia. '15527b.' https://www.newadvent.org/cathen/15527b.htm",
-    "183. [Encyclopedia] Wikipedia. 'Proto Protestantism.' https://en.wikipedia.org/wiki/Proto-Protestantism",
-    "184. [Encyclopedia] Wikipedia. 'Lyon.' https://en.wikipedia.org/wiki/Lyon",
-    "185. [Encyclopedia] Wikipedia. 'Piedmont.' https://en.wikipedia.org/wiki/Piedmont",
-    "186. [Primary Source] Schaff, Creeds of Christendom. 'Easter Litany of the Moravian Church, A.D. 1749.' https://www.ccel.org/ccel/schaff/creeds3.v.v.html",
-    "187. [Primary Source] Schaff, Creeds of Christendom. 'The Bohemian Confessions after the Reformation.' https://www.ccel.org/ccel/schaff/creeds1.ix.v.ii.html",
-    "188. [Encyclopedia] Encyclopaedia Britannica. 'Moravian Church, History and Beliefs.' https://www.britannica.com/topic/Moravian-church",
-    "189. [Encyclopedia] Wikipedia. 'Daily Watchwords.' https://en.wikipedia.org/wiki/Daily_Watchwords",
-    "190. [Encyclopedia] Wikipedia. 'History of the Moravian Church.' https://en.wikipedia.org/wiki/History_of_the_Moravian_Church",
-    "191. [Primary Source] Schaff, Creeds of Christendom. 'The Savoy Declaration, A.D. 1658.' https://www.ccel.org/ccel/schaff/creeds3.v.i.i.html",
-    "192. [Primary Source] Schaff, Creeds of Christendom. 'Declaration of the Congregational Union of England and Wales.' https://www.ccel.org/ccel/schaff/creeds3.v.i.ii.html",
-    "193. [Primary Source] Schaff, Creeds of Christendom. 'The Oberlin Declaration of the National Congregational Council.' https://www.ccel.org/ccel/schaff/creeds3.v.i.iv.html",
-    "194. [Primary Source] Schaff, Creeds of Christendom. 'Congregational Confessions.' https://www.ccel.org/ccel/schaff/creeds3.v.i.html",
-    "195. [Encyclopedia] Wikipedia. 'Separatists.' https://en.wikipedia.org/wiki/Separatists",
-    "196. [Encyclopedia] Wikipedia. 'Plymouth Colony.' https://en.wikipedia.org/wiki/Plymouth_Colony"
+    "91. [Encyclopedia] Wikipedia. Historical episcopate. https://en.wikipedia.org/wiki/Historic_episcopate",
+    "92. [Encyclopedia] Wikipedia. Book of Common Prayer. https://en.wikipedia.org/wiki/Book_of_Common_Prayer",
+    "93. [Encyclopedia] Wikipedia. Anglican doctrine. https://en.wikipedia.org/wiki/Anglican_doctrine",
+    "94. [Encyclopedia] Wikipedia. Churchmanship. https://en.wikipedia.org/wiki/Churchmanship",
+    "95. [Encyclopedia] Wikipedia. Supreme Governor of the Church of England. https://en.wikipedia.org/wiki/Supreme_Governor_of_the_Church_of_England",
+    "96. [Primary Source] Schaff, Creeds of Christendom. 'The Thirty-Nine Articles of Religion.' https://www.ccel.org/ccel/schaff/creeds3.iv.xi.html",
+    "97. [Religious Organization] Anglican Communion. 'Homepage.' https://www.anglicancommunion.org/",
+    "98. [Encyclopedia] Wikipedia. 'Anglican Church Music.' https://en.wikipedia.org/wiki/Anglican_church_music",
+    "99. [Encyclopedia] Wikipedia. John Smyth (English theologian). https://en.wikipedia.org/wiki/John_Smyth_(Baptist_minister)",
+    "100. [Primary Source] Schaff, Creeds of Christendom. 'The New Hampshire Baptist Confession, A.D. 1833.' https://www.ccel.org/ccel/schaff/creeds3.v.ii.ii.html",
+    "101. [Encyclopedia] Wikipedia. Baptist beliefs. https://en.wikipedia.org/wiki/Baptist_beliefs",
+    "102. [Official Church] Southern Baptist Church (Boston). 'What We Believe.' https://www.sbcboston.org/our-beliefs",
+    "103. [Encyclopedia] Wikipedia. Baptists. https://en.wikipedia.org/wiki/Baptists",
+    "104. [Wikipedia] Roger Williams (theologian). 'Early Baptist advocate for religious freedom.' https://en.wikipedia.org/wiki/Roger_Williams_(theologian)",
+    "105. [Encyclopedia] Wikipedia. International Mission Board. https://en.wikipedia.org/wiki/International_Mission_Board",
+    "106. [Encyclopedia] Wikipedia. 'Congregational Polity.' https://en.wikipedia.org/wiki/Congregational_polity",
+    "107. [Encyclopedia] Wikipedia. List of Baptist denominations. https://en.wikipedia.org/wiki/List_of_Baptist_denominations",
+    "108. [Encyclopedia] Wikipedia. 'Freedom of Religion in the United States.' https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States",
+    "109. [Encyclopedia] Encyclopaedia Britannica. 'Methodism, History, Beliefs and Organization.' https://www.britannica.com/topic/Methodism",
+    "110. [Encyclopedia] Wikipedia. 'Wesleyan theology.' https://en.wikipedia.org/wiki/Wesleyan%E2%80%93Arminian_theology",
+    "111. [Primary Source] Schaff, Creeds of Christendom. 'The Five Arminian Articles, A.D. 1610.' https://www.ccel.org/ccel/schaff/creeds3.iv.xv.html",
+    "112. [Official Church] UMC. 'Our Wesleyan Heritage.' https://www.umc.org/en/content/our-wesleyan-heritage",
+    "113. [Encyclopedia] Wikipedia. Christian perfection. https://en.wikipedia.org/wiki/Christian_perfection",
+    "114. [Encyclopedia] Wikipedia. Means of grace. https://en.wikipedia.org/wiki/Means_of_grace",
+    "115. [Wikipedia] Wesleyan Quadrilateral. 'Scripture, tradition, reason, experience.' https://en.wikipedia.org/wiki/Wesleyan_Quadrilateral",
+    "116. [Official Church] United Methodist General Board of Church and Society. 'United Methodist Social Principles (2024).' https://www.umcjustice.org/documents/124",
+    "117. [Encyclopedia] Wikipedia. Methodism. https://en.wikipedia.org/wiki/Methodism",
+    "118. [Encyclopedia] Wikipedia. List of Methodist denominations. https://en.wikipedia.org/wiki/List_of_Methodist_denominations",
+    "119. [Encyclopedia] Wikipedia. Azusa Street Revival. https://en.wikipedia.org/wiki/Azusa_Street_Revival",
+    "120. [Encyclopedia] Wikipedia. 'Assemblies of God Statement of Fundamental Truths.' https://en.wikipedia.org/wiki/Assemblies_of_God_Statement_of_Fundamental_Truths",
+    "121. [Encyclopedia] Wikipedia. 'Spiritual gift.' https://en.wikipedia.org/wiki/Gifts_of_the_Spirit",
+    "122. [Encyclopedia] Wikipedia. 'Faith healing.' https://en.wikipedia.org/wiki/Divine_healing",
+    "123. [Wikipedia] Prosperity theology. 'Common (but not universal) belief.' https://en.wikipedia.org/wiki/Prosperity_theology",
+    "124. [Official Church] A/G. 'The Blessed Hope.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths/The-Blessed-Hope",
+    "125. [Encyclopedia] Wikipedia. Pentecostalism. https://en.wikipedia.org/wiki/Pentecostalism",
+    "126. [Encyclopedia] Wikipedia. Assemblies of God USA. https://en.wikipedia.org/wiki/Assemblies_of_God_USA",
+    "127. [Encyclopedia] Wikipedia. 'World Christianity.' https://en.wikipedia.org/wiki/Global_Christianity",
+    "128. [Encyclopedia] Wikipedia. List of Pentecostal denominations. https://en.wikipedia.org/wiki/List_of_Pentecostal_denominations",
+    "129. [Research Center] The ARDA. 'Restoration Movement Timeline.' https://www.thearda.com/us-religion/history/timelines/entry?etype=3&eid=32",
+    "130. [Academic Resource] Cambridge University Press. 'The Stone-Campbell Movement.' https://www.cambridge.org/core/books/cambridge-companion-to-american-protestantism/stonecampbell-movement/1F4959CCE0BD59A2F2A00E4B2D22D2C6",
+    "131. [Encyclopedia] Wikipedia. 'Restoration Movement.' https://en.wikipedia.org/wiki/Stone-Campbell_Movement",
+    "132. [Encyclopedia] Wikipedia. 'Christian Church (disciples of Christ).' https://en.wikipedia.org/wiki/Christian_Church_(Disciples_of_Christ)",
+    "133. [Encyclopedia] Wikipedia. Churches of Christ. https://en.wikipedia.org/wiki/Churches_of_Christ",
+    "134. [Encyclopedia] Wikipedia. 'Declaration and Address.' https://en.wikipedia.org/wiki/Declaration_and_Address",
+    "135. [Encyclopedia] Wikipedia. Christian churches and churches of Christ. https://en.wikipedia.org/wiki/Christian_churches_and_churches_of_Christ",
+    "136. [Encyclopedia] Wikipedia. Restorationism. https://en.wikipedia.org/wiki/Restorationism",
+    "137. [Encyclopedia] Encyclopedia of Greater Philadelphia. Episcopal Church. https://philadelphiaencyclopedia.org/essays/episcopal-church",
+    "138. [Encyclopedia] Wikipedia. Anglican Communion. https://en.wikipedia.org/wiki/Anglican_Communion",
+    "139. [Encyclopedia] Wikipedia. Via media. https://en.wikipedia.org/wiki/Via_media",
+    "140. [Encyclopedia] Wikipedia. 'Chicago Lambeth Quadrilateral.' https://en.wikipedia.org/wiki/Chicago-Lambeth_Quadrilateral",
+    "141. [Encyclopedia] Wikipedia. Book of Common Prayer (1979). https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1979)",
+    "142. [Wikipedia] Episcopal Church (United States) - Theology. 'Theological spectrum.' https://en.wikipedia.org/wiki/Episcopal_Church_(United_States)#Theology",
+    "143. [Official Church] The Old North Church (Boston). About the Episcopal Church. https://oldnorth.com/about-episcopal-church/",
+    "144. [Encyclopedia] Wikipedia. Ordination of women in the Anglican Communion. https://en.wikipedia.org/wiki/Ordination_of_women_in_the_Anglican_Communion",
+    "145. [Encyclopedia] Wikipedia. 'Homosexuality and Anglicanism.' https://en.wikipedia.org/wiki/Homosexuality_and_Anglicanism",
+    "146. [Encyclopedia] Wikipedia. Washington National Cathedral. https://en.wikipedia.org/wiki/Washington_National_Cathedral",
+    "147. [Encyclopedia] Britannica - Quaker. 'Sacraments.' https://www.britannica.com/topic/Quaker",
+    "148. [Religious Organization] Quakers in Britain. 'Our faith.' https://www.quaker.org.uk/about-quakers/our-faith/",
+    "149. [Encyclopedia] Wikipedia. Quakers. https://en.wikipedia.org/wiki/Quakers",
+    "150. [Primary Source] Schaff, Creeds of Christendom. 'The Confession of the Society of Friends, or Quakers.' https://www.ccel.org/ccel/schaff/creeds3.v.iv.html",
+    "151. [Wikipedia] Peace Testimony. 'Quaker commitment to non-violence.' https://en.wikipedia.org/wiki/Peace_Testimony",
+    "152. [Religious Organization] Quakers in Britain. 'Equality.' https://www.quaker.org.uk/about-quakers/our-values/equality/",
+    "153. [Religious Organization] Philadelphia Yearly Meeting. 'The Testimonies.' https://www.pym.org/quakerism/quaker-testimonies/",
+    "154. [Encyclopedia] Wikipedia. 'Adventism.' https://en.wikipedia.org/wiki/Adventism",
+    "155. [Encyclopedia] Wikipedia. 'Sabbath in Seventh-day Churches.' https://en.wikipedia.org/wiki/Sabbath_in_seventh-day_churches",
+    "156. [Encyclopedia] Wikipedia. 'Second Coming.' https://en.wikipedia.org/wiki/Second_Advent",
+    "157. [Encyclopedia] Wikipedia. 'Adventist Health Studies.' https://en.wikipedia.org/wiki/Adventist_Health_Studies",
+    "158. [Religious Resource] Ask an Adventist Friend (NAD). 'What is the Spirit of Prophecy?' https://www.askanadventistfriend.com/ellen-g-white/spirit-of-prophecy/",
+    "159. [Encyclopedia] Wikipedia. 'Christian mortalism.' https://en.wikipedia.org/wiki/Soul_sleep",
+    "160. [Encyclopedia] Wikipedia. Seventh-day Adventist Church. https://en.wikipedia.org/wiki/Seventh-day_Adventist_Church",
+    "161. [Encyclopedia] Wikipedia. Investigative judgment. https://en.wikipedia.org/wiki/Investigative_judgment",
+    "162. [Wikipedia] Messianic Judaism. 'Modern movement.' https://en.wikipedia.org/wiki/Messianic_Judaism",
+    "163. [Apologetics] GotQuestions.org. What is Messianic Judaism? https://www.gotquestions.org/Messianic-Judaism.html",
+    "164. [Religious Organization] Messianic Jewish Alliance of America. 'About MJAA.' https://mjaa.org/",
+    "165. [Religious Ministry] ONE FOR ISRAEL. 'Messianic Judaism & Messianic Jews.' https://www.oneforisrael.org/messianic-judaism-messianic-jews/",
+    "166. [Wikipedia] Messianic Judaism - Theology. 'Adherence to the Trinity.' https://en.wikipedia.org/wiki/Messianic_Judaism#Theology",
+    "167. [Academic Encyclopedia] St Andrews Encyclopaedia of Theology. 'Messianic Jewish Theology.' https://www.saet.ac.uk/Christianity/MessianicJewishTheology",
+    "168. [Religious Education] My Jewish Learning. 'Messianic Judaism Overview.' https://www.myjewishlearning.com/article/messianic-judaism/",
+    "169. [Wikipedia] Nondenominational Christianity. '20th-century movement.' https://en.wikipedia.org/wiki/Nondenominational_Christianity",
+    "170. [Religious Site] Grace Plano. 'What Is a Nondenominational Church?' https://graceplano.church/non-denominational-church-explained",
+    "171. [Religious Site] GotQuestions.org. 'What are nondenominational churches?' https://www.gotquestions.org/non-denominational-church.html",
+    "172. [Research Center] Pew Research Center. 'Religious Landscape Study.' https://www.pewresearch.org/religion/religious-landscape-study/",
+    "173. [Encyclopedia] Wikipedia. Contemporary worship. https://en.wikipedia.org/wiki/Contemporary_worship",
+    "174. [Encyclopedia] Wikipedia. 'House Church Movement.' https://en.wikipedia.org/wiki/House_Church_Movement",
+    "175. [Encyclopedia] Wikipedia. 'Emerging Church.' https://en.wikipedia.org/wiki/Emerging_Church",
+    "176. [Wikipedia] Latter Day Saint movement. 'Overview.' https://en.wikipedia.org/wiki/Latter_Day_Saint_movement",
+    "177. [Encyclopedia] Wikipedia. Jehovah's Witnesses. https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses",
+    "178. [Encyclopedia] Wikipedia. 'Unitarian Universalists.' https://en.wikipedia.org/wiki/Unitarian_Universalists",
+    "179. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Waldenses.' https://www.newadvent.org/cathen/15527b.htm",
+    "180. [Encyclopedia] Wikipedia. Waldensians. https://en.wikipedia.org/wiki/Waldensians",
+    "181. [Encyclopedia] Wikipedia. Synod of Chanforan. https://en.wikipedia.org/wiki/Synod_of_Chanforan",
+    "182. [Encyclopedia] Wikipedia. 'Proto Protestantism.' https://en.wikipedia.org/wiki/Proto-Protestantism",
+    "183. [Encyclopedia] Wikipedia. Waldensian Evangelical Church. https://en.wikipedia.org/wiki/Waldensian_Evangelical_Church",
+    "184. [Encyclopedia] Wikipedia. Moravian Church. https://en.wikipedia.org/wiki/Moravian_Church",
+    "185. [Encyclopedia] Wikipedia. Hussites. https://en.wikipedia.org/wiki/Hussites",
+    "186. [Encyclopedia] Wikipedia. 'History of the Moravian Church.' https://en.wikipedia.org/wiki/History_of_the_Moravian_Church",
+    "187. [Encyclopedia] Encyclopaedia Britannica. 'Moravian Church, History and Beliefs.' https://www.britannica.com/topic/Moravian-church",
+    "188. [Encyclopedia] Wikipedia. Rupertus Meldenius. https://en.wikipedia.org/wiki/Rupertus_Meldenius",
+    "189. [Encyclopedia] Wikipedia. Brownists. https://en.wikipedia.org/wiki/Brownist",
+    "190. [Primary Source] Schaff, Creeds of Christendom. 'Declaration of the Congregational Union of England and Wales.' https://www.ccel.org/ccel/schaff/creeds3.v.i.ii.html",
+    "191. [Encyclopedia] Wikipedia. Puritans. https://en.wikipedia.org/wiki/Puritans",
+    "192. [Encyclopedia] Wikipedia. Cambridge Platform. https://en.wikipedia.org/wiki/Cambridge_Platform",
+    "193. [Encyclopedia] Wikipedia. 'Plymouth Colony.' https://en.wikipedia.org/wiki/Plymouth_Colony",
+    "194. [Encyclopedia] Wikipedia. Congregationalism. https://en.wikipedia.org/wiki/Congregational_church"
   ],
-  lastUpdated: "07-08-2026",
+  lastUpdated: "26-10-2026",
 };

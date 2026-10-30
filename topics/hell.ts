@@ -17,7 +17,7 @@ export const hell: Topic = {
     { reference: "Matthew 5:22", text: "But I tell you that anyone who is angry with a brother or sister will be subject to judgment. Again, anyone who says to a brother or sister, 'Raca,' is answerable to the court. And anyone who says, 'You fool!' will be in danger of the fire of hell." },
     { reference: "Matthew 25:46", text: "Then they will go away to eternal punishment, but the righteous to eternal life." }
   ],
-  lastUpdated: "27-09-2026",
+  lastUpdated: "26-10-2026",
   content: `
 Hell is often pictured as a furnace ruled by the devil, where the damned are tortured forever. The biblical teaching is more restrained in its details and more serious in its substance[^1][^2].
 
@@ -25,11 +25,17 @@ Hell is often pictured as a furnace ruled by the devil, where the damned are tor
 
 The word "hell" appears 54 times in the King James Version, which uses it for several different Hebrew and Greek terms. Modern translations use it far less, rendering Sheol and Hades as "the grave" or "the realm of the dead" or leaving them untranslated[^3]. In the Old Testament, Sheol is primarily the grave or the place of the dead, not a place of punishment[^4][^5].
 
+<?viz hell/words?>
+
+
 *   **Hades:** The Greek equivalent of Sheol, used in the New Testament for the intermediate, temporary state of the dead awaiting final judgment[^6][^7].
 
 *   **Tartarus:** Mentioned once, as a verb, in [2 Peter 2:4](https://www.biblegateway.com/passage/?search=2+Peter+2%3A4&version=NIV), for the place where fallen angels are kept in chains of darkness until judgment day[^8][^9].
 
 *   **Gehenna:** The primary word Jesus uses for final punishment[^10][^11]. Its name derives from the *Valley of Hinnom* south of Jerusalem, the site of child sacrifices to Molech ([Jeremiah 7:31](https://www.biblegateway.com/passage/?search=Jeremiah+7:31&version=NIV)). It was defiled by King Josiah (2 Kings 23:10), and Jeremiah pronounced it a future "Valley of Slaughter" filled with corpses (Jeremiah 7:32-33). The popular claim that it was the city's burning rubbish dump in Jesus' day is first found in Rabbi David Kimhi around AD 1200 and has no archaeological or earlier literary support[^12]. Jesus' imagery draws instead on the valley's history of idolatry and judgment and on Isaiah 66:24, where the worm does not die and the fire is not quenched.
+
+<?viz hell/hinnom?>
+
 
 *   **The lake of fire:** Revelation's image for the final state after the last judgment, into which death and Hades themselves are thrown (Revelation 20:14)[^13].
 
@@ -61,6 +67,9 @@ The offer set against hell is God himself. Salvation does not depend on merit or
       title: "Will Hell Last Forever? Eternal Punishment vs. Annihilationism",
       tags: ["eternity", "annihilationism", "eternal punishment", "conditional immortality"],
       content: `**What is agreed.** Judgment follows death (Hebrews 9:27), and every historic Christian position except universalism holds that its outcome is final and irreversible. The debate among those who accept the authority of Scripture is narrower: whether the lost suffer consciously without end, or are punished and then destroyed forever[^26].
+
+<?viz hell/views?>
+
 
 **Eternal conscious punishment: the traditional view.** Held by Augustine, Aquinas, the Reformers and the major Catholic, Orthodox and Protestant confessions, it remains the majority view[^27]. Its main texts:
 
@@ -109,6 +118,9 @@ The offer set against hell is God himself. Salvation does not depend on merit or
       content: `**Yes, hell is separation from God.** Scripture repeatedly describes it as banishment: "depart from me" (Matthew 25:41), "cast him into the outer darkness" (Matthew 22:13), "away from the presence of the Lord" (2 Thessalonians 1:9), and outside the city of God (Revelation 22:15)[^68][^69]. The question is what the lost are separated from, since Scripture also teaches that God is everywhere.
 
 **Not separated from God's existence or reach.** God holds all things in being: "in him all things hold together" (Colossians 1:17), and he upholds "the universe by the word of his power" (Hebrews 1:3)[^70][^71]. Nothing, hell included, could exist if God withdrew in that sense. Theologians therefore distinguish ways in which God is present. Aquinas, quoting Gregory the Great, wrote that "God by a common mode is in all things by His presence, power and substance; still He is said to be present more familiarly in some by grace"[^72]. The Puritan Stephen Charnock described "a presence of glory in heaven, whereby he comforts the saints; [and] a presence of wrath in hell, whereby he torments the damned"[^73]. What the lost are cut off from is God's gracious presence: his favour, fellowship and blessing.
+
+<?viz hell/presence?>
+
 
 **The words Scripture uses.** In 2 Thessalonians 1:9 "presence" translates *prosōpon*, "face". In the Bible God's face stands for his favour: "The LORD make his face to shine upon you and be gracious to you" (Numbers 6:25)[^74][^75]. Revelation 14:10, which places the punishment "in the presence of the Lamb", uses a different word, *enōpion*, "before" or "in the sight of", the language of a courtroom. The lost stand before God as their judge while being shut out from his face[^76][^77].
 

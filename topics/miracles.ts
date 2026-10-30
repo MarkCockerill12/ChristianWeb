@@ -57,7 +57,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
 
 **Barbara Snyder (Barbara Cummiskey), Wheaton, Illinois, 1981:**
 
-• **Illness:** Diagnosed with multiple sclerosis in her teens, she spent much of the following sixteen years in hospital. By 1981 she was bedridden and on oxygen, with a tracheostomy, a partially paralysed diaphragm and repeated pneumonia, and was receiving care at home as a terminal patient[^18][^19].
+• **Illness:** Diagnosed with multiple sclerosis in her teens, she spent much of the following sixteen years in hospital. By 1981 she was bedridden and on oxygen, with a tracheostomy, a partially paralysed diaphragm and repeated pneumonia, and was receiving care at home as a terminal patient[^18].
 
 • **Healing:** On Pentecost Sunday, 7 June 1981, while friends from Wheaton Wesleyan Church were reading to her, she reported hearing a voice telling her to get up and walk. She got out of bed and walked, and her family and physicians reported that her symptoms had gone. She went on to marry and live an active life.
 
@@ -65,9 +65,9 @@ Critics answer that a small number of unexplained recoveries among millions of p
 
 **Delores Winder, Dallas, 1975:**
 
-• **Illness:** Winder suffered chronic, disabling pain from osteoporosis of the spine, treated with five spinal operations from the 1950s onward, and wore a full body shell. Her physicians had severed pain nerves in an attempt to control the pain[^20][^21].
+• **Illness:** Winder suffered chronic, disabling pain from osteoporosis of the spine, treated with five spinal operations from the 1950s onward, and wore a full body shell. Her physicians had severed pain nerves in an attempt to control the pain[^19][^20].
 
-• **Healing:** On 30 August 1975, at a Kathryn Kuhlman meeting in Dallas which she attended while sceptical of instant healing, she reported sensation returning and removed her brace.
+• **Healing:** On 30 August 1975, at a Kathryn Kuhlman meeting in Dallas which she attended while sceptical of instant healing, she reported sensation returning and removed her brace[^21].
 
 • **Assessment:** Her case is one of ten collected, with X-rays and records, by the physician Richard Casdorph in *The Miracles* (1976). It concerns pain and spinal osteoporosis, not scoliosis, and not a surgery in Birmingham, Alabama, as some retellings claim.
 
@@ -100,6 +100,9 @@ Critics answer that a small number of unexplained recoveries among millions of p
       title: "Recognised Lourdes Healings",
       tags: ["lourdes", "medical", "verified", "documentation"],
       content: `**The official list:** The sanctuary publishes the names, origins and recognition dates of all 72 recognised healings. The first seven were recognised together in 1862, most of the next group in 1907-1913, a large group between 1946 and 1965, and ten since 1976[^27].
+
+<?viz miracles/lourdes?>
+
 
 **The first recognitions (healed 1858, recognised 1862):**
 
@@ -150,6 +153,9 @@ Critics answer that a small number of unexplained recoveries among millions of p
       tags: ["studies", "prayer", "medicine", "research"],
       content: `**Controlled research:** Several research teams have tried to measure the effect of prayer on health, with mixed results[^41].
 
+<?viz miracles/trials?>
+
+
 **The Mozambique study (STEPP, 2010):** Candy Gunther Brown and colleagues tested 24 people in rural Mozambique with impaired hearing or vision before and after Pentecostal "proximal intercessory prayer", using an audiometer and eye charts, and reported statistically significant improvements in both. The study was published in the *Southern Medical Journal*. It had no control group and a small sample, the testers were not blinded, and the authors themselves called for further research, so it shows measurable change after prayer but cannot establish its cause[^42][^43].
 
 **The STEP trial (2006):** The largest trial of distant intercessory prayer, led by Herbert Benson of Harvard Medical School, randomised 1,802 heart bypass patients in six hospitals. Complications occurred in 52% of patients prayed for and 51% of those not prayed for, and in 59% of those who were told for certain that they were being prayed for. Distant prayer by strangers showed no benefit[^44][^45].
@@ -166,7 +172,10 @@ Critics answer that a small number of unexplained recoveries among millions of p
 
 **Why some claims remain:** A minority of cases involve conditions that do not ordinarily reverse, such as destroyed bone reforming or a malignant tumour regressing without treatment, with records made before and after, and a long period without relapse. These are the cases on which the argument rests, and apologists increasingly argue from them rather than from the much larger number of uninvestigated testimonies[^51].
 
-**The standard of evidence:** The strongest cases are those investigated by people with no stake in the outcome, with medical records from before the event. Testimony alone, however sincere, and stories that acquire details in retelling, are weak evidence, and repeating embellished versions damages the credibility of the genuine cases. Believers also hold that God's willingness to heal does not depend on whether a particular healing can be verified to a sceptic's satisfaction[^52][^53].`
+**The standard of evidence:** The strongest cases are those investigated by people with no stake in the outcome, with medical records from before the event. Testimony alone, however sincere, and stories that acquire details in retelling, are weak evidence, and repeating embellished versions damages the credibility of the genuine cases. Believers also hold that God's willingness to heal does not depend on whether a particular healing can be verified to a sceptic's satisfaction[^52][^53].
+
+<?viz miracles/ladder?>
+`
     },
     {
       id: "the-bible-on-miracles",
@@ -204,9 +213,9 @@ Critics answer that a small number of unexplained recoveries among millions of p
     "16. [Reference] Wikipedia. 'Lourdes apparitions.' Includes the history of the healings and their critics. https://en.wikipedia.org/wiki/Lourdes_apparitions",
     "17. [Apologetics] CBN. 'Are Healings Caused by the Power of Suggestion?' https://www1.cbn.com/questions/healings-caused-power-of-suggestion",
     "18. [Essay] Bentham's Bulldog (Matthew Adelstein). 'The Miraculous Healing of Barbara Snyder.' Case history with sources. https://benthams.substack.com/p/the-miraculous-healing-of-barbara",
-    "19. [Reference] Wikipedia. 'Kathryn Kuhlman.' Context for the healing ministries of the 1970s. https://en.wikipedia.org/wiki/Kathryn_Kuhlman",
-    "20. [Apologetics] Christian CADRE. 'Scientifically Documented Miracles.' Quotes Casdorph's account of Delores Winder. http://christiancadre.blogspot.com/2009/05/scientifically-documented-miracles.html",
-    "21. [Book] Goodreads. Delores Winder, 'Sanidad Sorprendente', Spanish edition of her account of the healing. https://www.goodreads.com/book/show/10779409",
+    "19. [Apologetics] Christian CADRE. 'Scientifically Documented Miracles.' Quotes Casdorph's account of Delores Winder. http://christiancadre.blogspot.com/2009/05/scientifically-documented-miracles.html",
+    "20. [Book] Goodreads. Delores Winder, 'Sanidad Sorprendente', Spanish edition of her account of the healing. https://www.goodreads.com/book/show/10779409",
+    "21. [Reference] Wikipedia. 'Kathryn Kuhlman.' Context for the healing ministries of the 1970s. https://en.wikipedia.org/wiki/Kathryn_Kuhlman",
     "22. [Interview] CBN. 'Bruce Van Natta: Saved by Angels.' https://cbn.com/article/not-selected/bruce-van-natta-saved-angels",
     "23. [Publisher] Destiny Image. 'Man Crushed in Half by Truck, Sees Angels, and Regenerates Organs.' https://www.destinyimage.com/blog/bruce-van-natta-man-crushed-in-half-sees-angels-regenerates-organs",
     "24. [Reference] Wikipedia. 'Bay Revival.' https://en.wikipedia.org/wiki/Bay_Revival",
@@ -243,5 +252,5 @@ Critics answer that a small number of unexplained recoveries among millions of p
     "55. [Reference] Wikipedia. 'Cessationism versus continuationism.' https://en.wikipedia.org/wiki/Cessationism",
     "56. [Reference] Wikipedia. 'Mark 16.' The longer ending and its manuscript evidence. https://en.wikipedia.org/wiki/Mark_16"
   ],
-  lastUpdated: "17-09-2026"
+  lastUpdated: "26-10-2026"
 }

@@ -78,7 +78,8 @@ export function linkScriptureReferences(html: string, linkClass: string): string
               .replace(/^(?:3rd|Third|III)\s+/i, "3 ")
             const reference = `${normalisedBook} ${chapter}:${verses.replace(/\s+/g, "")}`
             const url = bibleGatewayUrl(reference)
-            return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="${linkClass}">${match}</a>`
+            // data-ref drives the hover preview (components/topic-popover.tsx)
+            return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="${linkClass}" data-ref="${reference}">${match}</a>`
           },
         )
         return `${lead}${linked}`

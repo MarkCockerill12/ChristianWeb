@@ -3,6 +3,8 @@
 import React from "react"
 import { Card, CardContent } from "@/components/ui/card"
 import { linkScriptureReferences } from "@/lib/scripture"
+import { markGlossaryTerms } from "@/lib/glossary"
+import { Visual } from "@/components/visuals/registry"
 
 const CITE_CLASS =
   "text-blue-600 hover:text-blue-800 font-semibold no-underline text-xs align-super mx-0.5 transition-colors"
@@ -48,6 +50,11 @@ export function renderInline(text: string): string {
   return linkScriptureReferences(html, LINK_CLASS)
 }
 
+/** Stable DOM id for a heading: "1 Corinthians" -> "h-1-corinthians". */
+export function headingId(text: string) {
+  return `h-${text.replace(/<[^>]+>|\*\*/g, "").toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "")}`
+}
+
 function citationAnchor(url: string, id: string) {
   const external = url.startsWith("http")
   const rel = external ? ' target="_blank" rel="noopener noreferrer"' : ""
@@ -70,7 +77,8 @@ function renderMarkdown(content: string, sources: readonly string[]): string {
       level === 2 ? "text-2xl sm:text-3xl" :
       level === 3 ? "text-xl sm:text-2xl" : "text-lg sm:text-xl"
 
-    return `<h${level} class="${sizeClass} font-bold mt-8 mb-4 text-gray-900 leading-tight">${text}</h${level}>`
+    // Anchor ids let a visual (e.g. the Bible bookshelf) jump to one heading.
+    return `<h${level} id="${headingId(text)}" class="${sizeClass} font-bold mt-8 mb-4 text-gray-900 leading-tight scroll-mt-24">${text}</h${level}>`
   })
 
   // Bold
@@ -191,7 +199,27 @@ function renderMarkdown(content: string, sources: readonly string[]): string {
   flushParagraph()
   flushList()
 
-  return processedLines.join("\n")
+  return markGlossaryTerms(processedLines.join("\n"))
+}
+
+/**
+ * A visual is placed in authored content with a marker on its own line:
+ * `<?viz topic/name?>`. Splitting on the marker gives alternating prose and
+ * visual ids, so prose keeps going through the markdown pass untouched.
+ */
+const VIZ_MARKER = /^[ \t]*<\?viz\s+([\w/-]+)\s*\?>[ \t]*$/gm
+
+type Segment =
+  | { readonly kind: "html"; readonly html: string }
+  | { readonly kind: "viz"; readonly id: string }
+
+function renderSegments(content: string, sources: readonly string[]): Segment[] {
+  const out: Segment[] = []
+  content.split(VIZ_MARKER).forEach((part, i) => {
+    if (i % 2 === 1) out.push({ kind: "viz", id: part })
+    else if (part.trim()) out.push({ kind: "html", html: renderMarkdown(part, sources) })
+  })
+  return out
 }
 
 interface ContentRendererProps {
@@ -213,21 +241,33 @@ export const ContentRenderer = React.memo(function ContentRenderer({
   className = "",
   wrapInCard = true,
 }: ContentRendererProps) {
-  const html = React.useMemo(
-    () => (content?.trim() ? renderMarkdown(content, sources) : ""),
+  const segments = React.useMemo(
+    () => (content?.trim() ? renderSegments(content, sources) : []),
     [content, sources],
   )
 
-  if (!html) return null
+  if (segments.length === 0) return null
 
-  const renderedContent = (
-    <div
-      className={`topic-prose max-w-none ${className}`}
-      dangerouslySetInnerHTML={{ __html: html }}
-    />
-  )
+  const renderedContent =
+    segments.length === 1 && segments[0].kind === "html" ? (
+      <div
+        className={`topic-prose max-w-none ${className}`}
+        dangerouslySetInnerHTML={{ __html: segments[0].html }}
+      />
+    ) : (
+      <div className={`topic-prose max-w-none ${className}`}>
+        {segments.map((seg, i) =>
+          seg.kind === "viz" ? (
+            <Visual key={`viz-${i}`} id={seg.id} />
+          ) : (
+            <div key={`html-${i}`} dangerouslySetInnerHTML={{ __html: seg.html }} />
+          ),
+        )}
+      </div>
+    )
 
-  if (!wrapInCard) return renderedContent
+  // Content that is only visuals already sits in its own figure cards.
+  if (!wrapInCard || segments.every((s) => s.kind === "viz")) return renderedContent
 
   return (
     <Card className="mb-8 overflow-hidden shadow-xs hover:shadow-md transition-shadow duration-300">

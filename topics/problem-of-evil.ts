@@ -21,89 +21,95 @@ export const problemOfEvil: Topic = {
 
 One of the most prominent objections to Christianity is the logical problem of evil. The argument, often attributed to Epicurus (the attribution comes from the Christian writer Lactantius and is uncertain) and made famous by David Hume, goes as follows:
 
-If God is all-powerful, He can stop evil. If God is all-loving, He wants to stop evil. Yet evil exists. Therefore, an all-powerful and all-loving God cannot exist[^1][^2][^3].
+If God is all-powerful, He can stop evil. If God is all-loving, He wants to stop evil. Yet evil exists. Therefore, an all-powerful and all-loving God cannot exist[^1][^2].
 
-This seems logical on the surface, but it assumes two false premises: first, that an all-powerful God can do the logically impossible (like forcing someone to freely choose good), and second, that an all-loving God would have no higher purpose for allowing temporary suffering[^4][^5][^6].
+<?viz problem-of-evil/triad?>
 
-Christian philosophers also point out that "evil" is a moral judgment. On the moral argument, objective moral values, concepts of true "good" and "bad", cannot exist without a moral lawgiver (God), so that the objection presupposes a standard that is hard to ground without God. Non-theistic moral realists dispute that premise, and the evidential problem of evil can be stated without it[^7][^8].
+
+This seems logical on the surface, but it assumes two false premises: first, that an all-powerful God can do the logically impossible (like forcing someone to freely choose good), and second, that an all-loving God would have no higher purpose for allowing temporary suffering[^3][^4].
+
+Christian philosophers also point out that "evil" is a moral judgment. On the moral argument, objective moral values, concepts of true "good" and "bad", cannot exist without a moral lawgiver (God), so that the objection presupposes a standard that is hard to ground without God. Non-theistic moral realists dispute that premise, and the evidential problem of evil can be stated without it[^5][^6].
 
 ## The Free Will Defense
 The Bible teaches that God created humanity with the capacity for genuine love, which requires free will. Love that is programmed or forced is not love at all.
 
-1.  **Created in God's Image:** "So God created mankind in his own image, in the image of God he created them; male and female he created them" ([Genesis 1:26-27](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-27&version=NIV)). Being made in His image implies moral agency, the ability to make meaningful choices[^9].
+1.  **Created in God's Image:** "So God created mankind in his own image, in the image of God he created them; male and female he created them" ([Genesis 1:26-27](https://www.biblegateway.com/passage/?search=Genesis+1%3A26-27&version=NIV)). Being made in His image implies moral agency, the ability to make meaningful choices[^7].
 
 2.  **The Choice:** God provided a choice to Adam and Eve to ensure their love was voluntary. "You are free to eat from any tree in the garden; but you must not eat from the tree of the knowledge of good and evil" ([Genesis 2:16-17](https://www.biblegateway.com/passage/?search=Genesis+2%3A16-17&version=NIV)).
 
 3.  **The Fall:** Humanity chose rebellion. "When the woman saw that the fruit of the tree was good for food... she took some and ate it" ([Genesis 3:6](https://www.biblegateway.com/passage/?search=Genesis+3%3A6&version=NIV)).
 
-The philosopher Alvin Plantinga argues that it is *possible* that God could not have created a world of free creatures who always choose good, because whether free creatures sin is up to them, not to God. If God forced us to choose good, we would not be free. If that possibility holds, God and evil are logically compatible, and the potential for evil is the cost of creating a world with free will and genuine love[^10]. God values our freedom to choose Him: "Choose for yourselves this day whom you will serve" ([Joshua 24:15](https://www.biblegateway.com/passage/?search=Joshua+24%3A15&version=NIV)).
+The philosopher Alvin Plantinga argues that it is *possible* that God could not have created a world of free creatures who always choose good, because whether free creatures sin is up to them, not to God. If God forced us to choose good, we would not be free. If that possibility holds, God and evil are logically compatible, and the potential for evil is the cost of creating a world with free will and genuine love[^8]. God values our freedom to choose Him: "Choose for yourselves this day whom you will serve" ([Joshua 24:15](https://www.biblegateway.com/passage/?search=Joshua+24%3A15&version=NIV)).
 
 ## Natural Evil and a Fallen World
 But what about earthquakes, cancer, and tsunamis? These are "natural evils" not directly caused by human choice. Many Christians explain this as the result of the Fall: when sin entered the world, it fractured not just human nature, but creation itself. Christians who accept an old earth note that earthquakes, disease and animal death long predate humans, and so explain natural evil instead through the necessity of a stable, law-governed world, through a prior fall of angelic powers, or through God's purposes for a creation still in progress.
 
-"Cursed is the ground because of you" ([Genesis 3:17](https://www.biblegateway.com/passage/?search=Genesis+3%3A17&version=NIV)). The Apostle Paul writes that "the whole creation has been groaning as in the pains of childbirth right up to the present time" ([Romans 8:22](https://www.biblegateway.com/passage/?search=Romans+8%3A22&version=NIV)). We live in a broken world where the laws of nature, which sustain life, can also cause suffering[^11].
+"Cursed is the ground because of you" ([Genesis 3:17](https://www.biblegateway.com/passage/?search=Genesis+3%3A17&version=NIV)). The Apostle Paul writes that "the whole creation has been groaning as in the pains of childbirth right up to the present time" ([Romans 8:22](https://www.biblegateway.com/passage/?search=Romans+8%3A22&version=NIV)). We live in a broken world where the laws of nature, which sustain life, can also cause suffering[^9].
 
-C.S. Lewis argued that for souls to interact, there must be a neutral "nature" with fixed laws (like gravity). These laws allow us to walk and build, but they also mean that if we fall, we get hurt. A world where the laws of nature constantly changed to prevent pain would be a world without consequences or meaningful action[^12].
+C.S. Lewis argued that for souls to interact, there must be a neutral "nature" with fixed laws (like gravity). These laws allow us to walk and build, but they also mean that if we fall, we get hurt. A world where the laws of nature constantly changed to prevent pain would be a world without consequences or meaningful action[^10].
 
 ## Why Does Sin and Evil Still Exist?
 If God is all-powerful and plans to defeat evil, why does He allow sin and suffering to continue in the present day? Why not eradicate it immediately? The Bible reveals several key reasons for this delay:
 
-*   **God's Patient Mercy:** If God were to eradicate all sin and evil tonight at midnight, none of us would be alive tomorrow. God delays His final judgment to allow time for people to repent and receive His grace: "The Lord is not slow in keeping his promise... Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance" ([2 Peter 3:9](https://www.biblegateway.com/passage/?search=2+Peter+3%3A9&version=NIV))[^13].
+*   **God's Patient Mercy:** If God were to eradicate all sin and evil tonight at midnight, none of us would be alive tomorrow. God delays His final judgment to allow time for people to repent and receive His grace: "The Lord is not slow in keeping his promise... Instead he is patient with you, not wanting anyone to perish, but everyone to come to repentance" ([2 Peter 3:9](https://www.biblegateway.com/passage/?search=2+Peter+3%3A9&version=NIV)).
 
-*   **Refinement of Believers:** In a world with no trials, sin, or pain, it would be impossible to cultivate virtues like courage, mercy, self-sacrifice, and forgiveness. God uses the presence of moral struggle to mature His people: "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope" ([Romans 5:3-4](https://www.biblegateway.com/passage/?search=Romans+5%3A3-4&version=NIV))[^14].
+*   **Refinement of Believers:** In a world with no trials, sin, or pain, it would be impossible to cultivate virtues like courage, mercy, self-sacrifice, and forgiveness. God uses the presence of moral struggle to mature His people: "We also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope" ([Romans 5:3-4](https://www.biblegateway.com/passage/?search=Romans+5%3A3-4&version=NIV))[^11].
 
 *   **Preservation of Human Freedom:** Instantly vaporizing or blocking every sinful act would destroy the moral agency God gave us. By allowing sin to run its course for a season, God honors the integrity of human choice while working within it.
 
-*   **The Manifestation of His Glory:** The existence of sin allows for the display of God's most glorious attributes, such as His mercy, patience, justice, and self-sacrificing love, which would never be understood in a world that never fell. The supreme example is the cross: the greatest evil (killing the Son of God) was used by God to bring about the greatest good (the redemption of humanity) ([Genesis 50:20](https://www.biblegateway.com/passage/?search=Genesis+50%3A20&version=NIV))[^15][^16].
+*   **The Manifestation of His Glory:** The existence of sin allows for the display of God's most glorious attributes, such as His mercy, patience, justice, and self-sacrificing love, which would never be understood in a world that never fell. The supreme example is the cross: the greatest evil (killing the Son of God) was used by God to bring about the greatest good (the redemption of humanity) ([Genesis 50:20](https://www.biblegateway.com/passage/?search=Genesis+50%3A20&version=NIV))[^12].
 `,
   subtopics: [
     {
       id: "logical-vs-probabilistic",
       title: "Logical vs. Probabilistic Problems of Evil",
       tags: ["philosophy", "logic"],
-      content: `**The Philosophical Challenge:** Theologians separate the problem of evil into two distinct intellectual categories[^17]:
+      content: `**The Philosophical Challenge:** Theologians separate the problem of evil into two distinct intellectual categories[^13]:
 
-• **The Logical Problem:** Asserts that the existence of God and the existence of any evil are logically incompatible. This version is widely regarded as resolved by Alvin Plantinga's Free Will Defense, which demonstrated that God could have morally sufficient reasons for creating a world containing free creatures who commit evil[^18].
+• **The Logical Problem:** Asserts that the existence of God and the existence of any evil are logically incompatible. This version is widely regarded as resolved by Alvin Plantinga's Free Will Defense, which demonstrated that God could have morally sufficient reasons for creating a world containing free creatures who commit evil[^14].
 
-• **The Probabilistic (Evidential) Problem:** Concedes that God and evil are logically compatible, but argues that the sheer amount of gratuitous, unexplained suffering makes the existence of a good God highly improbable. Traditionalists reply that humans, being finite, are not in a position to judge whether a particular instance of suffering is truly gratuitous or if it serves a greater redemptive purpose in the grand scope of history[^19].`
+• **The Probabilistic (Evidential) Problem:** Concedes that God and evil are logically compatible, but argues that the sheer amount of gratuitous, unexplained suffering makes the existence of a good God highly improbable. Traditionalists reply that humans, being finite, are not in a position to judge whether a particular instance of suffering is truly gratuitous or if it serves a greater redemptive purpose in the grand scope of history[^15][^16].
+
+<?viz problem-of-evil/responses?>
+`
     },
     {
       id: "free-will-defense",
       title: "The Free Will Defense",
       tags: ["philosophy", "free-will", "plantinga"],
-      content: `**Why free choice matters:** God desires a relationship based on love, which requires genuine human choice[^20].
+      content: `**Why free choice matters:** God desires a relationship based on love, which requires genuine human choice[^17].
 
-• **The Limits of Omnipotence:** Omnipotence means God can do anything that is logically possible, but creating a creature with genuine free will who is forced to always choose good is a logical contradiction, like drawing a square circle[^21].
+• **The Limits of Omnipotence:** Omnipotence means God can do anything that is logically possible, but creating a creature with genuine free will who is forced to always choose good is a logical contradiction, like drawing a square circle[^18].
 
-• **The Cost of Genuine Love:** The potential for rebellion is the necessary cost of a world containing genuine moral agency, love, and relationships[^22].`
+• **The Cost of Genuine Love:** The potential for rebellion is the necessary cost of a world containing genuine moral agency, love, and relationships[^19].`
     },
     {
       id: "natural-evil",
       title: "The Mystery of Natural Evil",
       tags: ["nature", "creation", "fall"],
-      content: `**Why nature hurts:** Creation is fractured and subject to natural decay[^23].
+      content: `**Why nature hurts:** Creation is fractured and subject to natural decay[^20].
 
-• **The fractured cosmos:** The Fall did not just affect human hearts; it subjected creation itself to frustration and brokenness ([Romans 8:22](https://www.biblegateway.com/passage/?search=Romans+8%3A22&version=NIV))[^24].
+• **The fractured cosmos:** The Fall did not just affect human hearts; it subjected creation itself to frustration and brokenness ([Romans 8:22](https://www.biblegateway.com/passage/?search=Romans+8%3A22&version=NIV))[^21].
 
-• **The necessity of physical laws:** A physical universe requires fixed laws like gravity. These laws make human interaction possible, but they also mean that falling leads to injury and shifting plates lead to earthquakes. A world where God constantly suspended natural laws to prevent pain would be a chaotic world where no action has consequences[^25].`
+• **The necessity of physical laws:** A physical universe requires fixed laws like gravity. These laws make human interaction possible, but they also mean that falling leads to injury and shifting plates lead to earthquakes. A world where God constantly suspended natural laws to prevent pain would be a chaotic world where no action has consequences[^22].`
     },
     {
       id: "why-sin-continues",
       title: "Why God Permits Sin to Continue",
       tags: ["theology", "grace", "patience"],
-      content: `**Why the delay?** God has a specific plan for the timing of history's climax[^26].
+      content: `**Why the delay?** God has a specific plan for the timing of history's climax[^23].
 
-• **His merciful delay:** God is patient, waiting to execute judgment so that more people have the opportunity to repent and be saved ([2 Peter 3:9](https://www.biblegateway.com/passage/?search=2+Peter+3%3A9&version=NIV))[^27][^28].
+• **His merciful delay:** God is patient, waiting to execute judgment so that more people have the opportunity to repent and be saved ([2 Peter 3:9](https://www.biblegateway.com/passage/?search=2+Peter+3%3A9&version=NIV))[^24].
 
-• **The redemptive display:** The cross is the ultimate template: God uses human rebellion to demonstrate His highest attributes, turning evil on its head to accomplish salvation[^29].`
+• **The redemptive display:** The cross is the ultimate template: God uses human rebellion to demonstrate His highest attributes, turning evil on its head to accomplish salvation[^25][^26].`
     },
     {
       id: "soul-making-theodicy",
       title: "The Soul-Making Theodicy",
       tags: ["sanctification", "growth"],
-      content: `**Growth through trials:** God uses suffering to refine human souls[^30].
+      content: `**Growth through trials:** God uses suffering to refine human souls[^27].
 
-• **The vale of soul-making:** A phrase from the poet John Keats, adopted by the philosopher John Hick for his Irenaean theodicy, this perspective views the world not as a perfect paradise, but as a classroom designed to develop moral and spiritual virtues[^31].
+• **The vale of soul-making:** A phrase from the poet John Keats, adopted by the philosopher John Hick for his Irenaean theodicy, this perspective views the world not as a perfect paradise, but as a classroom designed to develop moral and spiritual virtues[^28].
 
 • **The Joseph Principle:** What others intend for harm, God intends for a greater redemptive good ([Genesis 50:20](https://www.biblegateway.com/passage/?search=Genesis+50%3A20&version=NIV)).`
     },
@@ -111,48 +117,45 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
       id: "gods-solidarity",
       title: "God's Solidarity in Suffering",
       tags: ["incarnation", "comfort"],
-      content: `**He is with us:** God did not remain detached; He entered our pain[^32].
+      content: `**He is with us:** God did not remain detached; He entered our pain[^29].
 
-• **The suffering savior:** Through the Incarnation, Jesus Christ experienced physical torture, emotional betrayal, and death on the cross, showing that God is not indifferent to our tears[^33].
+• **The suffering savior:** Through the Incarnation, Jesus Christ experienced physical torture, emotional betrayal, and death on the cross, showing that God is not indifferent to our tears[^30].
 
-• **The future hope:** The empty tomb guarantees that suffering is not the final chapter. Revelation 21:4 promises the complete, eternal eradication of pain and death[^34].`
+• **The future hope:** The empty tomb guarantees that suffering is not the final chapter. Revelation 21:4 promises the complete, eternal eradication of pain and death[^31].`
     }
   ],
             sources: [
     "1. [Philosophy] Internet Encyclopedia of Philosophy. 'The Logical Problem of Evil.' https://iep.utm.edu/evil-log/",
-    "2. https://www.thegospelcoalition.org/essay/the-problem-of-evil/",
-    "3. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. Skeptical Theism. The reply from limits on human insight into divine reasons. https://plato.stanford.edu/entries/skeptical-theism/",
-    "4. [Apologetics] Reasonable Faith. 'The Problem of Evil.' https://www.reasonablefaith.org/writings/popular-writings/existence-natureof-god/the-problem-of-evil",
-    "5. https://www.gotquestions.org/God-allow-evil.html",
-    "6. [Peer-Reviewed] Internet Encyclopedia of Philosophy. The Evidential Problem of Evil. The probabilistic form of the objection. https://iep.utm.edu/evil-evi/",
-    "7. [Apologetics] Reasonable Faith. 'Can We Be Good Without God?' https://www.reasonablefaith.org/writings/popular-writings/existence-natureof-god/can-we-be-good-without-god",
-    "8. [Apologetics] GotQuestions.org. What is the problem of evil? Overview of the objection and the standard replies. https://www.gotquestions.org/problem-of-evil.html",
-    "9. [Theology] GotQuestions. 'What is Free Will?' https://www.gotquestions.org/free-will.html",
-    "10. [Philosophy] Internet Encyclopedia of Philosophy. 'Alvin Plantinga: The Free Will Defense.' https://iep.utm.edu/evil-log/#H2",
-    "11. [Theology] GotQuestions. 'What is the difference between natural evil and moral evil?' https://www.gotquestions.org/natural-moral-evil.html",
-    "12. [Theology] C.S. Lewis Institute. 'C.S. Lewis on the Problem of Pain.' https://www.cslewisinstitute.org/resources/c-s-lewis-on-the-problem-of-pain/",
-    "13. [Reference] Wikipedia. The Problem of Pain. The book-length treatment by Lewis. https://en.wikipedia.org/wiki/The_Problem_of_Pain",
-    "14. [Theology] Ligonier Ministries. 'The Eternal Weight of Glory.' https://learn.ligonier.org/devotionals/eternal-weight-of-glory",
-    "15. [Commentary] Bible Hub. 'Commentaries on Psalm 46:1.' https://biblehub.com/commentaries/psalms/46-1.htm",
-    "16. [Book Resource] Desiring God. 'Suffering and the Sovereignty of God (John Piper).' https://www.desiringgod.org/books/suffering-and-the-sovereignty-of-god",
-    "17. [Commentary] Bible Hub. 'Commentaries on Job 42:1.' https://biblehub.com/commentaries/job/42-1.htm",
-    "18. [Commentary] Bible Hub. 'Commentaries on Psalm 73:2.' https://biblehub.com/commentaries/psalms/73-2.htm",
-    "19. [Commentary] Bible Hub. 'Commentaries on Genesis 3:17.' https://biblehub.com/commentaries/genesis/3-17.htm",
-    "20. [Commentary] Bible Hub. 'Commentaries on Romans 8:28.' https://biblehub.com/commentaries/romans/8-28.htm",
-    "21. [Reference] Wikipedia. Free will. The capacity on which the free-will defence depends. https://en.wikipedia.org/wiki/Free_will",
-    "22. [Commentary] Bible Hub. 'Commentaries on Hebrews 12:5.' https://biblehub.com/commentaries/hebrews/12-5.htm",
-    "23. [Reference] Wikipedia. Crucifixion of Jesus. The claim that God enters the suffering rather than standing outside it. https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
-    "24. [Reference] Wikipedia. Atonement in Christianity. What the cross accomplishes with regard to evil. https://en.wikipedia.org/wiki/Atonement_in_Christianity",
-    "25. [Commentary] Bible Hub. 'Commentaries on Isaiah 55:8.' https://biblehub.com/commentaries/isaiah/55-8.htm",
-    "26. [Reference] Wikipedia. Eschatology. The final resolution to which the Christian answer appeals. https://en.wikipedia.org/wiki/Eschatology",
-    "27. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. Pain. Philosophical analysis of the experience itself. https://plato.stanford.edu/entries/pain/",
-    "28. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. Religion and Morality. The relationship bearing on moral objections to theism. https://plato.stanford.edu/entries/religion-morality/",
-    "29. [Reference] Wikipedia. Theodicy. The main attempts to reconcile divine goodness with evil. https://en.wikipedia.org/wiki/Theodicy",
-    "30. [Reference] Wikipedia. Original sin. The condition the fall introduced. https://en.wikipedia.org/wiki/Original_sin",
-    "31. [Reference] Wikipedia. Omnipotence. The attribute the objection places under strain. https://en.wikipedia.org/wiki/Omnipotence",
-    "32. [Commentary] Bible Hub. 'Commentaries on 2 Thessalonians 1:6.' https://biblehub.com/commentaries/2_thessalonians/1-6.htm",
-    "33. [Commentary] Bible Hub. 'Commentaries on Ephesians 6:12.' https://biblehub.com/commentaries/ephesians/6-12.htm",
-    "34. [Reference] Wikipedia. Last Judgment. The final accounting to which Scripture appeals. https://en.wikipedia.org/wiki/Last_Judgment"
+    "2. [Apologetics] The Gospel Coalition. The Problem of Evil. https://www.thegospelcoalition.org/essay/the-problem-of-evil/",
+    "3. [Apologetics] Reasonable Faith. 'The Problem of Evil.' https://www.reasonablefaith.org/writings/popular-writings/existence-natureof-god/the-problem-of-evil",
+    "4. [Apologetics] GotQuestions.org. Why does God allow evil? https://www.gotquestions.org/God-allow-evil.html",
+    "5. [Apologetics] Reasonable Faith. 'Can We Be Good Without God?' https://www.reasonablefaith.org/writings/popular-writings/existence-natureof-god/can-we-be-good-without-god",
+    "6. [Apologetics] GotQuestions.org. What is the problem of evil? Overview of the objection and the standard replies. https://www.gotquestions.org/problem-of-evil.html",
+    "7. [Theology] GotQuestions. 'What is Free Will?' https://www.gotquestions.org/free-will.html",
+    "8. [Philosophy] Internet Encyclopedia of Philosophy. 'Alvin Plantinga: The Free Will Defense.' https://iep.utm.edu/evil-log/#H2",
+    "9. [Theology] GotQuestions. 'What is the difference between natural evil and moral evil?' https://www.gotquestions.org/natural-moral-evil.html",
+    "10. [Theology] C.S. Lewis Institute. 'C.S. Lewis on the Problem of Pain.' https://www.cslewisinstitute.org/resources/c-s-lewis-on-the-problem-of-pain/",
+    "11. [Theology] Ligonier Ministries. 'The Eternal Weight of Glory.' https://learn.ligonier.org/devotionals/eternal-weight-of-glory",
+    "12. [Book Resource] Desiring God. 'Suffering and the Sovereignty of God (John Piper).' https://www.desiringgod.org/books/suffering-and-the-sovereignty-of-god",
+    "13. [Peer-Reviewed] Internet Encyclopedia of Philosophy. The Evidential Problem of Evil. The probabilistic form of the objection. https://iep.utm.edu/evil-evi/",
+    "14. [Encyclopedia] Wikipedia. Alvin Plantinga's free-will defense. https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense",
+    "15. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. Skeptical Theism. The reply from limits on human insight into divine reasons. https://plato.stanford.edu/entries/skeptical-theism/",
+    "16. [Commentary] Bible Hub. 'Commentaries on Isaiah 55:8.' https://biblehub.com/commentaries/isaiah/55-8.htm",
+    "17. [Apologetics] Bible Hub. What is the purpose of God granting free will? https://biblehub.com/q/why_does_god_grant_free_will.htm",
+    "18. [Reference] Wikipedia. Omnipotence. The attribute the objection places under strain. https://en.wikipedia.org/wiki/Omnipotence",
+    "19. [Apologetics] C.S. Lewis Institute. Reflections: The Problem of Evil and the Necessity of Choice (quoting Mere Christianity). https://www.cslewisinstitute.org/resources/reflections-august-2007/",
+    "20. [Commentary] Bible Hub. Romans 8:20 Commentaries. https://biblehub.com/commentaries/romans/8-20.htm",
+    "21. [Commentary] Bible Hub. 'Commentaries on Genesis 3:17.' https://biblehub.com/commentaries/genesis/3-17.htm",
+    "22. [Reference] Wikipedia. The Problem of Pain. The book-length treatment by Lewis. https://en.wikipedia.org/wiki/The_Problem_of_Pain",
+    "23. [Reference] Wikipedia. Eschatology. The final resolution to which the Christian answer appeals. https://en.wikipedia.org/wiki/Eschatology",
+    "24. [Commentary] Bible Hub. 2 Peter 3:9 Commentaries. https://biblehub.com/commentaries/2_peter/3-9.htm",
+    "25. [Reference] Wikipedia. Atonement in Christianity. What the cross accomplishes with regard to evil. https://en.wikipedia.org/wiki/Atonement_in_Christianity",
+    "26. [Commentary] Bible Hub. 'Commentaries on Romans 8:28.' https://biblehub.com/commentaries/romans/8-28.htm",
+    "27. [Commentary] Bible Hub. 'Commentaries on Hebrews 12:5.' https://biblehub.com/commentaries/hebrews/12-5.htm",
+    "28. [Reference] Wikipedia. Theodicy. The main attempts to reconcile divine goodness with evil. https://en.wikipedia.org/wiki/Theodicy",
+    "29. [Commentary] Bible Hub. 'Commentaries on Psalm 46:1.' https://biblehub.com/commentaries/psalms/46-1.htm",
+    "30. [Reference] Wikipedia. Crucifixion of Jesus. The claim that God enters the suffering rather than standing outside it. https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+    "31. [Commentary] Bible Hub. Revelation 21:4 Commentaries. https://biblehub.com/commentaries/revelation/21-4.htm"
   ],
-  lastUpdated: "17-09-2026",
+  lastUpdated: "26-10-2026",
 }

@@ -2,13 +2,15 @@
 
 import React, { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import Link from "next/link"
-import { ArrowLeft, BookOpen, Calendar, ChevronDown, ChevronUp, ExternalLink } from "lucide-react"
+import { ArrowLeft, ArrowUp, BookOpen, Calendar, ChevronDown, ChevronUp, Clock, ExternalLink, ListTree } from "lucide-react"
 
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { BibleVerse } from "@/components/bible-verse"
 import { ContentRenderer } from "@/components/content-renderer"
+import { TopicPopover } from "@/components/topic-popover"
+import { TopicPageContext, sectionDomId } from "@/components/topic-context"
 import type { Topic } from "@/topics/types"
 
 type Subtopic = NonNullable<Topic["subtopics"]>[number]
@@ -137,7 +139,8 @@ const SubtopicCard = React.memo(function SubtopicCard({
 }) {
   return (
     <Card
-      className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 cursor-pointer"
+      id={sectionDomId(sub.id)}
+      className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 cursor-pointer scroll-mt-24"
       onClick={() => onToggle(sub.id)}
     >
       <CardHeader className="flex flex-col">
@@ -177,6 +180,101 @@ const SubtopicCard = React.memo(function SubtopicCard({
     </Card>
   )
 })
+
+/** Rough reading time over the prose, ignoring markup and visual markers. */
+function readingMinutes(topic: Topic) {
+  const text = [topic.content, ...(topic.subtopics ?? []).map((s) => s.content)].join(" ")
+  const words = text.replace(/<[^>]+>|\[\^\d+\]/g, " ").split(/\s+/).filter(Boolean).length
+  return Math.max(1, Math.round(words / 230))
+}
+
+/** Thin bar under the navigation showing how far down the page the reader is. */
+function ReadingProgress() {
+  const [progress, setProgress] = useState(0)
+  const [showTop, setShowTop] = useState(false)
+  useEffect(() => {
+    let frame = 0
+    const onScroll = () => {
+      cancelAnimationFrame(frame)
+      frame = requestAnimationFrame(() => {
+        const max = document.documentElement.scrollHeight - window.innerHeight
+        setProgress(max > 0 ? Math.min(1, window.scrollY / max) : 0)
+        setShowTop(window.scrollY > 1200)
+      })
+    }
+    onScroll()
+    window.addEventListener("scroll", onScroll, { passive: true })
+    window.addEventListener("resize", onScroll)
+    return () => {
+      cancelAnimationFrame(frame)
+      window.removeEventListener("scroll", onScroll)
+      window.removeEventListener("resize", onScroll)
+    }
+  }, [])
+  return (
+    <>
+      <div className="fixed left-0 right-0 top-16 z-40 h-1 pointer-events-none" aria-hidden>
+        <div className="h-full bg-blue-600 origin-left" style={{ transform: `scaleX(${progress})` }} />
+      </div>
+      {showTop && (
+        <button
+          type="button"
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          className="fixed bottom-6 right-6 z-40 rounded-full bg-blue-600 p-3 text-white shadow-lg hover:bg-blue-700"
+          aria-label="Back to top"
+        >
+          <ArrowUp className="h-5 w-5" />
+        </button>
+      )}
+    </>
+  )
+}
+
+/** Every section of the topic, one click to open and jump to it. */
+function ContentsCard({
+  subtopics,
+  onOpen,
+}: {
+  readonly subtopics: readonly Subtopic[]
+  readonly onOpen: (id: string) => void
+}) {
+  const [open, setOpen] = useState(subtopics.length <= 12)
+  const shown = open ? subtopics : subtopics.slice(0, 9)
+  return (
+    <Card className="mb-8">
+      <CardHeader className="pb-0">
+        <CardTitle className="flex items-center gap-2 text-lg">
+          <ListTree className="h-5 w-5 text-purple-600" />
+          In this topic
+          <span className="text-sm font-normal text-gray-500">({subtopics.length} sections)</span>
+        </CardTitle>
+      </CardHeader>
+      <CardContent>
+        <ol className="grid gap-x-6 gap-y-1.5 sm:grid-cols-2 lg:grid-cols-3 list-decimal pl-5 text-sm marker:text-gray-400">
+          {shown.map((sub) => (
+            <li key={sub.id}>
+              <a
+                href={`#${sectionDomId(sub.id)}`}
+                onClick={(e) => {
+                  e.preventDefault()
+                  onOpen(sub.id)
+                }}
+                className="text-blue-700 hover:text-blue-900 hover:underline"
+              >
+                {sub.title}
+              </a>
+            </li>
+          ))}
+        </ol>
+        {subtopics.length > 12 && (
+          <Button variant="ghost" size="sm" className="mt-3" onClick={() => setOpen((v) => !v)}>
+            {open ? "Show fewer" : `Show all ${subtopics.length} sections`}
+          </Button>
+        )}
+      </CardContent>
+    </Card>
+  )
+}
 
 function SourcesCard({ sources }: { readonly sources: readonly string[] }) {
   return (
@@ -276,7 +374,43 @@ export function TopicPage({
   const { search, setSearch, selectedTag, setSelectedTag, allTags, filtered } =
     useSubtopicFilter(subtopics)
 
+  // Opening a section clears any filter that would hide it, then scrolls once
+  // the card has rendered expanded. The hash makes the section linkable.
+  const openSection = useCallback(
+    (id: string, anchorId?: string) => {
+      setSearch("")
+      setSelectedTag(null)
+      expand(id)
+      history.replaceState(null, "", `#${sectionDomId(id)}`)
+      requestAnimationFrame(() =>
+        requestAnimationFrame(() =>
+          document
+            .getElementById(anchorId ?? sectionDomId(id))
+            ?.scrollIntoView({ behavior: "smooth", block: "start" }),
+        ),
+      )
+    },
+    [expand, setSearch, setSelectedTag],
+  )
+
+  // Deep links: /categories/x#section-y opens that section on arrival. Only on
+  // first load; later hash changes come from openSection itself.
+  const initialHash = useRef(true)
+  useEffect(() => {
+    if (!initialHash.current) return
+    initialHash.current = false
+    const m = /^#section-(.+)$/.exec(window.location.hash)
+    const id = m ? decodeURIComponent(m[1]) : null
+    if (id && subtopics.some((s) => s.id === id)) openSection(id)
+  }, [openSection, subtopics])
+
+  const context = useMemo(() => ({ expand, openSection }), [expand, openSection])
+  const minutes = useMemo(() => readingMinutes(category), [category])
+
   return (
+    <TopicPageContext.Provider value={context}>
+    <ReadingProgress />
+    <TopicPopover />
     <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 py-8">
       <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mb-6">
@@ -301,9 +435,15 @@ export function TopicPage({
               {category.title}
             </CardTitle>
             <CardDescription className="text-lg">{category.description}</CardDescription>
-            <div className="flex items-center gap-2 text-sm text-gray-500 mt-4">
-              <Calendar className="h-4 w-4" />
-              Last updated: {category.lastUpdated}
+            <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-sm text-gray-500 mt-4">
+              <span className="inline-flex items-center gap-2">
+                <Calendar className="h-4 w-4" />
+                Last updated: {category.lastUpdated}
+              </span>
+              <span className="inline-flex items-center gap-2">
+                <Clock className="h-4 w-4" />
+                {minutes} min read
+              </span>
             </div>
           </CardHeader>
         </Card>
@@ -325,8 +465,22 @@ export function TopicPage({
 
         {beforeSubtopics}
 
+        {subtopics.length >= 3 && <ContentsCard subtopics={subtopics} onOpen={openSection} />}
+
         {subtopics.length > 0 && (
           <>
+            {subtopics.length > 1 && (
+              <div className="flex justify-end gap-2 mb-3">
+                <Button variant="outline" size="sm" onClick={() => setExpanded(new Set(subtopics.map((s) => s.id)))}>
+                  <ChevronDown className="h-4 w-4 mr-1" />
+                  Expand all
+                </Button>
+                <Button variant="outline" size="sm" onClick={() => setExpanded(new Set())}>
+                  <ChevronUp className="h-4 w-4 mr-1" />
+                  Collapse all
+                </Button>
+              </div>
+            )}
             <SubtopicSearch
               search={search}
               onSearch={setSearch}
@@ -394,5 +548,6 @@ export function TopicPage({
         </div>
       </div>
     </div>
+    </TopicPageContext.Provider>
   )
 }

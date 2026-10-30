@@ -223,6 +223,9 @@ The interpretive question turns largely on genre and on one Hebrew word, *yom*, 
 
 **Literary structure.** Days one to three form realms (light and darkness; sky and sea; land and plants), and days four to six fill them in the same order (lights; birds and fish; land animals and humans). The framework interpretation, developed by Meredith Kline, reads this as a deliberate topical arrangement rather than a chronological log[^16]. John Walton reads Genesis 1 against its ancient setting as God assigning functions to the cosmos as his temple[^17], and C. John Collins argues that the days are God's workdays described by analogy with ours[^18].
 
+<?viz evolution/framework?>
+
+
 **Divine time.** Psalm 90:4 and 2 Peter 3:8 say that a thousand years are like a day to God. Both are poetic statements about God's relation to time rather than formulas for converting days into ages, and neither side's case depends on them[^19].
 `
     },
@@ -250,6 +253,9 @@ The modern debate is often presented as a new compromise with science. The histo
       tags: ["yec", "oec", "gap theory", "framework", "evolutionary creation", "intelligent design"],
       content: `
 The positions below are all held by Christians who accept the authority of Scripture. They differ on the age of the earth, on how the days are read, and on common descent[^37].
+
+<?viz evolution/views?>
+
 
 *   **Young Earth Creationism.** The universe and earth are roughly 6,000 to 10,000 years old, created in six consecutive 24-hour days. Distinct "kinds" were created separately, there was no animal death before Adam's sin, and a global flood laid down most of the fossil-bearing rock. Represented by Answers in Genesis, the Institute for Creation Research and Creation Ministries International[^38].
 *   **Gap Theory.** An indefinite period separates Genesis 1:1 from 1:2, sometimes linked to the fall of Satan, and the six days describe a later re-creation. Popularised by the Scofield Reference Bible (1909), it is now held by few scholars because the Hebrew of 1:2 does not naturally describe a later ruin[^39][^40].
@@ -291,6 +297,9 @@ All of these views hold that God created deliberately, that the universe is not 
       tags: ["radiometric dating", "carbon dating", "geology", "age of the earth"],
       content: `
 **How it works.** Some atoms are unstable and decay into other atoms at a fixed rate, expressed as a half-life: the time taken for half of a quantity of the parent isotope to turn into its daughter product. When a mineral crystallises it locks in parent atoms, and the daughter atoms then build up inside it. Measuring the ratio of parent to daughter, and knowing the half-life, gives the time since the mineral formed[^75][^76][^77].
+
+<?viz evolution/decay?>
+
 
 **The main methods.** Different decay systems suit different materials and time ranges.
 
@@ -355,6 +364,9 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
       tags: ["ice cores", "tree rings", "varves", "dating", "yec"],
       content: `
 **Why they matter.** These methods do not depend on radioactive decay at all. They count layers laid down once a year, like counting the rings of a tree, and they reach back far beyond a young earth chronology. Where they overlap with radiocarbon they are used to check it, and the two agree.
+
+<?viz evolution/clocks?>
+
 
 **Ice cores.**
 
@@ -424,6 +436,12 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
       tags: ["human evolution", "fossils", "neanderthals", "genetics"],
       content: `
 **The scientific picture.** The fossil record of the human lineage is now extensive, and the dates below are those of mainstream palaeoanthropology[^202].
+
+<?viz evolution/fossils?>
+
+
+<?viz evolution/hominins?>
+
 
 *   **Earliest hominins (about 7 to 4 million years ago).** Sahelanthropus from Chad and later Ardipithecus show a mix of ape-like and human-like features, including signs of upright walking[^203].
 *   **Australopithecines (about 4 to 2 million years ago).** Australopithecus afarensis, represented by "Lucy" (3.2 million years), walked upright with a chimpanzee-sized brain; footprints at Laetoli in Tanzania, 3.66 million years old, show a human-like gait[^204][^205].
@@ -515,6 +533,9 @@ Christians may differ on the age of the earth. The historicity of Adam stands on
       content: `
 Arguments that collapse under examination damage the case they are meant to support. The common arguments are set out with the scientific response[^279].
 
+<?viz evolution/arguments?>
+
+
 *   **"Evolution is just a theory."** In science a theory is a well-tested explanation, not a guess, and evolution is both an observed fact (populations change) and a theory explaining how[^280]. **Does not hold.**
 *   **"Evolution violates the second law of thermodynamics."** The second law applies to closed systems. The earth receives energy from the sun, and local increases in order, like growing plants or forming crystals, happen constantly[^281]. **Does not hold.**
 *   **"There are no transitional fossils."** Many are known, including Tiktaalik, Archaeopteryx, the whale series and the reptile-to-mammal jaw transition[^282]. **Does not hold.**
@@ -537,6 +558,9 @@ Arguments that collapse under examination damage the case they are meant to supp
       tags: ["genesis 1", "order", "sun", "concordism"],
       content: `
 **The objection.** Read as a scientific chronology, the order of Genesis 1 does not match the order science reconstructs. Light and "evening and morning" come before the sun (days one and four); land plants and fruit trees come before the sun, moon and stars (days three and four); birds and sea creatures, including whales, come before land animals (days five and six), whereas land vertebrates appear before birds and whales evolved from land mammals; and the earth exists before the stars[^303].
+
+<?viz evolution/order?>
+
 
 **The responses.**
 
@@ -571,6 +595,9 @@ The same question is treated among the [supposed contradictions](/categories/con
       content: `
 **The objection.** Genesis 1:6-8 describes a *raqia*, traditionally translated "firmament", separating waters above from waters below. Elsewhere the sky is "hard as a mirror of cast bronze" (Job 37:18), has "windows" through which the Flood waters came (Genesis 7:11), and the earth rests on pillars and foundations. Critics argue that Scripture assumes the ancient Near Eastern picture of a flat earth under a solid dome with a heavenly ocean above it[^312][^313].
 
+<?viz evolution/cosmology?>
+
+
 **The evidence in the text.** The noun *raqia* comes from a verb meaning to beat out or spread, used of hammering metal, and many Old Testament scholars, including evangelicals such as John Walton, agree that Israel shared the common ancient picture of the sky[^314][^315][^316].
 
 **The responses.**
@@ -592,6 +619,9 @@ The same question is treated among the [supposed contradictions](/categories/con
 **What the parallels show.** The similarities are real and extensive, and they show that Genesis addresses questions its neighbours also asked, in shared images and forms. Hermann Gunkel argued that Genesis adapted the Babylonian combat myth, but most scholars now reject direct copying from any one text, and David Tsumura's linguistic study concluded that *tehom* reflects a common Semitic word for the ocean rather than being derived from the goddess[^327].
 
 **The differences.** The contrasts are as striking as the similarities.
+
+<?viz evolution/parallels?>
+
 
 *   **One God, not many.** In *Enūma Eliš* the world is made from the corpse of a slain goddess after a war among gods; in Genesis one God creates by his word, and the sea monsters are simply creatures he made.
 *   **Humanity's dignity.** In *Atrahasis* humans are made to do the gods' labour; in Genesis they are made in God's image to rule creation on his behalf.
@@ -639,6 +669,9 @@ The same question is treated among the [supposed contradictions](/categories/con
 
 **The ark and biology.** Ark Encounter estimates that about 1,398 kinds, some 6,744 animals, would have been needed[^349]. Critics raise the care and feeding of the animals for a year, the redistribution of animals afterwards (kangaroos only to Australia, sloths only to the Americas), and the absence of the severe genetic bottleneck that eight people and two animals of each kind would leave in every species about 4,300 years ago. Young earth creationists answer with land bridges, rapid post-Flood speciation and created genetic diversity.
 
+<?viz evolution/ark?>
+
+
 **The regional or local flood view.** Many old earth Christians hold that the Flood was a real, catastrophic event that destroyed the human world of its day in Mesopotamia, described from the perspective of those who experienced it, in which "the whole earth" and "under the entire heavens" describe the whole horizon and land known to them, as similar phrases do elsewhere (Acts 2:5, Colossians 1:23). Hugh Ross and Reasons to Believe hold this view; Answers in Genesis argues that it cannot account for the text's description of the waters covering the mountains or for the size of the ark[^350][^351]. Excavations at Shuruppak, Noah's home in the Sumerian tradition, and at Ur and Kish found major flood deposits, though from different dates[^352]. The proposal that the Black Sea flooded catastrophically around 5600 BC is disputed[^353].
 
 **The New Testament.** Jesus referred to Noah and the Flood as real events (Matthew 24:37-39), and 2 Peter 3:6 says that "the world of that time was deluged and destroyed"[^354][^355]. Both sides accept the Flood as historical; they differ over whether these texts require it to have covered the entire planet or the entire world of humanity.
@@ -656,6 +689,9 @@ The same question is treated among the [supposed contradictions](/categories/con
 **The genealogies and chronology.** Ussher's date of 4004 BC depends on adding up the ages in Genesis 5 and 11 as a continuous chronology[^361]. In 1890 William Henry Green of Princeton Seminary, a defender of inerrancy, argued that biblical genealogies often omit generations (Matthew 1:8 skips three kings, for example) and were "not intended to be used" for chronology[^362]. Young earth creationists reply that Genesis 5 and 11 differ from other genealogies because they give each father's age at the birth of the next name, so that even with gaps the years still add up. The Septuagint gives substantially larger numbers than the Hebrew text, and its Genesis 11 includes an extra generation, Cainan, whom Luke 3:36 also names[^363][^364].
 
 **The long lifespans.** Adam lives 930 years and Methuselah 969[^365]. No known biological mechanism allows such ages.
+
+<?viz evolution/lifespans?>
+
 
 *   **Literal.** Young earth creationists hold the ages are exact, explained by a different pre-Flood environment or a healthier original genome, with lifespans declining after the Flood.
 *   **Symbolic or honorific.** Carol Hill argued that the ages combine real and sacred numbers in the Mesopotamian sexagesimal system, built mainly from multiples of 60 and 7, conveying significance rather than precise durations[^366].
@@ -984,7 +1020,7 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
     "254. [Commentary] Bible Hub. 'Commentaries on Acts 17:26.' https://biblehub.com/commentaries/acts/17-26.htm",
     "255. [Reference] Wikipedia. 'Human genetic variation.' https://en.wikipedia.org/wiki/Human_genetic_variation",
     "256. [Reference] Wikipedia. 'Population bottleneck.' https://en.wikipedia.org/wiki/Population_bottleneck",
-    "257. [Journal] BIO-Complexity. Hossjer and Gauger, 'A Single-Couple Human Origin is Possible' (2019). https://bio-complexity.org/ojs/index.php/main/article/viewArticle/114",
+    "257. [Journal] BIO-Complexity. Hössjer and Gauger, 'A Single-Couple Human Origin is Possible' (2019). https://doi.org/10.5048/BIO-C.2019.1",
     "258. [Peer-Reviewed Journal] Science. Hu et al., 'Genomic inference of a severe human bottleneck during the Early to Middle Pleistocene transition' (2023). https://www.science.org/doi/10.1126/science.abq7487",
     "259. [Reference] Wikipedia. 'Mitochondrial Eve.' https://en.wikipedia.org/wiki/Mitochondrial_Eve",
     "260. [Reference] Wikipedia. 'Y-chromosomal Adam.' https://en.wikipedia.org/wiki/Y-chromosomal_Adam",
@@ -1104,10 +1140,10 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
     "374. [Peer-Reviewed Journal] Biology Direct. 'On the origin of the translation system and the genetic code in the RNA world' (2007). https://link.springer.com/article/10.1186/1745-6150-2-14",
     "375. [Peer-Reviewed Journal] Biology Direct. 'On the origin of the genetic code and tRNA before translation' (2011). https://link.springer.com/article/10.1186/1745-6150-6-14",
     "376. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
-    "377. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'Teleological Arguments for God's Existence.' https://plato.stanford.edu/entries/teleological-arguments/",
+    "377. [Primary Text] New Advent. Thomas Aquinas, 'Summa Theologiae' I, Q. 105, art. 5: Whether God works in every agent. https://www.newadvent.org/summa/1105.htm",
     "378. [Reference] Wikipedia. 'On the Origin of Species.' Including its religious reception. https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
     "379. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Catholics and Evolution.' https://www.newadvent.org/cathen/05654a.htm",
     "380. [Reference] Wikipedia. 'Evolutionary argument against naturalism.' https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism"
   ],
-  lastUpdated: "27-09-2026"
+  lastUpdated: "26-10-2026"
 }

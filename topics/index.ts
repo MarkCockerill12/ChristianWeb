@@ -30,6 +30,7 @@ import { TREE_OF_KNOWLEDGE } from "./tree-of-knowledge"
 import { trinity } from "./trinity"
 import { women } from "./women"
 import { prayer } from "./prayer"
+import { PAGAN_ORIGINS } from "./pagan-origins"
 
 export type { Topic } from "./types"
 
@@ -68,6 +69,7 @@ const availableTopics: readonly Topic[] = [
   trinity,
   women,
   prayer,
+  PAGAN_ORIGINS,
 ]
 
 const topicsById = new Map(availableTopics.map((topic) => [topic.id, topic]))

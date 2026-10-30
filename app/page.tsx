@@ -8,6 +8,33 @@ import { UpdatesFeed, type UpdateItem } from "./updates-feed"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 11,
+    title: "Every Citation Checked Against Its Claim",
+    description:
+      "An earlier sourcing pass had attached many sources to claims they did not support. Every citation on every topic has now been checked by hand: sources were moved to the claims they actually support, unrelated ones were removed, broken titles were fixed, and more than 470 new verified sources were added where a claim had none. More than 35 factual details were corrected along the way, including Josephus on the temple's destruction, an Ignatius quotation, Bethsaida's Byzantine church, the deuteron binding margin and several statistics.",
+    date: "30/10/2026",
+    category: "Citations & Sources",
+    link: "/categories/resurrection",
+  },
+  {
+    id: 10,
+    title: "New Topic: Was Christianity Copied From Pagan Myths?",
+    description:
+      "A new page testing the claim that Jesus and the Bible were borrowed from other religions: Horus, Osiris and Isis, Mithras, dying and rising gods, Dionysus, Krishna, Apollonius and the Roman emperor cult, then the real Old Testament parallels from Babylon, Egypt and Ugarit, and Persian influence. It also traces the origins of Christmas, Easter, Halloween, Sunday and Valentine's Day custom by custom, with a claim checker, a source-dating chart and a holiday scorecard.",
+    date: "29/10/2026",
+    category: "New Topic",
+    link: "/categories/pagan-origins",
+  },
+  {
+    id: 9,
+    title: "Charts, Maps, Tables and Pictures on Every Topic",
+    description:
+      "Every topic now has interactive visuals alongside the text: over 120 charts, maps, comparison tables, timelines, diagrams and photographs, each with its own sources. Highlights include a filterable explorer of all 53 prophecies and 39 alleged contradictions, a bookshelf of the 66 books, the Shield of the Trinity, a scorecard of resurrection theories, maps of archaeological finds, real earthquake data and a world map of religions. Long topics now have a contents list, verse previews on hover, a glossary of technical terms and a dark mode. Several factual errors found along the way were corrected.",
+    date: "26/10/2026",
+    category: "New Features",
+    link: "/categories/resurrection",
+  },
+  {
     id: 8,
     title: "New Topic: Bible Translations",
     description:

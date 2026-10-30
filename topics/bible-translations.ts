@@ -52,6 +52,9 @@ Translating Scripture is as old as Scripture. When Ezra read the Law to the retu
 
 ${SPECTRUM_TABLE}
 
+<?viz bible-translations/spectrum?>
+
+
 Publishers place their own versions on this spectrum. Crossway calls the ESV "essentially literal", Lifeway places the CSB in the middle of the formal-to-functional range, and the NIV's translators describe their aim as balancing transparency to the original with ease of understanding[^9][^10][^11].
 `,
   subtopics: [
@@ -75,6 +78,12 @@ The New Testament survives in more than 5,800 Greek manuscripts, around 10,000 L
 Printed Greek New Testaments fall into three families, and the family a translation uses explains most of the differences in its New Testament:
 
 - **The Textus Receptus** ("received text") is the line of printed editions that began with Erasmus in 1516 and continued through Stephanus (1550), Beza and the Elzevirs. Erasmus worked from a small number of late manuscripts, and this text underlies the Reformation-era Bibles, including the KJV[^23][^24].
+
+<?viz bible-translations/manuscripts?>
+
+
+<?viz bible-translations/manuscript-timeline?>
+
 - **The Majority Text** follows whatever reading most surviving manuscripts contain. Because more than 80% of the later minuscule manuscripts carry the Byzantine text, this produces a Byzantine text, edited in modern form by Hodges and Farstad and by Robinson and Pierpont[^25][^26].
 - **The Critical Text**, published as the Nestle-Aland 28th edition and the identical United Bible Societies 5th edition, weighs the age and quality of manuscripts rather than their number. It forms the basis of most modern translations[^27][^28].
 `
@@ -96,6 +105,9 @@ Printed Greek New Testaments fall into three families, and the family a translat
 - **Romans 12:1.** Paul addresses the church as *adelphoi*, which Greek used for a mixed group as well as for men. The KJV and ESV have "brethren" or "brothers"; the NIV, CSB, NASB 2020 and NLT have "brothers and sisters"[^37][^38].
 
 Each approach carries a cost. A formal translation preserves the links between words and passages and leaves interpretation to the reader, but can produce English that is wooden or misleading. Crossway argues that thought-for-thought versions are more likely to carry the translator's interpretive views[^39][^40]. Functional translators answer that every translation interprets, and that clarity in the receptor language is itself a form of accuracy[^41].
+
+<?viz bible-translations/verse-comparer?>
+
 `
     },
     {
@@ -149,6 +161,9 @@ Its footnotes mark the places where the Critical Text and the Majority Text read
       content: `
 - **The Revised Version** (1881-1885) and its American counterpart, the **American Standard Version** (1901), were the first official revisions of the KJV and the first English Bibles on a critical Greek text. Westcott and Hort sat on the revision committee[^72][^73].
 - **The Revised Standard Version** (1952), from the National Council of Churches, rendered Isaiah 7:14 as "a young woman shall conceive". The choice provoked fierce opposition, and in November 1952 a North Carolina pastor, Luther Hux, publicly burned the page[^74][^75].
+
+<?viz bible-translations/family-tree?>
+
 - **The New Revised Standard Version** (1989) was produced by an ecumenical committee of about thirty under the motto "as literal as possible, as free as necessary", with a mandate to remove masculine-oriented language where it did not reflect the original setting. The Updated Edition (NRSVue) followed in 2021[^76][^77][^78].
 - **The New American Standard Bible** (1971; revised 1995 and 2020), from the Lockman Foundation, is widely regarded as the most literal of the major twentieth-century translations[^79][^80][^81].
 - **The Legacy Standard Bible** (2021) is a revision of the NASB 1995 by faculty of The Master's Seminary. It renders God's covenant name as "Yahweh" instead of "LORD"[^82][^83][^84].
@@ -515,5 +530,5 @@ Any mainstream translation, Protestant or Catholic, formal or functional, teache
     "201. [Reference] Wikipedia. Septuagint: Christian use. https://en.wikipedia.org/wiki/Septuagint#Christian_use",
     "202. [Apologetics] GotQuestions.org. Textual criticism: what is it? https://www.gotquestions.org/textual-criticism.html"
   ],
-  lastUpdated: "19-10-2026"
+  lastUpdated: "26-10-2026"
 }
