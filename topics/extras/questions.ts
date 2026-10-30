@@ -46,6 +46,12 @@ export const QUESTIONS: Record<string, ChallengeQuestion[]> = {
   ],
   islam: [
     {
+      claim: "The Bible predicts Muhammad.",
+      asks: ["Who does Jesus say the Advocate is in John 14:26?", "How could the disciples already know him, and have him living with them (John 14:17), six centuries before Muhammad?", "Who does \"fellow Israelites\" mean in Deuteronomy 17:15?"],
+      point: "Each passage names or describes someone else in its own context, so the Quran's claim that his description is in the Torah and Gospel (Quran 7:157) cannot be met.",
+      section: "does-the-bible-predict-muhammad",
+    },
+    {
       claim: "The Quran has no errors.",
       asks: ["Where does Quran 86:6-7 say semen comes from, and where does it come from?", "Where did Muhammad say the sun goes at night, in Bukhari 3199?", "Who else saw the moon split in two?"],
       point: "These are plain statements about the world, and the hadith settles what was meant. Reinterpreting them concedes the plain reading was wrong.",

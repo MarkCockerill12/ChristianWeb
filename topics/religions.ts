@@ -171,7 +171,7 @@ Christianity's own difficult questions have topics of their own, and the case fo
 
 Islam shares with Christianity the belief in one Creator and in final judgment, and it honours Jesus as a prophet. It denies that he is the Son of God and that he was crucified, and it teaches that the Bible has been corrupted. Those claims conflict with the historical evidence and with the Quran's own statements about the Gospel.
 
-**Islam has a full topic of its own:** [Islam: Muhammad, the Quran and the Case Against Them](/categories/islam), covering the life of Muhammad, the Quran's sources and errors, its preservation, the history of its conquests, and Muslim objections to Christianity.
+**Islam has a full topic of its own:** [Islam: Muhammad, the Quran and the Evidence](/categories/islam), covering the life of Muhammad, the Quran's sources and errors, its preservation, the history of its conquests, and Muslim objections to Christianity.
 `
     },
     {

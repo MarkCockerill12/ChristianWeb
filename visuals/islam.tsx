@@ -41,7 +41,7 @@ function Errors() {
   return (
     <VisualCard
       title="Claims that are wrong as stated"
-      subtitle="The problems that do not depend on how an Arabic word is translated, with the usual Muslim answer and why it falls short. Each is examined in the sections below."
+      subtitle="The problems that do not depend on how an Arabic word is translated, with the usual reply and why it falls short. Each is examined in the sections below."
     >
       <ClaimLegend levels={["fails", "weak"]} />
       <CompareTable
