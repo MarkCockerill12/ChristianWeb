@@ -59,7 +59,7 @@ The most common objection is that these verses sit within the Holiness Code alon
 Romans 1:26-27 is the most extended New Testament treatment of the subject, and its details carry the argument.
 
 *   **The framing is creational.** The passage sits within an argument about humanity exchanging the Creator for created things. Sexual disorder is presented as a visible symptom of that deeper exchange, which ties Paul's reasoning to Genesis rather than to Greco-Roman custom[^13].
-*   **Contrary to nature.** Some argue that *physis* here means personal disposition, so that the condemnation targets only those acting against their own orientation. Paul's use of *physis* elsewhere, together with the creational frame of the passage, points to the created order rather than individual inclination[^14][^15].
+*   **Contrary to nature.** Some argue that *physis* (φύσις, nature) here means personal disposition, so that the condemnation targets only those acting against their own orientation. Paul's use of *physis* elsewhere, together with the creational frame of the passage, points to the created order rather than individual inclination[^14][^15].
 *   **The inclusion of women is decisive.** Verse 26 addresses women exchanging natural relations before verse 27 addresses men. Greco-Roman pederasty was a male practice involving an older man and a boy, and female same-sex relations do not fit that pattern, so Paul cannot be describing only exploitative pederasty[^16].
 *   **Mutuality is described rather than exploitation.** Paul states that the men were inflamed with lust for one another, which is reciprocal language rather than a description of one party abusing another[^17].
 `
@@ -71,18 +71,20 @@ Romans 1:26-27 is the most extended New Testament treatment of the subject, and 
       content: `
 1 Corinthians 6:9-10 and 1 Timothy 1:9-10 use two disputed words, and the lexical evidence is stronger than revisionist treatments allow[^18].
 
-*   **A coinage from the Septuagint.** The Greek Old Testament renders Leviticus 20:13 using *arsenos* for male and *koitēn* for bed or lying. *Arsenokoitēs* is a compound of exactly those two terms, and the most natural explanation is that Paul formed the word directly from the Levitical prohibition[^19].
+*   **A coinage from the Septuagint.** The Greek Old Testament renders Leviticus 20:13 using *arsenos* (ἄρσενος, male) for male and *koitēn* for bed or lying. *Arsenokoitēs* (ἀρσενοκοίτης, one who lies with males) is a compound of exactly those two terms, and the most natural explanation is that Paul formed the word directly from the Levitical prohibition[^19].
 
 <?viz homosexuality/coinage?>
 
 *   **The meaning follows from that derivation.** If the word is built from Leviticus 18:22 and 20:13, its sense is set by those texts, meaning male same-sex intercourse as such rather than one culturally specific practice. Standard lexicons render it accordingly[^20][^21].
-*   **Greek had other vocabulary available.** The language possessed ready terms for pederasty and for male prostitution. Paul used neither, choosing instead a word derived from the Levitical text[^22].
-*   **Malakoi.** Literally meaning soft, the term in this context denotes the passive partner in male same-sex intercourse, paired with *arsenokoitai* for the active partner. Together the two words cover both roles, which indicates that the act itself is in view rather than one exploitative form of it[^23].
+*   **"Man with a boy" is not what the words say.** A common claim is that these verses only condemn men with boys. The words themselves say otherwise. Leviticus 18:22 uses the Hebrew זָכָר (*zakar*, "male")[^22], and its Greek translation μετὰ ἄρσενος κοίτην γυναικός ("with a male, as one lies with a woman"), where ἄρσην (*arsēn*) means "male" of any age[^23]. The word for a boy is παῖς (*pais*), and it does not appear. Paul says the same in Romans 1:27: ἄρσενες ἐν ἄρσεσιν (*arsenes en arsesin*), "males with males"[^24].
+*   **Greek had other vocabulary available.** The language possessed ready terms for pederasty, such as παιδεραστής (*paiderastēs*, "lover of boys"), and for male prostitution. Paul used neither, choosing instead a word derived from the Levitical text[^25].
+*   **Where the "boy" reading comes from.** Some translations have narrowed the word: Luther's German Bible of 1545 renders it *Knabenschänder*, "abusers of boys"[^26]. That is a translator's interpretation, and it is not in the Greek. Some modern scholars argue that the word refers only to pederasty or prostitution, and the scholarly debate is real, but the argument rests on the historical setting and not on the words themselves[^27].
+*   **Malakoi (μαλακοί).** Literally meaning soft, the term in this context denotes the passive partner in male same-sex intercourse, paired with *arsenokoitai* (ἀρσενοκοῖται, men who lie with males) for the active partner. Together the two words cover both roles, which indicates that the act itself is in view rather than one exploitative form of it[^28].
 
 <?viz homosexuality/words?>
 
 
-Revisionists sometimes argue that the appearance of the word "homosexual" in English Bibles only from 1946 shows a translation innovation. That is a fact about the English word, which did not exist in any language before the late nineteenth century, and it says nothing about the Greek, which had been rendered with phrases such as "abusers of themselves with mankind" for centuries[^24][^25].
+Revisionists sometimes argue that the appearance of the word "homosexual" in English Bibles only from 1946 shows a translation innovation. That is a fact about the English word, which did not exist in any language before the late nineteenth century, and it says nothing about the Greek, which had been rendered with phrases such as "abusers of themselves with mankind" for centuries[^29][^30].
 `
     },
     {
@@ -90,15 +92,15 @@ Revisionists sometimes argue that the appearance of the word "homosexual" in Eng
       title: "Addressing Modern Arguments",
       tags: ["Objections"],
       content: `
-**Jesus never mentioned homosexuality.** An argument from silence carries little weight, since Jesus also never mentions incest or bestiality and no one concludes that He permitted them. More significantly, the silence is not real. In Matthew 19 Jesus defines marriage positively as male and female from creation, settling the question by establishing the norm rather than by listing exceptions[^26]. He also condemns *porneia*, a term covering sexual immorality as defined by the Levitical code His hearers knew[^27][^28].
+**Jesus never mentioned homosexuality.** An argument from silence carries little weight, since Jesus also never mentions incest or bestiality and no one concludes that He permitted them. More significantly, the silence is not real. In Matthew 19 Jesus defines marriage positively as male and female from creation, settling the question by establishing the norm rather than by listing exceptions[^31]. He also condemns *porneia* (πορνεία, sexual immorality), a term covering sexual immorality as defined by the Levitical code His hearers knew[^32][^33].
 
-**The biblical authors did not know about sexual orientation.** The ancient world discussed enduring same-sex attraction, and Paul travelled widely in a Greco-Roman culture where such relationships, including lifelong ones, were visible[^29]. The deeper answer is that Paul's argument does not rest on the participants' motives or the duration of their attachment. It rests on the created design, which an orientation does not alter.
+**The biblical authors did not know about sexual orientation.** The ancient world discussed enduring same-sex attraction, and Paul travelled widely in a Greco-Roman culture where such relationships, including lifelong ones, were visible[^34]. The deeper answer is that Paul's argument does not rest on the participants' motives or the duration of their attachment. It rests on the created design, which an orientation does not alter.
 
-**Christians accepted slavery and changed, so this will change too.** The analogy fails at the decisive point. Scripture regulates slavery while planting principles that undermine it, and never institutes it at creation[^30]. Marriage is the opposite, being established at creation, affirmed by Christ, and used throughout Scripture as the image of Christ and the church. There is a trajectory against slavery within the text and no trajectory against the male and female pattern of marriage[^31].
+**Christians accepted slavery and changed, so this will change too.** The analogy fails at the decisive point. Scripture regulates slavery while planting principles that undermine it, and never institutes it at creation[^35]. Marriage is the opposite, being established at creation, affirmed by Christ, and used throughout Scripture as the image of Christ and the church. There is a trajectory against slavery within the text and no trajectory against the male and female pattern of marriage[^36].
 
-**Sodom was about inhospitality rather than sex.** Ezekiel 16:49 names pride and neglect of the poor, which belongs in any full account[^32]. Jude 7 states that Sodom and the surrounding towns gave themselves up to sexual immorality and perversion, and the Genesis narrative is explicit about the demand made of the visitors. Both elements are present and neither cancels the other[^33].
+**Sodom was about inhospitality rather than sex.** Ezekiel 16:49 names pride and neglect of the poor, which belongs in any full account[^37]. Jude 7 states that Sodom and the surrounding towns gave themselves up to sexual immorality and perversion, and the Genesis narrative is explicit about the demand made of the visitors. Both elements are present and neither cancels the other[^38].
 
-**These texts only address cultic prostitution.** Neither Leviticus nor Romans nor 1 Corinthians mentions temples or cultic contexts in these passages, so the restriction has to be imported from outside the text[^34].
+**These texts only address cultic prostitution.** Neither Leviticus nor Romans nor 1 Corinthians mentions temples or cultic contexts in these passages, so the restriction has to be imported from outside the text[^39].
 `
     },
     {
@@ -108,10 +110,10 @@ Revisionists sometimes argue that the appearance of the word "homosexual" in Eng
       content: `
 Holding this teaching faithfully includes holding it in the manner Scripture does.
 
-*   **Temptation is distinguished from action.** Historic Christian teaching separates the experience of same-sex attraction from acting on it. Temptation is not itself sin, since Christ was tempted in every way and did not sin. A believer who experiences such attraction and does not act on it is walking in obedience[^35].
-*   **The sin is listed among others.** 1 Corinthians 6:9-10 names the greedy, drunkards, slanderers and swindlers in the same breath. A church treating this sin as uniquely disqualifying while tolerating gossip, greed and pride is being selective rather than biblical[^36].
-*   **The verse that follows is the point.** Paul writes that such were some of you, but you were washed, sanctified and justified. He addresses a church containing former practitioners of everything on his list, so the passage functions as a door rather than a wall[^37].
-*   **Clarity is not contempt.** The Catholic Catechism states the prohibition in the strongest terms and in the same section requires that such persons be accepted with respect, compassion and sensitivity, and that unjust discrimination be avoided[^38].
+*   **Temptation is distinguished from action.** Historic Christian teaching separates the experience of same-sex attraction from acting on it. Temptation is not itself sin, since Christ was tempted in every way and did not sin. A believer who experiences such attraction and does not act on it is walking in obedience[^40].
+*   **The sin is listed among others.** 1 Corinthians 6:9-10 names the greedy, drunkards, slanderers and swindlers in the same breath. A church treating this sin as uniquely disqualifying while tolerating gossip, greed and pride is being selective rather than biblical[^41].
+*   **The verse that follows is the point.** Paul writes that such were some of you, but you were washed, sanctified and justified. He addresses a church containing former practitioners of everything on his list, so the passage functions as a door rather than a wall[^42].
+*   **Clarity is not contempt.** The Catholic Catechism states the prohibition in the strongest terms and in the same section requires that such persons be accepted with respect, compassion and sensitivity, and that unjust discrimination be avoided[^43].
 
 <?viz homosexuality/denominations?>
 
@@ -142,23 +144,28 @@ The teaching asks some believers to forgo marriage and sexual intimacy for life.
     "19. [Apologetics] GotQuestions.org. Does the Greek word arsenokoitai in 1 Corinthians 6:9 really mean 'homosexuals' or something else? The compound's derivation from the Septuagint. https://www.gotquestions.org/arsenokoitai.html",
     "20. [Lexical] Bible Hub. Greek 733, arsenokoitēs, lexical entry and usage. https://biblehub.com/greek/733.htm",
     "21. [Lexical] Blue Letter Bible. Lexicon entry for G733 with glosses and occurrences. https://www.blueletterbible.org/lexicon/g733/kjv/tr/0-1/",
-    "22. [Reference] Wikipedia. Pederasty in ancient Greece. The practice the revisionist reading proposes as Paul's target. https://en.wikipedia.org/wiki/Pederasty_in_ancient_Greece",
-    "23. [Lexical] Bible Hub. Greek 3120, malakos, lexical entry and usage. https://biblehub.com/greek/3120.htm",
-    "24. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'Homosexuality.' https://plato.stanford.edu/entries/homosexuality/",
-    "25. [Reference] Wikipedia. Homosexuality in the New Testament. The disputed terms, their Septuagint background and their renderings in English translations. https://en.wikipedia.org/wiki/Homosexuality_in_the_New_Testament",
-    "26. [Commentary] Bible Hub. 'Commentaries on Matthew 19:5.' https://biblehub.com/commentaries/matthew/19-5.htm",
-    "27. [Commentary] Bible Hub. 'Commentaries on Matthew 15:19.' https://biblehub.com/commentaries/matthew/15-19.htm",
-    "28. [Lexical] Bible Hub. Greek 4202, porneia, the term Christ uses for sexual immorality. https://biblehub.com/greek/4202.htm",
-    "29. [Reference] Wikipedia. Homosexuality in ancient Greece. Including relationships between adult men and the Sacred Band of Thebes. https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Greece",
-    "30. [Reference] Wikipedia. The Bible and slavery. Regulation, manumission and the New Testament material. https://en.wikipedia.org/wiki/The_Bible_and_slavery",
-    "31. [Commentary] Bible Hub. 'Commentaries on Hebrews 13:4.' https://biblehub.com/commentaries/hebrews/13-4.htm",
-    "32. [Reference] Wikipedia. Sodom and Gomorrah. The narrative and its interpretive history. https://en.wikipedia.org/wiki/Sodom_and_Gomorrah",
-    "33. [Commentary] Bible Hub. 'Commentaries on Jude 1:7.' https://biblehub.com/commentaries/jude/1-7.htm",
-    "34. [Reference] Wikipedia. Cultic prostitution. The practice these texts are sometimes said to target exclusively. https://en.wikipedia.org/wiki/Sacred_prostitution",
-    "35. [Commentary] Bible Hub. 'Commentaries on Hebrews 4:15.' https://biblehub.com/commentaries/hebrews/4-15.htm",
-    "36. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 6:10.' https://biblehub.com/commentaries/1_corinthians/6-10.htm",
-    "37. [Reference] Wikipedia. Sanctification. The process of being made holy after conversion. https://en.wikipedia.org/wiki/Sanctification",
-    "38. [Catholic] Catechism of the Catholic Church, on chastity and homosexuality. States the prohibition and the requirement of respect and compassion. https://www.vatican.va/archive/ENG0015/__P85.HTM"
+    "22. [Lexical] Bible Hub. Hebrew 2145, zakar, 'male'. https://biblehub.com/hebrew/2145.htm",
+    "23. [Lexical] Bible Hub. Greek 730, arsen, 'male'. https://biblehub.com/greek/730.htm",
+    "24. [Primary Source] Romans 1:27, SBL Greek New Testament. Bible Gateway. https://www.biblegateway.com/passage/?search=Romans+1%3A27&version=SBLGNT",
+    "25. [Reference] Wikipedia. Pederasty in ancient Greece. The practice the revisionist reading proposes as Paul's target. https://en.wikipedia.org/wiki/Pederasty_in_ancient_Greece",
+    "26. [Primary Source] 1 Korinther 6:9, Luther Bibel 1545. Bible Gateway. https://www.biblegateway.com/passage/?search=1+Korinther+6%3A9&version=LUTH1545",
+    "27. [Encyclopedia] Wikipedia. 'Arsenokoites.' https://en.wikipedia.org/wiki/Arsenokoites",
+    "28. [Lexical] Bible Hub. Greek 3120, malakos, lexical entry and usage. https://biblehub.com/greek/3120.htm",
+    "29. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'Homosexuality.' https://plato.stanford.edu/entries/homosexuality/",
+    "30. [Reference] Wikipedia. Homosexuality in the New Testament. The disputed terms, their Septuagint background and their renderings in English translations. https://en.wikipedia.org/wiki/Homosexuality_in_the_New_Testament",
+    "31. [Commentary] Bible Hub. 'Commentaries on Matthew 19:5.' https://biblehub.com/commentaries/matthew/19-5.htm",
+    "32. [Commentary] Bible Hub. 'Commentaries on Matthew 15:19.' https://biblehub.com/commentaries/matthew/15-19.htm",
+    "33. [Lexical] Bible Hub. Greek 4202, porneia, the term Christ uses for sexual immorality. https://biblehub.com/greek/4202.htm",
+    "34. [Reference] Wikipedia. Homosexuality in ancient Greece. Including relationships between adult men and the Sacred Band of Thebes. https://en.wikipedia.org/wiki/Homosexuality_in_ancient_Greece",
+    "35. [Reference] Wikipedia. The Bible and slavery. Regulation, manumission and the New Testament material. https://en.wikipedia.org/wiki/The_Bible_and_slavery",
+    "36. [Commentary] Bible Hub. 'Commentaries on Hebrews 13:4.' https://biblehub.com/commentaries/hebrews/13-4.htm",
+    "37. [Reference] Wikipedia. Sodom and Gomorrah. The narrative and its interpretive history. https://en.wikipedia.org/wiki/Sodom_and_Gomorrah",
+    "38. [Commentary] Bible Hub. 'Commentaries on Jude 1:7.' https://biblehub.com/commentaries/jude/1-7.htm",
+    "39. [Reference] Wikipedia. Cultic prostitution. The practice these texts are sometimes said to target exclusively. https://en.wikipedia.org/wiki/Sacred_prostitution",
+    "40. [Commentary] Bible Hub. 'Commentaries on Hebrews 4:15.' https://biblehub.com/commentaries/hebrews/4-15.htm",
+    "41. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 6:10.' https://biblehub.com/commentaries/1_corinthians/6-10.htm",
+    "42. [Reference] Wikipedia. Sanctification. The process of being made holy after conversion. https://en.wikipedia.org/wiki/Sanctification",
+    "43. [Catholic] Catechism of the Catholic Church, on chastity and homosexuality. States the prohibition and the requirement of respect and compassion. https://www.vatican.va/archive/ENG0015/__P85.HTM"
   ],
   lastUpdated: "30-10-2026"
 }

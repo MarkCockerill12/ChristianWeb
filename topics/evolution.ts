@@ -213,7 +213,7 @@ Scripture is true in what it affirms, and the real question in each case is what
       title: "Reading Genesis 1: Days, Genre and Structure",
       tags: ["Genesis"],
       content: `
-The interpretive question turns largely on genre and on one Hebrew word, *yom*, "day"[^7].
+The interpretive question turns largely on genre and on one Hebrew word, *yom* (יוֹם, day), "day"[^7].
 
 **The case for ordinary days.** *Yom* most often means a 24-hour day. Young earth creationists point out that in Genesis 1 it is joined to a number and to "evening and morning", a combination they argue always means an ordinary day[^8]. Their strongest text is Exodus 20:11, where the Sabbath command rests on the fact that "in six days the LORD made the heavens and the earth", which appears to tie the creation days to the working week[^9].
 
@@ -397,7 +397,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
 
 **What the fossil record shows.** Dinosaurs first appear about 233 million years ago in the Late Triassic and dominate the land for over 160 million years[^166][^167]. All non-avian dinosaurs disappear at the end of the Cretaceous, 66 million years ago, when an asteroid struck Chicxulub in Mexico[^168][^169]. The earliest members of the human genus appear about 2.8 million years ago and Homo sapiens about 300,000 years ago, so on the scientific dating more than 60 million years separate the last Tyrannosaurus from the first human[^170][^171]. Birds are the one dinosaur lineage that survived: feathered dinosaurs from China and fossils such as Archaeopteryx document the transition[^172].
 
-**The young earth view: created alongside humans.** Answers in Genesis teaches that land-dwelling dinosaurs were created on day six with Adam, and flying reptiles and marine reptiles on day five, that pairs of dinosaur kinds (young ones, to save space) were on Noah's ark, and that most dinosaur fossils were buried in the Flood, with survivors later dying out[^173]. On this view dinosaurs are among the "great sea creatures" (*tannin*) and land creatures of Genesis 1, and memories of them survive in dragon legends[^174][^175].
+**The young earth view: created alongside humans.** Answers in Genesis teaches that land-dwelling dinosaurs were created on day six with Adam, and flying reptiles and marine reptiles on day five, that pairs of dinosaur kinds (young ones, to save space) were on Noah's ark, and that most dinosaur fossils were buried in the Flood, with survivors later dying out[^173]. On this view dinosaurs are among the "great sea creatures" (*tannin* (תַּנִּין, sea creature)) and land creatures of Genesis 1, and memories of them survive in dragon legends[^174][^175].
 
 **The old earth and evolutionary views: long before humans.** Old earth creationists and evolutionary creationists accept that dinosaurs lived and died long before humans. Genesis 1 describes categories of creatures ("great sea creatures", "livestock", "creatures that move along the ground") without listing every species, and nothing in the text requires every kind to have been alive at the same time[^176].
 
@@ -409,7 +409,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
       title: "Behemoth, Leviathan, Dragons and Other Dinosaur Claims",
       tags: ["Dinosaurs"],
       content: `
-**Behemoth (Job 40:15-24).** The Hebrew *behemot* is the plural of the ordinary word for "beast", probably used as a plural of majesty: "the great beast"[^179]. It eats grass like an ox, lies under lotus plants in the marsh, and is untroubled when the Jordan rushes against its mouth[^180]. The most debated line is verse 17, "he stiffens his tail like a cedar"[^181].
+**Behemoth (Job 40:15-24).** The Hebrew *behemot* (בְּהֵמוֹת, great beast) is the plural of the ordinary word for "beast", probably used as a plural of majesty: "the great beast"[^179]. It eats grass like an ox, lies under lotus plants in the marsh, and is untroubled when the Jordan rushes against its mouth[^180]. The most debated line is verse 17, "he stiffens his tail like a cedar"[^181].
 
 *   **As a sauropod.** Answers in Genesis argues that a tail like a cedar fits a long-necked sauropod such as Apatosaurus, not a hippopotamus or elephant with a short tail, and that God's words "which I made along with you" show that Behemoth lived at the same time as humans[^182].
 *   **As a hippopotamus or elephant.** Most commentators identify Behemoth with the hippopotamus, which fits the marsh setting, the grass diet and the river, and which lived in the Nile and formerly in the Levant[^183][^184]. Some take "tail" as a euphemism, since the parallel line speaks of the sinews of its thighs, rendered by the Latin Vulgate as its testicles, so the verse describes its strength rather than its length. Critics of the sauropod reading add that an animal lying hidden among lotus plants and reeds suits a hippopotamus far better than a sauropod, and that the passage calls Behemoth "first among the works of God", which is poetic rather than zoological[^185].
@@ -417,7 +417,7 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
 
 **Leviathan (Job 41).** Leviathan breathes fire and smoke, cannot be pierced by any weapon, and is described as a creature no human can master[^186]. Elsewhere Leviathan has several heads (Psalm 74:14) and is called "the fleeing serpent... the coiling serpent" (Isaiah 27:1)[^187][^188]. Almost identical words describe Lotan, the seven-headed sea serpent defeated by Baal in texts from Ugarit (14th to 12th centuries BC)[^189]. Most scholars therefore read Leviathan as the chaos monster of ancient Near Eastern poetry, used to show that the God of Israel has mastered everything other peoples feared; in Job 41 its description may draw on the crocodile[^190][^191]. Young earth writers who identify it with a marine reptile must treat the fire-breathing as literal, which no known reptile could do.
 
-**"Dragons" and "flying serpents".** The King James Version sometimes translates *tannin* and related words as "dragons", but in context they mean sea monsters, great serpents or, in some verses, jackals[^192]. The "flying serpent" of Isaiah 30:6 is sometimes claimed as a pterosaur, but it appears in a list of desert dangers alongside lions and vipers, in a poem about the Negev, which suits a venomous snake described vividly[^193].
+**"Dragons" and "flying serpents".** The King James Version sometimes translates *tannin* (תַּנִּין, sea creature) and related words as "dragons", but in context they mean sea monsters, great serpents or, in some verses, jackals[^192]. The "flying serpent" of Isaiah 30:6 is sometimes claimed as a pterosaur, but it appears in a list of desert dangers alongside lions and vipers, in a poem about the Negev, which suits a venomous snake described vividly[^193].
 
 **Dragon legends.** Dragon stories appear in many cultures. The folklorist Adrienne Mayor has shown that ancient peoples did find dinosaur and mammal fossils and interpreted them through myth, as with the griffin legends of Central Asia and the fossils of Protoceratops[^194][^195]. In China, fossil "dragon bones" have long been collected for traditional medicine, and local people directed the geologist Johan Gunnar Andersson to Dragon Bone Hill at Zhoukoudian, where Peking Man was later found[^196][^197]. The legends therefore fit people finding fossils, and do not require people to have seen living dinosaurs.
 
@@ -518,7 +518,7 @@ Christians may differ on the age of the earth. The historicity of Adam stands on
 
 *   **Common design.** Similar structures and genes reflect a common Designer reusing good solutions, as engineers reuse parts; Answers in Genesis argues that genetic similarity is expected on either view[^271]. This explains similarity well; it is weakest as an explanation of shared broken genes and viral insertions.
 *   **Function in "junk".** Some creationists and design advocates argue that apparent errors will prove to have functions. Some pseudogenes and retroviral sequences have been found to be functional, which strengthens this reply in particular cases without explaining why the same sequences sit in the same places across species.
-*   **Kinds, not common descent.** Young earth creationists accept that species change and even that new species arise, but hold that change is limited within the original created "kinds" (Genesis 1:21), studied under the name baraminology[^272]. The Hebrew *min* ("kind") describes categories of animals and does not itself state a limit on change[^273]. Young earth models of the Ark require rapid speciation after the Flood, faster than mainstream biology proposes, to produce today's diversity from about 1,400 kinds.
+*   **Kinds, not common descent.** Young earth creationists accept that species change and even that new species arise, but hold that change is limited within the original created "kinds" (Genesis 1:21), studied under the name baraminology[^272]. The Hebrew *min* (מִין, "kind") describes categories of animals and does not itself state a limit on change[^273]. Young earth models of the Ark require rapid speciation after the Flood, faster than mainstream biology proposes, to produce today's diversity from about 1,400 kinds.
 
 **Observed change.** New species have been observed forming in plants and animals, and ring species show populations diverging gradually across a geographical range[^274][^275]. In Richard Lenski's long-running experiment, one population of E. coli evolved the ability to use citrate in oxygen after about 31,500 generations, a new capability that arose through gene duplication and rearrangement[^276][^277]. Bacteria have evolved enzymes that digest nylon, a material that did not exist before 1935[^278].
 
@@ -580,7 +580,7 @@ Arguments that collapse under examination damage the case they are meant to supp
 
 **The responses.**
 
-*   **A second focus, not a second chronology.** Genesis 2:4 opens with a *toledot* ("these are the generations of") heading, used throughout Genesis to introduce what follows from a previous stage, so chapter 2 zooms in on the creation of humanity rather than retelling the whole week[^308].
+*   **A second focus, not a second chronology.** Genesis 2:4 opens with a *toledot* (תּוֹלְדוֹת, "these are the generations of") heading, used throughout Genesis to introduce what follows from a previous stage, so chapter 2 zooms in on the creation of humanity rather than retelling the whole week[^308].
 *   **The plants of the field.** Genesis 2:5 explains that there was no shrub or plant "of the field" because God had not yet sent rain and there was no one to work the ground. Mark Futato argued that these are cultivated crops and wild growth that depend on rain and human farming, not all vegetation, which fits a local setting after the creation of plants in general[^309][^310].
 *   **The animals.** Several translations, including the NIV, render the verb in 2:19 as "had formed", placing the creation of the animals earlier; the grammar allows but does not require this[^311].
 
@@ -592,7 +592,7 @@ The same question is treated among the [supposed contradictions](/categories/con
       title: "The Firmament, a Flat Earth and Ancient Cosmology",
       tags: ["Genesis"],
       content: `
-**The objection.** Genesis 1:6-8 describes a *raqia*, traditionally translated "firmament", separating waters above from waters below. Elsewhere the sky is "hard as a mirror of cast bronze" (Job 37:18), has "windows" through which the Flood waters came (Genesis 7:11), and the earth rests on pillars and foundations. Critics argue that Scripture assumes the ancient Near Eastern picture of a flat earth under a solid dome with a heavenly ocean above it[^312][^313].
+**The objection.** Genesis 1:6-8 describes a *raqia* (רָקִיעַ, expanse), traditionally translated "firmament", separating waters above from waters below. Elsewhere the sky is "hard as a mirror of cast bronze" (Job 37:18), has "windows" through which the Flood waters came (Genesis 7:11), and the earth rests on pillars and foundations. Critics argue that Scripture assumes the ancient Near Eastern picture of a flat earth under a solid dome with a heavenly ocean above it[^312][^313].
 
 <?viz evolution/cosmology?>
 
@@ -603,7 +603,7 @@ The same question is treated among the [supposed contradictions](/categories/con
 
 *   **Phenomenological language.** Scripture describes the world as it appears, as modern people still speak of sunrise. "Expanse" is a legitimate translation of *raqia*, and the "windows of heaven" are imagery for heavy rain.
 *   **Accommodation.** God communicated through the cosmological picture of the original hearers without teaching it, just as Jesus spoke of the mustard seed as the smallest of seeds known to his audience. The Bible's claims concern who made the sky and why, not its physical structure. This was Calvin's approach, and it is compatible with Scripture being true in all it affirms, because the picture of the sky is the vehicle, not the thing affirmed. Galileo quoted Cardinal Baronius to the same effect: the Holy Spirit intends to teach how one goes to heaven, not how the heavens go[^317].
-*   **Supposed scientific foreknowledge.** Some apologists claim that Isaiah 40:22, "the circle of the earth", teaches a spherical earth, and Job 26:7, "he hangs the earth on nothing", modern astronomy. The Hebrew *chug* means a circle or vault, not a sphere, so these verses should not be pressed in either direction[^318][^319][^320].
+*   **Supposed scientific foreknowledge.** Some apologists claim that Isaiah 40:22, "the circle of the earth", teaches a spherical earth, and Job 26:7, "he hangs the earth on nothing", modern astronomy. The Hebrew *chug* (חוּג, circle) means a circle or vault, not a sphere, so these verses should not be pressed in either direction[^318][^319][^320].
 
 **The flat earth myth.** The popular claim that medieval Christians believed the earth was flat is false. Educated Christians from Bede to Aquinas held that the earth was a sphere, and the myth was largely created by nineteenth-century writers promoting the idea of a war between science and religion[^321].
 `
@@ -613,7 +613,7 @@ The same question is treated among the [supposed contradictions](/categories/con
       title: "Borrowed Myths? Genesis and the Mesopotamian Parallels",
       tags: ["Genesis"],
       content: `
-**The objection.** Genesis 1 to 11 closely resembles older Mesopotamian texts, suggesting it was borrowed from myths. The Babylonian *Enūma Eliš* describes creation beginning from primeval waters, with the goddess Tiamat, whose name is related to the Hebrew *tehom*, "the deep" of Genesis 1:2[^322][^323]. The *Atrahasis* epic and Tablet XI of the *Epic of Gilgamesh* tell of a flood sent by the gods, a man warned to build a boat, animals preserved, birds sent out to find land, and a sacrifice after the waters recede[^324][^325]. The Sumerian King List gives kings before its flood reigns of tens of thousands of years, much as Genesis 5 gives long lifespans before Noah[^326].
+**The objection.** Genesis 1 to 11 closely resembles older Mesopotamian texts, suggesting it was borrowed from myths. The Babylonian *Enūma Eliš* describes creation beginning from primeval waters, with the goddess Tiamat, whose name is related to the Hebrew *tehom* (תְּהוֹם, the deep), "the deep" of Genesis 1:2[^322][^323]. The *Atrahasis* epic and Tablet XI of the *Epic of Gilgamesh* tell of a flood sent by the gods, a man warned to build a boat, animals preserved, birds sent out to find land, and a sacrifice after the waters recede[^324][^325]. The Sumerian King List gives kings before its flood reigns of tens of thousands of years, much as Genesis 5 gives long lifespans before Noah[^326].
 
 **What the parallels show.** The similarities are real and extensive, and they show that Genesis addresses questions its neighbours also asked, in shared images and forms. Hermann Gunkel argued that Genesis adapted the Babylonian combat myth, but most scholars now reject direct copying from any one text, and David Tsumura's linguistic study concluded that *tehom* reflects a common Semitic word for the ocean rather than being derived from the goddess[^327].
 
@@ -655,7 +655,7 @@ The same question is treated among the [supposed contradictions](/categories/con
       title: "Noah's Flood: Global, Regional or Local?",
       tags: ["Flood and early Genesis"],
       content: `
-**What the text says.** The waters covered "all the high mountains under the entire heavens" (Genesis 7:19), and every living thing on the land outside the ark died[^339]. The Hebrew *erets*, translated "earth", also means "land" or "country", and phrases such as "all the earth" are used elsewhere of a region: "all the world" came to Egypt to buy grain from Joseph (Genesis 41:57)[^340][^341].
+**What the text says.** The waters covered "all the high mountains under the entire heavens" (Genesis 7:19), and every living thing on the land outside the ark died[^339]. The Hebrew *erets* (אֶרֶץ, earth, land), translated "earth", also means "land" or "country", and phrases such as "all the earth" are used elsewhere of a region: "all the world" came to Egypt to buy grain from Joseph (Genesis 41:57)[^340][^341].
 
 **The global flood view.** Young earth creationists hold that the Flood covered the whole globe about 4,300 years ago, laid down most of the fossil-bearing sedimentary rock, and carved features such as the Grand Canyon, possibly through a burst of rapid continental movement ("catastrophic plate tectonics")[^342][^343].
 

@@ -40,7 +40,7 @@ Jesus repeatedly used the divine name "I AM" (Ancient Greek: Ἐγώ εἰμί),
 
 ### 2. Unity with the Father
 [**John 10:30**](https://www.biblegateway.com/passage/?search=John+10%3A30&version=NIV) - "I and the Father are one.":
-• The Greek *hen* is neuter ("one thing", not "one person"), so the verse does not merge Father and Son into a single person. Many interpreters read it as a unity of nature, others as a unity of will and work; the hearers' reaction in verse 33 shows they took it as a claim to deity[^5].
+• The Greek *hen* (ἕν, one) is neuter ("one thing", not "one person"), so the verse does not merge Father and Son into a single person. Many interpreters read it as a unity of nature, others as a unity of will and work; the hearers' reaction in verse 33 shows they took it as a claim to deity[^5].
 • The Jews understood this as blasphemy and sought to stone Him ([John 10:31-33](https://www.biblegateway.com/passage/?search=John+10%3A31-33&version=NIV))[^6].
 • Jesus didn't deny their interpretation but defended His right to make such claims[^7].
 
@@ -243,7 +243,7 @@ Whether he existed is therefore the easy question. The difficult one is who he w
 ### 3. "The Father is greater than I"
 [**John 14:28**](https://www.biblegateway.com/passage/?search=John+14%3A28&version=NIV) - "If you loved me, you would be glad that I am going to the Father, for the Father is greater than I."
 • **The Objection:** If the Father is "greater," Jesus must be a lesser created being.
-• **The Answer:** Athanasius observed that Jesus said "greater" (*meizon*) rather than "better" (*kreitton*), and took the Father to be greater as the one from whom the Son is eternally begotten, not as superior in nature; Gregory of Nazianzus likewise read it of the Father as cause. *Meizon* does not by itself exclude a difference of nature, so the orthodox reading rests on context as much as vocabulary. Augustine read the verse of Christ's humanity, in the "form of a servant". In His incarnate state, Jesus had voluntarily humbled Himself ([Philippians 2:5-8](https://www.biblegateway.com/passage/?search=Philippians+2%3A5-8&version=NIV)), submitting to the Father's will. The Father is greater in *role* or *office* during the incarnation, but not greater in *essence* (as Jesus established in John 10:30, "I and the Father are one").
+• **The Answer:** Athanasius observed that Jesus said "greater" (*meizon* (μείζων, greater)) rather than "better" (*kreitton* (κρείττων, better)), and took the Father to be greater as the one from whom the Son is eternally begotten, not as superior in nature; Gregory of Nazianzus likewise read it of the Father as cause. *Meizon* does not by itself exclude a difference of nature, so the orthodox reading rests on context as much as vocabulary. Augustine read the verse of Christ's humanity, in the "form of a servant". In His incarnate state, Jesus had voluntarily humbled Himself ([Philippians 2:5-8](https://www.biblegateway.com/passage/?search=Philippians+2%3A5-8&version=NIV)), submitting to the Father's will. The Father is greater in *role* or *office* during the incarnation, but not greater in *essence* (as Jesus established in John 10:30, "I and the Father are one").
 
 ### 4. "Not even the Son knows the day or hour"
 [**Matthew 24:36**](https://www.biblegateway.com/passage/?search=Matthew+24%3A36&version=NIV) - "But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father."

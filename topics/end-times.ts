@@ -14,7 +14,7 @@ export const END_TIMES: Topic = {
     { reference: "Hebrews 1:1-2", text: "In the past God spoke to our ancestors through the prophets at many times and in various ways, but in these last days he has spoken to us by his Son." },
     { reference: "Luke 21:25", text: "And there will be signs in sun and moon and stars, and on the earth distress of nations in perplexity because of the roaring of the sea and the waves." }
   ],
-  tldr: "The New Testament places the 'last days' as beginning at Pentecost, so the church has been living in them for two thousand years. Scripture forbids date-setting, and every attempt to ignore that instruction has failed. Christians read Revelation through four distinct frameworks, and several popular modern 'signs' do not survive examination.",
+  tldr: "The New Testament places the 'last days' as beginning at Pentecost, so the church has been living in them for two thousand years. Christians read Revelation through four distinct frameworks. Many see modern developments, such as rust on the moon, the shrinking Euphrates and global digital payments, as signs that the end is drawing nearer, and Jesus told his followers to watch. He also said that no one knows the day or the hour, and every attempt to set a date has failed.",
   content: `
 The question of whether we are in the end times combines two questions that Scripture answers very differently[^1].
 
@@ -81,18 +81,20 @@ These signs have characterised most of church history, which fits the reading th
     },
     {
       id: "modern-claims",
-      title: "Modern Claims That Do Not Hold Up",
+      title: "Modern Signs Christians Point To",
       tags: ["Modern claims"],
       content: `
-Several arguments circulating in prophecy material fail under examination.
+Jesus told his followers to watch: there will be "signs in the sun, moon and stars" (Luke 21:25), and "when you see these things happening, you know that the kingdom of God is near" (Luke 21:31). Many Christians see the developments below as reasons to think that the end is drawing nearer. They are a reason for readiness, and not for fear, and none of them sets a date (Matthew 24:36).
 
-**The rusting moon.** In 2020 researchers led by Shuai Li reported hematite at high lunar latitudes, a genuine and surprising finding published in *Science Advances*[^31][^32]. Some prophecy writing links this to Revelation's moon like blood. The hematite is explained by oxygen from the earth's own upper atmosphere, carried to the moon by solar wind while the moon passes through the earth's magnetotail, a process operating over billions of years[^33]. A blood moon is a total lunar eclipse, in which the moon reddens because the earth's atmosphere refracts and scatters sunlight. It is ordinary optics, predictable centuries ahead, and observed throughout recorded history[^34][^35]. The two phenomena are unrelated, one being surface mineralogy and the other atmospheric optics.
+**The moon turning red.** Revelation says that "the whole moon turned blood red" (Revelation 6:12), and Joel that the moon will turn "to blood" (Joel 2:31). In 2020 researchers led by Shuai Li reported hematite, a red iron oxide and a form of rust, at high latitudes on the moon, a discovery that surprised scientists because the moon has so little oxygen or water[^31][^32]. The researchers attribute it to oxygen from the earth's upper atmosphere, carried to the moon over a very long period[^33]. A "blood moon" is also the familiar name for a total lunar eclipse, when sunlight scattered by the earth's atmosphere turns the moon red[^34][^35]. Christians differ over whether either is what Revelation has in view, and the fact remains that the moon is literally rusting.
 
-**Sunspots and scorching heat.** Solar Cycle 25 has been more active than Cycle 24, but activity remains within the normal historical range of the roughly eleven-year cycle. Large sunspots are a routine feature of solar maxima, documented since Galileo[^36].
+**The sun and scorching heat.** Revelation describes the sun being "allowed to scorch people with fire" (Revelation 16:8). Solar Cycle 25 has been more active than the cycle before it, with large sunspots and strong solar storms[^36]. Such activity rises and falls in a roughly eleven-year cycle, so it is a development to watch and no more than that so far.
 
-**The drying Euphrates.** Water levels have fallen sharply, driven by drought and by upstream dam construction in Turkey and Syria, which is well documented[^37][^38]. Revelation describes a sudden judgment during the tribulation, and human hydrological engineering is a different thing. At most this demonstrates that such an event is physically possible[^39].
+**The drying Euphrates.** Revelation says that the great river Euphrates "dried up to prepare the way for the kings from the East" (Revelation 16:12). Its water levels have fallen sharply, through drought and through dams upstream in Turkey and Syria[^37][^38]. Revelation does not say how the river will dry up, and interpreters read the verse in different ways[^39]. A river that once seemed too great to fail is now visibly shrinking.
 
-**Mark of the Beast technology.** Digital payments and biometrics make a buying and selling restriction technically feasible, as prior centuries could have claimed of their own control mechanisms. Feasibility is not fulfilment, and identifying specific technologies as the mark has a long record of failure[^40].
+**Buying and selling.** Revelation says that no one could "buy or sell unless they had the mark" (Revelation 13:16-17). Digital payments, digital identity and biometrics make such control possible on a worldwide scale for the first time. Past generations have identified many people and things as the mark, and all of them proved wrong, so no technology today should be named as the mark itself[^40]. What has changed is that the verse no longer describes something impossible.
+
+**How much weight these can bear.** Christians in many past ages have seen signs in their own days, and the failed predictions set out next are a warning against certainty. The signs do not tell us when. Jesus' instruction is to keep watch and to live ready, whichever generation it turns out to be (Matthew 24:42).
 `
     },
     {

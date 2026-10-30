@@ -187,7 +187,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
       id: "the-bible-on-miracles",
       title: "The Bible on Miracles",
       tags: ["Scripture"],
-      content: `**Miracles as Signs and Wonders:** The Bible presents miracles not merely as supernatural interventions but as "signs" (Greek *semeion*) and "wonders" (*teras*) that testify to God's presence, confirm His message and point to the coming of His kingdom (John 20:30-31, Hebrews 2:3-4)[^54].
+      content: `**Miracles as Signs and Wonders:** The Bible presents miracles not merely as supernatural interventions but as "signs" (Greek *semeion* (σημεῖον, sign)) and "wonders" (*teras*) that testify to God's presence, confirm His message and point to the coming of His kingdom (John 20:30-31, Hebrews 2:3-4)[^54].
 
 **Cessationism and Continuationism:** Cessationists, including much of the Reformed tradition, hold that the miraculous gifts of the apostolic age ended with the apostles, though God may still heal in answer to prayer. Continuationists, including Pentecostal and Charismatic churches, hold that gifts of healing continue. Catholic and Orthodox churches have always recognised miracles associated with the saints[^55].
 

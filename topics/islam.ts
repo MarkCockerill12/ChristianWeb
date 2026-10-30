@@ -141,7 +141,7 @@ The Bible records polygamy too, and records the misery it caused, as the [women 
       content: `
 Islam presents Muhammad as the "excellent example" (Quran 33:21), so his conduct is part of the argument. Each item below comes from Islam's own scriptures and traditions, with disputed reports marked as disputed.
 
-**The Quran tells him to ask forgiveness.** "Seek forgiveness for your shortcomings" (Quran 47:19)[^61]; God will "forgive you for your past and future shortcomings" (Quran 48:2)[^62]; "Seek forgiveness for your shortcomings" again (Quran 40:55)[^63]. The Arabic word is *dhanb*, commonly rendered "sin", and some classical scholars argued it does not imply serious sin in a prophet. Muhammad himself said: "I seek forgiveness from Allah and turn to Him in repentance more than seventy times a day"[^64]. Jesus is treated differently. Gabriel promises Mary "a pure son" (Quran 19:19)[^65], and Muhammad said every child is touched by Satan at birth "except Mary and her child"[^66]. The Quran never records Jesus asking forgiveness.
+**The Quran tells him to ask forgiveness.** "Seek forgiveness for your shortcomings" (Quran 47:19)[^61]; God will "forgive you for your past and future shortcomings" (Quran 48:2)[^62]; "Seek forgiveness for your shortcomings" again (Quran 40:55)[^63]. The Arabic word is *dhanb* (ذَنْب, sin), commonly rendered "sin", and some classical scholars argued it does not imply serious sin in a prophet. Muhammad himself said: "I seek forgiveness from Allah and turn to Him in repentance more than seventy times a day"[^64]. Jesus is treated differently. Gabriel promises Mary "a pure son" (Quran 19:19)[^65], and Muhammad said every child is touched by Satan at birth "except Mary and her child"[^66]. The Quran never records Jesus asking forgiveness.
 
 **The Quran rebukes him.** "He frowned and turned away, simply because the blind man came to him" (Quran 80:1-2)[^67]. "May Allah pardon you! Why did you give them permission?" (Quran 9:43)[^68]. "It is not fit for a prophet that he should take captives until he has thoroughly subdued the land" (Quran 8:67)[^69]. He hid what he intended about Zaynab "out of fear of people" (Quran 33:37).
 
@@ -161,7 +161,7 @@ Islam presents Muhammad as the "excellent example" (Quran 33:21), so his conduct
 
 **Slaves and captive women.** When a slave pledged allegiance to him and the master came to claim him, Muhammad bought him "for two black slaves"[^88]. The Quran permits relations with "those whom your right hands possess", including captured women who were already married (Quran 4:24)[^89]. Muslim records the setting: at Awtas the companions held back from captive women whose husbands were alive, and the verse was revealed to permit them[^90]. Abu Said describes the raid on the Banu Mustaliq: "we received captives from among the Arab captives and we desired women and celibacy became hard on us", and when they asked about withdrawal, Muhammad said only that a soul destined to exist would exist[^91]. Another report shows the concern was also commercial: "we are interested in their prices"[^92]. Muslim tradition built a large body of law on slavery and concubinage from this, and abolition within Muslim lands came late and largely under outside pressure[^93].
 
-**Women.** Quran 4:34 authorises husbands to strike rebellious wives[^94]. Muhammad told a group of women that he had "not seen anyone more deficient in intelligence and religion than you"[^95], and said of a woman's half-value testimony (Quran 2:282)[^96]: "This is because of the deficiency of a woman's mind"[^97].
+**Women.** Quran 4:34 authorises husbands to strike (وَاضْرِبُوهُنَّ, *wa-dribuhunna*) rebellious wives[^94]. Muhammad told a group of women that he had "not seen anyone more deficient in intelligence and religion than you"[^95], and said of a woman's half-value testimony (Quran 2:282)[^96]: "This is because of the deficiency of a woman's mind"[^97].
 
 **Despair.** During the pause in revelation he "repeatedly went out intending to throw himself from the summits of high mountains", as set out under who taught him. Bukhari also records that a spell was cast on him, "until he would imagine that he had done something when he had not done it"[^98]. Yet his opponents' charge in the Quran is "You are only following a bewitched man" (Quran 25:8)[^99], which the Quran treats as false.
 
@@ -262,11 +262,11 @@ A revelation from the Creator would be expected to rise above the mistaken scien
       content: `
 Many popular criticisms of the Quran turn on the meaning of an Arabic word, and can be answered with another translation. The following do not. Each is a plain statement about the world, and the hadith often removes any doubt about what was meant.
 
-**Semen comes from between the backbone and the ribs.** Man is "created from a spurting fluid, stemming from between the backbone and the ribcage" (Quran 86:6-7)[^161]. The classical commentator Ibn Kathir reads it as "the backbone or loins of the man and the ribs of the woman"[^162]. Sperm is made in the testes, and the fluid is added by the seminal vesicles and prostate[^163]; none of it comes from there. Modern apologists point out that the testes begin their development in the embryo near the kidneys. They then descend long before birth, and the verse is describing where the fluid comes from when a person is conceived.
+**Semen comes from between the backbone and the ribs.** Man is "created from a spurting fluid, stemming from between the backbone and the ribcage" (الصُّلْبِ وَالتَّرَائِبِ, *al-sulb wa'l-tara'ib*, Quran 86:6-7)[^161]. The classical commentator Ibn Kathir reads it as "the backbone or loins of the man and the ribs of the woman"[^162]. Sperm is made in the testes, and the fluid is added by the seminal vesicles and prostate[^163]; none of it comes from there. Modern apologists point out that the testes begin their development in the embryo near the kidneys. They then descend long before birth, and the verse is describing where the fluid comes from when a person is conceived.
 
 **The moon was split in two.** "The Hour has drawn near and the moon was split in two" (Quran 54:1)[^164]. Some commentators treat this as a future event, but the hadith leaves no room for that: the Meccans asked him "to show them a miracle, and so he showed them the splitting of the moon"[^165], and Muslim's collection reports the same event[^166]. An event visible across half the world left no record among the astronomers of any other civilisation, and a NASA scientist answering the popular claim about a lunar rille said that "no current scientific evidence" indicates the moon was ever split and reassembled[^167]. The only outside support offered is a medieval Indian legend about a king, Cheraman Perumal, which is late.
 
-**The sun goes to bow beneath God's throne.** Muhammad asked Abu Dharr where the sun goes at sunset, and answered: "it goes (i.e. travels) till it prostrates itself underneath the Throne and takes the permission to rise again"[^168]. He also told him it "sets in a spring of warm water"[^169], which matches the Quran's account of a traveller who found the sun setting in a spring of dark water (Quran 18:86)[^170]. Translators often add that it only "appeared" so, and that softening might rescue the verse. It cannot rescue Muhammad's own explanation, in which the sun physically travels each night.
+**The sun goes to bow beneath God's throne.** Muhammad asked Abu Dharr where the sun goes at sunset, and answered: "it goes (i.e. travels) till it prostrates itself underneath the Throne and takes the permission to rise again"[^168]. He also told him it "sets in a spring of warm water"[^169], which matches the Quran's account of a traveller who found the sun setting in a spring of dark water (عَيْنٍ حَمِئَةٍ, *'aynin hami'ah*, Quran 18:86)[^170]. Translators often add that it only "appeared" so, and that softening might rescue the verse. It cannot rescue Muhammad's own explanation, in which the sun physically travels each night.
 
 **Shooting stars are missiles thrown at devils.** God "adorned the lowest heaven with stars like lamps and made them as missiles for stoning eavesdropping devils" (Quran 67:5)[^171], devils who try to listen in on the angels (Quran 37:6-10)[^172]. Meteors are grains of rock and dust burning up in the atmosphere[^173], and stars are not in a lower heaven nearer than the planets.
 
@@ -339,7 +339,7 @@ This is the most serious difficulty in Islam, because it does not depend on any 
 
 **The Bible contradicts the Quran.** The Gospels teach that Jesus was crucified, died and rose, that he is the Son of God, and that he is the only way to the Father.
 
-**The usual answer is that the Bible was corrupted.** This doctrine (*tahrif*) is widely held[^214], but it produces a dilemma with no exit.
+**The usual answer is that the Bible was corrupted.** This doctrine (*tahrif* (تَحْرِيف, corruption of Scripture)) is widely held[^214], but it produces a dilemma with no exit.
 
 * If the Bible of Muhammad's day was reliable, the Quran is false, because it contradicts that Bible on the central facts.
 * If the Bible of Muhammad's day was already corrupted, the Quran is still false, because it tells Christians to judge by a corrupted book and to consult its readers, and says that God's words cannot be changed.
@@ -358,13 +358,13 @@ This is the most serious difficulty in Islam, because it does not depend on any 
 
 **Deuteronomy 33:2.** "The LORD came from Sinai... he shone forth from Mount Paran." Paran is identified with Mecca, because Ishmael lived in the desert of Paran (Genesis 21:21). Yet Israel camped in Paran after leaving Sinai (Numbers 10:12), in the wilderness south of Canaan and over a thousand kilometres from Mecca, and the verse describes the past, the LORD coming to give the law to Moses.
 
-**Song of Songs 5:16.** The Hebrew *machmaddim* is said to be the name Muhammad, since the words share a root. It is a common word with a plural ending, meaning "desirable things", and is used of "treasures" in Hosea 9:6 and of valuables in 1 Kings 20:6. The speaker is a bride describing her lover, whom the next line calls "my beloved".
+**Song of Songs 5:16.** The Hebrew *machmaddim* (מַחֲמַדִּים, desirable things) is said to be the name Muhammad, since the words share a root. It is a common word with a plural ending, meaning "desirable things", and is used of "treasures" in Hosea 9:6 and of valuables in 1 Kings 20:6. The speaker is a bride describing her lover, whom the next line calls "my beloved".
 
 **Isaiah 42.** The servant, in whom God delights and who will bring justice to the nations, is linked to Muhammad because Kedar, an Arab tribe, is called to rejoice in verse 11. Kedar is one of several places in the list, Sela being another. The servant "will not shout or cry out", and "a bruised reed he will not break" (Isaiah 42:2-3), a description hard to apply to a military commander. Matthew 12:18-21 applies it to Jesus.
 
 **Ishmael.** Genesis 17:20-21 promises Ishmael blessing and twelve rulers, and in the same sentence says, "But my covenant I will establish with Isaac." The promise to Ishmael is real, and the covenant line is explicitly elsewhere.
 
-**The Paraclete.** The strongest and most popular claim concerns Jesus' promise of "another advocate" (*parakletos*) in John 14 to 16. Many Muslim writers argue that this is Muhammad[^219], and some say the original word was *periklytos*, "praised one", which would match the meaning of Ahmad. No Greek manuscript of John has that reading. The text answers the claim directly:
+**The Paraclete.** The strongest and most popular claim concerns Jesus' promise of "another advocate" (*parakletos* (παράκλητος, advocate)) in John 14 to 16. Many Muslim writers argue that this is Muhammad[^219], and some say the original word was *periklytos* (περικλυτός, praised one), "praised one", which would match the meaning of Ahmad. No Greek manuscript of John has that reading. The text answers the claim directly:
 
 * He is "the Spirit of truth", "the Holy Spirit" (John 14:17, 26).
 * The world "neither sees him nor knows him. But you know him, for he lives with you and will be in you" (John 14:17). Those words were spoken to the disciples six centuries before Muhammad.
@@ -387,7 +387,7 @@ Islam's picture of the afterlife is vivid and concrete, and comes in part from t
 **Paradise.**
 
 * **Gardens and rivers.** "Rivers of fresh water, rivers of milk that never changes in taste, rivers of wine delicious to drink, and rivers of pure honey" (Quran 47:15)[^221]. Wine forbidden on earth is promised there. Believers recline on thrones, "waited on by eternal youths" who look like "scattered pearls" (Quran 76:19)[^222].
-* **The maidens.** "We will pair them to maidens with gorgeous eyes" (Quran 44:54)[^223], "like pristine pearls" (Quran 56:22-23)[^224], "reserved in pavilions" (Quran 55:72)[^225], whom "no human or jinn has ever touched" (Quran 55:56)[^226]. God has made them "virgins, loving and of equal age" (Quran 56:36-37)[^227], and the righteous receive "full-bosomed maidens of equal age" (Quran 78:33)[^228]. Ibn Kathir reports Ibn Abbas and Mujahid explaining the word as "round breasts", maidens "with fully developed breasts"[^229].
+* **The maidens.** "We will pair them to maidens with gorgeous eyes" (حُورٍ عِينٍ, *hurin 'in*, Quran 44:54)[^223], "like pristine pearls" (Quran 56:22-23)[^224], "reserved in pavilions" (Quran 55:72)[^225], whom "no human or jinn has ever touched" (Quran 55:56)[^226]. God has made them "virgins, loving and of equal age" (Quran 56:36-37)[^227], and the righteous receive "full-bosomed maidens of equal age" (كَوَاعِبَ, *kawa'iba*, Quran 78:33)[^228]. Ibn Kathir reports Ibn Abbas and Mujahid explaining the word as "round breasts", maidens "with fully developed breasts"[^229].
 * **Their bodies.** "Everyone of them will have two wives; the marrow of the bones of the wives' legs will be seen through the flesh out of excessive beauty"[^230], and "there would be none without a wife in Paradise"[^231].
 * **The pavilion.** "In Paradise there is a pavilion made of a single hollow pearl sixty miles wide, in each corner of which there are wives who will not see those in the other corners; and the believers will visit and enjoy them"[^232].
 * **The martyr.** He "is married to seventy two wives" and may intercede for seventy relatives. Tirmidhi grades this report *hasan sahih*; it is not in Bukhari or Muslim[^233]. The popular "72 virgins for everyone" goes beyond the report.
@@ -414,9 +414,11 @@ Islam's picture of the afterlife is vivid and concrete, and comes in part from t
       content: `
 The Quran honours Jesus: born of a virgin, called the Messiah, a worker of miracles. It denies the two things that matter most.
 
-**He was not crucified.** "They neither killed nor crucified him, it was only made to appear so" (Quran 4:157)[^247]. This single verse, written about six hundred years after the event, by a man in Arabia with no access to the sources, stands against every first-century source there is. Christian writers, the Roman historian Tacitus and the Jewish historian Josephus all report the execution, and his crucifixion is among the most secure facts of ancient history[^248]. If God made someone else look like Jesus, he deceived the disciples, and on the Quran's own account he founded Christianity by that deception. The [resurrection topic](/categories/resurrection) sets out the evidence.
+**He was not crucified.** "They neither killed nor crucified him, it was only made to appear so" (شُبِّهَ لَهُمْ, *shubbiha lahum*, Quran 4:157)[^247]. This single verse, written about six hundred years after the event, by a man in Arabia with no access to the sources, stands against every first-century source there is. Christian writers, the Roman historian Tacitus and the Jewish historian Josephus all report the execution, and his crucifixion is among the most secure facts of ancient history[^248]. If God made someone else look like Jesus, he deceived the disciples, and on the Quran's own account he founded Christianity by that deception. The [resurrection topic](/categories/resurrection) sets out the evidence.
 
 **He is not the Son of God.** The Dome of the Rock in Jerusalem, built in 691 and the earliest large Islamic monument, carries inscriptions aimed directly at Christians[^249]. "Those who say Allah is one in a Trinity have certainly fallen into disbelief" (Quran 5:73)[^250]. The reasoning given is that Jesus and Mary "both ate food" (Quran 5:75), which answers a belief Christians do not hold. The [Trinity topic](/categories/trinity) sets out what they do hold.
+
+**What Islam itself says of the two.** Muslims teach that Jesus was born of a virgin and that Muhammad was not (Quran 19:20). They teach that Jesus was "a pure son" (Quran 19:19) who is never told to seek forgiveness, while Muhammad is told to do so more than once (Quran 47:19). The Quran credits Jesus with healing the blind and the leper and raising the dead (Quran 3:49), and when Muhammad is asked for signs it replies that "Signs are only with Allah" and that the Book is enough (Quran 29:50-51)[^251]. Later hadith attribute miracles to Muhammad, such as the splitting of the moon, but the Quran itself does not credit him with healing or raising anyone. On Islam's own account, then, the one it calls a lesser prophet is the one without sin, born of a virgin and raising the dead, and those facts raise the question of why he should not be followed above the one who came after him.
 
 **The consequences.** Without the cross there is no atonement. Islam offers a scale and an unknown verdict; the gospel gives a sinner a substitute and a certain one.
 `,
@@ -428,17 +430,17 @@ The Quran honours Jesus: born of a virgin, called the Messiah, a worker of mirac
       content: `
 Christianity spread for three centuries as a persecuted minority with no army. Islam spread within a generation by conquest, as its own historians record with pride.
 
-**The first wars.** When Muhammad died, Arabian tribes that tried to leave the new state were brought back by force in the Ridda (apostasy) wars of 632 to 633[^251].
+**The first wars.** When Muhammad died, Arabian tribes that tried to leave the new state were brought back by force in the Ridda (apostasy) wars of 632 to 633[^252].
 
-**The great conquests.** Muslim armies took Syria and Palestine between 634 and 638, breaking Byzantine power at the Yarmuk in 636[^252][^253]. They broke the Persian army at al-Qadisiyyah[^254] and ended the Sasanian Empire by 651[^255], took Egypt between 639 and 642[^256], and entered Spain in 711[^257], until the advance into France was checked near Tours in 732[^258]. Within about a century of Muhammad's death the old Christian heartlands of the Near East and North Africa were under Muslim rule[^259].
+**The great conquests.** Muslim armies took Syria and Palestine between 634 and 638, breaking Byzantine power at the Yarmuk in 636[^253][^254]. They broke the Persian army at al-Qadisiyyah[^255] and ended the Sasanian Empire by 651[^256], took Egypt between 639 and 642[^257], and entered Spain in 711[^258], until the advance into France was checked near Tours in 732[^259]. Within about a century of Muhammad's death the old Christian heartlands of the Near East and North Africa were under Muslim rule[^260].
 
-**Life under Islam.** Jews and Christians could keep their faith as *dhimmi*, protected subjects who paid the jizya tax[^260], with the humbling that Quran 9:29 requires, and the theologian al-Razi described the tax as an incentive to convert[^261]. The Pact of Umar, the traditional statement of their terms, has Christians promise not to erect a monastery or church or restore any place of worship in need of repair[^262]. Conversion was often gradual, and historians caution against imagining forced mass conversion as the rule[^263]. This was tolerance by the standards of its age, and it was also a permanent second-class status.
+**Life under Islam.** Jews and Christians could keep their faith as *dhimmi*, protected subjects who paid the jizya tax[^261], with the humbling that Quran 9:29 requires, and the theologian al-Razi described the tax as an incentive to convert[^262]. The Pact of Umar, the traditional statement of their terms, has Christians promise not to erect a monastery or church or restore any place of worship in need of repair[^263]. Conversion was often gradual, and historians caution against imagining forced mass conversion as the rule[^264]. This was tolerance by the standards of its age, and it was also a permanent second-class status.
 
-**Civil war.** The first civil war of 656 to 661 began within a generation of Muhammad[^264]. Three of the first four caliphs were assassinated[^265].
+**Civil war.** The first civil war of 656 to 661 began within a generation of Muhammad[^265]. Three of the first four caliphs were assassinated[^266].
 
-**Crusades and Constantinople.** After the Seljuk victory at Manzikert in 1071 opened Anatolia[^266], the Byzantine emperor appealed to the West, and the First Crusade followed[^267]. The Crusades included real atrocities by Christians, among them massacres, which Jesus' teaching condemns[^268]. They were also a late response to four and a half centuries of conquest. The Ottomans took Constantinople in 1453[^269] and took Christian boys as a levy for their army and state, the *devshirme*[^270].
+**Crusades and Constantinople.** After the Seljuk victory at Manzikert in 1071 opened Anatolia[^267], the Byzantine emperor appealed to the West, and the First Crusade followed[^268]. The Crusades included real atrocities by Christians, among them massacres, which Jesus' teaching condemns[^269]. They were also a late response to four and a half centuries of conquest. The Ottomans took Constantinople in 1453[^270] and took Christian boys as a levy for their army and state, the *devshirme*[^271].
 
-**Slavery.** An estimated 10 to 18 million Africans were enslaved by Arab traders between the seventh and twentieth centuries[^271]. **Armenians.** The Ottoman state's destruction of its Armenian Christians during the First World War is among the worst crimes of the modern era, though it had nationalist as well as religious motives[^272].
+**Slavery.** An estimated 10 to 18 million Africans were enslaved by Arab traders between the seventh and twentieth centuries[^272]. **Armenians.** The Ottoman state's destruction of its Armenian Christians during the First World War is among the worst crimes of the modern era, though it had nationalist as well as religious motives[^273].
 
 **A fair statement.** Muslim civilisation also produced great achievement in medicine, mathematics and scholarship, and most Muslims living now are peaceful and want nothing to do with those who kill in Islam's name. The argument here concerns the founder and the pattern he set: a religion that spread by the sword in its first century has a different origin from one whose founder was killed by the sword and whose first followers died rather than draw it.
 `,
@@ -448,17 +450,17 @@ Christianity spread for three centuries as a persecuted minority with no army. I
       title: "From the Caliphs to Today",
       tags: ["History"],
       content: `
-**The first caliphs (632 to 661).** Abu Bakr, Umar, Uthman and Ali succeeded Muhammad, and under them the conquests began[^273]. Their rule ended in civil war.
+**The first caliphs (632 to 661).** Abu Bakr, Umar, Uthman and Ali succeeded Muhammad, and under them the conquests began[^274]. Their rule ended in civil war.
 
-**The Umayyads (661 to 750).** Ruling from Damascus, this dynasty took the empire from Spain to Central Asia and made Arabic the language of government[^274]. The Dome of the Rock is theirs.
+**The Umayyads (661 to 750).** Ruling from Damascus, this dynasty took the empire from Spain to Central Asia and made Arabic the language of government[^275]. The Dome of the Rock is theirs.
 
-**The Abbasids (750 to 1258).** They overthrew the Umayyads, moved the capital to Baghdad, and presided over the height of Islamic learning, until the Mongols sacked Baghdad in 1258[^275].
+**The Abbasids (750 to 1258).** They overthrew the Umayyads, moved the capital to Baghdad, and presided over the height of Islamic learning, until the Mongols sacked Baghdad in 1258[^276].
 
-**Al-Andalus (711 to 1492).** Muslim rule in Spain produced a brilliant culture. Periods of relative tolerance alternated with periods of harsh rule, and it ended with the fall of Granada in 1492[^276].
+**Al-Andalus (711 to 1492).** Muslim rule in Spain produced a brilliant culture. Periods of relative tolerance alternated with periods of harsh rule, and it ended with the fall of Granada in 1492[^277].
 
-**The Ottomans (about 1300 to 1924).** The Ottoman sultans claimed the caliphate, and Turkey abolished it in 1924[^277]. It has not been restored by any widely recognised authority.
+**The Ottomans (about 1300 to 1924).** The Ottoman sultans claimed the caliphate, and Turkey abolished it in 1924[^278]. It has not been restored by any widely recognised authority.
 
-**Modern movements.** Muhammad ibn Abd al-Wahhab's strict reform movement of the eighteenth century allied with the House of Saud and shaped Saudi Arabia[^278]. The Muslim Brotherhood, founded by Hassan al-Banna in Egypt in 1928, sought to order society by sharia[^279]. In 2014 the Islamic State declared a caliphate in Iraq and Syria and restored slavery and public executions, citing the early sources[^280]. The great majority of Muslims and their scholars reject it, and its victims were mostly Muslims. Its existence still raises the question of what the founder's example permits.
+**Modern movements.** Muhammad ibn Abd al-Wahhab's strict reform movement of the eighteenth century allied with the House of Saud and shaped Saudi Arabia[^279]. The Muslim Brotherhood, founded by Hassan al-Banna in Egypt in 1928, sought to order society by sharia[^280]. In 2014 the Islamic State declared a caliphate in Iraq and Syria and restored slavery and public executions, citing the early sources[^281]. The great majority of Muslims and their scholars reject it, and its victims were mostly Muslims. Its existence still raises the question of what the founder's example permits.
 `,
     },
     {
@@ -472,11 +474,11 @@ Christianity spread for three centuries as a persecuted minority with no army. I
 
 **"The Trinity is three gods, and it is illogical."** Christians confess one God. The doctrine says one in essence and three in person, not one and three in the same sense. See [the Trinity](/categories/trinity).
 
-**"Paul invented Christianity."** The creed Paul quotes in 1 Corinthians 15 was formed within a few years of the crucifixion and received from those before him, and he records that Peter, James and John extended him fellowship (Galatians 2:9). The Quran also praises Jesus' disciples as standing up for God (Quran 61:14)[^281], which leaves it unexplained how the movement they led went wrong so early and left no trace of the supposed original.
+**"Paul invented Christianity."** The creed Paul quotes in 1 Corinthians 15 was formed within a few years of the crucifixion and received from those before him, and he records that Peter, James and John extended him fellowship (Galatians 2:9). The Quran also praises Jesus' disciples as standing up for God (Quran 61:14)[^282], which leaves it unexplained how the movement they led went wrong so early and left no trace of the supposed original.
 
-**"No one can produce anything like the Quran."** The challenge (Quran 2:23)[^282] names no objective test. Literary excellence is not evidence of divine authorship, or Homer and Shakespeare would qualify. Muhammad's Meccan critics themselves dismissed its stories as tales of the ancients.
+**"No one can produce anything like the Quran."** The challenge (Quran 2:23)[^283] names no objective test. Literary excellence is not evidence of divine authorship, or Homer and Shakespeare would qualify. Muhammad's Meccan critics themselves dismissed its stories as tales of the ancients.
 
-**"The Quran predicted modern science."** Such claims are read back after science discovers something, and depend on stretching Arabic words[^283]. A book with these errors cannot be saved by reading modern physics into its vaguest lines.
+**"The Quran predicted modern science."** Such claims are read back after science discovers something, and depend on stretching Arabic words[^284]. A book with these errors cannot be saved by reading modern physics into its vaguest lines.
 `,
     },
     {
@@ -486,8 +488,8 @@ Christianity spread for three centuries as a persecuted minority with no army. I
       content: `
 A weak argument is easily refuted and damages the strong ones beside it, and several circulate among Christians.
 
-* **"Allah is a moon god."** Arabic-speaking Christians and Jews use Allah as the word for God[^284]. The problem with Islam's God lies in what the Quran says about him, not in the name.
-* **"The seas that do not mix."** Critics and apologists both cite the Quran's two seas with a barrier between them (Quran 55:19-20)[^285]. The waters meant can always be redefined, and nothing is settled.
+* **"Allah is a moon god."** Arabic-speaking Christians and Jews use Allah as the word for God[^285]. The problem with Islam's God lies in what the Quran says about him, not in the name.
+* **"The seas that do not mix."** Critics and apologists both cite the Quran's two seas with a barrier between them (Quran 55:19-20)[^286]. The waters meant can always be redefined, and nothing is settled.
 * **Word-level disputes over embryology.** The stages in Quran 23:14, where bones come before flesh, are argued over by reading the Arabic words loosely or strictly. The claim about the source of semen is plainer, and it is the better one to raise.
 * **Treating all Muslims as the worst Muslims.** Most reject terrorism and many are ashamed of it. Pressing the point on the person in front of you is unjust, and it closes the conversation.
 * **Winning the argument and losing the person.** Peter's instruction covers this: "with gentleness and respect" (1 Peter 3:15).
@@ -745,41 +747,42 @@ A weak argument is easily refuted and damages the strong ones beside it, and sev
     "248. [Encyclopedia] Wikipedia. 'Crucifixion of Jesus.' https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
     "249. [Encyclopedia] Wikipedia. 'Dome of the Rock.' https://en.wikipedia.org/wiki/Dome_of_the_Rock",
     "250. [Primary Source] The Quran 5:73-75. Quran.com. https://quran.com/5/72-75",
-    "251. [Encyclopedia] Wikipedia. 'Ridda Wars.' https://en.wikipedia.org/wiki/Ridda_Wars",
-    "252. [Encyclopedia] Wikipedia. 'Muslim conquest of the Levant.' https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant",
-    "253. [Encyclopedia] Wikipedia. 'Battle of Yarmuk.' https://en.wikipedia.org/wiki/Battle_of_Yarmuk",
-    "254. [Encyclopedia] Wikipedia. 'Battle of al-Qadisiyyah.' https://en.wikipedia.org/wiki/Battle_of_al-Q%C4%81disiyyah",
-    "255. [Encyclopedia] Wikipedia. 'Sasanian Empire.' https://en.wikipedia.org/wiki/Sasanian_Empire",
-    "256. [Encyclopedia] Wikipedia. 'Muslim conquest of Egypt.' https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt",
-    "257. [Encyclopedia] Wikipedia. 'Umayyad conquest of Hispania.' https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
-    "258. [Encyclopedia] Wikipedia. 'Battle of Tours.' https://en.wikipedia.org/wiki/Battle_of_Tours",
-    "259. [Encyclopedia] Wikipedia. 'Early Muslim conquests.' https://en.wikipedia.org/wiki/Early_Muslim_conquests",
-    "260. [Encyclopedia] Wikipedia. 'Dhimmi.' https://en.wikipedia.org/wiki/Dhimmi",
-    "261. [Encyclopedia] Wikipedia. 'Jizya.' https://en.wikipedia.org/wiki/Jizya",
-    "262. [Encyclopedia] Wikipedia. 'Pact of Umar.' https://en.wikipedia.org/wiki/Pact_of_Umar",
-    "263. [Encyclopedia] Wikipedia. 'Spread of Islam.' https://en.wikipedia.org/wiki/Spread_of_Islam",
-    "264. [Encyclopedia] Wikipedia. 'First Fitna.' https://en.wikipedia.org/wiki/First_Fitna",
-    "265. [Encyclopedia] Wikipedia. 'Rashidun Caliphate.' https://en.wikipedia.org/wiki/Rashidun_Caliphate",
-    "266. [Encyclopedia] Wikipedia. 'Battle of Manzikert.' https://en.wikipedia.org/wiki/Battle_of_Manzikert",
-    "267. [Encyclopedia] Wikipedia. 'First Crusade.' https://en.wikipedia.org/wiki/First_Crusade",
-    "268. [Encyclopedia] Wikipedia. 'Crusades.' https://en.wikipedia.org/wiki/Crusades",
-    "269. [Encyclopedia] Wikipedia. 'Fall of Constantinople.' https://en.wikipedia.org/wiki/Fall_of_Constantinople",
-    "270. [Encyclopedia] Wikipedia. 'Devshirme.' https://en.wikipedia.org/wiki/Devshirme",
-    "271. [Encyclopedia] Wikipedia. 'Arab slave trade.' https://en.wikipedia.org/wiki/Arab_slave_trade",
-    "272. [Encyclopedia] Wikipedia. 'Armenian genocide.' https://en.wikipedia.org/wiki/Armenian_genocide",
-    "273. [Encyclopedia] Wikipedia. 'Caliphate.' https://en.wikipedia.org/wiki/Caliphate",
-    "274. [Encyclopedia] Wikipedia. 'Umayyad Caliphate.' https://en.wikipedia.org/wiki/Umayyad_Caliphate",
-    "275. [Encyclopedia] Wikipedia. 'Abbasid Caliphate.' https://en.wikipedia.org/wiki/Abbasid_Caliphate",
-    "276. [Encyclopedia] Wikipedia. 'Al-Andalus.' https://en.wikipedia.org/wiki/Al-Andalus",
-    "277. [Encyclopedia] Wikipedia. 'Ottoman Caliphate.' https://en.wikipedia.org/wiki/Ottoman_Caliphate",
-    "278. [Encyclopedia] Wikipedia. 'Wahhabism.' https://en.wikipedia.org/wiki/Wahhabism",
-    "279. [Encyclopedia] Wikipedia. 'Muslim Brotherhood.' https://en.wikipedia.org/wiki/Muslim_Brotherhood",
-    "280. [Encyclopedia] Wikipedia. 'Islamic State.' https://en.wikipedia.org/wiki/Islamic_State",
-    "281. [Primary Source] The Quran 61:14. Quran.com. https://quran.com/61/14",
-    "282. [Primary Source] The Quran 2:23. Quran.com. https://quran.com/2/23",
-    "283. [Encyclopedia] Wikipedia. 'Quran and miracles.' https://en.wikipedia.org/wiki/Quran_and_miracles",
-    "284. [Encyclopedia] Wikipedia. 'Allah.' https://en.wikipedia.org/wiki/Allah",
-    "285. [Primary Source] The Quran 55:19-20. Quran.com. https://quran.com/55/19-20"
+    "251. [Primary Source] The Quran 29:50-51. Quran.com. https://quran.com/29/50-51",
+    "252. [Encyclopedia] Wikipedia. 'Ridda Wars.' https://en.wikipedia.org/wiki/Ridda_Wars",
+    "253. [Encyclopedia] Wikipedia. 'Muslim conquest of the Levant.' https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant",
+    "254. [Encyclopedia] Wikipedia. 'Battle of Yarmuk.' https://en.wikipedia.org/wiki/Battle_of_Yarmuk",
+    "255. [Encyclopedia] Wikipedia. 'Battle of al-Qadisiyyah.' https://en.wikipedia.org/wiki/Battle_of_al-Q%C4%81disiyyah",
+    "256. [Encyclopedia] Wikipedia. 'Sasanian Empire.' https://en.wikipedia.org/wiki/Sasanian_Empire",
+    "257. [Encyclopedia] Wikipedia. 'Muslim conquest of Egypt.' https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt",
+    "258. [Encyclopedia] Wikipedia. 'Umayyad conquest of Hispania.' https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
+    "259. [Encyclopedia] Wikipedia. 'Battle of Tours.' https://en.wikipedia.org/wiki/Battle_of_Tours",
+    "260. [Encyclopedia] Wikipedia. 'Early Muslim conquests.' https://en.wikipedia.org/wiki/Early_Muslim_conquests",
+    "261. [Encyclopedia] Wikipedia. 'Dhimmi.' https://en.wikipedia.org/wiki/Dhimmi",
+    "262. [Encyclopedia] Wikipedia. 'Jizya.' https://en.wikipedia.org/wiki/Jizya",
+    "263. [Encyclopedia] Wikipedia. 'Pact of Umar.' https://en.wikipedia.org/wiki/Pact_of_Umar",
+    "264. [Encyclopedia] Wikipedia. 'Spread of Islam.' https://en.wikipedia.org/wiki/Spread_of_Islam",
+    "265. [Encyclopedia] Wikipedia. 'First Fitna.' https://en.wikipedia.org/wiki/First_Fitna",
+    "266. [Encyclopedia] Wikipedia. 'Rashidun Caliphate.' https://en.wikipedia.org/wiki/Rashidun_Caliphate",
+    "267. [Encyclopedia] Wikipedia. 'Battle of Manzikert.' https://en.wikipedia.org/wiki/Battle_of_Manzikert",
+    "268. [Encyclopedia] Wikipedia. 'First Crusade.' https://en.wikipedia.org/wiki/First_Crusade",
+    "269. [Encyclopedia] Wikipedia. 'Crusades.' https://en.wikipedia.org/wiki/Crusades",
+    "270. [Encyclopedia] Wikipedia. 'Fall of Constantinople.' https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+    "271. [Encyclopedia] Wikipedia. 'Devshirme.' https://en.wikipedia.org/wiki/Devshirme",
+    "272. [Encyclopedia] Wikipedia. 'Arab slave trade.' https://en.wikipedia.org/wiki/Arab_slave_trade",
+    "273. [Encyclopedia] Wikipedia. 'Armenian genocide.' https://en.wikipedia.org/wiki/Armenian_genocide",
+    "274. [Encyclopedia] Wikipedia. 'Caliphate.' https://en.wikipedia.org/wiki/Caliphate",
+    "275. [Encyclopedia] Wikipedia. 'Umayyad Caliphate.' https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+    "276. [Encyclopedia] Wikipedia. 'Abbasid Caliphate.' https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+    "277. [Encyclopedia] Wikipedia. 'Al-Andalus.' https://en.wikipedia.org/wiki/Al-Andalus",
+    "278. [Encyclopedia] Wikipedia. 'Ottoman Caliphate.' https://en.wikipedia.org/wiki/Ottoman_Caliphate",
+    "279. [Encyclopedia] Wikipedia. 'Wahhabism.' https://en.wikipedia.org/wiki/Wahhabism",
+    "280. [Encyclopedia] Wikipedia. 'Muslim Brotherhood.' https://en.wikipedia.org/wiki/Muslim_Brotherhood",
+    "281. [Encyclopedia] Wikipedia. 'Islamic State.' https://en.wikipedia.org/wiki/Islamic_State",
+    "282. [Primary Source] The Quran 61:14. Quran.com. https://quran.com/61/14",
+    "283. [Primary Source] The Quran 2:23. Quran.com. https://quran.com/2/23",
+    "284. [Encyclopedia] Wikipedia. 'Quran and miracles.' https://en.wikipedia.org/wiki/Quran_and_miracles",
+    "285. [Encyclopedia] Wikipedia. 'Allah.' https://en.wikipedia.org/wiki/Allah",
+    "286. [Primary Source] The Quran 55:19-20. Quran.com. https://quran.com/55/19-20"
   ],
   lastUpdated: "30-10-2026"
 }

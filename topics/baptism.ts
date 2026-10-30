@@ -37,7 +37,7 @@ The Protestant argument rests on the structure of justification[^3].
 
 <?viz baptism/acts-order?>
 
-*   **Reading Acts 2:38.** The Greek preposition *eis*, translated "for the forgiveness of your sins," is argued by some to carry a causal sense meaning "because of," making baptism the response to forgiveness rather than its cause[^7].
+*   **Reading Acts 2:38.** The Greek preposition *eis* (εἰς, into, for), translated "for the forgiveness of your sins," is argued by some to carry a causal sense meaning "because of," making baptism the response to forgiveness rather than its cause[^7].
 
 The causal reading of *eis* is a minority position among Greek grammarians and is widely disputed, and most standard lexicons do not list a clearly causal sense. Sacramental interpreters also answer that the thief died before the resurrection and the command of Matthew 28:19, so his case is exceptional rather than normative[^8].
 `
@@ -68,7 +68,7 @@ The sacramental position must account for Ephesians 2:8-9 and for Cornelius. The
       content: `
 The disagreement concentrates on a small number of passages, each read differently by the two sides.
 
-*   **Acts 2:38.** The sacramental reading takes baptism as directed toward forgiveness, which is the plain sense of the preposition. The Protestant reading takes *eis* as meaning "with reference to" or "because of." The causal sense is contested and is not the default lexical meaning, so this text is stronger for the sacramental side than popular Protestant treatments acknowledge[^19].
+*   **Acts 2:38.** The sacramental reading takes baptism as directed toward forgiveness, which is the plain sense of the preposition. The Protestant reading takes *eis* (εἰς, into, for) as meaning "with reference to" or "because of." The causal sense is contested and is not the default lexical meaning, so this text is stronger for the sacramental side than popular Protestant treatments acknowledge[^19].
 *   **1 Peter 3:21.** The sacramental reading takes the statement as direct, with the qualifier ruling out a mechanical view rather than efficacy. The Protestant reading identifies the saving element as the pledge of a clear conscience, meaning faith. Both readings are available from the Greek[^20].
 *   **Ephesians 2:8-9.** The Protestant reading excludes any required act, baptism included. The sacramental reading holds that "works" in Paul refers to works of the law performed to earn standing, not to receiving a gift God offers through an appointed means[^21].
 *   **Acts 22:16.** Ananias tells Paul to be baptised and wash away his sins, calling on the name of the Lord, which combines both elements in a single instruction[^22].

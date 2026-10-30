@@ -134,7 +134,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
       id: "canaanite-conquest",
       title: "The Canaanite Conquest",
       tags: ["Exodus and conquest"],
-      content: `**Biblical Account:** [Joshua 6:1-11:23](https://www.biblegateway.com/passage/?search=Joshua+6:1-11:23&version=NIV) - Israel conquers Canaan under divine command (known as *herem*) to destroy certain peoples[^22][^23].
+      content: `**Biblical Account:** [Joshua 6:1-11:23](https://www.biblegateway.com/passage/?search=Joshua+6:1-11:23&version=NIV) - Israel conquers Canaan under divine command (known as *herem* (חֵרֶם, devoted to destruction)) to destroy certain peoples[^22][^23].
 
 
       **Context and Justification:**
@@ -217,7 +217,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       **Elisha and the Bears ([2 Kings 2:23-24](https://www.biblegateway.com/passage/?search=2+Kings+2:23-24&version=NIV)):**
 
-      • **Not necessarily small children:** The phrase is *ne'arim qetannim*, and *na'ar* covers ages from infancy to young adulthood; the same word describes Joseph at seventeen and soldiers in battle. The account describes a crowd from which forty-two were mauled, and most commentators take them as youths rather than little children, though the text does not settle their age[^40].
+      • **Not necessarily small children:** The phrase is *ne'arim qetannim* (נְעָרִים קְטַנִּים, young lads), and *na'ar* covers ages from infancy to young adulthood; the same word describes Joseph at seventeen and soldiers in battle. The account describes a crowd from which forty-two were mauled, and most commentators take them as youths rather than little children, though the text does not settle their age[^40].
 
       • **Serious contempt:** Their jeer "Go up, you baldhead!" is often read as mocking Elijah's ascent and rejecting Elisha as his successor, at Bethel, the centre of Jeroboam's calf worship. Whether it involved physical threat is not stated[^41].
 

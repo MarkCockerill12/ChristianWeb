@@ -54,8 +54,8 @@ Raising a man on the fourth day removed any suggestion of resuscitation from a c
 "Jesus wept" is the shortest verse in most English Bibles, and it raises a sharp question: why weep at all, knowing what He was about to do[^12][^13]?
 
 *   **Empathetic humanity.** Jesus was deeply moved at the sight of Mary and the surrounding community weeping. He is not an impassive God who requires that grief be suppressed, but one who enters into it[^14].
-*   **Holy outrage at death.** The verb in John 11:33 and 11:38 is *enebrimesato*, from *embrimaomai*, whose range includes snorting with indignation and being moved with anger. Lexicons consistently register that note, and many commentators therefore read Jesus at the tomb as angry, not at the mourners but at death as an intruder into God's creation[^15][^16].
-*   **A distinction in vocabulary.** John uses *dakryo* for Jesus' quiet weeping and *klaio* for the wailing of the mourners, which suggests restrained grief rather than public display[^17][^18].
+*   **Holy outrage at death.** The verb in John 11:33 and 11:38 is *enebrimesato* (ἐνεβριμήσατο, was deeply moved), from *embrimaomai* (ἐμβριμάομαι, be indignant), whose range includes snorting with indignation and being moved with anger. Lexicons consistently register that note, and many commentators therefore read Jesus at the tomb as angry, not at the mourners but at death as an intruder into God's creation[^15][^16].
+*   **A distinction in vocabulary.** John uses *dakryo* (δακρύω, shed tears) for Jesus' quiet weeping and *klaio* (κλαίω, weep aloud) for the wailing of the mourners, which suggests restrained grief rather than public display[^17][^18].
 
 Paul calls death the last enemy to be destroyed, which fits the reading of indignation. Some translators render the term as deep emotional agitation rather than anger, so the precise force remains debated[^19].
 `

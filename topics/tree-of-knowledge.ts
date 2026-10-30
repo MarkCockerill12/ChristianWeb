@@ -26,7 +26,7 @@ Why put a forbidden tree in a garden at all? The narrative answers with a tree t
       title: "The Meaning of 'Knowledge of Good and Evil'",
       tags: ["Meaning"],
       content: `
-The English phrase suggests simple information, as though Adam and Eve were ignorant of ethics until they ate. The Hebrew *da'at tov wara'* carries considerably more weight, and three main readings appear in the scholarly literature[^1][^2].
+The English phrase suggests simple information, as though Adam and Eve were ignorant of ethics until they ate. The Hebrew *da'at tov wara'* (דַּעַת טוֹב וָרָע, knowledge of good and evil) carries considerably more weight, and three main readings appear in the scholarly literature[^1][^2].
 
 *   **Merism.** "Good and evil" names two extremes in order to indicate everything between them, in the way that "young and old" indicates everyone. On this reading the tree represents comprehensive moral discernment, a prerogative reserved to God[^3].
 

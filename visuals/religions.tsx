@@ -62,8 +62,8 @@ function ReligionMap() {
 type R = readonly [section: string, name: string, family: string, god: string, founded: string, founder: string, jesus: string]
 
 const ROWS: readonly R[] = [
-  ["mesopotamian", "Sumerian and Mesopotamian", "Ancient", "Many gods", "Mid-4th millennium BC", "No founder", "@na"],
-  ["egyptian", "Ancient Egyptian", "Ancient", "Many gods", "c. 3300-3100 BC", "No founder", "@na"],
+  ["mesopotamian", "Sumerian and Mesopotamian", "Ancient", "Many gods", "Mid-4th millennium BC", "No founder", "Predates him"],
+  ["egyptian", "Ancient Egyptian", "Ancient", "Many gods", "c. 3300-3100 BC", "No founder", "Predates him"],
   ["judaism", "Judaism", "Abrahamic", "One God", "Israel attested c. 1208 BC; tradition places Abraham c. 2000 BC", "Abraham; Moses", "Not the Messiah"],
   ["islam", "Islam", "Abrahamic", "One God", "c. AD 610", "Muhammad", "A prophet, not divine and not crucified"],
   ["sufism", "Sufism", "Abrahamic", "One God", "8th century AD", "Mystical stream within Islam", "As in Islam"],
@@ -73,23 +73,23 @@ const ROWS: readonly R[] = [
   ["jehovahswitnesses", "Jehovah's Witnesses", "Restorationist", "One God, non-Trinitarian", "Late 1870s", "Charles Taze Russell", "A created being, the archangel Michael"],
   ["christianscience", "Christian Science", "Restorationist", "God as wholly spiritual", "1879", "Mary Baker Eddy", "A man who embodied the divine Christ idea"],
   ["rastafarianism", "Rastafari", "Abrahamic", "One God (Jah)", "1930s", "Inspired by Marcus Garvey", "Haile Selassie seen as Christ returned"],
-  ["zoroastrianism", "Zoroastrianism", "Iranian", "One God (Ahura Mazda)", "c. 1500-1000 BC (scholarly)", "Zoroaster", "@na"],
-  ["hinduism", "Hinduism", "Dharmic", "Many gods; ultimate Brahman", "Vedas c. 1500-1000 BC", "No founder", "No set view"],
-  ["buddhism", "Buddhism", "Dharmic", "No creator God", "6th-4th century BC", "Siddhartha Gautama", "No set view"],
-  ["jainism", "Jainism", "Dharmic", "No creator God", "6th century BC", "Mahavira", "No set view"],
-  ["sikhism", "Sikhism", "Dharmic", "One God (Waheguru)", "c. 1500", "Guru Nanak", "No set view"],
-  ["confucianism", "Confucianism", "East Asian", "Heaven (Tian); largely ethical", "6th-5th century BC", "Confucius", "@na"],
-  ["taoism", "Taoism", "East Asian", "The Tao; many deities in religious Taoism", "6th century BC (traditional)", "Laozi (traditional)", "@na"],
-  ["shintoism", "Shinto", "East Asian", "Many kami", "Prehistoric; systematised 8th century AD", "No founder", "@na"],
-  ["tengrism", "Tengrism", "Indigenous", "Sky god Tengri; spirits", "Prehistoric", "No founder", "@na"],
-  ["vodou", "Vodou", "Indigenous and syncretic", "God and the lwa spirits", "17th-18th centuries", "No founder", "@na"],
-  ["greek", "Greek polytheism", "Ancient", "Many gods", "c. 800-500 BC", "No founder", "@na"],
-  ["roman", "Roman polytheism", "Ancient", "Many gods", "753 BC (traditional)", "No founder", "@na"],
-  ["norse", "Norse paganism", "Ancient", "Many gods", "c. 1st century BC-11th century AD", "No founder", "@na"],
-  ["celtic", "Celtic paganism", "Ancient", "Many gods", "c. 1200 BC-AD 500", "No founder", "@na"],
-  ["wicca", "Wicca", "New religious movement", "Goddess and God", "1950s", "Gerald Gardner", "@na"],
-  ["modern", "Modern spiritual movements", "New religious movement", "Varies; often universal consciousness", "Mid-20th century", "Various", "Varies"],
-  ["scientology", "Scientology", "New religious movement", "No defined God", "1953-1954", "L. Ron Hubbard", "No set view"],
+  ["zoroastrianism", "Zoroastrianism", "Iranian", "One God (Ahura Mazda)", "c. 1500-1000 BC (scholarly)", "Zoroaster", "Predates him"],
+  ["hinduism", "Hinduism", "Dharmic", "Many gods; ultimate Brahman", "Vedas c. 1500-1000 BC", "No founder", "Scriptures predate him. Modern teachers such as Vivekananda and Gandhi honour him, often as one incarnation among many"],
+  ["buddhism", "Buddhism", "Dharmic", "No creator God", "6th-4th century BC", "Siddhartha Gautama", "Scriptures predate him. The Dalai Lama calls him a bodhisattva or enlightened person, and Thich Nhat Hanh wrote of the Living Christ"],
+  ["jainism", "Jainism", "Dharmic", "No creator God", "6th century BC", "Mahavira", "Scriptures predate him. No recognised teaching about him"],
+  ["sikhism", "Sikhism", "Dharmic", "One God (Waheguru)", "c. 1500", "Guru Nanak", "No recognised teaching about him, though individual Sikhs may respect him"],
+  ["confucianism", "Confucianism", "East Asian", "Heaven (Tian); largely ethical", "6th-5th century BC", "Confucius", "Predates him"],
+  ["taoism", "Taoism", "East Asian", "The Tao; many deities in religious Taoism", "6th century BC (traditional)", "Laozi (traditional)", "Predates him"],
+  ["shintoism", "Shinto", "East Asian", "Many kami", "Prehistoric; systematised 8th century AD", "No founder", "Predates him"],
+  ["tengrism", "Tengrism", "Indigenous", "Sky god Tengri; spirits", "Prehistoric", "No founder", "Predates him"],
+  ["vodou", "Vodou", "Indigenous and syncretic", "God and the lwa spirits", "17th-18th centuries", "No founder", "Honoured through its Catholic side, with biblical stories reinterpreted"],
+  ["greek", "Greek polytheism", "Ancient", "Many gods", "c. 800-500 BC", "No founder", "Predates him"],
+  ["roman", "Roman polytheism", "Ancient", "Many gods", "753 BC (traditional)", "No founder", "Predates him"],
+  ["norse", "Norse paganism", "Ancient", "Many gods", "c. 1st century BC-11th century AD", "No founder", "Predates him"],
+  ["celtic", "Celtic paganism", "Ancient", "Many gods", "c. 1200 BC-AD 500", "No founder", "Predates him"],
+  ["wicca", "Wicca", "New religious movement", "Goddess and God", "1950s", "Gerald Gardner", "Not part of its teaching"],
+  ["modern", "Modern spiritual movements", "New religious movement", "Varies; often universal consciousness", "Mid-20th century", "Various", "Varies; often an enlightened or ascended master"],
+  ["scientology", "Scientology", "New religious movement", "No defined God", "1953-1954", "L. Ron Hubbard", "Hubbard called Christ a fiction and an implanted memory"],
 ]
 
 function Comparison() {
@@ -98,7 +98,14 @@ function Comparison() {
     <VisualCard
       title={`All ${ROWS.length} religions compared`}
       subtitle="The religions examined in depth, side by side. Filter by family or search; the names under the table open each religion's section."
-      note={"\"No set view\" means the tradition has no official teaching about Jesus, though individual teachers may hold one."}
+      note={"Most of these traditions began before Jesus, so their scriptures say nothing about him. The views given for those are of later teachers, and they are not binding on every follower."}
+      sources={[
+        { label: "Wikipedia, \"Buddhism and Christianity\"", url: "https://en.wikipedia.org/wiki/Buddhism_and_Christianity" },
+        { label: "Church History (Cambridge), \"Christ as Yogi: The Jesus of Vivekananda and Modern Hinduism\"", url: "https://www.cambridge.org/core/journals/church-history/article/christ-as-yogi-the-jesus-of-vivekananda-and-modern-hinduism/0B09DB515FED0A2294E6295CE84137CF" },
+        { label: "Wikipedia, \"Scientology and other religions\"", url: "https://en.wikipedia.org/wiki/Scientology_and_other_religions" },
+        { label: "Wikipedia, \"Haitian Vodou\"", url: "https://en.wikipedia.org/wiki/Haitian_Vodou" },
+        { label: "Wikipedia, \"New Age\"", url: "https://en.wikipedia.org/wiki/New_Age" },
+      ]}
     >
       <CompareTable
         minWidth="64rem"

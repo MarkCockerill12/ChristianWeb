@@ -20,6 +20,15 @@ export const HEROES: Record<string, TopicHero> = {
     sourceUrl: "https://commons.wikimedia.org/wiki/File:Paul_preaching_at_Athens_(BM_1842,0319.7).jpg",
     position: "center 38%",
   },
+  "heresies-and-fallacies": {
+    src: "/images/heroes/heresies-and-fallacies.jpg",
+    alt: "A Greek icon of the bishops of the First Council of Nicaea seated together",
+    caption: "The First Council of Nicaea, Michael Damaskinos, 16th century. The council rejected Arius's teaching that the Son was created.",
+    credit: "Rigorius",
+    license: "CC BY-SA 4.0",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Heraklion_First-Oecumenical-Council_Damaskenos_20230606_111647(cropped).jpg",
+    position: "center 45%",
+  },
   "abortion": {
     src: "/images/heroes/abortion.jpg",
     alt: "Mary and Elizabeth, both pregnant, greeting one another",

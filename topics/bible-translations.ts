@@ -75,8 +75,8 @@ Publishers place their own versions on this spectrum. Crossway calls the ESV "es
 ### The difference in practice
 
 - **1 Peter 1:13.** The KJV and NKJV keep Peter's image: "gird up the loins of your mind." The NASB has "prepare your minds for action", the ESV "preparing your minds for action", and the NIV "with minds that are alert and fully sober"[^29].
-- **Philippians 1:8.** Paul longs for the Philippians with the *splanchna* of Christ, literally the inner organs, which Greek treated as the seat of the emotions. The KJV renders it "in the bowels of Jesus Christ"; nearly every modern version has "with the affection of Christ Jesus"[^30][^31].
-- **Romans 12:1.** Paul addresses the church as *adelphoi*, which Greek used for a mixed group as well as for men. The KJV and ESV have "brethren" or "brothers"; the NIV, CSB, NASB 2020 and NLT have "brothers and sisters"[^32][^33].
+- **Philippians 1:8.** Paul longs for the Philippians with the *splanchna* (σπλάγχνα, inner parts) of Christ, literally the inner organs, which Greek treated as the seat of the emotions. The KJV renders it "in the bowels of Jesus Christ"; nearly every modern version has "with the affection of Christ Jesus"[^30][^31].
+- **Romans 12:1.** Paul addresses the church as *adelphoi* (ἀδελφοί, brothers), which Greek used for a mixed group as well as for men. The KJV and ESV have "brethren" or "brothers"; the NIV, CSB, NASB 2020 and NLT have "brothers and sisters"[^32][^33].
 
 Each approach carries a cost. A formal translation preserves the links between words and passages and leaves interpretation to the reader, but can produce English that is wooden or misleading. Crossway argues that thought-for-thought versions are more likely to carry the translator's interpretive views[^34][^35]. Functional translators answer that every translation interprets, and that clarity in the receptor language is itself a form of accuracy[^36].
 
@@ -118,7 +118,7 @@ The KJV was a revision, not a fresh translation. The translators were told to fo
 
 Several KJV words have changed meaning since 1611. In 2 Thessalonians 2:7 "he who now letteth will let" means "he who now restrains will restrain"[^61]. In 1 Thessalonians 4:15 the living "shall not prevent them which are asleep" means they will not precede them[^62].
 
-A few renderings are now regarded as mistakes. "Unicorn" (Numbers 23:22) translates the Hebrew *re'em*, a wild ox; the KJV followed the Septuagint and Vulgate, which also gave the animal one horn[^63][^64]. In Acts 12:4 the KJV has "Easter" for *pascha*, which it renders "Passover" in its 28 other occurrences[^65][^66].
+A few renderings are now regarded as mistakes. "Unicorn" (Numbers 23:22) translates the Hebrew *re'em* (רְאֵם, wild ox), a wild ox; the KJV followed the Septuagint and Vulgate, which also gave the animal one horn[^63][^64]. In Acts 12:4 the KJV has "Easter" for *pascha* (πάσχα, Passover), which it renders "Passover" in its 28 other occurrences[^65][^66].
 `
     },
     {
@@ -156,7 +156,7 @@ The ESV shows that even a single translation keeps moving. In 2016 Crossway chan
       content: `
 **The New International Version** grew from a 1957 study by the National Association of Evangelicals and the Christian Reformed Church. The Committee on Bible Translation, a self-perpetuating body of fifteen evangelical scholars formed in 1965, published the New Testament in 1973 and the whole Bible in 1978, with revisions in 1984 and 2011[^91][^92][^93]. The NIV has long been the best-selling translation in the United States[^94]. Recent monthly ECPA rankings put the ESV, NIV, KJV and NLT as the four best-selling translations, with the ESV and NIV trading first place[^95][^96].
 
-The NIV is also the centre of the debate over gender language. Today's New International Version (2005) used gender-inclusive language for people, and both it and the 1984 NIV were withdrawn when the 2011 NIV replaced them[^97]. In June 2011 the Southern Baptist Convention passed a resolution saying the 2011 NIV kept about 75% of the TNIV's inaccurate gender language, and declining to commend it[^98][^99]. The translators reply that renderings such as "brothers and sisters" for *adelphoi* reflect what the Greek meant to its first hearers rather than changing it[^100].
+The NIV is also the centre of the debate over gender language. Today's New International Version (2005) used gender-inclusive language for people, and both it and the 1984 NIV were withdrawn when the 2011 NIV replaced them[^97]. In June 2011 the Southern Baptist Convention passed a resolution saying the 2011 NIV kept about 75% of the TNIV's inaccurate gender language, and declining to commend it[^98][^99]. The translators reply that renderings such as "brothers and sisters" for *adelphoi* (ἀδελφοί, brothers) reflect what the Greek meant to its first hearers rather than changing it[^100].
 
 **The Christian Standard Bible** (2017) is a major revision of the Holman Christian Standard Bible (2004), published by Holman and Lifeway and translated from the Nestle-Aland 28th edition by the "optimal equivalence" method[^101][^102][^103].
 
@@ -171,7 +171,7 @@ The NIV is also the centre of the debate over gender language. Today's New Inter
 - **The Living Bible** (1971) is Kenneth Taylor's personal paraphrase of the 1901 American Standard Version, not a translation from the original languages[^107].
 - **The New Living Translation** (1996) began in 1989 as a revision of The Living Bible and became a new translation from the Hebrew and Greek by ninety scholars, with a second edition in 2004. Its translators aimed to render the text as literally as possible wherever that produced clear, natural English[^108][^109][^110][^111].
 - **The Good News Translation** (New Testament 1966, whole Bible 1976), from the American Bible Society, was built directly on Eugene Nida's dynamic equivalence theory[^112][^113].
-- **The Message** (1993-2002) is Eugene Peterson's idiomatic rendering from the original languages, reviewed by a team of scholars. It sits at the far dynamic end of the spectrum and has been criticised for loose handling of the text, including rendering *kyrios* as "Master" where Jesus is called Lord[^114][^115].
+- **The Message** (1993-2002) is Eugene Peterson's idiomatic rendering from the original languages, reviewed by a team of scholars. It sits at the far dynamic end of the spectrum and has been criticised for loose handling of the text, including rendering *kyrios* (κύριος, Lord) as "Master" where Jesus is called Lord[^114][^115].
 - **The Amplified Bible** (1965), from the Lockman Foundation and Zondervan, adds bracketed "amplifications" that spell out shades of meaning, marked off from the translation itself[^116][^117][^118].
 `
     },
@@ -197,9 +197,9 @@ Catholic and Orthodox Bibles include the deuterocanonical books (Tobit, Judith, 
 
 The Watch Tower Society published the New World Translation's New Testament in 1950 and the whole Bible in 1961, with a major revision in 2013. Its translators have never been publicly named[^127].
 
-- **John 1:1** reads "the Word was a god"[^128]. In Greek the word *theos* stands without the article and before the verb, which marks it as describing what the Word was, not as making him one god among several[^129]. Bruce Metzger of Princeton called the rendering a mistranslation and observed that "if the Jehovah's Witnesses take this translation seriously, they are polytheists"[^130].
+- **John 1:1** reads "the Word was a god"[^128]. In Greek the word *theos* (θεός, God) stands without the article and before the verb, which marks it as describing what the Word was, not as making him one god among several[^129]. Bruce Metzger of Princeton called the rendering a mistranslation and observed that "if the Jehovah's Witnesses take this translation seriously, they are polytheists"[^130].
 - **Colossians 1:16** reads "by means of him all other things were created". The word "other" has no counterpart in the Greek and turns Christ from the Creator of all things into the first of the things created[^131][^132].
-- The NWT also puts "Jehovah" into the New Testament 237 times where the Greek manuscripts have *kyrios* (Lord) or *theos* (God)[^133][^134].
+- The NWT also puts "Jehovah" into the New Testament 237 times where the Greek manuscripts have *kyrios* (κύριος, Lord) or *theos* (God)[^133][^134].
 
 ### The Joseph Smith Translation
 
@@ -233,19 +233,19 @@ No doctrine depends on these passages. The Trinity, for example, is taught throu
       content: `
 ### Isaiah 7:14: "virgin" or "young woman"?
 
-The Hebrew word is *almah*, a young woman of marriageable age. Hebrew has a more specific word for virgin, *bethulah*, which Isaiah did not use[^159][^160]. The Jewish translators of the Septuagint, two centuries before Christ, rendered *almah* here as *parthenos*, "virgin", and Matthew 1:23 quotes that reading[^161][^162]. The KJV, NKJV, NASB, ESV, NIV, CSB and NLT have "virgin"; the RSV, NRSV and NET have "young woman"[^163][^164]. The wider argument is covered under [Prophecy](/categories/prophecy).
+The Hebrew word is *almah* (עַלְמָה, young woman), a young woman of marriageable age. Hebrew has a more specific word for virgin, *bethulah* (בְּתוּלָה, virgin), which Isaiah did not use[^159][^160]. The Jewish translators of the Septuagint, two centuries before Christ, rendered *almah* here as *parthenos* (παρθένος, virgin), "virgin", and Matthew 1:23 quotes that reading[^161][^162]. The KJV, NKJV, NASB, ESV, NIV, CSB and NLT have "virgin"; the RSV, NRSV and NET have "young woman"[^163][^164]. The wider argument is covered under [Prophecy](/categories/prophecy).
 
 ### Psalm 22:16: "they pierced my hands and my feet"
 
-Most manuscripts of the Masoretic Text read *ka'ari*, "like a lion, my hands and my feet", which leaves the sentence without a verb. The Septuagint, translated before the Christian era, reads "they dug" (pierced). A Dead Sea fragment from Nahal Hever spells the word *ka'aru*, which supports a verb, although the same scribe misspells other words in the line[^165][^166]. Nearly every English version reads "pierced"; the NET has "like a lion they pin my hands and feet"[^167].
+Most manuscripts of the Masoretic Text read *ka'ari* (כָּאֲרִי, like a lion), "like a lion, my hands and my feet", which leaves the sentence without a verb. The Septuagint, translated before the Christian era, reads "they dug" (pierced). A Dead Sea fragment from Nahal Hever spells the word *ka'aru*, which supports a verb, although the same scribe misspells other words in the line[^165][^166]. Nearly every English version reads "pierced"; the NET has "like a lion they pin my hands and feet"[^167].
 
 ### Deuteronomy 22:28: "rapes her" or "seizes her"?
 
-In verse 25 the man overpowers a betrothed woman in the open country, and he alone is put to death. The verb is *chazaq*, "to overpower, force"[^168][^169]. Verse 28 switches to *taphas*, "to seize, take hold of"[^170]. The NIV, CSB and NET render verse 28 "rapes her"; the ESV, NASB, LSB and NKJV keep "seizes her and lies with her", and the KJV has "lay hold on her, and lie with her"[^171]. The more literal versions preserve the change of verb, which leaves open the reading that verse 28 parallels the seduction law of Exodus 22:16-17, where the father may refuse the marriage altogether[^172][^173]. The full discussion is under [Women](/categories/women).
+In verse 25 the man overpowers a betrothed woman in the open country, and he alone is put to death. The verb is *chazaq* (חָזַק, overpower), "to overpower, force"[^168][^169]. Verse 28 switches to *taphas* (תָּפַשׂ, seize), "to seize, take hold of"[^170]. The NIV, CSB and NET render verse 28 "rapes her"; the ESV, NASB, LSB and NKJV keep "seizes her and lies with her", and the KJV has "lay hold on her, and lie with her"[^171]. The more literal versions preserve the change of verb, which leaves open the reading that verse 28 parallels the seduction law of Exodus 22:16-17, where the father may refuse the marriage altogether[^172][^173]. The full discussion is under [Women](/categories/women).
 
 ### John 1:18: modern versions and the deity of Christ
 
-The KJV and NKJV read "the only begotten Son", following later manuscripts. The oldest manuscripts read *monogenēs theos*, "the only God" or "God the One and Only", so the NASB, LSB, ESV, NIV, CSB and NLT name the Son as God in this verse more directly than the KJV does[^174][^175]. The ESV's 2025 edition changed its rendering from "the only God" to "God the only Son"[^176][^177].
+The KJV and NKJV read "the only begotten Son", following later manuscripts. The oldest manuscripts read *monogenēs theos* (μονογενὴς θεός, only God), "the only God" or "God the One and Only", so the NASB, LSB, ESV, NIV, CSB and NLT name the Son as God in this verse more directly than the KJV does[^174][^175]. The ESV's 2025 edition changed its rendering from "the only God" to "God the only Son"[^176][^177].
 `
     },
     {

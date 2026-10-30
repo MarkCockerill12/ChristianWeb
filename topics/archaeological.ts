@@ -86,7 +86,7 @@ Multiple theories and findings exist for the cities of the plain:
 Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](https://www.biblegateway.com/passage/?search=Joshua+10%3A12-13&version=NIV) records the annular solar eclipse of 30 October 1207 BC. The [NASA topic](/categories/nasa) sets out the astronomy in more detail:
 
 - The eclipse itself is not in question: it is the only annular eclipse visible from the region of Gibeon between 1500 and 1050 BC in the standard calculations[^71][^72][^73]
-  - The proposal turns on rendering the Hebrew verbs *dom* and *amad* as "stop shining" rather than "stand still", a minority reading of both words[^74][^75]
+  - The proposal turns on rendering the Hebrew verbs *dom* (דּוֹם, be still) and *amad* as "stop shining" rather than "stand still", a minority reading of both words[^74][^75]
   - Critics answer that the passage describes the sun remaining visible for longer rather than being darkened, which reverses the sense the eclipse reading requires[^76][^77]
   - Taken with the Merneptah Stele, the proposed date would tighten the chronology of the late 13th century Egyptian kings[^78][^79]
 
@@ -132,7 +132,7 @@ Colin Humphreys and Graeme Waddington proposed in 2017 that [Joshua 10:12-13](ht
 
 **The date.** There are two main proposals. 1 Kings 6:1 puts the Exodus 480 years before Solomon's temple, which gives about 1446 BC, while Exodus 1:11 and the archaeology of Pi-Ramesses fit about 1260 BC better. Conservative scholars defend both.
 
-**The numbers.** The text's 600,000 men (Exodus 12:37) imply a population of about 2.5 million, far more than the land or the archaeology of Sinai and Canaan can support[^115]. Some scholars take the Hebrew *elef* as a group or clan, not "a thousand", which brings the total down sharply[^116]. Others defend the plain figure.
+**The numbers.** The text's 600,000 men (Exodus 12:37) imply a population of about 2.5 million, far more than the land or the archaeology of Sinai and Canaan can support[^115]. Some scholars take the Hebrew *elef* (אֶלֶף, thousand, or a clan) as a group or clan, not "a thousand", which brings the total down sharply[^116]. Others defend the plain figure.
 
 **Assessment.** The evidence is consistent with a historical Exodus in the setting the Bible describes, and it does not confirm one. Whatever else it shows, Israel remembered itself from the start as a nation of freed slaves, an unlikely origin for a people to invent. The [NASA topic](/categories/nasa) covers the physics of the Red Sea crossing.
 `,

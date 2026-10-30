@@ -72,7 +72,7 @@ The doctrine does not teach three Gods (tritheism) nor one person in three modes
 
 - **Ousia (Essence/Substance):** Refers to *what* God is, His single, undivided divine nature, substance, and attributes (e.g., omnipotence, omnipresence). The three persons share this one *Ousia* completely[^8].
   - **Hypostasis (Person):** Refers to *who* God is, the three distinct, concrete realities (Father, Son, and Holy Spirit) that subsist in the one divine essence. This distinction is based on their unique, eternal relationships of origin[^9][^10].
-  - **Homoousios:** The key term adopted at the Council of Nicaea, meaning "of the same essence" or "consubstantial." It affirms that the Son is fully God, sharing the exact same divine substance as the Father, and not, as a party in the later fourth-century debates proposed, merely a similar substance (*homoiousios*)[^11].
+  - **Homoousios:** The key term adopted at the Council of Nicaea, meaning "of the same essence" or "consubstantial." It affirms that the Son is fully God, sharing the exact same divine substance as the Father, and not, as a party in the later fourth-century debates proposed, merely a similar substance (*homoiousios* (ὁμοιούσιος, of similar being))[^11].
 `,
     },
     {
@@ -91,7 +91,7 @@ Response: Neither is "incarnation" or "omniscience," but these biblical concepts
 
 **Objection: "Jesus said the Father is greater than I"**
 
-Response: In [John 14:28](https://www.biblegateway.com/passage/?search=John+14%3A28&version=NIV) Jesus is speaking about His imminent departure from the humiliation of the incarnation back to the Father's glory. "Greater" (*meizōn*) here refers to the Father's position relative to the incarnate Son, not to a difference in divine nature[^17]. Jesus voluntarily took on a subordinate role for our salvation while remaining fully equal in divine essence ([Philippians 2:6-8](https://www.biblegateway.com/passage/?search=Philippians+2%3A6-8&version=NIV))[^18]. The distinction is between *who Jesus is by nature* (equal with God) and *what role He accepted* (servant for our sake). For a full exploration of this topic, including the Greek of Philippians 2:6, how John 5:18 and 10:30 confirm equality of essence, and the theological distinction between ontological equality and economic subordination, see our page on [Contradictions](/categories/contradictions).
+Response: In [John 14:28](https://www.biblegateway.com/passage/?search=John+14%3A28&version=NIV) Jesus is speaking about His imminent departure from the humiliation of the incarnation back to the Father's glory. "Greater" (*meizōn* (μείζων, greater)) here refers to the Father's position relative to the incarnate Son, not to a difference in divine nature[^17]. Jesus voluntarily took on a subordinate role for our salvation while remaining fully equal in divine essence ([Philippians 2:6-8](https://www.biblegateway.com/passage/?search=Philippians+2%3A6-8&version=NIV))[^18]. The distinction is between *who Jesus is by nature* (equal with God) and *what role He accepted* (servant for our sake). For a full exploration of this topic, including the Greek of Philippians 2:6, how John 5:18 and 10:30 confirm equality of essence, and the theological distinction between ontological equality and economic subordination, see our page on [Contradictions](/categories/contradictions).
 
 
 **Objection: "Early Christians didn't believe in the Trinity"**
@@ -105,7 +105,7 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
       tags: ["History"],
       content: `The Trinity was formally articulated at the Council of Nicaea (325 AD)[^23] and completed at the First Council of Constantinople (381 AD)[^24]. These councils didn't invent the doctrine but clarified biblical teaching against false interpretations (heresies)[^25].
 
-- **Arianism:** Condemned at Nicaea, Arianism claimed the Son was a created being, subordinate to and not co-eternal with the Father ("there was when he was not"). The later *homoiousian* party, who called the Son "like in essence" to the Father, occupied a middle position, and many of them eventually accepted *homoousios*[^26][^27].
+- **Arianism:** Condemned at Nicaea, Arianism claimed the Son was a created being, subordinate to and not co-eternal with the Father ("there was when he was not"). The later *homoiousian* party, who called the Son "like in essence" to the Father, occupied a middle position, and many of them eventually accepted *homoousios* (ὁμοούσιος, of the same being)[^26][^27].
   - **Modalism:** Rejected by Hippolytus and Tertullian, with Sabellius excommunicated at Rome around 220 and the Sabellians anathematised by name in the first canon of Constantinople (381), Modalism (or Sabellianism) asserts God is a single person who manifests Himself in three successive modes, denying the simultaneous, distinct personhood of Father, Son, and Holy Spirit[^28][^29][^30].
   - **The Nicene Creed:** The resulting Nicene-Constantinopolitan Creed, shared by Catholic, Orthodox and most Protestant churches (with the West later adding the disputed *filioque*), confesses the Son as "of one being with the Father" and the Spirit as "worshipped and glorified" with the Father and the Son. The explicit language of three co-equal and co-eternal persons comes from the Cappadocian Fathers and the later Athanasian Creed[^31][^32][^33].
 
@@ -133,7 +133,7 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
 
 **A son is named.** Proverbs 30:4 asks "Who has gone up to heaven and come down? ... What is his name, and what is the name of his son? Surely you know!", a question posed about the Creator[^43]. Psalm 2:7 records "You are my son; today I have become your father", and Psalm 2:12 tells the nations to "kiss the son" or perish[^44]. Psalm 110:1 has David writing "The LORD says to my lord: Sit at my right hand", a text Jesus pressed on his opponents precisely because of the two lords in it[^45].
 
-**A divine figure receives worship.** Daniel 7:13-14 shows one like a son of man coming with the clouds, given authority and the service or worship (Aramaic *pelach*) of all nations, and an everlasting dominion, language reserved elsewhere for God alone[^46]. Isaiah 9:6 names the child to be born Mighty God and Everlasting Father[^47].
+**A divine figure receives worship.** Daniel 7:13-14 shows one like a son of man coming with the clouds, given authority and the service or worship (Aramaic *pelach* (פְּלַח, serve, worship)) of all nations, and an everlasting dominion, language reserved elsewhere for God alone[^46]. Isaiah 9:6 names the child to be born Mighty God and Everlasting Father[^47].
 
 **The Spirit is a third who is sent.** Isaiah 48:16 has the speaker say "And now the Sovereign LORD has sent me, endowed with his Spirit", three parties in one sentence[^48]. Isaiah 63:10 speaks of grieving the Holy Spirit, which is language for a person rather than a force[^49].
 
@@ -152,7 +152,7 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
 
 **The Father calls the Son God.** Hebrews 1:8 quotes Psalm 45 as the Father addressing the Son: "Your throne, O God, will last for ever and ever"[^56]. Colossians 2:9 says the fullness of deity lives in Christ bodily, and Titus 2:13 speaks of "our great God and Saviour, Jesus Christ"[^57][^58].
 
-**The Spirit is personal and distinct.** In John 14:16-17 the Son asks the Father to send another (*allos*) Advocate, often taken to mean another of the same kind, and John 14:26 and 16:13-14 describe the Spirit teaching, reminding and speaking[^59][^60].
+**The Spirit is personal and distinct.** In John 14:16-17 the Son asks the Father to send another (*allos* (ἄλλος, another)) Advocate, often taken to mean another of the same kind, and John 14:26 and 16:13-14 describe the Spirit teaching, reminding and speaking[^59][^60].
 
 **Triadic formulas appear without argument**, as settled practice rather than novelty: 2 Corinthians 13:14, 1 Peter 1:2, Ephesians 4:4-6 and 1 Corinthians 12:4-6[^61].
 

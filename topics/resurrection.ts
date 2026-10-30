@@ -207,7 +207,7 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 - **1 Corinthians 15:3-7**: A pre-Pauline creed dating to within 2 to 5 years of the event[^68].
 
-- **Early Sermons in Acts**: The resurrection was the central message of the *kerygma* (proclamation) from the very beginning of the Church's life[^69][^70].
+- **Early Sermons in Acts**: The resurrection was the central message of the *kerygma* (κήρυγμα, proclamation) from the very beginning of the Church's life[^69][^70].
 
 - **Paul's Letters**: Written 20 to 30 years after the event, they assume the resurrection as the fundamental, non-negotiable fact of the faith[^71].
 
