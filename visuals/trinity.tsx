@@ -184,7 +184,7 @@ function Councils() {
         steps={[
           { label: "Late 2nd c.", title: "Theophilus of Antioch", body: "First writer recorded using the word \"Trinity\" (Greek *trias*)." },
           { label: "c. 200-220", title: "Tertullian", body: "First Latin writer known to use *trinitas*; writes against modalism in *Against Praxeas*." },
-          { label: "AD 325", title: "Nicaea", body: "The Son is *homoousios*, of the same being as the Father, against Arius." },
+          { label: "AD 325", title: "Nicaea", body: "The Son is *homoousios* (ὁμοούσιος), of the same being as the Father, against Arius." },
           { label: "AD 381", title: "Constantinople", body: "Creed expanded: the Spirit is \"worshipped and glorified\" with the Father and the Son." },
           { label: "AD 589", title: "Toledo", body: "*Filioque* (\"and the Son\") added in the West; later a cause of the 1054 schism." },
         ]}

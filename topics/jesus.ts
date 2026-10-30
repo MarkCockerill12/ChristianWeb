@@ -317,7 +317,7 @@ Given His profound moral teaching and the sanity of His character, Lewis argues 
     "35. [Academic] Livius - Tacitus on the Christians. 'Historical resource providing scholarly context and translation of Tacitus's Annals 15.44.' https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/",
     "36. [Academic] Josephus.org - New Testament Parallels. 'Scholarly commentary on the context of Suetonius's reference to 'Chrestus' and its tie to early Christian disturbances.' https://www.josephus.org/ntparallels2.htm",
     "37. [Academic] Desiring God - Singing to the Risen Son: A History of Christian Hymns. 'Article quoting and contextualizing Pliny's letter and the description of Christ's worship as a god.' https://www.desiringgod.org/articles/singing-to-the-risen-son",
-    "38. [Encyclopedia] Wikipedia. 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
+    "38. [Primary Source] Flavius Josephus, Antiquities of the Jews, trans. W. Whiston, 20.9.1. Project Gutenberg. https://www.gutenberg.org/ebooks/2848",
     "39. [Academic] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
     "40. [Early Church] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
     "41. [Early Church] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",

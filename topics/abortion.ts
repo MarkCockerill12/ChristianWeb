@@ -173,7 +173,7 @@ The traditions differ on the framework and agree on the principle: a doctor may 
     "6. [Medical] American College of Obstetricians and Gynecologists. 'Periviable Birth.' https://www.acog.org/clinical/clinical-guidance/obstetric-care-consensus/articles/2017/10/periviable-birth",
     "7. [Medical] American College of Obstetricians and Gynecologists. 'How Your Fetus Grows During Pregnancy.' https://www.acog.org/womens-health/faqs/how-your-fetus-grows-during-pregnancy",
     "8. [Academic] Internet Encyclopedia of Philosophy. 'Abortion.' https://iep.utm.edu/abortion/",
-    "9. [Encyclopedia] Wikipedia. 'After-birth abortion.' https://en.wikipedia.org/wiki/After-birth_abortion",
+    "9. [Academic] After-birth abortion: why should the baby live? PubMed. https://pubmed.ncbi.nlm.nih.gov/22361296/",
     "10. [Primary Source] The Didache 2, trans. Roberts and Donaldson. Early Christian Writings. https://www.earlychristianwritings.com/text/didache-roberts.html",
     "11. [Primary Source] Letter to Diognetus 5. New Advent. https://www.newadvent.org/fathers/0101.htm",
     "12. [Primary Source] Athenagoras, A Plea for the Christians 35. New Advent. https://www.newadvent.org/fathers/0205.htm",
@@ -196,7 +196,7 @@ The traditions differ on the framework and agree on the principle: a doctor may 
     "29. [Medical] American College of Obstetricians and Gynecologists. 'Early Pregnancy Loss.' https://www.acog.org/womens-health/faqs/early-pregnancy-loss",
     "30. [Research] Finer et al. 'Reasons U.S. Women Have Abortions.' Perspectives on Sexual and Reproductive Health (2005). https://www.guttmacher.org/journals/psrh/2005/reasons-us-women-have-abortions-quantitative-and-qualitative-perspectives",
     "31. [Research] Finer et al. 'Reasons U.S. Women Have Abortions' (PDF). https://www.guttmacher.org/sites/default/files/pdfs/journals/3711005.pdf",
-    "32. [Encyclopedia] Wikipedia. 'A Defense of Abortion.' https://en.wikipedia.org/wiki/A_Defense_of_Abortion",
+    "32. [Academic] Stanford Encyclopedia of Philosophy. 'The Ethics of Abortion.' https://plato.stanford.edu/entries/abortion/",
     "33. [Encyclopedia] Wikipedia. 'Crisis pregnancy center.' https://en.wikipedia.org/wiki/Crisis_pregnancy_center",
     "34. [Research] Lifeway Research. 'Women Distrust Church on Abortion' (2015). https://research.lifeway.com/2015/11/23/women-distrust-church-on-abortion/",
     "35. [Primary Source] John Paul II. Evangelium Vitae 99 (1995). Vatican. https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_25031995_evangelium-vitae.html"

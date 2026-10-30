@@ -37,7 +37,7 @@ function Coinage() {
   return (
     <VisualCard
       title="How Paul's word was built"
-      subtitle="The Greek Old Testament of Leviticus 18:22 and 20:13 puts *arsenos* (male) beside *koitēn* (bed, lying). 1 Corinthians 6:9 joins the two into one word, *arsenokoitai*, found nowhere earlier in surviving Greek."
+      subtitle="The Greek Old Testament of Leviticus 18:22 and 20:13 puts *arsenos* (ἄρσενος, male) beside *koitēn* (κοίτην, bed, lying). 1 Corinthians 6:9 joins the two into one word, *arsenokoitai* (ἀρσενοκοῖται), found nowhere earlier in surviving Greek."
       sources={[
         { label: "Wikipedia, \"Arsenokoites\"", url: "https://en.wikipedia.org/wiki/Arsenokoites" },
         { label: "Bible Hub, Greek 733 (arsenokoités)", url: "https://biblehub.com/greek/733.htm" },

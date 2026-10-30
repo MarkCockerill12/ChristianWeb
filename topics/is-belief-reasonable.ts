@@ -44,7 +44,7 @@ The line suggests that Christians reject all other gods for the same reason that
 `,
     },
     {
-      id: "wish-fulfilment",
+      id: "wish-fulfillment",
       title: "Is God Just Wish Fulfilment?",
       tags: ["Psychology"],
       content: `
@@ -136,18 +136,18 @@ Some scholars and pastors have lost their faith, the New Testament scholar Bart 
   ],
   sources: [
     "1. [Academic] Stanford Encyclopedia of Philosophy. 'Religious Pluralism.' https://plato.stanford.edu/entries/religious-pluralism/",
-    "2. [Encyclopedia] Wikipedia. 'Genetic fallacy.' https://en.wikipedia.org/wiki/Genetic_fallacy",
-    "3. [Encyclopedia] Wikipedia. 'The Future of an Illusion.' https://en.wikipedia.org/wiki/The_Future_of_an_Illusion",
+    "2. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#Genetic",
+    "3. [Encyclopedia] Wikipedia. \'The Future of an Illusion.\' https://en.wikipedia.org/wiki/The_Future_of_an_Illusion",
     "4. [Encyclopedia] Wikipedia. 'Paul Vitz.' https://en.wikipedia.org/wiki/Paul_Vitz",
     "5. [Encyclopedia] Wikipedia. 'Cognitive science of religion.' https://en.wikipedia.org/wiki/Cognitive_science_of_religion",
     "6. [Encyclopedia] Wikipedia. 'Justin L. Barrett.' https://en.wikipedia.org/wiki/Justin_L._Barrett",
     "7. [Encyclopedia] Wikipedia. 'Neurotheology.' https://en.wikipedia.org/wiki/Neurotheology",
-    "8. [Encyclopedia] Wikipedia. 'Hard problem of consciousness.' https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "8. [Academic] Internet Encyclopedia of Philosophy. 'The Hard Problem of Consciousness.' https://iep.utm.edu/hard-problem-of-conciousness/",
     "9. [Encyclopedia] Wikipedia. 'Russell's teapot.' https://en.wikipedia.org/wiki/Russell%27s_teapot",
     "10. [Encyclopedia] Wikipedia. 'Flying Spaghetti Monster.' https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster",
     "11. [Encyclopedia] Wikipedia. 'Hitchens's razor.' https://en.wikipedia.org/wiki/Hitchens%27s_razor",
     "12. [Encyclopedia] Wikipedia. 'The God Delusion.' https://en.wikipedia.org/wiki/The_God_Delusion",
-    "13. [Encyclopedia] Wikipedia. 'Occam's razor.' https://en.wikipedia.org/wiki/Occam%27s_razor",
+    "13. [Academic] Stanford Encyclopedia of Philosophy. 'Simplicity.' https://plato.stanford.edu/entries/simplicity/",
     "14. [Academic] Stanford Encyclopedia of Philosophy. 'Pascal's Wager.' https://plato.stanford.edu/entries/pascal-wager/",
     "15. [Encyclopedia] Wikipedia. 'Religious trauma syndrome.' https://en.wikipedia.org/wiki/Religious_trauma_syndrome"
   ],

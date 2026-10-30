@@ -253,18 +253,18 @@ Islam shares with Christianity the belief in one Creator and in final judgment, 
   </div>
 
   <div style="margin: 10px 0;">
-    **3. New Covenant Fulfillment:** ([Jeremiah 31:31-34](https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A31-34&version=NIV)) promised a new covenant where God's law would be written on hearts, not just external observance. This finds fulfillment in the Holy Spirit's work through Christ[^55].
+    **3. New Covenant Fulfilment:** ([Jeremiah 31:31-34](https://www.biblegateway.com/passage/?search=Jeremiah%2031%3A31-34&version=NIV)) promised a new covenant where God's law would be written on hearts, not just external observance. This finds fulfilment in the Holy Spirit's work through Christ[^55].
   </div>
 
   <div style="margin: 10px 0;">
     **4. Universal Mission:** Abraham was promised that through his seed "all nations" would be blessed ([Genesis 12:3](https://www.biblegateway.com/passage/?search=Genesis%2012%3A3&version=NIV)). Christianity fulfills this promise by bringing Jewish blessings to all peoples through Jesus[^56].
   </div>
 
-  **Conclusion:** While honoring Judaism as the root from which Christianity grew ([Romans 11:17-18](https://www.biblegateway.com/passage/?search=Romans%2011%3A17-18&version=NIV)), Christians believe Jesus is the completion and fulfillment of God's promises to Israel and the world.
+  **Conclusion:** While honoring Judaism as the root from which Christianity grew ([Romans 11:17-18](https://www.biblegateway.com/passage/?search=Romans%2011%3A17-18&version=NIV)), Christians believe Jesus is the completion and fulfilment of God's promises to Israel and the world.
 
   <div style="margin: 15px 0; padding-top: 10px; border-top: 1px solid #bbdefb;">
 **Deep Historical & Theological Context:**
-  The transition from biblical Judaism to modern Rabbinic Judaism occurred largely as a response to the catastrophic destruction of the Second Temple in 70 AD. Without a temple, the Levitical sacrificial system required by the Torah for the atonement of sins became impossible to practice. Rabbinic Judaism subsequently centred atonement on prayer, repentance, and good deeds. Jewish teachers point out that the prophets already spoke this way (Hosea 14:2, Micah 6:6-8); Christians answer that Leviticus 17:11 ties atonement to blood, and that the prophets were calling for sincerity in worship rather than abolishing the sacrifices. From a Christian perspective, this devastating historical event was the fulfillment of Jesus' own prophecy (Matthew 24) and a sign that the final, once-for-all sacrifice had already been made by the Messiah. The Hebrew Scriptures themselves point toward this transition: Daniel 9 predicts the Messiah would be "cut off" before the city and the sanctuary were destroyed, which Christians align with Jesus' crucifixion just decades before 70 AD. Additionally, the profound depiction of the suffering servant in Isaiah 53, who bears the iniquities of the people, finds its fulfilment in Jesus, Christians hold, a conviction that prompted many first-century Jews to embrace Him as the promised Savior.
+  The transition from biblical Judaism to modern Rabbinic Judaism occurred largely as a response to the catastrophic destruction of the Second Temple in 70 AD. Without a temple, the Levitical sacrificial system required by the Torah for the atonement of sins became impossible to practice. Rabbinic Judaism subsequently centred atonement on prayer, repentance, and good deeds. Jewish teachers point out that the prophets already spoke this way (Hosea 14:2, Micah 6:6-8); Christians answer that Leviticus 17:11 ties atonement to blood, and that the prophets were calling for sincerity in worship rather than abolishing the sacrifices. From a Christian perspective, this devastating historical event was the fulfilment of Jesus' own prophecy (Matthew 24) and a sign that the final, once-for-all sacrifice had already been made by the Messiah. The Hebrew Scriptures themselves point toward this transition: Daniel 9 predicts the Messiah would be "cut off" before the city and the sanctuary were destroyed, which Christians align with Jesus' crucifixion just decades before 70 AD. Additionally, the profound depiction of the suffering servant in Isaiah 53, who bears the iniquities of the people, finds its fulfilment in Jesus, Christians hold, a conviction that prompted many first-century Jews to embrace Him as the promised Savior.
   </div>
 
 </div>`
@@ -2232,14 +2232,14 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
     "15. [Encyclopedia] Wikipedia. 'Urmonotheismus.' https://en.wikipedia.org/wiki/Urmonotheismus",
     "16. [Reference] Encyclopedia.com. 'Schmidt, Wilhelm.' https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/schmidt-wilhelm",
     "17. [Encyclopedia] Wikipedia. 'Monolatry.' https://en.wikipedia.org/wiki/Monolatry",
-    "18. [Encyclopedia] Wikipedia. 'Sumerian religion.' https://en.wikipedia.org/wiki/Sumerian_religion",
+    "18. [Encyclopedia] World History Encyclopedia. 'Sumer: The Cradle of Civilization.' https://www.worldhistory.org/Sumer/",
     "19. [Encyclopedia] Wikipedia. 'Enuma Elish.' https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1",
     "20. [Reference] World History Encyclopedia. 'Mesopotamian Religion.' https://www.worldhistory.org/Mesopotamian_Religion/",
     "21. [Encyclopedia] Wikipedia. 'Ancient Mesopotamian religion.' https://en.wikipedia.org/wiki/Ancient_Mesopotamian_religion",
-    "22. [Encyclopedia] Wikipedia. 'Eridu Genesis.' https://en.wikipedia.org/wiki/Eridu_Genesis",
+    "22. [Encyclopedia] World History Encyclopedia. 'Eridu Genesis: The Oldest Mesopotamian Text on the Great Flood.' https://www.worldhistory.org/Eridu_Genesis/",
     "23. [Encyclopedia] Wikipedia. 'Kur.' https://en.wikipedia.org/wiki/Kur",
     "24. [Encyclopedia] Wikipedia. 'Atra-Hasis.' https://en.wikipedia.org/wiki/Atra-Hasis",
-    "25. [Encyclopedia] Wikipedia. 'Maat.' https://en.wikipedia.org/wiki/Maat",
+    "25. [Encyclopedia] World History Encyclopedia. 'Ma'at.' https://www.worldhistory.org/Maat/",
     "26. [Encyclopedia] Wikipedia. 'Ancient Egyptian religion.' https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
     "27. [Encyclopedia] Britannica. 'Pyramid Texts.' https://www.britannica.com/topic/Pyramid-Texts",
     "28. [Encyclopedia] Wikipedia. 'Pyramid Texts.' https://en.wikipedia.org/wiki/Pyramid_Texts",
@@ -2249,13 +2249,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
     "32. [Encyclopedia] Wikipedia. 'Ancient Egyptian funerary practices.' https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices",
     "33. [Encyclopedia] Wikipedia. 'Atenism.' https://en.wikipedia.org/wiki/Atenism",
     "34. [Encyclopedia] Britannica. 'Islam: Beliefs.' https://www.britannica.com/topic/Islam",
-    "35. [Encyclopedia] Wikipedia. 'Five Pillars of Islam.' https://en.wikipedia.org/wiki/Five_Pillars_of_Islam",
+    "35. [Reference] BBC Religions. 'Islam: Five Pillars of Islam.' https://www.bbc.co.uk/religion/religions/islam/practices/fivepillars.shtml",
     "36. [Research Center] Pew Research Center. 'Why Muslims are the world’s fastest-growing religious group.' https://www.pewresearch.org/short-reads/2017/04/06/why-muslims-are-the-worlds-fastest-growing-religious-group/",
     "37. [Academic Encyclopedia] Jewish Virtual Library. 'Judaism: Covenant.' https://www.jewishvirtuallibrary.org/judaism",
     "38. [News] The Jerusalem Post. 'Jewish population increases by 100,000 this year, to 15.8 million worldwide.' https://www.jpost.com/judaism/article-823226",
     "39. [Encyclopedia] Britannica. 'Palestine.' Including the early history of Israel. https://www.britannica.com/place/Palestine",
     "40. [Jewish Reference] My Jewish Learning. 'Monotheism.' https://www.myjewishlearning.com/article/monotheism/",
-    "41. [Encyclopedia] Wikipedia. 'Ten Commandments.' https://en.wikipedia.org/wiki/Ten_Commandments",
+    "41. [Encyclopedia] World History Encyclopedia. 'Ten Commandments.' https://www.worldhistory.org/Ten_Commandments/",
     "42. [Educational] My Jewish Learning. 'Judaism 101'. https://www.myjewishlearning.com/judaism-101-an-intro-to-jewish-life-and-practice/",
     "43. [Encyclopedia] Britannica. 'Rabbi.' https://www.britannica.com/topic/rabbi",
     "44. [Jewish Reference] My Jewish Learning. 'The Torah.' https://www.myjewishlearning.com/article/the-torah/",
@@ -2287,7 +2287,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
     "70. [Research Center] Pew Research Center. 'Hindus.' https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-hindu/",
     "71. [Encyclopedia] Wikipedia. 'Trimurti.' https://en.wikipedia.org/wiki/Trimurti",
     "72. [Encyclopedia] Britannica. 'Hinduism.' https://www.britannica.com/topic/Hinduism",
-    "73. [Encyclopedia] Wikipedia. 'Hindu philosophy.' https://en.wikipedia.org/wiki/Hindu_philosophy",
+    "73. [Academic] Internet Encyclopedia of Philosophy. 'Hindu Philosophy.' https://iep.utm.edu/hindu-ph/",
     "74. [Encyclopedia] Wikipedia. 'Religious pluralism.' https://en.wikipedia.org/wiki/Religious_pluralism",
     "75. [Encyclopedia] Wikipedia. 'Dharma.' https://en.wikipedia.org/wiki/Dharma",
     "76. [Encyclopedia] Wikipedia. 'Hindu art.' https://en.wikipedia.org/wiki/Hindu_art",
@@ -2463,7 +2463,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
     "246. [Encyclopedia] Britannica. 'Ahura Mazda.' https://www.britannica.com/topic/Ahura-Mazda",
     "247. [Encyclopedia] Wikipedia. 'Asha.' https://en.wikipedia.org/wiki/Asha",
     "248. [Public Media] BBC. 'Zoroastrian God.' https://www.bbc.co.uk/religion/religions/zoroastrian/beliefs/god.shtml",
-    "249. [Encyclopedia] Wikipedia. 'Saoshyant.' https://en.wikipedia.org/wiki/Saoshyant",
+    "249. [Academic] Encyclopaedia Iranica. 'SAOŠYANT.' https://www.iranicaonline.org/articles/saosyant",
     "250. [Encyclopedia] Wikipedia. 'Fire Temple.' https://en.wikipedia.org/wiki/Fire_temple",
     "251. [Encyclopedia] Wikipedia. 'Zoroastrianism.' https://en.wikipedia.org/wiki/Zoroastrianism",
     "252. [Encyclopedia] Wikipedia. 'Dualistic Cosmology.' https://en.wikipedia.org/wiki/Dualistic_cosmology",
@@ -2491,7 +2491,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
     "274. [History] World History Encyclopedia. 'Norse Mythology.' https://www.worldhistory.org/Norse_Mythology/",
     "275. [History] World History Encyclopedia. 'Edda.' https://www.worldhistory.org/Edda/",
     "276. [Encyclopedia] Wikipedia. 'Saga.' https://en.wikipedia.org/wiki/Saga",
-    "277. [Encyclopedia] Wikipedia. 'Hávamál.' https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l",
+    "277. [Primary Source] Hovamol, The Poetic Edda, trans. H. A. Bellows (1936). Internet Sacred Text Archive. https://sacred-texts.com/neu/poe/poe04.htm",
     "278. [Encyclopedia] Wikipedia. 'Völva (Seeress).' https://en.wikipedia.org/wiki/V%C3%B6lva",
     "279. [Encyclopedia] Wikipedia. 'Vanir.' https://en.wikipedia.org/wiki/Vanir",
     "280. [News] The Guardian. 'Norse Mythology by Neil Gaiman review.' https://www.theguardian.com/books/2017/mar/29/norse-myths-by-neil-gaiman-review",
@@ -2503,13 +2503,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
     "286. [Reference] Wikipedia. 'Snorri Sturluson.' The 13th-century Christian compiler of Norse myth. https://en.wikipedia.org/wiki/Snorri_Sturluson",
     "287. [Encyclopedia] Wikipedia. 'Prose Edda.' https://en.wikipedia.org/wiki/Prose_Edda",
     "288. [Encyclopedia] Wikipedia. 'Ragnarök.' https://en.wikipedia.org/wiki/Ragnar%C3%B6k",
-    "289. [Encyclopedia] Wikipedia. 'Celts.' https://en.wikipedia.org/wiki/Celts",
+    "289. [Encyclopedia] World History Encyclopedia. 'Ancient Celts.' https://www.worldhistory.org/Celts/",
     "290. [History] World History Encyclopedia. 'Celtic Religion.' https://www.worldhistory.org/Ancient_Celtic_Religion/",
     "291. [Encyclopedia] Britannica. 'Bard.' https://www.britannica.com/art/bard",
     "292. [Encyclopedia] Wikipedia. 'Otherworld.' https://en.wikipedia.org/wiki/Otherworld",
     "293. [Encyclopedia] Wikipedia. 'Celtic art.' https://en.wikipedia.org/wiki/Celtic_art",
     "294. [Reference] Wikipedia. 'Celtic deities.' https://en.wikipedia.org/wiki/Celtic_deities",
-    "295. [Encyclopedia] Wikipedia. 'Samhain.' https://en.wikipedia.org/wiki/Samhain",
+    "295. [Encyclopedia] World History Encyclopedia. 'Samhain.' https://www.worldhistory.org/Samhain/",
     "296. [Encyclopedia] Wikipedia. 'Human Sacrifice.' https://en.wikipedia.org/wiki/Human_sacrifice",
     "297. [Encyclopedia] Britannica. 'Human sacrifice.' https://www.britannica.com/topic/human-sacrifice",
     "298. [Encyclopedia] Britannica. 'Celt.' https://www.britannica.com/topic/Celt-people",

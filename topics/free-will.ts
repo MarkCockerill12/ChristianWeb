@@ -199,7 +199,7 @@ Collapsing the tension in either direction carries practical cost. Fatalism bree
     "39. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. Incompatibilist Theories of Free Will. The positive libertarian accounts. https://plato.stanford.edu/entries/incompatibilism-theories/",
     "40. [Peer-Reviewed] The Gospel Coalition (Themelios). Christological Arguments for Compatibilism in Reformed Theology. Calvin, Turretin and Edwards. https://www.thegospelcoalition.org/themelios/article/christological-arguments-for-compatibilism-in-reformed-theology/",
     "41. [Primary Source] Ligonier Ministries. The Westminster Confession of Faith (chapters 3 and 5). https://learn.ligonier.org/articles/westminster-confession-faith",
-    "42. [Reference] Wikipedia. Semi-Pelagianism. The intermediate position and its rejection. https://en.wikipedia.org/wiki/Semi-Pelagianism",
+    "42. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Semipelagianism.' https://www.newadvent.org/cathen/13703a.htm",
     "43. [Reference] Wikipedia. Synod of Dort. The assembly that formalised the Reformed response to Arminianism. https://en.wikipedia.org/wiki/Synod_of_Dort",
     "44. [Reference] Wikipedia. Five Articles of Remonstrance. The Arminian statement of the disputed points. https://en.wikipedia.org/wiki/Five_Articles_of_Remonstrance",
     "45. [Reference] Wikipedia. Luis de Molina. The Jesuit theologian who developed the system. https://en.wikipedia.org/wiki/Luis_de_Molina",

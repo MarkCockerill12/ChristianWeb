@@ -304,7 +304,7 @@ export const branches: Topic = {
       content: `
 **The objection.** Christians cannot agree on what their own book says, so either it is not clear or it is not from God.
 
-**What is shared.** The great majority of Christians, Catholic, Orthodox and Protestant, confess one God in three persons, the deity of Christ, his death for sin and his bodily resurrection. The differences on this page are real, but most concern church government, the sacraments and the relation of Scripture to tradition.
+**What is shared.** The great majority of Christians, Catholic, Orthodox and Protestant, confess one God in three persons, the deity of Christ, his death for sin and his bodily resurrection. The differences among these churches are real, but most concern church government, the sacraments and the relation of Scripture to tradition.
 
 **Disagreement does not mean there is no truth.** Physicists disagree about the interpretation of quantum mechanics, and historians about the causes of the First World War, and nobody concludes that there are no facts of the matter. Human beings bring pride, history and politics to any text. Many divisions have had as much to do with language, geography and rulers as with the Bible, the split between East and West among them.
 
@@ -472,7 +472,7 @@ export const branches: Topic = {
 
       **Distinctive Features:** Lutheran Confessions (Book of Concord, Augsburg Confession)[^64], liturgical calendar, infant baptism[^65].
 
-      **Major Bodies:** Lutheran World Federation, Lutheran Church–Missouri Synod, Wisconsin Evangelical Lutheran Synod[^66]`,
+      **Major Bodies:** Lutheran World Federation, Lutheran Church-Missouri Synod, Wisconsin Evangelical Lutheran Synod[^66]`,
     },
     {
       id: "Reformed/Presbyterian",
@@ -871,7 +871,7 @@ export const branches: Topic = {
     "46. [Encyclopedia] Britannica - Eastern Orthodoxy. 'Structure and organization.' https://www.britannica.com/topic/Eastern-Orthodoxy",
     "47. [Official Church] Orthodox Church in America (OCA). 'The Sacraments.' https://www.oca.org/orthodoxy/the-orthodox-faith/worship/the-sacraments",
     "48. [Official Church] Saint Katherine Greek Orthodox Church. 'Scripture and Tradition.' https://stkatherineaz.org/holy-scripture-holy-tradition",
-    "49. [Encyclopedia] Wikipedia. Icon. https://en.wikipedia.org/wiki/Icon",
+    "49. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Veneration of Images.' https://www.newadvent.org/cathen/07664a.htm",
     "50. [Catholic Reference] New Advent, Catholic Encyclopedia. 'The Eastern Schism.' https://www.newadvent.org/cathen/13535a.htm",
     "51. [Encyclopedia] Wikipedia. Clerical celibacy. https://en.wikipedia.org/wiki/Clerical_celibacy",
     "52. [Encyclopedia] Wikipedia. Theosis (Eastern Christian theology). https://en.wikipedia.org/wiki/Theosis_(Eastern_Christian_theology)",
@@ -887,7 +887,7 @@ export const branches: Topic = {
     "62. [Encyclopedia] Wikipedia. Sola gratia. https://en.wikipedia.org/wiki/Sola_gratia",
     "63. [Encyclopedia] Wikipedia. Priesthood of all believers. https://en.wikipedia.org/wiki/Universal_priesthood",
     "64. [Primary Source] Schaff, Creeds of Christendom. 'The Lutheran Confessions.' https://www.ccel.org/ccel/schaff/creeds1.viii.i.html",
-    "65. [Encyclopedia] Wikipedia. Lutheranism. https://en.wikipedia.org/wiki/Lutheranism",
+    "65. [Reference] World Council of Churches. 'Lutheran churches.' https://www.oikoumene.org/church-families/lutheran-churches",
     "66. [Encyclopedia] Wikipedia. List of Lutheran denominations. https://en.wikipedia.org/wiki/List_of_Lutheran_denominations",
     "67. [Encyclopedia] Wikipedia. 'Reformed Christianity.' https://en.wikipedia.org/wiki/Reformed_Christianity",
     "68. [Primary Source] Schaff, Creeds of Christendom. 'The Westminster Shorter Catechism, A.D. 1647.' https://www.ccel.org/ccel/schaff/creeds3.iv.xviii.html",
@@ -911,7 +911,7 @@ export const branches: Topic = {
     "86. [Religious Encyclopedia] GAMEO. 'Anabaptism.' https://gameo.org/index.php?title=Anabaptism",
     "87. [Encyclopedia] Wikipedia. Anabaptism. https://en.wikipedia.org/wiki/Anabaptism",
     "88. [Encyclopedia] Wikipedia. 'Martyrs Mirror.' https://en.wikipedia.org/wiki/Martyrs_Mirror",
-    "89. [Encyclopedia] Wikipedia. 'Anglicanism.' https://en.wikipedia.org/wiki/Anglican_Church",
+    "89. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Anglicanism.' https://www.newadvent.org/cathen/01498a.htm",
     "90. [Encyclopedia] Britannica - Anglicanism. 'The 'via media'.' https://www.britannica.com/topic/Anglicanism",
     "91. [Encyclopedia] Wikipedia. Historical episcopate. https://en.wikipedia.org/wiki/Historic_episcopate",
     "92. [Encyclopedia] Wikipedia. Book of Common Prayer. https://en.wikipedia.org/wiki/Book_of_Common_Prayer",
@@ -926,7 +926,7 @@ export const branches: Topic = {
     "101. [Encyclopedia] Wikipedia. Baptist beliefs. https://en.wikipedia.org/wiki/Baptist_beliefs",
     "102. [Official Church] Southern Baptist Church (Boston). 'What We Believe.' https://www.sbcboston.org/our-beliefs",
     "103. [Encyclopedia] Wikipedia. Baptists. https://en.wikipedia.org/wiki/Baptists",
-    "104. [Wikipedia] Roger Williams (theologian). 'Early Baptist advocate for religious freedom.' https://en.wikipedia.org/wiki/Roger_Williams_(theologian)",
+    "104. [Encyclopedia] World History Encyclopedia. 'Roger Williams.' https://www.worldhistory.org/Roger_Williams/",
     "105. [Encyclopedia] Wikipedia. International Mission Board. https://en.wikipedia.org/wiki/International_Mission_Board",
     "106. [Encyclopedia] Wikipedia. 'Congregational Polity.' https://en.wikipedia.org/wiki/Congregational_polity",
     "107. [Encyclopedia] Wikipedia. List of Baptist denominations. https://en.wikipedia.org/wiki/List_of_Baptist_denominations",
@@ -947,7 +947,7 @@ export const branches: Topic = {
     "122. [Encyclopedia] Wikipedia. 'Faith healing.' https://en.wikipedia.org/wiki/Divine_healing",
     "123. [Wikipedia] Prosperity theology. 'Common (but not universal) belief.' https://en.wikipedia.org/wiki/Prosperity_theology",
     "124. [Official Church] A/G. 'The Blessed Hope.' https://ag.org/Beliefs/Statement-of-Fundamental-Truths/The-Blessed-Hope",
-    "125. [Encyclopedia] Wikipedia. Pentecostalism. https://en.wikipedia.org/wiki/Pentecostalism",
+    "125. [Reference] World Council of Churches. 'Pentecostal churches.' https://www.oikoumene.org/church-families/pentecostal-churches",
     "126. [Encyclopedia] Wikipedia. Assemblies of God USA. https://en.wikipedia.org/wiki/Assemblies_of_God_USA",
     "127. [Encyclopedia] Wikipedia. 'World Christianity.' https://en.wikipedia.org/wiki/Global_Christianity",
     "128. [Encyclopedia] Wikipedia. List of Pentecostal denominations. https://en.wikipedia.org/wiki/List_of_Pentecostal_denominations",
@@ -960,7 +960,7 @@ export const branches: Topic = {
     "135. [Encyclopedia] Wikipedia. Christian churches and churches of Christ. https://en.wikipedia.org/wiki/Christian_churches_and_churches_of_Christ",
     "136. [Encyclopedia] Wikipedia. Restorationism. https://en.wikipedia.org/wiki/Restorationism",
     "137. [Encyclopedia] Encyclopedia of Greater Philadelphia. Episcopal Church. https://philadelphiaencyclopedia.org/essays/episcopal-church",
-    "138. [Encyclopedia] Wikipedia. Anglican Communion. https://en.wikipedia.org/wiki/Anglican_Communion",
+    "138. [Reference] World Council of Churches. 'Anglican churches.' https://www.oikoumene.org/church-families/anglican-churches",
     "139. [Encyclopedia] Wikipedia. Via media. https://en.wikipedia.org/wiki/Via_media",
     "140. [Encyclopedia] Wikipedia. 'Chicago Lambeth Quadrilateral.' https://en.wikipedia.org/wiki/Chicago-Lambeth_Quadrilateral",
     "141. [Encyclopedia] Wikipedia. Book of Common Prayer (1979). https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1979)",
@@ -971,7 +971,7 @@ export const branches: Topic = {
     "146. [Encyclopedia] Wikipedia. Washington National Cathedral. https://en.wikipedia.org/wiki/Washington_National_Cathedral",
     "147. [Encyclopedia] Britannica - Quaker. 'Sacraments.' https://www.britannica.com/topic/Quaker",
     "148. [Religious Organization] Quakers in Britain. 'Our faith.' https://www.quaker.org.uk/about-quakers/our-faith/",
-    "149. [Encyclopedia] Wikipedia. Quakers. https://en.wikipedia.org/wiki/Quakers",
+    "149. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Society of Friends (Quakers).' https://www.newadvent.org/cathen/06304b.htm",
     "150. [Primary Source] Schaff, Creeds of Christendom. 'The Confession of the Society of Friends, or Quakers.' https://www.ccel.org/ccel/schaff/creeds3.v.iv.html",
     "151. [Wikipedia] Peace Testimony. 'Quaker commitment to non-violence.' https://en.wikipedia.org/wiki/Peace_Testimony",
     "152. [Religious Organization] Quakers in Britain. 'Equality.' https://www.quaker.org.uk/about-quakers/our-values/equality/",
@@ -1013,7 +1013,7 @@ export const branches: Topic = {
     "188. [Encyclopedia] Wikipedia. Rupertus Meldenius. https://en.wikipedia.org/wiki/Rupertus_Meldenius",
     "189. [Encyclopedia] Wikipedia. Brownists. https://en.wikipedia.org/wiki/Brownist",
     "190. [Primary Source] Schaff, Creeds of Christendom. 'Declaration of the Congregational Union of England and Wales.' https://www.ccel.org/ccel/schaff/creeds3.v.i.ii.html",
-    "191. [Encyclopedia] Wikipedia. Puritans. https://en.wikipedia.org/wiki/Puritans",
+    "191. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Puritans.' https://www.newadvent.org/cathen/12581a.htm",
     "192. [Encyclopedia] Wikipedia. Cambridge Platform. https://en.wikipedia.org/wiki/Cambridge_Platform",
     "193. [Encyclopedia] Wikipedia. 'Plymouth Colony.' https://en.wikipedia.org/wiki/Plymouth_Colony",
     "194. [Encyclopedia] Wikipedia. Congregationalism. https://en.wikipedia.org/wiki/Congregational_church"

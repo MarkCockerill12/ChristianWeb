@@ -76,9 +76,9 @@ function Spectrum() {
 
 const NOTES: Record<string, string> = {
   "John 3:16": "*Monogenēs*, \"only begotten\" in the KJV tradition, is now usually rendered \"one and only\" or \"only\": the word stresses uniqueness rather than begetting. The CSB and NLT also take *houtōs* as \"in this way\" rather than \"so much\".",
-  "Isaiah 7:14": "The Hebrew *almah* means a young woman of marriageable age; the Septuagint, quoted in Matthew 1:23, has *parthenos*, virgin. The RSV's \"young woman\" (1952) caused a storm; most evangelical versions keep \"virgin\".",
+  "Isaiah 7:14": "The Hebrew *almah* (עַלְמָה) means a young woman of marriageable age; the Septuagint, quoted in Matthew 1:23, has *parthenos* (παρθένος), virgin. The RSV's \"young woman\" (1952) caused a storm; most evangelical versions keep \"virgin\".",
   "Psalm 22:16": "Most Masoretic manuscripts read \"like a lion\"; the Septuagint, Syriac and a Dead Sea Scroll support \"pierced\", which every translation here follows.",
-  "John 1:18": "The oldest manuscripts read *monogenēs theos*, \"only God\"; later ones read \"only Son\". The KJV and NKJV follow the later reading, the rest the earlier.",
+  "John 1:18": "The oldest manuscripts read *monogenēs theos* (μονογενὴς θεός), \"only God\"; later ones read \"only Son\". The KJV and NKJV follow the later reading, the rest the earlier.",
   "1 John 5:7": "The words about the Father, the Word and the Spirit (the Comma Johanneum) appear in only a handful of late Greek manuscripts and entered the Textus Receptus through Erasmus's third edition.",
 }
 

@@ -41,11 +41,11 @@ Critics often say that Christianity has done more harm than good. Both the good 
       title: "Hospitals and Care of the Sick",
       tags: ["Medicine", "Charity"],
       content: `
-**The first public hospitals.** In the Roman world, public hospitals as such did not exist until the Christian period. Late in the fourth century Basil of Caesarea founded a great complex for the sick and poor, the Basiliad, and within decades such hospitals were common across the Byzantine world[^7][^8].
+**The first public hospitals.** In the Roman world, public hospitals as such did not exist until the Christian period. Late in the fourth century Basil of Caesarea founded a great complex for strangers, the sick and the poor, the Basiliad, and within decades such hospitals were common across the Byzantine world[^7][^8].
 
 **Plague.** When plague struck Alexandria in the third century, Bishop Dionysius wrote that Christians visited and nursed the sick without thought of danger, many dying as a result, while others fled from their own relatives[^9]. He was a partisan witness, and the point is what his people were expected to do.
 
-**The enemy's testimony.** The pagan emperor Julian tried to revive the old religion, and complained that "these impious Galileans not only feed their own poor but ours also"[^10].
+**The enemy's testimony.** The pagan emperor Julian tried to revive the old religion, and complained that "the impious Galilaeans support not only their own poor but ours as well"[^10].
 
 **The medieval and modern hospital.** The Knights Hospitaller began with a hospital for pilgrims in Jerusalem[^11]. Florence Nightingale, who founded modern nursing, believed God had called her to the work[^12]. Henry Dunant, a devout Calvinist, founded the Red Cross after seeing the wounded at Solferino[^13]. Cicely Saunders, a Christian doctor, founded the modern hospice movement[^14].
 
@@ -72,11 +72,11 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
       title: "Children, Women and the Arena",
       tags: ["Rights"],
       content: `
-**Unwanted babies.** Abandoning newborns was common in the ancient world. Christianity forbade infanticide from its earliest times, which led Constantine and Valentinian I to ban it across the Roman Empire[^25].
+**Unwanted babies.** Abandoning newborns was common in the ancient world. Christianity forbade infanticide from its earliest times: the Didache commands, "you shall not murder a child by abortion nor kill that which is begotten"[^25]. This led Constantine and Valentinian I to ban it across the Roman Empire[^26].
 
-**The arena.** Tertullian condemned the gladiatorial shows as murder, and Christian emperors moved against them. Honorius legally ended the games in 399 and again in 404[^26].
+**The arena.** Athenagoras wrote in the second century that Christians, "deeming that to see a man put to death is much the same as killing him, have abjured such spectacles"[^27]. Tertullian scorned the thought that Christians should "regale ourselves there with human blood"[^28]. Christian emperors moved against the shows, and Honorius legally ended them in 399 and again in 404[^29].
 
-**Women.** Christian communities refused to let husbands keep a double standard, and they supported widows, as the [women topic](/categories/women) sets out with its evidence and its failures. Missionaries also campaigned against practices that harmed women and children: William Carey against widow burning in India[^27][^28], others against foot binding in China[^29], and Mary Slessor against the killing of twin babies in Calabar[^30].
+**Women.** Christian communities refused to let husbands keep a double standard, and they supported widows, as the [women topic](/categories/women) sets out with its evidence and its failures. Missionaries also campaigned against practices that harmed women and children: William Carey against widow burning in India[^30][^31], others against foot binding in China[^32], and Mary Slessor against the killing of twin babies in Calabar[^33].
 
 **See also:** [What Christianity Did to the Status of Women (Women)](/categories/women#section-church-history), [What the Early Church Taught (Abortion)](/categories/abortion#section-early-church).
 `,
@@ -86,13 +86,13 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
       title: "Slavery, Prisons and Factories",
       tags: ["Rights", "Reform"],
       content: `
-**Abolishing the slave trade.** English Quakers and evangelicals led the campaign, and William Wilberforce and the Clapham Sect carried it through Parliament on explicitly Christian grounds[^31]. Other Christians defended slavery from the Bible. The [slavery topic](/categories/slavery) sets out both sides.
+**Abolishing the slave trade.** English Quakers and evangelicals led the campaign, and William Wilberforce and the Clapham Sect carried it through Parliament on explicitly Christian grounds[^34]. Other Christians defended slavery from the Bible. The [slavery topic](/categories/slavery) sets out both sides.
 
-**Prisons.** John Howard, a Calvinist, exposed conditions in English jails[^32], and the Quaker Elizabeth Fry worked among women prisoners at Newgate and pressed for reform[^33].
+**Prisons.** John Howard, a Calvinist, exposed conditions in English jails[^35], and the Quaker Elizabeth Fry worked among women prisoners at Newgate and pressed for reform[^36].
 
-**Factories.** Lord Shaftesbury, an evangelical, drove the laws that limited child labour in mines and mills[^34].
+**Factories.** Lord Shaftesbury, an evangelical, drove the laws that limited child labour in mines and mills[^37].
 
-**Civil rights.** Martin Luther King Jr. was a Baptist minister, and the organisation he led was the Southern Christian Leadership Conference[^35][^36]. Archbishop Desmond Tutu opposed apartheid in South Africa[^37]. Dietrich Bonhoeffer, a Lutheran pastor, opposed Hitler and was executed in 1945[^38].
+**Civil rights.** Martin Luther King Jr. was a Baptist minister, and the organisation he led was the Southern Christian Leadership Conference[^38][^39]. Archbishop Desmond Tutu opposed apartheid in South Africa[^40]. Dietrich Bonhoeffer, a Lutheran pastor, opposed Hitler and was executed in 1945[^41].
 
 **See also:** [Historical Impact of Christianity on Slavery (Slavery)](/categories/slavery#section-historical-impact).
 `,
@@ -102,17 +102,17 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
       title: "Schools, Literacy and Language",
       tags: ["Education"],
       content: `
-**Preserving learning.** After Rome's fall, monasteries under the Rule of Benedict copied and kept classical and Christian texts[^39]. The medieval universities grew from Church schools, as the [science topic](/categories/science) sets out.
+**Preserving learning.** After Rome's fall, monasteries under the Rule of Benedict copied and kept classical and Christian texts[^42]. The medieval universities grew from Church schools, as the [science topic](/categories/science) sets out.
 
-**Teaching the poor to read.** Robert Raikes's Sunday schools taught poor children to read on the one day they were not working[^40].
+**Teaching the poor to read.** Robert Raikes's Sunday schools taught poor children to read on the one day they were not working[^43].
 
-**New colleges.** Most of the early American colleges, among them Harvard, Yale and Princeton, were founded by churches, largely to train ministers[^41].
+**New colleges.** Most of the early American colleges, among them Harvard, Yale and Princeton, were founded by churches, largely to train ministers[^44].
 
-**Alphabets.** Cyril and Methodius created the Glagolitic alphabet so that Slavic peoples could read Scripture[^42]. SIL, a Christian organisation, has studied and written down languages around the world, many of which had no written form[^43].
+**Alphabets.** Cyril and Methodius created the Glagolitic alphabet so that Slavic peoples could read Scripture[^45]. SIL, a Christian organisation, has studied and written down languages around the world, many of which had no written form[^46].
 
-**The blind.** Louis Braille, a devout Catholic who played the organ for churches, invented the reading system that bears his name[^44].
+**The blind.** Louis Braille, a devout Catholic who played the organ for churches, invented the reading system that bears his name[^47].
 
-**Democracy.** The sociologist Robert Woodberry argued in the *American Political Science Review* in 2012 that conversionary Protestant missions, through mass literacy, printing and voluntary groups, heavily influenced the spread of stable democracy[^45]. Other researchers have replicated his analysis with different measures and argue that the result breaks down, so this is contested[^46].
+**Democracy.** The sociologist Robert Woodberry argued in the *American Political Science Review* in 2012 that conversionary Protestant missions, through mass literacy, printing and voluntary groups, heavily influenced the spread of stable democracy[^48]. Other researchers have replicated his analysis with different measures and argue that the result breaks down, so this is contested[^49].
 
 **See also:** [Monasteries, Universities and the Medieval Groundwork (Christianity and Science)](/categories/science#section-medieval-groundwork).
 `,
@@ -122,9 +122,9 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
       title: "What the Numbers Show Today",
       tags: ["Research"],
       content: `
-**Happiness and civic life.** A 2019 Pew study of 26 countries found that in the United States 36 per cent of actively religious people called themselves "very happy", against 25 per cent of others, and that they were more likely to vote. It found no clear link with better overall health after adjusting for other factors, and it cautioned that the figures do not prove religion is the cause[^47].
+**Happiness and civic life.** A 2019 Pew study of 26 countries found that in the United States 36 per cent of actively religious people called themselves "very happy", against 25 per cent of others, and that they were more likely to vote. It found no clear link with better overall health after adjusting for other factors, and it cautioned that the figures do not prove religion is the cause[^50].
 
-**Deaths of despair.** A Harvard study of more than 100,000 American health professionals found that women who attended services at least weekly had a 68 per cent lower risk of death from suicide, drug or alcohol poisoning and liver disease than those who never attended, and men a 33 per cent lower risk[^48]. It is an association among one group of people, which cannot show why.
+**Deaths of despair.** A Harvard study of more than 100,000 American health professionals found that women who attended services at least weekly had a 68 per cent lower risk of death from suicide, drug or alcohol poisoning and liver disease than those who never attended, and men a 33 per cent lower risk[^51]. It is an association among one group of people, which cannot show why.
 
 These results cover religious people generally, not Christians alone. They do not show that Christianity is true. They do tell against the claim that religion makes people's lives worse.
 `,
@@ -136,23 +136,23 @@ These results cover religious people generally, not Christians alone. They do no
       content: `
 None of the good above cancels what follows, all of which was done by Christians, often in Christ's name.
 
-**The Crusades.** Whatever their origins as a response to conquest, crusaders massacred the Jews of the Rhineland in 1096 on their way east[^49], massacred Muslims and Jews when they took Jerusalem in 1099[^50], and sacked Christian Constantinople in 1204, against the Pope's orders[^51].
+**The Crusades.** Whatever their origins as a response to conquest, crusaders massacred the Jews of the Rhineland in 1096 on their way east[^52], massacred Muslims and Jews when they took Jerusalem in 1099[^53], and sacked Christian Constantinople in 1204, against the Pope's orders[^54].
 
-**The Inquisition.** The Spanish Inquisition prosecuted an estimated 150,000 people over three and a half centuries, and 3,000 to 5,000 were executed. That is far below the popular figures in the millions, and it is still thousands of people killed for their beliefs[^52]. Protestants did this too: Calvin's Geneva burned Michael Servetus for his views on the Trinity in 1553[^53], and both Catholics and Protestants persecuted Anabaptists.
+**The Inquisition.** The Spanish Inquisition prosecuted an estimated 150,000 people over three and a half centuries, and 3,000 to 5,000 were executed. That is far below the popular figures in the millions, and it is still thousands of people killed for their beliefs[^55]. Protestants did this too: Calvin's Geneva burned Michael Servetus for his views on the Trinity in 1553[^56], and both Catholics and Protestants persecuted Anabaptists.
 
-**Witch trials.** Between 40,000 and 60,000 people were executed for witchcraft in early modern Europe and America, most of them women, by Catholic and Protestant courts alike[^54].
+**Witch trials.** Between 40,000 and 60,000 people were executed for witchcraft in early modern Europe and America, most of them women, by Catholic and Protestant courts alike[^57].
 
-**Wars of religion.** Catholics and Protestants fought the Thirty Years' War, in which an estimated 4.5 to 8 million died, though politics drove it as well as faith[^55].
+**Wars of religion.** Catholics and Protestants fought the Thirty Years' War, in which an estimated 4.5 to 8 million died, though politics drove it as well as faith[^58].
 
-**The Jews.** Christians persecuted Jews for centuries, and Martin Luther's *On the Jews and Their Lies* urged burning synagogues[^56]. In Nazi Germany the "German Christians" backed Hitler[^57], while the much smaller Confessing Church resisted[^58]. The Catholic Church rejected the charge of collective Jewish guilt for Christ's death at the Second Vatican Council in 1965[^59].
+**The Jews.** Christians persecuted Jews for centuries, and Martin Luther's *On the Jews and Their Lies* urged burning synagogues[^59]. In Nazi Germany the "German Christians" backed Hitler[^60], while the much smaller Confessing Church resisted[^61]. The Catholic Church rejected the charge of collective Jewish guilt for Christ's death at the Second Vatican Council in 1965[^62].
 
-**Colonialism.** Papal decrees of the fifteenth century were used to justify seizing non-Christian lands[^60], and the Spanish read out the *Requerimiento*, demanding submission on pain of war[^61]. In Canada, churches ran residential schools that took Indigenous children from their families, which the national Truth and Reconciliation Commission called cultural genocide[^62].
+**Colonialism.** Papal decrees of the fifteenth century were used to justify seizing non-Christian lands[^63], and the Spanish read out the *Requerimiento*, demanding submission on pain of war[^64]. In Canada, churches ran residential schools that took Indigenous children from their families, which the national Truth and Reconciliation Commission called cultural genocide[^65].
 
-**Rwanda.** In the 1994 genocide in a largely Christian country, some priests and nuns took part, and victims were killed in the churches where they had sheltered[^63].
+**Rwanda.** In the 1994 genocide in a largely Christian country, some priests and nuns took part, and victims were killed in the churches where they had sheltered[^66].
 
-**Sexual abuse.** The John Jay study found 4,392 American Catholic priests and deacons accused of abuse between 1950 and 2002, and the *Boston Globe* exposed in 2002 how bishops moved offenders and hid what they had done[^64]. An Australian Royal Commission documented abuse across many institutions, Catholic and others[^65]. A 2022 independent report found that leaders of the Southern Baptist Convention had mishandled abuse claims[^66]. Children were harmed, and the people meant to protect them protected the institution.
+**Sexual abuse.** The John Jay study found 4,392 American Catholic priests and deacons accused of abuse between 1950 and 2002, and the *Boston Globe* exposed in 2002 how bishops moved offenders and hid what they had done[^67]. An Australian Royal Commission documented abuse across many institutions, Catholic and others[^68]. A 2022 independent report found that leaders of the Southern Baptist Convention had mishandled abuse claims[^69]. Children were harmed, and the people meant to protect them protected the institution.
 
-**Admission.** On 12 March 2000 Pope John Paul II led a public Day of Pardon, asking forgiveness for the sins, past and present, of the Church's members[^67]. Critics said it was too general. Many Protestant bodies have made similar confessions. "Judgment", Peter says, is to "begin with God's household" (1 Peter 4:17).
+**Admission.** On 12 March 2000 Pope John Paul II led a public Day of Pardon, asking forgiveness for the sins, past and present, of the Church's members[^70]. Critics said it was too general. Many Protestant bodies have made similar confessions. "Judgment", Peter says, is to "begin with God's household" (1 Peter 4:17).
 
 **See also:** [Why Do People Leave the Faith? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-why-people-leave), [The Galileo Affair, Told Straight (Christianity and Science)](/categories/science#section-galileo).
 `,
@@ -168,15 +168,15 @@ None of the good above cancels what follows, all of which was done by Christians
 
 **Africa and Asia before most of Europe.**
 
-* **Armenia** became the first state to adopt Christianity, in 301[^68].
-* **Ethiopia.** King Ezana of Aksum embraced Christianity in the fourth century[^69], and his church has an unbroken history to this day, long before most of northern Europe converted.
-* **North Africa** produced Tertullian, Cyprian and Augustine, among the most influential thinkers in Christian history[^70].
-* **India.** The Saint Thomas Christians trace their origin to the apostle Thomas in the first century, though historians dispute that visit[^71].
-* **China.** A stone stele set up in 781 records the Church of the East at work in Tang China[^72].
+* **Armenia** became the first state to adopt Christianity, in 301[^71].
+* **Ethiopia.** King Ezana of Aksum embraced Christianity in the fourth century[^72], and his church has an unbroken history to this day, long before most of northern Europe converted.
+* **North Africa** produced Tertullian, Cyprian and Augustine, among the most influential thinkers in Christian history[^73].
+* **India.** The Saint Thomas Christians trace their origin to the apostle Thomas in the first century, though historians dispute that visit[^74].
+* **China.** A stone stele set up in 781 records the Church of the East at work in Tang China[^75].
 
-**What the enslaved saw.** Enslaved Africans in America met in secret to worship, in what were known as hush harbours[^73]. They knew the difference between Christ and their masters' religion. Frederick Douglass, who escaped slavery, wrote: "between the Christianity of this land, and the Christianity of Christ, I recognize the widest possible difference"[^74]. The Black church went on to lead the American civil rights movement.
+**What the enslaved saw.** Enslaved Africans in America met in secret to worship, in what were known as hush harbours[^76]. They knew the difference between Christ and their masters' religion. Frederick Douglass, who escaped slavery, wrote: "between the Christianity of this land, and the Christianity of Christ, I recognize the widest possible difference"[^77]. The Black church went on to lead the American civil rights movement.
 
-**Today.** Christians are now a majority in every region of the world except Asia-Pacific and the Middle East and North Africa[^75], and the faith is held by people of every colour.
+**Today.** Christians are now a majority in every region of the world except Asia-Pacific and the Middle East and North Africa[^78], and the faith is held by people of every colour.
 
 **What is fair in the objection.** Missionaries often carried colonial assumptions with the gospel, and some churches blessed conquest and slavery, including through the [misuse of the curse of Ham](/categories/slavery). That is a charge against those Christians, and the New Testament is the ground on which it can be made: "there is neither Jew nor Gentile, neither slave nor free" (Galatians 3:28).
 `,
@@ -186,9 +186,9 @@ None of the good above cancels what follows, all of which was done by Christians
       title: "Has Christianity Done More Harm Than Good?",
       tags: ["History", "Objections"],
       content: `
-**"Religion causes most wars."** It does not. The *Encyclopedia of Wars* classifies 121 of 1,763 recorded conflicts, about 7 per cent, as primarily religious[^76]. Many wars have mixed motives, and counts of this sort are rough, but the claim as stated is false.
+**"Religion causes most wars."** It does not. The *Encyclopedia of Wars* classifies 121 of 1,763 recorded conflicts, about 7 per cent, as primarily religious[^79]. Many wars have mixed motives, and counts of this sort are rough, but the claim as stated is false.
 
-**Removing Christianity did not remove the killing.** Regimes committed to state atheism killed on a scale no religious persecution matched. *The Black Book of Communism* estimates more than 94 million deaths, a figure that scholars dispute, while no one disputes that the toll ran to many millions[^77]. This does not excuse a single Christian crime. It shows that the problem lies in human beings, which is what Christianity has always said.
+**Removing Christianity did not remove the killing.** Regimes committed to state atheism killed on a scale no religious persecution matched. *The Black Book of Communism* estimates more than 94 million deaths, a figure that scholars dispute, while no one disputes that the toll ran to many millions[^80]. This does not excuse a single Christian crime. It shows that the problem lies in human beings, which is what Christianity has always said.
 
 **"Those weren't real Christians."** This is too easy, and it should not be used. Many were sincere believers, and Scripture has an uncomfortable word for them all the same: "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven" (Matthew 7:21). "Whoever claims to love God yet hates a brother or sister is a liar" (1 John 4:20). The fair point is narrower. Critics condemn these acts by a standard, and Christ's own teaching condemns them too: love your enemies (Matthew 5:44), put away the sword (Matthew 26:52), and let the children come to him (Matthew 19:14). The reformers who ended these evils appealed to that same teaching.
 
@@ -201,15 +201,15 @@ None of the good above cancels what follows, all of which was done by Christians
   sources: [
     "1. [Encyclopedia] Wikipedia. 'Dominion: How the Christian Revolution Remade the World.' https://en.wikipedia.org/wiki/Dominion:_How_the_Christian_Revolution_Remade_the_World",
     "2. [Encyclopedia] Wikipedia. 'Bartolome de las Casas.' https://en.wikipedia.org/wiki/Bartolom%C3%A9_de_las_Casas",
-    "3. [Encyclopedia] Wikipedia. 'Sublimis Deus.' https://en.wikipedia.org/wiki/Sublimis_Deus",
+    "3. [Primary Source] Pope Paul III, Sublimis Deus (1537). Papal Encyclicals Online. https://www.papalencyclicals.net/paul03/p3subli.htm",
     "4. [Encyclopedia] Wikipedia. 'Stephen Langton.' https://en.wikipedia.org/wiki/Stephen_Langton",
     "5. [Encyclopedia] Wikipedia. 'Charles Malik.' https://en.wikipedia.org/wiki/Charles_Malik",
-    "6. [Encyclopedia] Wikipedia. 'Universal Declaration of Human Rights.' https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
+    "6. [Reference] United Nations. History of the Declaration, naming Charles Malik as Committee Rapporteur. https://www.un.org/en/about-us/udhr/history-of-the-declaration",
     "7. [Encyclopedia] Wikipedia. 'History of hospitals.' https://en.wikipedia.org/wiki/History_of_hospitals",
-    "8. [Encyclopedia] Wikipedia. 'Basil of Caesarea.' https://en.wikipedia.org/wiki/Basil_of_Caesarea",
+    "8. [Primary Source] Basil of Caesarea, Letter 94, defending his building for strangers and the sick. New Advent. https://www.newadvent.org/fathers/3202094.htm",
     "9. [Primary Source] Eusebius, Church History VII.22, quoting Dionysius of Alexandria. New Advent. https://www.newadvent.org/fathers/250107.htm",
-    "10. [Encyclopedia] Wikipedia. 'Julian (emperor).' https://en.wikipedia.org/wiki/Julian_(emperor)",
-    "11. [Encyclopedia] Wikipedia. 'Knights Hospitaller.' https://en.wikipedia.org/wiki/Knights_Hospitaller",
+    "10. [Primary Source] Julian, Letter to Arsacius, trans. W. C. Wright. Tertullian Project. https://www.tertullian.org/fathers/julian_apostate_letters_1_trans.htm",
+    "11. [Encyclopedia] World History Encyclopedia. 'Knights Hospitaller.' https://www.worldhistory.org/Knights_Hospitaller/",
     "12. [Encyclopedia] Wikipedia. 'Florence Nightingale.' https://en.wikipedia.org/wiki/Florence_Nightingale",
     "13. [Encyclopedia] Wikipedia. 'Henry Dunant.' https://en.wikipedia.org/wiki/Henry_Dunant",
     "14. [Encyclopedia] Wikipedia. 'Cicely Saunders.' https://en.wikipedia.org/wiki/Cicely_Saunders",
@@ -223,59 +223,62 @@ None of the good above cancels what follows, all of which was done by Christians
     "22. [Encyclopedia] Wikipedia. 'World Vision International.' https://en.wikipedia.org/wiki/World_Vision_International",
     "23. [Encyclopedia] Wikipedia. 'Compassion International.' https://en.wikipedia.org/wiki/Compassion_International",
     "24. [Encyclopedia] Wikipedia. 'Habitat for Humanity.' https://en.wikipedia.org/wiki/Habitat_for_Humanity",
-    "25. [Encyclopedia] Wikipedia. 'Infanticide.' https://en.wikipedia.org/wiki/Infanticide",
-    "26. [Encyclopedia] Wikipedia. 'Gladiator.' https://en.wikipedia.org/wiki/Gladiator",
-    "27. [Encyclopedia] Wikipedia. 'William Carey (missionary).' https://en.wikipedia.org/wiki/William_Carey_(missionary)",
-    "28. [Encyclopedia] Wikipedia. 'Sati (practice).' https://en.wikipedia.org/wiki/Sati_(practice)",
-    "29. [Encyclopedia] Wikipedia. 'Foot binding.' https://en.wikipedia.org/wiki/Foot_binding",
-    "30. [Encyclopedia] Wikipedia. 'Mary Slessor.' https://en.wikipedia.org/wiki/Mary_Slessor",
-    "31. [Encyclopedia] Wikipedia. 'Abolitionism in the United Kingdom.' https://en.wikipedia.org/wiki/Abolitionism_in_the_United_Kingdom",
-    "32. [Encyclopedia] Wikipedia. 'John Howard (prison reformer).' https://en.wikipedia.org/wiki/John_Howard_(prison_reformer)",
-    "33. [Encyclopedia] Wikipedia. 'Elizabeth Fry.' https://en.wikipedia.org/wiki/Elizabeth_Fry",
-    "34. [Encyclopedia] Wikipedia. 'Anthony Ashley-Cooper, 7th Earl of Shaftesbury.' https://en.wikipedia.org/wiki/Anthony_Ashley-Cooper,_7th_Earl_of_Shaftesbury",
-    "35. [Encyclopedia] Wikipedia. 'Martin Luther King Jr..' https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
-    "36. [Encyclopedia] Wikipedia. 'Southern Christian Leadership Conference.' https://en.wikipedia.org/wiki/Southern_Christian_Leadership_Conference",
-    "37. [Encyclopedia] Wikipedia. 'Desmond Tutu.' https://en.wikipedia.org/wiki/Desmond_Tutu",
-    "38. [Encyclopedia] Wikipedia. 'Dietrich Bonhoeffer.' https://en.wikipedia.org/wiki/Dietrich_Bonhoeffer",
-    "39. [Encyclopedia] Wikipedia. 'Benedict of Nursia.' https://en.wikipedia.org/wiki/Benedict_of_Nursia",
-    "40. [Encyclopedia] Wikipedia. 'Robert Raikes.' https://en.wikipedia.org/wiki/Robert_Raikes",
-    "41. [Encyclopedia] Wikipedia. 'Colonial colleges.' https://en.wikipedia.org/wiki/Colonial_colleges",
-    "42. [Encyclopedia] Wikipedia. 'Saints Cyril and Methodius.' https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius",
-    "43. [Encyclopedia] Wikipedia. 'SIL Global.' https://en.wikipedia.org/wiki/SIL_Global",
-    "44. [Encyclopedia] Wikipedia. 'Louis Braille.' https://en.wikipedia.org/wiki/Louis_Braille",
-    "45. [Peer-Reviewed] Robert D. Woodberry, 'The Missionary Roots of Liberal Democracy', American Political Science Review (2012), summary. New Directions in the Anthropology of Christianity, University of Edinburgh. https://www.new-directions.sps.ed.ac.uk/woodberry-the-missionary-roots-of-liberal-democracy/",
-    "46. [Working Paper] Nikolova and Polansky, 'Conversionary Protestants Do Not Cause Democracy'. EconPapers. https://econpapers.repec.org/RePEc:zbw:glodps:480",
-    "47. [Research] Pew Research Center. 'Religion's Relationship to Happiness, Civic Engagement and Health Around the World' (2019). https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/",
-    "48. [University] Harvard Gazette. 'Religious services may lower risk of deaths of despair' (2020). https://news.harvard.edu/gazette/story/2020/05/religious-services-may-lower-risk-of-deaths-of-despair/",
-    "49. [Encyclopedia] Wikipedia. 'Rhineland massacres.' https://en.wikipedia.org/wiki/Rhineland_massacres",
-    "50. [Encyclopedia] Wikipedia. 'Siege of Jerusalem (1099).' https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)",
-    "51. [Encyclopedia] Wikipedia. 'Sack of Constantinople.' https://en.wikipedia.org/wiki/Sack_of_Constantinople",
-    "52. [Encyclopedia] Wikipedia. 'Spanish Inquisition.' https://en.wikipedia.org/wiki/Spanish_Inquisition",
-    "53. [Encyclopedia] Wikipedia. 'Michael Servetus.' https://en.wikipedia.org/wiki/Michael_Servetus",
-    "54. [Encyclopedia] Wikipedia. 'Witch trials in the early modern period.' https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period",
-    "55. [Encyclopedia] Wikipedia. 'Thirty Years' War.' https://en.wikipedia.org/wiki/Thirty_Years%27_War",
-    "56. [Encyclopedia] Wikipedia. 'On the Jews and Their Lies.' https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies",
-    "57. [Encyclopedia] Wikipedia. 'German Christians.' https://en.wikipedia.org/wiki/German_Christians",
-    "58. [Encyclopedia] Wikipedia. 'Confessing Church.' https://en.wikipedia.org/wiki/Confessing_Church",
-    "59. [Encyclopedia] Wikipedia. 'Nostra aetate.' https://en.wikipedia.org/wiki/Nostra_aetate",
-    "60. [Encyclopedia] Wikipedia. 'Discovery doctrine.' https://en.wikipedia.org/wiki/Discovery_doctrine",
-    "61. [Encyclopedia] Wikipedia. 'Requerimiento.' https://en.wikipedia.org/wiki/Requerimiento",
-    "62. [Encyclopedia] Wikipedia. 'Canadian Indian residential school system.' https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system",
-    "63. [Encyclopedia] Wikipedia. 'Rwandan genocide.' https://en.wikipedia.org/wiki/Rwandan_genocide",
-    "64. [Encyclopedia] Wikipedia. 'Catholic Church sexual abuse cases.' https://en.wikipedia.org/wiki/Catholic_Church_sexual_abuse_cases",
-    "65. [Encyclopedia] Wikipedia. 'Royal Commission into Institutional Responses to Child Sexual Abuse.' https://en.wikipedia.org/wiki/Royal_Commission_into_Institutional_Responses_to_Child_Sexual_Abuse",
-    "66. [Encyclopedia] Wikipedia. 'Southern Baptist Convention.' https://en.wikipedia.org/wiki/Southern_Baptist_Convention",
-    "67. [Primary Source] Holy See. 'Presentation of the Day of Pardon' (12 March 2000). https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20000312_presentation-day-pardon_en.html",
-    "68. [Encyclopedia] Wikipedia. 'Religion in Armenia.' https://en.wikipedia.org/wiki/Christianity_in_Armenia",
-    "69. [Encyclopedia] Wikipedia. 'Ezana of Axum.' https://en.wikipedia.org/wiki/Ezana_of_Axum",
-    "70. [Encyclopedia] Wikipedia. 'Early African Church.' https://en.wikipedia.org/wiki/Early_African_Church",
-    "71. [Encyclopedia] Wikipedia. 'Saint Thomas Christians.' https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
-    "72. [Encyclopedia] Wikipedia. 'Xi'an Stele.' https://en.wikipedia.org/wiki/Xi%27an_Stele",
-    "73. [Encyclopedia] Wikipedia. 'Black church.' https://en.wikipedia.org/wiki/Black_church",
-    "74. [Primary Source] Frederick Douglass, Narrative of the Life of Frederick Douglass (1845), Appendix. Project Gutenberg. https://www.gutenberg.org/files/23/23-h/23-h.htm",
-    "75. [Research] Pew Research Center. 'Countries with the most Christians and global Christian population change, 2010-2020' (2025). https://www.pewresearch.org/religion/2025/06/09/christian-population-change/",
-    "76. [Encyclopedia] Wikipedia. 'Religious war.' https://en.wikipedia.org/wiki/Religious_war",
-    "77. [Encyclopedia] Wikipedia. 'The Black Book of Communism.' https://en.wikipedia.org/wiki/The_Black_Book_of_Communism"
+    "25. [Primary Source] The Didache 2:2. New Advent. https://www.newadvent.org/fathers/0714.htm",
+    "26. [Encyclopedia] Wikipedia. 'Infanticide.' https://en.wikipedia.org/wiki/Infanticide",
+    "27. [Primary Source] Athenagoras, A Plea for the Christians, chapter 35. New Advent. https://www.newadvent.org/fathers/0205.htm",
+    "28. [Primary Source] Tertullian, On the Spectacles. New Advent. https://www.newadvent.org/fathers/0303.htm",
+    "29. [Encyclopedia] Wikipedia. 'Gladiator.' https://en.wikipedia.org/wiki/Gladiator",
+    "30. [Encyclopedia] Wikipedia. 'William Carey (missionary).' https://en.wikipedia.org/wiki/William_Carey_(missionary)",
+    "31. [Encyclopedia] Wikipedia. 'Sati (practice).' https://en.wikipedia.org/wiki/Sati_(practice)",
+    "32. [Encyclopedia] Wikipedia. 'Foot binding.' https://en.wikipedia.org/wiki/Foot_binding",
+    "33. [Encyclopedia] Wikipedia. 'Mary Slessor.' https://en.wikipedia.org/wiki/Mary_Slessor",
+    "34. [Encyclopedia] Wikipedia. 'Abolitionism in the United Kingdom.' https://en.wikipedia.org/wiki/Abolitionism_in_the_United_Kingdom",
+    "35. [Encyclopedia] Wikipedia. 'John Howard (prison reformer).' https://en.wikipedia.org/wiki/John_Howard_(prison_reformer)",
+    "36. [Encyclopedia] Wikipedia. 'Elizabeth Fry.' https://en.wikipedia.org/wiki/Elizabeth_Fry",
+    "37. [Encyclopedia] Wikipedia. 'Anthony Ashley-Cooper, 7th Earl of Shaftesbury.' https://en.wikipedia.org/wiki/Anthony_Ashley-Cooper,_7th_Earl_of_Shaftesbury",
+    "38. [Reference] The Nobel Prize. 'Martin Luther King Jr.: Biographical.' https://www.nobelprize.org/prizes/peace/1964/king/biographical/",
+    "39. [Encyclopedia] Wikipedia. 'Southern Christian Leadership Conference.' https://en.wikipedia.org/wiki/Southern_Christian_Leadership_Conference",
+    "40. [Reference] The Nobel Prize. 'Desmond Tutu: Biographical.' https://www.nobelprize.org/prizes/peace/1984/tutu/biographical/",
+    "41. [Academic] United States Holocaust Memorial Museum, Holocaust Encyclopedia. 'Dietrich Bonhoeffer.' https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer",
+    "42. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. Benedict of Nursia.' https://www.newadvent.org/cathen/02467b.htm",
+    "43. [Encyclopedia] Wikipedia. 'Robert Raikes.' https://en.wikipedia.org/wiki/Robert_Raikes",
+    "44. [Encyclopedia] Wikipedia. 'Colonial colleges.' https://en.wikipedia.org/wiki/Colonial_colleges",
+    "45. [Encyclopedia] Wikipedia. 'Saints Cyril and Methodius.' https://en.wikipedia.org/wiki/Saints_Cyril_and_Methodius",
+    "46. [Encyclopedia] Wikipedia. 'SIL Global.' https://en.wikipedia.org/wiki/SIL_Global",
+    "47. [Encyclopedia] Wikipedia. 'Louis Braille.' https://en.wikipedia.org/wiki/Louis_Braille",
+    "48. [Peer-Reviewed] Robert D. Woodberry, 'The Missionary Roots of Liberal Democracy', American Political Science Review (2012), summary. New Directions in the Anthropology of Christianity, University of Edinburgh. https://www.new-directions.sps.ed.ac.uk/woodberry-the-missionary-roots-of-liberal-democracy/",
+    "49. [Working Paper] Nikolova and Polansky, 'Conversionary Protestants Do Not Cause Democracy'. EconPapers. https://econpapers.repec.org/RePEc:zbw:glodps:480",
+    "50. [Research] Pew Research Center. 'Religion's Relationship to Happiness, Civic Engagement and Health Around the World' (2019). https://www.pewresearch.org/religion/2019/01/31/religions-relationship-to-happiness-civic-engagement-and-health-around-the-world/",
+    "51. [University] Harvard Gazette. 'Religious services may lower risk of deaths of despair' (2020). https://news.harvard.edu/gazette/story/2020/05/religious-services-may-lower-risk-of-deaths-of-despair/",
+    "52. [Encyclopedia] Wikipedia. 'Rhineland massacres.' https://en.wikipedia.org/wiki/Rhineland_massacres",
+    "53. [Encyclopedia] Wikipedia. 'Siege of Jerusalem (1099).' https://en.wikipedia.org/wiki/Siege_of_Jerusalem_(1099)",
+    "54. [Encyclopedia] Wikipedia. 'Sack of Constantinople.' https://en.wikipedia.org/wiki/Sack_of_Constantinople",
+    "55. [Encyclopedia] Wikipedia. 'Spanish Inquisition.' https://en.wikipedia.org/wiki/Spanish_Inquisition",
+    "56. [Encyclopedia] Wikipedia. 'Michael Servetus.' https://en.wikipedia.org/wiki/Michael_Servetus",
+    "57. [Encyclopedia] Wikipedia. 'Witch trials in the early modern period.' https://en.wikipedia.org/wiki/Witch_trials_in_the_early_modern_period",
+    "58. [Encyclopedia] Wikipedia. 'Thirty Years' War.' https://en.wikipedia.org/wiki/Thirty_Years%27_War",
+    "59. [Encyclopedia] Wikipedia. 'On the Jews and Their Lies.' https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies",
+    "60. [Academic] United States Holocaust Memorial Museum, Holocaust Encyclopedia. 'The German Churches and the Nazi State.' https://encyclopedia.ushmm.org/content/en/article/the-german-churches-and-the-nazi-state",
+    "61. [Encyclopedia] Wikipedia. 'Confessing Church.' https://en.wikipedia.org/wiki/Confessing_Church",
+    "62. [Primary Source] Second Vatican Council, Nostra Aetate (1965). Holy See. https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+    "63. [Primary Source] Pope Alexander VI, Inter Caetera (1493). Papal Encyclicals Online. https://www.papalencyclicals.net/alex06/alex06inter.htm",
+    "64. [Encyclopedia] Wikipedia. 'Requerimiento.' https://en.wikipedia.org/wiki/Requerimiento",
+    "65. [Encyclopedia] Wikipedia. 'Canadian Indian residential school system.' https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system",
+    "66. [Encyclopedia] Wikipedia. 'Rwandan genocide.' https://en.wikipedia.org/wiki/Rwandan_genocide",
+    "67. [Encyclopedia] Wikipedia. 'Catholic Church sexual abuse cases.' https://en.wikipedia.org/wiki/Catholic_Church_sexual_abuse_cases",
+    "68. [Encyclopedia] Wikipedia. 'Royal Commission into Institutional Responses to Child Sexual Abuse.' https://en.wikipedia.org/wiki/Royal_Commission_into_Institutional_Responses_to_Child_Sexual_Abuse",
+    "69. [Encyclopedia] Wikipedia. 'Southern Baptist Convention.' https://en.wikipedia.org/wiki/Southern_Baptist_Convention",
+    "70. [Primary Source] Holy See. 'Presentation of the Day of Pardon' (12 March 2000). https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20000312_presentation-day-pardon_en.html",
+    "71. [Encyclopedia] Wikipedia. 'Religion in Armenia.' https://en.wikipedia.org/wiki/Christianity_in_Armenia",
+    "72. [Encyclopedia] Wikipedia. 'Ezana of Axum.' https://en.wikipedia.org/wiki/Ezana_of_Axum",
+    "73. [Encyclopedia] Wikipedia. 'Early African Church.' https://en.wikipedia.org/wiki/Early_African_Church",
+    "74. [Encyclopedia] Wikipedia. 'Saint Thomas Christians.' https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
+    "75. [Encyclopedia] Wikipedia. 'Xi'an Stele.' https://en.wikipedia.org/wiki/Xi%27an_Stele",
+    "76. [Encyclopedia] Wikipedia. 'Black church.' https://en.wikipedia.org/wiki/Black_church",
+    "77. [Primary Source] Frederick Douglass, Narrative of the Life of Frederick Douglass (1845), Appendix. Project Gutenberg. https://www.gutenberg.org/files/23/23-h/23-h.htm",
+    "78. [Research] Pew Research Center. 'Countries with the most Christians and global Christian population change, 2010-2020' (2025). https://www.pewresearch.org/religion/2025/06/09/christian-population-change/",
+    "79. [Encyclopedia] Wikipedia. 'Religious war.' https://en.wikipedia.org/wiki/Religious_war",
+    "80. [Encyclopedia] Wikipedia. 'The Black Book of Communism.' https://en.wikipedia.org/wiki/The_Black_Book_of_Communism"
   ],
   lastUpdated: "30-10-2026"
 }

@@ -108,13 +108,11 @@ const TIMELINE_COPY: Record<string, { title: string; description: string; discla
     disclaimer: (
       <>
         <strong>
-          This timeline shows Christianity&apos;s progressive transformation of slavery from
-          regulation to abolition.
+          This timeline traces how Christian teaching bore on slavery, from regulation to abolition.
         </strong>{" "}
-        Rather than immediately abolishing slavery in ancient times (which would have caused economic
-        collapse as well as social protest as seen with Israel&apos;s constant flip-flopping of
-        beliefs), God worked through progressive revelation to plant principles of human dignity that
-        ultimately led to slavery&apos;s complete abolition by Christian movements.
+        Christians argue that God did not abolish slavery at a stroke in the ancient world, and instead
+        planted principles of human dignity that helped bring it to an end. Christian movements played a
+        leading part in abolition, and other Christians defended slavery from the Bible.
       </>
     ),
   },

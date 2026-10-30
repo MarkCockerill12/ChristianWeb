@@ -87,8 +87,8 @@ function Presence() {
       <CardGrid
         columns={2}
         cards={[
-          { kicker: "Not lost", title: "God's sustaining presence", body: "\"In him all things hold together\" (Colossians 1:17). Even hell exists only because God upholds it. \"If I make my bed in the depths, you are there\" (Psalm 139:8).", footer: "Revelation 14:10: punishment \"in the presence of the Lamb\", Greek *enōpion*, \"before\", the language of a courtroom." },
-          { kicker: "Lost", title: "God's favour and fellowship", body: "\"Away from the presence of the Lord\" (2 Thessalonians 1:9): *prosōpon*, his face, the biblical image of his favour (Numbers 6:25). Every gift of common grace is withdrawn.", footer: "Already begun in this life: \"your iniquities have separated you from your God\" (Isaiah 59:2)." },
+          { kicker: "Not lost", title: "God's sustaining presence", body: "\"In him all things hold together\" (Colossians 1:17). Even hell exists only because God upholds it. \"If I make my bed in the depths, you are there\" (Psalm 139:8).", footer: "Revelation 14:10: punishment \"in the presence of the Lamb\", Greek *enōpion* (ἐνώπιον), \"before\", the language of a courtroom." },
+          { kicker: "Lost", title: "God's favour and fellowship", body: "\"Away from the presence of the Lord\" (2 Thessalonians 1:9): *prosōpon* (πρόσωπον), his face, the biblical image of his favour (Numbers 6:25). Every gift of common grace is withdrawn.", footer: "Already begun in this life: \"your iniquities have separated you from your God\" (Isaiah 59:2)." },
         ]}
       />
     </VisualCard>

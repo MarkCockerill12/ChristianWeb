@@ -112,7 +112,7 @@ Because God is one in essence, praying to one person of the Trinity does not exc
     "3. [Encyclopedia] Wikipedia - Prayer in Christianity. 'Comprehensive article on the history, theology, and practice of prayer within Christianity.' https://en.wikipedia.org/wiki/Prayer_in_Christianity",
     "4. [Apologetics] GotQuestions.org - What is intercessory prayer?. 'Explains the biblical basis for interceding on behalf of others and Christ's role as our intercessor.' https://www.gotquestions.org/intercessory-prayer.html",
     "5. [Encyclopedia] Wikipedia - Intercession. 'Detailed look at intercessory prayer, including differences in how various Christian traditions approach it.' https://en.wikipedia.org/wiki/Intercession",
-    "6. [Encyclopedia] Wikipedia. 'Studies on intercessory prayer.' https://en.wikipedia.org/wiki/Studies_on_intercessory_prayer",
+    "6. [Academic] Benson H et al. Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients. American Heart Journal, 2006. PubMed. https://pubmed.ncbi.nlm.nih.gov/16569567/",
     "7. [Apologetics] GotQuestions.org - What is the Lord's prayer and should we pray it?. 'Examines the model prayer Jesus gave His disciples and how it applies to our daily prayer life.' https://www.gotquestions.org/Lords-prayer.html",
     "8. [Encyclopedia] Wikipedia - Lord's Prayer. 'Historical and theological analysis of the most famous Christian prayer.' https://en.wikipedia.org/wiki/Lord%27s_Prayer",
     "9. [Commentary] Bible Hub. 'Commentaries on Matthew 6:7.' https://biblehub.com/commentaries/matthew/6-7.htm",

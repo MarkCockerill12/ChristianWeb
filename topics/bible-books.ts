@@ -402,7 +402,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
 **Authorship Evidence:** Anonymous. Suggestions include Paul, Apollos, Barnabas, or Luke.
 **Where Written:** Unknown, possibly Italy.
 **Date of Writing:** Around AD 65 to 68, prior to the temple's destruction.
-**Theological Theme:** The Superiority of Christ. It masterfully demonstrates that Jesus is the fulfillment and superior replacement of the Old Covenant system.
+**Theological Theme:** The Superiority of Christ. It masterfully demonstrates that Jesus is the fulfilment and superior replacement of the Old Covenant system.
 ### James
 **Authorship Evidence:** James, the half-brother of Jesus and leader of the Jerusalem church.
 **Where Written:** Jerusalem.

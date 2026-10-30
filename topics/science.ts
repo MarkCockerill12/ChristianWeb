@@ -489,7 +489,7 @@ The Christian position is not that science has limits and God lives in them. It 
     "42. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'Albert the Great.' His natural philosophy and insistence on observation in the study of nature. https://plato.stanford.edu/entries/albert-great/",
     "43. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Roger Bacon.' Scientia experimentalis, optics and the argument for mathematics. https://www.newadvent.org/cathen/13111b.htm",
     "44. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'John Buridan.' Impetus theory and fourteenth-century Parisian natural philosophy. https://plato.stanford.edu/entries/buridan/",
-    "45. [Reference] Wikipedia. Oxford Calculators. The Merton College mathematicians and their work on motion. https://en.wikipedia.org/wiki/Oxford_Calculators",
+    "45. [Academic] Stanford Encyclopedia of Philosophy. 'William Heytesbury.' https://plato.stanford.edu/entries/heytesbury/",
     "46. [Academic] Scientus. 'The Calculatores: Bradwardine and the Oxford Calculators.' https://www.scientus.org/Calculatores-Bradwardine.html",
     "47. [Peer-Reviewed] Stanford Encyclopedia of Philosophy. 'Nicole Oresme.' The geometric proof of the mean speed theorem and the argument on terrestrial rotation. https://plato.stanford.edu/entries/nicole-oresme/",
     "48. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Nicole Oresme.' https://www.newadvent.org/cathen/11296a.htm",

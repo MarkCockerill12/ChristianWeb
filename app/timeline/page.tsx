@@ -103,7 +103,7 @@ const timelineEvents = [
     verses: ["Joshua 1:1-9", "Joshua 6:1-27"],
     archaeological:
       "Destruction layers at Jericho, Hazor and other Canaanite cities have been found, but their dates are disputed: Kathleen Kenyon dated Jericho's fall to c. 1550 BC, Bryant Wood argues for c. 1400 BC, and Hazor's great destruction is usually placed in the 13th century BC.",
-    significance: "Fulfillment of God's promise to Abraham regarding the land",
+    significance: "Fulfilment of God's promise to Abraham regarding the land",
     color: "red",
   },
   {
@@ -161,7 +161,7 @@ const timelineEvents = [
     verses: ["2 Kings 17:1-23", "Isaiah 10:5-11"],
     archaeological:
       "Assyrian records confirm conquest of Samaria. Archaeological evidence of destruction in northern Israel.",
-    significance: "Fulfillment of prophetic warnings about judgment",
+    significance: "Fulfilment of prophetic warnings about judgment",
     color: "red",
   },
   {
@@ -208,7 +208,7 @@ const timelineEvents = [
     verses: ["Matthew 1:18-25", "Luke 2:1-20"],
     archaeological:
       "Archaeological evidence for Herod's building projects. Historical records of Roman census practices.",
-    significance: "Fulfillment of messianic prophecies; God becomes man",
+    significance: "Fulfilment of messianic prophecies; God becomes man",
     color: "gold",
   },
   {

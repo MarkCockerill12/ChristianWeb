@@ -124,7 +124,7 @@ Presenting one of these positions as simply what the Bible teaches requires the 
     "3. [Catholic Reference] New Advent, Catholic Encyclopedia. 'Justification.' https://www.newadvent.org/cathen/08573a.htm",
     "4. [Commentary] Bible Hub. 'Commentaries on Ephesians 2:8.' https://biblehub.com/commentaries/ephesians/2-8.htm",
     "5. [Commentary] Bible Hub. 'Commentaries on Luke 23:43.' https://biblehub.com/commentaries/luke/23-43.htm",
-    "6. [Reference] Wikipedia. Cornelius the Centurion. The household that received the Spirit before baptism. https://en.wikipedia.org/wiki/Cornelius_the_Centurion",
+    "6. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Cornelius.' https://www.newadvent.org/cathen/04375b.htm",
     "7. [Peer-Reviewed] Mantey, J. R. The Causal Use of Eis in the New Testament. Journal of Biblical Literature 70.1 (1951): 45-48. https://doi.org/10.2307/3262042",
     "8. [Peer-Reviewed] Marcus, Ralph. The Elusive Causal Eis. Journal of Biblical Literature 71.1 (1952): 43-44. https://doi.org/10.2307/3261847",
     "9. [Catholic] New Advent, Catholic Encyclopedia. Baptism. Historical and theological treatment of the sacrament. https://www.newadvent.org/cathen/02258b.htm",

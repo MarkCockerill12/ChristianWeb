@@ -10,7 +10,7 @@ import { cn } from "@/lib/utils"
 /* Everyone named in Romans 16:1-15, in order. Aristobulus and Narcissus are
    named as heads of households greeted. */
 const PEOPLE: ReadonlyArray<readonly [name: string, verse: string, woman: boolean, note?: string]> = [
-  ["Phoebe", "16:1-2", true, "*Diakonos* of the church at Cenchreae and *prostatis*, patron; probably carried the letter."],
+  ["Phoebe", "16:1-2", true, "*Diakonos* (διάκονος) of the church at Cenchreae and *prostatis* (προστάτις), patron; probably carried the letter."],
   ["Priscilla", "16:3-4", true, "Paul's co-worker who risked her life for him; named before her husband."],
   ["Aquila", "16:3", false],
   ["Epenetus", "16:5", false],
@@ -145,9 +145,9 @@ function TwoReadings() {
           { key: "egal", label: "Egalitarian reading" },
         ]}
         rows={[
-          { text: "1 Timothy 2:11-15", comp: "The appeal to Adam and Eve grounds the limit on teaching men in creation, so it holds in every church", egal: "*Authentein* means domineering; the letter targets false teaching in Ephesus" },
+          { text: "1 Timothy 2:11-15", comp: "The appeal to Adam and Eve grounds the limit on teaching men in creation, so it holds in every church", egal: "*Authentein* (αὐθεντεῖν) means domineering; the letter targets false teaching in Ephesus" },
           { text: "1 Corinthians 14:34-35", comp: "Women do not weigh prophecies or teach in the assembly", egal: "A specific disruption is in view, since 11:5 assumes women pray and prophesy" },
-          { text: "1 Corinthians 11:2-16", comp: "*Kephale* means authority; the principle of headship survives the custom of veiling", egal: "*Kephale* can mean source; Paul qualifies it: neither sex is independent in the Lord" },
+          { text: "1 Corinthians 11:2-16", comp: "*Kephale* (κεφαλή) means authority; the principle of headship survives the custom of veiling", egal: "*Kephale* can mean source; Paul qualifies it: neither sex is independent in the Lord" },
           { text: "Ephesians 5:21-33", comp: "Husbands lead by self-sacrifice; wives submit", egal: "Mutual submission (5:21) governs the whole passage" },
           { text: "Galatians 3:28", comp: "Equal standing in salvation, not identical roles", egal: "Equality that extends to office and function" },
           { text: "Romans 16:1, 7", comp: "Phoebe served; Junia was a respected missionary", egal: "A woman deacon and a woman apostle" },
