@@ -164,25 +164,25 @@ The Babylonian *Enūma Eliš*, whose earliest copy dates to the ninth century BC
 
 ### The Flood
 
-The flood is the clearest literary parallel. In the Babylonian *Atrahasis*, copied in the reign of Ammi-Saduqa (1646 to 1626 BC), the gods send a flood because people have grown so many and so noisy that the gods cannot sleep[^29]. Tablet XI of the *Epic of Gilgamesh*, in a seventh-century BC copy read by George Smith in 1872, retells it: a man warned in secret builds a boat for his family and animals, the boat grounds on a mountain, he sends out a dove, a swallow and a raven, and when he sacrifices, the gods "gathered like flies over the sacrifice"[^30]. Genesis has the same sequence (Genesis 8:6-12, 20-21), and scholars widely accept that it is related to the Mesopotamian accounts[^31]. But in Genesis one God sends the flood in judgment on violence and corruption (Genesis 6:11-13), saves Noah because he is righteous (Genesis 6:9), and binds himself by covenant never to repeat it (Genesis 9:11).
+The flood is the clearest literary parallel. In the Babylonian *Atrahasis*, copied in the reign of Ammi-Saduqa (1646 to 1626 BC), the gods send a flood because people have grown so many and so noisy that the gods cannot sleep[^29]. Tablet XI of the *Epic of Gilgamesh*, in a seventh-century BC copy read by George Smith in 1872, retells it: a man warned in secret builds a boat for his family and animals, the boat grounds on a mountain, he sends out a dove, a swallow and a raven, and when he sacrifices, the gods "gathered like flies over the sacrifice"[^30][^31]. Genesis has the same sequence (Genesis 8:6-12, 20-21), and scholars widely accept that it is related to the Mesopotamian accounts[^32]. But in Genesis one God sends the flood in judgment on violence and corruption (Genesis 6:11-13), saves Noah because he is righteous (Genesis 6:9), and binds himself by covenant never to repeat it (Genesis 9:11).
 
 ### Moses in the Basket
 
-A Neo-Assyrian text of the seventh century BC has Sargon of Akkad say that his mother, a priestess, bore him in secret, "set me in a basket of rushes, with bitumen she sealed my lid", and put him in the river, where Akki the water-drawer found and raised him. Stephanie Dalley notes the resemblance to Exodus 2, and the abandoned infant who becomes a leader is a wider motif, told also of Karna and Oedipus[^32]. The two stories run in opposite directions: Sargon, of unknown father, rises from commoner to king, while Moses, a Hebrew slave's son with named parents, is raised by Pharaoh's daughter and sides with his enslaved people[^33].
+A Neo-Assyrian text of the seventh century BC has Sargon of Akkad say that his mother, a priestess, bore him in secret, "set me in a basket of rushes, with bitumen she sealed my lid", and put him in the river, where Akki the water-drawer found and raised him. Stephanie Dalley notes the resemblance to Exodus 2, and the abandoned infant who becomes a leader is a wider motif, told also of Karna and Oedipus[^33]. The two stories run in opposite directions: Sargon, of unknown father, rises from commoner to king, while Moses, a Hebrew slave's son with named parents, is raised by Pharaoh's daughter and sides with his enslaved people[^34].
 
 ### Law
 
-The Code of Hammurabi (about 1753 BC) and the Covenant Code of Exodus 20:22 to 23:19 share the "if a man" format of case law, the principle of an eye for an eye, and strikingly similar laws on an ox that gores (Hammurabi 250 to 252; Exodus 21:28-32). David P. Wright argues for direct dependence; the consensus is that both inherit a common legal tradition[^34]. [The slavery topic](/categories/slavery) compares the two in detail.
+The Code of Hammurabi (about 1753 BC) and the Covenant Code of Exodus 20:22 to 23:19 share the "if a man" format of case law, the principle of an eye for an eye, and strikingly similar laws on an ox that gores (Hammurabi 250 to 252; Exodus 21:28-32). David P. Wright argues for direct dependence; the consensus is that both inherit a common legal tradition[^35]. [The slavery topic](/categories/slavery) compares the two in detail.
 
 ### Wisdom and Psalms
 
-The Egyptian *Instruction of Amenemope*, from the Ramesside period (about 1300 to 1075 BC), is arranged in thirty chapters, and Proverbs 22:20 asks, "Have I not written for you thirty sayings?" Adolf Erman showed in 1924 how closely Proverbs 22:17 to 23:11 follows it: "Give thine ear, and hear what I say" against "Incline your ear"; "Remove not the landmark from the bounds of the field" against "Do not move the ancient landmark" (Proverbs 23:10). Most scholars hold that the Proverbs passage depends on Amenemope, though a minority disputes it[^35]. Proverbs gives the borrowed advice a new purpose: "that your trust may be in the LORD" (Proverbs 22:19).
+The Egyptian *Instruction of Amenemope*, from the Ramesside period (about 1300 to 1075 BC), is arranged in thirty chapters, and Proverbs 22:20 asks, "Have I not written for you thirty sayings?" Adolf Erman showed in 1924 how closely Proverbs 22:17 to 23:11 follows it: "Give thine ear, and hear what I say" against "Incline your ear"; "Remove not the landmark from the bounds of the field" against "Do not move the ancient landmark" (Proverbs 23:10). Most scholars hold that the Proverbs passage depends on Amenemope, though a minority disputes it[^36]. Proverbs gives the borrowed advice a new purpose: "that your trust may be in the LORD" (Proverbs 22:19).
 
-The *Great Hymn to the Aten*, composed under Akhenaten in the fourteenth century BC, resembles Psalm 104 in its picture of night, lions, ships and creatures waiting on their creator. James Henry Breasted thought the psalm was inspired by it, Miriam Lichtheim put the likeness down to the general similarity of Egyptian hymns and biblical psalms, and Jan Assmann and Donald Redford still argue for influence[^36]. In the psalm the sun is a creature that "knows its time for setting" (Psalm 104:19), not the god being praised.
+The *Great Hymn to the Aten*, composed under Akhenaten in the fourteenth century BC, resembles Psalm 104 in its picture of night, lions, ships and creatures waiting on their creator. James Henry Breasted thought the psalm was inspired by it, Miriam Lichtheim put the likeness down to the general similarity of Egyptian hymns and biblical psalms, and Jan Assmann and Donald Redford still argue for influence[^37]. In the psalm the sun is a creature that "knows its time for setting" (Psalm 104:19), not the god being praised.
 
 ### Leviathan
 
-At Ugarit, the *Baal Cycle* describes Lotan, "the fugitive serpent", possibly seven-headed, defeated by the storm god. Isaiah 27:1 promises that the LORD will punish "Leviathan the fleeing serpent, Leviathan the twisting serpent", and W.G. Lambert argued that the verse directly echoes the Ugaritic wording[^37]. Psalm 74:14 speaks of crushing "the heads of Leviathan", but Psalm 104:26 makes Leviathan a creature God formed to play in the sea.
+At Ugarit, the *Baal Cycle* describes Lotan, "the fugitive serpent", possibly seven-headed, defeated by the storm god. Isaiah 27:1 promises that the LORD will punish "Leviathan the fleeing serpent, Leviathan the twisting serpent", and W.G. Lambert argued that the verse directly echoes the Ugaritic wording[^38]. Psalm 74:14 speaks of crushing "the heads of Leviathan", but Psalm 104:26 makes Leviathan a creature God formed to play in the sea.
 
 ### What the Parallels Show
 
@@ -198,9 +198,9 @@ Historic Christian teaching holds that Scripture is inspired through human autho
       title: "Persia and Zoroastrianism",
       tags: ["Old Testament"],
       content: `
-After Cyrus of Persia took Babylon, he allowed the Jewish exiles to return, and Isaiah 45:1 calls him the LORD's anointed[^38]. The Persian state religion, Zoroastrianism, taught a final saviour (the Saoshyant), a last battle between good and evil, judgment, heaven and hell, and the resurrection of the body.
+After Cyrus of Persia took Babylon, he allowed the Jewish exiles to return, and Isaiah 45:1 calls him the LORD's anointed[^39]. The Persian state religion, Zoroastrianism, taught a final saviour (the Saoshyant), a last battle between good and evil, judgment, heaven and hell, and the resurrection of the body.
 
-Many scholars think that Jews under Persian rule absorbed Zoroastrian ideas about angels, demons and the end of the age, visible in later writings such as Tobit and 1 Enoch. Others reject direct influence, holding that no link can be found in Jewish or Christian texts, or propose Greek thought as the channel; Lester Grabbe accepts that Persian influence occurred but asks which developments can be attributed to Iran rather than Greece. The question is harder because the surviving Avesta dates at the oldest from the Sasanian empire, and the Pahlavi texts were composed or rewritten in the eighth to tenth centuries AD[^39].
+Many scholars think that Jews under Persian rule absorbed Zoroastrian ideas about angels, demons and the end of the age, visible in later writings such as Tobit and 1 Enoch. Others reject direct influence, holding that no link can be found in Jewish or Christian texts, or propose Greek thought as the channel; Lester Grabbe accepts that Persian influence occurred but asks which developments can be attributed to Iran rather than Greece. The question is harder because the surviving Avesta dates at the oldest from the Sasanian empire, and the Pahlavi texts were composed or rewritten in the eighth to tenth centuries AD[^40].
 
 Within the Old Testament the hope of resurrection appears in Isaiah 26:19 and Daniel 12:2. Whatever the history of the idea, the Christian claim was not that resurrection could happen, which many Jews already believed, but that it had happened to one man ahead of everyone else (1 Corinthians 15:20-23).
 
@@ -212,31 +212,31 @@ Within the Old Testament the hope of resurrection appears in Isaiah 26:19 and Da
       title: "Christmas",
       tags: ["Holidays"],
       content: `
-The Gospels give no date for the birth of Jesus. The earliest known reference to 25 December as the date of the nativity is in the Chronograph of 354, a Roman almanac[^40]. Two explanations compete.
+The Gospels give no date for the birth of Jesus. The earliest known reference to 25 December as the date of the nativity is in the Chronograph of 354, a Roman almanac[^41]. Two explanations compete.
 
 ### The Solstice Theory
 
-The emperor Aurelian revived the cult of the sun god Sol Invictus and dedicated a temple to him on 25 December 274, and the same almanac marks that day as the birthday of the Unconquered, *Natalis Invicti*. On this view the church placed Christ's birthday on a pagan feast to absorb it. Steven Hijmans, however, finds no clear evidence for a winter-solstice feast of Sol before the emperor Julian in the 360s and doubts that Aurelian created one; he argues the pagan feast may have been a response to the Christian date rather than its source[^41].
+The emperor Aurelian revived the cult of the sun god Sol Invictus and dedicated a temple to him on 25 December 274, and the same almanac marks that day as the birthday of the Unconquered, *Natalis Invicti*. On this view the church placed Christ's birthday on a pagan feast to absorb it. Steven Hijmans, however, finds no clear evidence for a winter-solstice feast of Sol before the emperor Julian in the 360s and doubts that Aurelian created one; he argues the pagan feast may have been a response to the Christian date rather than its source[^42].
 
 ### The Calculation Theory
 
-Many early Christians believed Jesus was conceived on the same day of the year on which he died. Tertullian equated the date of the crucifixion with 25 March, and nine months later is 25 December; in the East the same reasoning with a different calendar produced 6 January. Andrew McGowan notes that no ancient Christian writer says the date was chosen to replace a pagan festival, that Christians of the time were anxious to keep apart from public pagan worship, and that the feast seems to predate Constantine. He concludes that "we cannot be entirely sure", but that the date "might really derive more from Judaism"[^42].
+Many early Christians believed Jesus was conceived on the same day of the year on which he died. Tertullian equated the date of the crucifixion with 25 March, and nine months later is 25 December; in the East the same reasoning with a different calendar produced 6 January. Andrew McGowan notes that no ancient Christian writer says the date was chosen to replace a pagan festival, that Christians of the time were anxious to keep apart from public pagan worship, and that the feast seems to predate Constantine. He concludes that "we cannot be entirely sure", but that the date "might really derive more from Judaism"[^43].
 
 ### Saturnalia
 
-Saturnalia, Rome's festival of Saturn, began on 17 December and by the first century BC ran until the 23rd, with feasting, gambling, role reversal between masters and slaves, and small gifts on the day called the Sigillaria. Medieval Christmas inherited some of its riotousness, and scholars generally treat Saturnalia as one possible influence on Christmas customs, not their origin. The story that Pope Julius I set 25 December to replace it rests on a spurious source[^43].
+Saturnalia, Rome's festival of Saturn, began on 17 December and by the first century BC ran until the 23rd, with feasting, gambling, role reversal between masters and slaves, and small gifts on the day called the Sigillaria. Medieval Christmas inherited some of its riotousness, and scholars generally treat Saturnalia as one possible influence on Christmas customs, not their origin. The story that Pope Julius I set 25 December to replace it rests on a spurious source[^44].
 
 <?viz pagan-origins/christmas-timeline?>
 
 ### The Christmas Tree
 
-Decorated trees first appear in Renaissance guild halls in northern Germany and Livonia: the Brotherhood of Blackheads put up trees in Reval (Tallinn) and Riga in 1441, 1442, 1510 and 1514, and the earliest firmly dated picture is a keystone carved in 1576 at Turckheim in Alsace. Medieval mystery plays on 24 December, the feast of Adam and Eve, used a "paradise tree" hung with apples and wafers, which some researchers see as its forerunner, and others point to older evergreen customs. The tree reached most British homes after the *Illustrated London News* pictured the royal tree at Windsor in 1848[^44].
+Decorated trees first appear in Renaissance guild halls in northern Germany and Livonia: the Brotherhood of Blackheads put up trees in Reval (Tallinn) and Riga in 1441, 1442, 1510 and 1514, and the earliest firmly dated picture is a keystone carved in 1576 at Turckheim in Alsace. Medieval mystery plays on 24 December, the feast of Adam and Eve, used a "paradise tree" hung with apples and wafers, which some researchers see as its forerunner, and others point to older evergreen customs. The tree reached most British homes after the *Illustrated London News* pictured the royal tree at Windsor in 1848[^45].
 
 Jeremiah 10:3-4 describes cutting a tree, decorating it with silver and gold and fastening it with nails, and is sometimes read as a ban on Christmas trees. The passage is about making idols: the next verse compares the finished object to a scarecrow that cannot speak or walk (Jeremiah 10:5).
 
 ### Santa Claus
 
-Santa Claus comes from a Christian bishop. Nicholas of Myra, traditionally 270 to 343, was remembered for secretly giving bags of gold as dowries to three poor sisters, and his feast on 6 December became a day of gifts. The Dutch Sinterklaas went with settlers to New Amsterdam and grew into the American Santa Claus[^45]. Many features of his modern image go back to the poem "A Visit from St. Nicholas", first published in 1823, which brings him by sleigh with eight reindeer[^46].
+Santa Claus comes from a Christian bishop. Nicholas of Myra, traditionally 270 to 343, was remembered for secretly giving bags of gold as dowries to three poor sisters, and his feast on 6 December became a day of gifts. The Dutch Sinterklaas went with settlers to New Amsterdam and grew into the American Santa Claus[^46]. Many features of his modern image go back to the poem "A Visit from St. Nicholas", first published in 1823, which brings him by sleigh with eight reindeer[^47].
 
 <?viz pagan-origins/nicholas?>
 `,
@@ -248,15 +248,15 @@ Santa Claus comes from a Christian bishop. Nicholas of Myra, traditionally 270 t
       content: `
 ### The Name
 
-In most languages Easter is named after Passover. The Greek and Latin *Pascha* comes through Aramaic from the Hebrew *Pesach*, the name of the Jewish festival at which the Gospels place the crucifixion (Mark 14:12). The Council of Nicaea in 325 set a common date for all Christians, the first Sunday after the first full moon on or after the spring equinox[^47]. Easter falls in spring because Passover does.
+In most languages Easter is named after Passover. The Greek and Latin *Pascha* comes through Aramaic from the Hebrew *Pesach*, the name of the Jewish festival at which the Gospels place the crucifixion (Mark 14:12). The Council of Nicaea in 325 set a common date for all Christians, the first Sunday after the first full moon on or after the spring equinox[^48]. Easter falls in spring because Passover does.
 
 <?viz pagan-origins/easter-names?>
 
-English and German are the exceptions. The only evidence for the English name is the monk Bede, who wrote in *The Reckoning of Time* that the month around April was once named after a goddess called Ēostre. Scholars long debated whether Bede invented her, but her name appears in place names and personal names and in Roman-era inscriptions to the *matronae Austriahenae* found in 1958, and modern scholars generally accept that she was a genuine pagan goddess[^48]. The popular claim that Easter is named after the Babylonian goddess Ishtar has no basis: the words only sound alike in modern English, and the festival is called Pascha or a form of it almost everywhere else[^49].
+English and German are the exceptions. The only evidence for the English name is the monk Bede, who wrote in *The Reckoning of Time* that the month around April was once named after a goddess called Ēostre. Scholars long debated whether Bede invented her, but her name appears in place names and personal names and in Roman-era inscriptions to the *matronae Austriahenae* found in 1958, and modern scholars generally accept that she was a genuine pagan goddess[^49]. The popular claim that Easter is named after the Babylonian goddess Ishtar has no basis: the words only sound alike in modern English, and the festival is called Pascha or a form of it almost everywhere else[^50].
 
 ### Eggs and the Easter Bunny
 
-Eating eggs was forbidden during Lent in medieval western Europe, so they returned at Easter, and Christians in Mesopotamia were reported to dye eggs red in memory of the blood of Christ. Jacob Grimm speculated in the nineteenth century that the eggs came from rites of Ēostre or "Ostara", but no link between eggs and that goddess can be traced before him[^50]. The Easter Hare is first recorded in the late seventeenth century, by Georg Franck von Franckenau, as a custom of German Lutherans. Grimm tied it to Ēostre as well, but the Oxford *Dictionary of English Folklore* says "there is no shred of evidence for this", and Bede does not connect her with any animal[^51].
+Eating eggs was forbidden during Lent in medieval western Europe, so they returned at Easter, and Christians in Mesopotamia were reported to dye eggs red in memory of the blood of Christ. Jacob Grimm speculated in the nineteenth century that the eggs came from rites of Ēostre or "Ostara", but no link between eggs and that goddess can be traced before him[^51]. The Easter Hare is first recorded in the late seventeenth century, by Georg Franck von Franckenau, as a custom of German Lutherans. Grimm tied it to Ēostre as well, but the Oxford *Dictionary of English Folklore* says "there is no shred of evidence for this", and Bede does not connect her with any animal[^52].
 `,
     },
     {
@@ -264,11 +264,11 @@ Eating eggs was forbidden during Lent in medieval western Europe, so they return
       title: "Halloween",
       tags: ["Holidays"],
       content: `
-"Halloween" is a contraction of All Hallows' Eve, the evening before All Saints' Day. On 13 May 609 or 610 Pope Boniface IV consecrated the Pantheon in Rome as a church of Mary and the martyrs; by 800 churches in Ireland and Northumbria kept a feast of all saints on 1 November, and in 835 the Frankish Empire adopted that date with the backing of Pope Gregory IV[^52].
+"Halloween" is a contraction of All Hallows' Eve, the evening before All Saints' Day. On 13 May 609 or 610 Pope Boniface IV consecrated the Pantheon in Rome as a church of Mary and the martyrs; by 800 churches in Ireland and Northumbria kept a feast of all saints on 1 November, and in 835 the Frankish Empire adopted that date with the backing of Pope Gregory IV[^53].
 
-Samhain, the Gaelic festival of 31 October to 1 November, marked the end of the harvest and the start of the darker half of the year. Scholars disagree about how far Samhain and the new Christian feasts influenced each other, and some argue that its influence on modern Halloween has been exaggerated[^53].
+Samhain, the Gaelic festival of 31 October to 1 November, marked the end of the harvest and the start of the darker half of the year. Scholars disagree about how far Samhain and the new Christian feasts influenced each other, and some argue that its influence on modern Halloween has been exaggerated[^54][^55].
 
-Some historians think the church Christianised Samhain as All Hallows; others argue Halloween began independently as the Christian vigil of All Saints, and Ronald Hutton finds no evidence that Samhain was originally a festival of the dead. The customs have mixed roots. Souling, documented from at least the fifteenth century, sent the poor, often children, from door to door on All Souls' Day collecting soul cakes in return for praying for the givers' dead. Costumed house visits called guising in Scotland and Ireland are another forerunner, and the phrase "trick or treat" is first found in print in Ontario in 1917. Souls and guisers carried lanterns of hollowed turnips; Irish and Scottish immigrants in North America switched to pumpkins, and pumpkin carving is recorded there by 1837[^54].
+Some historians think the church Christianised Samhain as All Hallows; others argue Halloween began independently as the Christian vigil of All Saints, and Ronald Hutton finds no evidence that Samhain was originally a festival of the dead. The customs have mixed roots. Souling, documented from at least the fifteenth century, sent the poor, often children, from door to door on All Souls' Day collecting soul cakes in return for praying for the givers' dead. Costumed house visits called guising in Scotland and Ireland are another forerunner, and the phrase "trick or treat" is first found in print in Ontario in 1917. Souls and guisers carried lanterns of hollowed turnips; Irish and Scottish immigrants in North America switched to pumpkins, and pumpkin carving is recorded there by 1837[^56].
 `,
     },
     {
@@ -278,11 +278,11 @@ Some historians think the church Christianised Samhain as All Hallows; others ar
       content: `
 ### Sunday
 
-Christians met on the first day of the week from the start, because it was the day of the resurrection (Acts 20:7; 1 Corinthians 16:2; Revelation 1:10). The Didache, one of the earliest Christian manuals, tells believers: "every Lord's day gather yourselves together, and break bread, and give thanksgiving"[^55]. Justin Martyr, in the mid-second century, used the Roman name: "on the day called Sunday, all who live in cities or in the country gather together to one place"[^56]. The name comes from the Roman planetary week, *dies solis*, the day of the Sun, and Constantine's law of 7 March 321 made it a day of rest for city courts and workshops, nearly three centuries after Christians began meeting on it[^57].
+Christians met on the first day of the week from the start, because it was the day of the resurrection (Acts 20:7; 1 Corinthians 16:2; Revelation 1:10). The Didache, one of the earliest Christian manuals, tells believers: "every Lord's day gather yourselves together, and break bread, and give thanksgiving"[^57]. Justin Martyr, in the mid-second century, used the Roman name: "on the day called Sunday, all who live in cities or in the country gather together to one place"[^58]. The name comes from the Roman planetary week, *dies solis*, the day of the Sun, and Constantine's law of 7 March 321 made it a day of rest for city courts and workshops, nearly three centuries after Christians began meeting on it[^59].
 
 ### Valentine's Day
 
-Lupercalia was a Roman festival of purification held on 15 February. The popular idea that Pope Gelasius I abolished it and replaced it with a Christian feast has no contemporary evidence[^58]. The feast of St Valentine is attested from at least the eighth century, but its link with romantic love began with Geoffrey Chaucer and his circle in fourteenth-century England, and scholars have dismissed the eighteenth-century suggestion that it was created to replace Lupercalia[^59].
+Lupercalia was a Roman festival of purification held on 15 February. The popular idea that Pope Gelasius I abolished it and replaced it with a Christian feast has no contemporary evidence[^60]. The feast of St Valentine is attested from at least the eighth century, but its link with romantic love began with Geoffrey Chaucer and his circle in fourteenth-century England, and scholars have dismissed the eighteenth-century suggestion that it was created to replace Lupercalia[^61].
 `,
     },
     {
@@ -292,9 +292,9 @@ Lupercalia was a Roman festival of purification held on 15 February. The popular
       content: `
 Christianity grew up inside the Roman world, and some borrowing is clear. Most of it is in art and custom rather than in what Christians believed about Jesus.
 
-*   **The halo.** Haloes came from Greek and Roman images of sun gods and deified emperors, and entered Christian art in the fourth century, at first only for Christ[^60].
-*   **The Good Shepherd.** The early image of Christ carrying a lamb adapts the old Greek figure of Hermes carrying a ram, the *kriophoros*[^61].
-*   **Christ as the Sun.** In a tomb beneath St Peter's Basilica, a third-century ceiling mosaic shows a haloed sun god driving a chariot, framed by Christian scenes of Jonah, a shepherd and fishermen, and is usually read as Christ pictured as the Sun[^62]. Malachi 4:2 had already called the coming saviour "the sun of righteousness".
+*   **The halo.** Haloes came from Greek and Roman images of sun gods and deified emperors, and entered Christian art in the fourth century, at first only for Christ[^62].
+*   **The Good Shepherd.** The early image of Christ carrying a lamb adapts the old Greek figure of Hermes carrying a ram, the *kriophoros*[^63].
+*   **Christ as the Sun.** In a tomb beneath St Peter's Basilica, a third-century ceiling mosaic shows a haloed sun god driving a chariot, framed by Christian scenes of Jonah, a shepherd and fishermen, and is usually read as Christ pictured as the Sun[^64]. Malachi 4:2 had already called the coming saviour "the sun of righteousness".
 *   **Mary nursing Jesus.** Images of Isis and Horus probably shaped some Egyptian pictures of Mary, as described in the Horus section.
 *   **Folk customs.** Christmas trees, Halloween lanterns and the Easter hare grew from European folk practice, some of it with older seasonal roots, long after the festivals themselves were fixed.
 
@@ -345,38 +345,40 @@ The line historians draw is between form and content. Shared images, words and c
     "28. [Wikipedia] Enūma Eliš. https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1",
     "29. [Wikipedia] Atra-Hasis. https://en.wikipedia.org/wiki/Atra-Hasis",
     "30. [Wikipedia] Gilgamesh flood myth. https://en.wikipedia.org/wiki/Gilgamesh_flood_myth",
-    "31. [Wikipedia] Genesis flood narrative. https://en.wikipedia.org/wiki/Genesis_flood_narrative",
-    "32. [Wikipedia] Sargon of Akkad (birth legend). https://en.wikipedia.org/wiki/Sargon_of_Akkad",
-    "33. [Commentary] AlHaTorah.org. Moshe's Birth and the Legend of Sargon. https://alhatorah.org/Moshe's_Birth_and_the_Legend_of_Sargon",
-    "34. [Wikipedia] Code of Hammurabi (relationship to the Covenant Code). https://en.wikipedia.org/wiki/Code_of_Hammurabi",
-    "35. [Wikipedia] Instruction of Amenemope. https://en.wikipedia.org/wiki/Instruction_of_Amenemope",
-    "36. [Wikipedia] Great Hymn to the Aten. https://en.wikipedia.org/wiki/Great_Hymn_to_the_Aten",
-    "37. [Wikipedia] Lotan. https://en.wikipedia.org/wiki/Lotan",
-    "38. [Wikipedia] Cyrus the Great in the Bible. https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible",
-    "39. [Academic] 'ZOROASTRIANISM i. HISTORICAL REVIEW UP TO THE ARAB CONQUEST.' Encyclopaedia Iranica. https://www.iranicaonline.org/articles/zoroastrianism-i-historical-review",
-    "40. [Wikipedia] Christmas. https://en.wikipedia.org/wiki/Christmas",
-    "41. [Wikipedia] Sol Invictus. https://en.wikipedia.org/wiki/Sol_Invictus",
-    "42. [Archaeology] Andrew McGowan. How December 25 Became Christmas. Biblical Archaeology Society. https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/how-december-25-became-christmas/",
-    "43. [Encyclopedia] 'Christmas.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/03724b.htm",
-    "44. [Wikipedia] Christmas tree. https://en.wikipedia.org/wiki/Christmas_tree",
-    "45. [Wikipedia] Saint Nicholas. https://en.wikipedia.org/wiki/Saint_Nicholas",
-    "46. [Primary Source] 'Twas the Night before Christmas: A Visit from St. Nicholas by Clement Clarke Moore | Project Gutenberg.' Project Gutenberg. https://www.gutenberg.org/ebooks/17135",
-    "47. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Easter.' https://www.newadvent.org/cathen/05224d.htm",
-    "48. [Reference] 'Ostara and the Hare: Not Ancient, but Not As Modern As Some Skeptics Think | Folklife Today.' Library of Congress, Folklife Today. https://blogs.loc.gov/folklife/2016/04/ostara-and-the-hare/",
-    "49. [Reference] AAP FactCheck. No, Easter wasn't named after a Mesopotamian goddess. https://www.aap.com.au/factcheck/no-easter-wasnt-named-after-a-mesopotamian-goddess/",
-    "50. [Wikipedia] Easter egg. https://en.wikipedia.org/wiki/Easter_egg",
-    "51. [Reference] 'On the Bunny Trail: In Search of the Easter Bunny | Folklife Today.' Library of Congress, Folklife Today. https://blogs.loc.gov/folklife/2016/03/easter-bunny/",
-    "52. [Wikipedia] All Saints' Day. https://en.wikipedia.org/wiki/All_Saints%27_Day",
-    "53. [Wikipedia] Samhain. https://en.wikipedia.org/wiki/Samhain",
-    "54. [Wikipedia] Halloween. https://en.wikipedia.org/wiki/Halloween",
-    "55. [Primary Source] New Advent. The Didache, chapter 14. https://www.newadvent.org/fathers/0714.htm",
-    "56. [Primary Source] Early Christian Writings. Justin Martyr, First Apology, chapter 67. https://www.earlychristianwritings.com/text/justinmartyr-firstapology.html",
-    "57. [Wikipedia] Sunday. https://en.wikipedia.org/wiki/Sunday",
-    "58. [Wikipedia] Lupercalia. https://en.wikipedia.org/wiki/Lupercalia",
-    "59. [Wikipedia] Saint Valentine. https://en.wikipedia.org/wiki/Saint_Valentine",
-    "60. [Encyclopedia] 'Nimbus.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/11080b.htm",
-    "61. [Primary Source] 'Boston 99.489 (Sculpture).' Perseus Digital Library. https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.04.0041&query=Boston%2099.489",
-    "62. [Wikipedia] Tomb of the Julii. https://en.wikipedia.org/wiki/Tomb_of_the_Julii"
+    "31. [Reference] 'A History of the World': the Flood tablet, transcript. BBC. https://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode16/",
+    "32. [Wikipedia] Genesis flood narrative. https://en.wikipedia.org/wiki/Genesis_flood_narrative",
+    "33. [Wikipedia] Sargon of Akkad (birth legend). https://en.wikipedia.org/wiki/Sargon_of_Akkad",
+    "34. [Commentary] AlHaTorah.org. Moshe's Birth and the Legend of Sargon. https://alhatorah.org/Moshe's_Birth_and_the_Legend_of_Sargon",
+    "35. [Wikipedia] Code of Hammurabi (relationship to the Covenant Code). https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+    "36. [Wikipedia] Instruction of Amenemope. https://en.wikipedia.org/wiki/Instruction_of_Amenemope",
+    "37. [Wikipedia] Great Hymn to the Aten. https://en.wikipedia.org/wiki/Great_Hymn_to_the_Aten",
+    "38. [Wikipedia] Lotan. https://en.wikipedia.org/wiki/Lotan",
+    "39. [Wikipedia] Cyrus the Great in the Bible. https://en.wikipedia.org/wiki/Cyrus_the_Great_in_the_Bible",
+    "40. [Academic] 'ZOROASTRIANISM i. HISTORICAL REVIEW UP TO THE ARAB CONQUEST.' Encyclopaedia Iranica. https://www.iranicaonline.org/articles/zoroastrianism-i-historical-review",
+    "41. [Wikipedia] Christmas. https://en.wikipedia.org/wiki/Christmas",
+    "42. [Wikipedia] Sol Invictus. https://en.wikipedia.org/wiki/Sol_Invictus",
+    "43. [Archaeology] Andrew McGowan. How December 25 Became Christmas. Biblical Archaeology Society. https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/how-december-25-became-christmas/",
+    "44. [Encyclopedia] 'Christmas.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/03724b.htm",
+    "45. [Wikipedia] Christmas tree. https://en.wikipedia.org/wiki/Christmas_tree",
+    "46. [Wikipedia] Saint Nicholas. https://en.wikipedia.org/wiki/Saint_Nicholas",
+    "47. [Primary Source] 'Twas the Night before Christmas: A Visit from St. Nicholas by Clement Clarke Moore | Project Gutenberg.' Project Gutenberg. https://www.gutenberg.org/ebooks/17135",
+    "48. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Easter.' https://www.newadvent.org/cathen/05224d.htm",
+    "49. [Reference] 'Ostara and the Hare: Not Ancient, but Not As Modern As Some Skeptics Think | Folklife Today.' Library of Congress, Folklife Today. https://blogs.loc.gov/folklife/2016/04/ostara-and-the-hare/",
+    "50. [Reference] AAP FactCheck. No, Easter wasn't named after a Mesopotamian goddess. https://www.aap.com.au/factcheck/no-easter-wasnt-named-after-a-mesopotamian-goddess/",
+    "51. [Wikipedia] Easter egg. https://en.wikipedia.org/wiki/Easter_egg",
+    "52. [Reference] 'On the Bunny Trail: In Search of the Easter Bunny | Folklife Today.' Library of Congress, Folklife Today. https://blogs.loc.gov/folklife/2016/03/easter-bunny/",
+    "53. [Wikipedia] All Saints' Day. https://en.wikipedia.org/wiki/All_Saints%27_Day",
+    "54. [Wikipedia] Samhain. https://en.wikipedia.org/wiki/Samhain",
+    "55. [Academic] Bettina Arnold, 'Halloween Customs in the Celtic World.' University of Wisconsin-Milwaukee. https://sites.uwm.edu/barnold/2001/10/31/halloween-customs-in-the-celtic-world/",
+    "56. [Wikipedia] Halloween. https://en.wikipedia.org/wiki/Halloween",
+    "57. [Primary Source] New Advent. The Didache, chapter 14. https://www.newadvent.org/fathers/0714.htm",
+    "58. [Primary Source] Early Christian Writings. Justin Martyr, First Apology, chapter 67. https://www.earlychristianwritings.com/text/justinmartyr-firstapology.html",
+    "59. [Wikipedia] Sunday. https://en.wikipedia.org/wiki/Sunday",
+    "60. [Wikipedia] Lupercalia. https://en.wikipedia.org/wiki/Lupercalia",
+    "61. [Wikipedia] Saint Valentine. https://en.wikipedia.org/wiki/Saint_Valentine",
+    "62. [Encyclopedia] 'Nimbus.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/11080b.htm",
+    "63. [Primary Source] 'Boston 99.489 (Sculpture).' Perseus Digital Library. https://www.perseus.tufts.edu/cgi-bin/ptext?doc=Perseus:text:1999.04.0041&query=Boston%2099.489",
+    "64. [Wikipedia] Tomb of the Julii. https://en.wikipedia.org/wiki/Tomb_of_the_Julii"
   ],
   lastUpdated: "30-10-2026",
 }

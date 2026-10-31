@@ -106,21 +106,21 @@ Translating Scripture is as old as Scripture. When Ezra read the Law to the retu
       title: "The King James Version (1611)",
       tags: ["History", "KJV debate"],
       content: `
-At the Hampton Court Conference of January 1604, the Puritan John Rainolds proposed a new translation to replace the Geneva Bible, and King James agreed[^50]. Forty-seven scholars, all members of the Church of England, worked in six companies and published the result in 1611[^51][^52].
+At the Hampton Court Conference of January 1604, the Puritan John Rainolds proposed a new translation to replace the Geneva Bible, and King James agreed[^50][^51]. Forty-seven scholars, all members of the Church of England, worked in six companies and published the result in 1611[^52][^53].
 
 ### How original was it?
 
-The KJV was a revision, not a fresh translation. The translators were told to follow the 1602 edition of the Bishops' Bible and to depart from it only where the original required, consulting Tyndale, Coverdale, Matthew's Bible, the Great Bible and the Geneva Bible[^53]. Their own preface says the aim was never "to make a new translation, nor yet to make of a bad one a good one... but to make a good one better"[^54]. Tyndale's influence runs throughout: one recent estimate finds 84% of the KJV New Testament word for word identical to Tyndale, and about 76% of the Old Testament books Tyndale completed[^55].
+The KJV was a revision, not a fresh translation. The translators were told to follow the 1602 edition of the Bishops' Bible and to depart from it only where the original required, consulting Tyndale, Coverdale, Matthew's Bible, the Great Bible and the Geneva Bible[^54]. Their own preface says the aim was never "to make a new translation, nor yet to make of a bad one a good one... but to make a good one better"[^55]. Tyndale's influence runs throughout: one recent estimate finds 84% of the KJV New Testament word for word identical to Tyndale, and about 76% of the Old Testament books Tyndale completed[^56].
 
-- **Text.** The New Testament translates the Textus Receptus, drawing on the editions of Erasmus, Stephanus and Beza; the Old Testament the Masoretic Text; and the Apocrypha, included in every 1611 copy, the Septuagint and Vulgate[^56][^57].
-- **Notes.** The translators were forbidden the doctrinal notes of the Geneva Bible, but placed around 8,500 alternative English renderings in the margin[^58]. Their preface defends the practice: where the sense is uncertain, "variety of Translations is profitable for the finding out of the sense of the Scriptures"[^59].
-- **Today's KJV is not the 1611 text.** Almost every KJV printed today reproduces Benjamin Blayney's Oxford edition of 1769, which differs from the 1611 printing in around 24,000 places, nearly all of them spelling and punctuation[^60].
+- **Text.** The New Testament translates the Textus Receptus, drawing on the editions of Erasmus, Stephanus and Beza; the Old Testament the Masoretic Text; and the Apocrypha, included in every 1611 copy, the Septuagint and Vulgate[^57][^58].
+- **Notes.** The translators were forbidden the doctrinal notes of the Geneva Bible, but placed around 8,500 alternative English renderings in the margin[^59]. Their preface defends the practice: where the sense is uncertain, "variety of Translations is profitable for the finding out of the sense of the Scriptures"[^60].
+- **Today's KJV is not the 1611 text.** Almost every KJV printed today reproduces Benjamin Blayney's Oxford edition of 1769, which differs from the 1611 printing in around 24,000 places, nearly all of them spelling and punctuation[^61].
 
 ### Where the English has moved
 
-Several KJV words have changed meaning since 1611. In 2 Thessalonians 2:7 "he who now letteth will let" means "he who now restrains will restrain"[^61]. In 1 Thessalonians 4:15 the living "shall not prevent them which are asleep" means they will not precede them[^62].
+Several KJV words have changed meaning since 1611. In 2 Thessalonians 2:7 "he who now letteth will let" means "he who now restrains will restrain"[^62]. In 1 Thessalonians 4:15 the living "shall not prevent them which are asleep" means they will not precede them[^63].
 
-A few renderings are now regarded as mistakes. "Unicorn" (Numbers 23:22) translates the Hebrew *re'em* (רְאֵם, wild ox), a wild ox; the KJV followed the Septuagint and Vulgate, which also gave the animal one horn[^63][^64]. In Acts 12:4 the KJV has "Easter" for *pascha* (πάσχα, Passover), which it renders "Passover" in its 28 other occurrences[^65][^66].
+A few renderings are now regarded as mistakes. "Unicorn" (Numbers 23:22) translates the Hebrew *re'em* (רְאֵם, wild ox), a wild ox; the KJV followed the Septuagint and Vulgate, which also gave the animal one horn[^64][^65]. In Acts 12:4 the KJV has "Easter" for *pascha* (πάσχα, Passover), which it renders "Passover" in its 28 other occurrences[^66][^67].
 `
     },
     {
@@ -128,9 +128,9 @@ A few renderings are now regarded as mistakes. "Unicorn" (Numbers 23:22) transla
       title: "The New King James Version (1982)",
       tags: ["KJV debate"],
       content: `
-Thomas Nelson published the NKJV New Testament in 1979 and the full Bible in 1982. It updates the KJV's vocabulary and grammar while keeping its sentence structure and its Textus Receptus New Testament, so it is the only major modern version on that Greek text[^67][^68].
+Thomas Nelson published the NKJV New Testament in 1979 and the full Bible in 1982. It updates the KJV's vocabulary and grammar while keeping its sentence structure and its Textus Receptus New Testament, so it is the only major modern version on that Greek text[^68][^69].
 
-Its footnotes mark the places where the Critical Text and the Majority Text read differently from the Textus Receptus, which lets a reader of a TR-based Bible see the textual question directly[^69]. The Eastern Orthodox Church chose the NKJV New Testament for the *Orthodox Study Bible* because it follows the Byzantine-type text that the Orthodox Church uses[^70].
+Its footnotes mark the places where the Critical Text and the Majority Text read differently from the Textus Receptus, which lets a reader of a TR-based Bible see the textual question directly[^70]. The Eastern Orthodox Church chose the NKJV New Testament for the *Orthodox Study Bible* because it follows the Byzantine-type text that the Orthodox Church uses[^71].
 `
     },
     {
@@ -138,17 +138,17 @@ Its footnotes mark the places where the Critical Text and the Majority Text read
       title: "Literal Modern Versions: RV, RSV, NRSV, NASB, LSB and ESV",
       tags: ["Modern versions"],
       content: `
-- **The Revised Version** (1881-1885) and its American counterpart, the **American Standard Version** (1901), were the first official revisions of the KJV and the first English Bibles on a critical Greek text. Westcott and Hort sat on the revision committee[^71][^72].
-- **The Revised Standard Version** (1952), from the National Council of Churches, rendered Isaiah 7:14 as "a young woman shall conceive". The choice provoked fierce opposition, and in November 1952 a North Carolina pastor, Luther Hux, publicly burned the page[^73][^74].
+- **The Revised Version** (1881-1885) and its American counterpart, the **American Standard Version** (1901), were the first official revisions of the KJV and the first English Bibles on a critical Greek text. Westcott and Hort sat on the revision committee[^72][^73].
+- **The Revised Standard Version** (1952), from the National Council of Churches, rendered Isaiah 7:14 as "a young woman shall conceive". The choice provoked fierce opposition, and in November 1952 a North Carolina pastor, Luther Hux, publicly burned the page[^74][^75].
 
 <?viz bible-translations/family-tree?>
 
-- **The New Revised Standard Version** (1989) was produced by an ecumenical committee of about thirty under the motto "as literal as possible, as free as necessary", with a mandate to remove masculine-oriented language where it did not reflect the original setting. The Updated Edition (NRSVue) followed in 2021[^75][^76][^77].
-- **The New American Standard Bible** (1971; revised 1995 and 2020), from the Lockman Foundation, is widely regarded as the most literal of the major twentieth-century translations[^78][^79][^80].
-- **The Legacy Standard Bible** (2021) is a revision of the NASB 1995 by faculty of The Master's Seminary. It renders God's covenant name as "Yahweh" instead of "LORD"[^81][^82][^83].
-- **The English Standard Version** (2001) is Crossway's revision of the 1971 RSV by more than 100 evangelical scholars and pastors[^84][^85][^86].
+- **The New Revised Standard Version** (1989) was produced by an ecumenical committee of about thirty under the motto "as literal as possible, as free as necessary", with a mandate to remove masculine-oriented language where it did not reflect the original setting. The Updated Edition (NRSVue) followed in 2021[^76][^77][^78].
+- **The New American Standard Bible** (1971; revised 1995 and 2020), from the Lockman Foundation, is widely regarded as the most literal of the major twentieth-century translations[^79][^80][^81].
+- **The Legacy Standard Bible** (2021) is a revision of the NASB 1995 by faculty of The Master's Seminary. It renders God's covenant name as "Yahweh" instead of "LORD"[^82][^83][^84].
+- **The English Standard Version** (2001) is Crossway's revision of the 1971 RSV by more than 100 evangelical scholars and pastors[^85][^86][^87].
 
-The ESV shows that even a single translation keeps moving. In 2016 Crossway changed Genesis 3:16 from "your desire shall be for your husband" to "your desire shall be contrary to your husband" and announced that the text would never change again; the next month it dropped the permanent-text policy, and the 2025 edition restored the earlier wording[^87][^88][^89][^90].
+The ESV shows that even a single translation keeps moving. In 2016 Crossway changed Genesis 3:16 from "your desire shall be for your husband" to "your desire shall be contrary to your husband" and announced that the text would never change again; the next month it dropped the permanent-text policy, and the 2025 edition restored the earlier wording[^88][^89][^90][^91].
 `
     },
     {
@@ -156,13 +156,13 @@ The ESV shows that even a single translation keeps moving. In 2016 Crossway chan
       title: "The Middle of the Spectrum: NIV, CSB and NET",
       tags: ["Modern versions"],
       content: `
-**The New International Version** grew from a 1957 study by the National Association of Evangelicals and the Christian Reformed Church. The Committee on Bible Translation, a self-perpetuating body of fifteen evangelical scholars formed in 1965, published the New Testament in 1973 and the whole Bible in 1978, with revisions in 1984 and 2011[^91][^92][^93]. The NIV has long been the best-selling translation in the United States[^94]. Recent monthly ECPA rankings put the ESV, NIV, KJV and NLT as the four best-selling translations, with the ESV and NIV trading first place[^95][^96].
+**The New International Version** grew from a 1957 study by the National Association of Evangelicals and the Christian Reformed Church. The Committee on Bible Translation, a self-perpetuating body of fifteen evangelical scholars formed in 1965, published the New Testament in 1973 and the whole Bible in 1978, with revisions in 1984 and 2011[^92][^93][^94]. The NIV has long been the best-selling translation in the United States[^95]. Recent monthly ECPA rankings put the ESV, NIV, KJV and NLT as the four best-selling translations, with the ESV and NIV trading first place[^96][^97].
 
-The NIV is also the centre of the debate over gender language. Today's New International Version (2005) used gender-inclusive language for people, and both it and the 1984 NIV were withdrawn when the 2011 NIV replaced them[^97]. In June 2011 the Southern Baptist Convention passed a resolution saying the 2011 NIV kept about 75% of the TNIV's inaccurate gender language, and declining to commend it[^98][^99]. The translators reply that renderings such as "brothers and sisters" for *adelphoi* (ἀδελφοί, brothers) reflect what the Greek meant to its first hearers rather than changing it[^100].
+The NIV is also the centre of the debate over gender language. Today's New International Version (2005) used gender-inclusive language for people, and both it and the 1984 NIV were withdrawn when the 2011 NIV replaced them[^98]. In June 2011 the Southern Baptist Convention passed a resolution saying the 2011 NIV kept about 75% of the TNIV's inaccurate gender language, and declining to commend it[^99][^100]. The translators reply that renderings such as "brothers and sisters" for *adelphoi* (ἀδελφοί, brothers) reflect what the Greek meant to its first hearers rather than changing it[^101].
 
-**The Christian Standard Bible** (2017) is a major revision of the Holman Christian Standard Bible (2004), published by Holman and Lifeway and translated from the Nestle-Aland 28th edition by the "optimal equivalence" method[^101][^102][^103].
+**The Christian Standard Bible** (2017) is a major revision of the Holman Christian Standard Bible (2004), published by Holman and Lifeway and translated from the Nestle-Aland 28th edition by the "optimal equivalence" method[^102][^103][^104].
 
-**The New English Translation** (NET, 2005) was made by more than twenty scholars and carries 60,932 translators' notes explaining textual and translation choices. It is free to read and download[^104][^105][^106].
+**The New English Translation** (NET, 2005) was made by more than twenty scholars and carries 60,932 translators' notes explaining textual and translation choices. It is free to read and download[^105][^106][^107].
 `
     },
     {
@@ -170,11 +170,11 @@ The NIV is also the centre of the debate over gender language. Today's New Inter
       title: "Readable Versions and Paraphrases: NLT, GNT, The Message and the Amplified",
       tags: ["Modern versions"],
       content: `
-- **The Living Bible** (1971) is Kenneth Taylor's personal paraphrase of the 1901 American Standard Version, not a translation from the original languages[^107].
-- **The New Living Translation** (1996) began in 1989 as a revision of The Living Bible and became a new translation from the Hebrew and Greek by ninety scholars, with a second edition in 2004. Its translators aimed to render the text as literally as possible wherever that produced clear, natural English[^108][^109][^110][^111].
-- **The Good News Translation** (New Testament 1966, whole Bible 1976), from the American Bible Society, was built directly on Eugene Nida's dynamic equivalence theory[^112][^113].
-- **The Message** (1993-2002) is Eugene Peterson's idiomatic rendering from the original languages, reviewed by a team of scholars. It sits at the far dynamic end of the spectrum and has been criticised for loose handling of the text, including rendering *kyrios* (κύριος, Lord) as "Master" where Jesus is called Lord[^114][^115].
-- **The Amplified Bible** (1965), from the Lockman Foundation and Zondervan, adds bracketed "amplifications" that spell out shades of meaning, marked off from the translation itself[^116][^117][^118].
+- **The Living Bible** (1971) is Kenneth Taylor's personal paraphrase of the 1901 American Standard Version, not a translation from the original languages[^108].
+- **The New Living Translation** (1996) began in 1989 as a revision of The Living Bible and became a new translation from the Hebrew and Greek by ninety scholars, with a second edition in 2004. Its translators aimed to render the text as literally as possible wherever that produced clear, natural English[^109][^110][^111][^112].
+- **The Good News Translation** (New Testament 1966, whole Bible 1976), from the American Bible Society, was built directly on Eugene Nida's dynamic equivalence theory[^113][^114].
+- **The Message** (1993-2002) is Eugene Peterson's idiomatic rendering from the original languages, reviewed by a team of scholars. It sits at the far dynamic end of the spectrum and has been criticised for loose handling of the text, including rendering *kyrios* (κύριος, Lord) as "Master" where Jesus is called Lord[^115][^116].
+- **The Amplified Bible** (1965), from the Lockman Foundation and Zondervan, adds bracketed "amplifications" that spell out shades of meaning, marked off from the translation itself[^117][^118][^119].
 `
     },
     {
@@ -182,12 +182,12 @@ The NIV is also the centre of the debate over gender language. Today's New Inter
       title: "Catholic, Orthodox and Jewish Translations",
       tags: ["Other traditions"],
       content: `
-Catholic and Orthodox Bibles include the deuterocanonical books (Tobit, Judith, 1 and 2 Maccabees, Wisdom, Sirach, Baruch and additions to Esther and Daniel), which Protestant Bibles omit or print as Apocrypha. The history of that difference is covered under [the Canon](/categories/canon)[^119].
+Catholic and Orthodox Bibles include the deuterocanonical books (Tobit, Judith, 1 and 2 Maccabees, Wisdom, Sirach, Baruch and additions to Esther and Daniel), which Protestant Bibles omit or print as Apocrypha. The history of that difference is covered under [the Canon](/categories/canon)[^120].
 
-- **The New American Bible Revised Edition** (2011), approved by the United States Conference of Catholic Bishops, joins the 1986 New Testament to a fully revised Old Testament. American Masses still use a lectionary based on an earlier form of the NAB[^120][^121][^122].
-- **The Jerusalem Bible** (1966) was made from the French translation of the Dominican École Biblique in Jerusalem. J. R. R. Tolkien translated Jonah for it and is listed among its principal collaborators. It renders God's name as "Yahweh", a practice the Vatican asked to be dropped from the liturgy in 2008[^123]. The **New Jerusalem Bible** revised it in 1985[^124].
-- **The Orthodox Study Bible** (2008) translates the Old Testament from the Septuagint, the Old Testament of the Orthodox Church, rather than the Hebrew, and uses the NKJV for the New Testament[^125].
-- **The New JPS Tanakh** (1985), from the Jewish Publication Society, is a fresh Jewish translation of the Masoretic Text, replacing the society's 1917 version[^126].
+- **The New American Bible Revised Edition** (2011), approved by the United States Conference of Catholic Bishops, joins the 1986 New Testament to a fully revised Old Testament. American Masses still use a lectionary based on an earlier form of the NAB[^121][^122][^123].
+- **The Jerusalem Bible** (1966) was made from the French translation of the Dominican École Biblique in Jerusalem. J. R. R. Tolkien translated Jonah for it and is listed among its principal collaborators. It renders God's name as "Yahweh", a practice the Vatican asked to be dropped from the liturgy in 2008[^124]. The **New Jerusalem Bible** revised it in 1985[^125].
+- **The Orthodox Study Bible** (2008) translates the Old Testament from the Septuagint, the Old Testament of the Orthodox Church, rather than the Hebrew, and uses the NKJV for the New Testament[^126].
+- **The New JPS Tanakh** (1985), from the Jewish Publication Society, is a fresh Jewish translation of the Masoretic Text, replacing the society's 1917 version[^127].
 `
     },
     {
@@ -197,19 +197,19 @@ Catholic and Orthodox Bibles include the deuterocanonical books (Tobit, Judith, 
       content: `
 ### The New World Translation
 
-The Watch Tower Society published the New World Translation's New Testament in 1950 and the whole Bible in 1961, with a major revision in 2013. Its translators have never been publicly named[^127].
+The Watch Tower Society published the New World Translation's New Testament in 1950 and the whole Bible in 1961, with a major revision in 2013. Its translators have never been publicly named[^128].
 
-- **John 1:1** reads "the Word was a god"[^128]. In Greek the word *theos* (θεός, God) stands without the article and before the verb, which marks it as describing what the Word was, not as making him one god among several[^129]. Bruce Metzger of Princeton called the rendering a mistranslation and observed that "if the Jehovah's Witnesses take this translation seriously, they are polytheists"[^130].
-- **Colossians 1:16** reads "by means of him all other things were created". The word "other" has no counterpart in the Greek and turns Christ from the Creator of all things into the first of the things created[^131][^132].
-- The NWT also puts "Jehovah" into the New Testament 237 times where the Greek manuscripts have *kyrios* (κύριος, Lord) or *theos* (God)[^133][^134].
+- **John 1:1** reads "the Word was a god"[^129]. In Greek the word *theos* (θεός, God) stands without the article and before the verb, which marks it as describing what the Word was, not as making him one god among several[^130]. Bruce Metzger of Princeton called the rendering a mistranslation and observed that "if the Jehovah's Witnesses take this translation seriously, they are polytheists"[^131].
+- **Colossians 1:16** reads "by means of him all other things were created". The word "other" has no counterpart in the Greek and turns Christ from the Creator of all things into the first of the things created[^132][^133].
+- The NWT also puts "Jehovah" into the New Testament 237 times where the Greek manuscripts have *kyrios* (κύριος, Lord) or *theos* (God)[^134][^135].
 
 ### The Joseph Smith Translation
 
-Joseph Smith revised the KJV, mostly between 1830 and 1833, describing the work as the restoration of lost material. It adds whole passages, including the expansions of Genesis published as the Book of Moses, and labels the Song of Songs "not inspired writings". The Latter-day Saint church prints the KJV with selections from Smith's revision in its footnotes and appendix[^135][^136].
+Joseph Smith revised the KJV, mostly between 1830 and 1833, describing the work as the restoration of lost material. It adds whole passages, including the expansions of Genesis published as the Book of Moses, and labels the Song of Songs "not inspired writings". The Latter-day Saint church prints the KJV with selections from Smith's revision in its footnotes and appendix[^136][^137].
 
 ### The Passion Translation
 
-The Passion Translation, led by Brian Simmons (New Testament 2017), is marketed as a translation, but scholars have criticised it as a one-man paraphrase that adds material without support in the manuscripts[^137][^138][^139]. Bible Gateway removed it from its site in early 2022; its publisher said the licence was discontinued without explanation[^140][^141].
+The Passion Translation, led by Brian Simmons (New Testament 2017), is marketed as a translation, but scholars have criticised it as a one-man paraphrase that adds material without support in the manuscripts[^138][^139][^140]. Bible Gateway removed it from its site in early 2022; its publisher said the licence was discontinued without explanation[^141][^142].
 
 **See also:** [Jehovah's Witnesses (Other Religions)](/categories/religions#section-jehovahswitnesses), [Mormonism (LDS) (Other Religions)](/categories/religions#section-mormonism).
 `
@@ -219,15 +219,15 @@ The Passion Translation, led by Brian Simmons (New Testament 2017), is marketed 
       title: "Why Some Verses Are Missing or Bracketed",
       tags: ["Manuscripts", "Disputed verses"],
       content: `
-Lists of "verses removed from the NIV" circulate widely. The same verses are missing from the main text, or moved to footnotes, in the Revised Version of 1881 and the American Standard Version of 1901, so the change predates the NIV by nearly a century. These verses appear in the Textus Receptus but not in the oldest manuscripts[^142][^143].
+Lists of "verses removed from the NIV" circulate widely. The same verses are missing from the main text, or moved to footnotes, in the Revised Version of 1881 and the American Standard Version of 1901, so the change predates the NIV by nearly a century. These verses appear in the Textus Receptus but not in the oldest manuscripts[^143][^144].
 
-- **Mark 16:9-20.** Mark ends at 16:8 in the two oldest complete manuscripts of the Gospel, Codex Sinaiticus and Codex Vaticanus. Most modern versions print the longer ending in brackets or with a note instead of dropping it[^144][^145][^146].
-- **John 7:53-8:11** (the woman caught in adultery) is absent from 𝔓66 and 𝔓75, from around AD 200, and from Sinaiticus and Vaticanus. There is a broad scholarly consensus that it was added later, although fourth-century fathers such as Ambrose and Augustine already quote it, and the Catholic Church receives it as canonical[^147][^148].
-- **1 John 5:7-8** (the Comma Johanneum, "the Father, the Word, and the Holy Ghost: and these three are one") is found mainly in Latin manuscripts. Its earliest Greek witness dates from the fourteenth century, and Erasmus added it only to his third edition in 1522, under pressure, while doubting it[^149][^150][^151].
-- **Acts 8:37** (the Ethiopian's confession) is absent from the early manuscripts and entered the Textus Receptus through Erasmus, who found it in a late source[^152][^153][^154].
-- **Revelation 22:19.** Erasmus's only manuscript of Revelation lacked the final six verses, so he translated them back into Greek from the Latin Vulgate. The KJV's "book of life" in 22:19, against "tree of life" in the Greek manuscripts, comes from that back-translation[^155][^156][^157].
+- **Mark 16:9-20.** Mark ends at 16:8 in the two oldest complete manuscripts of the Gospel, Codex Sinaiticus and Codex Vaticanus. Most modern versions print the longer ending in brackets or with a note instead of dropping it[^145][^146][^147].
+- **John 7:53-8:11** (the woman caught in adultery) is absent from 𝔓66 and 𝔓75, from around AD 200, and from Sinaiticus and Vaticanus. There is a broad scholarly consensus that it was added later, although fourth-century fathers such as Ambrose and Augustine already quote it, and the Catholic Church receives it as canonical[^148][^149].
+- **1 John 5:7-8** (the Comma Johanneum, "the Father, the Word, and the Holy Ghost: and these three are one") is found mainly in Latin manuscripts. Its earliest Greek witness dates from the fourteenth century, and Erasmus added it only to his third edition in 1522, under pressure, while doubting it[^150][^151][^152].
+- **Acts 8:37** (the Ethiopian's confession) is absent from the early manuscripts and entered the Textus Receptus through Erasmus, who found it in a late source[^153][^154][^155].
+- **Revelation 22:19.** Erasmus's only manuscript of Revelation lacked the final six verses, so he translated them back into Greek from the Latin Vulgate. The KJV's "book of life" in 22:19, against "tree of life" in the Greek manuscripts, comes from that back-translation[^156][^157][^158].
 
-No doctrine depends on these passages. The Trinity, for example, is taught throughout the New Testament without the Comma Johanneum (Matthew 28:19; 2 Corinthians 13:14)[^158].
+No doctrine depends on these passages. The Trinity, for example, is taught throughout the New Testament without the Comma Johanneum (Matthew 28:19; 2 Corinthians 13:14)[^159].
 
 **See also:** [Historical Development and Heresies (The Trinity)](/categories/trinity#section-history-and-heresies).
 `
@@ -239,19 +239,19 @@ No doctrine depends on these passages. The Trinity, for example, is taught throu
       content: `
 ### Isaiah 7:14: "virgin" or "young woman"?
 
-The Hebrew word is *almah* (עַלְמָה, young woman), a young woman of marriageable age. Hebrew has a more specific word for virgin, *bethulah* (בְּתוּלָה, virgin), which Isaiah did not use[^159][^160]. The Jewish translators of the Septuagint, two centuries before Christ, rendered *almah* here as *parthenos* (παρθένος, virgin), "virgin", and Matthew 1:23 quotes that reading[^161][^162]. The KJV, NKJV, NASB, ESV, NIV, CSB and NLT have "virgin"; the RSV, NRSV and NET have "young woman"[^163][^164]. The wider argument is covered under [Prophecy](/categories/prophecy).
+The Hebrew word is *almah* (עַלְמָה, young woman), a young woman of marriageable age. Hebrew has a more specific word for virgin, *bethulah* (בְּתוּלָה, virgin), which Isaiah did not use[^160][^161]. The Jewish translators of the Septuagint, two centuries before Christ, rendered *almah* here as *parthenos* (παρθένος, virgin), "virgin", and Matthew 1:23 quotes that reading[^162][^163]. The KJV, NKJV, NASB, ESV, NIV, CSB and NLT have "virgin"; the RSV, NRSV and NET have "young woman"[^164][^165]. The wider argument is covered under [Prophecy](/categories/prophecy).
 
 ### Psalm 22:16: "they pierced my hands and my feet"
 
-Most manuscripts of the Masoretic Text read *ka'ari* (כָּאֲרִי, like a lion), "like a lion, my hands and my feet", which leaves the sentence without a verb. The Septuagint, translated before the Christian era, reads "they dug" (pierced). A Dead Sea fragment from Nahal Hever spells the word *ka'aru*, which supports a verb, although the same scribe misspells other words in the line[^165][^166]. Nearly every English version reads "pierced"; the NET has "like a lion they pin my hands and feet"[^167].
+Most manuscripts of the Masoretic Text read *ka'ari* (כָּאֲרִי, like a lion), "like a lion, my hands and my feet", which leaves the sentence without a verb. The Septuagint, translated before the Christian era, reads "they dug" (pierced). A Dead Sea fragment from Nahal Hever spells the word *ka'aru*, which supports a verb, although the same scribe misspells other words in the line[^166][^167]. Nearly every English version reads "pierced"; the NET has "like a lion they pin my hands and feet"[^168].
 
 ### Deuteronomy 22:28: "rapes her" or "seizes her"?
 
-In verse 25 the man overpowers a betrothed woman in the open country, and he alone is put to death. The verb is *chazaq* (חָזַק, overpower), "to overpower, force"[^168][^169]. Verse 28 switches to *taphas* (תָּפַשׂ, seize), "to seize, take hold of"[^170]. The NIV, CSB and NET render verse 28 "rapes her"; the ESV, NASB, LSB and NKJV keep "seizes her and lies with her", and the KJV has "lay hold on her, and lie with her"[^171]. The more literal versions preserve the change of verb, which leaves open the reading that verse 28 parallels the seduction law of Exodus 22:16-17, where the father may refuse the marriage altogether[^172][^173]. The full discussion is under [Women](/categories/women).
+In verse 25 the man overpowers a betrothed woman in the open country, and he alone is put to death. The verb is *chazaq* (חָזַק, overpower), "to overpower, force"[^169][^170]. Verse 28 switches to *taphas* (תָּפַשׂ, seize), "to seize, take hold of"[^171]. The NIV, CSB and NET render verse 28 "rapes her"; the ESV, NASB, LSB and NKJV keep "seizes her and lies with her", and the KJV has "lay hold on her, and lie with her"[^172]. The more literal versions preserve the change of verb, which leaves open the reading that verse 28 parallels the seduction law of Exodus 22:16-17, where the father may refuse the marriage altogether[^173][^174]. The full discussion is under [Women](/categories/women).
 
 ### John 1:18: modern versions and the deity of Christ
 
-The KJV and NKJV read "the only begotten Son", following later manuscripts. The oldest manuscripts read *monogenēs theos* (μονογενὴς θεός, only God), "the only God" or "God the One and Only", so the NASB, LSB, ESV, NIV, CSB and NLT name the Son as God in this verse more directly than the KJV does[^174][^175]. The ESV's 2025 edition changed its rendering from "the only God" to "God the only Son"[^176][^177].
+The KJV and NKJV read "the only begotten Son", following later manuscripts. The oldest manuscripts read *monogenēs theos* (μονογενὴς θεός, only God), "the only God" or "God the One and Only", so the NASB, LSB, ESV, NIV, CSB and NLT name the Son as God in this verse more directly than the KJV does[^175][^176]. The ESV's 2025 edition changed its rendering from "the only God" to "God the only Son"[^177][^178].
 
 **See also:** [Linguistic Analysis: Arsenokoitai and Malakoi (Homosexuality)](/categories/homosexuality#section-greek-terms), [Virgin Birth Prophecy (Prophecy)](/categories/prophecy#section-virgin-birth), [Deuteronomy 22 and the Laws on Sexual Violence (Women)](/categories/women#section-sexual-violence-laws).
 `
@@ -261,22 +261,22 @@ The KJV and NKJV read "the only begotten Son", following later manuscripts. The 
       title: "The King James Only Debate",
       tags: ["KJV debate"],
       content: `
-The King James Only movement holds that the KJV, or the Textus Receptus behind it, is the only faithful English Bible[^178]. Its modern form traces to *Our Authorized Bible Vindicated* (1930) by the Seventh-day Adventist Benjamin Wilkinson[^179]. The most radical wing follows the Baptist Peter Ruckman (1921-2016), who taught that the English KJV is "advanced revelation" that corrects the Greek, a view most KJV advocates reject[^180]. Gail Riplinger's *New Age Bible Versions* (1993) alleged that the NIV, NASB and even the NKJV were linked to the New Age movement[^181].
+The King James Only movement holds that the KJV, or the Textus Receptus behind it, is the only faithful English Bible[^179]. Its modern form traces to *Our Authorized Bible Vindicated* (1930) by the Seventh-day Adventist Benjamin Wilkinson[^180]. The most radical wing follows the Baptist Peter Ruckman (1921-2016), who taught that the English KJV is "advanced revelation" that corrects the Greek, a view most KJV advocates reject[^181]. Gail Riplinger's *New Age Bible Versions* (1993) alleged that the NIV, NASB and even the NKJV were linked to the New Age movement[^182].
 
-James White divides the movement into five positions, from those who simply prefer the KJV to those who treat it as new revelation. Only the later positions deny that other translations are the word of God[^182].
+James White divides the movement into five positions, from those who simply prefer the KJV to those who treat it as new revelation. Only the later positions deny that other translations are the word of God[^183].
 
 ### The case for the Textus Receptus
 
-The serious argument concerns the text, not the English. Its defenders, from John Burgon in the nineteenth century to Edward Hills in the twentieth, argue that God's providential preservation of Scripture (the Westminster Confession's "kept pure in all ages") points to the text the church actually used for centuries, which is the Byzantine text found in the great majority of manuscripts[^183][^184][^185]. Psalm 12:6-7, "thou shalt preserve them from this generation for ever", is often cited as a promise to preserve the words.
+The serious argument concerns the text, not the English. Its defenders, from John Burgon in the nineteenth century to Edward Hills in the twentieth, argue that God's providential preservation of Scripture (the Westminster Confession's "kept pure in all ages") points to the text the church actually used for centuries, which is the Byzantine text found in the great majority of manuscripts[^184][^185][^186]. Psalm 12:6-7, "thou shalt preserve them from this generation for ever", is often cited as a promise to preserve the words.
 
 ### The responses
 
-- **Psalm 12:7.** The pronoun "them" in the Hebrew is masculine, and "words" in verse 6 is feminine. The verse therefore promises to keep the afflicted poor of verse 5, as John Gill (a strong defender of the Hebrew text) points out, and as the ESV, NIV and CSB render it[^186][^187].
-- **The translators' own view.** The KJV translators wrote that "the very meanest translation of the Bible in English, set forth by men of our profession... containeth the word of God, nay, is the word of God"[^188].
-- **Which Textus Receptus, and which KJV?** The editions of Erasmus, Stephanus and Beza differ from one another in hundreds of places, and the KJV translators chose between them. The printed KJV has itself been revised, by Cambridge in 1629 and 1638 and by Oxford in 1769[^189][^190].
-- **The age of the evidence.** Erasmus's first edition rested on about eight Greek manuscripts, none of them early, and in places, as in Revelation 22, on no Greek manuscript at all[^191].
+- **Psalm 12:7.** The pronoun "them" in the Hebrew is masculine, and "words" in verse 6 is feminine. The verse therefore promises to keep the afflicted poor of verse 5, as John Gill (a strong defender of the Hebrew text) points out, and as the ESV, NIV and CSB render it[^187][^188].
+- **The translators' own view.** The KJV translators wrote that "the very meanest translation of the Bible in English, set forth by men of our profession... containeth the word of God, nay, is the word of God"[^189].
+- **Which Textus Receptus, and which KJV?** The editions of Erasmus, Stephanus and Beza differ from one another in hundreds of places, and the KJV translators chose between them. The printed KJV has itself been revised, by Cambridge in 1629 and 1638 and by Oxford in 1769[^190][^191].
+- **The age of the evidence.** Erasmus's first edition rested on about eight Greek manuscripts, none of them early, and in places, as in Revelation 22, on no Greek manuscript at all[^192][^193].
 
-Preferring the KJV for its language, its liturgical history or its textual base is a legitimate choice. The claim that every other translation is corrupt goes beyond what the evidence, and the KJV translators themselves, support[^192][^193].
+Preferring the KJV for its language, its liturgical history or its textual base is a legitimate choice. The claim that every other translation is corrupt goes beyond what the evidence, and the KJV translators themselves, support[^194][^195].
 `
     },
     {
@@ -284,11 +284,11 @@ Preferring the KJV for its language, its liturgical history or its textual base 
       title: "Which Translation Is Closest to the Original?",
       tags: ["Method"],
       content: `
-"Closest to the original" can mean closest to its form or closest to its meaning, and no single translation wins on both counts[^194].
+"Closest to the original" can mean closest to its form or closest to its meaning, and no single translation wins on both counts[^196].
 
-- **For close study:** the NASB, LSB, ESV and NKJV keep nearest to the wording of the Hebrew and Greek. The NET's notes explain the textual and translation choices behind each verse[^195].
+- **For close study:** the NASB, LSB, ESV and NKJV keep nearest to the wording of the Hebrew and Greek. The NET's notes explain the textual and translation choices behind each verse[^197].
 - **For reading and devotion:** the CSB and NIV balance accuracy and readability; the NLT is the most readable of the committee translations.
-- **For comparison:** setting two versions from different points on the spectrum side by side shows where the original is ambiguous and where a translator has made a decision[^196].
+- **For comparison:** setting two versions from different points on the spectrum side by side shows where the original is ambiguous and where a translator has made a decision[^198].
 - **For doctrine:** paraphrases such as The Message and The Passion Translation are unsuitable, and the New World Translation and the Joseph Smith Translation alter texts to fit a theology.
 
 Any mainstream translation, Protestant or Catholic, formal or functional, teaches the same gospel, the same Christ and the same way of salvation. The differences between them are real, and the footnotes in most editions show where they lie.
@@ -299,15 +299,15 @@ Any mainstream translation, Protestant or Catholic, formal or functional, teache
       title: "Common Objections",
       tags: ["Objections"],
       content: `
-**"The Bible has been translated so many times it is like a game of telephone."** Modern translations are not translations of translations. Each goes back to the Hebrew and Greek, and the surviving manuscripts can be compared directly; thousands have been photographed and published online[^197].
+**"The Bible has been translated so many times it is like a game of telephone."** Modern translations are not translations of translations. Each goes back to the Hebrew and Greek, and the surviving manuscripts can be compared directly; thousands have been photographed and published online[^199].
 
-**"Modern versions remove verses to hide the deity of Christ."** The omitted verses are absent from the oldest manuscripts, not deleted for doctrinal reasons, and several modern versions call Christ "God" more directly than the KJV does, as in John 1:18[^198].
+**"Modern versions remove verses to hide the deity of Christ."** The omitted verses are absent from the oldest manuscripts, not deleted for doctrinal reasons, and several modern versions call Christ "God" more directly than the KJV does, as in John 1:18[^200].
 
-**"Translators are biased."** Every translator brings convictions, which is why the major versions are made by committees, often from several denominations, and publish their textual basis and method. The sectarian versions are the exception: the NWT's translators remain anonymous[^199].
+**"Translators are biased."** Every translator brings convictions, which is why the major versions are made by committees, often from several denominations, and publish their textual basis and method. The sectarian versions are the exception: the NWT's translators remain anonymous[^201].
 
-**"Which Bible did Jesus use?"** Jesus read the Hebrew Scriptures, and the New Testament writers often quote the Greek Septuagint, a translation, as the word of God[^200].
+**"Which Bible did Jesus use?"** Jesus read the Hebrew Scriptures, and the New Testament writers often quote the Greek Septuagint, a translation, as the word of God[^202][^203].
 
-**"If translations differ, how can Scripture be inerrant?"** Inerrancy has always been claimed for the original writings, not for any copy or translation. Textual criticism exists to recover those writings as closely as possible, and the variants that remain affect no doctrine of the faith[^201].
+**"If translations differ, how can Scripture be inerrant?"** Inerrancy has always been claimed for the original writings, not for any copy or translation. Textual criticism exists to recover those writings as closely as possible, and the variants that remain affect no doctrine of the faith[^204].
 `
     },
   ],
@@ -362,157 +362,160 @@ Any mainstream translation, Protestant or Catholic, formal or functional, teache
     "48. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Douay Bible.' https://www.newadvent.org/cathen/05140a.htm",
     "49. [Primary Source] Bible Gateway. Douay-Rheims 1899 American Edition (DRA), version information. https://www.biblegateway.com/versions/Douay-Rheims-1899-American-Edition-DRA-Bible/",
     "50. [Wikipedia] Hampton Court Conference. Rainolds' proposal of a new translation. https://en.wikipedia.org/wiki/Hampton_Court_Conference",
-    "51. [Academic] Stine. The King James Version Then and Now. Review & Expositor, 2011. https://doi.org/10.1177/003463731110800205",
-    "52. [Primary Source] Bible Gateway. King James Version (KJV), version information. https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/",
-    "53. [Wikipedia] Bishops' Bible. The 1602 edition prescribed as the base text of the KJV. https://en.wikipedia.org/wiki/Bishops%27_Bible",
-    "54. [Apologetics] GotQuestions.org. What is the King James Version (KJV)? The translators' stated purpose. https://www.gotquestions.org/King-James-Version-KJV.html",
-    "55. [Academic] Jon Nielson. How Much of the King James Bible Is William Tyndale's?. Reformation, 1998. https://doi.org/10.1179/ref_1998_3_1_004",
-    "56. [Wikipedia] King James Version: source texts. https://en.wikipedia.org/wiki/King_James_Version#Source_texts",
-    "57. [Wikipedia] Textus Receptus: English translations from the Textus Receptus. https://en.wikipedia.org/wiki/Textus_Receptus#English_translations_from_the_Textus_Receptus",
-    "58. [Wikipedia] King James Version: marginal notes. https://en.wikipedia.org/wiki/King_James_Version#Marginal_notes",
-    "59. [Primary Source] CCEL. The Translators to the Reader (1611), part 10: reasons for setting diversity of senses in the margin. https://ccel.org/bible/kjv/preface/pref10.htm",
-    "60. [Wikipedia] King James Version: standard text of 1769. https://en.wikipedia.org/wiki/King_James_Version#Standard_text_of_1769",
-    "61. [Commentary] Bible Hub. 2 Thessalonians 2:7 in parallel translations. https://biblehub.com/2_thessalonians/2-7.htm",
-    "62. [Commentary] Bible Hub. 1 Thessalonians 4:15 in parallel translations. https://biblehub.com/1_thessalonians/4-15.htm",
-    "63. [Lexicon] Bible Hub. Hebrew 7214, re'em (wild ox). https://biblehub.com/hebrew/7214.htm",
-    "64. [Commentary] Bible Hub. Numbers 23:22 in parallel translations. https://biblehub.com/numbers/23-22.htm",
-    "65. [Lexicon] Bible Hub. Greek 3957, pascha (Passover), 29 occurrences. https://biblehub.com/greek/3957.htm",
-    "66. [Commentary] Bible Hub. Acts 12:4 in parallel translations. https://biblehub.com/acts/12-4.htm",
-    "67. [Apologetics] GotQuestions.org. What is the New King James Version (NKJV)? https://www.gotquestions.org/New-King-James-Version-NKJV.html",
-    "68. [Wikipedia] New King James Version. https://en.wikipedia.org/wiki/New_King_James_Version",
-    "69. [Primary Source] Bible Gateway. New King James Version (NKJV), version information. https://www.biblegateway.com/versions/New-King-James-Version-NKJV-Bible/",
-    "70. [Wikipedia] Orthodox Study Bible. Why the NKJV New Testament was chosen. https://en.wikipedia.org/wiki/Orthodox_Study_Bible",
-    "71. [Wikipedia] Revised Version. The 1881-1885 revision and Westcott and Hort. https://en.wikipedia.org/wiki/Revised_Version",
-    "72. [Primary Source] 'Anonymous (Bible): American Standard Version of the Holy Bible (1901).' Christian Classics Ethereal Library. https://www.ccel.org/ccel/bible/asv.ii.html",
-    "73. [Academic] 'Luther Allan Weigle - Database: Christian Educators of the 20th Century - Biola University.' Biola University. https://www.biola.edu/talbot/ce20/database/luther-allan-weigle",
-    "74. [Apologetics] GotQuestions.org. What is the Revised Standard Version (RSV)? https://www.gotquestions.org/Revised-Standard-Version-RSV.html",
-    "75. [Wikipedia] New Revised Standard Version. Mandate, motto and gender language. https://en.wikipedia.org/wiki/New_Revised_Standard_Version",
-    "76. [Apologetics] GotQuestions.org. What is the New Revised Standard Version (NRSV)? https://www.gotquestions.org/New-Revised-Standard-Version-NRSV.html",
-    "77. [Primary Source] Bible Gateway. New Revised Standard Version Updated Edition (NRSVue), version information. https://www.biblegateway.com/versions/New-Revised-Standard-Version-Updated-Edition-NRSVue-Bible/",
-    "78. [Reference] The Lockman Foundation. New American Standard Bible. https://www.lockman.org/new-american-standard-bible-nasb/",
-    "79. [Apologetics] GotQuestions.org. What is the New American Standard Bible (NASB)? https://www.gotquestions.org/New-American-Standard-Bible-NASB.html",
-    "80. [Reference] The Lockman Foundation. NASB 2020. https://www.lockman.org/nasb-2020/",
-    "81. [Wikipedia] Legacy Standard Bible. https://en.wikipedia.org/wiki/Legacy_Standard_Bible",
-    "82. [Apologetics] GotQuestions.org. What is the Legacy Standard Bible (LSB)? https://www.gotquestions.org/Legacy-Standard-Bible-LSB.html",
-    "83. [Commentary] Three Sixteen Publishing. Legacy Standard Bible. https://lsbible.org/",
-    "84. [Wikipedia] English Standard Version. Origin as a revision of the 1971 RSV. https://en.wikipedia.org/wiki/English_Standard_Version",
-    "85. [Apologetics] GotQuestions.org. What is the English Standard Version (ESV)? https://www.gotquestions.org/English-Standard-Version-ESV.html",
-    "86. [Primary Source] Bible Gateway. English Standard Version (ESV), version information. https://www.biblegateway.com/versions/English-Standard-Version-ESV-Bible/",
-    "87. [Wikipedia] English Standard Version: 2016 text edition and the abandoned permanent-text policy. https://en.wikipedia.org/wiki/English_Standard_Version#2016_text_edition",
-    "88. [News] Christian Post. ESV Bible update includes 68 word edits, reverts Genesis 3:16 translation to 2001 wording. https://assets.christianpost.com/news/esv-bible-update-reverts-genesis-316-translation-to-2001-wording.html",
-    "89. [Lexicon] Bible Hub. Hebrew 8669, teshuqah (desire, longing). https://biblehub.com/hebrew/8669.htm",
-    "90. [Commentary] Bible Hub. Genesis 3:16 in parallel translations. https://biblehub.com/genesis/3-16.htm",
-    "91. [Reference] TheNIVBible.com. NIV frequently asked questions: the Committee on Bible Translation. https://www.thenivbible.com/faqs/",
-    "92. [Apologetics] GotQuestions.org. What is the New International Version (NIV)? https://www.gotquestions.org/New-International-Version-NIV.html",
-    "93. [Primary Source] Bible Gateway. New International Version (NIV), version information. https://www.biblegateway.com/versions/New-International-Version-NIV-Bible/",
-    "94. [Wikipedia] New International Version. Origins and US sales. https://en.wikipedia.org/wiki/New_International_Version",
-    "95. [Reference] ECPA / Christian Book Expo. Bible Translations Bestsellers, February 2025. https://christianbookexpo.com/bestseller/translations.php?id=0225",
-    "96. [Reference] ECPA / Christian Book Expo. Bible Translations Bestsellers, June 2024. https://christianbookexpo.com/bestseller/translations.php?id=0624",
-    "97. [Wikipedia] Today's New International Version. Gender language and discontinuation in 2011. https://en.wikipedia.org/wiki/Today%27s_New_International_Version",
-    "98. [Primary Source] Bible Research. Southern Baptist Convention resolution on the 2011 NIV (text). https://bible-researcher.com/niv.2011.sbc.html",
-    "99. [News] Baptist News Global. Southern Baptists cannot commend new NIV Bible translation. https://baptistnews.com/article/southern-baptists-cannot-commend-new-niv-bible-translation/",
-    "100. [Reference] TheNIVBible.com. Is the NIV gender-neutral? https://thenivbible.com/niv-gender-neutral/",
-    "101. [Wikipedia] Christian Standard Bible. Revision of the HCSB and its textual basis. https://en.wikipedia.org/wiki/Christian_Standard_Bible",
-    "102. [Apologetics] GotQuestions.org. What is the Christian Standard Bible (CSB)? https://www.gotquestions.org/Christian-Standard-Bible-CSB.html",
-    "103. [Primary Source] Bible Gateway. Christian Standard Bible (CSB), version information. https://www.biblegateway.com/versions/Christian-Standard-Bible-CSB/",
-    "104. [Wikipedia] New English Translation. 60,932 translators' notes. https://en.wikipedia.org/wiki/New_English_Translation",
-    "105. [Commentary] NET Bible (Biblical Studies Press). https://netbible.org/",
-    "106. [Primary Source] Bible Gateway. New English Translation (NET), version information. https://www.biblegateway.com/versions/New-English-Translation-NET-Bible/",
-    "107. [Wikipedia] The Living Bible: origin and base text. https://en.wikipedia.org/wiki/The_Living_Bible#Origin",
-    "108. [Wikipedia] New Living Translation. From Living Bible revision to new translation. https://en.wikipedia.org/wiki/New_Living_Translation",
-    "109. [Reference] Tyndale House. NLT translation process. https://sites.tyndale.com/nlt/translation-process/",
-    "110. [Apologetics] GotQuestions.org. What is the New Living Translation (NLT)? https://www.gotquestions.org/New-Living-Translation-NLT.html",
-    "111. [Primary Source] Bible Gateway. New Living Translation (NLT), version information. https://www.biblegateway.com/versions/New-Living-Translation-NLT-Bible/",
-    "112. [Academic] Burke. The 1992 Revision of the Good News Bible: The Context for Revision. The Bible Translator, 2018. https://doi.org/10.1177/2051677018796127",
-    "113. [Primary Source] Bible Gateway. Good News Translation (GNT), version information. https://www.biblegateway.com/versions/Good-News-Translation-GNT-Bible/",
-    "114. [Wikipedia] The Message (Bible). Peterson's method and criticism. https://en.wikipedia.org/wiki/The_Message_(Bible)",
-    "115. [Primary Source] Bible Gateway. The Message (MSG), version information. https://www.biblegateway.com/versions/Message-MSG-Bible/",
-    "116. [Reference] The Lockman Foundation. Amplified Bible. https://www.lockman.org/amplified-bible-amp/",
-    "117. [Apologetics] GotQuestions.org. What is the Amplified Bible (AMP)? https://www.gotquestions.org/Amplified-Bible-AMP.html",
-    "118. [Primary Source] Bible Gateway. Amplified Bible (AMP), version information. https://www.biblegateway.com/versions/Amplified-Bible-AMP/",
-    "119. [Apologetics] GotQuestions.org. What is the New American Bible (NAB)? Deuterocanonical books in Catholic Bibles. https://www.gotquestions.org/New-American-Bible-NAB.html",
-    "120. [Wikipedia] New American Bible Revised Edition. https://en.wikipedia.org/wiki/New_American_Bible_Revised_Edition",
-    "121. [Primary Source] United States Conference of Catholic Bishops. The Bible (NABRE). https://bible.usccb.org/",
-    "122. [Primary Source] Bible Gateway. New American Bible (Revised Edition) (NABRE), version information. https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/",
-    "123. [Wikipedia] Jerusalem Bible. The French original, Tolkien's Jonah and the name Yahweh. https://en.wikipedia.org/wiki/Jerusalem_Bible",
-    "124. [Wikipedia] New Jerusalem Bible. https://en.wikipedia.org/wiki/New_Jerusalem_Bible",
-    "125. [Wikipedia] Orthodox Study Bible: translation. https://en.wikipedia.org/wiki/Orthodox_Study_Bible#Translation",
-    "126. [Wikipedia] New Jewish Publication Society of America Tanakh. https://en.wikipedia.org/wiki/New_Jewish_Publication_Society_of_America_Tanakh",
-    "127. [Wikipedia] New World Translation. Publication history and revisions. https://en.wikipedia.org/wiki/New_World_Translation",
-    "128. [Primary Source] Watch Tower Society. John 1, New World Translation. https://www.jw.org/en/library/bible/study-bible/books/john/1/",
-    "129. [Commentary] Bible Hub. Commentaries on John 1:1 (the anarthrous theos as predicate). https://biblehub.com/commentaries/john/1-1.htm",
-    "130. [Apologetics] Christian Research Institute. John 1:1 and the New World Translation (quoting Metzger, Theology Today, 1953). https://www.equip.org/articles/john-11-and-the-new-world-translation/",
-    "131. [Primary Source] Watch Tower Society. Colossians 1, New World Translation. https://www.jw.org/en/library/bible/study-bible/books/colossians/1/",
-    "132. [Apologetics] GotQuestions.org. Is the New World Translation a valid version of the Bible? https://www.gotquestions.org/New-World-Translation.html",
-    "133. [Wikipedia] New World Translation: use of the name Jehovah. https://en.wikipedia.org/wiki/New_World_Translation#Use_of_the_name_Jehovah",
-    "134. [Apologetics] Christian Research Institute. Is the New World Translation of the Bible credible? https://www.equip.org/bible_answers/is-the-new-world-translation-of-the-bible-credible/",
-    "135. [Wikipedia] Joseph Smith Translation of the Bible. https://en.wikipedia.org/wiki/Joseph_Smith_Translation_of_the_Bible",
-    "136. [Primary Source] The Church of Jesus Christ of Latter-day Saints. Joseph Smith Translation (scriptures). https://www.churchofjesuschrist.org/study/scriptures/jst?lang=eng",
-    "137. [Wikipedia] The Passion Translation. Criticism and removal from Bible Gateway. https://en.wikipedia.org/wiki/The_Passion_Translation",
-    "138. [Apologetics] GotQuestions.org. What is the Passion Translation of the Bible? https://www.gotquestions.org/Passion-Translation.html",
-    "139. [Reference] BroadStreet Publishing. The Passion Translation. https://www.thepassiontranslation.com/",
-    "140. [News] ChurchLeaders. Bible Gateway Removes The Passion Translation From Site. https://churchleaders.com/news/416894-bible-gateway-removes-the-passion-translation-from-site.html",
-    "141. [News] The Roys Report. Bible Gateway pulls controversial Passion Translation. https://roysreport.com/bible-gateway-pulls-controversial-passion-translation/",
-    "142. [Wikipedia] List of New Testament verses not included in modern English translations. https://en.wikipedia.org/wiki/List_of_New_Testament_verses_not_included_in_modern_English_translations",
-    "143. [Apologetics] The Gospel Coalition (Justin Taylor). Why does the King James Bible have some different verses than modern translations? https://www.thegospelcoalition.org/blogs/justin-taylor/why-does-the-king-james-bible-have-some-different-verses-than-modern-translations/",
-    "144. [Wikipedia] Mark 16. Manuscript evidence for the endings of Mark. https://en.wikipedia.org/wiki/Mark_16",
-    "145. [Apologetics] GotQuestions.org. Should Mark 16:9-20 be in the Bible? https://www.gotquestions.org/Mark-16-9-20.html",
-    "146. [Commentary] Bible Hub. Commentaries on Mark 16:9. https://biblehub.com/commentaries/mark/16-9.htm",
-    "147. [Academic] 'Earth Accuses Earth: Tracing What Jesus Wrote on the Ground | Harvard Theological Review | Cambridge Core.' Cambridge University Press. https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/earth-accuses-earth-tracing-what-jesus-wrote-on-the-ground/8BDE7EA273824F86F601C64CED2F2F7F",
-    "148. [Commentary] Bible Hub. Commentaries on John 7:53. https://biblehub.com/commentaries/john/7-53.htm",
-    "149. [Wikipedia] Comma Johanneum. Latin origin, Greek witnesses and Erasmus. https://en.wikipedia.org/wiki/Comma_Johanneum",
-    "150. [Commentary] Bible Hub. Commentaries on 1 John 5:7 (Barnes, Cambridge on the manuscript evidence). https://biblehub.com/commentaries/1_john/5-7.htm",
-    "151. [Commentary] NET Bible. 1 John 5, with translators' note on the Comma Johanneum. https://netbible.org/bible/1+John+5",
-    "152. [Wikipedia] List of New Testament verses not included in modern English translations: Acts 8:37. https://en.wikipedia.org/wiki/List_of_New_Testament_verses_not_included_in_modern_English_translations#Acts_8:37",
-    "153. [Commentary] Bible Hub. Commentaries on Acts 8:37. https://biblehub.com/commentaries/acts/8-37.htm",
-    "154. [Commentary] Bible Hub. Acts 8:37 in parallel translations. https://biblehub.com/acts/8-37.htm",
-    "155. [Wikipedia] Novum Instrumentum omne. Erasmus's back-translation of Revelation 22 from the Vulgate. https://en.wikipedia.org/wiki/Novum_Instrumentum_omne",
-    "156. [Commentary] Bible Hub. Revelation 22:19 in parallel translations. https://biblehub.com/revelation/22-19.htm",
-    "157. [Commentary] Bible Hub. Commentaries on Revelation 22:19. https://biblehub.com/commentaries/revelation/22-19.htm",
-    "158. [Apologetics] GotQuestions.org. What is the Comma Johanneum (1 John 5:7-8)? The Trinity taught without it. https://www.gotquestions.org/Comma-Johanneum.html",
-    "159. [Lexicon] Bible Hub. Hebrew 5959, almah (young woman, maiden). https://biblehub.com/hebrew/5959.htm",
-    "160. [Lexicon] Bible Hub. Hebrew 1330, bethulah (virgin). https://biblehub.com/hebrew/1330.htm",
-    "161. [Lexicon] Bible Hub. Greek 3933, parthenos (virgin). https://biblehub.com/greek/3933.htm",
-    "162. [Wikipedia] Isaiah 7:14. The Septuagint's parthenos and Matthew's use of it. https://en.wikipedia.org/wiki/Isaiah_7:14",
-    "163. [Commentary] Bible Hub. Isaiah 7:14 in parallel translations. https://biblehub.com/isaiah/7-14.htm",
-    "164. [Commentary] Bible Hub. Commentaries on Isaiah 7:14. https://biblehub.com/commentaries/isaiah/7-14.htm",
-    "165. [Wikipedia] They have pierced my hands and my feet. Masoretic, Septuagint and Nahal Hever readings. https://en.wikipedia.org/wiki/They_have_pierced_my_hands_and_my_feet",
-    "166. [Commentary] Bible Hub. Commentaries on Psalm 22:16 (Ellicott, Barnes, Keil and Delitzsch on ka'ari). https://biblehub.com/commentaries/psalms/22-16.htm",
-    "167. [Commentary] Bible Hub. Psalm 22:16 in parallel translations. https://biblehub.com/psalms/22-16.htm",
-    "168. [Commentary] Bible Hub. Deuteronomy 22:25 in parallel translations. https://biblehub.com/deuteronomy/22-25.htm",
-    "169. [Lexicon] Bible Hub. Hebrew 2388, chazaq (to be strong, prevail, overpower). https://biblehub.com/hebrew/2388.htm",
-    "170. [Lexicon] Bible Hub. Hebrew 8610, taphas (to seize, take hold of). https://biblehub.com/hebrew/8610.htm",
-    "171. [Commentary] Bible Hub. Deuteronomy 22:28 in parallel translations. https://biblehub.com/deuteronomy/22-28.htm",
-    "172. [Commentary] Bible Hub. Exodus 22:16 in parallel translations. https://biblehub.com/exodus/22-16.htm",
-    "173. [Commentary] Bible Hub. Commentaries on Deuteronomy 22:28. https://biblehub.com/commentaries/deuteronomy/22-28.htm",
-    "174. [Commentary] Bible Hub. John 1:18 in parallel translations. https://biblehub.com/john/1-18.htm",
-    "175. [Lexicon] Bible Hub. Greek 3439, monogenes (only, unique). https://biblehub.com/greek/3439.htm",
-    "176. [Reference] Crossway. ESV Bible Translation Update (2025 text edition). https://www.crossway.org/articles/esv-bible-translation-update/",
-    "177. [Wikipedia] English Standard Version: 2025 text edition. https://en.wikipedia.org/wiki/English_Standard_Version#2025_text_edition",
-    "178. [Apologetics] GotQuestions.org. What is the KJV Only movement? https://www.gotquestions.org/KJV-only.html",
-    "179. [Wikipedia] King James Only movement: history. https://en.wikipedia.org/wiki/King_James_Only_movement#History",
-    "180. [Wikipedia] Peter Ruckman. The KJV as advanced revelation. https://en.wikipedia.org/wiki/Peter_Ruckman",
-    "181. [Wikipedia] Gail Riplinger. New Age Bible Versions (1993). https://en.wikipedia.org/wiki/Gail_Riplinger",
-    "182. [Academic] Hentschel. The King James Only Movement. Oxford Handbooks Online, 2017. https://doi.org/10.1093/oxfordhb/9780190258849.013.20",
-    "183. [Primary Source] Orthodox Presbyterian Church. The Westminster Confession of Faith, chapter 1: the original texts kept pure in all ages. https://www.opc.org/wcf.html#Chapter_01",
-    "184. [Wikipedia] Textus Receptus: providential preservation (Burgon, Hills). https://en.wikipedia.org/wiki/Textus_Receptus#Providential_preservation",
-    "185. [Wikipedia] King James Only movement: doctrine of preservation. https://en.wikipedia.org/wiki/King_James_Only_movement#Doctrine_of_preservation",
-    "186. [Commentary] Bible Hub. Commentaries on Psalm 12:7 (Gill: the affix is masculine, not feminine). https://biblehub.com/commentaries/psalms/12-7.htm",
-    "187. [Commentary] Bible Hub. Psalm 12:7 in parallel translations. https://biblehub.com/psalms/12-7.htm",
-    "188. [Primary Source] CCEL. The Translators to the Reader (1611), part 9: an answer to the imputations of our adversaries. https://ccel.org/bible/kjv/preface/pref9.htm",
-    "189. [Wikipedia] Textus Receptus: variants within the Textus Receptus editions. https://en.wikipedia.org/wiki/Textus_Receptus#Variants_within_the_Textus_Receptus_editions",
-    "190. [Wikipedia] King James Version: revised versions of 1629, 1638 and 1769. https://en.wikipedia.org/wiki/King_James_Version#Revised_versions",
-    "191. [Wikipedia] Novum Instrumentum omne: Greek sources of the first edition. https://en.wikipedia.org/wiki/Novum_Instrumentum_omne#Greek_sources",
-    "192. [Academic] Detroit Baptist Theological Seminary. The Embarrassing Preface to the King James Version. https://dbts.edu/2012/04/09/the-embarrassing-preface-to-the-king-james-version/",
-    "193. [Wikipedia] King James Only movement: criticism. https://en.wikipedia.org/wiki/King_James_Only_movement#Criticism",
-    "194. [Wikipedia] Dynamic and formal equivalence: theory and practice. https://en.wikipedia.org/wiki/Dynamic_and_formal_equivalence#Theory_and_practice",
-    "195. [Commentary] NET Bible. John 1, with translators' notes. https://netbible.org/bible/John+1",
-    "196. [Apologetics] GotQuestions.org. Which is the best Bible translation? Comparing several translations. https://www.gotquestions.org/Bible-translations.html",
-    "197. [Academic] Center for the Study of New Testament Manuscripts. Digital images of Greek New Testament manuscripts. https://www.csntm.org/",
-    "198. [Wikipedia] List of New Testament verses not included in modern English translations: the sixteen omitted verses. https://en.wikipedia.org/wiki/List_of_New_Testament_verses_not_included_in_modern_English_translations#The_sixteen_omitted_verses",
-    "199. [Wikipedia] New World Translation: translators. https://en.wikipedia.org/wiki/New_World_Translation#Translators",
-    "200. [Wikipedia] Septuagint: Christian use. https://en.wikipedia.org/wiki/Septuagint#Christian_use",
-    "201. [Apologetics] GotQuestions.org. Textual criticism: what is it? https://www.gotquestions.org/textual-criticism.html"
+    "51. [Academic] Durel. La Conférence de Hampton Court (janvier 1604) ou l’autorité de Jacques Ier sur l’Église anglicane. Anglophonia, 2005. https://doi.org/10.3406/calib.2005.1543",
+    "52. [Academic] Stine. The King James Version Then and Now. Review & Expositor, 2011. https://doi.org/10.1177/003463731110800205",
+    "53. [Primary Source] Bible Gateway. King James Version (KJV), version information. https://www.biblegateway.com/versions/King-James-Version-KJV-Bible/",
+    "54. [Wikipedia] Bishops' Bible. The 1602 edition prescribed as the base text of the KJV. https://en.wikipedia.org/wiki/Bishops%27_Bible",
+    "55. [Apologetics] GotQuestions.org. What is the King James Version (KJV)? The translators' stated purpose. https://www.gotquestions.org/King-James-Version-KJV.html",
+    "56. [Academic] Jon Nielson. How Much of the King James Bible Is William Tyndale's?. Reformation, 1998. https://doi.org/10.1179/ref_1998_3_1_004",
+    "57. [Wikipedia] King James Version: source texts. https://en.wikipedia.org/wiki/King_James_Version#Source_texts",
+    "58. [Wikipedia] Textus Receptus: English translations from the Textus Receptus. https://en.wikipedia.org/wiki/Textus_Receptus#English_translations_from_the_Textus_Receptus",
+    "59. [Wikipedia] King James Version: marginal notes. https://en.wikipedia.org/wiki/King_James_Version#Marginal_notes",
+    "60. [Primary Source] CCEL. The Translators to the Reader (1611), part 10: reasons for setting diversity of senses in the margin. https://ccel.org/bible/kjv/preface/pref10.htm",
+    "61. [Wikipedia] King James Version: standard text of 1769. https://en.wikipedia.org/wiki/King_James_Version#Standard_text_of_1769",
+    "62. [Commentary] Bible Hub. 2 Thessalonians 2:7 in parallel translations. https://biblehub.com/2_thessalonians/2-7.htm",
+    "63. [Commentary] Bible Hub. 1 Thessalonians 4:15 in parallel translations. https://biblehub.com/1_thessalonians/4-15.htm",
+    "64. [Lexicon] Bible Hub. Hebrew 7214, re'em (wild ox). https://biblehub.com/hebrew/7214.htm",
+    "65. [Commentary] Bible Hub. Numbers 23:22 in parallel translations. https://biblehub.com/numbers/23-22.htm",
+    "66. [Lexicon] Bible Hub. Greek 3957, pascha (Passover), 29 occurrences. https://biblehub.com/greek/3957.htm",
+    "67. [Commentary] Bible Hub. Acts 12:4 in parallel translations. https://biblehub.com/acts/12-4.htm",
+    "68. [Apologetics] GotQuestions.org. What is the New King James Version (NKJV)? https://www.gotquestions.org/New-King-James-Version-NKJV.html",
+    "69. [Wikipedia] New King James Version. https://en.wikipedia.org/wiki/New_King_James_Version",
+    "70. [Primary Source] Bible Gateway. New King James Version (NKJV), version information. https://www.biblegateway.com/versions/New-King-James-Version-NKJV-Bible/",
+    "71. [Wikipedia] Orthodox Study Bible. Why the NKJV New Testament was chosen. https://en.wikipedia.org/wiki/Orthodox_Study_Bible",
+    "72. [Wikipedia] Revised Version. The 1881-1885 revision and Westcott and Hort. https://en.wikipedia.org/wiki/Revised_Version",
+    "73. [Primary Source] 'Anonymous (Bible): American Standard Version of the Holy Bible (1901).' Christian Classics Ethereal Library. https://www.ccel.org/ccel/bible/asv.ii.html",
+    "74. [Academic] 'Luther Allan Weigle - Database: Christian Educators of the 20th Century - Biola University.' Biola University. https://www.biola.edu/talbot/ce20/database/luther-allan-weigle",
+    "75. [Apologetics] GotQuestions.org. What is the Revised Standard Version (RSV)? https://www.gotquestions.org/Revised-Standard-Version-RSV.html",
+    "76. [Wikipedia] New Revised Standard Version. Mandate, motto and gender language. https://en.wikipedia.org/wiki/New_Revised_Standard_Version",
+    "77. [Apologetics] GotQuestions.org. What is the New Revised Standard Version (NRSV)? https://www.gotquestions.org/New-Revised-Standard-Version-NRSV.html",
+    "78. [Primary Source] Bible Gateway. New Revised Standard Version Updated Edition (NRSVue), version information. https://www.biblegateway.com/versions/New-Revised-Standard-Version-Updated-Edition-NRSVue-Bible/",
+    "79. [Reference] The Lockman Foundation. New American Standard Bible. https://www.lockman.org/new-american-standard-bible-nasb/",
+    "80. [Apologetics] GotQuestions.org. What is the New American Standard Bible (NASB)? https://www.gotquestions.org/New-American-Standard-Bible-NASB.html",
+    "81. [Reference] The Lockman Foundation. NASB 2020. https://www.lockman.org/nasb-2020/",
+    "82. [Wikipedia] Legacy Standard Bible. https://en.wikipedia.org/wiki/Legacy_Standard_Bible",
+    "83. [Apologetics] GotQuestions.org. What is the Legacy Standard Bible (LSB)? https://www.gotquestions.org/Legacy-Standard-Bible-LSB.html",
+    "84. [Commentary] Three Sixteen Publishing. Legacy Standard Bible. https://lsbible.org/",
+    "85. [Wikipedia] English Standard Version. Origin as a revision of the 1971 RSV. https://en.wikipedia.org/wiki/English_Standard_Version",
+    "86. [Apologetics] GotQuestions.org. What is the English Standard Version (ESV)? https://www.gotquestions.org/English-Standard-Version-ESV.html",
+    "87. [Primary Source] Bible Gateway. English Standard Version (ESV), version information. https://www.biblegateway.com/versions/English-Standard-Version-ESV-Bible/",
+    "88. [Wikipedia] English Standard Version: 2016 text edition and the abandoned permanent-text policy. https://en.wikipedia.org/wiki/English_Standard_Version#2016_text_edition",
+    "89. [News] Christian Post. ESV Bible update includes 68 word edits, reverts Genesis 3:16 translation to 2001 wording. https://assets.christianpost.com/news/esv-bible-update-reverts-genesis-316-translation-to-2001-wording.html",
+    "90. [Lexicon] Bible Hub. Hebrew 8669, teshuqah (desire, longing). https://biblehub.com/hebrew/8669.htm",
+    "91. [Commentary] Bible Hub. Genesis 3:16 in parallel translations. https://biblehub.com/genesis/3-16.htm",
+    "92. [Reference] TheNIVBible.com. NIV frequently asked questions: the Committee on Bible Translation. https://www.thenivbible.com/faqs/",
+    "93. [Apologetics] GotQuestions.org. What is the New International Version (NIV)? https://www.gotquestions.org/New-International-Version-NIV.html",
+    "94. [Primary Source] Bible Gateway. New International Version (NIV), version information. https://www.biblegateway.com/versions/New-International-Version-NIV-Bible/",
+    "95. [Wikipedia] New International Version. Origins and US sales. https://en.wikipedia.org/wiki/New_International_Version",
+    "96. [Reference] ECPA / Christian Book Expo. Bible Translations Bestsellers, February 2025. https://christianbookexpo.com/bestseller/translations.php?id=0225",
+    "97. [Reference] ECPA / Christian Book Expo. Bible Translations Bestsellers, June 2024. https://christianbookexpo.com/bestseller/translations.php?id=0624",
+    "98. [Wikipedia] Today's New International Version. Gender language and discontinuation in 2011. https://en.wikipedia.org/wiki/Today%27s_New_International_Version",
+    "99. [Primary Source] Bible Research. Southern Baptist Convention resolution on the 2011 NIV (text). https://bible-researcher.com/niv.2011.sbc.html",
+    "100. [News] Baptist News Global. Southern Baptists cannot commend new NIV Bible translation. https://baptistnews.com/article/southern-baptists-cannot-commend-new-niv-bible-translation/",
+    "101. [Reference] TheNIVBible.com. Is the NIV gender-neutral? https://thenivbible.com/niv-gender-neutral/",
+    "102. [Wikipedia] Christian Standard Bible. Revision of the HCSB and its textual basis. https://en.wikipedia.org/wiki/Christian_Standard_Bible",
+    "103. [Apologetics] GotQuestions.org. What is the Christian Standard Bible (CSB)? https://www.gotquestions.org/Christian-Standard-Bible-CSB.html",
+    "104. [Primary Source] Bible Gateway. Christian Standard Bible (CSB), version information. https://www.biblegateway.com/versions/Christian-Standard-Bible-CSB/",
+    "105. [Wikipedia] New English Translation. 60,932 translators' notes. https://en.wikipedia.org/wiki/New_English_Translation",
+    "106. [Commentary] NET Bible (Biblical Studies Press). https://netbible.org/",
+    "107. [Primary Source] Bible Gateway. New English Translation (NET), version information. https://www.biblegateway.com/versions/New-English-Translation-NET-Bible/",
+    "108. [Wikipedia] The Living Bible: origin and base text. https://en.wikipedia.org/wiki/The_Living_Bible#Origin",
+    "109. [Wikipedia] New Living Translation. From Living Bible revision to new translation. https://en.wikipedia.org/wiki/New_Living_Translation",
+    "110. [Reference] Tyndale House. NLT translation process. https://sites.tyndale.com/nlt/translation-process/",
+    "111. [Apologetics] GotQuestions.org. What is the New Living Translation (NLT)? https://www.gotquestions.org/New-Living-Translation-NLT.html",
+    "112. [Primary Source] Bible Gateway. New Living Translation (NLT), version information. https://www.biblegateway.com/versions/New-Living-Translation-NLT-Bible/",
+    "113. [Academic] Burke. The 1992 Revision of the Good News Bible: The Context for Revision. The Bible Translator, 2018. https://doi.org/10.1177/2051677018796127",
+    "114. [Primary Source] Bible Gateway. Good News Translation (GNT), version information. https://www.biblegateway.com/versions/Good-News-Translation-GNT-Bible/",
+    "115. [Wikipedia] The Message (Bible). Peterson's method and criticism. https://en.wikipedia.org/wiki/The_Message_(Bible)",
+    "116. [Primary Source] Bible Gateway. The Message (MSG), version information. https://www.biblegateway.com/versions/Message-MSG-Bible/",
+    "117. [Reference] The Lockman Foundation. Amplified Bible. https://www.lockman.org/amplified-bible-amp/",
+    "118. [Apologetics] GotQuestions.org. What is the Amplified Bible (AMP)? https://www.gotquestions.org/Amplified-Bible-AMP.html",
+    "119. [Primary Source] Bible Gateway. Amplified Bible (AMP), version information. https://www.biblegateway.com/versions/Amplified-Bible-AMP/",
+    "120. [Apologetics] GotQuestions.org. What is the New American Bible (NAB)? Deuterocanonical books in Catholic Bibles. https://www.gotquestions.org/New-American-Bible-NAB.html",
+    "121. [Wikipedia] New American Bible Revised Edition. https://en.wikipedia.org/wiki/New_American_Bible_Revised_Edition",
+    "122. [Primary Source] United States Conference of Catholic Bishops. The Bible (NABRE). https://bible.usccb.org/",
+    "123. [Primary Source] Bible Gateway. New American Bible (Revised Edition) (NABRE), version information. https://www.biblegateway.com/versions/New-American-Bible-Revised-Edition-NABRE-Bible/",
+    "124. [Wikipedia] Jerusalem Bible. The French original, Tolkien's Jonah and the name Yahweh. https://en.wikipedia.org/wiki/Jerusalem_Bible",
+    "125. [Wikipedia] New Jerusalem Bible. https://en.wikipedia.org/wiki/New_Jerusalem_Bible",
+    "126. [Wikipedia] Orthodox Study Bible: translation. https://en.wikipedia.org/wiki/Orthodox_Study_Bible#Translation",
+    "127. [Wikipedia] New Jewish Publication Society of America Tanakh. https://en.wikipedia.org/wiki/New_Jewish_Publication_Society_of_America_Tanakh",
+    "128. [Wikipedia] New World Translation. Publication history and revisions. https://en.wikipedia.org/wiki/New_World_Translation",
+    "129. [Primary Source] Watch Tower Society. John 1, New World Translation. https://www.jw.org/en/library/bible/study-bible/books/john/1/",
+    "130. [Commentary] Bible Hub. Commentaries on John 1:1 (the anarthrous theos as predicate). https://biblehub.com/commentaries/john/1-1.htm",
+    "131. [Apologetics] Christian Research Institute. John 1:1 and the New World Translation (quoting Metzger, Theology Today, 1953). https://www.equip.org/articles/john-11-and-the-new-world-translation/",
+    "132. [Primary Source] Watch Tower Society. Colossians 1, New World Translation. https://www.jw.org/en/library/bible/study-bible/books/colossians/1/",
+    "133. [Apologetics] GotQuestions.org. Is the New World Translation a valid version of the Bible? https://www.gotquestions.org/New-World-Translation.html",
+    "134. [Wikipedia] New World Translation: use of the name Jehovah. https://en.wikipedia.org/wiki/New_World_Translation#Use_of_the_name_Jehovah",
+    "135. [Apologetics] Christian Research Institute. Is the New World Translation of the Bible credible? https://www.equip.org/bible_answers/is-the-new-world-translation-of-the-bible-credible/",
+    "136. [Wikipedia] Joseph Smith Translation of the Bible. https://en.wikipedia.org/wiki/Joseph_Smith_Translation_of_the_Bible",
+    "137. [Primary Source] The Church of Jesus Christ of Latter-day Saints. Joseph Smith Translation (scriptures). https://www.churchofjesuschrist.org/study/scriptures/jst?lang=eng",
+    "138. [Wikipedia] The Passion Translation. Criticism and removal from Bible Gateway. https://en.wikipedia.org/wiki/The_Passion_Translation",
+    "139. [Apologetics] GotQuestions.org. What is the Passion Translation of the Bible? https://www.gotquestions.org/Passion-Translation.html",
+    "140. [Reference] BroadStreet Publishing. The Passion Translation. https://www.thepassiontranslation.com/",
+    "141. [News] ChurchLeaders. Bible Gateway Removes The Passion Translation From Site. https://churchleaders.com/news/416894-bible-gateway-removes-the-passion-translation-from-site.html",
+    "142. [News] The Roys Report. Bible Gateway pulls controversial Passion Translation. https://roysreport.com/bible-gateway-pulls-controversial-passion-translation/",
+    "143. [Wikipedia] List of New Testament verses not included in modern English translations. https://en.wikipedia.org/wiki/List_of_New_Testament_verses_not_included_in_modern_English_translations",
+    "144. [Apologetics] The Gospel Coalition (Justin Taylor). Why does the King James Bible have some different verses than modern translations? https://www.thegospelcoalition.org/blogs/justin-taylor/why-does-the-king-james-bible-have-some-different-verses-than-modern-translations/",
+    "145. [Wikipedia] Mark 16. Manuscript evidence for the endings of Mark. https://en.wikipedia.org/wiki/Mark_16",
+    "146. [Apologetics] GotQuestions.org. Should Mark 16:9-20 be in the Bible? https://www.gotquestions.org/Mark-16-9-20.html",
+    "147. [Commentary] Bible Hub. Commentaries on Mark 16:9. https://biblehub.com/commentaries/mark/16-9.htm",
+    "148. [Academic] 'Earth Accuses Earth: Tracing What Jesus Wrote on the Ground | Harvard Theological Review | Cambridge Core.' Cambridge University Press. https://www.cambridge.org/core/journals/harvard-theological-review/article/abs/earth-accuses-earth-tracing-what-jesus-wrote-on-the-ground/8BDE7EA273824F86F601C64CED2F2F7F",
+    "149. [Commentary] Bible Hub. Commentaries on John 7:53. https://biblehub.com/commentaries/john/7-53.htm",
+    "150. [Wikipedia] Comma Johanneum. Latin origin, Greek witnesses and Erasmus. https://en.wikipedia.org/wiki/Comma_Johanneum",
+    "151. [Commentary] Bible Hub. Commentaries on 1 John 5:7 (Barnes, Cambridge on the manuscript evidence). https://biblehub.com/commentaries/1_john/5-7.htm",
+    "152. [Commentary] NET Bible. 1 John 5, with translators' note on the Comma Johanneum. https://netbible.org/bible/1+John+5",
+    "153. [Wikipedia] List of New Testament verses not included in modern English translations: Acts 8:37. https://en.wikipedia.org/wiki/List_of_New_Testament_verses_not_included_in_modern_English_translations#Acts_8:37",
+    "154. [Commentary] Bible Hub. Commentaries on Acts 8:37. https://biblehub.com/commentaries/acts/8-37.htm",
+    "155. [Commentary] Bible Hub. Acts 8:37 in parallel translations. https://biblehub.com/acts/8-37.htm",
+    "156. [Wikipedia] Novum Instrumentum omne. Erasmus's back-translation of Revelation 22 from the Vulgate. https://en.wikipedia.org/wiki/Novum_Instrumentum_omne",
+    "157. [Commentary] Bible Hub. Revelation 22:19 in parallel translations. https://biblehub.com/revelation/22-19.htm",
+    "158. [Commentary] Bible Hub. Commentaries on Revelation 22:19. https://biblehub.com/commentaries/revelation/22-19.htm",
+    "159. [Apologetics] GotQuestions.org. What is the Comma Johanneum (1 John 5:7-8)? The Trinity taught without it. https://www.gotquestions.org/Comma-Johanneum.html",
+    "160. [Lexicon] Bible Hub. Hebrew 5959, almah (young woman, maiden). https://biblehub.com/hebrew/5959.htm",
+    "161. [Lexicon] Bible Hub. Hebrew 1330, bethulah (virgin). https://biblehub.com/hebrew/1330.htm",
+    "162. [Lexicon] Bible Hub. Greek 3933, parthenos (virgin). https://biblehub.com/greek/3933.htm",
+    "163. [Wikipedia] Isaiah 7:14. The Septuagint's parthenos and Matthew's use of it. https://en.wikipedia.org/wiki/Isaiah_7:14",
+    "164. [Commentary] Bible Hub. Isaiah 7:14 in parallel translations. https://biblehub.com/isaiah/7-14.htm",
+    "165. [Commentary] Bible Hub. Commentaries on Isaiah 7:14. https://biblehub.com/commentaries/isaiah/7-14.htm",
+    "166. [Wikipedia] They have pierced my hands and my feet. Masoretic, Septuagint and Nahal Hever readings. https://en.wikipedia.org/wiki/They_have_pierced_my_hands_and_my_feet",
+    "167. [Commentary] Bible Hub. Commentaries on Psalm 22:16 (Ellicott, Barnes, Keil and Delitzsch on ka'ari). https://biblehub.com/commentaries/psalms/22-16.htm",
+    "168. [Commentary] Bible Hub. Psalm 22:16 in parallel translations. https://biblehub.com/psalms/22-16.htm",
+    "169. [Commentary] Bible Hub. Deuteronomy 22:25 in parallel translations. https://biblehub.com/deuteronomy/22-25.htm",
+    "170. [Lexicon] Bible Hub. Hebrew 2388, chazaq (to be strong, prevail, overpower). https://biblehub.com/hebrew/2388.htm",
+    "171. [Lexicon] Bible Hub. Hebrew 8610, taphas (to seize, take hold of). https://biblehub.com/hebrew/8610.htm",
+    "172. [Commentary] Bible Hub. Deuteronomy 22:28 in parallel translations. https://biblehub.com/deuteronomy/22-28.htm",
+    "173. [Commentary] Bible Hub. Exodus 22:16 in parallel translations. https://biblehub.com/exodus/22-16.htm",
+    "174. [Commentary] Bible Hub. Commentaries on Deuteronomy 22:28. https://biblehub.com/commentaries/deuteronomy/22-28.htm",
+    "175. [Commentary] Bible Hub. John 1:18 in parallel translations. https://biblehub.com/john/1-18.htm",
+    "176. [Lexicon] Bible Hub. Greek 3439, monogenes (only, unique). https://biblehub.com/greek/3439.htm",
+    "177. [Reference] Crossway. ESV Bible Translation Update (2025 text edition). https://www.crossway.org/articles/esv-bible-translation-update/",
+    "178. [Wikipedia] English Standard Version: 2025 text edition. https://en.wikipedia.org/wiki/English_Standard_Version#2025_text_edition",
+    "179. [Apologetics] GotQuestions.org. What is the KJV Only movement? https://www.gotquestions.org/KJV-only.html",
+    "180. [Wikipedia] King James Only movement: history. https://en.wikipedia.org/wiki/King_James_Only_movement#History",
+    "181. [Wikipedia] Peter Ruckman. The KJV as advanced revelation. https://en.wikipedia.org/wiki/Peter_Ruckman",
+    "182. [Wikipedia] Gail Riplinger. New Age Bible Versions (1993). https://en.wikipedia.org/wiki/Gail_Riplinger",
+    "183. [Academic] Hentschel. The King James Only Movement. Oxford Handbooks Online, 2017. https://doi.org/10.1093/oxfordhb/9780190258849.013.20",
+    "184. [Primary Source] Orthodox Presbyterian Church. The Westminster Confession of Faith, chapter 1: the original texts kept pure in all ages. https://www.opc.org/wcf.html#Chapter_01",
+    "185. [Wikipedia] Textus Receptus: providential preservation (Burgon, Hills). https://en.wikipedia.org/wiki/Textus_Receptus#Providential_preservation",
+    "186. [Wikipedia] King James Only movement: doctrine of preservation. https://en.wikipedia.org/wiki/King_James_Only_movement#Doctrine_of_preservation",
+    "187. [Commentary] Bible Hub. Commentaries on Psalm 12:7 (Gill: the affix is masculine, not feminine). https://biblehub.com/commentaries/psalms/12-7.htm",
+    "188. [Commentary] Bible Hub. Psalm 12:7 in parallel translations. https://biblehub.com/psalms/12-7.htm",
+    "189. [Primary Source] CCEL. The Translators to the Reader (1611), part 9: an answer to the imputations of our adversaries. https://ccel.org/bible/kjv/preface/pref9.htm",
+    "190. [Wikipedia] Textus Receptus: variants within the Textus Receptus editions. https://en.wikipedia.org/wiki/Textus_Receptus#Variants_within_the_Textus_Receptus_editions",
+    "191. [Wikipedia] King James Version: revised versions of 1629, 1638 and 1769. https://en.wikipedia.org/wiki/King_James_Version#Revised_versions",
+    "192. [Wikipedia] Novum Instrumentum omne: Greek sources of the first edition. https://en.wikipedia.org/wiki/Novum_Instrumentum_omne#Greek_sources",
+    "193. [Academic] Irena Backus. The Problem Of Canonicity. , 2000. https://doi.org/10.1093/oso/9780195138856.003.0001",
+    "194. [Academic] Detroit Baptist Theological Seminary. The Embarrassing Preface to the King James Version. https://dbts.edu/2012/04/09/the-embarrassing-preface-to-the-king-james-version/",
+    "195. [Wikipedia] King James Only movement: criticism. https://en.wikipedia.org/wiki/King_James_Only_movement#Criticism",
+    "196. [Wikipedia] Dynamic and formal equivalence: theory and practice. https://en.wikipedia.org/wiki/Dynamic_and_formal_equivalence#Theory_and_practice",
+    "197. [Commentary] NET Bible. John 1, with translators' notes. https://netbible.org/bible/John+1",
+    "198. [Apologetics] GotQuestions.org. Which is the best Bible translation? Comparing several translations. https://www.gotquestions.org/Bible-translations.html",
+    "199. [Academic] Center for the Study of New Testament Manuscripts. Digital images of Greek New Testament manuscripts. https://www.csntm.org/",
+    "200. [Wikipedia] List of New Testament verses not included in modern English translations: the sixteen omitted verses. https://en.wikipedia.org/wiki/List_of_New_Testament_verses_not_included_in_modern_English_translations#The_sixteen_omitted_verses",
+    "201. [Wikipedia] New World Translation: translators. https://en.wikipedia.org/wiki/New_World_Translation#Translators",
+    "202. [Wikipedia] Septuagint: Christian use. https://en.wikipedia.org/wiki/Septuagint#Christian_use",
+    "203. [Academic] Dorival. Is the Septuagint the Old Testament of the New Testament?. The Septuagint from Alexandria to Constantinople, 2021. https://doi.org/10.1093/oso/9780192898098.003.0003",
+    "204. [Apologetics] GotQuestions.org. Textual criticism: what is it? https://www.gotquestions.org/textual-criticism.html"
   ],
   lastUpdated: "30-10-2026"
 }

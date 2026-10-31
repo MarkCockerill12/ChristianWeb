@@ -284,13 +284,13 @@ Many popular criticisms of the Quran turn on the meaning of an Arabic word, and 
       title: "How Late the Sources Are",
       tags: ["Sources"],
       content: `
-The earliest full biography of Muhammad was composed by Ibn Ishaq, who died about 767, around 135 years after Muhammad, and his work has perished except as edited by Ibn Hisham in the ninth century[^183]. Al-Bukhari, compiler of the most trusted hadith collection, died in 870, more than two centuries after the events[^184]. Non-Muslim references appear much earlier, with the *Doctrina Jacobi* of about 634 speaking of a prophet among the Saracens[^185], but these say little about his life.
+The earliest full biography of Muhammad was composed by Ibn Ishaq, who died about 767, around 135 years after Muhammad, and his work has perished except as edited by Ibn Hisham in the ninth century[^183]. Al-Bukhari, compiler of the most trusted hadith collection, died in 870, more than two centuries after the events[^184][^185]. Non-Muslim references appear much earlier, with the *Doctrina Jacobi* of about 634 speaking of a prophet among the Saracens[^186], but these say little about his life.
 
-By contrast, Paul's letters were written about twenty years after Jesus, and Mark's Gospel within about forty[^186]. The usual answer is that the chains of named narrators (*isnad*) guarantee the hadith. Those chains were themselves recorded late, and Muslim scholars have always acknowledged that vast numbers of reports were forged, which is why they sifted them[^187].
+By contrast, Paul's letters were written about twenty years after Jesus, and Mark's Gospel within about forty[^187]. The usual answer is that the chains of named narrators (*isnad*) guarantee the hadith. Those chains were themselves recorded late, and Muslim scholars have always acknowledged that vast numbers of reports were forged, which is why they sifted them[^188].
 
 <?viz islam/source-gap?>
 
-The problem cuts two ways. Anyone who rejects the hadith to avoid such errors, as the Quranists do, loses the source for how to pray, for most of Muhammad's biography, and for the very occasions that make the Quran understandable[^188].
+The problem cuts two ways. Anyone who rejects the hadith to avoid such errors, as the Quranists do, loses the source for how to pray, for most of Muhammad's biography, and for the very occasions that make the Quran understandable[^189].
 `,
     },
     {
@@ -298,18 +298,18 @@ The problem cuts two ways. Anyone who rejects the hadith to avoid such errors, a
       title: "Was the Quran Perfectly Preserved?",
       tags: ["Quran"],
       content: `
-**The claim.** "It is certainly We who have revealed the Reminder, and it is certainly We who will preserve it" (Quran 15:9)[^189]. Popular apologetics takes this to mean that every letter has been kept without variation.
+**The claim.** "It is certainly We who have revealed the Reminder, and it is certainly We who will preserve it" (Quran 15:9)[^190]. Popular apologetics takes this to mean that every letter has been kept without variation.
 
 **What Islam's own sources record.**
 
-* **Rival Qurans were burned.** Under the caliph Uthman, around 650, a standard text was prepared because people were disputing over readings. He "ordered that all the other Quranic materials, whether written in fragmentary manuscripts or whole copies, be burnt"[^190]. Texts in perfect agreement would have needed no burning.
-* **Companions' copies differed.** The codices of Ibn Masud and others, close companions of Muhammad, are reported to have differed from the Uthmanic text[^191].
-* **A verse Umar said was lost.** The caliph Umar said that God revealed the verse of stoning, that "we did recite this verse", and that he feared people would one day say it was not in God's book[^192]. It is not in the Quran today.
-* **A verse eaten by a goat.** Aisha is reported as saying the verse of stoning and a verse about suckling were on a paper under her bed, and that when the Prophet died a domestic animal came in and ate it[^193]. Scholars dispute this report's reliability, though it sits in a recognised collection.
-* **Verses that changed.** Aisha is also reported as saying that the Quran had said ten sucklings establish a family bond, then five, and that this was still being recited when Muhammad died[^194].
-* **Forgotten chapters.** A companion, Abu Musa, told the reciters of Basra that they used to recite a chapter about the length of the ninth, which he had forgotten except for one line[^195].
+* **Rival Qurans were burned.** Under the caliph Uthman, around 650, a standard text was prepared because people were disputing over readings. He "ordered that all the other Quranic materials, whether written in fragmentary manuscripts or whole copies, be burnt"[^191]. Texts in perfect agreement would have needed no burning.
+* **Companions' copies differed.** The codices of Ibn Masud and others, close companions of Muhammad, are reported to have differed from the Uthmanic text[^192].
+* **A verse Umar said was lost.** The caliph Umar said that God revealed the verse of stoning, that "we did recite this verse", and that he feared people would one day say it was not in God's book[^193]. It is not in the Quran today.
+* **A verse eaten by a goat.** Aisha is reported as saying the verse of stoning and a verse about suckling were on a paper under her bed, and that when the Prophet died a domestic animal came in and ate it[^194]. Scholars dispute this report's reliability, though it sits in a recognised collection.
+* **Verses that changed.** Aisha is also reported as saying that the Quran had said ten sucklings establish a family bond, then five, and that this was still being recited when Muhammad died[^195].
+* **Forgotten chapters.** A companion, Abu Musa, told the reciters of Basra that they used to recite a chapter about the length of the ninth, which he had forgotten except for one line[^196].
 
-**What the manuscripts show.** The lower text of the Sana'a palimpsest, written over and erased, contains a version of the Quran that differs from the standard one in wording[^196]. Radiocarbon dating placed the parchment of the Birmingham folios between 568 and 645, which fits an early date but dates the animal skin and not the writing[^197]. Different recitations (*qira'at*), such as Hafs and Warsh, also survive with real differences in wording[^198].
+**What the manuscripts show.** The lower text of the Sana'a palimpsest, written over and erased, contains a version of the Quran that differs from the standard one in wording[^197]. Radiocarbon dating placed the parchment of the Birmingham folios between 568 and 645, which fits an early date but dates the animal skin and not the writing[^198]. Different recitations (*qira'at*), such as Hafs and Warsh, also survive with real differences in wording[^199].
 
 <?viz islam/manuscripts?>
 
@@ -325,11 +325,11 @@ The New Testament's variants, by contrast, are visible in thousands of manuscrip
       title: "Contradictions and Abrogation",
       tags: ["Quran", "Errors"],
       content: `
-The Quran says that had it been from anyone other than God, people "would have certainly found in it many inconsistencies" (Quran 4:82)[^199]. It also tells Muslims that some of its verses have been replaced: "If We ever abrogate a verse or cause it to be forgotten, We replace it with a better or similar one" (Quran 2:106)[^200]. Critics in Muhammad's lifetime saw what this meant: "when We replace a verse with another", the Quran reports, "they say, you are just a fabricator" (Quran 16:101)[^201]. Muslim scholars developed a whole science of which verses cancel which[^202].
+The Quran says that had it been from anyone other than God, people "would have certainly found in it many inconsistencies" (Quran 4:82)[^200]. It also tells Muslims that some of its verses have been replaced: "If We ever abrogate a verse or cause it to be forgotten, We replace it with a better or similar one" (Quran 2:106)[^201]. Critics in Muhammad's lifetime saw what this meant: "when We replace a verse with another", the Quran reports, "they say, you are just a fabricator" (Quran 16:101)[^202]. Muslim scholars developed a whole science of which verses cancel which[^203].
 
-**No compulsion, or fighting until they pay?** "Let there be no compulsion in religion" (Quran 2:256)[^203] is the verse most often quoted to outsiders. Against it stand "kill the polytheists who violated their treaties wherever you find them" (Quran 9:5)[^204] and "fight those who do not believe in Allah and the Last Day" among the people of the Scripture "until they pay the tax, willingly submitting, fully humbled" (Quran 9:29)[^205]. Muhammad said: "I have been ordered to fight against the people until they testify that none has the right to be worshipped but Allah"[^206]. Classical scholars debated whether the sword verse abrogated earlier tolerant ones, and many held that it did[^207]. Modern Muslims often restrict the later verses to their historical setting. The order of the verses and the record of the conquests are harder to explain that way.
+**No compulsion, or fighting until they pay?** "Let there be no compulsion in religion" (Quran 2:256)[^204] is the verse most often quoted to outsiders. Against it stand "kill the polytheists who violated their treaties wherever you find them" (Quran 9:5)[^205] and "fight those who do not believe in Allah and the Last Day" among the people of the Scripture "until they pay the tax, willingly submitting, fully humbled" (Quran 9:29)[^206]. Muhammad said: "I have been ordered to fight against the people until they testify that none has the right to be worshipped but Allah"[^207]. Classical scholars debated whether the sword verse abrogated earlier tolerant ones, and many held that it did[^208]. Modern Muslims often restrict the later verses to their historical setting. The order of the verses and the record of the conquests are harder to explain that way.
 
-**Arithmetic that does not add up.** Quran 4:11-12 sets fixed shares of an estate[^208]. Take a man who dies leaving two daughters, both parents and a wife. The daughters receive two-thirds, each parent one-sixth, and the wife one-eighth. That comes to 27/24 of the estate, which is more than there is. Sunni jurists handle it by reducing every share proportionally, a procedure called *'awl* that is not in the Quran and that follows a ruling of the caliph Umar; Ibn Abbas opposed it, and Shia jurists reject it and reduce only some heirs[^209]. A rule given by an all-knowing God would not need a human correction for the sum.
+**Arithmetic that does not add up.** Quran 4:11-12 sets fixed shares of an estate[^209]. Take a man who dies leaving two daughters, both parents and a wife. The daughters receive two-thirds, each parent one-sixth, and the wife one-eighth. That comes to 27/24 of the estate, which is more than there is. Sunni jurists handle it by reducing every share proportionally, a procedure called *'awl* that is not in the Quran and that follows a ruling of the caliph Umar; Ibn Abbas opposed it, and Shia jurists reject it and reduce only some heirs[^210]. A rule given by an all-knowing God would not need a human correction for the sum.
 `,
     },
     {
@@ -339,16 +339,16 @@ The Quran says that had it been from anyone other than God, people "would have c
       content: `
 This is the most serious difficulty in Islam, because it does not depend on any disputed science or history.
 
-**The Quran affirms the Bible.** It tells the Christians of Muhammad's day: "let the people of the Gospel judge by what Allah has revealed in it" (Quran 5:47)[^210]. It tells Jews and Christians that they "have nothing to stand on unless you observe the Torah, the Gospel, and what has been revealed to you" (Quran 5:68)[^211]. It even tells Muhammad, if in doubt, to "ask those who read the Scripture before you" (Quran 10:94)[^212]. And it states that "none can change His words" (Quran 6:115)[^213].
+**The Quran affirms the Bible.** It tells the Christians of Muhammad's day: "let the people of the Gospel judge by what Allah has revealed in it" (Quran 5:47)[^211]. It tells Jews and Christians that they "have nothing to stand on unless you observe the Torah, the Gospel, and what has been revealed to you" (Quran 5:68)[^212]. It even tells Muhammad, if in doubt, to "ask those who read the Scripture before you" (Quran 10:94)[^213]. And it states that "none can change His words" (Quran 6:115)[^214].
 
 **The Bible contradicts the Quran.** The Gospels teach that Jesus was crucified, died and rose, that he is the Son of God, and that he is the only way to the Father.
 
-**The usual answer is that the Bible was corrupted.** This doctrine (*tahrif* (تَحْرِيف, corruption of Scripture)) is widely held[^214], but it produces a dilemma with no exit.
+**The usual answer is that the Bible was corrupted.** This doctrine (*tahrif* (تَحْرِيف, corruption of Scripture)) is widely held[^215][^216], but it produces a dilemma with no exit.
 
 * If the Bible of Muhammad's day was reliable, the Quran is false, because it contradicts that Bible on the central facts.
 * If the Bible of Muhammad's day was already corrupted, the Quran is still false, because it tells Christians to judge by a corrupted book and to consult its readers, and says that God's words cannot be changed.
 
-**The manuscripts close the remaining route.** The suggestion that the corruption came after Muhammad fails because the text survives from well before him. Codex Sinaiticus and Codex Vaticanus were copied in the fourth century, about three hundred years before the Quran[^215][^216]. The Bible that Muhammad's contemporaries held is the Bible Christians read now.
+**The manuscripts close the remaining route.** The suggestion that the corruption came after Muhammad fails because the text survives from well before him. Codex Sinaiticus and Codex Vaticanus were copied in the fourth century, about three hundred years before the Quran[^217][^218]. The Bible that Muhammad's contemporaries held is the Bible Christians read now.
 `,
     },
     {
@@ -356,7 +356,7 @@ This is the most serious difficulty in Islam, because it does not depend on any 
       title: "Does the Bible Predict Muhammad?",
       tags: ["Bible", "Objections"],
       content: `
-**The claim.** The Quran says that Jesus gave "good news of a messenger after me whose name will be Ahmad" (Quran 61:6)[^217], and that Muhammad is the one "whose description they find in their Torah and the Gospel" (Quran 7:157)[^218]. Many passages have therefore been offered as predictions of him. Every one of them can be refuted from its own context, and the Quran's claim sets up a test: if his description is not in the Torah and Gospel that existed in his day, the Quran is mistaken. Those texts survive from before his time.
+**The claim.** The Quran says that Jesus gave "good news of a messenger after me whose name will be Ahmad" (Quran 61:6)[^219], and that Muhammad is the one "whose description they find in their Torah and the Gospel" (Quran 7:157)[^220]. Many passages have therefore been offered as predictions of him. Every one of them can be refuted from its own context, and the Quran's claim sets up a test: if his description is not in the Torah and Gospel that existed in his day, the Quran is mistaken. Those texts survive from before his time.
 
 **Deuteronomy 18:15-18.** God will raise up a prophet "like you from among their fellow Israelites". The argument is that Ishmael's descendants are the brothers of Israel. But the same phrase in Deuteronomy 17:15 forbids a foreign king, and it plainly means fellow Israelites. Deuteronomy 18:1-2 uses "fellow Israelites" of the other tribes of Israel. Deuteronomy 34:10 says that no prophet like Moses had arisen, one "whom the LORD knew face to face", and Muhammad by his own account never spoke with God face to face. Peter applies the passage to Jesus (Acts 3:22-26).
 
@@ -368,7 +368,7 @@ This is the most serious difficulty in Islam, because it does not depend on any 
 
 **Ishmael.** Genesis 17:20-21 promises Ishmael blessing and twelve rulers, and in the same sentence says, "But my covenant I will establish with Isaac." The promise to Ishmael is real, and the covenant line is explicitly elsewhere.
 
-**The Paraclete.** The strongest and most popular claim concerns Jesus' promise of "another advocate" (*parakletos* (παράκλητος, advocate)) in John 14 to 16. Many Muslim writers argue that this is Muhammad[^219], and some say the original word was *periklytos* (περικλυτός, praised one), "praised one", which would match the meaning of Ahmad. No Greek manuscript of John has that reading. The text answers the claim directly:
+**The Paraclete.** The strongest and most popular claim concerns Jesus' promise of "another advocate" (*parakletos* (παράκλητος, advocate)) in John 14 to 16. Many Muslim writers argue that this is Muhammad[^221], and some say the original word was *periklytos* (περικλυτός, praised one), "praised one", which would match the meaning of Ahmad. No Greek manuscript of John has that reading. The text answers the claim directly:
 
 * He is "the Spirit of truth", "the Holy Spirit" (John 14:17, 26).
 * The world "neither sees him nor knows him. But you know him, for he lives with you and will be in you" (John 14:17). Those words were spoken to the disciples six centuries before Muhammad.
@@ -376,7 +376,7 @@ This is the most serious difficulty in Islam, because it does not depend on any 
 * He comes in Jesus' name, and "will glorify me" (John 14:26; 16:14). Muhammad denied Jesus' divinity and crucifixion.
 * Jesus told the disciples to wait in Jerusalem for him (Acts 1:4-5), and he came at Pentecost, days later (Acts 2).
 
-**The Gospel of Barnabas.** This work has Jesus deny being the Messiah and foretell Muhammad by name, and it is sometimes offered as the true Gospel. Scholars date it to the late medieval period or later. It uses medieval Italian conventions, and it has a jubilee every hundred years, a rule introduced by Pope Boniface VIII in 1300, where the Jewish jubilee is every fifty[^220]. It also contradicts the Quran by denying that Jesus is the Messiah.
+**The Gospel of Barnabas.** This work has Jesus deny being the Messiah and foretell Muhammad by name, and it is sometimes offered as the true Gospel. Scholars date it to the late medieval period or later. It uses medieval Italian conventions, and it has a jubilee every hundred years, a rule introduced by Pope Boniface VIII in 1300, where the Jewish jubilee is every fifty[^222]. It also contradicts the Quran by denying that Jesus is the Messiah.
 
 **The result.** The Quran calls these Scriptures a witness to Muhammad, yet none of the proposed passages describes him. The [prophecy topic](/categories/prophecy) sets out what the Old Testament does foretell.
 
@@ -392,23 +392,23 @@ Islam's picture of the afterlife is vivid and concrete, and comes in part from t
 
 **Paradise.**
 
-* **Gardens and rivers.** "Rivers of fresh water, rivers of milk that never changes in taste, rivers of wine delicious to drink, and rivers of pure honey" (Quran 47:15)[^221]. Wine forbidden on earth is promised there. Believers recline on thrones, "waited on by eternal youths" who look like "scattered pearls" (Quran 76:19)[^222].
-* **The maidens.** "We will pair them to maidens with gorgeous eyes" (حُورٍ عِينٍ, *hurin 'in*, Quran 44:54)[^223], "like pristine pearls" (Quran 56:22-23)[^224], "reserved in pavilions" (Quran 55:72)[^225], whom "no human or jinn has ever touched" (Quran 55:56)[^226]. God has made them "virgins, loving and of equal age" (Quran 56:36-37)[^227], and the righteous receive "full-bosomed maidens of equal age" (كَوَاعِبَ, *kawa'iba*, Quran 78:33)[^228]. Ibn Kathir reports Ibn Abbas and Mujahid explaining the word as "round breasts", maidens "with fully developed breasts"[^229].
-* **Their bodies.** "Everyone of them will have two wives; the marrow of the bones of the wives' legs will be seen through the flesh out of excessive beauty"[^230], and "there would be none without a wife in Paradise"[^231].
-* **The pavilion.** "In Paradise there is a pavilion made of a single hollow pearl sixty miles wide, in each corner of which there are wives who will not see those in the other corners; and the believers will visit and enjoy them"[^232].
-* **The martyr.** He "is married to seventy two wives" and may intercede for seventy relatives. Tirmidhi grades this report *hasan sahih*; it is not in Bukhari or Muslim[^233]. The popular "72 virgins for everyone" goes beyond the report.
-* **Women.** "Whether male or female", believers enter paradise, and the Quran promises reward to men and women alike (Quran 33:35)[^234]. The specific descriptions of pleasure are nonetheless written from a man's point of view.
+* **Gardens and rivers.** "Rivers of fresh water, rivers of milk that never changes in taste, rivers of wine delicious to drink, and rivers of pure honey" (Quran 47:15)[^223]. Wine forbidden on earth is promised there. Believers recline on thrones, "waited on by eternal youths" who look like "scattered pearls" (Quran 76:19)[^224].
+* **The maidens.** "We will pair them to maidens with gorgeous eyes" (حُورٍ عِينٍ, *hurin 'in*, Quran 44:54)[^225], "like pristine pearls" (Quran 56:22-23)[^226], "reserved in pavilions" (Quran 55:72)[^227], whom "no human or jinn has ever touched" (Quran 55:56)[^228]. God has made them "virgins, loving and of equal age" (Quran 56:36-37)[^229], and the righteous receive "full-bosomed maidens of equal age" (كَوَاعِبَ, *kawa'iba*, Quran 78:33)[^230]. Ibn Kathir reports Ibn Abbas and Mujahid explaining the word as "round breasts", maidens "with fully developed breasts"[^231].
+* **Their bodies.** "Everyone of them will have two wives; the marrow of the bones of the wives' legs will be seen through the flesh out of excessive beauty"[^232], and "there would be none without a wife in Paradise"[^233].
+* **The pavilion.** "In Paradise there is a pavilion made of a single hollow pearl sixty miles wide, in each corner of which there are wives who will not see those in the other corners; and the believers will visit and enjoy them"[^234].
+* **The martyr.** He "is married to seventy two wives" and may intercede for seventy relatives. Tirmidhi grades this report *hasan sahih*; it is not in Bukhari or Muslim[^235]. The popular "72 virgins for everyone" goes beyond the report.
+* **Women.** "Whether male or female", believers enter paradise, and the Quran promises reward to men and women alike (Quran 33:35)[^236]. The specific descriptions of pleasure are nonetheless written from a man's point of view.
 * **God.** The hadith above ends with nothing preventing believers from seeing their Lord "except the curtain of Majesty over His Face". Fellowship with God is not what the texts dwell on.
 
 **Hell.**
 
-* **Fire.** "Whenever their skin is burnt completely, We will replace it so they will constantly taste the punishment" (Quran 4:56)[^235]. Earthly fire is "one of 70 parts" of hell's[^236].
-* **Clothing and water.** "Garments of Fire will be cut out for them and boiling water will be poured over their heads, melting whatever is in their bellies, along with their skin. And awaiting them are maces of iron" (Quran 22:19-21)[^237].
-* **Food and drink.** They drink "oozing pus, which they will sip with difficulty", and "death will overwhelm them from every side, yet they will not be able to die" (Quran 14:16-17)[^238]. They eat from the tree of Zaqqum, which grows "in the depths of Hell" (Quran 37:64-67)[^239], and it boils in the belly "like molten metal" (Quran 44:45-46)[^240].
-* **The lightest punishment.** "A man under whose arch of the feet a smoldering ember will be placed so that his brain will boil because of it"[^241]. Muhammad's uncle Abu Talib, who protected him all his life and did not convert, "is in a shallow fire"[^242].
-* **Women in hell.** "I looked at Hell and saw that the majority of its inhabitants were women"[^243], because they "are ungrateful to their husbands"[^244].
-* **Everyone passes over it.** "There is none of you who will not pass over it" (Quran 19:71)[^245]. Muhammad said that no one, including himself, enters paradise by deeds alone, only by God's mercy.
-* **Ransom.** "When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire"[^246].
+* **Fire.** "Whenever their skin is burnt completely, We will replace it so they will constantly taste the punishment" (Quran 4:56)[^237]. Earthly fire is "one of 70 parts" of hell's[^238].
+* **Clothing and water.** "Garments of Fire will be cut out for them and boiling water will be poured over their heads, melting whatever is in their bellies, along with their skin. And awaiting them are maces of iron" (Quran 22:19-21)[^239].
+* **Food and drink.** They drink "oozing pus, which they will sip with difficulty", and "death will overwhelm them from every side, yet they will not be able to die" (Quran 14:16-17)[^240]. They eat from the tree of Zaqqum, which grows "in the depths of Hell" (Quran 37:64-67)[^241], and it boils in the belly "like molten metal" (Quran 44:45-46)[^242].
+* **The lightest punishment.** "A man under whose arch of the feet a smoldering ember will be placed so that his brain will boil because of it"[^243]. Muhammad's uncle Abu Talib, who protected him all his life and did not convert, "is in a shallow fire"[^244].
+* **Women in hell.** "I looked at Hell and saw that the majority of its inhabitants were women"[^245], because they "are ungrateful to their husbands"[^246].
+* **Everyone passes over it.** "There is none of you who will not pass over it" (Quran 19:71)[^247]. Muhammad said that no one, including himself, enters paradise by deeds alone, only by God's mercy.
+* **Ransom.** "When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire"[^248].
 
 **How this compares.** The Bible also speaks of hell in severe terms, as the [hell topic](/categories/hell) sets out. The largest differences are in what heaven is and how it is reached. Jesus said that at the resurrection people "will neither marry nor be given in marriage" (Matthew 22:30). The centre of the New Testament's hope is God himself: "God's dwelling place is now among the people... He will wipe every tear from their eyes" (Revelation 21:3-4). And the believer goes there on the ground of a finished work, with assurance, not on the outcome of a scale. Nobody is offered as a ransom for anyone else, except the one who gave himself.
 `,
@@ -420,11 +420,11 @@ Islam's picture of the afterlife is vivid and concrete, and comes in part from t
       content: `
 The Quran honours Jesus: born of a virgin, called the Messiah, a worker of miracles. It denies the two things that matter most.
 
-**He was not crucified.** "They neither killed nor crucified him, it was only made to appear so" (شُبِّهَ لَهُمْ, *shubbiha lahum*, Quran 4:157)[^247]. This single verse, written about six hundred years after the event, by a man in Arabia with no access to the sources, stands against every first-century source there is. Christian writers, the Roman historian Tacitus and the Jewish historian Josephus all report the execution, and his crucifixion is among the most secure facts of ancient history[^248]. If God made someone else look like Jesus, he deceived the disciples, and on the Quran's own account he founded Christianity by that deception. The [resurrection topic](/categories/resurrection) sets out the evidence.
+**He was not crucified.** "They neither killed nor crucified him, it was only made to appear so" (شُبِّهَ لَهُمْ, *shubbiha lahum*, Quran 4:157)[^249]. This single verse, written about six hundred years after the event, by a man in Arabia with no access to the sources, stands against every first-century source there is. Christian writers, the Roman historian Tacitus and the Jewish historian Josephus all report the execution, and his crucifixion is among the most secure facts of ancient history[^250]. If God made someone else look like Jesus, he deceived the disciples, and on the Quran's own account he founded Christianity by that deception. The [resurrection topic](/categories/resurrection) sets out the evidence.
 
-**He is not the Son of God.** The Dome of the Rock in Jerusalem, built in 691 and the earliest large Islamic monument, carries inscriptions aimed directly at Christians[^249]. "Those who say Allah is one in a Trinity have certainly fallen into disbelief" (Quran 5:73)[^250]. The reasoning given is that Jesus and Mary "both ate food" (Quran 5:75), which answers a belief Christians do not hold. The [Trinity topic](/categories/trinity) sets out what they do hold.
+**He is not the Son of God.** The Dome of the Rock in Jerusalem, built in 691 and the earliest large Islamic monument, carries inscriptions aimed directly at Christians[^251]. "Those who say Allah is one in a Trinity have certainly fallen into disbelief" (Quran 5:73)[^252]. The reasoning given is that Jesus and Mary "both ate food" (Quran 5:75), which answers a belief Christians do not hold. The [Trinity topic](/categories/trinity) sets out what they do hold.
 
-**What Islam itself says of the two.** Muslims teach that Jesus was born of a virgin and that Muhammad was not (Quran 19:20). They teach that Jesus was "a pure son" (Quran 19:19) who is never told to seek forgiveness, while Muhammad is told to do so more than once (Quran 47:19). The Quran credits Jesus with healing the blind and the leper and raising the dead (Quran 3:49), and when Muhammad is asked for signs it replies that "Signs are only with Allah" and that the Book is enough (Quran 29:50-51)[^251]. Later hadith attribute miracles to Muhammad, such as the splitting of the moon, but the Quran itself does not credit him with healing or raising anyone. On Islam's own account, then, the one it calls a lesser prophet is the one without sin, born of a virgin and raising the dead, and those facts raise the question of why he should not be followed above the one who came after him.
+**What Islam itself says of the two.** Muslims teach that Jesus was born of a virgin and that Muhammad was not (Quran 19:20). They teach that Jesus was "a pure son" (Quran 19:19) who is never told to seek forgiveness, while Muhammad is told to do so more than once (Quran 47:19). The Quran credits Jesus with healing the blind and the leper and raising the dead (Quran 3:49), and when Muhammad is asked for signs it replies that "Signs are only with Allah" and that the Book is enough (Quran 29:50-51)[^253]. Later hadith attribute miracles to Muhammad, such as the splitting of the moon, but the Quran itself does not credit him with healing or raising anyone. On Islam's own account, then, the one it calls a lesser prophet is the one without sin, born of a virgin and raising the dead, and those facts raise the question of why he should not be followed above the one who came after him.
 
 **The consequences.** Without the cross there is no atonement. Islam offers a scale and an unknown verdict; the gospel gives a sinner a substitute and a certain one.
 
@@ -438,17 +438,17 @@ The Quran honours Jesus: born of a virgin, called the Messiah, a worker of mirac
       content: `
 Christianity spread for three centuries as a persecuted minority with no army. Islam spread within a generation by conquest, as its own historians record with pride.
 
-**The first wars.** When Muhammad died, Arabian tribes that tried to leave the new state were brought back by force in the Ridda (apostasy) wars of 632 to 633[^252].
+**The first wars.** When Muhammad died, Arabian tribes that tried to leave the new state were brought back by force in the Ridda (apostasy) wars of 632 to 633[^254].
 
-**The great conquests.** Muslim armies took Syria and Palestine between 634 and 638, breaking Byzantine power at the Yarmuk in 636[^253][^254]. They broke the Persian army at al-Qadisiyyah[^255] and ended the Sasanian Empire by 651[^256], took Egypt between 639 and 642[^257], and entered Spain in 711[^258], until the advance into France was checked near Tours in 732[^259]. Within about a century of Muhammad's death the old Christian heartlands of the Near East and North Africa were under Muslim rule[^260].
+**The great conquests.** Muslim armies took Syria and Palestine between 634 and 638, breaking Byzantine power at the Yarmuk in 636[^255][^256]. They broke the Persian army at al-Qadisiyyah[^257] and ended the Sasanian Empire by 651[^258], took Egypt between 639 and 642[^259], and entered Spain in 711[^260][^261], until the advance into France was checked near Tours in 732[^262][^263]. Within about a century of Muhammad's death the old Christian heartlands of the Near East and North Africa were under Muslim rule[^264][^265].
 
-**Life under Islam.** Jews and Christians could keep their faith as *dhimmi*, protected subjects who paid the jizya tax[^261], with the humbling that Quran 9:29 requires, and the theologian al-Razi described the tax as an incentive to convert[^262]. The Pact of Umar, the traditional statement of their terms, has Christians promise not to erect a monastery or church or restore any place of worship in need of repair[^263]. Conversion was often gradual, and historians caution against imagining forced mass conversion as the rule[^264]. This was tolerance by the standards of its age, and it was also a permanent second-class status.
+**Life under Islam.** Jews and Christians could keep their faith as *dhimmi*, protected subjects who paid the jizya tax[^266][^267], with the humbling that Quran 9:29 requires, and the theologian al-Razi described the tax as an incentive to convert[^268]. The Pact of Umar, the traditional statement of their terms, has Christians promise not to erect a monastery or church or restore any place of worship in need of repair[^269]. Conversion was often gradual, and historians caution against imagining forced mass conversion as the rule[^270]. This was tolerance by the standards of its age, and it was also a permanent second-class status.
 
-**Civil war.** The first civil war of 656 to 661 began within a generation of Muhammad[^265]. Three of the first four caliphs were assassinated[^266].
+**Civil war.** The first civil war of 656 to 661 began within a generation of Muhammad[^271]. Three of the first four caliphs were assassinated[^272].
 
-**Crusades and Constantinople.** After the Seljuk victory at Manzikert in 1071 opened Anatolia[^267], the Byzantine emperor appealed to the West, and the First Crusade followed[^268]. The Crusades included real atrocities by Christians, among them massacres, which Jesus' teaching condemns[^269]. They were also a late response to four and a half centuries of conquest. The Ottomans took Constantinople in 1453[^270] and took Christian boys as a levy for their army and state, the *devshirme*[^271].
+**Crusades and Constantinople.** After the Seljuk victory at Manzikert in 1071 opened Anatolia[^273], the Byzantine emperor appealed to the West, and the First Crusade followed[^274]. The Crusades included real atrocities by Christians, among them massacres, which Jesus' teaching condemns[^275]. They were also a late response to four and a half centuries of conquest. The Ottomans took Constantinople in 1453[^276] and took Christian boys as a levy for their army and state, the *devshirme*[^277].
 
-**Slavery.** An estimated 10 to 18 million Africans were enslaved by Arab traders between the seventh and twentieth centuries[^272]. **Armenians.** The Ottoman state's destruction of its Armenian Christians during the First World War is among the worst crimes of the modern era, though it had nationalist as well as religious motives[^273].
+**Slavery.** An estimated 10 to 18 million Africans were enslaved by Arab traders between the seventh and twentieth centuries[^278]. **Armenians.** The Ottoman state's destruction of its Armenian Christians during the First World War is among the worst crimes of the modern era, though it had nationalist as well as religious motives[^279].
 
 **A fair statement.** Muslim civilisation also produced great achievement in medicine, mathematics and scholarship, and most Muslims living now are peaceful and want nothing to do with those who kill in Islam's name. The argument here concerns the founder and the pattern he set: a religion that spread by the sword in its first century has a different origin from one whose founder was killed by the sword and whose first followers died rather than draw it.
 `,
@@ -458,17 +458,17 @@ Christianity spread for three centuries as a persecuted minority with no army. I
       title: "From the Caliphs to Today",
       tags: ["History"],
       content: `
-**The first caliphs (632 to 661).** Abu Bakr, Umar, Uthman and Ali succeeded Muhammad, and under them the conquests began[^274]. Their rule ended in civil war.
+**The first caliphs (632 to 661).** Abu Bakr, Umar, Uthman and Ali succeeded Muhammad, and under them the conquests began[^280]. Their rule ended in civil war.
 
-**The Umayyads (661 to 750).** Ruling from Damascus, this dynasty took the empire from Spain to Central Asia and made Arabic the language of government[^275]. The Dome of the Rock is theirs.
+**The Umayyads (661 to 750).** Ruling from Damascus, this dynasty took the empire from Spain to Central Asia and made Arabic the language of government[^281]. The Dome of the Rock is theirs.
 
-**The Abbasids (750 to 1258).** They overthrew the Umayyads, moved the capital to Baghdad, and presided over the height of Islamic learning, until the Mongols sacked Baghdad in 1258[^276].
+**The Abbasids (750 to 1258).** They overthrew the Umayyads, moved the capital to Baghdad, and presided over the height of Islamic learning, until the Mongols sacked Baghdad in 1258[^282].
 
-**Al-Andalus (711 to 1492).** Muslim rule in Spain produced a brilliant culture. Periods of relative tolerance alternated with periods of harsh rule, and it ended with the fall of Granada in 1492[^277].
+**Al-Andalus (711 to 1492).** Muslim rule in Spain produced a brilliant culture. Periods of relative tolerance alternated with periods of harsh rule, and it ended with the fall of Granada in 1492[^283].
 
-**The Ottomans (about 1300 to 1924).** The Ottoman sultans claimed the caliphate, and Turkey abolished it in 1924[^278]. It has not been restored by any widely recognised authority.
+**The Ottomans (about 1300 to 1924).** The Ottoman sultans claimed the caliphate, and Turkey abolished it in 1924[^284]. It has not been restored by any widely recognised authority.
 
-**Modern movements.** Muhammad ibn Abd al-Wahhab's strict reform movement of the eighteenth century allied with the House of Saud and shaped Saudi Arabia[^279]. The Muslim Brotherhood, founded by Hassan al-Banna in Egypt in 1928, sought to order society by sharia[^280]. In 2014 the Islamic State declared a caliphate in Iraq and Syria and restored slavery and public executions, citing the early sources[^281]. The great majority of Muslims and their scholars reject it, and its victims were mostly Muslims. Its existence still raises the question of what the founder's example permits.
+**Modern movements.** Muhammad ibn Abd al-Wahhab's strict reform movement of the eighteenth century allied with the House of Saud and shaped Saudi Arabia[^285]. The Muslim Brotherhood, founded by Hassan al-Banna in Egypt in 1928, sought to order society by sharia[^286]. In 2014 the Islamic State declared a caliphate in Iraq and Syria and restored slavery and public executions, citing the early sources[^287]. The great majority of Muslims and their scholars reject it, and its victims were mostly Muslims. Its existence still raises the question of what the founder's example permits.
 `,
     },
     {
@@ -482,11 +482,11 @@ Christianity spread for three centuries as a persecuted minority with no army. I
 
 **"The Trinity is three gods, and it is illogical."** Christians confess one God. The doctrine says one in essence and three in person, not one and three in the same sense. See [the Trinity](/categories/trinity).
 
-**"Paul invented Christianity."** The creed Paul quotes in 1 Corinthians 15 was formed within a few years of the crucifixion and received from those before him, and he records that Peter, James and John extended him fellowship (Galatians 2:9). The Quran also praises Jesus' disciples as standing up for God (Quran 61:14)[^282], which leaves it unexplained how the movement they led went wrong so early and left no trace of the supposed original.
+**"Paul invented Christianity."** The creed Paul quotes in 1 Corinthians 15 was formed within a few years of the crucifixion and received from those before him, and he records that Peter, James and John extended him fellowship (Galatians 2:9). The Quran also praises Jesus' disciples as standing up for God (Quran 61:14)[^288], which leaves it unexplained how the movement they led went wrong so early and left no trace of the supposed original.
 
-**"No one can produce anything like the Quran."** The challenge (Quran 2:23)[^283] names no objective test. Literary excellence is not evidence of divine authorship, or Homer and Shakespeare would qualify. Muhammad's Meccan critics themselves dismissed its stories as tales of the ancients.
+**"No one can produce anything like the Quran."** The challenge (Quran 2:23)[^289] names no objective test. Literary excellence is not evidence of divine authorship, or Homer and Shakespeare would qualify. Muhammad's Meccan critics themselves dismissed its stories as tales of the ancients.
 
-**"The Quran predicted modern science."** Such claims are read back after science discovers something, and depend on stretching Arabic words[^284]. A book with these errors cannot be saved by reading modern physics into its vaguest lines.
+**"The Quran predicted modern science."** Such claims are read back after science discovers something, and depend on stretching Arabic words[^290]. A book with these errors cannot be saved by reading modern physics into its vaguest lines.
 `,
     },
     {
@@ -496,8 +496,8 @@ Christianity spread for three centuries as a persecuted minority with no army. I
       content: `
 A weak argument is easily refuted and damages the strong ones beside it, and several circulate among Christians.
 
-* **"Allah is a moon god."** Arabic-speaking Christians and Jews use Allah as the word for God[^285]. The problem with Islam's God lies in what the Quran says about him, not in the name.
-* **"The seas that do not mix."** Critics and apologists both cite the Quran's two seas with a barrier between them (Quran 55:19-20)[^286]. The waters meant can always be redefined, and nothing is settled.
+* **"Allah is a moon god."** Arabic-speaking Christians and Jews use Allah as the word for God[^291]. The problem with Islam's God lies in what the Quran says about him, not in the name.
+* **"The seas that do not mix."** Critics and apologists both cite the Quran's two seas with a barrier between them (Quran 55:19-20)[^292]. The waters meant can always be redefined, and nothing is settled.
 * **Word-level disputes over embryology.** The stages in Quran 23:14, where bones come before flesh, are argued over by reading the Arabic words loosely or strictly. The claim about the source of semen is plainer, and it is the better one to raise.
 * **Treating all Muslims as the worst Muslims.** Most reject terrorism and many are ashamed of it. Pressing the point on the person in front of you is unjust, and it closes the conversation.
 * **Winning the argument and losing the person.** Peter's instruction covers this: "with gentleness and respect" (1 Peter 3:15).
@@ -689,108 +689,114 @@ A weak argument is easily refuted and damages the strong ones beside it, and sev
     "182. [Primary Source] The Quran 9:30. Quran.com. https://quran.com/9/30",
     "183. [Wikipedia] 'Ibn Ishaq.' https://en.wikipedia.org/wiki/Ibn_Ishaq",
     "184. [Wikipedia] 'Muhammad al-Bukhari.' https://en.wikipedia.org/wiki/Muhammad_al-Bukhari",
-    "185. [Wikipedia] 'Doctrina Jacobi.' https://en.wikipedia.org/wiki/Doctrina_Jacobi",
-    "186. [Wikipedia] 'Gospel of Mark.' https://en.wikipedia.org/wiki/Gospel_of_Mark",
-    "187. [Wikipedia] 'Criticism of Hadith.' https://en.wikipedia.org/wiki/Criticism_of_Hadith",
-    "188. [Wikipedia] 'Quranism.' https://en.wikipedia.org/wiki/Quranism",
-    "189. [Primary Source] The Quran 15:9. Quran.com. https://quran.com/15/9",
-    "190. [Primary Source] Sahih al-Bukhari 4987. Hadith Unlocked. https://hadithunlocked.com/bukhari:4987",
-    "191. [Wikipedia] 'Abdullah ibn Masud.' https://en.wikipedia.org/wiki/Abdullah_ibn_Masud",
-    "192. [Primary Source] Sahih al-Bukhari 6830. Hadith Unlocked. https://hadithunlocked.com/bukhari:6830",
-    "193. [Primary Source] Sunan Ibn Majah 1944. Hadith Unlocked. https://hadithunlocked.com/ibnmajah:1944",
-    "194. [Primary Source] Sahih Muslim 1452. Hadith Unlocked. https://hadithunlocked.com/muslim:1452",
-    "195. [Primary Source] Sahih Muslim 1050. Hadith Unlocked. https://hadithunlocked.com/muslim:1050",
-    "196. [Wikipedia] 'Sana'a manuscript.' https://en.wikipedia.org/wiki/Sana%27a_manuscript",
-    "197. [Academic] 'Birmingham Qur'an manuscript dated among the oldest in the world - University of Birmingham.' University of Birmingham. https://www.birmingham.ac.uk/news/latest/2015/07/quran-manuscript-22-07-15.aspx",
-    "198. [Wikipedia] 'Qira'at.' https://en.wikipedia.org/wiki/Qira%27at",
-    "199. [Primary Source] The Quran 4:82. Quran.com. https://quran.com/4/82",
-    "200. [Primary Source] The Quran 2:106. Quran.com. https://quran.com/2/106",
-    "201. [Primary Source] The Quran 16:101. Quran.com. https://quran.com/16/101",
-    "202. [Wikipedia] 'Abrogation in Islam.' https://en.wikipedia.org/wiki/Abrogation_in_Islam",
-    "203. [Primary Source] The Quran 2:256. Quran.com. https://quran.com/2/256",
-    "204. [Primary Source] The Quran 9:5. Quran.com. https://quran.com/9/5",
-    "205. [Primary Source] The Quran 9:29. Quran.com. https://quran.com/9/29",
-    "206. [Primary Source] Sahih al-Bukhari 25. Hadith Unlocked. https://hadithunlocked.com/bukhari:25",
-    "207. [Wikipedia] 'Sword Verse.' https://en.wikipedia.org/wiki/Sword_Verse",
-    "208. [Primary Source] The Quran 4:11-12. Quran.com. https://quran.com/4/11-12",
-    "209. [Reference] Majalla. ''Awl.' https://majalla.org/ilm/awl/",
-    "210. [Primary Source] The Quran 5:47. Quran.com. https://quran.com/5/47",
-    "211. [Primary Source] The Quran 5:68. Quran.com. https://quran.com/5/68",
-    "212. [Primary Source] The Quran 10:94. Quran.com. https://quran.com/10/94",
-    "213. [Primary Source] The Quran 6:115. Quran.com. https://quran.com/6/115",
-    "214. [Wikipedia] 'Tahrif.' https://en.wikipedia.org/wiki/Tahrif",
-    "215. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Codex Vaticanus.' https://www.newadvent.org/cathen/04086a.htm",
-    "216. [Archaeology] 'What’s Missing from Codex Sinaiticus, the Oldest New Testament?.' Biblical Archaeology Society. https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/absent-from-codex-sinaiticus-oldest-new-testament/",
-    "217. [Primary Source] The Quran 61:6. Quran.com. https://quran.com/61/6",
-    "218. [Primary Source] The Quran 7:157. Quran.com. https://quran.com/7/157",
-    "219. [Wikipedia] 'Paraclete.' https://en.wikipedia.org/wiki/Paraclete",
-    "220. [Wikipedia] 'Gospel of Barnabas.' https://en.wikipedia.org/wiki/Gospel_of_Barnabas",
-    "221. [Primary Source] The Quran 47:15. Quran.com. https://quran.com/47/15",
-    "222. [Primary Source] The Quran 76:19. Quran.com. https://quran.com/76/19",
-    "223. [Primary Source] The Quran 44:54. Quran.com. https://quran.com/44/54",
-    "224. [Primary Source] The Quran 56:22-23. Quran.com. https://quran.com/56/22-23",
-    "225. [Primary Source] The Quran 55:72. Quran.com. https://quran.com/55/72",
-    "226. [Primary Source] The Quran 55:56. Quran.com. https://quran.com/55/56",
-    "227. [Primary Source] The Quran 56:36-37. Quran.com. https://quran.com/56/36-37",
-    "228. [Primary Source] The Quran 78:33. Quran.com. https://quran.com/78/33",
-    "229. [Primary Source] Ibn Kathir, Tafsir on Quran 78:33. Quran.com. https://quran.com/78/33/tafsirs/en-tafisr-ibn-kathir",
-    "230. [Primary Source] Sahih al-Bukhari 3245. Hadith Unlocked. https://hadithunlocked.com/bukhari:3245",
-    "231. [Primary Source] Sahih Muslim 2834a. Hadith Unlocked. https://hadithunlocked.com/muslim:2834a",
-    "232. [Primary Source] Sahih al-Bukhari 4879. Hadith Unlocked. https://hadithunlocked.com/bukhari:4879",
-    "233. [Primary Source] Jami at-Tirmidhi 1663. Hadith Unlocked. https://hadithunlocked.com/tirmidhi:1663",
-    "234. [Primary Source] The Quran 33:35. Quran.com. https://quran.com/33/35",
-    "235. [Primary Source] The Quran 4:56. Quran.com. https://quran.com/4/56",
-    "236. [Primary Source] Sahih al-Bukhari 3265. Hadith Unlocked. https://hadithunlocked.com/bukhari:3265",
-    "237. [Primary Source] The Quran 22:19-21. Quran.com. https://quran.com/22/19-21",
-    "238. [Primary Source] The Quran 14:16-17. Quran.com. https://quran.com/14/16-17",
-    "239. [Primary Source] The Quran 37:64-67. Quran.com. https://quran.com/37/64-67",
-    "240. [Primary Source] The Quran 44:45-46. Quran.com. https://quran.com/44/45-46",
-    "241. [Primary Source] Sahih al-Bukhari 6561. Hadith Unlocked. https://hadithunlocked.com/bukhari:6561",
-    "242. [Primary Source] Sahih al-Bukhari 3883. Hadith Unlocked. https://hadithunlocked.com/bukhari:3883",
-    "243. [Primary Source] Sahih al-Bukhari 3241. Hadith Unlocked. https://hadithunlocked.com/bukhari:3241",
-    "244. [Primary Source] Sahih al-Bukhari 29. Hadith Unlocked. https://hadithunlocked.com/bukhari:29",
-    "245. [Primary Source] The Quran 19:71. Quran.com. https://quran.com/19/71",
-    "246. [Primary Source] Sahih Muslim 2767a. Hadith Unlocked. https://hadithunlocked.com/muslim:2767a",
-    "247. [Primary Source] The Quran 4:157. Quran.com. https://quran.com/4/157",
-    "248. [Wikipedia] 'Crucifixion of Jesus.' https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
-    "249. [Wikipedia] 'Dome of the Rock.' https://en.wikipedia.org/wiki/Dome_of_the_Rock",
-    "250. [Primary Source] The Quran 5:73-75. Quran.com. https://quran.com/5/72-75",
-    "251. [Primary Source] The Quran 29:50-51. Quran.com. https://quran.com/29/50-51",
-    "252. [Encyclopedia] World History Encyclopedia. 'Ridda Wars.' https://www.worldhistory.org/Ridda_Wars/",
-    "253. [Wikipedia] 'Muslim conquest of the Levant.' https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant",
-    "254. [Wikipedia] 'Battle of Yarmuk.' https://en.wikipedia.org/wiki/Battle_of_Yarmuk",
-    "255. [Academic] 'ʿARAB ii. Arab conquest of Iran.' Encyclopaedia Iranica. https://www.iranicaonline.org/articles/arab-ii",
-    "256. [Encyclopedia] World History Encyclopedia. 'Sasanian Empire.' https://www.worldhistory.org/Sasanian_Empire/",
-    "257. [Wikipedia] 'Muslim conquest of Egypt.' https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt",
-    "258. [Wikipedia] 'Umayyad conquest of Hispania.' https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
-    "259. [Wikipedia] 'Battle of Tours.' https://en.wikipedia.org/wiki/Battle_of_Tours",
-    "260. [Wikipedia] 'Early Muslim conquests.' https://en.wikipedia.org/wiki/Early_Muslim_conquests",
-    "261. [Wikipedia] 'Dhimmi.' https://en.wikipedia.org/wiki/Dhimmi",
-    "262. [Wikipedia] 'Jizya.' https://en.wikipedia.org/wiki/Jizya",
-    "263. [Primary Source] The Pact of Umar. Internet History Sourcebooks, Fordham University. https://sourcebooks.fordham.edu/source/pact-umar.asp",
-    "264. [Wikipedia] 'Spread of Islam.' https://en.wikipedia.org/wiki/Spread_of_Islam",
-    "265. [Encyclopedia] World History Encyclopedia. 'First Fitna.' https://www.worldhistory.org/First_Fitna/",
-    "266. [Encyclopedia] World History Encyclopedia. 'Rashidun Caliphate.' https://www.worldhistory.org/Rashidun_Caliphate/",
-    "267. [Academic] Kaya. 1071 BATTLE OF MANZIKERT AND THE MULTILAYERED POLITICAL STRUCTURE OF ANATOLIA A Critical Review Based on Turkish, Kurdish, and Byzantine Sources., 2026. https://doi.org/10.2139/ssrn.7436660",
-    "268. [Encyclopedia] World History Encyclopedia. 'First Crusade.' https://www.worldhistory.org/First_Crusade/",
-    "269. [Wikipedia] 'Crusades.' https://en.wikipedia.org/wiki/Crusades",
-    "270. [Academic] Harris. The Fall of Constantinople. The Oxford Handbook of History and International Relations, 2023. https://doi.org/10.1093/oxfordhb/9780198873457.013.35",
-    "271. [Wikipedia] 'Devshirme.' https://en.wikipedia.org/wiki/Devshirme",
-    "272. [Wikipedia] 'Arab slave trade.' https://en.wikipedia.org/wiki/Arab_slave_trade",
-    "273. [Academic] United States Holocaust Memorial Museum, Holocaust Encyclopedia. 'The Armenian Genocide (1915-16): Overview.' https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview",
-    "274. [Encyclopedia] World History Encyclopedia. 'Islamic Caliphates.' https://www.worldhistory.org/Caliphate/",
-    "275. [Encyclopedia] World History Encyclopedia. 'Umayyad Dynasty.' https://www.worldhistory.org/Umayyad_Caliphate/",
-    "276. [Encyclopedia] World History Encyclopedia. 'Abbasid Dynasty.' https://www.worldhistory.org/Abbasid_Caliphate/",
-    "277. [Wikipedia] 'Al-Andalus.' https://en.wikipedia.org/wiki/Al-Andalus",
-    "278. [Encyclopedia] World History Encyclopedia. 'Ottoman Empire.' https://www.worldhistory.org/Ottoman_Empire/",
-    "279. [Academic] David Commins. From Wahhabi to Salafi. Cambridge University Press eBooks, 2015. https://doi.org/10.1017/cbo9781139047586.011",
-    "280. [Academic] Rachel Ehrenfeld. The Muslim Brotherhood Evolution: An Overview. American Foreign Policy Interests, 2011. https://doi.org/10.1080/10803920.2011.571059",
-    "281. [Wikipedia] 'Islamic State.' https://en.wikipedia.org/wiki/Islamic_State",
-    "282. [Primary Source] The Quran 61:14. Quran.com. https://quran.com/61/14",
-    "283. [Primary Source] The Quran 2:23. Quran.com. https://quran.com/2/23",
-    "284. [Wikipedia] 'Quran and miracles.' https://en.wikipedia.org/wiki/Quran_and_miracles",
-    "285. [Wikipedia] 'Allah.' https://en.wikipedia.org/wiki/Allah",
-    "286. [Primary Source] The Quran 55:19-20. Quran.com. https://quran.com/55/19-20"
+    "185. [Academic] Sahih al-Bukhari 870. Milestone Documents of World Religions, 2011. https://doi.org/10.3735/9781935306191.book-part-045",
+    "186. [Wikipedia] 'Doctrina Jacobi.' https://en.wikipedia.org/wiki/Doctrina_Jacobi",
+    "187. [Wikipedia] 'Gospel of Mark.' https://en.wikipedia.org/wiki/Gospel_of_Mark",
+    "188. [Wikipedia] 'Criticism of Hadith.' https://en.wikipedia.org/wiki/Criticism_of_Hadith",
+    "189. [Wikipedia] 'Quranism.' https://en.wikipedia.org/wiki/Quranism",
+    "190. [Primary Source] The Quran 15:9. Quran.com. https://quran.com/15/9",
+    "191. [Primary Source] Sahih al-Bukhari 4987. Hadith Unlocked. https://hadithunlocked.com/bukhari:4987",
+    "192. [Wikipedia] 'Abdullah ibn Masud.' https://en.wikipedia.org/wiki/Abdullah_ibn_Masud",
+    "193. [Primary Source] Sahih al-Bukhari 6830. Hadith Unlocked. https://hadithunlocked.com/bukhari:6830",
+    "194. [Primary Source] Sunan Ibn Majah 1944. Hadith Unlocked. https://hadithunlocked.com/ibnmajah:1944",
+    "195. [Primary Source] Sahih Muslim 1452. Hadith Unlocked. https://hadithunlocked.com/muslim:1452",
+    "196. [Primary Source] Sahih Muslim 1050. Hadith Unlocked. https://hadithunlocked.com/muslim:1050",
+    "197. [Wikipedia] 'Sana'a manuscript.' https://en.wikipedia.org/wiki/Sana%27a_manuscript",
+    "198. [Academic] 'Birmingham Qur'an manuscript dated among the oldest in the world - University of Birmingham.' University of Birmingham. https://www.birmingham.ac.uk/news/latest/2015/07/quran-manuscript-22-07-15.aspx",
+    "199. [Wikipedia] 'Qira'at.' https://en.wikipedia.org/wiki/Qira%27at",
+    "200. [Primary Source] The Quran 4:82. Quran.com. https://quran.com/4/82",
+    "201. [Primary Source] The Quran 2:106. Quran.com. https://quran.com/2/106",
+    "202. [Primary Source] The Quran 16:101. Quran.com. https://quran.com/16/101",
+    "203. [Wikipedia] 'Abrogation in Islam.' https://en.wikipedia.org/wiki/Abrogation_in_Islam",
+    "204. [Primary Source] The Quran 2:256. Quran.com. https://quran.com/2/256",
+    "205. [Primary Source] The Quran 9:5. Quran.com. https://quran.com/9/5",
+    "206. [Primary Source] The Quran 9:29. Quran.com. https://quran.com/9/29",
+    "207. [Primary Source] Sahih al-Bukhari 25. Hadith Unlocked. https://hadithunlocked.com/bukhari:25",
+    "208. [Wikipedia] 'Sword Verse.' https://en.wikipedia.org/wiki/Sword_Verse",
+    "209. [Primary Source] The Quran 4:11-12. Quran.com. https://quran.com/4/11-12",
+    "210. [Reference] Majalla. ''Awl.' https://majalla.org/ilm/awl/",
+    "211. [Primary Source] The Quran 5:47. Quran.com. https://quran.com/5/47",
+    "212. [Primary Source] The Quran 5:68. Quran.com. https://quran.com/5/68",
+    "213. [Primary Source] The Quran 10:94. Quran.com. https://quran.com/10/94",
+    "214. [Primary Source] The Quran 6:115. Quran.com. https://quran.com/6/115",
+    "215. [Wikipedia] 'Tahrif.' https://en.wikipedia.org/wiki/Tahrif",
+    "216. [Academic] Gordon Nickel. Early Muslim Accusations of Taḥrīf:Muqātil Ibn Sulaymān’s Commentary On Key Qur’anic Verses. BRILL eBooks, 2007. https://doi.org/10.1163/ej.9789004155589.i-421.53",
+    "217. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Codex Vaticanus.' https://www.newadvent.org/cathen/04086a.htm",
+    "218. [Archaeology] 'What’s Missing from Codex Sinaiticus, the Oldest New Testament?.' Biblical Archaeology Society. https://www.biblicalarchaeology.org/daily/biblical-topics/bible-versions-and-translations/absent-from-codex-sinaiticus-oldest-new-testament/",
+    "219. [Primary Source] The Quran 61:6. Quran.com. https://quran.com/61/6",
+    "220. [Primary Source] The Quran 7:157. Quran.com. https://quran.com/7/157",
+    "221. [Wikipedia] 'Paraclete.' https://en.wikipedia.org/wiki/Paraclete",
+    "222. [Wikipedia] 'Gospel of Barnabas.' https://en.wikipedia.org/wiki/Gospel_of_Barnabas",
+    "223. [Primary Source] The Quran 47:15. Quran.com. https://quran.com/47/15",
+    "224. [Primary Source] The Quran 76:19. Quran.com. https://quran.com/76/19",
+    "225. [Primary Source] The Quran 44:54. Quran.com. https://quran.com/44/54",
+    "226. [Primary Source] The Quran 56:22-23. Quran.com. https://quran.com/56/22-23",
+    "227. [Primary Source] The Quran 55:72. Quran.com. https://quran.com/55/72",
+    "228. [Primary Source] The Quran 55:56. Quran.com. https://quran.com/55/56",
+    "229. [Primary Source] The Quran 56:36-37. Quran.com. https://quran.com/56/36-37",
+    "230. [Primary Source] The Quran 78:33. Quran.com. https://quran.com/78/33",
+    "231. [Primary Source] Ibn Kathir, Tafsir on Quran 78:33. Quran.com. https://quran.com/78/33/tafsirs/en-tafisr-ibn-kathir",
+    "232. [Primary Source] Sahih al-Bukhari 3245. Hadith Unlocked. https://hadithunlocked.com/bukhari:3245",
+    "233. [Primary Source] Sahih Muslim 2834a. Hadith Unlocked. https://hadithunlocked.com/muslim:2834a",
+    "234. [Primary Source] Sahih al-Bukhari 4879. Hadith Unlocked. https://hadithunlocked.com/bukhari:4879",
+    "235. [Primary Source] Jami at-Tirmidhi 1663. Hadith Unlocked. https://hadithunlocked.com/tirmidhi:1663",
+    "236. [Primary Source] The Quran 33:35. Quran.com. https://quran.com/33/35",
+    "237. [Primary Source] The Quran 4:56. Quran.com. https://quran.com/4/56",
+    "238. [Primary Source] Sahih al-Bukhari 3265. Hadith Unlocked. https://hadithunlocked.com/bukhari:3265",
+    "239. [Primary Source] The Quran 22:19-21. Quran.com. https://quran.com/22/19-21",
+    "240. [Primary Source] The Quran 14:16-17. Quran.com. https://quran.com/14/16-17",
+    "241. [Primary Source] The Quran 37:64-67. Quran.com. https://quran.com/37/64-67",
+    "242. [Primary Source] The Quran 44:45-46. Quran.com. https://quran.com/44/45-46",
+    "243. [Primary Source] Sahih al-Bukhari 6561. Hadith Unlocked. https://hadithunlocked.com/bukhari:6561",
+    "244. [Primary Source] Sahih al-Bukhari 3883. Hadith Unlocked. https://hadithunlocked.com/bukhari:3883",
+    "245. [Primary Source] Sahih al-Bukhari 3241. Hadith Unlocked. https://hadithunlocked.com/bukhari:3241",
+    "246. [Primary Source] Sahih al-Bukhari 29. Hadith Unlocked. https://hadithunlocked.com/bukhari:29",
+    "247. [Primary Source] The Quran 19:71. Quran.com. https://quran.com/19/71",
+    "248. [Primary Source] Sahih Muslim 2767a. Hadith Unlocked. https://hadithunlocked.com/muslim:2767a",
+    "249. [Primary Source] The Quran 4:157. Quran.com. https://quran.com/4/157",
+    "250. [Wikipedia] 'Crucifixion of Jesus.' https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+    "251. [Wikipedia] 'Dome of the Rock.' https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+    "252. [Primary Source] The Quran 5:73-75. Quran.com. https://quran.com/5/72-75",
+    "253. [Primary Source] The Quran 29:50-51. Quran.com. https://quran.com/29/50-51",
+    "254. [Encyclopedia] World History Encyclopedia. 'Ridda Wars.' https://www.worldhistory.org/Ridda_Wars/",
+    "255. [Wikipedia] 'Muslim conquest of the Levant.' https://en.wikipedia.org/wiki/Muslim_conquest_of_the_Levant",
+    "256. [Wikipedia] 'Battle of Yarmuk.' https://en.wikipedia.org/wiki/Battle_of_Yarmuk",
+    "257. [Academic] 'ʿARAB ii. Arab conquest of Iran.' Encyclopaedia Iranica. https://www.iranicaonline.org/articles/arab-ii",
+    "258. [Encyclopedia] World History Encyclopedia. 'Sasanian Empire.' https://www.worldhistory.org/Sasanian_Empire/",
+    "259. [Wikipedia] 'Muslim conquest of Egypt.' https://en.wikipedia.org/wiki/Muslim_conquest_of_Egypt",
+    "260. [Wikipedia] 'Umayyad conquest of Hispania.' https://en.wikipedia.org/wiki/Umayyad_conquest_of_Hispania",
+    "261. [Academic] Collins. Visigothic Spain 409–711. Spain, 2000. https://doi.org/10.1093/oso/9780198206194.003.0003",
+    "262. [Wikipedia] 'Battle of Tours.' https://en.wikipedia.org/wiki/Battle_of_Tours",
+    "263. [Primary Source] Edward Gibbon, The Decline and Fall of the Roman Empire, chapter 52. Christian Classics Ethereal Library. https://www.ccel.org/g/gibbon/decline/volume2/chap52.htm",
+    "264. [Wikipedia] 'Early Muslim conquests.' https://en.wikipedia.org/wiki/Early_Muslim_conquests",
+    "265. [Academic] Millar. Epilogue Connecting to Muhammad?. Religion, Language and Community in the Roman Near East, 2013. https://doi.org/10.5871/bacad/9780197265574.003.0005",
+    "266. [Wikipedia] 'Dhimmi.' https://en.wikipedia.org/wiki/Dhimmi",
+    "267. [Academic] Bernard Lewis, on non-Muslims under Islamic rule. Internet History Sourcebooks, Fordham University. https://www.fordham.edu/halsall/med/lewis1.html",
+    "268. [Wikipedia] 'Jizya.' https://en.wikipedia.org/wiki/Jizya",
+    "269. [Primary Source] The Pact of Umar. Internet History Sourcebooks, Fordham University. https://sourcebooks.fordham.edu/source/pact-umar.asp",
+    "270. [Wikipedia] 'Spread of Islam.' https://en.wikipedia.org/wiki/Spread_of_Islam",
+    "271. [Encyclopedia] World History Encyclopedia. 'First Fitna.' https://www.worldhistory.org/First_Fitna/",
+    "272. [Encyclopedia] World History Encyclopedia. 'Rashidun Caliphate.' https://www.worldhistory.org/Rashidun_Caliphate/",
+    "273. [Academic] Kaya. 1071 BATTLE OF MANZIKERT AND THE MULTILAYERED POLITICAL STRUCTURE OF ANATOLIA A Critical Review Based on Turkish, Kurdish, and Byzantine Sources., 2026. https://doi.org/10.2139/ssrn.7436660",
+    "274. [Encyclopedia] World History Encyclopedia. 'First Crusade.' https://www.worldhistory.org/First_Crusade/",
+    "275. [Wikipedia] 'Crusades.' https://en.wikipedia.org/wiki/Crusades",
+    "276. [Academic] Harris. The Fall of Constantinople. The Oxford Handbook of History and International Relations, 2023. https://doi.org/10.1093/oxfordhb/9780198873457.013.35",
+    "277. [Wikipedia] 'Devshirme.' https://en.wikipedia.org/wiki/Devshirme",
+    "278. [Wikipedia] 'Arab slave trade.' https://en.wikipedia.org/wiki/Arab_slave_trade",
+    "279. [Academic] United States Holocaust Memorial Museum, Holocaust Encyclopedia. 'The Armenian Genocide (1915-16): Overview.' https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview",
+    "280. [Encyclopedia] World History Encyclopedia. 'Islamic Caliphates.' https://www.worldhistory.org/Caliphate/",
+    "281. [Encyclopedia] World History Encyclopedia. 'Umayyad Dynasty.' https://www.worldhistory.org/Umayyad_Caliphate/",
+    "282. [Encyclopedia] World History Encyclopedia. 'Abbasid Dynasty.' https://www.worldhistory.org/Abbasid_Caliphate/",
+    "283. [Wikipedia] 'Al-Andalus.' https://en.wikipedia.org/wiki/Al-Andalus",
+    "284. [Encyclopedia] World History Encyclopedia. 'Ottoman Empire.' https://www.worldhistory.org/Ottoman_Empire/",
+    "285. [Academic] David Commins. From Wahhabi to Salafi. Cambridge University Press eBooks, 2015. https://doi.org/10.1017/cbo9781139047586.011",
+    "286. [Academic] Rachel Ehrenfeld. The Muslim Brotherhood Evolution: An Overview. American Foreign Policy Interests, 2011. https://doi.org/10.1080/10803920.2011.571059",
+    "287. [Wikipedia] 'Islamic State.' https://en.wikipedia.org/wiki/Islamic_State",
+    "288. [Primary Source] The Quran 61:14. Quran.com. https://quran.com/61/14",
+    "289. [Primary Source] The Quran 2:23. Quran.com. https://quran.com/2/23",
+    "290. [Wikipedia] 'Quran and miracles.' https://en.wikipedia.org/wiki/Quran_and_miracles",
+    "291. [Wikipedia] 'Allah.' https://en.wikipedia.org/wiki/Allah",
+    "292. [Primary Source] The Quran 55:19-20. Quran.com. https://quran.com/55/19-20"
   ],
   lastUpdated: "30-10-2026"
 }
