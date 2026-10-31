@@ -134,7 +134,7 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 • **Edict of Toleration:** Galerius's Edict of Toleration in 311 AD granted Christians the right to practise their religion. Maximinus Daia resumed persecution in the East, and it ended only after the agreement of Constantine and Licinius at Milan in 313[^66][^60].
 
-• **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^67][^60].
+• **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^67][^60][^68].
 
 <?viz resurrection/persecution?>
 
@@ -145,7 +145,7 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
       id: "alternative-theories",
       title: "Alternative Theories and Their Problems",
       tags: ["Objections", "Apologetics"],
-      content: `Alternative theories attempt to explain the minimal historical facts without invoking a divine miracle. Christian historians argue that none accounts for the whole range of evidence; the replies below are theirs, and sceptical scholars contest several of them[^68]:
+      content: `Alternative theories attempt to explain the minimal historical facts without invoking a divine miracle. Christian historians argue that none accounts for the whole range of evidence; the replies below are theirs, and sceptical scholars contest several of them[^69]:
 
 
 **The Swoon Theory**
@@ -154,15 +154,15 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- Roman executioners were experts in crucifixion and trained to verify death. Survival was highly unlikely[^69].
+- Roman executioners were experts in crucifixion and trained to verify death. Survival was highly unlikely[^70].
 
-- The spear thrust into his side ([John 19:34](https://www.biblegateway.com/passage/?search=John+19%3A34&version=NIV)), probably into the chest cavity, would very likely have been fatal even if Jesus were still barely alive[^70].
+- The spear thrust into his side ([John 19:34](https://www.biblegateway.com/passage/?search=John+19%3A34&version=NIV)), probably into the chest cavity, would very likely have been fatal even if Jesus were still barely alive[^71].
 
-- Survival after being taken down from a cross was not strictly impossible: Josephus records that one of three acquaintances he had taken down survived under a physician's care. But survival after a full crucifixion, scourging and the spear wound, followed by burial without treatment, is regarded as extremely improbable[^71].
+- Survival after being taken down from a cross was not strictly impossible: Josephus records that one of three acquaintances he had taken down survived under a physician's care. But survival after a full crucifixion, scourging and the spear wound, followed by burial without treatment, is regarded as extremely improbable[^72].
 
-- A barely conscious Jesus would have had to roll back a heavy blocking stone from inside the tomb and, on Matthew's account, get past a guard[^72].
+- A barely conscious Jesus would have had to roll back a heavy blocking stone from inside the tomb and, on Matthew's account, get past a guard[^73].
 
-- A weakened, barely-alive Jesus would not have inspired the disciples to believe he was the conquering Lord of Life, but would have instead required a physician[^73][^74].
+- A weakened, barely-alive Jesus would not have inspired the disciples to believe he was the conquering Lord of Life, but would have instead required a physician[^74][^75].
 
 **The Hallucination Theory**
 
@@ -170,13 +170,13 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- Many scholars argue that hallucinations are individual experiences, so that the same experience shared by groups is very hard to explain this way. Sceptics reply that collective visionary experiences are reported elsewhere, and the question is disputed[^75][^42].
+- Many scholars argue that hallucinations are individual experiences, so that the same experience shared by groups is very hard to explain this way. Sceptics reply that collective visionary experiences are reported elsewhere, and the question is disputed[^76][^42].
 
-- The appearances happened consistently over a 40-day period, ending with the ascension, which contradicts the typical, short-lived nature of grief hallucinations[^76].
+- The appearances happened consistently over a 40-day period, ending with the ascension, which contradicts the typical, short-lived nature of grief hallucinations[^77].
 
-- The theory fails to explain the empty tomb, which the earliest recorded opponents did not dispute[^77][^3].
+- The theory fails to explain the empty tomb, which the earliest recorded opponents did not dispute[^78][^3].
 
-- The appearances transformed the lives of hostile skeptics like James (Jesus's brother, who denied him during his ministry) and Paul (Saul of Tarsus, a persecutor of the church), which hallucinations cannot account for. Paul would also need to have hallucinated years later[^78][^79].
+- The appearances transformed the lives of hostile skeptics like James (Jesus's brother, who denied him during his ministry) and Paul (Saul of Tarsus, a persecutor of the church), which hallucinations cannot account for. Paul would also need to have hallucinated years later[^79][^80].
 
 **The Conspiracy Theory**
 
@@ -184,11 +184,11 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- Disciples died for their claims, which is psychologically improbable if they knew the foundational claim was a lie[^80].
+- Disciples died for their claims, which is psychologically improbable if they knew the foundational claim was a lie[^81].
 
-- According to Matthew the tomb was sealed and guarded, making it highly difficult for a small group of frightened fishermen to break in and move the body; the guard is reported only by Matthew[^81][^82].
+- According to Matthew the tomb was sealed and guarded, making it highly difficult for a small group of frightened fishermen to break in and move the body; the guard is reported only by Matthew[^82][^83].
 
-- The theory only explains the empty tomb; it cannot account for the multiple eyewitness appearances to Peter, the Twelve, the 500, James, and Paul[^83].
+- The theory only explains the empty tomb; it cannot account for the multiple eyewitness appearances to Peter, the Twelve, the 500, James, and Paul[^84].
 
 **The Wrong Tomb Theory**
 
@@ -196,11 +196,11 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- This theory is highly unlikely given the prominence of the burial and the short distance between the burial and the city center[^84].
+- This theory is highly unlikely given the prominence of the burial and the short distance between the burial and the city center[^85].
 
-- Joseph of Arimathea (the owner) or the Jewish authorities would have quickly pointed out the correct, occupied tomb to silence the resurrection claims[^85].
+- Joseph of Arimathea (the owner) or the Jewish authorities would have quickly pointed out the correct, occupied tomb to silence the resurrection claims[^86].
 
-- The theory, like the conspiracy, cannot explain the numerous, varied, and consistent post-mortem appearances witnessed by over 500 people[^86].
+- The theory, like the conspiracy, cannot explain the numerous, varied, and consistent post-mortem appearances witnessed by over 500 people[^87].
 
 **The Alien Theory**
 
@@ -208,25 +208,25 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- No historical or empirical evidence supports this. It is an ad-hoc theory invented to avoid the supernatural while ignoring the historical context of Jesus's life, teachings, and explicit predictions of his own resurrection[^87][^88].
+- No historical or empirical evidence supports this. It is an ad-hoc theory invented to avoid the supernatural while ignoring the historical context of Jesus's life, teachings, and explicit predictions of his own resurrection[^88][^89].
 
 **How early the belief was.** The resurrection belief was immediate, not a later theological development:
 
-- **1 Corinthians 15:3-7**: A pre-Pauline creed dating to within 2 to 5 years of the event[^89][^3].
+- **1 Corinthians 15:3-7**: A pre-Pauline creed dating to within 2 to 5 years of the event[^90][^3].
 
-- **Early Sermons in Acts**: The resurrection was the central message of the *kerygma* (κήρυγμα, proclamation) from the very beginning of the Church's life[^90][^91][^92].
+- **Early Sermons in Acts**: The resurrection was the central message of the *kerygma* (κήρυγμα, proclamation) from the very beginning of the Church's life[^91][^92][^93].
 
-- **Paul's Letters**: Written 20 to 30 years after the event, they assume the resurrection as the fundamental, non-negotiable fact of the faith[^93][^94].
+- **Paul's Letters**: Written 20 to 30 years after the event, they assume the resurrection as the fundamental, non-negotiable fact of the faith[^94][^95].
 
 <?viz resurrection/source-distance?>
 
 **What sceptical scholars concede.** Critical scholars and sceptics grant much of the minimal facts, while denying that Jesus actually rose.
 
-**Gerd Lüdemann** (Atheist New Testament Scholar): "It may be taken as historically certain that Peter and the Disciples had experiences after Jesus' death in which Jesus appeared to them as the risen Christ"[^95][^3].
+**Gerd Lüdemann** (Atheist New Testament Scholar): "It may be taken as historically certain that Peter and the Disciples had experiences after Jesus' death in which Jesus appeared to them as the risen Christ"[^96][^3].
 
-**Bart Ehrman** (Agnostic New Testament Scholar): "We can say with complete certainty that some disciples at some later time insisted that... he soon appeared to them, convincing them that he had been raised from the dead. It is historical fact that some of Jesus' followers came to believe that he had been raised from the dead soon after his execution"[^96][^97].
+**Bart Ehrman** (Agnostic New Testament Scholar): "We can say with complete certainty that some disciples at some later time insisted that... he soon appeared to them, convincing them that he had been raised from the dead. It is historical fact that some of Jesus' followers came to believe that he had been raised from the dead soon after his execution"[^97][^98].
 
-**Paula Fredriksen** (Jewish Historian): "I know in their own terms what they saw was the raised Jesus... I'm not saying that they really did see the raised Jesus. I wasn't there. But I do know... as a historian they must have seen something"[^97].
+**Paula Fredriksen** (Jewish Historian): "I know in their own terms what they saw was the raised Jesus... I'm not saying that they really did see the raised Jesus. I wasn't there. But I do know... as a historian they must have seen something"[^98].
 
 **See also:** [Isn't Faith Believing Without Evidence? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-faith-and-evidence).
 `,
@@ -300,36 +300,37 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
     "65. [Wikipedia] 'Diocletianic Persecution.' https://en.wikipedia.org/wiki/Diocletianic_Persecution",
     "66. [Wikipedia] 'Edict of Serdica.' https://en.wikipedia.org/wiki/Edict_of_Serdica",
     "67. [Wikipedia] 'Edict of Thessalonica.' https://en.wikipedia.org/wiki/Edict_of_Thessalonica",
-    "68. [Apologetics] Gary R. Habermas, Christian Research Institute. 'Changing Attitudes Toward the Resurrection of Jesus.' https://www.equip.org/articles/changing-attitudes-toward-the-resurrection-of-jesus/",
-    "69. [Apologetics] GotQuestions.org. 'What is the Swoon Theory? Did Jesus survive the crucifixion?' https://www.gotquestions.org/swoon-theory.html",
-    "70. [Primary Source] David Friedrich Strauss, Project Gutenberg. 'The Life of Jesus Critically Examined' (on the spear wound and the reality of Jesus' death). https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
-    "71. [Primary Source] Flavius Josephus, trans. William Whiston. 'The Life of Flavius Josephus' (section 75). Project Gutenberg. https://www.gutenberg.org/files/2846/2846-h/2846-h.htm",
-    "72. [Commentary] Bible Hub. 'Commentaries on Matthew 27:66.' https://biblehub.com/commentaries/matthew/27-66.htm",
-    "73. [Wikipedia] 'Swoon hypothesis.' https://en.wikipedia.org/wiki/Swoon_hypothesis",
-    "74. [Commentary] Commentaries on John 19:34. Bible Hub. https://biblehub.com/commentaries/john/19-34.htm",
-    "75. [Wikipedia] 'Vision theory of Jesus' appearances.' https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
-    "76. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Ascension.' https://www.newadvent.org/cathen/01767a.htm",
-    "77. [Apologetics] GotQuestions.org. 'What is the Hallucination Theory?' https://www.gotquestions.org/hallucination-theory.html",
-    "78. [Wikipedia] 'Conversion of Paul the Apostle.' https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle",
-    "79. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. Paul.' https://www.newadvent.org/cathen/11567b.htm",
-    "80. [Academic] Sean McDowell, Southern Baptist Theological Seminary dissertation. 'A Historical Evaluation of the Evidence for the Death of the Apostles as Martyrs for Their Faith.' https://repository.sbts.edu/handle/10392/4857",
-    "81. [Wikipedia] 'Stolen body hypothesis.' https://en.wikipedia.org/wiki/Stolen_body_hypothesis",
-    "82. [Commentary] Commentaries on Matthew 28:13. Bible Hub. https://biblehub.com/commentaries/matthew/28-13.htm",
-    "83. [Apologetics] Justin Holcomb, Christianity.com. 'How Well Can You Defend the Resurrection?' https://www.christianity.com/wiki/jesus-christ/defending-the-resurrection-of-jesus.html",
-    "84. [Apologetics] Steven Ruff. 'False Theories of the Resurrection, Part 6: Why the Wrong Tomb Theory Comes Up Short.' https://stevenruff.com/2021/04/10/false-theories-of-the-resurrection-part-6-why-the-wrong-tomb-theory-comes-up-short/",
-    "85. [Creationist] Tim Chaffey, Answers in Genesis. 'Grasping at Straws.' https://answersingenesis.org/jesus-christ/resurrection/grasping-at-straws/",
-    "86. [Apologetics] Jimmy Akin, Catholic Answers. 'The Wrong Tomb Hypothesis.' https://shop.catholic.com/blog/the-wrong-tomb-hypothesis/",
-    "87. [Wikipedia] 'Ancient astronauts.' https://en.wikipedia.org/wiki/Ancient_astronauts",
-    "88. [Commentary] Commentaries on Mark 8:31. Bible Hub. https://biblehub.com/commentaries/mark/8-31.htm",
-    "89. [Wikipedia] 'Creed' (Christian creeds: 1 Corinthians 15:3-7). https://en.wikipedia.org/wiki/Creed",
-    "90. [Commentary] Bible Hub. 'Commentaries on Acts 2:32.' https://biblehub.com/commentaries/acts/2-32.htm",
-    "91. [Academic] Hartog. Kerygma. The Encyclopedia of Christian Civilization, 2011. https://doi.org/10.1002/9780470670606.wbecc0751",
-    "92. [Wikipedia] 'Kerygma.' https://en.wikipedia.org/wiki/Kerygma",
-    "93. [Wikipedia] 'Pauline epistles.' https://en.wikipedia.org/wiki/Pauline_epistles",
-    "94. [Commentary] Commentaries on 1 Corinthians 15:14. Bible Hub. https://biblehub.com/commentaries/1_corinthians/15-14.htm",
-    "95. [Academic] Gerd Lüdemann - What Really Happened to Jesus? (p. 80). 'It may be taken as historically certain that Peter and the disciples had experiences after Jesus' death..' https://www.amazon.com/What-Really-Happened-Jesus-Historical/dp/0664256473",
-    "96. [Academic] Bart Ehrman - Jesus: Apocalyptic Prophet of the New Millennium (p. 231). 'We can say with complete certainty that some disciples.. insisted that he soon appeared to them.' https://www.amazon.com/Jesus-Apocalyptic-Prophet-New-Millennium/dp/019512474X",
-    "97. [Commentary] Justin Bass, Christianity Today (2020), quoting Paula Fredriksen in ABC's 'The Search for Jesus' (2000). 'What Skeptical Scholars Admit about the Resurrection Appearances of Jesus.' https://www.christianitytoday.com/2020/04/justin-bass-bedrock-christianity-resurrection-appearances/"
+    "68. [Encyclopedia] World History Encyclopedia. 'Constantine I.' https://www.worldhistory.org/Constantine_I/",
+    "69. [Apologetics] Gary R. Habermas, Christian Research Institute. 'Changing Attitudes Toward the Resurrection of Jesus.' https://www.equip.org/articles/changing-attitudes-toward-the-resurrection-of-jesus/",
+    "70. [Apologetics] GotQuestions.org. 'What is the Swoon Theory? Did Jesus survive the crucifixion?' https://www.gotquestions.org/swoon-theory.html",
+    "71. [Primary Source] David Friedrich Strauss, Project Gutenberg. 'The Life of Jesus Critically Examined' (on the spear wound and the reality of Jesus' death). https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+    "72. [Primary Source] Flavius Josephus, trans. William Whiston. 'The Life of Flavius Josephus' (section 75). Project Gutenberg. https://www.gutenberg.org/files/2846/2846-h/2846-h.htm",
+    "73. [Commentary] Bible Hub. 'Commentaries on Matthew 27:66.' https://biblehub.com/commentaries/matthew/27-66.htm",
+    "74. [Wikipedia] 'Swoon hypothesis.' https://en.wikipedia.org/wiki/Swoon_hypothesis",
+    "75. [Commentary] Commentaries on John 19:34. Bible Hub. https://biblehub.com/commentaries/john/19-34.htm",
+    "76. [Wikipedia] 'Vision theory of Jesus' appearances.' https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+    "77. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Ascension.' https://www.newadvent.org/cathen/01767a.htm",
+    "78. [Apologetics] GotQuestions.org. 'What is the Hallucination Theory?' https://www.gotquestions.org/hallucination-theory.html",
+    "79. [Wikipedia] 'Conversion of Paul the Apostle.' https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle",
+    "80. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. Paul.' https://www.newadvent.org/cathen/11567b.htm",
+    "81. [Academic] Sean McDowell, Southern Baptist Theological Seminary dissertation. 'A Historical Evaluation of the Evidence for the Death of the Apostles as Martyrs for Their Faith.' https://repository.sbts.edu/handle/10392/4857",
+    "82. [Wikipedia] 'Stolen body hypothesis.' https://en.wikipedia.org/wiki/Stolen_body_hypothesis",
+    "83. [Commentary] Commentaries on Matthew 28:13. Bible Hub. https://biblehub.com/commentaries/matthew/28-13.htm",
+    "84. [Apologetics] Justin Holcomb, Christianity.com. 'How Well Can You Defend the Resurrection?' https://www.christianity.com/wiki/jesus-christ/defending-the-resurrection-of-jesus.html",
+    "85. [Apologetics] Steven Ruff. 'False Theories of the Resurrection, Part 6: Why the Wrong Tomb Theory Comes Up Short.' https://stevenruff.com/2021/04/10/false-theories-of-the-resurrection-part-6-why-the-wrong-tomb-theory-comes-up-short/",
+    "86. [Creationist] Tim Chaffey, Answers in Genesis. 'Grasping at Straws.' https://answersingenesis.org/jesus-christ/resurrection/grasping-at-straws/",
+    "87. [Apologetics] Jimmy Akin, Catholic Answers. 'The Wrong Tomb Hypothesis.' https://shop.catholic.com/blog/the-wrong-tomb-hypothesis/",
+    "88. [Wikipedia] 'Ancient astronauts.' https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "89. [Commentary] Commentaries on Mark 8:31. Bible Hub. https://biblehub.com/commentaries/mark/8-31.htm",
+    "90. [Wikipedia] 'Creed' (Christian creeds: 1 Corinthians 15:3-7). https://en.wikipedia.org/wiki/Creed",
+    "91. [Commentary] Bible Hub. 'Commentaries on Acts 2:32.' https://biblehub.com/commentaries/acts/2-32.htm",
+    "92. [Academic] Hartog. Kerygma. The Encyclopedia of Christian Civilization, 2011. https://doi.org/10.1002/9780470670606.wbecc0751",
+    "93. [Wikipedia] 'Kerygma.' https://en.wikipedia.org/wiki/Kerygma",
+    "94. [Wikipedia] 'Pauline epistles.' https://en.wikipedia.org/wiki/Pauline_epistles",
+    "95. [Commentary] Commentaries on 1 Corinthians 15:14. Bible Hub. https://biblehub.com/commentaries/1_corinthians/15-14.htm",
+    "96. [Academic] Gerd Lüdemann - What Really Happened to Jesus? (p. 80). 'It may be taken as historically certain that Peter and the disciples had experiences after Jesus' death..' https://www.amazon.com/What-Really-Happened-Jesus-Historical/dp/0664256473",
+    "97. [Academic] Bart Ehrman - Jesus: Apocalyptic Prophet of the New Millennium (p. 231). 'We can say with complete certainty that some disciples.. insisted that he soon appeared to them.' https://www.amazon.com/Jesus-Apocalyptic-Prophet-New-Millennium/dp/019512474X",
+    "98. [Commentary] Justin Bass, Christianity Today (2020), quoting Paula Fredriksen in ABC's 'The Search for Jesus' (2000). 'What Skeptical Scholars Admit about the Resurrection Appearances of Jesus.' https://www.christianitytoday.com/2020/04/justin-bass-bedrock-christianity-resurrection-appearances/"
   ],
   lastUpdated: "30-10-2026",
 }

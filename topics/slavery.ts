@@ -24,7 +24,7 @@ export const slavery: Topic = {
     <p>• Indentured servitude for debt relief[^4][^3]</p>
     <p>• Voluntary service contracts[^5][^3]</p>
     <p>• Household servants with legal protections[^6][^7]</p>
-    <p>• Military servants and administrative officials[^8]</p>
+    <p>• Military servants and administrative officials[^8][^3]</p>
 <p><strong>See also:</strong> [Shellfish, Stoning and the Harsh Laws (Did God Change?)](/categories/did-god-change#section-harsh-old-testament-laws).</p>
 `,
     },
