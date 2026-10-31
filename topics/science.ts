@@ -171,19 +171,19 @@ A stronger claim than bare compatibility is also defensible. Christian theology 
       title: "Where the Warfare Story Came From",
       tags: ["History"],
       content: `
-Two books built the idea. John William Draper's *History of the Conflict between Religion and Science* appeared in 1874, written in the wake of the First Vatican Council and its definition of papal infallibility, and Andrew Dickson White's *A History of the Warfare of Science with Theology in Christendom* followed in 1896[^7][^8]. White was the founding president of Cornell, a university established without religious affiliation, and his history served partly to defend that founding against clerical criticism[^9][^10].
+Two books built the idea. John William Draper's *History of the Conflict between Religion and Science* appeared in 1874, written in the wake of the First Vatican Council and its definition of papal infallibility, and Andrew Dickson White's *A History of the Warfare of Science with Theology in Christendom* followed in 1896[^7][^8][^9]. White was the founding president of Cornell, a university established without religious affiliation, and his history served partly to defend that founding against clerical criticism[^10][^11].
 
 
 
-Both books were polemics with footnotes, and neither survived examination. Draper's is no longer treated as a reliable secondary source, and specialists in nineteenth-century German material have shown that even the details of the conflict narrative were assembled to fit the argument rather than drawn from it[^11].
+Both books were polemics with footnotes, and neither survived examination. Draper's is no longer treated as a reliable secondary source, and specialists in nineteenth-century German material have shown that even the details of the conflict narrative were assembled to fit the argument rather than drawn from it[^12].
 
-Acceptance of the thesis declined across the twentieth century, and by the 1980s historians of science had largely abandoned it. A landmark was *God and Nature*, an eighteen-essay collection edited by David Lindberg and Ronald Numbers in 1986, which reassessed the trial of Galileo, the Newtonian synthesis and the reception of Darwin using the available archival scholarship instead of the warfare frame[^12][^13].
+Acceptance of the thesis declined across the twentieth century, and by the 1980s historians of science had largely abandoned it. A landmark was *God and Nature*, an eighteen-essay collection edited by David Lindberg and Ronald Numbers in 1986, which reassessed the trial of Galileo, the Newtonian synthesis and the reception of Darwin using the available archival scholarship instead of the warfare frame[^13][^14].
 
-**A worked example of how such a myth forms.** The story that medieval Christians thought the earth flat, and that Columbus faced down hooded theologians at Salamanca, is an invention of Washington Irving's fictionalised 1828 life of Columbus. Educated Europeans had held the earth to be a sphere since antiquity; the fourth-century Lactantius and the sixth-century Alexandrian writer Cosmas Indicopleustes are the best-known Christian authors who argued otherwise, and neither shaped educated opinion on the point[^14][^8].
+**A worked example of how such a myth forms.** The story that medieval Christians thought the earth flat, and that Columbus faced down hooded theologians at Salamanca, is an invention of Washington Irving's fictionalised 1828 life of Columbus. Educated Europeans had held the earth to be a sphere since antiquity; the fourth-century Lactantius and the sixth-century Alexandrian writer Cosmas Indicopleustes are the best-known Christian authors who argued otherwise, and neither shaped educated opinion on the point[^15][^8].
 
-The corresponding picture of the medieval period as a scientific blank is equally hard to sustain. Bede tied the tides to the lunar cycle and noted their local variation in the eighth century, and Gerbert of Aurillac, who became Pope Sylvester II in 999, reintroduced the abacus and the armillary sphere to western Europe and taught Arabic numerals[^15][^16].
+The corresponding picture of the medieval period as a scientific blank is equally hard to sustain. Bede tied the tides to the lunar cycle and noted their local variation in the eighth century, and Gerbert of Aurillac, who became Pope Sylvester II in 999, reintroduced the abacus and the armillary sphere to western Europe and taught Arabic numerals[^16][^17].
 
-None of this makes the record clean. Galileo's condemnation stands, the reception of Darwin was genuinely hostile in places, and the twentieth-century American disputes over school curricula were fought in earnest. The point is narrower: those episodes are the exceptions from which a general law was wrongly inferred[^17].
+None of this makes the record clean. Galileo's condemnation stands, the reception of Darwin was genuinely hostile in places, and the twentieth-century American disputes over school curricula were fought in earnest. The point is narrower: those episodes are the exceptions from which a general law was wrongly inferred[^18].
 `
     },
     {
@@ -191,23 +191,23 @@ None of this makes the record clean. Galileo's condemnation stands, the receptio
       title: "Why Christian Theology Made Science Thinkable",
       tags: ["Theology"],
       content: `
-Natural science needs assumptions it cannot itself establish. It needs nature to be orderly, that order to be intelligible to human minds, and the actual order to be discoverable only by looking. Christian doctrine supplied all three[^18].
+Natural science needs assumptions it cannot itself establish. It needs nature to be orderly, that order to be intelligible to human minds, and the actual order to be discoverable only by looking. Christian doctrine supplied all three[^19].
 
-**Creation is orderly because its maker is rational.** A universe made by a single rational God, and not the by-product of a struggle among capricious deities, is the kind of thing that can have laws at all. The very concept of a law of nature carries this theological ancestry: the language of divine legislation over matter runs through Descartes, Boyle and Newton before it becomes the neutral technical term now in use[^19][^20].
+**Creation is orderly because its maker is rational.** A universe made by a single rational God, and not the by-product of a struggle among capricious deities, is the kind of thing that can have laws at all. The very concept of a law of nature carries this theological ancestry: the language of divine legislation over matter runs through Descartes, Boyle and Newton before it becomes the neutral technical term now in use[^20][^21].
 
-**Creation is contingent, so nature must be investigated rather than deduced.** If God was free to make the world one way rather than another, no amount of reasoning from first principles will tell you which way he chose. That is an argument for going and looking, and it cuts directly against the Aristotelian confidence that the structure of nature could be derived from self-evident premises[^21].
+**Creation is contingent, so nature must be investigated rather than deduced.** If God was free to make the world one way rather than another, no amount of reasoning from first principles will tell you which way he chose. That is an argument for going and looking, and it cuts directly against the Aristotelian confidence that the structure of nature could be derived from self-evident premises[^22].
 
-**Human minds are fitted to the task.** Being made in the image of God grounds the expectation that creatures can understand the creation they are set in, which is the assumption every experiment silently relies on[^22].
+**Human minds are fitted to the task.** Being made in the image of God grounds the expectation that creatures can understand the creation they are set in, which is the assumption every experiment silently relies on[^23].
 
-**Nature is not divine.** Genesis presents the sun and moon as objects that God made rather than as gods, which removes the religious objection to dissecting, measuring and experimenting on the natural world[^23].
+**Nature is not divine.** Genesis presents the sun and moon as objects that God made rather than as gods, which removes the religious objection to dissecting, measuring and experimenting on the natural world[^24].
 
-**Both books have the same author.** The doctrine of general and special revelation treats Scripture and nature as two divine books, so that a genuine contradiction between them is impossible in principle and any apparent one is an error in reading one book or the other[^24].
+**Both books have the same author.** The doctrine of general and special revelation treats Scripture and nature as two divine books, so that a genuine contradiction between them is impossible in principle and any apparent one is an error in reading one book or the other[^25].
 
-Peter Harrison has pressed a further and more specific version of the argument: the Reformation's insistence on the literal sense of the biblical text broke the medieval habit of reading natural objects as symbols pointing beyond themselves, and a nature no longer read allegorically became available for description and measurement[^25][^26].
+Peter Harrison has pressed a further and more specific version of the argument: the Reformation's insistence on the literal sense of the biblical text broke the medieval habit of reading natural objects as symbols pointing beyond themselves, and a nature no longer read allegorically became available for description and measurement[^26][^27].
 
-**Where the argument should stop.** The claim that Christianity is a sufficient cause of modern science, or that no other civilisation could have produced it, goes past the evidence. Greek natural philosophy, Islamic mathematics, astronomy and optics, and Chinese technical achievement all did real work, and much of the medieval Latin recovery of Aristotle came through Arabic translation and commentary. The defensible claim is narrower and still substantial: Christian doctrine made a set of assumptions available and normal that the scientific enterprise turned out to need[^27][^28].
+**Where the argument should stop.** The claim that Christianity is a sufficient cause of modern science, or that no other civilisation could have produced it, goes past the evidence. Greek natural philosophy, Islamic mathematics, astronomy and optics, and Chinese technical achievement all did real work, and much of the medieval Latin recovery of Aristotle came through Arabic translation and commentary. The defensible claim is narrower and still substantial: Christian doctrine made a set of assumptions available and normal that the scientific enterprise turned out to need[^28][^29].
 
-The assumptions have not gone away, and none of them has a scientific proof. That nature will continue to behave tomorrow as it did today is the problem of induction, unresolved since Hume, and it is presupposed by every experiment ever run[^29].
+The assumptions have not gone away, and none of them has a scientific proof. That nature will continue to behave tomorrow as it did today is the problem of induction, unresolved since Hume, and it is presupposed by every experiment ever run[^30].
 
 **See also:** [Fine Tuning](/categories/fine-tuning).
 `
@@ -217,24 +217,24 @@ The assumptions have not gone away, and none of them has a scientific proof. Tha
       title: "Monasteries, Universities and the Medieval Groundwork",
       tags: ["History"],
       content: `
-The institutions came first. Benedictine houses copied and preserved classical texts through the collapse of Roman administration, and the Carolingian reform of the eighth and ninth centuries built a network of cathedral and monastic schools with a fixed curriculum in the liberal arts[^30][^31].
+The institutions came first. Benedictine houses copied and preserved classical texts through the collapse of Roman administration, and the Carolingian reform of the eighth and ninth centuries built a network of cathedral and monastic schools with a fixed curriculum in the liberal arts[^31][^32].
 
-Out of those schools came the university, which is a medieval Christian invention with no ancient precedent: a self-governing corporation of masters and students, holding a charter, awarding degrees, and teaching a syllabus that continued after any individual teacher had gone. Bologna dates from 1088, Paris and Oxford follow within a century; Paris and Oxford grew out of church schools and Bologna out of student guilds, and all three were staffed largely by clerics and protected by papal privileges[^32][^33][^34][^35].
+Out of those schools came the university, which is a medieval Christian invention with no ancient precedent: a self-governing corporation of masters and students, holding a charter, awarding degrees, and teaching a syllabus that continued after any individual teacher had gone. Bologna dates from 1088, Paris and Oxford follow within a century; Paris and Oxford grew out of church schools and Bologna out of student guilds, and all three were staffed largely by clerics and protected by papal privileges[^33][^34][^35][^36].
 
-Their arts faculties made Aristotle's natural philosophy compulsory reading for every student of theology, law or medicine. For roughly four centuries, the largest sustained investment in the study of nature in Europe was carried by these Church-sanctioned institutions[^36].
+Their arts faculties made Aristotle's natural philosophy compulsory reading for every student of theology, law or medicine. For roughly four centuries, the largest sustained investment in the study of nature in Europe was carried by these Church-sanctioned institutions[^37].
 
-**A restriction that opened things up.** In 1277 the Bishop of Paris condemned 219 propositions, among them the claim that God could not have created a vacuum, or more than one world. The condemnation was meant to curb Aristotelian necessitarianism, and its effect was to license enquiry: if God could have made things otherwise, the way things actually are becomes a question for investigation rather than deduction[^37].
+**A restriction that opened things up.** In 1277 the Bishop of Paris condemned 219 propositions, among them the claim that God could not have created a vacuum, or more than one world. The condemnation was meant to curb Aristotelian necessitarianism, and its effect was to license enquiry: if God could have made things otherwise, the way things actually are becomes a question for investigation rather than deduction[^38].
 
 **Individual work worth naming.**
 
-*   **Robert Grosseteste** (c. 1168 to 1253), Bishop of Lincoln, wrote *De luce* around 1225, describing the cosmos as an expansion of light from a single point governed by one consistent set of principles. A Durham-led project that produced a new Latin edition and worked his account through modern mathematics found it internally coherent as physics. He also set out a method of resolution and composition, generalising from observation and then testing the generalisation, which is recognisably experimental[^38][^39][^40][^41].
-*   **Albertus Magnus** (c. 1200 to 1280), a Dominican, wrote detailed botanical and zoological observation and stated plainly that in matters of nature the aim is to establish what happens by experience rather than to repeat authority[^42].
-*   **Roger Bacon** (c. 1219 to 1292), a Franciscan, argued for mathematics and *scientia experimentalis* as the route to knowledge of nature, and did original work on optics and the rainbow[^43].
-*   **Jean Buridan** (c. 1300 to 1361), rector at Paris, developed the theory of impetus, an ancestor of momentum, and used it to argue that a projectile continues because a quality imparted to it persists rather than because air pushes it[^44].
-*   **The Oxford Calculators** at Merton College, and **Thomas Bradwardine** among them, applied mathematics to motion and stated the mean speed theorem: a uniformly accelerating body covers the same distance as one moving steadily at half its final speed[^45][^46][^47].
-*   **Nicole Oresme** (c. 1320 to 1382), Bishop of Lisieux, gave the mean speed theorem a geometric proof using what amount to velocity-time graphs, two centuries before analytic geometry, and argued that the daily rotation of the earth could not be ruled out by any available observation[^48][^49].
+*   **Robert Grosseteste** (c. 1168 to 1253), Bishop of Lincoln, wrote *De luce* around 1225, describing the cosmos as an expansion of light from a single point governed by one consistent set of principles. A Durham-led project that produced a new Latin edition and worked his account through modern mathematics found it internally coherent as physics. He also set out a method of resolution and composition, generalising from observation and then testing the generalisation, which is recognisably experimental[^39][^40][^41][^42].
+*   **Albertus Magnus** (c. 1200 to 1280), a Dominican, wrote detailed botanical and zoological observation and stated plainly that in matters of nature the aim is to establish what happens by experience rather than to repeat authority[^43].
+*   **Roger Bacon** (c. 1219 to 1292), a Franciscan, argued for mathematics and *scientia experimentalis* as the route to knowledge of nature, and did original work on optics and the rainbow[^44].
+*   **Jean Buridan** (c. 1300 to 1361), rector at Paris, developed the theory of impetus, an ancestor of momentum, and used it to argue that a projectile continues because a quality imparted to it persists rather than because air pushes it[^45].
+*   **The Oxford Calculators** at Merton College, and **Thomas Bradwardine** among them, applied mathematics to motion and stated the mean speed theorem: a uniformly accelerating body covers the same distance as one moving steadily at half its final speed[^46][^47][^48].
+*   **Nicole Oresme** (c. 1320 to 1382), Bishop of Lisieux, gave the mean speed theorem a geometric proof using what amount to velocity-time graphs, two centuries before analytic geometry, and argued that the daily rotation of the earth could not be ruled out by any available observation[^49][^50].
 
-That is the body of work Galileo inherited. The kinematics of falling bodies did not begin in 1600; it began in fourteenth-century Church-funded colleges and was carried forward by men in holy orders[^50].
+That is the body of work Galileo inherited. The kinematics of falling bodies did not begin in 1600; it began in fourteenth-century Church-funded colleges and was carried forward by men in holy orders[^51].
 
 **See also:** [Schools, Literacy and Language (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-education).
 `
@@ -244,43 +244,43 @@ That is the body of work Galileo inherited. The kinematics of falling bodies did
       title: "Christians Who Built Modern Science",
       tags: ["Scientists"],
       content: `
-The list below is not offered as an argument that Christianity is true. Many able scientists have held other views or none, and counting heads settles nothing. It is offered against a narrower claim, namely that serious scientific work and Christian conviction do not sit together in the same head[^51].
+The list below is not offered as an argument that Christianity is true. Many able scientists have held other views or none, and counting heads settles nothing. It is offered against a narrower claim, namely that serious scientific work and Christian conviction do not sit together in the same head[^52].
 
 
 
-**Nicolaus Copernicus** (1473 to 1543) was a canon of the cathedral chapter at Frombork, and held that post while working out the heliocentric model. *De revolutionibus* was dedicated to Pope Paul III and circulated for seventy-three years before the Congregation of the Index took any action against it[^52][^53].
+**Nicolaus Copernicus** (1473 to 1543) was a canon of the cathedral chapter at Frombork, and held that post while working out the heliocentric model. *De revolutionibus* was dedicated to Pope Paul III and circulated for seventy-three years before the Congregation of the Index took any action against it[^53][^54].
 
-**Johannes Kepler** (1571 to 1630) trained for the Lutheran ministry at Tubingen before turning to astronomy, and treated the mathematical structure of the heavens as the ordering of a creation. He replaced circular orbits with ellipses, stated the three laws of planetary motion, and wrote his religious motivation into the prefaces rather than keeping it separate from the work[^54][^55].
+**Johannes Kepler** (1571 to 1630) trained for the Lutheran ministry at Tubingen before turning to astronomy, and treated the mathematical structure of the heavens as the ordering of a creation. He replaced circular orbits with ellipses, stated the three laws of planetary motion, and wrote his religious motivation into the prefaces rather than keeping it separate from the work[^55][^56].
 
-**Blaise Pascal** (1623 to 1662) established the principles of hydrostatics and, with Fermat, the mathematics of probability, then devoted his last years to the *Pensees*, an unfinished defence of the Christian faith[^56][^57].
+**Blaise Pascal** (1623 to 1662) established the principles of hydrostatics and, with Fermat, the mathematics of probability, then devoted his last years to the *Pensees*, an unfinished defence of the Christian faith[^57][^58].
 
-**Robert Boyle** (1627 to 1691) is the founder of experimental chemistry and a founding fellow of the Royal Society. He wrote *The Christian Virtuoso* to argue that experimental enquiry suits a believer rather than threatening him, and left fifty pounds a year in his will to fund annual lectures defending Christianity, a series that still runs[^58][^59][^60].
+**Robert Boyle** (1627 to 1691) is the founder of experimental chemistry and a founding fellow of the Royal Society. He wrote *The Christian Virtuoso* to argue that experimental enquiry suits a believer rather than threatening him, and left fifty pounds a year in his will to fund annual lectures defending Christianity, a series that still runs[^59][^60][^61].
 
-**The Royal Society** itself, founded in 1660 and chartered in 1662, was founded by men who took the study of creation to be a religious as well as an intellectual undertaking, and its early membership was drawn overwhelmingly from serious churchmen[^61].
+**The Royal Society** itself, founded in 1660 and chartered in 1662, was founded by men who took the study of creation to be a religious as well as an intellectual undertaking, and its early membership was drawn overwhelmingly from serious churchmen[^62].
 
-**Isaac Newton** (1643 to 1727) wrote more on theology and biblical chronology than on physics. He added the General Scholium to the second edition of the *Principia* in 1713, arguing that the arrangement of the solar system could only proceed from the counsel and dominion of an intelligent and powerful Being. His private manuscripts also show a settled rejection of the doctrine of the Trinity, which he regarded as a fourth-century corruption, so he is properly described as a devout anti-Trinitarian rather than as an orthodox Christian[^62][^63][^64][^65].
+**Isaac Newton** (1643 to 1727) wrote more on theology and biblical chronology than on physics. He added the General Scholium to the second edition of the *Principia* in 1713, arguing that the arrangement of the solar system could only proceed from the counsel and dominion of an intelligent and powerful Being. His private manuscripts also show a settled rejection of the doctrine of the Trinity, which he regarded as a fourth-century corruption, so he is properly described as a devout anti-Trinitarian rather than as an orthodox Christian[^63][^64][^65][^66].
 
-**Nicolas Steno** (1638 to 1686) founded stratigraphy with the *Prodromus* of 1669, stating the principle of superposition on which historical geology rests. He converted to Catholicism in 1667, was ordained in 1675, was made a bishop two years later, and was beatified by John Paul II in 1988[^66][^67].
+**Nicolas Steno** (1638 to 1686) founded stratigraphy with the *Prodromus* of 1669, stating the principle of superposition on which historical geology rests. He converted to Catholicism in 1667, was ordained in 1675, was made a bishop two years later, and was beatified by John Paul II in 1988[^67][^68].
 
-**John Ray** (1627 to 1705) laid the groundwork of systematic botany and wrote *The Wisdom of God Manifested in the Works of the Creation*, the book that set the pattern for English natural theology for the next century and a half[^68][^51].
+**John Ray** (1627 to 1705) laid the groundwork of systematic botany and wrote *The Wisdom of God Manifested in the Works of the Creation*, the book that set the pattern for English natural theology for the next century and a half[^69][^52].
 
-**Carl Linnaeus** (1707 to 1778) produced the binomial system still used to name every species, and understood the task as cataloguing the works of a creator[^69].
+**Carl Linnaeus** (1707 to 1778) produced the binomial system still used to name every species, and understood the task as cataloguing the works of a creator[^70].
 
-**Leonhard Euler** (1707 to 1783), the most prolific mathematician on record, was a lifelong Reformed Christian who held family prayers and wrote in defence of the reliability of Scripture[^70].
+**Leonhard Euler** (1707 to 1783), the most prolific mathematician on record, was a lifelong Reformed Christian who held family prayers and wrote in defence of the reliability of Scripture[^71].
 
-**Alessandro Volta** (1745 to 1827) built the first electric battery, and **Luigi Galvani** (1737 to 1798) discovered bioelectricity; both were practising Catholics, and Volta wrote a public profession of faith[^71][^72]. **Lazzaro Spallanzani** (1729 to 1799), a priest, challenged spontaneous generation by experiment a century before Pasteur settled the question[^73].
+**Alessandro Volta** (1745 to 1827) built the first electric battery, and **Luigi Galvani** (1737 to 1798) discovered bioelectricity; both were practising Catholics, and Volta wrote a public profession of faith[^72][^73]. **Lazzaro Spallanzani** (1729 to 1799), a priest, challenged spontaneous generation by experiment a century before Pasteur settled the question[^74].
 
-**Michael Faraday** (1791 to 1867) discovered electromagnetic induction and the laws of electrolysis, and served as an elder and lay preacher in the Sandemanian church, a small and strict sect to which he belonged all his life, apart from a brief exclusion in 1844[^74].
+**Michael Faraday** (1791 to 1867) discovered electromagnetic induction and the laws of electrolysis, and served as an elder and lay preacher in the Sandemanian church, a small and strict sect to which he belonged all his life, apart from a brief exclusion in 1844[^75].
 
-**James Clerk Maxwell** (1831 to 1879) unified electricity, magnetism and light in four equations. He was an evangelical Presbyterian elder who had the inscription from Psalm 111:2, on the great works of the Lord being sought out by those who delight in them, placed at the entrance to the Cavendish Laboratory[^75][^76].
+**James Clerk Maxwell** (1831 to 1879) unified electricity, magnetism and light in four equations. He was an evangelical Presbyterian elder who had the inscription from Psalm 111:2, on the great works of the Lord being sought out by those who delight in them, placed at the entrance to the Cavendish Laboratory[^76][^77].
 
-**Gregor Mendel** (1822 to 1884), an Augustinian friar and later abbot at Brno, ran eight years of breeding experiments on pea plants and published the laws of inheritance in 1866, work that founded genetics once it was rediscovered in 1900[^77].
+**Gregor Mendel** (1822 to 1884), an Augustinian friar and later abbot at Brno, ran eight years of breeding experiments on pea plants and published the laws of inheritance in 1866, work that founded genetics once it was rediscovered in 1900[^78].
 
-**William Thomson, Lord Kelvin** (1824 to 1907) established absolute temperature and much of classical thermodynamics, and **George Gabriel Stokes** (1819 to 1903), his contemporary in fluid dynamics and optics, was president of the Royal Society and also of the Victoria Institute, a society for the discussion of science and Scripture[^78][^79].
+**William Thomson, Lord Kelvin** (1824 to 1907) established absolute temperature and much of classical thermodynamics, and **George Gabriel Stokes** (1819 to 1903), his contemporary in fluid dynamics and optics, was president of the Royal Society and also of the Victoria Institute, a society for the discussion of science and Scripture[^79][^80].
 
-**Louis Pasteur** (1822 to 1895) established germ theory, developed vaccination against rabies and anthrax, and remained a practising Catholic[^80].
+**Louis Pasteur** (1822 to 1895) established germ theory, developed vaccination against rabies and anthrax, and remained a practising Catholic[^81].
 
-The pattern extends much further than one section can hold, through Bernhard Riemann, Augustin-Louis Cauchy, Nicholas of Cusa, Andreas Vesalius and a great many others[^81][^82][^83]. What it does not show is that faith produced the discoveries. What it shows is that for most of the history of modern science, being a believing Christian was the ordinary condition of the people doing the work[^84].
+The pattern extends much further than one section can hold, through Bernhard Riemann, Augustin-Louis Cauchy, Nicholas of Cusa, Andreas Vesalius and a great many others[^82][^83][^84]. What it does not show is that faith produced the discoveries. What it shows is that for most of the history of modern science, being a believing Christian was the ordinary condition of the people doing the work[^85].
 
 **See also:** [Schools, Literacy and Language (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-education).
 `
@@ -292,27 +292,27 @@ The pattern extends much further than one section can hold, through Bernhard Rie
       content: `
 The pattern did not stop in 1900.
 
-**The Vatican Observatory** is among the oldest astronomical institutions still operating. Its lineage runs through Gregory XIII's commission for the calendar reform of 1582, and it was refounded in its present form by Leo XIII in 1891; it now runs a telescope on Mount Graham in Arizona in partnership with the University of Arizona[^85][^86].
+**The Vatican Observatory** is among the oldest astronomical institutions still operating. Its lineage runs through Gregory XIII's commission for the calendar reform of 1582, and it was refounded in its present form by Leo XIII in 1891; it now runs a telescope on Mount Graham in Arizona in partnership with the University of Arizona[^86][^87].
 
-**Angelo Secchi** (1818 to 1878), a Jesuit, directed the observatory of the Roman College and effectively founded astrophysics. He asked what stars are made of, took spectra of some four thousand of them, and produced the first spectral classification, the ancestor of the scheme still used today[^87][^88].
+**Angelo Secchi** (1818 to 1878), a Jesuit, directed the observatory of the Roman College and effectively founded astrophysics. He asked what stars are made of, took spectra of some four thousand of them, and produced the first spectral classification, the ancestor of the scheme still used today[^88][^89].
 
-**Georges Lemaitre** (1894 to 1966), a Belgian priest and professor at Louvain, derived an expanding solution to Einstein's field equations in 1927, related the recession of galaxies to that expansion two years before Hubble's paper, and in 1931 proposed that the universe began from what he called the primeval atom[^89][^90].
+**Georges Lemaitre** (1894 to 1966), a Belgian priest and professor at Louvain, derived an expanding solution to Einstein's field equations in 1927, related the recession of galaxies to that expansion two years before Hubble's paper, and in 1931 proposed that the universe began from what he called the primeval atom[^90][^91].
 
-Lemaitre's conduct afterwards is the most instructive part of the story. When Pius XII told the Pontifical Academy in 1951 that the model demonstrated a Creator, Lemaitre, who did believe in the Creator, was alarmed that his cosmology would be taken to have been built for apologetic purposes. He pressed, through the Vatican's scientific advisers, for the Pope to stop citing it, and Pius XII did not repeat the claim. The primeval atom was a physical hypothesis, revisable like any other, and he refused to let it be fused with the doctrine of creation[^91][^92].
+Lemaitre's conduct afterwards is the most instructive part of the story. When Pius XII told the Pontifical Academy in 1951 that the model demonstrated a Creator, Lemaitre, who did believe in the Creator, was alarmed that his cosmology would be taken to have been built for apologetic purposes. He pressed, through the Vatican's scientific advisers, for the Pope to stop citing it, and Pius XII did not repeat the claim. The primeval atom was a physical hypothesis, revisable like any other, and he refused to let it be fused with the doctrine of creation[^92][^93].
 
-**Ernest Walton** (1903 to 1995) shared the 1951 Nobel Prize in Physics for the first artificial disintegration of an atomic nucleus, and spoke throughout his life of scientific research as an exploration of the works of God[^93].
+**Ernest Walton** (1903 to 1995) shared the 1951 Nobel Prize in Physics for the first artificial disintegration of an atomic nucleus, and spoke throughout his life of scientific research as an exploration of the works of God[^94].
 
-**Charles Townes** (1915 to 2015) won the 1964 Nobel Prize for the maser and the underlying work behind the laser, and argued in print that science and religion are converging rather than diverging enterprises[^94]. **William Phillips** (born 1948), a Nobel laureate in 1997 for laser cooling of atoms, is a practising Methodist who has written on why he sees no tension in that[^95].
+**Charles Townes** (1915 to 2015) won the 1964 Nobel Prize for the maser and the underlying work behind the laser, and argued in print that science and religion are converging rather than diverging enterprises[^95]. **William Phillips** (born 1948), a Nobel laureate in 1997 for laser cooling of atoms, is a practising Methodist who has written on why he sees no tension in that[^96].
 
-**Francis Collins** (born 1950) directed the Human Genome Project to its completion in 2003, went on to lead the National Institutes of Health, and came to Christian faith as an adult after training as a physical chemist and physician[^96].
+**Francis Collins** (born 1950) directed the Human Genome Project to its completion in 2003, went on to lead the National Institutes of Health, and came to Christian faith as an adult after training as a physical chemist and physician[^97].
 
-**Jennifer Wiseman** is Senior Project Scientist for the Hubble Space Telescope at NASA Goddard, having discovered a comet as an undergraduate, and for many years directed the American Association for the Advancement of Science programme on Dialogue on Science, Ethics and Religion[^97][^98].
+**Jennifer Wiseman** is Senior Project Scientist for the Hubble Space Telescope at NASA Goddard, having discovered a comet as an undergraduate, and for many years directed the American Association for the Advancement of Science programme on Dialogue on Science, Ethics and Religion[^98][^99].
 
-**John Polkinghorne** (1930 to 2021) held the chair of mathematical physics at Cambridge and worked on the quark model, then resigned in his late forties to train for Anglican orders and spent the rest of his career writing on the relation between the two disciplines[^99].
+**John Polkinghorne** (1930 to 2021) held the chair of mathematical physics at Cambridge and worked on the quark model, then resigned in his late forties to train for Anglican orders and spent the rest of his career writing on the relation between the two disciplines[^100].
 
-Professional bodies exist for the overlap. The American Scientific Affiliation has served Christians in the sciences in North America since 1941, and the Society of Catholic Scientists was founded in 2016[^100].
+Professional bodies exist for the overlap. The American Scientific Affiliation has served Christians in the sciences in North America since 1941, and the Society of Catholic Scientists was founded in 2016[^101].
 
-**Allan Sandage** (1926 to 2010), Hubble's assistant and the observational cosmologist who did more than anyone to measure the expansion rate, became a Christian in his fifties and said that he found it improbable that such order came out of chaos and that there had to be some organising principle[^101].
+**Allan Sandage** (1926 to 2010), Hubble's assistant and the observational cosmologist who did more than anyone to measure the expansion rate, became a Christian in his fifties and said that he found it improbable that such order came out of chaos and that there had to be some organising principle[^102].
 `
     },
     {
@@ -320,20 +320,20 @@ Professional bodies exist for the overlap. The American Scientific Affiliation h
       title: "What Scientists Actually Believe",
       tags: ["Scientists"],
       content: `
-Two claims circulate here, and both are unreliable. One holds that essentially all serious scientists are atheists. The other, common in apologetic material, holds that around 65 per cent of Nobel laureates between 1901 and 2000 were Christians, a figure taken from a single reference book that classified laureates largely by cultural and family background rather than by stated personal conviction. The second figure should not be used as evidence of belief, and it is dropped here for that reason[^102].
+Two claims circulate here, and both are unreliable. One holds that essentially all serious scientists are atheists. The other, common in apologetic material, holds that around 65 per cent of Nobel laureates between 1901 and 2000 were Christians, a figure taken from a single reference book that classified laureates largely by cultural and family background rather than by stated personal conviction. The second figure should not be used as evidence of belief, and it is dropped here for that reason[^103].
 
 The survey evidence is more modest and more interesting.
 
-**In the United States, scientists are markedly less religious than the general population.** A Pew survey of members of the American Association for the Advancement of Science in 2009 found 33 per cent believing in God and a further 18 per cent in a universal spirit or higher power, so 51 per cent in some form of deity, against 95 per cent of the American public at the time[^103][^104].
+**In the United States, scientists are markedly less religious than the general population.** A Pew survey of members of the American Association for the Advancement of Science in 2009 found 33 per cent believing in God and a further 18 per cent in a universal spirit or higher power, so 51 per cent in some form of deity, against 95 per cent of the American public at the time[^104][^105].
 
 <?viz science/beliefs?>
 
 
-**The gap is not universal, and it is not global.** The Religion Among Scientists in International Context study, run by Elaine Howard Ecklund from 2012 to 2015, surveyed biologists and physicists in France, Hong Kong, India, Italy, Taiwan, Turkey, the United Kingdom and the United States. It received 9,422 completed questionnaires from a sample of 22,525 and conducted 609 face-to-face interviews. In several of those regions scientists were as religious as, or more religious than, the surrounding population, and the picture of a uniformly secular global scientific class did not survive the data[^105][^106][^107].
+**The gap is not universal, and it is not global.** The Religion Among Scientists in International Context study, run by Elaine Howard Ecklund from 2012 to 2015, surveyed biologists and physicists in France, Hong Kong, India, Italy, Taiwan, Turkey, the United Kingdom and the United States. It received 9,422 completed questionnaires from a sample of 22,525 and conducted 609 face-to-face interviews. In several of those regions scientists were as religious as, or more religious than, the surrounding population, and the picture of a uniformly secular global scientific class did not survive the data[^106][^107][^108].
 
-**Scientists themselves mostly do not report conflict.** In the same study, no region had more than 22 per cent of scientists saying that their exposure to science had made them less religious, and the United States was the region where that figure was highest. A majority in most regions described the relationship between science and religion as independence or collaboration rather than conflict[^108][^109].
+**Scientists themselves mostly do not report conflict.** In the same study, no region had more than 22 per cent of scientists saying that their exposure to science had made them less religious, and the United States was the region where that figure was highest. A majority in most regions described the relationship between science and religion as independence or collaboration rather than conflict[^109][^110].
 
-What the numbers support is narrow. American academic science is unusually secular by American standards, for reasons that include selection, discipline and social environment as much as anything intrinsic to the work. What they do not support is the claim that doing science well pushes a person away from faith[^110].
+What the numbers support is narrow. American academic science is unusually secular by American standards, for reasons that include selection, discipline and social environment as much as anything intrinsic to the work. What they do not support is the claim that doing science well pushes a person away from faith[^111].
 `
     },
     {
@@ -341,26 +341,26 @@ What the numbers support is narrow. American academic science is unusually secul
       title: "The Galileo Affair, Told Straight",
       tags: ["History"],
       content: `
-This is the hard case, and the honest verdict is that the Church was wrong. A tribunal of the Roman Catholic Church convicted a man for holding a physical proposition that is true, extracted an abjuration, and confined him for the rest of his life. No account of the relationship between Christianity and science is complete without conceding that[^111].
+This is the hard case, and the honest verdict is that the Church was wrong. A tribunal of the Roman Catholic Church convicted a man for holding a physical proposition that is true, extracted an abjuration, and confined him for the rest of his life. No account of the relationship between Christianity and science is complete without conceding that[^112].
 
 The details still matter, because the popular version gets most of them wrong.
 
-**Heliocentrism was not condemned on arrival.** Copernicus published in 1543 and dedicated the book to the Pope. It was read, taught and used for calendar work for decades. *De revolutionibus* was suspended pending correction only in 1616, seventy-three years later, and the trouble came when Galileo insisted on the physical truth of the system rather than its usefulness as calculation[^112].
+**Heliocentrism was not condemned on arrival.** Copernicus published in 1543 and dedicated the book to the Pope. It was read, taught and used for calendar work for decades. *De revolutionibus* was suspended pending correction only in 1616, seventy-three years later, and the trouble came when Galileo insisted on the physical truth of the system rather than its usefulness as calculation[^113].
 
-**1616 was a warning, not a trial.** Cardinal Bellarmine informed Galileo that the Copernican opinion had been declared contrary to Scripture and so could not be held or defended. At Galileo's own request Bellarmine wrote a certificate stating that no abjuration or penalty had been imposed. A separate and more restrictive precept, forbidding Galileo to teach the doctrine in any way whatsoever, is recorded in the file, and historians have argued since the nineteenth century over whether it was properly served. Galileo produced Bellarmine's certificate at his trial and said he did not remember the stronger wording[^113][^114].
+**1616 was a warning, not a trial.** Cardinal Bellarmine informed Galileo that the Copernican opinion had been declared contrary to Scripture and so could not be held or defended. At Galileo's own request Bellarmine wrote a certificate stating that no abjuration or penalty had been imposed. A separate and more restrictive precept, forbidding Galileo to teach the doctrine in any way whatsoever, is recorded in the file, and historians have argued since the nineteenth century over whether it was properly served. Galileo produced Bellarmine's certificate at his trial and said he did not remember the stronger wording[^114][^115].
 
 <?viz science/galileo?>
 
 
-**The 1633 trial was as much about a broken agreement and a personal insult as about astronomy.** Galileo had permission to treat the two systems hypothetically. The *Dialogue Concerning the Two Chief World Systems* of 1632 does not do that: the Copernican speaks well, the Aristotelian is named Simplicio and is made to look foolish, and the argument Urban VIII had personally asked Galileo to include was placed in Simplicio's mouth. Urban had been Galileo's patron and admirer, and he took it as a betrayal. He then insisted on a formal sentence, a rigorous examination and a public abjuration[^115][^116].
+**The 1633 trial was as much about a broken agreement and a personal insult as about astronomy.** Galileo had permission to treat the two systems hypothetically. The *Dialogue Concerning the Two Chief World Systems* of 1632 does not do that: the Copernican speaks well, the Aristotelian is named Simplicio and is made to look foolish, and the argument Urban VIII had personally asked Galileo to include was placed in Simplicio's mouth. Urban had been Galileo's patron and admirer, and he took it as a betrayal. He then insisted on a formal sentence, a rigorous examination and a public abjuration[^116][^117].
 
-**Galileo's scientific case was not yet decisive, and part of it was wrong.** His principal physical argument for the earth's motion was a theory of the tides that does not work. Stellar parallax, the direct observational proof, was not measured until Bessel in 1838. The scholarly consensus of the day, Aristotelian and Ptolemaic, was against him, and the demand for proof was not in itself unreasonable. That the Church's tribunal was entitled to settle the question by decree, however, is the error, and it is not made better by his having been short of a proof[^117].
+**Galileo's scientific case was not yet decisive, and part of it was wrong.** His principal physical argument for the earth's motion was a theory of the tides that does not work. Stellar parallax, the direct observational proof, was not measured until Bessel in 1838. The scholarly consensus of the day, Aristotelian and Ptolemaic, was against him, and the demand for proof was not in itself unreasonable. That the Church's tribunal was entitled to settle the question by decree, however, is the error, and it is not made better by his having been short of a proof[^118].
 
-**Galileo's theology was better than his judges'.** In the *Letter to the Grand Duchess Christina* of 1615 he argued, following Augustine, that Scripture accommodates itself to ordinary speech about the natural world and does not aim to teach astronomy, and he quoted Cardinal Baronius to the effect that the intention of the Holy Spirit is to teach how one goes to heaven, not how heaven goes. That is essentially the position the Church would later adopt[^118][^119][^120].
+**Galileo's theology was better than his judges'.** In the *Letter to the Grand Duchess Christina* of 1615 he argued, following Augustine, that Scripture accommodates itself to ordinary speech about the natural world and does not aim to teach astronomy, and he quoted Cardinal Baronius to the effect that the intention of the Holy Spirit is to teach how one goes to heaven, not how heaven goes. That is essentially the position the Church would later adopt[^119][^120][^121].
 
-**What actually happened to him.** Galileo was never tortured and never held in a dungeon. He was lodged in the Tuscan embassy and in the Holy Office's apartments during proceedings, then confined to the villa at Arcetri, where he completed the *Discourses on Two New Sciences*, the work that founded the modern science of materials and motion. He died in 1642 a professed Catholic, and his daughter Maria Celeste was a nun[^121].
+**What actually happened to him.** Galileo was never tortured and never held in a dungeon. He was lodged in the Tuscan embassy and in the Holy Office's apartments during proceedings, then confined to the villa at Arcetri, where he completed the *Discourses on Two New Sciences*, the work that founded the modern science of materials and motion. He died in 1642 a professed Catholic, and his daughter Maria Celeste was a nun[^122].
 
-**And it stayed wrong for a long time.** The condemnation was not formally set aside until the nineteenth century, and John Paul II only closed the matter in 1992, acknowledging that Galileo's theologian-critics had failed to distinguish the interpretation of Scripture from a question of physics. Three and a half centuries is a poor showing, and saying so costs the Christian case nothing[^122].
+**And it stayed wrong for a long time.** The condemnation was not formally set aside until the nineteenth century, and John Paul II only closed the matter in 1992, acknowledging that Galileo's theologian-critics had failed to distinguish the interpretation of Scripture from a question of physics. Three and a half centuries is a poor showing, and saying so costs the Christian case nothing[^123].
 
 **See also:** [The Firmament, a Flat Earth and Ancient Cosmology (Evolution vs Creation)](/categories/evolution#section-ancient-cosmology).
 `
@@ -370,22 +370,22 @@ The details still matter, because the popular version gets most of them wrong.
       title: "Scopes, Dover and the Courtroom Fights",
       tags: ["History"],
       content: `
-The second episode carrying the whole weight of the warfare story is the American dispute over teaching evolution. The scientific questions of origins and design are treated under evolution and fine-tuning. The courtroom history is a separate matter, and popular memory of it derives largely from a stage play rather than from the transcripts[^123].
+The second episode carrying the whole weight of the warfare story is the American dispute over teaching evolution. The scientific questions of origins and design are treated under evolution and fine-tuning. The courtroom history is a separate matter, and popular memory of it derives largely from a stage play rather than from the transcripts[^124].
 
-**Scopes, 1925.** John Scopes was tried at Dayton, Tennessee for teaching evolution in breach of the Butler Act, convicted, and fined one hundred dollars. The Tennessee Supreme Court then overturned the conviction on a technicality about who had set the fine, while upholding the Act itself, which stood until 1967. The trial was arranged as a test case with local cooperation, and Scopes was never in jeopardy of anything worse than the fine[^124].
+**Scopes, 1925.** John Scopes was tried at Dayton, Tennessee for teaching evolution in breach of the Butler Act, convicted, and fined one hundred dollars. The Tennessee Supreme Court then overturned the conviction on a technicality about who had set the fine, while upholding the Act itself, which stood until 1967. The trial was arranged as a test case with local cooperation, and Scopes was never in jeopardy of anything worse than the fine[^125].
 
-**The textbook complicates the story.** The book Scopes taught from was George Hunter's *A Civic Biology* of 1914, the state-approved text. Alongside evolution it taught eugenics in explicit terms, ranked human races, and recommended that people it called defective be prevented from reproducing. William Jennings Bryan's opposition to the teaching of evolution was tied to exactly that: he read Darwinism as underwriting eugenics and the ruthlessness he had seen argued for in Germany. This does not vindicate the Butler Act, and Bryan's biblical arguments at Dayton were weak. It does mean the confrontation was not simply ignorance against enlightenment[^125][^126].
+**The textbook complicates the story.** The book Scopes taught from was George Hunter's *A Civic Biology* of 1914, the state-approved text. Alongside evolution it taught eugenics in explicit terms, ranked human races, and recommended that people it called defective be prevented from reproducing. William Jennings Bryan's opposition to the teaching of evolution was tied to exactly that: he read Darwinism as underwriting eugenics and the ruthlessness he had seen argued for in Germany. This does not vindicate the Butler Act, and Bryan's biblical arguments at Dayton were weak. It does mean the confrontation was not simply ignorance against enlightenment[^126][^127].
 
-*Inherit the Wind*, the 1955 play and 1960 film, is a fiction written as an allegory of McCarthyism, and much of what people believe about Dayton comes from it rather than from the transcript[^127].
+*Inherit the Wind*, the 1955 play and 1960 film, is a fiction written as an allegory of McCarthyism, and much of what people believe about Dayton comes from it rather than from the transcript[^128][^129].
 
-**Later cases went the other way, and on constitutional grounds.** *Epperson v. Arkansas* struck down a similar ban in 1968, *McLean v. Arkansas* rejected balanced-treatment creation science in 1982, and *Edwards v. Aguillard* did the same at the Supreme Court in 1987[^128][^129].
+**Later cases went the other way, and on constitutional grounds.** *Epperson v. Arkansas* struck down a similar ban in 1968, *McLean v. Arkansas* rejected balanced-treatment creation science in 1982, and *Edwards v. Aguillard* did the same at the Supreme Court in 1987[^130][^131].
 
 <?viz science/courtroom?>
 
 
-**Kitzmiller v. Dover, 2005.** A federal district court held that requiring a statement on intelligent design in Dover's biology classes was unconstitutional, finding that intelligent design is not science, that it cannot be separated from its creationist antecedents, and that some board members had lied under oath about their motives. Judge Jones, appointed by a Republican president and a churchgoer himself, wrote a 139-page opinion reviewing the trial evidence in detail[^130][^131].
+**Kitzmiller v. Dover, 2005.** A federal district court held that requiring a statement on intelligent design in Dover's biology classes was unconstitutional, finding that intelligent design is not science, that it cannot be separated from its creationist antecedents, and that some board members had lied under oath about their motives. Judge Jones, appointed by a Republican president and a churchgoer himself, wrote a 139-page opinion reviewing the trial evidence in detail[^132][^133].
 
-**How much this settles.** Legally, a great deal; theologically, almost nothing. A court ruling about what may be taught in a public school in Pennsylvania is a judgment about a curriculum and an establishment clause, not about whether God made the world. An argument for design failing in court leaves the doctrine of creation exactly where it was, and the reverse would have been true as well[^129].
+**How much this settles.** Legally, a great deal; theologically, almost nothing. A court ruling about what may be taught in a public school in Pennsylvania is a judgment about a curriculum and an establishment clause, not about whether God made the world. An argument for design failing in court leaves the doctrine of creation exactly where it was, and the reverse would have been true as well[^131].
 
 **See also:** [Arguments Against Evolution: Which Hold and Which Do Not (Evolution vs Creation)](/categories/evolution#section-objections-to-evolution).
 `
@@ -397,17 +397,17 @@ The second episode carrying the whole weight of the warfare story is the America
       content: `
 The practical relationship turns on one distinction that is easy to state and constantly missed.
 
-**Methodological naturalism is a working rule. Metaphysical naturalism is a claim about reality.** The working rule says that when investigating a physical process you look for physical causes, do not invoke divine action as an explanatory term, and hold your hypothesis open to test. The metaphysical claim says that physical causes are all there are. The first is what scientists do; the second is a philosophical position that no experiment can establish, since it is a claim about the whole of reality made from inside a part of it[^132].
+**Methodological naturalism is a working rule. Metaphysical naturalism is a claim about reality.** The working rule says that when investigating a physical process you look for physical causes, do not invoke divine action as an explanatory term, and hold your hypothesis open to test. The metaphysical claim says that physical causes are all there are. The first is what scientists do; the second is a philosophical position that no experiment can establish, since it is a claim about the whole of reality made from inside a part of it[^134].
 
-A Christian can hold the working rule without difficulty, and has a reason to hold it that the naturalist does not: a creation upheld by a faithful God is expected to behave consistently, so a natural mechanism is exactly what you should expect to find when you look at a natural process. Finding one is not finding an absence of God, any more than explaining how an engine works removes the engineer[^133].
+A Christian can hold the working rule without difficulty, and has a reason to hold it that the naturalist does not: a creation upheld by a faithful God is expected to behave consistently, so a natural mechanism is exactly what you should expect to find when you look at a natural process. Finding one is not finding an absence of God, any more than explaining how an engine works removes the engineer[^135].
 
-**The two books, applied.** Since Scripture and creation have one author, an apparent conflict is a signal that something has been misread. The discipline this imposes runs in both directions. It rules out treating a passage written in the idiom of ancient cosmology as a technical claim about planetary mechanics, and it equally rules out treating a contested scientific model as settling what a text is teaching. Augustine warned in the fifth century that Christians making confident and false claims about the natural world bring Scripture itself into disrepute, which is as good a statement of the rule as has been written since[^134].
+**The two books, applied.** Since Scripture and creation have one author, an apparent conflict is a signal that something has been misread. The discipline this imposes runs in both directions. It rules out treating a passage written in the idiom of ancient cosmology as a technical claim about planetary mechanics, and it equally rules out treating a contested scientific model as settling what a text is teaching. Augustine warned in the fifth century that Christians making confident and false claims about the natural world bring Scripture itself into disrepute, which is as good a statement of the rule as has been written since[^136].
 
-**Science leans on things it cannot supply.** That the universe is intelligible at all, that mathematics developed for its own sake keeps turning out to describe physical reality, and that the future will resemble the past are all assumptions rather than results. Eugene Wigner called the second of these unreasonable and could offer no account of it, which is the honest position for a physicist and an interesting one for a theist[^135][^136].
+**Science leans on things it cannot supply.** That the universe is intelligible at all, that mathematics developed for its own sake keeps turning out to describe physical reality, and that the future will resemble the past are all assumptions rather than results. Eugene Wigner called the second of these unreasonable and could offer no account of it, which is the honest position for a physicist and an interesting one for a theist[^137][^138].
 
-**Against the God of the gaps.** The bad habit is to locate God in whatever science has not yet explained, which makes faith a hostage to the next result and has been steadily losing ground for three centuries. Bonhoeffer put the alternative sharply in a letter from prison in 1944: we should find God in what we do know, not in what we do not know. The Christian claim is about the ground of the whole intelligible order, not about the residue[^137].
+**Against the God of the gaps.** The bad habit is to locate God in whatever science has not yet explained, which makes faith a hostage to the next result and has been steadily losing ground for three centuries. Bonhoeffer put the alternative sharply in a letter from prison in 1944: we should find God in what we do know, not in what we do not know. The Christian claim is about the ground of the whole intelligible order, not about the residue[^139][^140].
 
-**Where the real disagreement sits.** Alvin Plantinga's argument is that there is superficial conflict but deep concord between science and theistic religion, and superficial concord but deep conflict between science and naturalism. Whether or not his full case succeeds, the location of the dispute is right. Nineteenth-century materialism and positivism were philosophical programmes that claimed scientific authority, and it is those programmes, not the practice of science, that Christian theology is actually arguing with[^138][^139][^140].
+**Where the real disagreement sits.** Alvin Plantinga's argument is that there is superficial conflict but deep concord between science and theistic religion, and superficial concord but deep conflict between science and naturalism. Whether or not his full case succeeds, the location of the dispute is right. Nineteenth-century materialism and positivism were philosophical programmes that claimed scientific authority, and it is those programmes, not the practice of science, that Christian theology is actually arguing with[^141][^142][^143].
 
 **See also:** [The Main Christian Views on Origins (Evolution vs Creation)](/categories/evolution#section-views-on-origins).
 `
@@ -417,19 +417,19 @@ A Christian can hold the working rule without difficulty, and has a reason to ho
       title: "What Science Is Not Equipped to Ask",
       tags: ["Theology"],
       content: `
-Science is a method for investigating the natural world, and an extraordinarily successful one. Scientism is the further claim that it is the only route to knowledge, and that claim is not itself a scientific result. It cannot be tested, and it fails its own standard, which is why it is treated in the philosophical literature as a position to be argued for rather than as a finding[^141][^142][^143].
+Science is a method for investigating the natural world, and an extraordinarily successful one. Scientism is the further claim that it is the only route to knowledge, and that claim is not itself a scientific result. It cannot be tested, and it fails its own standard, which is why it is treated in the philosophical literature as a position to be argued for rather than as a finding[^144][^145][^146].
 
-Several classes of question lie outside the method rather than merely unanswered by it[^144].
+Several classes of question lie outside the method rather than merely unanswered by it[^147].
 
-*   **Logic and mathematics.** Science uses both and presupposes their validity. No experiment establishes the law of non-contradiction, and none could, because the experiment's interpretation would already depend on it[^145].
-*   **Ethics.** Empirical work can establish what a policy will cost, whom it will harm, and what people in fact approve of. The step from what is the case to what ought to be done is not an empirical step, and no amount of measurement supplies it[^146].
-*   **Metaphysical questions.** Why there is a universe rather than nothing, whether other minds exist, whether the past was real: these are not resolved by better instruments[^147][^148].
-*   **Consciousness.** Why physical processing is accompanied by subjective experience remains unresolved, and it is unclear what a solution in physical terms would even look like[^149][^150].
-*   **Aesthetic and personal knowledge.** Nothing in the method quantifies the goodness of a piece of music or the trustworthiness of a friend, and the absence of a measurement is not evidence of nothing being there[^151].
+*   **Logic and mathematics.** Science uses both and presupposes their validity. No experiment establishes the law of non-contradiction, and none could, because the experiment's interpretation would already depend on it[^148].
+*   **Ethics.** Empirical work can establish what a policy will cost, whom it will harm, and what people in fact approve of. The step from what is the case to what ought to be done is not an empirical step, and no amount of measurement supplies it[^149].
+*   **Metaphysical questions.** Why there is a universe rather than nothing, whether other minds exist, whether the past was real: these are not resolved by better instruments[^150][^151].
+*   **Consciousness.** Why physical processing is accompanied by subjective experience remains unresolved, and it is unclear what a solution in physical terms would even look like[^152][^153].
+*   **Aesthetic and personal knowledge.** Nothing in the method quantifies the goodness of a piece of music or the trustworthiness of a friend, and the absence of a measurement is not evidence of nothing being there[^154].
 
-Where the boundary of science falls is itself a live philosophical question, the demarcation problem, and it has no agreed solution. Stephen Jay Gould's proposal of non-overlapping magisteria, with science taking the empirical realm and religion the moral one, is one attempt at a settlement, and it is unsatisfactory from both ends: Christianity makes historical claims that are not confined to the moral realm, and scientists routinely make pronouncements about meaning and value[^152][^153][^154].
+Where the boundary of science falls is itself a live philosophical question, the demarcation problem, and it has no agreed solution. Stephen Jay Gould's proposal of non-overlapping magisteria, with science taking the empirical realm and religion the moral one, is one attempt at a settlement, and it is unsatisfactory from both ends: Christianity makes historical claims that are not confined to the moral realm, and scientists routinely make pronouncements about meaning and value[^155][^156][^157].
 
-The Christian position is not that science has limits and God lives in them. It is that the intelligibility of the universe, the applicability of mathematics to it, and the existence of minds capable of following the argument are the sort of thing that calls for explanation, and that the explanation on offer is neither a rival to physics nor a substitute for doing it properly[^155].
+The Christian position is not that science has limits and God lives in them. It is that the intelligibility of the universe, the applicability of mathematics to it, and the existence of minds capable of following the argument are the sort of thing that calls for explanation, and that the explanation on offer is neither a rival to physics nor a substitute for doing it properly[^158].
 
 **See also:** [Is Belief in God Reasonable?](/categories/is-belief-reasonable).
 `
@@ -453,153 +453,156 @@ The Christian position is not that science has limits and God lives in them. It 
     "6. [Academic] Notre Dame Philosophical Reviews. Review of Alvin Plantinga, 'Where the Conflict Really Lies: Science, Religion, and Naturalism.' https://ndpr.nd.edu/reviews/where-the-conflict-really-lies-science-religion-and-naturalism/",
     "7. [Wikipedia] Conflict thesis. Origins of the thesis in Draper and White and its decline among historians. https://en.wikipedia.org/wiki/Conflict_thesis",
     "8. [Wikipedia] Myth of the flat Earth. The historical evidence for medieval belief in a spherical earth. https://en.wikipedia.org/wiki/Myth_of_the_flat_Earth",
-    "9. [Wikipedia] A History of the Warfare of Science with Theology in Christendom. White's 1896 work and the circumstances of its composition. https://en.wikipedia.org/wiki/A_History_of_the_Warfare_of_Science_with_Theology_in_Christendom",
-    "10. [Reference] First Things. 'Modern Science's Christian Sources.' Historical essay on the theological presuppositions of the scientific enterprise. https://firstthings.com/modern-sciences-christian-sources/",
-    "11. [Academic] Annals of Science. 'The Many Histories of the Conflict Thesis: The Science vs. Religion Narrative in Nineteenth-Century Germany.' https://www.tandfonline.com/doi/abs/10.1080/00033790.2023.2187086",
-    "12. [Academic] University of California Press. David C. Lindberg and Ronald L. Numbers, eds. 'God and Nature: Historical Essays on the Encounter between Christianity and Science' (1986). https://www.ucpress.edu/books/god-and-nature/paper",
-    "13. [Academic] Project MUSE. Review of 'God and Nature: Historical Essays on the Encounter Between Christianity and Science.' https://muse.jhu.edu/article/638018",
-    "14. [Academic] American Scientific Affiliation. Jeffrey Burton Russell, 'The Myth of the Flat Earth.' Paper tracing the myth to Washington Irving and later writers. https://www.asa3.org/ASA/topics/history/1997Russell.html",
-    "15. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Bede.' On the Reckoning of Time, the computus and the lunar theory of tides. https://www.newadvent.org/cathen/02383b.htm",
-    "16. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Pope Sylvester II.' Gerbert of Aurillac and the reintroduction of the abacus and armillary sphere. https://www.newadvent.org/cathen/14371a.htm",
-    "17. [Wikipedia] Inventing the Flat Earth. Jeffrey Burton Russell's 1991 study of how the myth was manufactured. https://en.wikipedia.org/wiki/Inventing_the_Flat_Earth",
-    "18. [Academic] The Faraday Institute for Science and Religion, University of Cambridge. 'The Christian Roots of Modern Science.' https://www.faraday.cam.ac.uk/churches/church-resources/posts/the-christian-roots-of-modern-science/",
-    "19. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Creation.' The doctrine of creation out of nothing and its implications for the order of nature. https://www.newadvent.org/cathen/04470a.htm",
-    "20. [Academic] Stanford Encyclopedia of Philosophy. 'Laws of Nature.' Includes the theological ancestry of the concept in Descartes, Boyle and Newton. https://plato.stanford.edu/entries/laws-of-nature/",
-    "21. [Academic] Stanford Encyclopedia of Philosophy. 'Condemnation of 1277.' Divine freedom against Aristotelian necessity, and its consequences for natural philosophy. https://plato.stanford.edu/entries/condemnation/",
-    "22. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Reason.' The scope and reliability of human reason in Christian thought. https://www.newadvent.org/cathen/12673b.htm",
-    "23. [Academic] Stanford Encyclopedia of Philosophy. 'Natural Theology and Natural Religion.' Reasoning from the created order to its Creator. https://plato.stanford.edu/entries/natural-theology/",
-    "24. [Apologetics] Ligonier Ministries. 'General and Special Revelation: A Reformed Approach to Science and Scripture.' https://learn.ligonier.org/articles/general-and-special-revelation-reformed-approach-science-and-scripture",
-    "25. [Academic] Cambridge University Press. Peter Harrison, 'The Bible, Protestantism, and the Rise of Natural Science.' https://www.cambridge.org/core/books/bible-protestantism-and-the-rise-of-natural-science/78CAF2F941CB88FBC9C3B1AB0F63AA47",
-    "26. [Academic] University of Queensland, School of Historical and Philosophical Inquiry. Emeritus Professor Peter Harrison. Research profile and publications. https://hpi.uq.edu.au/profile/1644/peter-harrison",
-    "27. [Wikipedia] Natural philosophy. The discipline from which modern natural science emerged, and its non-Christian antecedents. https://en.wikipedia.org/wiki/Natural_philosophy",
-    "28. [Reference] Christian Research Institute. 'Christianity Led to the Rise of Modern Science.' Sets out the linear-time and contingency arguments. https://www.equip.org/articles/christianity-led-rise-modern-science/",
-    "29. [Academic] Stanford Encyclopedia of Philosophy. 'The Problem of Induction.' Why the uniformity of nature cannot be established empirically. https://plato.stanford.edu/entries/induction-problem/",
-    "30. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Western Monasticism.' The Benedictine houses and their copying and teaching work. https://www.newadvent.org/cathen/10472a.htm",
-    "31. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Carolingian Schools.' The eighth- and ninth-century network of cathedral and monastic schools. https://www.newadvent.org/cathen/03349c.htm",
-    "32. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Universities.' Origins, charters and constitution of the medieval university. https://www.newadvent.org/cathen/15188a.htm",
-    "33. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The University of Bologna.' The earliest of the European universities, from 1088. https://www.newadvent.org/cathen/02641b.htm",
-    "34. [Encyclopedia] New Advent, Catholic Encyclopedia. 'University of Paris.' https://www.newadvent.org/cathen/11495a.htm",
-    "35. [Encyclopedia] New Advent, Catholic Encyclopedia. 'University of Oxford.' https://www.newadvent.org/cathen/11365c.htm",
-    "36. [Encyclopedia] New Advent, Catholic Encyclopedia. 'History of Physics.' Survey of natural philosophy from the medieval faculties onward. https://www.newadvent.org/cathen/12047a.htm",
-    "37. [Academic] Stanford Encyclopedia of Philosophy. 'Medieval Political Philosophy.' Context for the authority of the Paris faculties and the 1277 condemnation. https://plato.stanford.edu/entries/medieval-political/",
-    "38. [Academic] Stanford Encyclopedia of Philosophy. 'Robert Grosseteste.' His optics, cosmology and account of scientific method. https://plato.stanford.edu/entries/grosseteste/",
-    "39. [Academic] Ordered Universe Project, Durham University. Grosseteste Manuscripts. The critical editions behind the modern reassessment of his science. https://ordered-universe.com/manuscripts/",
-    "40. [Academic] The Conversation. 'Medieval Bishop's Theory Resembles Modern Concept of Multiple Universes.' Report by the Durham team on De luce. https://theconversation.com/medieval-bishops-theory-resembles-modern-concept-of-multiple-universes-25460",
-    "41. [Academic] Science in Culture (AHRC). 'The Ordered Universe.' Project description and methodology. https://www.sciculture.ac.uk/2014/03/07/the-ordered-universe/",
-    "42. [Academic] Stanford Encyclopedia of Philosophy. 'Albert the Great.' His natural philosophy and insistence on observation in the study of nature. https://plato.stanford.edu/entries/albert-great/",
-    "43. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Roger Bacon.' Scientia experimentalis, optics and the argument for mathematics. https://www.newadvent.org/cathen/13111b.htm",
-    "44. [Academic] Stanford Encyclopedia of Philosophy. 'John Buridan.' Impetus theory and fourteenth-century Parisian natural philosophy. https://plato.stanford.edu/entries/buridan/",
-    "45. [Academic] Stanford Encyclopedia of Philosophy. 'William Heytesbury.' https://plato.stanford.edu/entries/heytesbury/",
-    "46. [Academic] Scientus. 'The Calculatores: Bradwardine and the Oxford Calculators.' https://www.scientus.org/Calculatores-Bradwardine.html",
-    "47. [Wikipedia] 'Oxford Calculators.' https://en.wikipedia.org/wiki/Oxford_Calculators",
-    "48. [Academic] Stanford Encyclopedia of Philosophy. 'Nicole Oresme.' The geometric proof of the mean speed theorem and the argument on terrestrial rotation. https://plato.stanford.edu/entries/nicole-oresme/",
-    "49. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Nicole Oresme.' https://www.newadvent.org/cathen/11296a.htm",
-    "50. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Thomas Bradwardine.' https://mathshistory.st-andrews.ac.uk/Biographies/Bradwardine/",
-    "51. [Wikipedia] List of Christians in science and technology. https://en.wikipedia.org/wiki/List_of_Christians_in_science_and_technology",
-    "52. [Academic] Stanford Encyclopedia of Philosophy. 'Nicolaus Copernicus.' https://plato.stanford.edu/entries/copernicus/",
-    "53. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Nicolaus Copernicus.' His canonry at Frombork and the reception of De revolutionibus. https://www.newadvent.org/cathen/04352b.htm",
-    "54. [Academic] Stanford Encyclopedia of Philosophy. 'Johannes Kepler.' https://plato.stanford.edu/entries/kepler/",
-    "55. [Academic] Linda Hall Library of Science, Engineering and Technology. 'Johannes Kepler.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/johannes-kepler/",
-    "56. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Blaise Pascal.' https://www.newadvent.org/cathen/11511a.htm",
-    "57. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Blaise Pascal.' https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/",
-    "58. [Academic] Stanford Encyclopedia of Philosophy. 'Robert Boyle.' https://plato.stanford.edu/entries/boyle/",
-    "59. [Academic] Gresham College. 'The Boyle Lecture: The Legacy of Robert Boyle, Then and Now.' https://gresham.ac.uk/lectures-and-events/the-boyle-lecture-the-legacy-of-robert-boyle-then-and-now",
-    "60. [Wikipedia] Boyle Lectures. The terms of Boyle's bequest and the history of the series. https://en.wikipedia.org/wiki/Boyle_Lectures",
-    "61. [Academic] The Royal Society. History of the Royal Society. https://royalsociety.org/about-us/history/",
-    "62. [Academic] Stanford Encyclopedia of Philosophy. 'Newton's Philosophy.' https://plato.stanford.edu/entries/newton-philosophy/",
-    "63. [Academic] The Newton Project, University of Oxford. 'Newton's Religious Life and Work.' Editorial introduction to the theological manuscripts. https://www.newtonproject.ox.ac.uk/view/contexts/CNTX00001",
-    "64. [Wikipedia] General Scholium. The 1713 appendix to the Principia and its argument from design. https://en.wikipedia.org/wiki/General_Scholium",
-    "65. [Academic] Stephen D. Snobelen. 'The Theology of Isaac Newton's General Scholium to the Principia.' Study of the anti-Trinitarian argument in the text. https://isaac-newton.org/wp-content/uploads/2013/06/theology-of-general-scholium.pdf",
-    "66. [Academic] Linda Hall Library. 'Nicolaus Steno, Danish Physician and Anatomist.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/nicolaus-steno/",
-    "67. [Encyclopedia] EBSCO Research Starters. 'Nicolaus Steno.' Stratigraphy, ordination, episcopal appointment and beatification. https://www.ebsco.com/research-starters/history/nicolaus-steno",
-    "68. [Academic] Linda Hall Library. 'John Ray, English Naturalist and Cleric.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/john-ray/",
-    "69. [Academic] Linda Hall Library. 'Carl Linnaeus, Swedish Botanist.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/carl-linnaeus/",
-    "70. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Leonhard Euler.' https://mathshistory.st-andrews.ac.uk/Biographies/Euler/",
-    "71. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Alessandro Volta.' https://www.newadvent.org/cathen/15503a.htm",
-    "72. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Luigi Galvani.' https://www.newadvent.org/cathen/06371c.htm",
-    "73. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Lazzaro Spallanzani.' The experimental refutation of spontaneous generation. https://www.newadvent.org/cathen/14209a.htm",
-    "74. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Michael Faraday.' https://mathshistory.st-andrews.ac.uk/Biographies/Faraday/",
-    "75. [Academic] MacTutor History of Mathematics, University of St Andrews. 'James Clerk Maxwell.' https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/",
-    "76. [Academic] Linda Hall Library. 'James Clerk Maxwell.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/james-clerk-maxwell/",
-    "77. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Mendel, Mendelism.' The Brno experiments and the laws of inheritance. https://www.newadvent.org/cathen/10180b.htm",
-    "78. [Academic] MacTutor History of Mathematics, University of St Andrews. 'William Thomson, Lord Kelvin.' https://mathshistory.st-andrews.ac.uk/Biographies/Thomson/",
-    "79. [Academic] MacTutor History of Mathematics, University of St Andrews. 'George Gabriel Stokes.' https://mathshistory.st-andrews.ac.uk/Biographies/Stokes/",
-    "80. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Louis Pasteur.' https://www.newadvent.org/cathen/11536a.htm",
-    "81. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Bernhard Riemann.' https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/",
-    "82. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Augustin-Louis Cauchy.' https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/",
-    "83. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Andreas Vesalius.' The founder of modern human anatomy. https://www.newadvent.org/cathen/15378c.htm",
-    "84. [Wikipedia] Scientific Revolution. The period in which modern natural science took shape. https://en.wikipedia.org/wiki/Scientific_Revolution",
-    "85. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Vatican Observatory.' Its foundation and early programme. https://www.newadvent.org/cathen/15309a.htm",
-    "86. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Vatican as a Scientific Institute.' https://www.newadvent.org/cathen/15286a.htm",
-    "87. [Christian Source] America. 'Angelo Secchi, the Jesuit Father of Astrophysics.' https://www.americamagazine.org/arts-culture/2018/07/26/angelo-secchi-jesuit-father-astrophysics/",
-    "88. [Reference] Portal to the Heritage of Astronomy. Observatory of the Roman College and Secchi's spectroscopic work. https://web.astronomicalheritage.net/show-entity?identity=270&idsubentity=1",
-    "89. [Academic] Linda Hall Library. 'Georges Lemaitre.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/georges-lemaitre/",
-    "90. [Academic] Jean-Pierre Luminet. 'Lemaitre's Big Bang.' arXiv 1503.08304. Detailed account of the 1927 and 1931 papers. https://arxiv.org/pdf/1503.08304",
-    "91. [Academic] Society of Catholic Scientists. 'Monsignor Georges Lemaitre, Originator of the Big Bang Theory.' Includes the 1951-1952 exchange with Pius XII. https://catholicscientists.org/articles/monsignor-georges-lemaitre-originator-of-big-bang-theory/",
-    "92. [Academic] 'Georges Lemaitre and the Foundations of Big Bang Cosmology.' arXiv 2007.09459. https://arxiv.org/pdf/2007.09459",
-    "93. [Primary Source] The Nobel Prize. Ernest T. S. Walton, Nobel Prize in Physics 1951. https://www.nobelprize.org/prizes/physics/1951/walton/facts/",
-    "94. [Primary Source] The Nobel Prize. Charles H. Townes, Nobel Prize in Physics 1964. https://www.nobelprize.org/prizes/physics/1964/townes/facts/",
-    "95. [Primary Source] The Nobel Prize. William D. Phillips, Nobel Prize in Physics 1997. https://www.nobelprize.org/prizes/physics/1997/phillips/facts/",
-    "96. [Reference] National Human Genome Research Institute. Francis S. Collins, M.D., Ph.D. https://www.genome.gov/staff/Francis-S-Collins-MD-PhD",
-    "97. [Academic] American Association for the Advancement of Science. Dr Jennifer Wiseman. https://www.aaas.org/person/dr-jennifer-wiseman",
-    "98. [Reference] NASA Goddard Space Flight Center, Sciences and Exploration Directorate. Jennifer J. Wiseman. https://science.gsfc.nasa.gov/sci/bio/jennifer.j.wiseman",
-    "99. [Reference] Templeton Prize. John Polkinghorne, 2002 laureate. https://www.templetonprize.org/laureates/john-polkinghorne/",
-    "100. [Reference] American Scientific Affiliation. Network of Christians in the sciences, founded 1941. https://network.asa3.org/",
-    "101. [Reference] C. S. Lewis Institute. 'Science and Faith: Friendly Allies, Not Hostile Enemies.' Documents Allan Sandage's account of his own conversion. https://www.cslewisinstitute.org/resources/science-and-faith-friendly-allies-not-hostile-enemies/",
-    "102. [Wikipedia] List of Christian Nobel laureates. Notes that the underlying figures derive from Baruch Shalev's classification by background rather than by stated belief. https://en.wikipedia.org/wiki/List_of_Christian_Nobel_laureates",
-    "103. [Reference] Pew Research Center. 'Scientists and Belief.' Survey of AAAS members, May and June 2009. https://www.pewresearch.org/religion/2009/11/05/scientists-and-belief/",
-    "104. [Reference] Pew Research Center. 'An Overview of Religion and Science in the United States.' https://www.pewresearch.org/religion/2009/11/05/an-overview-of-religion-and-science-in-the-united-states/",
-    "105. [Academic] Socius (SAGE). Ecklund, Johnson, Scheitle, Matthews and Lewis. 'Religion among Scientists in International Context: A New Study of Scientists in Eight Regions.' https://journals.sagepub.com/doi/10.1177/2378023116664353",
-    "106. [Academic] Rice University, Baker Institute for Public Policy. 'Religion among International Scientists.' Study overview and regional findings. https://www.bakerinstitute.org/research/religion-among-international-scientists",
-    "107. [Academic] Elaine Howard Ecklund. Research studies, including Religion among Scientists in International Context. https://www.elainehowardecklund.com/research-studies",
-    "108. [Reference] Interdisciplinary Encyclopedia of Religion and Science. 'A Global Lab: Religion among Scientists in International Context.' Summary report of findings. https://inters.org/files/global-lab-conference-summary-report_2015_1201.pdf",
-    "109. [Academic] The Faraday Institute for Science and Religion, University of Cambridge. 'What Scientists Believe.' Summary of the survey literature. https://www.faraday.cam.ac.uk/churches/church-resources/posts/what-scientists-believe/",
-    "110. [Academic] Social Problems. Elaine Howard Ecklund and Christopher P. Scheitle, 'Religion among Academic Scientists: Distinctions, Disciplines, and Demographics' (2007). https://academic.oup.com/socpro/article-abstract/54/2/289/1610543",
-    "111. [Academic] Stanford Encyclopedia of Philosophy. 'Galileo Galilei.' His science, his theological arguments and the proceedings against him. https://plato.stanford.edu/entries/galileo/",
-    "112. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Galileo Galilei.' A Catholic account of the affair, written before the twentieth-century archival work. https://www.newadvent.org/cathen/06342b.htm",
-    "113. [Academic] University of Navarra, Science, Reason and Faith group. 'The Galileo Affair.' Detailed reconstruction of 1616 and 1633. https://en.unav.edu/web/ciencia-razon-y-fe/the-galileo-affair",
-    "114. [Academic] The Galileo Project, Rice University. 'The (False?) Injunction.' The disputed 1616 precept and the arguments over its service. http://galileo.rice.edu/lib/student_work/trial95/injuction.html",
-    "115. [Academic] Famous Trials, University of Missouri-Kansas City School of Law. 'The Trial of Galileo: An Account.' https://famous-trials.com/galileotrial/1014-home",
-    "116. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Pope Urban VIII.' His patronage of Galileo and his reaction to the Dialogue. https://www.newadvent.org/cathen/15218b.htm",
-    "117. [Academic] Church History (Cambridge University Press). 'Galileo's Non-Trial (1616), Pre-Trial (1632-1633), and Trial (May 10, 1633): A Review of Procedure.' https://www.cambridge.org/core/journals/church-history/article/galileos-nontrial-1616-pretrial-16321633-and-trial-may-10-1633-a-review-of-procedure-featuring-routine-violations-of-the-forum-of-conscience/F5BB9632FA3F4C34B33C119A401EB3BC",
-    "118. [Academic] Hanover Historical Texts Project. Galileo Galilei, 'Letter to the Grand Duchess Christina of Tuscany' (1615), excerpts. https://history.hanover.edu/courses/excerpts/111gal2.html",
-    "119. [Academic] Ohio State University, History Teaching Institute. Galileo Galilei, Letter to the Grand Duchess Christina of Tuscany, 1615. Full text. https://hti.osu.edu/sites/default/files/galileo_galilei.pdf",
-    "120. [Academic] University of Oklahoma, Galileo's World. 'The Ancient and Modern Doctrines of the Holy Fathers.' Galileo on scriptural accommodation. https://galileo.ou.edu/node/1780.html",
-    "121. [Wikipedia] Letter to the Grand Duchess Christina. Composition, argument and reception, with the terms of Galileo's later confinement. https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina",
-    "122. [Academic] Stanford Encyclopedia of Philosophy. 'Creationism.' Includes the legal and ecclesiastical aftermath of disputes over science and Scripture. https://plato.stanford.edu/entries/creationism/",
-    "123. [Reference] National Center for Science Education. 'Kitzmiller v. Dover: Intelligent Design on Trial.' Case archive and documents. https://ncse.ngo/kitzmiller-v-dover-intelligent-design-trial",
-    "124. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Scopes Monkey Trial.' https://firstamendment.mtsu.edu/article/scopes-monkey-trial/",
-    "125. [Academic] Society of Catholic Scientists. 'The New Scopes-Trial Myth: Eugenics and Evolution at Dayton.' Assesses the eugenics content of A Civic Biology and Bryan's motives. https://catholicscientists.org/articles/the-new-scopes-trial-myth-eugenics-and-evolution-at-dayton/",
-    "126. [Academic] Famous Trials, University of Missouri-Kansas City School of Law. 'Evolution Controversy: Selected Essays on Eugenics, the Rise of Fundamentalism, and the Courts.' https://famous-trials.com/scopesmonkey/2138-evolutioncontroversy",
-    "127. [Wikipedia] Inherit the Wind (play). The 1955 dramatisation and its intended subject. https://en.wikipedia.org/wiki/Inherit_the_Wind_(play)",
-    "128. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Kitzmiller v. Dover Area School District.' With the earlier establishment clause cases. https://firstamendment.mtsu.edu/article/kitzmiller-v-dover-area-school-district-m-d-pa/",
-    "129. [Primary Source] Talk Origins Archive. Kitzmiller v. Dover: Decision of the Court. Transcribed opinion. http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover_decision.html",
-    "130. [Primary Source] Justia. Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005). Full memorandum opinion. https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
-    "131. [Wikipedia] Kitzmiller v. Dover Area School District. Procedural history and findings. https://en.wikipedia.org/wiki/Kitzmiller_v._Dover_Area_School_District",
-    "132. [Academic] Stanford Encyclopedia of Philosophy. 'Naturalism.' Distinguishes the methodological rule from the metaphysical thesis. https://plato.stanford.edu/entries/naturalism/",
-    "133. [Wikipedia] Naturalism (philosophy). Methodological naturalism and its acceptance by religious scientists. https://en.wikipedia.org/wiki/Naturalism_(philosophy)",
-    "134. [Academic] Stanford Encyclopedia of Philosophy. 'Augustine of Hippo.' Including his rule for interpreting Scripture against established natural knowledge. https://plato.stanford.edu/entries/augustine/",
-    "135. [Academic] Eugene P. Wigner. 'The Unreasonable Effectiveness of Mathematics in the Natural Sciences.' Communications in Pure and Applied Mathematics 13, no. 1 (1960). https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-    "136. [Academic] Stanford Encyclopedia of Philosophy. 'Indispensability Arguments in the Philosophy of Mathematics.' Why mathematical applicability calls for explanation. https://plato.stanford.edu/entries/mathphil-indis/",
-    "137. [Wikipedia] God of the gaps. The fallacy and Bonhoeffer's 1944 prison-letter formulation of the alternative. https://en.wikipedia.org/wiki/God_of_the_gaps",
-    "138. [Wikipedia] Metaphysical naturalism. The claim that nature is all there is. https://en.wikipedia.org/wiki/Metaphysical_naturalism",
-    "139. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Materialism.' The nineteenth-century programme and its philosophical commitments. https://www.newadvent.org/cathen/10041b.htm",
-    "140. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Positivism.' Comte's system and the claim that science exhausts knowledge. https://www.newadvent.org/cathen/12312c.htm",
-    "141. [Academic] Internet Encyclopedia of Philosophy. 'Scientism.' The position, its varieties and the self-refutation objection. https://iep.utm.edu/scientism/",
-    "142. [Academic] Scientism. Oxford Scholarship Online, 2018. https://doi.org/10.1093/oso/9780190462758.001.0001",
-    "143. [Wikipedia] 'Scientism.' https://en.wikipedia.org/wiki/Scientism",
-    "144. [Academic] University of California Museum of Paleontology, Understanding Science. 'Science Has Limits: A Few Things That Science Does Not Do.' https://undsci.berkeley.edu/understanding-science-101/what-is-science/science-has-limits-a-few-things-that-science-does-not-do/",
-    "145. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Logic.' The status of logical principles relative to empirical enquiry. https://www.newadvent.org/cathen/09324a.htm",
-    "146. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Metaphysics.' The questions that lie outside empirical method. https://www.newadvent.org/cathen/10226a.htm",
-    "147. [Academic] Davies. Why is there anything at all?. Think, 2003. https://doi.org/10.1017/s1477175600000579",
-    "148. [Wikipedia] 'Why there is anything at all.' https://en.wikipedia.org/wiki/Why_there_is_anything_at_all",
-    "149. [Academic] Internet Encyclopedia of Philosophy. 'Hard Problem of Consciousness.' https://iep.utm.edu/hard-problem-of-conciousness/",
-    "150. [Academic] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
-    "151. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Neo-Scholasticism.' The revival of a philosophy treating knowledge as wider than empirical measurement. https://www.newadvent.org/cathen/10746a.htm",
-    "152. [Academic] Stanford Encyclopedia of Philosophy. 'Science and Pseudo-Science.' The demarcation problem and its lack of an agreed solution. https://plato.stanford.edu/entries/pseudo-science/",
-    "153. [Wikipedia] Demarcation problem. https://en.wikipedia.org/wiki/Demarcation_problem",
-    "154. [Wikipedia] Non-overlapping magisteria. Gould's proposal and the objections to it. https://en.wikipedia.org/wiki/Non-overlapping_magisteria",
-    "155. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Astronomy.' On the study of the heavens as a Christian intellectual tradition. https://www.newadvent.org/cathen/02025a.htm"
+    "9. [Primary Source] Andrew Dickson White, A History of the Warfare of Science with Theology in Christendom. Project Gutenberg. https://www.gutenberg.org/ebooks/505",
+    "10. [Wikipedia] A History of the Warfare of Science with Theology in Christendom. White's 1896 work and the circumstances of its composition. https://en.wikipedia.org/wiki/A_History_of_the_Warfare_of_Science_with_Theology_in_Christendom",
+    "11. [Reference] First Things. 'Modern Science's Christian Sources.' Historical essay on the theological presuppositions of the scientific enterprise. https://firstthings.com/modern-sciences-christian-sources/",
+    "12. [Academic] Annals of Science. 'The Many Histories of the Conflict Thesis: The Science vs. Religion Narrative in Nineteenth-Century Germany.' https://www.tandfonline.com/doi/abs/10.1080/00033790.2023.2187086",
+    "13. [Academic] University of California Press. David C. Lindberg and Ronald L. Numbers, eds. 'God and Nature: Historical Essays on the Encounter between Christianity and Science' (1986). https://www.ucpress.edu/books/god-and-nature/paper",
+    "14. [Academic] Project MUSE. Review of 'God and Nature: Historical Essays on the Encounter Between Christianity and Science.' https://muse.jhu.edu/article/638018",
+    "15. [Academic] American Scientific Affiliation. Jeffrey Burton Russell, 'The Myth of the Flat Earth.' Paper tracing the myth to Washington Irving and later writers. https://www.asa3.org/ASA/topics/history/1997Russell.html",
+    "16. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Bede.' On the Reckoning of Time, the computus and the lunar theory of tides. https://www.newadvent.org/cathen/02383b.htm",
+    "17. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Pope Sylvester II.' Gerbert of Aurillac and the reintroduction of the abacus and armillary sphere. https://www.newadvent.org/cathen/14371a.htm",
+    "18. [Wikipedia] Inventing the Flat Earth. Jeffrey Burton Russell's 1991 study of how the myth was manufactured. https://en.wikipedia.org/wiki/Inventing_the_Flat_Earth",
+    "19. [Academic] The Faraday Institute for Science and Religion, University of Cambridge. 'The Christian Roots of Modern Science.' https://www.faraday.cam.ac.uk/churches/church-resources/posts/the-christian-roots-of-modern-science/",
+    "20. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Creation.' The doctrine of creation out of nothing and its implications for the order of nature. https://www.newadvent.org/cathen/04470a.htm",
+    "21. [Academic] Stanford Encyclopedia of Philosophy. 'Laws of Nature.' Includes the theological ancestry of the concept in Descartes, Boyle and Newton. https://plato.stanford.edu/entries/laws-of-nature/",
+    "22. [Academic] Stanford Encyclopedia of Philosophy. 'Condemnation of 1277.' Divine freedom against Aristotelian necessity, and its consequences for natural philosophy. https://plato.stanford.edu/entries/condemnation/",
+    "23. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Reason.' The scope and reliability of human reason in Christian thought. https://www.newadvent.org/cathen/12673b.htm",
+    "24. [Academic] Stanford Encyclopedia of Philosophy. 'Natural Theology and Natural Religion.' Reasoning from the created order to its Creator. https://plato.stanford.edu/entries/natural-theology/",
+    "25. [Apologetics] Ligonier Ministries. 'General and Special Revelation: A Reformed Approach to Science and Scripture.' https://learn.ligonier.org/articles/general-and-special-revelation-reformed-approach-science-and-scripture",
+    "26. [Academic] Cambridge University Press. Peter Harrison, 'The Bible, Protestantism, and the Rise of Natural Science.' https://www.cambridge.org/core/books/bible-protestantism-and-the-rise-of-natural-science/78CAF2F941CB88FBC9C3B1AB0F63AA47",
+    "27. [Academic] University of Queensland, School of Historical and Philosophical Inquiry. Emeritus Professor Peter Harrison. Research profile and publications. https://hpi.uq.edu.au/profile/1644/peter-harrison",
+    "28. [Wikipedia] Natural philosophy. The discipline from which modern natural science emerged, and its non-Christian antecedents. https://en.wikipedia.org/wiki/Natural_philosophy",
+    "29. [Reference] Christian Research Institute. 'Christianity Led to the Rise of Modern Science.' Sets out the linear-time and contingency arguments. https://www.equip.org/articles/christianity-led-rise-modern-science/",
+    "30. [Academic] Stanford Encyclopedia of Philosophy. 'The Problem of Induction.' Why the uniformity of nature cannot be established empirically. https://plato.stanford.edu/entries/induction-problem/",
+    "31. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Western Monasticism.' The Benedictine houses and their copying and teaching work. https://www.newadvent.org/cathen/10472a.htm",
+    "32. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Carolingian Schools.' The eighth- and ninth-century network of cathedral and monastic schools. https://www.newadvent.org/cathen/03349c.htm",
+    "33. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Universities.' Origins, charters and constitution of the medieval university. https://www.newadvent.org/cathen/15188a.htm",
+    "34. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The University of Bologna.' The earliest of the European universities, from 1088. https://www.newadvent.org/cathen/02641b.htm",
+    "35. [Encyclopedia] New Advent, Catholic Encyclopedia. 'University of Paris.' https://www.newadvent.org/cathen/11495a.htm",
+    "36. [Encyclopedia] New Advent, Catholic Encyclopedia. 'University of Oxford.' https://www.newadvent.org/cathen/11365c.htm",
+    "37. [Encyclopedia] New Advent, Catholic Encyclopedia. 'History of Physics.' Survey of natural philosophy from the medieval faculties onward. https://www.newadvent.org/cathen/12047a.htm",
+    "38. [Academic] Stanford Encyclopedia of Philosophy. 'Medieval Political Philosophy.' Context for the authority of the Paris faculties and the 1277 condemnation. https://plato.stanford.edu/entries/medieval-political/",
+    "39. [Academic] Stanford Encyclopedia of Philosophy. 'Robert Grosseteste.' His optics, cosmology and account of scientific method. https://plato.stanford.edu/entries/grosseteste/",
+    "40. [Academic] Ordered Universe Project, Durham University. Grosseteste Manuscripts. The critical editions behind the modern reassessment of his science. https://ordered-universe.com/manuscripts/",
+    "41. [Academic] The Conversation. 'Medieval Bishop's Theory Resembles Modern Concept of Multiple Universes.' Report by the Durham team on De luce. https://theconversation.com/medieval-bishops-theory-resembles-modern-concept-of-multiple-universes-25460",
+    "42. [Academic] Science in Culture (AHRC). 'The Ordered Universe.' Project description and methodology. https://www.sciculture.ac.uk/2014/03/07/the-ordered-universe/",
+    "43. [Academic] Stanford Encyclopedia of Philosophy. 'Albert the Great.' His natural philosophy and insistence on observation in the study of nature. https://plato.stanford.edu/entries/albert-great/",
+    "44. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Roger Bacon.' Scientia experimentalis, optics and the argument for mathematics. https://www.newadvent.org/cathen/13111b.htm",
+    "45. [Academic] Stanford Encyclopedia of Philosophy. 'John Buridan.' Impetus theory and fourteenth-century Parisian natural philosophy. https://plato.stanford.edu/entries/buridan/",
+    "46. [Academic] Stanford Encyclopedia of Philosophy. 'William Heytesbury.' https://plato.stanford.edu/entries/heytesbury/",
+    "47. [Academic] Scientus. 'The Calculatores: Bradwardine and the Oxford Calculators.' https://www.scientus.org/Calculatores-Bradwardine.html",
+    "48. [Wikipedia] 'Oxford Calculators.' https://en.wikipedia.org/wiki/Oxford_Calculators",
+    "49. [Academic] Stanford Encyclopedia of Philosophy. 'Nicole Oresme.' The geometric proof of the mean speed theorem and the argument on terrestrial rotation. https://plato.stanford.edu/entries/nicole-oresme/",
+    "50. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Nicole Oresme.' https://www.newadvent.org/cathen/11296a.htm",
+    "51. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Thomas Bradwardine.' https://mathshistory.st-andrews.ac.uk/Biographies/Bradwardine/",
+    "52. [Wikipedia] List of Christians in science and technology. https://en.wikipedia.org/wiki/List_of_Christians_in_science_and_technology",
+    "53. [Academic] Stanford Encyclopedia of Philosophy. 'Nicolaus Copernicus.' https://plato.stanford.edu/entries/copernicus/",
+    "54. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Nicolaus Copernicus.' His canonry at Frombork and the reception of De revolutionibus. https://www.newadvent.org/cathen/04352b.htm",
+    "55. [Academic] Stanford Encyclopedia of Philosophy. 'Johannes Kepler.' https://plato.stanford.edu/entries/kepler/",
+    "56. [Academic] Linda Hall Library of Science, Engineering and Technology. 'Johannes Kepler.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/johannes-kepler/",
+    "57. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Blaise Pascal.' https://www.newadvent.org/cathen/11511a.htm",
+    "58. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Blaise Pascal.' https://mathshistory.st-andrews.ac.uk/Biographies/Pascal/",
+    "59. [Academic] Stanford Encyclopedia of Philosophy. 'Robert Boyle.' https://plato.stanford.edu/entries/boyle/",
+    "60. [Academic] Gresham College. 'The Boyle Lecture: The Legacy of Robert Boyle, Then and Now.' https://gresham.ac.uk/lectures-and-events/the-boyle-lecture-the-legacy-of-robert-boyle-then-and-now",
+    "61. [Wikipedia] Boyle Lectures. The terms of Boyle's bequest and the history of the series. https://en.wikipedia.org/wiki/Boyle_Lectures",
+    "62. [Academic] The Royal Society. History of the Royal Society. https://royalsociety.org/about-us/history/",
+    "63. [Academic] Stanford Encyclopedia of Philosophy. 'Newton's Philosophy.' https://plato.stanford.edu/entries/newton-philosophy/",
+    "64. [Academic] The Newton Project, University of Oxford. 'Newton's Religious Life and Work.' Editorial introduction to the theological manuscripts. https://www.newtonproject.ox.ac.uk/view/contexts/CNTX00001",
+    "65. [Wikipedia] General Scholium. The 1713 appendix to the Principia and its argument from design. https://en.wikipedia.org/wiki/General_Scholium",
+    "66. [Academic] Stephen D. Snobelen. 'The Theology of Isaac Newton's General Scholium to the Principia.' Study of the anti-Trinitarian argument in the text. https://isaac-newton.org/wp-content/uploads/2013/06/theology-of-general-scholium.pdf",
+    "67. [Academic] Linda Hall Library. 'Nicolaus Steno, Danish Physician and Anatomist.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/nicolaus-steno/",
+    "68. [Encyclopedia] EBSCO Research Starters. 'Nicolaus Steno.' Stratigraphy, ordination, episcopal appointment and beatification. https://www.ebsco.com/research-starters/history/nicolaus-steno",
+    "69. [Academic] Linda Hall Library. 'John Ray, English Naturalist and Cleric.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/john-ray/",
+    "70. [Academic] Linda Hall Library. 'Carl Linnaeus, Swedish Botanist.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/carl-linnaeus/",
+    "71. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Leonhard Euler.' https://mathshistory.st-andrews.ac.uk/Biographies/Euler/",
+    "72. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Alessandro Volta.' https://www.newadvent.org/cathen/15503a.htm",
+    "73. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Luigi Galvani.' https://www.newadvent.org/cathen/06371c.htm",
+    "74. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Lazzaro Spallanzani.' The experimental refutation of spontaneous generation. https://www.newadvent.org/cathen/14209a.htm",
+    "75. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Michael Faraday.' https://mathshistory.st-andrews.ac.uk/Biographies/Faraday/",
+    "76. [Academic] MacTutor History of Mathematics, University of St Andrews. 'James Clerk Maxwell.' https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/",
+    "77. [Academic] Linda Hall Library. 'James Clerk Maxwell.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/james-clerk-maxwell/",
+    "78. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Mendel, Mendelism.' The Brno experiments and the laws of inheritance. https://www.newadvent.org/cathen/10180b.htm",
+    "79. [Academic] MacTutor History of Mathematics, University of St Andrews. 'William Thomson, Lord Kelvin.' https://mathshistory.st-andrews.ac.uk/Biographies/Thomson/",
+    "80. [Academic] MacTutor History of Mathematics, University of St Andrews. 'George Gabriel Stokes.' https://mathshistory.st-andrews.ac.uk/Biographies/Stokes/",
+    "81. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Louis Pasteur.' https://www.newadvent.org/cathen/11536a.htm",
+    "82. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Bernhard Riemann.' https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/",
+    "83. [Academic] MacTutor History of Mathematics, University of St Andrews. 'Augustin-Louis Cauchy.' https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/",
+    "84. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Andreas Vesalius.' The founder of modern human anatomy. https://www.newadvent.org/cathen/15378c.htm",
+    "85. [Wikipedia] Scientific Revolution. The period in which modern natural science took shape. https://en.wikipedia.org/wiki/Scientific_Revolution",
+    "86. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Vatican Observatory.' Its foundation and early programme. https://www.newadvent.org/cathen/15309a.htm",
+    "87. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Vatican as a Scientific Institute.' https://www.newadvent.org/cathen/15286a.htm",
+    "88. [Christian Source] America. 'Angelo Secchi, the Jesuit Father of Astrophysics.' https://www.americamagazine.org/arts-culture/2018/07/26/angelo-secchi-jesuit-father-astrophysics/",
+    "89. [Reference] Portal to the Heritage of Astronomy. Observatory of the Roman College and Secchi's spectroscopic work. https://web.astronomicalheritage.net/show-entity?identity=270&idsubentity=1",
+    "90. [Academic] Linda Hall Library. 'Georges Lemaitre.' Scientist of the Day. https://www.lindahall.org/about/news/scientist-of-the-day/georges-lemaitre/",
+    "91. [Academic] Jean-Pierre Luminet. 'Lemaitre's Big Bang.' arXiv 1503.08304. Detailed account of the 1927 and 1931 papers. https://arxiv.org/pdf/1503.08304",
+    "92. [Academic] Society of Catholic Scientists. 'Monsignor Georges Lemaitre, Originator of the Big Bang Theory.' Includes the 1951-1952 exchange with Pius XII. https://catholicscientists.org/articles/monsignor-georges-lemaitre-originator-of-big-bang-theory/",
+    "93. [Academic] 'Georges Lemaitre and the Foundations of Big Bang Cosmology.' arXiv 2007.09459. https://arxiv.org/pdf/2007.09459",
+    "94. [Primary Source] The Nobel Prize. Ernest T. S. Walton, Nobel Prize in Physics 1951. https://www.nobelprize.org/prizes/physics/1951/walton/facts/",
+    "95. [Primary Source] The Nobel Prize. Charles H. Townes, Nobel Prize in Physics 1964. https://www.nobelprize.org/prizes/physics/1964/townes/facts/",
+    "96. [Primary Source] The Nobel Prize. William D. Phillips, Nobel Prize in Physics 1997. https://www.nobelprize.org/prizes/physics/1997/phillips/facts/",
+    "97. [Reference] National Human Genome Research Institute. Francis S. Collins, M.D., Ph.D. https://www.genome.gov/staff/Francis-S-Collins-MD-PhD",
+    "98. [Academic] American Association for the Advancement of Science. Dr Jennifer Wiseman. https://www.aaas.org/person/dr-jennifer-wiseman",
+    "99. [Reference] NASA Goddard Space Flight Center, Sciences and Exploration Directorate. Jennifer J. Wiseman. https://science.gsfc.nasa.gov/sci/bio/jennifer.j.wiseman",
+    "100. [Reference] Templeton Prize. John Polkinghorne, 2002 laureate. https://www.templetonprize.org/laureates/john-polkinghorne/",
+    "101. [Reference] American Scientific Affiliation. Network of Christians in the sciences, founded 1941. https://network.asa3.org/",
+    "102. [Reference] C. S. Lewis Institute. 'Science and Faith: Friendly Allies, Not Hostile Enemies.' Documents Allan Sandage's account of his own conversion. https://www.cslewisinstitute.org/resources/science-and-faith-friendly-allies-not-hostile-enemies/",
+    "103. [Wikipedia] List of Christian Nobel laureates. Notes that the underlying figures derive from Baruch Shalev's classification by background rather than by stated belief. https://en.wikipedia.org/wiki/List_of_Christian_Nobel_laureates",
+    "104. [Reference] Pew Research Center. 'Scientists and Belief.' Survey of AAAS members, May and June 2009. https://www.pewresearch.org/religion/2009/11/05/scientists-and-belief/",
+    "105. [Reference] Pew Research Center. 'An Overview of Religion and Science in the United States.' https://www.pewresearch.org/religion/2009/11/05/an-overview-of-religion-and-science-in-the-united-states/",
+    "106. [Academic] Socius (SAGE). Ecklund, Johnson, Scheitle, Matthews and Lewis. 'Religion among Scientists in International Context: A New Study of Scientists in Eight Regions.' https://journals.sagepub.com/doi/10.1177/2378023116664353",
+    "107. [Academic] Rice University, Baker Institute for Public Policy. 'Religion among International Scientists.' Study overview and regional findings. https://www.bakerinstitute.org/research/religion-among-international-scientists",
+    "108. [Academic] Elaine Howard Ecklund. Research studies, including Religion among Scientists in International Context. https://www.elainehowardecklund.com/research-studies",
+    "109. [Reference] Interdisciplinary Encyclopedia of Religion and Science. 'A Global Lab: Religion among Scientists in International Context.' Summary report of findings. https://inters.org/files/global-lab-conference-summary-report_2015_1201.pdf",
+    "110. [Academic] The Faraday Institute for Science and Religion, University of Cambridge. 'What Scientists Believe.' Summary of the survey literature. https://www.faraday.cam.ac.uk/churches/church-resources/posts/what-scientists-believe/",
+    "111. [Academic] Social Problems. Elaine Howard Ecklund and Christopher P. Scheitle, 'Religion among Academic Scientists: Distinctions, Disciplines, and Demographics' (2007). https://academic.oup.com/socpro/article-abstract/54/2/289/1610543",
+    "112. [Academic] Stanford Encyclopedia of Philosophy. 'Galileo Galilei.' His science, his theological arguments and the proceedings against him. https://plato.stanford.edu/entries/galileo/",
+    "113. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Galileo Galilei.' A Catholic account of the affair, written before the twentieth-century archival work. https://www.newadvent.org/cathen/06342b.htm",
+    "114. [Academic] University of Navarra, Science, Reason and Faith group. 'The Galileo Affair.' Detailed reconstruction of 1616 and 1633. https://en.unav.edu/web/ciencia-razon-y-fe/the-galileo-affair",
+    "115. [Academic] The Galileo Project, Rice University. 'The (False?) Injunction.' The disputed 1616 precept and the arguments over its service. http://galileo.rice.edu/lib/student_work/trial95/injuction.html",
+    "116. [Academic] Famous Trials, University of Missouri-Kansas City School of Law. 'The Trial of Galileo: An Account.' https://famous-trials.com/galileotrial/1014-home",
+    "117. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Pope Urban VIII.' His patronage of Galileo and his reaction to the Dialogue. https://www.newadvent.org/cathen/15218b.htm",
+    "118. [Academic] Church History (Cambridge University Press). 'Galileo's Non-Trial (1616), Pre-Trial (1632-1633), and Trial (May 10, 1633): A Review of Procedure.' https://www.cambridge.org/core/journals/church-history/article/galileos-nontrial-1616-pretrial-16321633-and-trial-may-10-1633-a-review-of-procedure-featuring-routine-violations-of-the-forum-of-conscience/F5BB9632FA3F4C34B33C119A401EB3BC",
+    "119. [Academic] Hanover Historical Texts Project. Galileo Galilei, 'Letter to the Grand Duchess Christina of Tuscany' (1615), excerpts. https://history.hanover.edu/courses/excerpts/111gal2.html",
+    "120. [Academic] Ohio State University, History Teaching Institute. Galileo Galilei, Letter to the Grand Duchess Christina of Tuscany, 1615. Full text. https://hti.osu.edu/sites/default/files/galileo_galilei.pdf",
+    "121. [Academic] University of Oklahoma, Galileo's World. 'The Ancient and Modern Doctrines of the Holy Fathers.' Galileo on scriptural accommodation. https://galileo.ou.edu/node/1780.html",
+    "122. [Wikipedia] Letter to the Grand Duchess Christina. Composition, argument and reception, with the terms of Galileo's later confinement. https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina",
+    "123. [Academic] Stanford Encyclopedia of Philosophy. 'Creationism.' Includes the legal and ecclesiastical aftermath of disputes over science and Scripture. https://plato.stanford.edu/entries/creationism/",
+    "124. [Reference] National Center for Science Education. 'Kitzmiller v. Dover: Intelligent Design on Trial.' Case archive and documents. https://ncse.ngo/kitzmiller-v-dover-intelligent-design-trial",
+    "125. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Scopes Monkey Trial.' https://firstamendment.mtsu.edu/article/scopes-monkey-trial/",
+    "126. [Academic] Society of Catholic Scientists. 'The New Scopes-Trial Myth: Eugenics and Evolution at Dayton.' Assesses the eugenics content of A Civic Biology and Bryan's motives. https://catholicscientists.org/articles/the-new-scopes-trial-myth-eugenics-and-evolution-at-dayton/",
+    "127. [Academic] Famous Trials, University of Missouri-Kansas City School of Law. 'Evolution Controversy: Selected Essays on Eugenics, the Rise of Fundamentalism, and the Courts.' https://famous-trials.com/scopesmonkey/2138-evolutioncontroversy",
+    "128. [Wikipedia] Inherit the Wind (play). The 1955 dramatisation and its intended subject. https://en.wikipedia.org/wiki/Inherit_the_Wind_(play)",
+    "129. [Academic] The Scopes Trial. Famous Trials, UMKC School of Law. https://law2.umkc.edu/faculty/projects/ftrials/scopes/scopes.htm",
+    "130. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Kitzmiller v. Dover Area School District.' With the earlier establishment clause cases. https://firstamendment.mtsu.edu/article/kitzmiller-v-dover-area-school-district-m-d-pa/",
+    "131. [Primary Source] Talk Origins Archive. Kitzmiller v. Dover: Decision of the Court. Transcribed opinion. http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover_decision.html",
+    "132. [Primary Source] Justia. Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005). Full memorandum opinion. https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+    "133. [Wikipedia] Kitzmiller v. Dover Area School District. Procedural history and findings. https://en.wikipedia.org/wiki/Kitzmiller_v._Dover_Area_School_District",
+    "134. [Academic] Stanford Encyclopedia of Philosophy. 'Naturalism.' Distinguishes the methodological rule from the metaphysical thesis. https://plato.stanford.edu/entries/naturalism/",
+    "135. [Wikipedia] Naturalism (philosophy). Methodological naturalism and its acceptance by religious scientists. https://en.wikipedia.org/wiki/Naturalism_(philosophy)",
+    "136. [Academic] Stanford Encyclopedia of Philosophy. 'Augustine of Hippo.' Including his rule for interpreting Scripture against established natural knowledge. https://plato.stanford.edu/entries/augustine/",
+    "137. [Academic] Eugene P. Wigner. 'The Unreasonable Effectiveness of Mathematics in the Natural Sciences.' Communications in Pure and Applied Mathematics 13, no. 1 (1960). https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+    "138. [Academic] Stanford Encyclopedia of Philosophy. 'Indispensability Arguments in the Philosophy of Mathematics.' Why mathematical applicability calls for explanation. https://plato.stanford.edu/entries/mathphil-indis/",
+    "139. [Wikipedia] God of the gaps. The fallacy and Bonhoeffer's 1944 prison-letter formulation of the alternative. https://en.wikipedia.org/wiki/God_of_the_gaps",
+    "140. [Academic] Stanford Encyclopedia of Philosophy. 'Teleological Arguments for God's Existence.' https://plato.stanford.edu/entries/teleological-arguments/",
+    "141. [Wikipedia] Metaphysical naturalism. The claim that nature is all there is. https://en.wikipedia.org/wiki/Metaphysical_naturalism",
+    "142. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Materialism.' The nineteenth-century programme and its philosophical commitments. https://www.newadvent.org/cathen/10041b.htm",
+    "143. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Positivism.' Comte's system and the claim that science exhausts knowledge. https://www.newadvent.org/cathen/12312c.htm",
+    "144. [Academic] Internet Encyclopedia of Philosophy. 'Scientism.' The position, its varieties and the self-refutation objection. https://iep.utm.edu/scientism/",
+    "145. [Academic] Scientism. Oxford Scholarship Online, 2018. https://doi.org/10.1093/oso/9780190462758.001.0001",
+    "146. [Wikipedia] 'Scientism.' https://en.wikipedia.org/wiki/Scientism",
+    "147. [Academic] University of California Museum of Paleontology, Understanding Science. 'Science Has Limits: A Few Things That Science Does Not Do.' https://undsci.berkeley.edu/understanding-science-101/what-is-science/science-has-limits-a-few-things-that-science-does-not-do/",
+    "148. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Logic.' The status of logical principles relative to empirical enquiry. https://www.newadvent.org/cathen/09324a.htm",
+    "149. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Metaphysics.' The questions that lie outside empirical method. https://www.newadvent.org/cathen/10226a.htm",
+    "150. [Academic] Davies. Why is there anything at all?. Think, 2003. https://doi.org/10.1017/s1477175600000579",
+    "151. [Wikipedia] 'Why there is anything at all.' https://en.wikipedia.org/wiki/Why_there_is_anything_at_all",
+    "152. [Academic] Internet Encyclopedia of Philosophy. 'Hard Problem of Consciousness.' https://iep.utm.edu/hard-problem-of-conciousness/",
+    "153. [Academic] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
+    "154. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Neo-Scholasticism.' The revival of a philosophy treating knowledge as wider than empirical measurement. https://www.newadvent.org/cathen/10746a.htm",
+    "155. [Academic] Stanford Encyclopedia of Philosophy. 'Science and Pseudo-Science.' The demarcation problem and its lack of an agreed solution. https://plato.stanford.edu/entries/pseudo-science/",
+    "156. [Wikipedia] Demarcation problem. https://en.wikipedia.org/wiki/Demarcation_problem",
+    "157. [Wikipedia] Non-overlapping magisteria. Gould's proposal and the objections to it. https://en.wikipedia.org/wiki/Non-overlapping_magisteria",
+    "158. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Astronomy.' On the study of the heavens as a Christian intellectual tradition. https://www.newadvent.org/cathen/02025a.htm"
   ],
   lastUpdated: "30-10-2026",
 }

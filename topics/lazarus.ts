@@ -16,9 +16,9 @@ export const LAZARUS: Topic = {
   ],
   tldr: "Jesus allowed Lazarus to die so that the raising would be unmistakable, occurring on the fourth day when decomposition had begun. Even knowing He would raise him, Jesus wept from genuine human grief and, on the Greek, from indignation at death itself. The miracle carried a cost He understood in advance, since it was the event that moved the Sanhedrin to decide on His execution.",
   content: `
-The account of Lazarus in [John 11](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=NIV) is the longest continuous miracle narrative in the Gospels and the last of the signs John records before the passion[^1]. Rather than presenting an aloof deity or a mere wonder-worker, the chapter shows the intersection of absolute divine power with authentic, weeping humanity[^2].
+The account of Lazarus in [John 11](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=NIV) is the longest continuous miracle narrative in the Gospels and the last of the signs John records before the passion[^1][^2]. Rather than presenting an aloof deity or a mere wonder-worker, the chapter shows the intersection of absolute divine power with authentic, weeping humanity[^3].
 
-John states that Jesus loved this family, and then that He remained where He was for two further days while Lazarus died[^3][^4]. The narrative does not soften that sequence, and the decisions Jesus makes throughout, specifically the deliberate delay and the profound grief, carry the theological weight of the chapter[^5].
+John states that Jesus loved this family, and then that He remained where He was for two further days while Lazarus died[^4][^5]. The narrative does not soften that sequence, and the decisions Jesus makes throughout, specifically the deliberate delay and the profound grief, carry the theological weight of the chapter[^6].
 
 <?viz lazarus/map?>
 
@@ -29,7 +29,7 @@ John states that Jesus loved this family, and then that He remained where He was
       title: "The Purposeful Two-Day Delay",
       tags: ["The delay"],
       content: `
-When Jesus first received word that Lazarus was terminally ill, He declared that the illness was for the glory of God, then deliberately stayed where He was for two additional days, allowing Lazarus to die before setting out for Bethany[^6][^4].
+When Jesus first received word that Lazarus was terminally ill, He declared that the illness was for the glory of God, then deliberately stayed where He was for two additional days, allowing Lazarus to die before setting out for Bethany[^2][^5].
 
 The delay was not apathy but a specific theological and pedagogical purpose.
 
@@ -68,13 +68,13 @@ Paul calls death the last enemy to be destroyed, which fits the reading of indig
       title: "The Cost of Lazarus's Life",
       tags: ["The cost"],
       content: `
-The chapter does not close with the miracle. It closes with a council meeting[^20][^5].
+The chapter does not close with the miracle. It closes with a council meeting[^20][^6].
 
-*   **Immediate consequence.** The raising divided the crowd, some reported it to the Pharisees, and the Sanhedrin then convened and resolved to put Jesus to death, with Caiaphas arguing that one man should die for the people[^21][^22].
-*   **The structure is deliberate.** In John's Gospel the raising of Lazarus is the direct trigger for the passion, whereas the Synoptics place the temple cleansing in that role[^23].
-*   **A further detail.** The chief priests subsequently plotted to kill Lazarus as well, since his continued existence was itself evidence[^24].
+*   **Immediate consequence.** The raising divided the crowd, some reported it to the Pharisees, and the Sanhedrin then convened and resolved to put Jesus to death, with Caiaphas arguing that one man should die for the people[^21][^22][^23].
+*   **The structure is deliberate.** In John's Gospel the raising of Lazarus is the direct trigger for the passion, whereas the Synoptics place the temple cleansing in that role[^24][^25].
+*   **A further detail.** The chief priests subsequently plotted to kill Lazarus as well, since his continued existence was itself evidence[^26].
 
-To call Lazarus out of the tomb, Jesus set in motion the events that placed Him inside one[^25][^5].
+To call Lazarus out of the tomb, Jesus set in motion the events that placed Him inside one[^25][^6].
 `
     },
     {
@@ -82,13 +82,13 @@ To call Lazarus out of the tomb, Jesus set in motion the events that placed Him 
       title: "Christ as the Resurrection and the Life",
       tags: ["Meaning"],
       content: `
-The centre of the chapter is a conversation rather than a miracle. Martha affirms standard Jewish belief that her brother will rise at the last day, and Jesus shifts the category entirely: "I am the resurrection and the life"[^26].
+The centre of the chapter is a conversation rather than a miracle. Martha affirms standard Jewish belief that her brother will rise at the last day, and Jesus shifts the category entirely: "I am the resurrection and the life"[^27].
 
-*   **A present reality.** Resurrection is relocated from a future event to a present person. The claim is not that Jesus will perform a resurrection but that resurrection is what He is, among the most direct claims to divine prerogative in the Gospel[^27][^28].
-*   **A sign rather than the thing itself.** Lazarus was restored to the same mortal life and died again later, whereas Christ's own resurrection was to a transformed, deathless life. Lazarus is a signpost, not a preview[^29].
-*   **Absolute authority.** Jesus first thanks the Father aloud, saying He does so for the sake of the crowd, and then raises Lazarus with a single spoken command, "Lazarus, come out", with no ritual or technique, which is how John consistently presents Jesus' authority[^30][^31].
+*   **A present reality.** Resurrection is relocated from a future event to a present person. The claim is not that Jesus will perform a resurrection but that resurrection is what He is, among the most direct claims to divine prerogative in the Gospel[^28][^29].
+*   **A sign rather than the thing itself.** Lazarus was restored to the same mortal life and died again later, whereas Christ's own resurrection was to a transformed, deathless life. Lazarus is a signpost, not a preview[^30][^31].
+*   **Absolute authority.** Jesus first thanks the Father aloud, saying He does so for the sake of the crowd, and then raises Lazarus with a single spoken command, "Lazarus, come out", with no ritual or technique, which is how John consistently presents Jesus' authority[^32][^33].
 
-Similar raisings appear elsewhere in the Gospels, including the widow's son at Nain and the daughter of Jairus, but neither involves a four-day interval[^32]. John states his purpose plainly at the end of the Gospel: these signs are written so that those who receive them may believe and have life in His name[^33].
+Similar raisings appear elsewhere in the Gospels, including the widow's son at Nain and the daughter of Jairus, but neither involves a four-day interval[^34]. John states his purpose plainly at the end of the Gospel: these signs are written so that those who receive them may believe and have life in His name[^35].
 
 **See also:** [The Resurrection](/categories/resurrection).
 `
@@ -96,11 +96,11 @@ Similar raisings appear elsewhere in the Gospels, including the widow's son at N
   ],
             sources: [
     "1. [Wikipedia] Raising of Lazarus. The narrative and its place in the structure of John. https://en.wikipedia.org/wiki/Raising_of_Lazarus",
-    "2. [Christian Source] New Advent. John chapter 11 with traditional commentary. https://www.newadvent.org/bible/joh011.htm",
-    "3. [Commentary] Bible Hub. 'Commentaries on John 11:5.' https://biblehub.com/commentaries/john/11-5.htm",
-    "4. [Commentary] Bible Hub. 'Commentaries on John 11:6.' https://biblehub.com/commentaries/john/11-6.htm",
-    "5. [Commentary] Enduring Word. Commentary on John 11. Verse-by-verse treatment of the chapter. https://enduringword.com/bible-commentary/john-11/",
-    "6. [Commentary] Bible Hub. 'Commentaries on John 11:1.' https://biblehub.com/commentaries/john/11-1.htm",
+    "2. [Commentary] Bible Hub. 'Commentaries on John 11:1.' https://biblehub.com/commentaries/john/11-1.htm",
+    "3. [Christian Source] New Advent. John chapter 11 with traditional commentary. https://www.newadvent.org/bible/joh011.htm",
+    "4. [Commentary] Bible Hub. 'Commentaries on John 11:5.' https://biblehub.com/commentaries/john/11-5.htm",
+    "5. [Commentary] Bible Hub. 'Commentaries on John 11:6.' https://biblehub.com/commentaries/john/11-6.htm",
+    "6. [Commentary] Enduring Word. Commentary on John 11. Verse-by-verse treatment of the chapter. https://enduringword.com/bible-commentary/john-11/",
     "7. [Commentary] Bible Hub. 'Commentaries on John 11:17.' https://biblehub.com/commentaries/john/11-17.htm",
     "8. [Primary Source] Sefaria. Leviticus Rabbah 18:1, the rabbinic tradition that the soul lingers three days, compiled centuries after the first century. https://www.sefaria.org/Leviticus_Rabbah.18.1",
     "9. [Encyclopedia] Jewish Encyclopedia. Resurrection. Jewish beliefs about death and resurrection and their dating. https://www.jewishencyclopedia.com/articles/12376-resurrection",
@@ -117,17 +117,19 @@ Similar raisings appear elsewhere in the Gospels, including the widow's son at N
     "20. [Wikipedia] Sanhedrin. The council that met after the raising of Lazarus. https://en.wikipedia.org/wiki/Sanhedrin",
     "21. [Wikipedia] Caiaphas. The high priest whose argument carried the council. https://en.wikipedia.org/wiki/Caiaphas",
     "22. [Wikipedia] Pharisees. The group to whom the raising was reported. https://en.wikipedia.org/wiki/Pharisees",
-    "23. [Wikipedia] Cleansing of the Temple. Its placement in John and the Synoptics and its role as the trigger for Jesus' death. https://en.wikipedia.org/wiki/Cleansing_of_the_Temple",
-    "24. [Commentary] Bible Hub. 'Commentaries on John 12:9.' https://biblehub.com/commentaries/john/12-9.htm",
+    "23. [Commentary] Commentaries on John 11:50. Bible Hub. https://biblehub.com/commentaries/john/11-50.htm",
+    "24. [Wikipedia] Cleansing of the Temple. Its placement in John and the Synoptics and its role as the trigger for Jesus' death. https://en.wikipedia.org/wiki/Cleansing_of_the_Temple",
     "25. [Commentary] Bible Hub. 'Commentaries on John 11:53.' https://biblehub.com/commentaries/john/11-53.htm",
-    "26. [Commentary] Bible Hub. 'Commentaries on John 11:25.' https://biblehub.com/commentaries/john/11-25.htm",
-    "27. [Lexicon] Bible Hub. Greek 386, anastasis (resurrection). https://biblehub.com/greek/386.htm",
-    "28. [Lexicon] Bible Hub. Greek 2222, zoe (life). https://biblehub.com/greek/2222.htm",
-    "29. [Wikipedia] Lazarus of Bethany. The figure and the interpretive history. https://en.wikipedia.org/wiki/Lazarus_of_Bethany",
-    "30. [Commentary] Bible Hub. 'Commentaries on John 11:43.' https://biblehub.com/commentaries/john/11-43.htm",
-    "31. [Commentary] Bible Hub. 'Commentaries on John 5:28.' https://biblehub.com/commentaries/john/5-28.htm",
-    "32. [Commentary] Bible Hub. 'Commentaries on Luke 7:11.' https://biblehub.com/commentaries/luke/7-11.htm",
-    "33. [Commentary] Bible Hub. 'Commentaries on John 20:31.' https://biblehub.com/commentaries/john/20-31.htm"
+    "26. [Commentary] Bible Hub. 'Commentaries on John 12:9.' https://biblehub.com/commentaries/john/12-9.htm",
+    "27. [Commentary] Bible Hub. 'Commentaries on John 11:25.' https://biblehub.com/commentaries/john/11-25.htm",
+    "28. [Lexicon] Bible Hub. Greek 386, anastasis (resurrection). https://biblehub.com/greek/386.htm",
+    "29. [Lexicon] Bible Hub. Greek 2222, zoe (life). https://biblehub.com/greek/2222.htm",
+    "30. [Wikipedia] Lazarus of Bethany. The figure and the interpretive history. https://en.wikipedia.org/wiki/Lazarus_of_Bethany",
+    "31. [Commentary] Commentaries on 1 Corinthians 15:42. Bible Hub. https://biblehub.com/commentaries/1_corinthians/15-42.htm",
+    "32. [Commentary] Bible Hub. 'Commentaries on John 11:43.' https://biblehub.com/commentaries/john/11-43.htm",
+    "33. [Commentary] Bible Hub. 'Commentaries on John 5:28.' https://biblehub.com/commentaries/john/5-28.htm",
+    "34. [Commentary] Bible Hub. 'Commentaries on Luke 7:11.' https://biblehub.com/commentaries/luke/7-11.htm",
+    "35. [Commentary] Bible Hub. 'Commentaries on John 20:31.' https://biblehub.com/commentaries/john/20-31.htm"
   ],
   lastUpdated: "30-10-2026"
 }

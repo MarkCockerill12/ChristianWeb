@@ -140,7 +140,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
 [**1 John 5:20**](https://www.biblegateway.com/passage/?search=1+John+5%3A20&version=NIV) - "We know also that the Son of God has come and has given us understanding, so that we may know him who is true. And we are in him who is true by being in his Son Jesus Christ. He is the true God and eternal life."
 
 ### 2. Early Christian Liturgy
-[**1 Corinthians 16:22**](https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A22&version=NIV) - Paul uses the Aramaic phrase "Maranatha" ("Our Lord, come"), preserved untranslated in a Greek letter, indicating that Aramaic-speaking believers were already addressing Jesus in prayer as Lord[^34].
+[**1 Corinthians 16:22**](https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A22&version=NIV) - Paul uses the Aramaic phrase "Maranatha" ("Our Lord, come"), preserved untranslated in a Greek letter, indicating that Aramaic-speaking believers were already addressing Jesus in prayer as Lord[^34][^35].
 
 [**Philippians 2:10-11**](https://www.biblegateway.com/passage/?search=Philippians+2%3A10-11&version=NIV) - "At the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue acknowledge that Jesus Christ is Lord."
 `,
@@ -150,18 +150,18 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "Archaeological Evidence for Early Christian Worship",
       tags: ["Early worship"],
       content: `### 1. Crucifixion Inscriptions and Graffiti
-**The Alexamenos Graffito (probably c. 200 AD, with estimates ranging from the late first to the third century)** - Found on the Palatine Hill in Rome, this anti-Christian graffito shows a figure with a donkey's head on a cross, with the inscription "Alexamenos worships his god". This provides early, hostile evidence that Christians were known for worshipping the crucified Christ as divine[^35].
+**The Alexamenos Graffito (probably c. 200 AD, with estimates ranging from the late first to the third century)** - Found on the Palatine Hill in Rome, this anti-Christian graffito shows a figure with a donkey's head on a cross, with the inscription "Alexamenos worships his god". This provides early, hostile evidence that Christians were known for worshipping the crucified Christ as divine[^36].
 
 ### 2. Early Christian Inscriptions and Art
-**Early Christian Epitaphs** - Catacomb inscriptions and funerary art from Rome (2nd-3rd centuries) demonstrate the development of Christian iconography, showing early communities gathered for memorial and referring to Jesus with divine titles[^36].
+**Early Christian Epitaphs** - Catacomb inscriptions and funerary art from Rome (2nd-3rd centuries) demonstrate the development of Christian iconography, showing early communities gathered for memorial and referring to Jesus with divine titles[^37].
 
 ### 3. Ancient Manuscripts
-**Papyrus P52** (usually dated to the first half of the second century, with some papyrologists allowing a date as late as c. 175 AD) - Among the earliest known New Testament fragments, it preserves a few verses of John 18, demonstrating the circulation of John's Gospel in Egypt within decades of its composition[^37][^38].
+**Papyrus P52** (usually dated to the first half of the second century, with some papyrologists allowing a date as late as c. 175 AD) - Among the earliest known New Testament fragments, it preserves a few verses of John 18, demonstrating the circulation of John's Gospel in Egypt within decades of its composition[^38][^39].
 
-**Papyrus P66** (c. 200 AD) - Contains much of John's Gospel, including Jesus' "I AM" statements, showing these divine claims were preserved and circulated within 100 years of the original writing[^39].
+**Papyrus P66** (c. 200 AD) - Contains much of John's Gospel, including Jesus' "I AM" statements, showing these divine claims were preserved and circulated within 100 years of the original writing[^40].
 
 ### 4. Early Church Buildings
-**Dura-Europos Christian House Church** (converted c. 232-241 AD) - The earliest securely identified Christian meeting house contains frescoes depicting Christ's miracles, demonstrating early communities gathered specifically to worship Jesus as divine[^40].
+**Dura-Europos Christian House Church** (converted c. 232-241 AD) - The earliest securely identified Christian meeting house contains frescoes depicting Christ's miracles, demonstrating early communities gathered specifically to worship Jesus as divine[^41].
 
 <?viz jesus/evidence?>
 `,
@@ -171,21 +171,21 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "External Historical Testimony",
       tags: ["Early worship"],
       content: `### 1. Roman Historians
-**Tacitus** (c. 116 AD) - Annals 15.44: Confirms the historical existence of "Christus" (Christ) and His execution under "Pontius Pilatus" during the reign of Tiberius[^41][^42].
+**Tacitus** (c. 116 AD) - Annals 15.44: Confirms the historical existence of "Christus" (Christ) and His execution under "Pontius Pilatus" during the reign of Tiberius[^42][^43].
 
-**Suetonius** (c. 120 AD) - Life of Claudius 25.4: Reports that Claudius expelled Jews from Rome for disturbances "at the instigation of Chrestus". Most historians take this as a garbled reference to disputes over Christ within the Jewish community around AD 49, though some read Chrestus as an otherwise unknown agitator[^43].
+**Suetonius** (c. 120 AD) - Life of Claudius 25.4: Reports that Claudius expelled Jews from Rome for disturbances "at the instigation of Chrestus". Most historians take this as a garbled reference to disputes over Christ within the Jewish community around AD 49, though some read Chrestus as an otherwise unknown agitator[^44].
 
-**Pliny the Younger** (c. 112 AD) - Letters 10.96: Describes Christians meeting before dawn to sing "a hymn to Christ as to a god" and reports that genuine Christians could not be made to curse Christ. Pliny also had two female slaves who served as deaconesses tortured for information. The letter shows Jesus being worshipped as divine by Christians in Bithynia[^44].
+**Pliny the Younger** (c. 112 AD) - Letters 10.96: Describes Christians meeting before dawn to sing "a hymn to Christ as to a god" and reports that genuine Christians could not be made to curse Christ. Pliny also had two female slaves who served as deaconesses tortured for information. The letter shows Jesus being worshipped as divine by Christians in Bithynia[^45].
 
 ### 2. Jewish Sources
-**Flavius Josephus** (c. 93 AD) - Antiquities 20.200: References "the brother of Jesus, who was called Christ, whose name was James," acknowledging Jesus was known as "Christ" (Messiah)[^45][^46].
+**Flavius Josephus** (c. 93 AD) - Antiquities 20.200: References "the brother of Jesus, who was called Christ, whose name was James," acknowledging Jesus was known as "Christ" (Messiah)[^46][^47].
 
-**The Babylonian Talmud** - Sanhedrin 43a: Preserves a tradition that "Yeshu" was hanged on the eve of Passover for "sorcery" and "leading Israel astray". The Talmud was compiled centuries later and the identification of every Yeshu passage with Jesus is debated, but this one is widely taken as a hostile witness that Jesus was remembered as a worker of wonders[^47].
+**The Babylonian Talmud** - Sanhedrin 43a: Preserves a tradition that "Yeshu" was hanged on the eve of Passover for "sorcery" and "leading Israel astray". The Talmud was compiled centuries later and the identification of every Yeshu passage with Jesus is debated, but this one is widely taken as a hostile witness that Jesus was remembered as a worker of wonders[^48].
 
 ### 3. Early Church Fathers
-**Clement of Rome** (c. 96 AD) - 1 Clement 36: Describes Jesus as "the high priest of our offerings, the defender and helper of our weakness. Through him we look up to the heights of heaven"[^48].
+**Clement of Rome** (c. 96 AD) - 1 Clement 36: Describes Jesus as "the high priest of our offerings, the defender and helper of our weakness. Through him we look up to the heights of heaven"[^49].
 
-**Ignatius of Antioch** (c. 108 AD) - Letter to the Smyrnaeans 1: "I glorify Jesus Christ, the God who has thus made you wise", and goes on to describe Him as "of the seed of David according to the flesh, but Son of God according to the will and power of God"[^49].
+**Ignatius of Antioch** (c. 108 AD) - Letter to the Smyrnaeans 1: "I glorify Jesus Christ, the God who has thus made you wise", and goes on to describe Him as "of the seed of David according to the flesh, but Son of God according to the will and power of God"[^50].
 
 <?viz jesus/early-christology?>
 
@@ -197,7 +197,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "Did Jesus Even Exist?",
       tags: ["Objections"],
       content: `
-The theory that Jesus never existed, the Christ myth theory, is popular online, and has a few academic defenders such as Richard Carrier. Almost all historians of the period reject it, whatever their beliefs[^50][^51]. Bart Ehrman, an agnostic critic of Christianity, wrote a whole book, *Did Jesus Exist?*, arguing that he did.
+The theory that Jesus never existed, the Christ myth theory, is popular online, and has a few academic defenders such as Richard Carrier. Almost all historians of the period reject it, whatever their beliefs[^51][^52]. Bart Ehrman, an agnostic critic of Christianity, wrote a whole book, *Did Jesus Exist?*, arguing that he did.
 
 The reasons are these. Paul knew Jesus' brother James and his disciple Peter personally (Galatians 1:18-19). Several independent sources report him within decades, among them Mark, Paul, Josephus and Tacitus. Nobody inventing a Messiah for first-century Jews would have made him a crucified Galilean, baptised by another man. The parallels with pagan gods that are usually offered do not hold up, as the [pagan origins topic](/categories/pagan-origins) sets out.
 
@@ -209,7 +209,7 @@ Whether he existed is therefore the easy question. The difficult one is who he w
       title: "Did Paul Invent Christianity?",
       tags: ["Objections"],
       content: `
-**The objection.** Jesus preached the kingdom of God, and Paul turned him into a divine saviour, so what Christians believe is Paul's religion. Scholars have long discussed how far Paul's teaching and the earliest church differed[^52].
+**The objection.** Jesus preached the kingdom of God, and Paul turned him into a divine saviour, so what Christians believe is Paul's religion. Scholars have long discussed how far Paul's teaching and the earliest church differed[^53].
 
 **The evidence.** Paul's earliest letters quote material that was already fixed before him. The creed in 1 Corinthians 15:3-7 has Jesus dying for sins and rising, and it dates from within a few years of the cross. Paul also quotes the Aramaic prayer *Maranatha*, "Our Lord, come" (1 Corinthians 16:22), which shows Aramaic-speaking believers praying to Jesus before Paul was writing to Greek speakers. Peter and James, who knew Jesus, gave Paul "the right hand of fellowship" (Galatians 2:9), and Paul says that he and they preached the same message (1 Corinthians 15:11). They disagreed over how Gentiles should be treated (Galatians 2:11), and no record shows any of them disputing who Jesus was. The Gospels also have Jesus himself forgiving sins and claiming authority that belongs to God, as set out above.
 
@@ -221,7 +221,7 @@ Whether he existed is therefore the easy question. The difficult one is who he w
       title: "Is It Just for an Innocent Man to Die for the Guilty?",
       tags: ["Objections"],
       content: `
-**The objection.** Punishing an innocent person for someone else's crime is unjust, and critics have called the doctrine "cosmic child abuse", a phrase from the British pastor Steve Chalke, who was himself criticising one form of it[^53].
+**The objection.** Punishing an innocent person for someone else's crime is unjust, and critics have called the doctrine "cosmic child abuse", a phrase from the British pastor Steve Chalke, who was himself criticising one form of it[^54][^55].
 
 **The response.** The charge pictures an angry father and an unwilling son. The New Testament pictures something else. Jesus says: "No one takes it from me, but I lay it down of my own accord" (John 10:18), and "God was reconciling the world to himself in Christ" (2 Corinthians 5:19). If Jesus is God, as Christians claim, then the judge is bearing the penalty himself, as when someone who has been wronged pays the cost of forgiving it. Forgiveness always costs the one who forgives.
 
@@ -271,7 +271,7 @@ Whether he existed is therefore the easy question. The difficult one is who he w
 • **Liar:** He knew He was not God, making Him a deceiver and a charlatan.
 • **Lunatic:** He sincerely thought He was God but was mistaken, putting Him on the level of a madman.
 • **Lord:** He is exactly who He claimed to be, God incarnate, demanding our worship and obedience.
-Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^54].
+Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^56].
 
 <?viz jesus/trilemma?>
 
@@ -314,26 +314,28 @@ Given His profound moral teaching and the sanity of His character, Lewis argues 
     "32. [Commentary] Bible Hub - John 20:28 Commentaries. 'Compilation of scholarly views confirming Thomas’s statement as a direct confession and acceptance of Jesus' full, supreme divinity.' https://biblehub.com/commentaries/john/20-28.htm",
     "33. [Apologetics] Ligonier Ministries - The Person of Christ. 'Theological teaching on Colossians 2:9 and Christ possessing the entire essence of the Godhead.' https://learn.ligonier.org/guides/the-person-of-christ",
     "34. [Wikipedia] 'Maranatha.' https://en.wikipedia.org/wiki/Maranatha",
-    "35. [Archaeology] Brent Nongbri - The Palatine Alexamenos Graffito. 'Scholarly blog post analyzing the Alexamenos Graffito as early, hostile evidence of Christ's worship.' https://brentnongbri.com/2018/06/25/the-palatine-alexamenos-graffito/",
-    "36. [News] PBS Frontline - In The Catacombs. 'Documentary transcript describing the earliest Christian material evidence, symbols (Chi-Rho, Good Shepherd), and the catacombs as sites of early Christian memorial.' https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html",
-    "37. [Commentary] UASV Bible - The Papyrus Rylands 457 (P52), a Fragment of the Gospel of John. 'Academic analysis of the oldest canonical NT fragment, confirming the early second-century date and the text's alignment with John's Gospel.' https://uasvbible.org/2023/03/05/the-papyrus-rylands-457-p52-a-fragment-of-the-gospel-of-john/",
-    "38. [Wikipedia] 'Rylands Library Papyrus P52.' https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
-    "39. [Academic] Theological Studies Journal - Papyrus Bodmer II (P66): an early codex of St. John. 'Scholarly paper confirming the early existence and textual stability of John's Gospel, including key passages affirming Jesus' deity.' https://theologicalstudies.net/wp-content/uploads/2022/08/18.3.4.pdf",
-    "40. [Archaeology] Saylor Academy - Dura Europos and the Early Christian 'house church' background. 'Academic course material detailing the earliest known Christian church building and its purpose.' https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/ARTH401-1.1.3-Dura-Europos-FINAL.pdf",
-    "41. [Primary Source] Livius - Tacitus on the Christians. 'Historical resource providing scholarly context and translation of Tacitus's Annals 15.44.' https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/",
-    "42. [Wikipedia] 'Crucifixion of Jesus.' https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
-    "43. [Academic] Josephus.org - New Testament Parallels. 'Scholarly commentary on the context of Suetonius's reference to 'Chrestus' and its tie to early Christian disturbances.' https://www.josephus.org/ntparallels2.htm",
-    "44. [Apologetics] Desiring God - Singing to the Risen Son: A History of Christian Hymns. 'Article quoting and contextualizing Pliny's letter and the description of Christ's worship as a god.' https://www.desiringgod.org/articles/singing-to-the-risen-son",
-    "45. [Primary Source] Flavius Josephus, Antiquities of the Jews, trans. W. Whiston, 20.9.1. Project Gutenberg. https://www.gutenberg.org/ebooks/2848",
-    "46. [Wikipedia] 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
-    "47. [Primary Source] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
-    "48. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
-    "49. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",
-    "50. [Academic] 'Rankled by Wrangling over Rank-Raglan Rankings: Jesus and the Mythic Hero Archetype | Bible Interp.' The Bible and Interpretation. https://bibleinterp.arizona.edu/articles/2014/12/mcg388023",
-    "51. [Wikipedia] 'Christ myth theory.' https://en.wikipedia.org/wiki/Christ_myth_theory",
-    "52. [Wikipedia] 'Pauline Christianity.' https://en.wikipedia.org/wiki/Pauline_Christianity",
-    "53. [Wikipedia] 'Penal substitution.' https://en.wikipedia.org/wiki/Penal_substitution",
-    "54. [Wikipedia] 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
+    "35. [Commentary] Commentaries on 1 Corinthians 16:22. Bible Hub. https://biblehub.com/commentaries/1_corinthians/16-22.htm",
+    "36. [Archaeology] Brent Nongbri - The Palatine Alexamenos Graffito. 'Scholarly blog post analyzing the Alexamenos Graffito as early, hostile evidence of Christ's worship.' https://brentnongbri.com/2018/06/25/the-palatine-alexamenos-graffito/",
+    "37. [News] PBS Frontline - In The Catacombs. 'Documentary transcript describing the earliest Christian material evidence, symbols (Chi-Rho, Good Shepherd), and the catacombs as sites of early Christian memorial.' https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html",
+    "38. [Commentary] UASV Bible - The Papyrus Rylands 457 (P52), a Fragment of the Gospel of John. 'Academic analysis of the oldest canonical NT fragment, confirming the early second-century date and the text's alignment with John's Gospel.' https://uasvbible.org/2023/03/05/the-papyrus-rylands-457-p52-a-fragment-of-the-gospel-of-john/",
+    "39. [Wikipedia] 'Rylands Library Papyrus P52.' https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
+    "40. [Academic] Theological Studies Journal - Papyrus Bodmer II (P66): an early codex of St. John. 'Scholarly paper confirming the early existence and textual stability of John's Gospel, including key passages affirming Jesus' deity.' https://theologicalstudies.net/wp-content/uploads/2022/08/18.3.4.pdf",
+    "41. [Archaeology] Saylor Academy - Dura Europos and the Early Christian 'house church' background. 'Academic course material detailing the earliest known Christian church building and its purpose.' https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/ARTH401-1.1.3-Dura-Europos-FINAL.pdf",
+    "42. [Primary Source] Livius - Tacitus on the Christians. 'Historical resource providing scholarly context and translation of Tacitus's Annals 15.44.' https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/",
+    "43. [Wikipedia] 'Crucifixion of Jesus.' https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+    "44. [Academic] Josephus.org - New Testament Parallels. 'Scholarly commentary on the context of Suetonius's reference to 'Chrestus' and its tie to early Christian disturbances.' https://www.josephus.org/ntparallels2.htm",
+    "45. [Apologetics] Desiring God - Singing to the Risen Son: A History of Christian Hymns. 'Article quoting and contextualizing Pliny's letter and the description of Christ's worship as a god.' https://www.desiringgod.org/articles/singing-to-the-risen-son",
+    "46. [Primary Source] Flavius Josephus, Antiquities of the Jews, trans. W. Whiston, 20.9.1. Project Gutenberg. https://www.gutenberg.org/ebooks/2848",
+    "47. [Wikipedia] 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
+    "48. [Primary Source] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
+    "49. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
+    "50. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",
+    "51. [Academic] 'Rankled by Wrangling over Rank-Raglan Rankings: Jesus and the Mythic Hero Archetype | Bible Interp.' The Bible and Interpretation. https://bibleinterp.arizona.edu/articles/2014/12/mcg388023",
+    "52. [Wikipedia] 'Christ myth theory.' https://en.wikipedia.org/wiki/Christ_myth_theory",
+    "53. [Wikipedia] 'Pauline Christianity.' https://en.wikipedia.org/wiki/Pauline_Christianity",
+    "54. [Wikipedia] 'Penal substitution.' https://en.wikipedia.org/wiki/Penal_substitution",
+    "55. [Reference] 'Penal Substitution: Steve Chalke and the Lost Message of Jesus, 20 years on.' Faith Root. https://faithroot.com/2023/06/23/penal-substitution-steve-chalke-and-the-lost-message-of-jesus-20-years-on/",
+    "56. [Wikipedia] 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
   ],
   lastUpdated: "30-10-2026"
 }

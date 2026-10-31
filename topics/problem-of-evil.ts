@@ -123,7 +123,7 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
       tags: ["Suffering"],
       content: `**Growth through trials:** God uses suffering to refine human souls[^21][^22].
 
-• **The vale of soul-making:** A phrase from the poet John Keats, adopted by the philosopher John Hick for his Irenaean theodicy, this perspective views the world not as a perfect paradise, but as a classroom designed to develop moral and spiritual virtues[^23].
+• **The vale of soul-making:** A phrase from the poet John Keats, adopted by the philosopher John Hick for his Irenaean theodicy, this perspective views the world not as a perfect paradise, but as a classroom designed to develop moral and spiritual virtues[^23][^8].
 
 • **The Joseph Principle:** What others intend for harm, God intends for a greater redemptive good ([Genesis 50:20](https://www.biblegateway.com/passage/?search=Genesis+50%3A20&version=NIV)).`
     },
@@ -133,9 +133,9 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
       tags: ["Suffering"],
       content: `**He is with us:** God did not remain detached; He entered our pain[^24].
 
-• **The suffering savior:** Through the Incarnation, Jesus Christ experienced physical torture, emotional betrayal, and death on the cross, showing that God is not indifferent to our tears[^25].
+• **The suffering savior:** Through the Incarnation, Jesus Christ experienced physical torture, emotional betrayal, and death on the cross, showing that God is not indifferent to our tears[^25][^26].
 
-• **The future hope:** The empty tomb guarantees that suffering is not the final chapter. Revelation 21:4 promises the complete, eternal eradication of pain and death[^26].
+• **The future hope:** The empty tomb guarantees that suffering is not the final chapter. Revelation 21:4 promises the complete, eternal eradication of pain and death[^27].
 
 **See also:** [Is It Just for an Innocent Man to Die for the Guilty? (Jesus' Claims)](/categories/jesus#section-is-the-atonement-just).
 `
@@ -167,7 +167,8 @@ If God is all-powerful and plans to defeat evil, why does He allow sin and suffe
     "23. [Wikipedia] Theodicy. The main attempts to reconcile divine goodness with evil. https://en.wikipedia.org/wiki/Theodicy",
     "24. [Commentary] Bible Hub. 'Commentaries on Psalm 46:1.' https://biblehub.com/commentaries/psalms/46-1.htm",
     "25. [Wikipedia] Crucifixion of Jesus. The claim that God enters the suffering rather than standing outside it. https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
-    "26. [Commentary] Bible Hub. Revelation 21:4 Commentaries. https://biblehub.com/commentaries/revelation/21-4.htm"
+    "26. [Commentary] Commentaries on Hebrews 4:15. Bible Hub. https://biblehub.com/commentaries/hebrews/4-15.htm",
+    "27. [Commentary] Bible Hub. Revelation 21:4 Commentaries. https://biblehub.com/commentaries/revelation/21-4.htm"
   ],
   lastUpdated: "30-10-2026",
 }

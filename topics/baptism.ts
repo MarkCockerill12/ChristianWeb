@@ -85,13 +85,13 @@ Neither side is straining the text. The two operate with different frameworks fo
       content: `
 The question of necessity is entangled with a second question concerning the proper subject of baptism.
 
-*   **Paedobaptism.** Practised by Catholics, Orthodox, Lutherans, Anglicans, Presbyterians and Methodists. The argument draws on the household baptisms recorded in Acts, on the parallel between baptism and circumcision as a covenant sign, and on the practice of the early church[^26][^27].
+*   **Paedobaptism.** Practised by Catholics, Orthodox, Lutherans, Anglicans, Presbyterians and Methodists. The argument draws on the household baptisms recorded in Acts, on the parallel between baptism and circumcision as a covenant sign, and on the practice of the early church[^26][^27][^10].
 *   **The circumcision parallel.** Colossians 2:11-12 places circumcision and baptism side by side, and Genesis 17 establishes circumcision as a sign applied to infants within the covenant community[^28][^29].
 *   **Household baptisms.** Lydia's household and the household of Stephanas are baptised as units, without the text specifying whether children were included[^30].
 *   **Credobaptism.** Practised by Baptists, Anabaptists, Pentecostals and most non-denominational churches. The argument draws on the consistent New Testament pattern of belief preceding baptism, and on baptism as a personal profession an infant cannot make[^31].
 *   **The Ethiopian official.** In Acts 8 the official asks for baptism as soon as Philip has proclaimed Jesus to him. The explicit confession of faith in verse 37 is absent from the earliest manuscripts, but the sequence of hearing and believing before baptism is the pattern credobaptists take as normative[^32].
 
-A person's answer to the question of what baptism does largely determines the answer to who should receive it. If baptism conveys regenerating grace, baptising infants follows naturally. If it expresses a faith already present, it presupposes someone able to profess that faith[^33].
+A person's answer to the question of what baptism does largely determines the answer to who should receive it. If baptism conveys regenerating grace, baptising infants follows naturally. If it expresses a faith already present, it presupposes someone able to profess that faith[^33][^34].
 `
     },
     {
@@ -101,18 +101,18 @@ A person's answer to the question of what baptism does largely determines the an
       content: `
 The shared ground between the positions is larger than popular treatments suggest.
 
-*   **Baptism is commanded.** Christ commanded it in the Great Commission, and no major tradition treats it as optional for a believer[^34].
-*   **Salvation originates in grace.** No mainstream tradition teaches that a person earns salvation by being baptised. The sacramental view holds that baptism is a means God uses rather than a payment rendered[^35].
-*   **Faith is required.** Sacramental traditions require faith, whether the church's and the parents' in the case of infants or the individual's in adult converts. Baptism without any faith is not the position of anyone in the debate[^36].
-*   **Water does not save mechanically.** Peter's own qualification in 1 Peter 3:21 is common to all sides[^37].
-*   **Early practice confirms the seriousness.** The Didache, dating to the late first or early second century, gives detailed instructions for baptism including fasting beforehand, showing how early the church treated it as a defined and weighty act[^38].
+*   **Baptism is commanded.** Christ commanded it in the Great Commission, and no major tradition treats it as optional for a believer[^35].
+*   **Salvation originates in grace.** No mainstream tradition teaches that a person earns salvation by being baptised. The sacramental view holds that baptism is a means God uses rather than a payment rendered[^36].
+*   **Faith is required.** Sacramental traditions require faith, whether the church's and the parents' in the case of infants or the individual's in adult converts. Baptism without any faith is not the position of anyone in the debate[^37].
+*   **Water does not save mechanically.** Peter's own qualification in 1 Peter 3:21 is common to all sides[^38].
+*   **Early practice confirms the seriousness.** The Didache, dating to the late first or early second century, gives detailed instructions for baptism including fasting beforehand, showing how early the church treated it as a defined and weighty act[^39].
 
 <?viz baptism/dura?>
 
 
 For an individual asking the question, every tradition gives the same instruction, which is to trust Christ and be baptised. The doctrinal dispute concerns the mechanism rather than the practice.
 
-Presenting one of these positions as simply what the Bible teaches requires the claim that Augustine, Aquinas, Luther and the entire Eastern church misread the New Testament on a basic point, which is a claim requiring argument rather than assumption[^39][^40].
+Presenting one of these positions as simply what the Bible teaches requires the claim that Augustine, Aquinas, Luther and the entire Eastern church misread the New Testament on a basic point, which is a claim requiring argument rather than assumption[^40][^41].
 
 **See also:** [Branches of Christianity](/categories/branches).
 `
@@ -152,13 +152,14 @@ Presenting one of these positions as simply what the Bible teaches requires the 
     "31. [Primary Source] Schaff, Creeds of Christendom. 'The New Hampshire Baptist Confession, on Baptism.' https://www.ccel.org/ccel/schaff/creeds3.v.ii.ii.html",
     "32. [Commentary] Bible Hub. 'Commentaries on Acts 8:37.' Notes on the verse's absence from most manuscripts. https://biblehub.com/commentaries/acts/8-37.htm",
     "33. [Wikipedia] Pelagius. The figure whose controversy sharpened Augustine's case for infant baptism. https://en.wikipedia.org/wiki/Pelagius",
-    "34. [Commentary] Bible Hub. 'Commentaries on Matthew 28:19.' https://biblehub.com/commentaries/matthew/28-19.htm",
-    "35. [Primary Source] Council of Trent. 'Sixth Session, on Justification.' https://www.ccel.org/ccel/schaff/creeds2.v.i.i.iv.html",
-    "36. [Primary Source] Catechism of the Catholic Church 1246-1255. Who Can Receive Baptism? Including infant baptism and faith and baptism. https://www.vatican.va/archive/ENG0015/__P3K.HTM",
-    "37. [Primary Source] Book of Concord. Luther's Small Catechism, Part IV: The Sacrament of Holy Baptism. https://bookofconcord.org/small-catechism/part-iv/",
-    "38. [Primary Source] New Advent, Church Fathers. The Didache, chapter 7: Concerning Baptism. https://www.newadvent.org/fathers/0714.htm",
-    "39. [Wikipedia] Augustine of Hippo. His defence of infant baptism against the Pelagians. https://en.wikipedia.org/wiki/Augustine_of_Hippo",
-    "40. [Wikipedia] Eastern Orthodox Church. The tradition's practice and theology of initiation. https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"
+    "34. [Reference] Southern Baptist Convention. 'The Baptist Faith and Message (2000).' https://bfm.sbc.net/bfm2000/",
+    "35. [Commentary] Bible Hub. 'Commentaries on Matthew 28:19.' https://biblehub.com/commentaries/matthew/28-19.htm",
+    "36. [Primary Source] Council of Trent. 'Sixth Session, on Justification.' https://www.ccel.org/ccel/schaff/creeds2.v.i.i.iv.html",
+    "37. [Primary Source] Catechism of the Catholic Church 1246-1255. Who Can Receive Baptism? Including infant baptism and faith and baptism. https://www.vatican.va/archive/ENG0015/__P3K.HTM",
+    "38. [Primary Source] Book of Concord. Luther's Small Catechism, Part IV: The Sacrament of Holy Baptism. https://bookofconcord.org/small-catechism/part-iv/",
+    "39. [Primary Source] New Advent, Church Fathers. The Didache, chapter 7: Concerning Baptism. https://www.newadvent.org/fathers/0714.htm",
+    "40. [Wikipedia] Augustine of Hippo. His defence of infant baptism against the Pelagians. https://en.wikipedia.org/wiki/Augustine_of_Hippo",
+    "41. [Wikipedia] Eastern Orthodox Church. The tradition's practice and theology of initiation. https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"
   ],
   lastUpdated: "30-10-2026"
 }

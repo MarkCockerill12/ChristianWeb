@@ -98,7 +98,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 *   **Revelation 20:10 and Matthew 25:41.** The devil is "tormented day and night forever and ever" in the lake of fire. Jesus sends the lost into "the eternal fire prepared for the devil and his angels", the same fire, and Revelation 20:15 throws into that lake everyone whose name is not in the book of life. Robert Peterson regards this as the strongest traditional text, because the devil is a personal being and his punishment is explicitly endless[^35].
 *   **Mark 9:48 and Daniel 12:2.** Hell is where "their worm does not die and the fire is not quenched", and Daniel speaks of some rising "to shame and everlasting contempt"[^36][^37].
 
-**Annihilationism: conditional immortality.** A significant evangelical minority, including John Stott (tentatively, in *Evangelical Essentials*, 1988), Edward Fudge (*The Fire That Consumes*, 1982) and Clark Pinnock, holds that the lost are raised, judged, punished in proportion to their sins, and then destroyed forever[^34][^38][^39]. Its arguments:
+**Annihilationism: conditional immortality.** A significant evangelical minority, including John Stott (tentatively, in *Evangelical Essentials*, 1988), Edward Fudge (*The Fire That Consumes*, 1982) and Clark Pinnock, holds that the lost are raised, judged, punished in proportion to their sins, and then destroyed forever[^34][^38][^39][^1]. Its arguments:
 
 *   **The Bible's commonest language is destruction.** God can "destroy both soul and body in hell" (Matthew 10:28); the lost "perish" (John 3:16); "the wages of sin is death" (Romans 6:23); their "end is destruction" (Philippians 3:19); they "suffer the punishment of eternal destruction" (2 Thessalonians 1:9); and the lake of fire is "the second death" (Revelation 20:14)[^40][^41][^42].
 *   **"Eternal" can describe a result.** Hebrews 9:12 speaks of "eternal redemption", accomplished once with permanent effect. On this reading "eternal punishment" and "eternal destruction" are a penalty whose result, not whose process, lasts forever[^43][^44].
@@ -171,7 +171,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 
 **Will it fit the crime?** On this teaching, yes. The duration is the same for all the lost on the traditional view, but the severity is not: no one suffers more than their guilt deserves, and each is judged by what they knew and did. Abraham's question, "Shall not the Judge of all the earth do what is just?" (Genesis 18:25), is the assumption on which the whole doctrine rests[^115]. Annihilationists apply the same texts to the suffering that precedes final destruction.
 
-**Levels and circles.** The nine descending circles of hell, each holding a particular kind of sinner, come from Dante's *Inferno* (early 14th century), a poem rather than a statement of doctrine. Scripture teaches degrees of punishment but gives no map, number of levels or arrangement of sins[^116].`
+**Levels and circles.** The nine descending circles of hell, each holding a particular kind of sinner, come from Dante's *Inferno* (early 14th century), a poem rather than a statement of doctrine. Scripture teaches degrees of punishment but gives no map, number of levels or arrangement of sins[^116][^2].`
     },
     {
       id: "fire-darkness-and-the-devil",
@@ -189,7 +189,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
       id: "the-justice-of-hell",
       title: "The Justice of Eternal Punishment for Finite Sins",
       tags: ["Justice"],
-      content: `**The objection.** A human life is finite, and so is the number of sins committed in it. How can a finite amount of wrongdoing deserve a punishment that never ends? Philosophers including Jonathan Kvanvig and Marilyn McCord Adams have pressed this as the central moral problem of the traditional doctrine[^126][^127]. Christian thinkers have given several answers, usually in combination.
+      content: `**The objection.** A human life is finite, and so is the number of sins committed in it. How can a finite amount of wrongdoing deserve a punishment that never ends? Philosophers including Jonathan Kvanvig and Marilyn McCord Adams have pressed this as the central moral problem of the traditional doctrine[^126][^127][^1]. Christian thinkers have given several answers, usually in combination.
 
 **1. The length of a crime does not set the length of its penalty.** Augustine answered the objection directly: no law "regulated the duration of the punishment by the duration of the offense punished" (*City of God* 21.11)[^128]. A murder takes a moment and may be punished by life imprisonment; the penalty is measured by the gravity of the act, not the time it took.
 
@@ -201,7 +201,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 
 **5. The remedy was refused.** God offered forgiveness at the cost of the death of his Son. Those who reject it are left to bear their own guilt, and their final state is the outcome they chose[^135].
 
-**The objections to these answers.** Kvanvig argues that the seriousness of a wrong depends not only on whom it wrongs but on the wrongdoer's knowledge and intentions, and that the status argument, applied strictly, makes every sin equally and infinitely serious[^17]. Adams argues that even if hell is a choice rather than an imposed penalty, it would be unreasonable to let creatures as flawed and ignorant as human beings decide their eternal destiny, and Kvanvig agrees that God would not hold anyone to a choice made under the wrong conditions[^136]. Defenders reply that Scripture itself adjusts judgment to knowledge (Luke 12:47-48), which is why the tradition teaches degrees of punishment, and that the duration of hell rests less on a calculation of desert than on the finality of the person's own rejection of God.
+**The objections to these answers.** Kvanvig argues that the seriousness of a wrong depends not only on whom it wrongs but on the wrongdoer's knowledge and intentions, and that the status argument, applied strictly, makes every sin equally and infinitely serious[^17]. Adams argues that even if hell is a choice rather than an imposed penalty, it would be unreasonable to let creatures as flawed and ignorant as human beings decide their eternal destiny, and Kvanvig agrees that God would not hold anyone to a choice made under the wrong conditions[^136][^1]. Defenders reply that Scripture itself adjusts judgment to knowledge (Luke 12:47-48), which is why the tradition teaches degrees of punishment, and that the duration of hell rests less on a calculation of desert than on the finality of the person's own rejection of God.
 
 **Where the answer rests.** No single argument settles the question for critics, and Christian thinkers continue to debate it; annihilationism and universalism draw much of their support from it. The traditional position rests finally on the repeated warnings of Jesus and on the character of the Judge: God "will render to each one according to his works", and the Judge of all the earth will do what is just.
 
@@ -232,7 +232,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
       id: "universalism-heresy",
       title: "What About Universalism?",
       tags: ["Duration"],
-      content: `**Will everyone eventually be saved?** Christian universalism holds that God will finally save all people, emptying hell[^139][^140]. Origen taught a final restoration (*apokatastasis* (ἀποκατάστασις, restoration)) and Gregory of Nyssa expressed a similar hope[^141][^142][^143][^144]. Origenist teaching was condemned at Constantinople in 543 and again in 553, when the bishops of the Second Council of Constantinople signed canons against it, most likely just before the council formally opened[^145][^143]. The church's creeds and confessions have consistently taught the finality of judgment.
+      content: `**Will everyone eventually be saved?** Christian universalism holds that God will finally save all people, emptying hell[^139][^140]. Origen taught a final restoration (*apokatastasis* (ἀποκατάστασις, restoration)) and Gregory of Nyssa expressed a similar hope[^141][^142][^143][^144][^141]. Origenist teaching was condemned at Constantinople in 543 and again in 553, when the bishops of the Second Council of Constantinople signed canons against it, most likely just before the council formally opened[^145][^143]. The church's creeds and confessions have consistently taught the finality of judgment.
 
 • **Finality of judgment:** Hebrews 9:27 states that "it is appointed for man to die once, and after that comes judgment", which the historic churches have read as excluding second chances after death[^146].
 

@@ -35,7 +35,7 @@ From a biblical perspective the last days are the entire period between Christ's
 *   **Peter at Pentecost.** Quoting Joel, Peter identified his own moment as the last days that the prophet foretold[^6].
 *   **The apostolic writings.** Hebrews places the last days at the incarnation, and Peter writes that Christ was revealed in these last times for the sake of believers[^7].
 
-Scripture also describes a specific period of tribulation immediately preceding the return of Christ. That timeline is drawn principally from Daniel, from the Olivet Discourse in Matthew 24, and from Revelation[^8][^9]. Daniel outlines a succession of Gentile empires and a coming kingdom that will never be destroyed, and includes the seventieth week that many interpreters read as a future seven-year period[^10]. Revelation details the progressive judgments of seals, trumpets and bowls, culminating in the return of the King of Kings[^11].
+Scripture also describes a specific period of tribulation immediately preceding the return of Christ. That timeline is drawn principally from Daniel, from the Olivet Discourse in Matthew 24, and from Revelation[^8][^9]. Daniel outlines a succession of Gentile empires and a coming kingdom that will never be destroyed, and includes the seventieth week that many interpreters read as a future seven-year period[^10][^11]. Revelation details the progressive judgments of seals, trumpets and bowls, culminating in the return of the King of Kings[^12][^13].
 `
     },
     {
@@ -43,21 +43,21 @@ Scripture also describes a specific period of tribulation immediately preceding 
       title: "Four Ways Christians Read Revelation",
       tags: ["Revelation"],
       content: `
-Orthodox Christians have read the prophetic texts in four distinct ways for centuries, and the differences are substantial[^12].
+Orthodox Christians have read the prophetic texts in four distinct ways for centuries, and the differences are substantial[^14][^15].
 
-*   **Preterism.** Most of Revelation's prophecies were fulfilled in the first century, particularly in the destruction of Jerusalem and the Temple in AD 70. Preterists point to the text's own time markers, which state that the events are near[^13].
-*   **Historicism.** The prophecies unfold progressively across church history. This was the dominant view among the Reformers and is comparatively rare today[^14][^15].
-*   **Futurism.** Most of Revelation chapters 4 to 20 describes events still to come. This is the dominant view in modern evangelicalism, especially in its dispensationalist form[^16].
-*   **Idealism.** The imagery depicts timeless spiritual realities, the conflict of good and evil in every age, rather than a datable sequence[^17].
+*   **Preterism.** Most of Revelation's prophecies were fulfilled in the first century, particularly in the destruction of Jerusalem and the Temple in AD 70. Preterists point to the text's own time markers, which state that the events are near[^16][^17].
+*   **Historicism.** The prophecies unfold progressively across church history. This was the dominant view among the Reformers and is comparatively rare today[^18][^19][^20].
+*   **Futurism.** Most of Revelation chapters 4 to 20 describes events still to come. This is the dominant view in modern evangelicalism, especially in its dispensationalist form[^21].
+*   **Idealism.** The imagery depicts timeless spiritual realities, the conflict of good and evil in every age, rather than a datable sequence[^22].
 
 
 
-The millennium forms a separate axis. Premillennialism holds that Christ returns before a literal thousand-year reign, postmillennialism that He returns after a golden age, and amillennialism that the millennium is the present church age described symbolically[^18][^19]. These correlate loosely with the frameworks above, with futurists tending premillennial and idealists tending amillennial.
+The millennium forms a separate axis. Premillennialism holds that Christ returns before a literal thousand-year reign, postmillennialism that He returns after a golden age, and amillennialism that the millennium is the present church age described symbolically[^23][^20]. These correlate loosely with the frameworks above, with futurists tending premillennial and idealists tending amillennial.
 
 <?viz end-times/millennium?>
 
 
-The signs framework set out in the following sections is largely a futurist reading. Amillennial and preterist Christians, who together account for much of the global church including most of the Reformed and Catholic traditions, do not treat current events as prophetic countdown markers[^15].
+The signs framework set out in the following sections is largely a futurist reading. Amillennial and preterist Christians, who together account for much of the global church including most of the Reformed and Catholic traditions, do not treat current events as prophetic countdown markers[^19].
 
 **See also:** [New Testament: General Epistles and Revelation (The 66 Books)](/categories/bible-books#section-general-epistles-and-revelation).
 `
@@ -67,18 +67,18 @@ The signs framework set out in the following sections is largely a futurist read
       title: "Traditional and Historical Signs of the End",
       tags: ["Scripture"],
       content: `
-In the Olivet Discourse Jesus lists indicators, and the way He frames them differs from the way they are commonly used[^20].
+In the Olivet Discourse Jesus lists indicators, and the way He frames them differs from the way they are commonly used[^24].
 
-*   **Wars, famines and earthquakes.** Jesus calls these the beginning of birth pains and immediately adds that His hearers should not be alarmed, because such things must happen and the end is still to come. The stated function is to prevent premature excitement[^21][^22][^23].
+*   **Wars, famines and earthquakes.** Jesus calls these the beginning of birth pains and immediately adds that His hearers should not be alarmed, because such things must happen and the end is still to come. The stated function is to prevent premature excitement[^25][^26][^27].
 
 <?viz end-times/earthquakes?>
 
-*   **False messiahs and false prophets.** Jesus warns specifically about those claiming the end has arrived, and instructs His followers not to go out after them[^24].
-*   **The gospel preached to all nations.** Matthew 24:14 is the one sign given an explicit connection to the end. Bible translation and global missions have advanced enormously, though the completion criterion is debated and cannot be verified[^25][^26].
-*   **The restoration of Israel.** The re-establishment of the State of Israel in 1948 is the most cited modern prophetic argument. Ezekiel foretells God gathering His people from the nations back to their land, and futurist interpreters regard this as a necessary precursor to later events[^27]. Amillennial and preterist interpreters hold that the relevant prophecies were fulfilled in the return from Babylonian exile, and that the New Testament reads promises to Israel as fulfilled in Christ and the church[^28][^29][^30].
-*   **Moral decline.** Paul's warning to Timothy describes the last days in terms many find recognisable. Every generation has read its own decline into that passage, and Paul's instruction to have nothing to do with such people assumes they were present in Timothy's own congregation[^31].
+*   **False messiahs and false prophets.** Jesus warns specifically about those claiming the end has arrived, and instructs His followers not to go out after them[^28].
+*   **The gospel preached to all nations.** Matthew 24:14 is the one sign given an explicit connection to the end. Bible translation and global missions have advanced enormously, though the completion criterion is debated and cannot be verified[^29][^30].
+*   **The restoration of Israel.** The re-establishment of the State of Israel in 1948 is the most cited modern prophetic argument. Ezekiel foretells God gathering His people from the nations back to their land, and futurist interpreters regard this as a necessary precursor to later events[^31]. Amillennial and preterist interpreters hold that the relevant prophecies were fulfilled in the return from Babylonian exile, and that the New Testament reads promises to Israel as fulfilled in Christ and the church[^32][^33][^34].
+*   **Moral decline.** Paul's warning to Timothy describes the last days in terms many find recognisable. Every generation has read its own decline into that passage, and Paul's instruction to have nothing to do with such people assumes they were present in Timothy's own congregation[^35][^36].
 
-These signs have characterised most of church history, which fits the reading that they describe the whole already-and-not-yet era rather than pinpointing its end[^32].
+These signs have characterised most of church history, which fits the reading that they describe the whole already-and-not-yet era rather than pinpointing its end[^37][^25].
 
 **See also:** [Temple Destruction (Prophecy)](/categories/prophecy#section-temple-destruction).
 `
@@ -90,13 +90,13 @@ These signs have characterised most of church history, which fits the reading th
       content: `
 Jesus told his followers to watch: there will be "signs in the sun, moon and stars" (Luke 21:25), and "when you see these things happening, you know that the kingdom of God is near" (Luke 21:31). Many Christians see the developments below as reasons to think that the end is drawing nearer. They are a reason for readiness, and not for fear, and none of them sets a date (Matthew 24:36).
 
-**The moon turning red.** Revelation says that "the whole moon turned blood red" (Revelation 6:12), and Joel that the moon will turn "to blood" (Joel 2:31). In 2020 researchers led by Shuai Li reported hematite, a red iron oxide and a form of rust, at high latitudes on the moon, a discovery that surprised scientists because the moon has so little oxygen or water[^33][^34]. The researchers attribute it to oxygen from the earth's upper atmosphere, carried to the moon over a very long period[^35][^34]. A "blood moon" is also the familiar name for a total lunar eclipse, when sunlight scattered by the earth's atmosphere turns the moon red[^36][^37]. Christians differ over whether either is what Revelation has in view, and the fact remains that the moon is literally rusting.
+**The moon turning red.** Revelation says that "the whole moon turned blood red" (Revelation 6:12), and Joel that the moon will turn "to blood" (Joel 2:31). In 2020 researchers led by Shuai Li reported hematite, a red iron oxide and a form of rust, at high latitudes on the moon, a discovery that surprised scientists because the moon has so little oxygen or water[^38][^39]. The researchers attribute it to oxygen from the earth's upper atmosphere, carried to the moon over a very long period[^40][^39]. A "blood moon" is also the familiar name for a total lunar eclipse, when sunlight scattered by the earth's atmosphere turns the moon red[^41][^42]. Christians differ over whether either is what Revelation has in view, and the fact remains that the moon is literally rusting.
 
-**The sun and scorching heat.** Revelation describes the sun being "allowed to scorch people with fire" (Revelation 16:8). Solar Cycle 25 has been more active than the cycle before it, with large sunspots and strong solar storms[^38][^39]. Such activity rises and falls in a roughly eleven-year cycle, so it is a development to watch and no more than that so far.
+**The sun and scorching heat.** Revelation describes the sun being "allowed to scorch people with fire" (Revelation 16:8). Solar Cycle 25 has been more active than the cycle before it, with large sunspots and strong solar storms[^43][^44]. Such activity rises and falls in a roughly eleven-year cycle, so it is a development to watch and no more than that so far.
 
-**The drying Euphrates.** Revelation says that the great river Euphrates "dried up to prepare the way for the kings from the East" (Revelation 16:12). Its water levels have fallen sharply, through drought and through dams upstream in Turkey and Syria[^40][^41]. Revelation does not say how the river will dry up, and interpreters read the verse in different ways[^42]. A river that once seemed too great to fail is now visibly shrinking.
+**The drying Euphrates.** Revelation says that the great river Euphrates "dried up to prepare the way for the kings from the East" (Revelation 16:12). Its water levels have fallen sharply, through drought and through dams upstream in Turkey and Syria[^45][^46]. Revelation does not say how the river will dry up, and interpreters read the verse in different ways[^47]. A river that once seemed too great to fail is now visibly shrinking.
 
-**Buying and selling.** Revelation says that no one could "buy or sell unless they had the mark" (Revelation 13:16-17). Digital payments, digital identity and biometrics make such control possible on a worldwide scale for the first time. Past generations have identified many people and things as the mark, and all of them proved wrong, so no technology today should be named as the mark itself[^43]. What has changed is that the verse no longer describes something impossible.
+**Buying and selling.** Revelation says that no one could "buy or sell unless they had the mark" (Revelation 13:16-17). Digital payments, digital identity and biometrics make such control possible on a worldwide scale for the first time. Past generations have identified many people and things as the mark, and all of them proved wrong, so no technology today should be named as the mark itself[^48][^49]. What has changed is that the verse no longer describes something impossible.
 
 **How much weight these can bear.** Christians in many past ages have seen signs in their own days, and the failed predictions set out next are a warning against certainty. The signs do not tell us when. Jesus' instruction is to keep watch and to live ready, whichever generation it turns out to be (Matthew 24:42).
 
@@ -108,16 +108,16 @@ Jesus told his followers to watch: there will be "signs in the sun, moon and sta
       title: "The Track Record of Date-Setting",
       tags: ["Modern claims"],
       content: `
-Jesus stated that no one knows the day or hour, not the angels and not the Son, but only the Father, and told the apostles directly that it was not for them to know times or dates[^44].
+Jesus stated that no one knows the day or hour, not the angels and not the Son, but only the Father, and told the apostles directly that it was not for them to know times or dates[^50].
 
-*   **William Miller.** Preached that Christ would return in 1843, then recalculated to 22 October 1844, attracting perhaps 100,000 followers. The failure became known as the Great Disappointment[^45].
-*   **Edgar Whisenant.** A former NASA engineer whose booklet *88 Reasons Why the Rapture Will Be in 1988* was mailed free to some 300,000 ministers and reportedly distributed in about 4.5 million copies. He followed the failure with revised dates for 1989, 1993 and 1994[^46].
-*   **Harold Camping.** Predicted judgment day for September 1994, then 21 May 2011, then 21 October 2011, backed by a national radio campaign. He later described his attempts to set a date as sinful[^47][^48].
+*   **William Miller.** Preached that Christ would return in 1843, then recalculated to 22 October 1844, attracting perhaps 100,000 followers. The failure became known as the Great Disappointment[^51].
+*   **Edgar Whisenant.** A former NASA engineer whose booklet *88 Reasons Why the Rapture Will Be in 1988* was mailed free to some 300,000 ministers and reportedly distributed in about 4.5 million copies. He followed the failure with revised dates for 1989, 1993 and 1994[^52].
+*   **Harold Camping.** Predicted judgment day for September 1994, then 21 May 2011, then 21 October 2011, backed by a national radio campaign. He later described his attempts to set a date as sinful[^53][^54].
 
 <?viz end-times/date-setting?>
 
 
-Any framework flexible enough to map current headlines onto prophecy is flexible enough to have mapped every previous generation's headlines, which is why the method has never produced a correct prediction[^49][^50].
+Any framework flexible enough to map current headlines onto prophecy is flexible enough to have mapped every previous generation's headlines, which is why the method has never produced a correct prediction[^55][^56].
 
 **See also:** [Fig Tree Generation (Prophecy)](/categories/prophecy#section-fig-tree-generation).
 `
@@ -127,14 +127,14 @@ Any framework flexible enough to map current headlines onto prophecy is flexible
       title: "How Christians Should Respond",
       tags: ["Response"],
       content: `
-Scripture's own application of eschatology is practical rather than speculative[^51].
+Scripture's own application of eschatology is practical rather than speculative[^57].
 
-*   **Watchfulness rather than calculation.** The commands attached to Christ's return are to stay awake, be ready, and keep working. The parables in Matthew 24 and 25 commend the servant found doing his job rather than the one predicting the master's arrival[^52].
-*   **Hope rather than fear.** The return is called the blessed hope, and the day of the Lord is described as arriving like a thief, which is a reason for readiness rather than for anxiety[^53][^54].
-*   **Holiness and mission.** Peter's conclusion from cosmic dissolution is a question about character, asking what sort of people believers ought to be, and the expected outcomes are godliness, evangelism and service[^55][^56].
-*   **Accuracy in argument.** Claims that collapse under a few minutes of checking make the central message harder to hear, so distinguishing what Scripture clearly teaches from what a particular framework infers is part of faithful teaching[^57].
+*   **Watchfulness rather than calculation.** The commands attached to Christ's return are to stay awake, be ready, and keep working. The parables in Matthew 24 and 25 commend the servant found doing his job rather than the one predicting the master's arrival[^58].
+*   **Hope rather than fear.** The return is called the blessed hope, and the day of the Lord is described as arriving like a thief, which is a reason for readiness rather than for anxiety[^59][^60].
+*   **Holiness and mission.** Peter's conclusion from cosmic dissolution is a question about character, asking what sort of people believers ought to be, and the expected outcomes are godliness, evangelism and service[^61][^62].
+*   **Accuracy in argument.** Claims that collapse under a few minutes of checking make the central message harder to hear, so distinguishing what Scripture clearly teaches from what a particular framework infers is part of faithful teaching[^63].
 
-In the New Testament sense the answer to the question is yes, since the last days began at Pentecost. Whether this is the final generation is unknowable, and Scripture treats the desire to know it as a distraction from what it actually commands[^58].
+In the New Testament sense the answer to the question is yes, since the last days began at Pentecost. Whether this is the final generation is unknowable, and Scripture treats the desire to know it as a distraction from what it actually commands[^64].
 `
     }
   ],
@@ -149,54 +149,60 @@ In the New Testament sense the answer to the question is yes, since the last day
     "8. [Academic] ''An Interpretation of Matthew 24-25' by Thomas D. Ice.' Liberty University. https://digitalcommons.liberty.edu/pretrib_arch/2/",
     "9. [Wikipedia] 'Olivet Discourse.' https://en.wikipedia.org/wiki/Olivet_Discourse",
     "10. [Wikipedia] Abomination of desolation. The image Daniel and the Olivet discourse share. https://en.wikipedia.org/wiki/Abomination_of_desolation",
-    "11. [Wikipedia] Great Tribulation. The period described in the prophetic texts. https://en.wikipedia.org/wiki/Great_Tribulation",
-    "12. [Wikipedia] Christian eschatology (preterism, historicism, futurism, idealism). https://en.wikipedia.org/wiki/Christian_eschatology",
-    "13. [Wikipedia] Preterism. https://en.wikipedia.org/wiki/Preterism",
-    "14. [Wikipedia] Historicism (Christianity). https://en.wikipedia.org/wiki/Historicism_(Christianity)",
-    "15. [Wikipedia] Amillennialism. https://en.wikipedia.org/wiki/Amillennialism",
-    "16. [Wikipedia] Futurism (Christianity). https://en.wikipedia.org/wiki/Futurism_(Christianity)",
-    "17. [Wikipedia] Idealism (Christian eschatology). The symbolic reading of the imagery. https://en.wikipedia.org/wiki/Idealism_(Christian_eschatology)",
-    "18. [Wikipedia] Premillennialism. Christ returning before the thousand year reign. https://en.wikipedia.org/wiki/Premillennialism",
-    "19. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Millennium and Millenarianism.' https://www.newadvent.org/cathen/10307a.htm",
-    "20. [Apologetics] Desiring God. Stop Dating Jesus. Argument against date-setting from Matthew 24:36. https://www.desiringgod.org/articles/stop-dating-jesus",
-    "21. [Commentary] Bible Hub. 'Commentaries on Matthew 24:6.' https://biblehub.com/commentaries/matthew/24-6.htm",
-    "22. [Commentary] Bible Hub. 'Commentaries on Luke 21:11.' https://biblehub.com/commentaries/luke/21-11.htm",
-    "23. [Creationist] Answers in Genesis. Are You Ready for the End of the World? Warning against speculative sign-reading. https://answersingenesis.org/christianity/are-you-ready-for-the-end-of-the-world/",
-    "24. [Commentary] Bible Hub. Matthew 24:26 Commentaries. https://biblehub.com/commentaries/matthew/24-26.htm",
-    "25. [Commentary] Bible Hub. Matthew 24:14 Commentaries. https://biblehub.com/commentaries/matthew/24-14.htm",
-    "26. [Wikipedia] Great Commission. The task assigned before the return. https://en.wikipedia.org/wiki/Great_Commission",
-    "27. [Commentary] Bible Hub. Ezekiel 36:24 Commentaries. https://biblehub.com/commentaries/ezekiel/36-24.htm",
-    "28. [Wikipedia] Covenant theology. The framework reading the promises as fulfilled in Christ and the church. https://en.wikipedia.org/wiki/Covenant_theology",
-    "29. [Academic] 'Christians and Jews - Starting Over.' Boston College. https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/articles/johnson.htm",
-    "30. [Wikipedia] 'Supersessionism.' https://en.wikipedia.org/wiki/Supersessionism",
-    "31. [Wikipedia] Second Epistle to Timothy. Setting and purpose of the letter. https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy",
-    "32. [Wikipedia] Kingdom of God (Christianity). The already inaugurated and not yet consummated reign. https://en.wikipedia.org/wiki/Kingdom_of_God_(Christianity)",
-    "33. [Academic] Li, Shuai et al. Widespread hematite at high latitudes of the Moon. Science Advances, 2 September 2020. https://www.science.org/doi/10.1126/sciadv.aba1940",
-    "34. [Reference] Jet Propulsion Laboratory. The Moon Is Rusting, and Researchers Want to Know Why. https://www.jpl.nasa.gov/news/the-moon-is-rusting-and-researchers-want-to-know-why/",
-    "35. [Academic] University of Hawaii. Has Earth's oxygen rusted the Moon for billions of years? https://www.hawaii.edu/news/2020/09/02/earth-oxygen-moon-rust/",
-    "36. [Reference] NASA. Blood Moon Lunar Eclipse. Why the moon reddens during totality. https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/",
-    "37. [News] Space.com. Why does the moon turn red during a total lunar eclipse? https://www.space.com/why-moon-turns-red-total-lunar-eclipse",
-    "38. [Academic] Garg S et al. Analyzing long-term trends and variations in the sunspot cycle across Solar Cycles 1-24, and the rising phase of Solar Cycle 25., 2026. https://doi.org/10.21203/rs.3.rs-8639010/v1",
-    "39. [Wikipedia] 'Solar cycle 25.' https://en.wikipedia.org/wiki/Solar_cycle_25",
-    "40. [Encyclopedia] Britannica. Euphrates River. Hydrology and the effect of upstream dams. https://www.britannica.com/place/Euphrates-River",
-    "41. [Wikipedia] Southeastern Anatolia Project. The Turkish dam programme affecting the river. https://en.wikipedia.org/wiki/Southeastern_Anatolia_Project",
-    "42. [Commentary] Bible Hub. Revelation 16:12 Commentaries. https://biblehub.com/commentaries/revelation/16-12.htm",
-    "43. [Wikipedia] Number of the beast. The identifications proposed across the centuries. https://en.wikipedia.org/wiki/Number_of_the_beast",
-    "44. [Commentary] Bible Hub. 'Commentaries on Matthew 24:36.' https://biblehub.com/commentaries/matthew/24-36.htm",
-    "45. [Wikipedia] Great Disappointment. https://en.wikipedia.org/wiki/Great_Disappointment",
-    "46. [Wikipedia] Edgar C. Whisenant. https://en.wikipedia.org/wiki/Edgar_C._Whisenant",
-    "47. [News] ''Rapture' apocalypse prediction sparks atheist reaction.' BBC. https://www.bbc.co.uk/news/world-us-canada-13468131",
-    "48. [Wikipedia] 'Harold Camping.' https://en.wikipedia.org/wiki/Harold_Camping",
-    "49. [Encyclopedia] Britannica. 10 Failed Doomsday Predictions. Miller, Whisenant, Camping and others. https://www.britannica.com/list/10-failed-doomsday-predictions",
-    "50. [Wikipedia] Doomsday cult. The recurring social pattern following failed predictions. https://en.wikipedia.org/wiki/Doomsday_cult",
-    "51. [Commentary] Bible Hub. 'Commentaries on 2 Timothy 4:8.' https://biblehub.com/commentaries/2_timothy/4-8.htm",
-    "52. [Commentary] Bible Hub. 'Commentaries on Matthew 24:44.' https://biblehub.com/commentaries/matthew/24-44.htm",
-    "53. [Commentary] Bible Hub. 'Commentaries on Titus 2:13.' https://biblehub.com/commentaries/titus/2-13.htm",
-    "54. [Commentary] Bible Hub. 'Commentaries on 1 Thessalonians 5:2.' https://biblehub.com/commentaries/1_thessalonians/5-2.htm",
-    "55. [Commentary] Bible Hub. 'Commentaries on 2 Peter 3:10.' https://biblehub.com/commentaries/2_peter/3-10.htm",
-    "56. [Commentary] Bible Hub. 'Commentaries on 1 John 3:2.' https://biblehub.com/commentaries/1_john/3-2.htm",
-    "57. [Wikipedia] Biblical hermeneutics. Principles distinguishing text from inference. https://en.wikipedia.org/wiki/Biblical_hermeneutics",
-    "58. [Commentary] Bible Hub. 'Commentaries on Acts 1:7.' https://biblehub.com/commentaries/acts/1-7.htm"
+    "11. [Commentary] Commentaries on Daniel 9:27. Bible Hub. https://biblehub.com/commentaries/daniel/9-27.htm",
+    "12. [Wikipedia] Great Tribulation. The period described in the prophetic texts. https://en.wikipedia.org/wiki/Great_Tribulation",
+    "13. [Commentary] Commentaries on Revelation 16:1. Bible Hub. https://biblehub.com/commentaries/revelation/16-1.htm",
+    "14. [Wikipedia] Christian eschatology (preterism, historicism, futurism, idealism). https://en.wikipedia.org/wiki/Christian_eschatology",
+    "15. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Eschatology.' https://www.newadvent.org/cathen/05528b.htm",
+    "16. [Wikipedia] Preterism. https://en.wikipedia.org/wiki/Preterism",
+    "17. [Commentary] Commentaries on Revelation 1:1. Bible Hub. https://biblehub.com/commentaries/revelation/1-1.htm",
+    "18. [Wikipedia] Historicism (Christianity). https://en.wikipedia.org/wiki/Historicism_(Christianity)",
+    "19. [Wikipedia] Amillennialism. https://en.wikipedia.org/wiki/Amillennialism",
+    "20. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Millennium and Millenarianism.' https://www.newadvent.org/cathen/10307a.htm",
+    "21. [Wikipedia] Futurism (Christianity). https://en.wikipedia.org/wiki/Futurism_(Christianity)",
+    "22. [Wikipedia] Idealism (Christian eschatology). The symbolic reading of the imagery. https://en.wikipedia.org/wiki/Idealism_(Christian_eschatology)",
+    "23. [Wikipedia] Premillennialism. Christ returning before the thousand year reign. https://en.wikipedia.org/wiki/Premillennialism",
+    "24. [Apologetics] Desiring God. Stop Dating Jesus. Argument against date-setting from Matthew 24:36. https://www.desiringgod.org/articles/stop-dating-jesus",
+    "25. [Commentary] Bible Hub. 'Commentaries on Matthew 24:6.' https://biblehub.com/commentaries/matthew/24-6.htm",
+    "26. [Commentary] Bible Hub. 'Commentaries on Luke 21:11.' https://biblehub.com/commentaries/luke/21-11.htm",
+    "27. [Creationist] Answers in Genesis. Are You Ready for the End of the World? Warning against speculative sign-reading. https://answersingenesis.org/christianity/are-you-ready-for-the-end-of-the-world/",
+    "28. [Commentary] Bible Hub. Matthew 24:26 Commentaries. https://biblehub.com/commentaries/matthew/24-26.htm",
+    "29. [Commentary] Bible Hub. Matthew 24:14 Commentaries. https://biblehub.com/commentaries/matthew/24-14.htm",
+    "30. [Wikipedia] Great Commission. The task assigned before the return. https://en.wikipedia.org/wiki/Great_Commission",
+    "31. [Commentary] Bible Hub. Ezekiel 36:24 Commentaries. https://biblehub.com/commentaries/ezekiel/36-24.htm",
+    "32. [Wikipedia] Covenant theology. The framework reading the promises as fulfilled in Christ and the church. https://en.wikipedia.org/wiki/Covenant_theology",
+    "33. [Academic] 'Christians and Jews - Starting Over.' Boston College. https://www.bc.edu/content/dam/files/research_sites/cjl/texts/cjrelations/resources/articles/johnson.htm",
+    "34. [Wikipedia] 'Supersessionism.' https://en.wikipedia.org/wiki/Supersessionism",
+    "35. [Wikipedia] Second Epistle to Timothy. Setting and purpose of the letter. https://en.wikipedia.org/wiki/Second_Epistle_to_Timothy",
+    "36. [Commentary] Commentaries on 2 Timothy 3:5. Bible Hub. https://biblehub.com/commentaries/2_timothy/3-5.htm",
+    "37. [Wikipedia] Kingdom of God (Christianity). The already inaugurated and not yet consummated reign. https://en.wikipedia.org/wiki/Kingdom_of_God_(Christianity)",
+    "38. [Academic] Li, Shuai et al. Widespread hematite at high latitudes of the Moon. Science Advances, 2 September 2020. https://www.science.org/doi/10.1126/sciadv.aba1940",
+    "39. [Reference] Jet Propulsion Laboratory. The Moon Is Rusting, and Researchers Want to Know Why. https://www.jpl.nasa.gov/news/the-moon-is-rusting-and-researchers-want-to-know-why/",
+    "40. [Academic] University of Hawaii. Has Earth's oxygen rusted the Moon for billions of years? https://www.hawaii.edu/news/2020/09/02/earth-oxygen-moon-rust/",
+    "41. [Reference] NASA. Blood Moon Lunar Eclipse. Why the moon reddens during totality. https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/",
+    "42. [News] Space.com. Why does the moon turn red during a total lunar eclipse? https://www.space.com/why-moon-turns-red-total-lunar-eclipse",
+    "43. [Academic] Garg S et al. Analyzing long-term trends and variations in the sunspot cycle across Solar Cycles 1-24, and the rising phase of Solar Cycle 25., 2026. https://doi.org/10.21203/rs.3.rs-8639010/v1",
+    "44. [Wikipedia] 'Solar cycle 25.' https://en.wikipedia.org/wiki/Solar_cycle_25",
+    "45. [Encyclopedia] Britannica. Euphrates River. Hydrology and the effect of upstream dams. https://www.britannica.com/place/Euphrates-River",
+    "46. [Wikipedia] Southeastern Anatolia Project. The Turkish dam programme affecting the river. https://en.wikipedia.org/wiki/Southeastern_Anatolia_Project",
+    "47. [Commentary] Bible Hub. Revelation 16:12 Commentaries. https://biblehub.com/commentaries/revelation/16-12.htm",
+    "48. [Wikipedia] Number of the beast. The identifications proposed across the centuries. https://en.wikipedia.org/wiki/Number_of_the_beast",
+    "49. [Commentary] Commentaries on Revelation 13:18. Bible Hub. https://biblehub.com/commentaries/revelation/13-18.htm",
+    "50. [Commentary] Bible Hub. 'Commentaries on Matthew 24:36.' https://biblehub.com/commentaries/matthew/24-36.htm",
+    "51. [Wikipedia] Great Disappointment. https://en.wikipedia.org/wiki/Great_Disappointment",
+    "52. [Wikipedia] Edgar C. Whisenant. https://en.wikipedia.org/wiki/Edgar_C._Whisenant",
+    "53. [News] ''Rapture' apocalypse prediction sparks atheist reaction.' BBC. https://www.bbc.co.uk/news/world-us-canada-13468131",
+    "54. [Wikipedia] 'Harold Camping.' https://en.wikipedia.org/wiki/Harold_Camping",
+    "55. [Encyclopedia] Britannica. 10 Failed Doomsday Predictions. Miller, Whisenant, Camping and others. https://www.britannica.com/list/10-failed-doomsday-predictions",
+    "56. [Wikipedia] Doomsday cult. The recurring social pattern following failed predictions. https://en.wikipedia.org/wiki/Doomsday_cult",
+    "57. [Commentary] Bible Hub. 'Commentaries on 2 Timothy 4:8.' https://biblehub.com/commentaries/2_timothy/4-8.htm",
+    "58. [Commentary] Bible Hub. 'Commentaries on Matthew 24:44.' https://biblehub.com/commentaries/matthew/24-44.htm",
+    "59. [Commentary] Bible Hub. 'Commentaries on Titus 2:13.' https://biblehub.com/commentaries/titus/2-13.htm",
+    "60. [Commentary] Bible Hub. 'Commentaries on 1 Thessalonians 5:2.' https://biblehub.com/commentaries/1_thessalonians/5-2.htm",
+    "61. [Commentary] Bible Hub. 'Commentaries on 2 Peter 3:10.' https://biblehub.com/commentaries/2_peter/3-10.htm",
+    "62. [Commentary] Bible Hub. 'Commentaries on 1 John 3:2.' https://biblehub.com/commentaries/1_john/3-2.htm",
+    "63. [Wikipedia] Biblical hermeneutics. Principles distinguishing text from inference. https://en.wikipedia.org/wiki/Biblical_hermeneutics",
+    "64. [Commentary] Bible Hub. 'Commentaries on Acts 1:7.' https://biblehub.com/commentaries/acts/1-7.htm"
   ],
   lastUpdated: "30-10-2026"
 }

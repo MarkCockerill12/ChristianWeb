@@ -36,7 +36,7 @@ Prayer changes us. When we pray, we are often aligning our hearts and desires wi
       id: "intercession",
       title: "Praying for Others (Intercession)",
       tags: ["Intercession"],
-      content: `Why do we pray for others? The Bible frequently commands us to intercede for one another (1 Timothy 2:1, James 5:16). Intercessory prayer reflects the heart of Christ, who intercedes for us (Romans 8:34)[^5][^6]. It builds community, fosters empathy, and allows us to participate in God's work in the lives of our loved ones and the world[^7].
+      content: `Why do we pray for others? The Bible frequently commands us to intercede for one another (1 Timothy 2:1, James 5:16). Intercessory prayer reflects the heart of Christ, who intercedes for us (Romans 8:34)[^5][^6]. It builds community, fosters empathy, and allows us to participate in God's work in the lives of our loved ones and the world[^7][^8].
 
 <?viz prayer/bible-prayers?>
 `,
@@ -48,7 +48,7 @@ Prayer changes us. When we pray, we are often aligning our hearts and desires wi
       content: `
 **The experience.** Everyone who prays long enough knows unanswered prayer. Scripture does not hide it: "How long, LORD, must I call for help, but you do not listen?" (Habakkuk 1:2).
 
-**The study.** The largest study of prayer for the sick, the STEP project of 2006, found no significant difference in recovery from heart surgery between patients who were prayed for and those who were not[^8][^9]. Patients who knew that they were being prayed for did slightly worse. Critics take this to settle the matter.
+**The study.** The largest study of prayer for the sick, the STEP project of 2006, found no significant difference in recovery from heart surgery between patients who were prayed for and those who were not[^9][^10]. Patients who knew that they were being prayed for did slightly worse. Critics take this to settle the matter.
 
 **The response.** God is not a mechanism that can be tested by controlled experiment. Scripture says not to put him to the test (Deuteronomy 6:16), and a study cannot control for the prayers everyone else was offering for those patients. Many of the prayers Scripture records were in any case answered with "no". A fair reading of the result is that prayer is not a technique that produces measurable results on request. It leaves open whether God answers particular prayers, and it counts against the claim that faith guarantees healing.
 
@@ -66,10 +66,10 @@ Prayer changes us. When we pray, we are often aligning our hearts and desires wi
 - **Submission:** "Your kingdom come, your will be done"
 - **Petition:** "Give us today our daily bread"
 - **Confession:** "Forgive us our debts"
-- **Protection:** "Lead us not into temptation"[^10][^11][^12]
+- **Protection:** "Lead us not into temptation"[^11][^12][^13]
 
 
-There is no "magic formula." God values sincerity and honesty over eloquent words (Matthew 6:7). We can pray silently, out loud, corporately, individually, standing, kneeling, or weeping[^13].
+There is no "magic formula." God values sincerity and honesty over eloquent words (Matthew 6:7). We can pray silently, out loud, corporately, individually, standing, kneeling, or weeping[^14].
 
 <?viz prayer/fixed-hours?>
 
@@ -97,8 +97,8 @@ While the Father is the primary addressee, the New Testament also records prayer
 - Because the Holy Spirit is a fully divine person, later Christian liturgy includes direct prayers to the Spirit, such as the ninth-century hymn *Veni Creator Spiritus* in the West and the prayer *O Heavenly King*, said at the opening of most Orthodox services.
 
 **Perspectives Across Branches**
-- **Catholic and Orthodox Traditions:** Heavily emphasize the classical pattern: to the Father, through the Son, in the Spirit. The principal prayers of the Roman Mass follow this format (e.g., concluding with "through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit"), but both traditions also pray directly to Christ, as in the *Agnus Dei* of the Mass and the Orthodox Jesus Prayer ("Lord Jesus Christ, Son of God, have mercy on me"). They also incorporate prayers asking for the intercession of Mary and the saints[^14].
-- **Protestant Traditions:** While agreeing with the classical pattern, Protestants often emphasize conversational prayer and are very accustomed to praying directly to Jesus (e.g., "Dear Jesus, help me today"). Pentecostal and Charismatic branches place a strong emphasis on praying in and to the Holy Spirit, seeking His direct empowerment and presence[^15].
+- **Catholic and Orthodox Traditions:** Heavily emphasize the classical pattern: to the Father, through the Son, in the Spirit. The principal prayers of the Roman Mass follow this format (e.g., concluding with "through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit"), but both traditions also pray directly to Christ, as in the *Agnus Dei* of the Mass and the Orthodox Jesus Prayer ("Lord Jesus Christ, Son of God, have mercy on me"). They also incorporate prayers asking for the intercession of Mary and the saints[^15][^16].
+- **Protestant Traditions:** While agreeing with the classical pattern, Protestants often emphasize conversational prayer and are very accustomed to praying directly to Jesus (e.g., "Dear Jesus, help me today"). Pentecostal and Charismatic branches place a strong emphasis on praying in and to the Holy Spirit, seeking His direct empowerment and presence[^17].
 
 Because God is one in essence, praying to one person of the Trinity does not exclude the others. The entire Godhead is involved in hearing and responding to our prayers.
 
@@ -114,14 +114,16 @@ Because God is one in essence, praying to one person of the Trinity does not exc
     "5. [Apologetics] GotQuestions.org - What is intercessory prayer?. 'Explains the biblical basis for interceding on behalf of others and Christ's role as our intercessor.' https://www.gotquestions.org/intercessory-prayer.html",
     "6. [Commentary] Commentaries on Romans 8:34. Bible Hub. https://biblehub.com/commentaries/romans/8-34.htm",
     "7. [Wikipedia] Intercession. 'Detailed look at intercessory prayer, including differences in how various Christian traditions approach it.' https://en.wikipedia.org/wiki/Intercession",
-    "8. [Academic] Benson H et al. Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients. American Heart Journal, 2006. PubMed. https://pubmed.ncbi.nlm.nih.gov/16569567/",
-    "9. [Wikipedia] 'Studies on intercessory prayer.' https://en.wikipedia.org/wiki/Studies_on_intercessory_prayer",
-    "10. [Apologetics] GotQuestions.org - What is the Lord's prayer and should we pray it?. 'Examines the model prayer Jesus gave His disciples and how it applies to our daily prayer life.' https://www.gotquestions.org/Lords-prayer.html",
-    "11. [Reference] 'BBC - Religions - Christianity: The Lord's Prayer.' BBC. https://www.bbc.co.uk/religion/religions/christianity/prayer/lordsprayer_1.shtml",
-    "12. [Wikipedia] 'Lord's Prayer.' https://en.wikipedia.org/wiki/Lord%27s_Prayer",
-    "13. [Commentary] Bible Hub. 'Commentaries on Matthew 6:7.' https://biblehub.com/commentaries/matthew/6-7.htm",
-    "14. [Wikipedia] Prayer in the Catholic Church. 'Overview of Catholic prayer traditions, including Trinitarian formulas and the role of the saints.' https://en.wikipedia.org/wiki/Prayer_in_the_Catholic_Church",
-    "15. [Apologetics] GotQuestions.org - Should we pray to the Father, the Son, or the Holy Spirit?. 'A biblical look at the Trinitarian nature of prayer and who we should address.' https://www.gotquestions.org/pray-Father-Son-Spirit.html"
+    "8. [Commentary] Commentaries on 1 Timothy 2:1. Bible Hub. https://biblehub.com/commentaries/1_timothy/2-1.htm",
+    "9. [Academic] Benson H et al. Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients. American Heart Journal, 2006. PubMed. https://pubmed.ncbi.nlm.nih.gov/16569567/",
+    "10. [Wikipedia] 'Studies on intercessory prayer.' https://en.wikipedia.org/wiki/Studies_on_intercessory_prayer",
+    "11. [Apologetics] GotQuestions.org - What is the Lord's prayer and should we pray it?. 'Examines the model prayer Jesus gave His disciples and how it applies to our daily prayer life.' https://www.gotquestions.org/Lords-prayer.html",
+    "12. [Reference] 'BBC - Religions - Christianity: The Lord's Prayer.' BBC. https://www.bbc.co.uk/religion/religions/christianity/prayer/lordsprayer_1.shtml",
+    "13. [Wikipedia] 'Lord's Prayer.' https://en.wikipedia.org/wiki/Lord%27s_Prayer",
+    "14. [Commentary] Bible Hub. 'Commentaries on Matthew 6:7.' https://biblehub.com/commentaries/matthew/6-7.htm",
+    "15. [Wikipedia] Prayer in the Catholic Church. 'Overview of Catholic prayer traditions, including Trinitarian formulas and the role of the saints.' https://en.wikipedia.org/wiki/Prayer_in_the_Catholic_Church",
+    "16. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Communion of Saints.' https://www.newadvent.org/cathen/04171a.htm",
+    "17. [Apologetics] GotQuestions.org - Should we pray to the Father, the Son, or the Holy Spirit?. 'A biblical look at the Trinitarian nature of prayer and who we should address.' https://www.gotquestions.org/pray-Father-Son-Spirit.html"
   ],
   lastUpdated: "30-10-2026"
 }

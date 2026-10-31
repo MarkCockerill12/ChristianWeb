@@ -96,7 +96,7 @@ Response: In [John 14:28](https://www.biblegateway.com/passage/?search=John+14%3
 
 **Objection: "Early Christians didn't believe in the Trinity"**
 
-Response: Early church writings show Trinitarian thinking from the apostolic period[^21]. The *Didache* (c. 60-120 AD) and the writings of Clement of Rome (c. 96 AD) refer to Father, Son, and Spirit in divine terms, indicating an "incipient Trinitarianism"[^7][^22]. The *Didache* explicitly instructs baptism in the triadic formula[^23], and Clement invokes the Father, Son, and Holy Spirit together[^24].
+Response: Early church writings show Trinitarian thinking from the apostolic period[^21]. The *Didache* (c. 60-120 AD) and the writings of Clement of Rome (c. 96 AD) refer to Father, Son, and Spirit in divine terms, indicating an "incipient Trinitarianism"[^7][^22]. The *Didache* explicitly instructs baptism in the triadic formula[^23][^24], and Clement invokes the Father, Son, and Holy Spirit together[^25].
 
 **See also:** [John 14:28 vs Philippians 2:6 / John 5:18 / John 10:30 - the Father is greater than Jesus vs Jesus is equal with God (Contradictions)](/categories/contradictions#section-FatherGreater), [Addressing Objections: Verses Where Jesus Differentiates Himself From the Father (Jesus' Claims)](/categories/jesus#section-objections).
 `,
@@ -105,11 +105,11 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
       id: "history-and-heresies",
       title: "Historical Development and Heresies",
       tags: ["History"],
-      content: `The Trinity was formally articulated at the Council of Nicaea (325 AD)[^25][^26] and completed at the First Council of Constantinople (381 AD)[^27][^28]. These councils didn't invent the doctrine but clarified biblical teaching against false interpretations (heresies)[^26].
+      content: `The Trinity was formally articulated at the Council of Nicaea (325 AD)[^26][^27] and completed at the First Council of Constantinople (381 AD)[^28][^29]. These councils didn't invent the doctrine but clarified biblical teaching against false interpretations (heresies)[^27].
 
-- **Arianism:** Condemned at Nicaea, Arianism claimed the Son was a created being, subordinate to and not co-eternal with the Father ("there was when he was not"). The later *homoiousian* party, who called the Son "like in essence" to the Father, occupied a middle position, and many of them eventually accepted *homoousios* (ὁμοούσιος, of the same being)[^29][^30][^31].
-  - **Modalism:** Rejected by Hippolytus and Tertullian, with Sabellius excommunicated at Rome around 220 and the Sabellians anathematised by name in the first canon of Constantinople (381), Modalism (or Sabellianism) asserts God is a single person who manifests Himself in three successive modes, denying the simultaneous, distinct personhood of Father, Son, and Holy Spirit[^32][^33][^34][^35][^36].
-  - **The Nicene Creed:** The resulting Nicene-Constantinopolitan Creed, shared by Catholic, Orthodox and most Protestant churches (with the West later adding the disputed *filioque*), confesses the Son as "of one being with the Father" and the Spirit as "worshipped and glorified" with the Father and the Son. The explicit language of three co-equal and co-eternal persons comes from the Cappadocian Fathers and the later Athanasian Creed[^37][^38][^39][^40].
+- **Arianism:** Condemned at Nicaea, Arianism claimed the Son was a created being, subordinate to and not co-eternal with the Father ("there was when he was not"). The later *homoiousian* party, who called the Son "like in essence" to the Father, occupied a middle position, and many of them eventually accepted *homoousios* (ὁμοούσιος, of the same being)[^30][^31][^32].
+  - **Modalism:** Rejected by Hippolytus and Tertullian, with Sabellius excommunicated at Rome around 220 and the Sabellians anathematised by name in the first canon of Constantinople (381), Modalism (or Sabellianism) asserts God is a single person who manifests Himself in three successive modes, denying the simultaneous, distinct personhood of Father, Son, and Holy Spirit[^33][^34][^35][^36][^37].
+  - **The Nicene Creed:** The resulting Nicene-Constantinopolitan Creed, shared by Catholic, Orthodox and most Protestant churches (with the West later adding the disputed *filioque*), confesses the Son as "of one being with the Father" and the Spirit as "worshipped and glorified" with the Father and the Son. The explicit language of three co-equal and co-eternal persons comes from the Cappadocian Fathers and the later Athanasian Creed[^38][^39][^40][^41].
 
 <?viz trinity/councils?>
 
@@ -122,7 +122,7 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
       id: "practical-implications",
       title: "Practical Implications",
       tags: ["Practice"],
-      content: `The Trinity explains God's relational nature (love existing eternally within the Godhead) and is central to the Christian understanding of salvation[^41]. The Father plans salvation, the Son accomplishes it, and the Spirit applies it to believers ([2 Corinthians 13:14](https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A14&version=NIV))[^42].
+      content: `The Trinity explains God's relational nature (love existing eternally within the Godhead) and is central to the Christian understanding of salvation[^42]. The Father plans salvation, the Son accomplishes it, and the Spirit applies it to believers ([2 Corinthians 13:14](https://www.biblegateway.com/passage/?search=2+Corinthians+13%3A14&version=NIV))[^43].
 `,
     },
     {
@@ -131,17 +131,17 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
       tags: ["Scripture"],
       content: `Long before the New Testament, the Hebrew Scriptures speak in ways that strain a single-person reading of God.
 
-**God speaks of himself in the plural.** Genesis 1:26 has "Let us make mankind in our image", repeated at Genesis 3:22 and Genesis 11:7, and Isaiah 6:8 asks "who will go for us?"[^43][^44][^45]. Read alone these could be a plural of majesty or an address to the heavenly court, and honest treatments say so; their weight comes from the pattern they belong to rather than from any one verse[^46].
+**God speaks of himself in the plural.** Genesis 1:26 has "Let us make mankind in our image", repeated at Genesis 3:22 and Genesis 11:7, and Isaiah 6:8 asks "who will go for us?"[^44][^45][^46]. Read alone these could be a plural of majesty or an address to the heavenly court, and honest treatments say so; their weight comes from the pattern they belong to rather than from any one verse[^47].
 
-**The LORD is distinguished from the LORD.** Genesis 19:24 says that the LORD rained fire "from the LORD out of the heavens"[^47][^34]. Hosea 1:7 has God saving Judah "by the LORD their God", one speaker naming another by the covenant name[^48]. Zechariah 12:10 has God saying "they will look on me, the one they have pierced, and they will mourn for him", moving between first and third person for the same figure[^49][^50].
+**The LORD is distinguished from the LORD.** Genesis 19:24 says that the LORD rained fire "from the LORD out of the heavens"[^48][^35]. Hosea 1:7 has God saving Judah "by the LORD their God", one speaker naming another by the covenant name[^49]. Zechariah 12:10 has God saying "they will look on me, the one they have pierced, and they will mourn for him", moving between first and third person for the same figure[^50][^51].
 
-**A son is named.** Proverbs 30:4 asks "Who has gone up to heaven and come down? ... What is his name, and what is the name of his son? Surely you know!", a question posed about the Creator[^51]. Psalm 2:7 records "You are my son; today I have become your father", and Psalm 2:12 tells the nations to "kiss the son" or perish[^52]. Psalm 110:1 has David writing "The LORD says to my lord: Sit at my right hand", a text Jesus pressed on his opponents precisely because of the two lords in it[^53].
+**A son is named.** Proverbs 30:4 asks "Who has gone up to heaven and come down? ... What is his name, and what is the name of his son? Surely you know!", a question posed about the Creator[^52]. Psalm 2:7 records "You are my son; today I have become your father", and Psalm 2:12 tells the nations to "kiss the son" or perish[^53]. Psalm 110:1 has David writing "The LORD says to my lord: Sit at my right hand", a text Jesus pressed on his opponents precisely because of the two lords in it[^54].
 
-**A divine figure receives worship.** Daniel 7:13-14 shows one like a son of man coming with the clouds, given authority and the service or worship (Aramaic *pelach* (פְּלַח, serve, worship)) of all nations, and an everlasting dominion, language reserved elsewhere for God alone[^54]. Isaiah 9:6 names the child to be born Mighty God and Everlasting Father[^55][^56].
+**A divine figure receives worship.** Daniel 7:13-14 shows one like a son of man coming with the clouds, given authority and the service or worship (Aramaic *pelach* (פְּלַח, serve, worship)) of all nations, and an everlasting dominion, language reserved elsewhere for God alone[^55]. Isaiah 9:6 names the child to be born Mighty God and Everlasting Father[^56][^57].
 
-**The Spirit is a third who is sent.** Isaiah 48:16 has the speaker say "And now the Sovereign LORD has sent me, endowed with his Spirit", three parties in one sentence[^57][^4]. Isaiah 63:10 speaks of grieving the Holy Spirit, which is language for a person rather than a force[^58][^59].
+**The Spirit is a third who is sent.** Isaiah 48:16 has the speaker say "And now the Sovereign LORD has sent me, endowed with his Spirit", three parties in one sentence[^58][^4]. Isaiah 63:10 speaks of grieving the Holy Spirit, which is language for a person rather than a force[^59][^60].
 
-**Malachi 3:1** has the LORD saying he will send his messenger, and then "the Lord you are seeking will come to his temple", the sender and the coming one both being the Lord[^60].
+**Malachi 3:1** has the LORD saying he will send his messenger, and then "the Lord you are seeking will come to his temple", the sender and the coming one both being the Lord[^61].
 
 **See also:** [Jewish Objections to Jesus as Messiah (Other Religions)](/categories/religions#section-jewish-objections).
 `,
@@ -150,19 +150,19 @@ Response: Early church writings show Trinitarian thinking from the apostolic per
       id: "new-testament",
       title: "The Three Together in the New Testament",
       tags: ["Scripture"],
-      content: `**At the baptism** the Son is in the water, the Spirit descends as a dove, and the Father speaks from heaven: three at once, not one in three modes ([Matthew 3:16-17](https://www.biblegateway.com/passage/?search=Matthew+3%3A16-17&version=NIV))[^61][^4].
+      content: `**At the baptism** the Son is in the water, the Spirit descends as a dove, and the Father speaks from heaven: three at once, not one in three modes ([Matthew 3:16-17](https://www.biblegateway.com/passage/?search=Matthew+3%3A16-17&version=NIV))[^62][^4].
 
-**In the commission** the disciples baptise into "the name", singular, "of the Father and of the Son and of the Holy Spirit", one name held by three ([Matthew 28:19](https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=NIV))[^62][^15].
+**In the commission** the disciples baptise into "the name", singular, "of the Father and of the Son and of the Holy Spirit", one name held by three ([Matthew 28:19](https://www.biblegateway.com/passage/?search=Matthew+28%3A19&version=NIV))[^63][^15].
 
-**The Son claims what belongs to God.** John 8:58 has "before Abraham was born, I am", after which his hearers pick up stones[^63][^64]. John 10:30 has "I and the Father are one", and John 17:5 has the Son asking for the glory he shared before the world existed, which Isaiah 42:8 says God gives to no other[^65][^66].
+**The Son claims what belongs to God.** John 8:58 has "before Abraham was born, I am", after which his hearers pick up stones[^64][^65]. John 10:30 has "I and the Father are one", and John 17:5 has the Son asking for the glory he shared before the world existed, which Isaiah 42:8 says God gives to no other[^66][^67].
 
-**The Father calls the Son God.** Hebrews 1:8 quotes Psalm 45 as the Father addressing the Son: "Your throne, O God, will last for ever and ever"[^67][^64]. Colossians 2:9 says the fullness of deity lives in Christ bodily, and Titus 2:13 speaks of "our great God and Saviour, Jesus Christ"[^68][^69].
+**The Father calls the Son God.** Hebrews 1:8 quotes Psalm 45 as the Father addressing the Son: "Your throne, O God, will last for ever and ever"[^68][^65]. Colossians 2:9 says the fullness of deity lives in Christ bodily, and Titus 2:13 speaks of "our great God and Saviour, Jesus Christ"[^69][^70].
 
-**The Spirit is personal and distinct.** In John 14:16-17 the Son asks the Father to send another (*allos* (ἄλλος, another)) Advocate, often taken to mean another of the same kind, and John 14:26 and 16:13-14 describe the Spirit teaching, reminding and speaking[^70][^71].
+**The Spirit is personal and distinct.** In John 14:16-17 the Son asks the Father to send another (*allos* (ἄλλος, another)) Advocate, often taken to mean another of the same kind, and John 14:26 and 16:13-14 describe the Spirit teaching, reminding and speaking[^71][^72].
 
-**Triadic formulas appear without argument**, as settled practice rather than novelty: 2 Corinthians 13:14, 1 Peter 1:2, Ephesians 4:4-6 and 1 Corinthians 12:4-6[^72].
+**Triadic formulas appear without argument**, as settled practice rather than novelty: 2 Corinthians 13:14, 1 Peter 1:2, Ephesians 4:4-6 and 1 Corinthians 12:4-6[^73].
 
-The doctrine is not built on any single verse. It is what remains when three biblical commitments are held together without discarding any: there is one God, the Father and the Son and the Spirit are each addressed as God, and they are distinguished from one another in the same passages[^73].
+The doctrine is not built on any single verse. It is what remains when three biblical commitments are held together without discarding any: there is one God, the Father and the Son and the Spirit are each addressed as God, and they are distinguished from one another in the same passages[^74].
 
 **See also:** [Direct Claims to Divinity (Jesus' Claims)](/categories/jesus#section-direct-claims).
 `,
@@ -202,56 +202,57 @@ The doctrine is not built on any single verse. It is what remains when three bib
     "21. [Academic] SciELO South Africa - 'Historical development of trinitarian doctrine..' - Peer-reviewed study on early Trinitarian thought development. https://scielo.org.za/scielo.php?script=sci_arttext&pid=S2074-77052022000100073",
     "22. [Wikipedia] 'Trinitarianism in the Church Fathers.' https://en.wikipedia.org/wiki/Trinitarianism_in_the_Church_Fathers",
     "23. [Wikipedia] Trinitarian formula. The threefold name used in baptism and blessing. https://en.wikipedia.org/wiki/Trinitarian_formula",
-    "24. [Primary Source] New Advent, Church Fathers. Clement of Rome, Letter to the Corinthians. Chapter 46: one God, one Christ and one Spirit of grace. https://www.newadvent.org/fathers/1010.htm",
-    "25. [Academic] St. Andrew's Encounters in Theology - 'The Theology of the Council of Nicaea' - Scholarly article on the theological watershed moment of the Council of Nicaea (325 AD). https://www.saet.ac.uk/Christianity/TheTheologyoftheCouncilofNicaea",
-    "26. [Apologetics] Stand to Reason - 'The Doctrine of the Trinity at Nicaea and Chalcedon' - Explains that the councils produced 'biblically sound' doctrines, refining terms to defend the faith. https://www.str.org/w/the-doctrine-of-the-trinity-at-nicaea-and-chalcedon",
-    "27. [Primary Source] First Council of Constantinople 381. Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum02.htm",
-    "28. [Wikipedia] 'First Council of Constantinople.' https://en.wikipedia.org/wiki/First_Council_of_Constantinople",
-    "29. [Encyclopedia] Britannica - 'Arianism' - Overview of the heresy that denied the full divinity of Jesus Christ. https://www.britannica.com/topic/Arianism",
-    "30. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Arianism.' https://www.newadvent.org/cathen/01707c.htm",
-    "31. [Wikipedia] 'Arianism.' https://en.wikipedia.org/wiki/Arianism",
-    "32. [Apologetics] Catholic Answers - 'Sabellianism' - Detailed definition of Sabellianism (Modalism) and its condemnation by the early church. https://www.catholic.com/magazine/print-edition/sabellianism",
-    "33. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Monarchians.' https://www.newadvent.org/cathen/10448a.htm",
-    "34. [Primary Source] Tertullian, Against Praxeas. New Advent. https://www.newadvent.org/fathers/0317.htm",
-    "35. [Wikipedia] 'Monarchianism.' https://en.wikipedia.org/wiki/Monarchianism",
-    "36. [Wikipedia] 'Tertullian.' https://en.wikipedia.org/wiki/Tertullian",
-    "37. [Encyclopedia] Britannica - 'Nicene Creed' - Historical and doctrinal overview of the Nicene-Constantinopolitan Creed. https://www.britannica.com/topic/Nicene-Creed",
-    "38. [Wikipedia] Cappadocian Fathers. https://en.wikipedia.org/wiki/Cappadocian_Fathers",
-    "39. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'The Athanasian Creed.' https://www.newadvent.org/cathen/02033b.htm",
-    "40. [Wikipedia] 'Athanasian Creed.' https://en.wikipedia.org/wiki/Athanasian_Creed",
-    "41. [Christian Source] Youth Pastor Theologian - 'Is the Trinity Essential for Salvation?' - Discusses the relational nature of God and salvation. https://www.youthpastortheologian.com/blog/is-the-trinity-essential-for-salvation",
-    "42. [Commentary] Bible Hub. 'Commentaries on 1 Peter 1:2.' https://biblehub.com/commentaries/1_peter/1-2.htm",
-    "43. [Commentary] Bible Hub. 'Commentaries on Genesis 3:22.' https://biblehub.com/commentaries/genesis/3-22.htm",
-    "44. [Commentary] Bible Hub. 'Commentaries on Genesis 11:7.' https://biblehub.com/commentaries/genesis/11-7.htm",
-    "45. [Commentary] Bible Hub. 'Commentaries on Isaiah 6:8.' https://biblehub.com/commentaries/isaiah/6-8.htm",
-    "46. [Commentary] Bible Hub. 'Commentaries on Genesis 1:26.' https://biblehub.com/commentaries/genesis/1-26.htm",
-    "47. [Commentary] Bible Hub. 'Commentaries on Genesis 19:24.' https://biblehub.com/commentaries/genesis/19-24.htm",
-    "48. [Commentary] Bible Hub. 'Commentaries on Hosea 1:7.' https://biblehub.com/commentaries/hosea/1-7.htm",
-    "49. [Commentary] Bible Hub. 'Commentaries on Zechariah 12:10.' https://biblehub.com/commentaries/zechariah/12-10.htm",
-    "50. [Commentary] Bible Hub. 'Commentaries on John 19:31,' on the Roman practice of breaking the legs (crurifragium) to hasten death. https://biblehub.com/commentaries/john/19-31.htm",
-    "51. [Commentary] Bible Hub. 'Commentaries on Proverbs 30:4.' https://biblehub.com/commentaries/proverbs/30-4.htm",
-    "52. [Commentary] Bible Hub. 'Commentaries on Psalm 2:7.' https://biblehub.com/commentaries/psalms/2-7.htm",
-    "53. [Commentary] Bible Hub. 'Commentaries on Psalm 110:1.' https://biblehub.com/commentaries/psalms/110-1.htm",
-    "54. [Commentary] Bible Hub. 'Commentaries on Daniel 7:13.' https://biblehub.com/commentaries/daniel/7-13.htm",
-    "55. [Commentary] Bible Hub. 'Commentaries on Isaiah 9:6.' https://biblehub.com/commentaries/isaiah/9-6.htm",
-    "56. [Academic] TheTorah.com - 'The Slave Bible: For Slavery or Salvation?' - Analysis of the redacted Bible used to suppress slave revolts. https://www.thetorah.com/article/the-slave-bible-for-slavery-or-salvation",
-    "57. [Commentary] Bible Hub. 'Commentaries on Isaiah 48:16.' https://biblehub.com/commentaries/isaiah/48-16.htm",
-    "58. [Commentary] Bible Hub. 'Commentaries on Isaiah 63:10.' https://biblehub.com/commentaries/isaiah/63-10.htm",
-    "59. [Commentary] Bible Hub. 'Commentaries on Matthew 1:18,' on Matthew's use of the Septuagint text. https://biblehub.com/commentaries/matthew/1-18.htm",
-    "60. [Commentary] Bible Hub. 'Commentaries on Malachi 3:1.' https://biblehub.com/commentaries/malachi/3-1.htm",
-    "61. [Commentary] Bible Hub. 'Commentaries on Matthew 3:17.' https://biblehub.com/commentaries/matthew/3-17.htm",
-    "62. [Commentary] Bible Hub. 'Commentaries on Matthew 28:19.' https://biblehub.com/commentaries/matthew/28-19.htm",
-    "63. [Commentary] Bible Hub. 'Commentaries on John 8:58.' https://biblehub.com/commentaries/john/8-58.htm",
-    "64. [Apologetics] GotQuestions.org - Is Jesus God? 'Article providing a comprehensive answer, arguing Jesus claimed deity via His words and actions.' https://www.gotquestions.org/is-Jesus-God.html",
-    "65. [Commentary] Bible Hub. 'Commentaries on John 10:30.' https://biblehub.com/commentaries/john/10-30.htm",
-    "66. [Commentary] Bible Hub. 'Commentaries on John 17:5.' https://biblehub.com/commentaries/john/17-5.htm",
-    "67. [Commentary] Bible Hub. 'Commentaries on Hebrews 1:8.' https://biblehub.com/commentaries/hebrews/1-8.htm",
-    "68. [Commentary] Bible Hub. 'Commentaries on Colossians 2:9.' https://biblehub.com/commentaries/colossians/2-9.htm",
-    "69. [Commentary] Bible Hub. 'Commentaries on Titus 2:13.' https://biblehub.com/commentaries/titus/2-13.htm",
-    "70. [Commentary] Bible Hub. 'Commentaries on John 14:16.' https://biblehub.com/commentaries/john/14-16.htm",
-    "71. [Commentary] Bible Hub. 'Commentaries on John 16:13.' https://biblehub.com/commentaries/john/16-13.htm",
-    "72. [Commentary] Bible Hub. 'Commentaries on 2 Corinthians 13:14.' https://biblehub.com/commentaries/2_corinthians/13-14.htm",
-    "73. [Encyclopedia] New Advent, Catholic Encyclopedia. The Blessed Trinity. https://www.newadvent.org/cathen/15047a.htm"
+    "24. [Primary Source] The Didache. New Advent. https://www.newadvent.org/fathers/0714.htm",
+    "25. [Primary Source] New Advent, Church Fathers. Clement of Rome, Letter to the Corinthians. Chapter 46: one God, one Christ and one Spirit of grace. https://www.newadvent.org/fathers/1010.htm",
+    "26. [Academic] St. Andrew's Encounters in Theology - 'The Theology of the Council of Nicaea' - Scholarly article on the theological watershed moment of the Council of Nicaea (325 AD). https://www.saet.ac.uk/Christianity/TheTheologyoftheCouncilofNicaea",
+    "27. [Apologetics] Stand to Reason - 'The Doctrine of the Trinity at Nicaea and Chalcedon' - Explains that the councils produced 'biblically sound' doctrines, refining terms to defend the faith. https://www.str.org/w/the-doctrine-of-the-trinity-at-nicaea-and-chalcedon",
+    "28. [Primary Source] First Council of Constantinople 381. Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum02.htm",
+    "29. [Wikipedia] 'First Council of Constantinople.' https://en.wikipedia.org/wiki/First_Council_of_Constantinople",
+    "30. [Encyclopedia] Britannica - 'Arianism' - Overview of the heresy that denied the full divinity of Jesus Christ. https://www.britannica.com/topic/Arianism",
+    "31. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Arianism.' https://www.newadvent.org/cathen/01707c.htm",
+    "32. [Wikipedia] 'Arianism.' https://en.wikipedia.org/wiki/Arianism",
+    "33. [Apologetics] Catholic Answers - 'Sabellianism' - Detailed definition of Sabellianism (Modalism) and its condemnation by the early church. https://www.catholic.com/magazine/print-edition/sabellianism",
+    "34. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Monarchians.' https://www.newadvent.org/cathen/10448a.htm",
+    "35. [Primary Source] Tertullian, Against Praxeas. New Advent. https://www.newadvent.org/fathers/0317.htm",
+    "36. [Wikipedia] 'Monarchianism.' https://en.wikipedia.org/wiki/Monarchianism",
+    "37. [Wikipedia] 'Tertullian.' https://en.wikipedia.org/wiki/Tertullian",
+    "38. [Encyclopedia] Britannica - 'Nicene Creed' - Historical and doctrinal overview of the Nicene-Constantinopolitan Creed. https://www.britannica.com/topic/Nicene-Creed",
+    "39. [Wikipedia] Cappadocian Fathers. https://en.wikipedia.org/wiki/Cappadocian_Fathers",
+    "40. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'The Athanasian Creed.' https://www.newadvent.org/cathen/02033b.htm",
+    "41. [Wikipedia] 'Athanasian Creed.' https://en.wikipedia.org/wiki/Athanasian_Creed",
+    "42. [Christian Source] Youth Pastor Theologian - 'Is the Trinity Essential for Salvation?' - Discusses the relational nature of God and salvation. https://www.youthpastortheologian.com/blog/is-the-trinity-essential-for-salvation",
+    "43. [Commentary] Bible Hub. 'Commentaries on 1 Peter 1:2.' https://biblehub.com/commentaries/1_peter/1-2.htm",
+    "44. [Commentary] Bible Hub. 'Commentaries on Genesis 3:22.' https://biblehub.com/commentaries/genesis/3-22.htm",
+    "45. [Commentary] Bible Hub. 'Commentaries on Genesis 11:7.' https://biblehub.com/commentaries/genesis/11-7.htm",
+    "46. [Commentary] Bible Hub. 'Commentaries on Isaiah 6:8.' https://biblehub.com/commentaries/isaiah/6-8.htm",
+    "47. [Commentary] Bible Hub. 'Commentaries on Genesis 1:26.' https://biblehub.com/commentaries/genesis/1-26.htm",
+    "48. [Commentary] Bible Hub. 'Commentaries on Genesis 19:24.' https://biblehub.com/commentaries/genesis/19-24.htm",
+    "49. [Commentary] Bible Hub. 'Commentaries on Hosea 1:7.' https://biblehub.com/commentaries/hosea/1-7.htm",
+    "50. [Commentary] Bible Hub. 'Commentaries on Zechariah 12:10.' https://biblehub.com/commentaries/zechariah/12-10.htm",
+    "51. [Commentary] Bible Hub. 'Commentaries on John 19:31,' on the Roman practice of breaking the legs (crurifragium) to hasten death. https://biblehub.com/commentaries/john/19-31.htm",
+    "52. [Commentary] Bible Hub. 'Commentaries on Proverbs 30:4.' https://biblehub.com/commentaries/proverbs/30-4.htm",
+    "53. [Commentary] Bible Hub. 'Commentaries on Psalm 2:7.' https://biblehub.com/commentaries/psalms/2-7.htm",
+    "54. [Commentary] Bible Hub. 'Commentaries on Psalm 110:1.' https://biblehub.com/commentaries/psalms/110-1.htm",
+    "55. [Commentary] Bible Hub. 'Commentaries on Daniel 7:13.' https://biblehub.com/commentaries/daniel/7-13.htm",
+    "56. [Commentary] Bible Hub. 'Commentaries on Isaiah 9:6.' https://biblehub.com/commentaries/isaiah/9-6.htm",
+    "57. [Academic] TheTorah.com - 'The Slave Bible: For Slavery or Salvation?' - Analysis of the redacted Bible used to suppress slave revolts. https://www.thetorah.com/article/the-slave-bible-for-slavery-or-salvation",
+    "58. [Commentary] Bible Hub. 'Commentaries on Isaiah 48:16.' https://biblehub.com/commentaries/isaiah/48-16.htm",
+    "59. [Commentary] Bible Hub. 'Commentaries on Isaiah 63:10.' https://biblehub.com/commentaries/isaiah/63-10.htm",
+    "60. [Commentary] Bible Hub. 'Commentaries on Matthew 1:18,' on Matthew's use of the Septuagint text. https://biblehub.com/commentaries/matthew/1-18.htm",
+    "61. [Commentary] Bible Hub. 'Commentaries on Malachi 3:1.' https://biblehub.com/commentaries/malachi/3-1.htm",
+    "62. [Commentary] Bible Hub. 'Commentaries on Matthew 3:17.' https://biblehub.com/commentaries/matthew/3-17.htm",
+    "63. [Commentary] Bible Hub. 'Commentaries on Matthew 28:19.' https://biblehub.com/commentaries/matthew/28-19.htm",
+    "64. [Commentary] Bible Hub. 'Commentaries on John 8:58.' https://biblehub.com/commentaries/john/8-58.htm",
+    "65. [Apologetics] GotQuestions.org - Is Jesus God? 'Article providing a comprehensive answer, arguing Jesus claimed deity via His words and actions.' https://www.gotquestions.org/is-Jesus-God.html",
+    "66. [Commentary] Bible Hub. 'Commentaries on John 10:30.' https://biblehub.com/commentaries/john/10-30.htm",
+    "67. [Commentary] Bible Hub. 'Commentaries on John 17:5.' https://biblehub.com/commentaries/john/17-5.htm",
+    "68. [Commentary] Bible Hub. 'Commentaries on Hebrews 1:8.' https://biblehub.com/commentaries/hebrews/1-8.htm",
+    "69. [Commentary] Bible Hub. 'Commentaries on Colossians 2:9.' https://biblehub.com/commentaries/colossians/2-9.htm",
+    "70. [Commentary] Bible Hub. 'Commentaries on Titus 2:13.' https://biblehub.com/commentaries/titus/2-13.htm",
+    "71. [Commentary] Bible Hub. 'Commentaries on John 14:16.' https://biblehub.com/commentaries/john/14-16.htm",
+    "72. [Commentary] Bible Hub. 'Commentaries on John 16:13.' https://biblehub.com/commentaries/john/16-13.htm",
+    "73. [Commentary] Bible Hub. 'Commentaries on 2 Corinthians 13:14.' https://biblehub.com/commentaries/2_corinthians/13-14.htm",
+    "74. [Encyclopedia] New Advent, Catholic Encyclopedia. The Blessed Trinity. https://www.newadvent.org/cathen/15047a.htm"
   ],
   lastUpdated: "30-10-2026",
 }

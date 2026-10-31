@@ -52,9 +52,9 @@ Several arguments are offered for libertarian freedom, each carrying force and e
 
 **The argument from deliberation.** Every human being experiences weighing alternatives, predicting outcomes, and reaching decisions. That universal and persistent intuition provides prima facie evidence of real agency[^17]. Compatibilists accept that the experience is veridical while denying that it demonstrates libertarian freedom, since a compatibilist account predicts the same felt sense of deliberating[^18].
 
-**The argument from moral responsibility.** Praise and blame apply only to agents who could have done otherwise, which is why a falling rock is not held culpable for the damage it causes[^19]. Frankfurt-style cases were designed to challenge exactly this, presenting scenarios in which an agent seems responsible despite being unable to do otherwise, and the resulting literature remains unresolved[^20][^21].
+**The argument from moral responsibility.** Praise and blame apply only to agents who could have done otherwise, which is why a falling rock is not held culpable for the damage it causes[^19][^20]. Frankfurt-style cases were designed to challenge exactly this, presenting scenarios in which an agent seems responsible despite being unable to do otherwise, and the resulting literature remains unresolved[^21][^22].
 
-**The argument from creativity.** Composition and artistic expression bring something new into existence, which is difficult to reduce to mechanistic causes and reflects the creative freedom of the God in whose image humans are made[^22][^23].
+**The argument from creativity.** Composition and artistic expression bring something new into existence, which is difficult to reduce to mechanistic causes and reflects the creative freedom of the God in whose image humans are made[^23][^24].
 `
     },
     {
@@ -62,13 +62,13 @@ Several arguments are offered for libertarian freedom, each carrying force and e
       title: "Moral Responsibility and Accountability",
       tags: ["Philosophy"],
       content: `
-The most significant implication of free will concerns moral responsibility[^24][^20].
+The most significant implication of free will concerns moral responsibility[^20][^21].
 
 *   **Justice presupposes agency.** Human legal systems distinguish the culpable from the coerced and the sane from the incapacitated, distinctions that make sense only if some agents genuinely control their actions[^25].
 *   **Divine judgment presupposes it.** Scripture depicts God assessing thoughts, intentions and deliberate acts, judging with equity, which requires that the acts be genuinely the person's own[^26].
 *   **Final separation as ratification.** Eternal separation from God is widely read as the confirmation of a sustained and freely maintained rejection rather than an arbitrary sentence, a reading more natural on libertarian assumptions than on compatibilist ones[^27].
 
-Neither camp holds that humans are puppets. Compatibilists insist as strongly as libertarians that people act, deliberate and are rightly held responsible, and the disagreement concerns what makes that so[^28].
+Neither camp holds that humans are puppets. Compatibilists insist as strongly as libertarians that people act, deliberate and are rightly held responsible, and the disagreement concerns what makes that so[^28][^18].
 `
     },
     {
@@ -108,7 +108,7 @@ It is widely regarded as having succeeded against the logical problem of evil, w
       content: `
 This is the central disagreement within Christian theology, and both positions are held by serious orthodox theologians[^39][^40].
 
-**Libertarian free will** asserts that a choice is genuinely free only if, given identical prior circumstances and internal states, the agent could have chosen otherwise. Choices are not fully determined by prior causes, including divine decree[^41]. The principal objection is that a choice not determined by the agent's character and reasons appears random rather than authored, which is the luck objection and a serious difficulty for libertarian accounts[^42].
+**Libertarian free will** asserts that a choice is genuinely free only if, given identical prior circumstances and internal states, the agent could have chosen otherwise. Choices are not fully determined by prior causes, including divine decree[^41][^42]. The principal objection is that a choice not determined by the agent's character and reasons appears random rather than authored, which is the luck objection and a serious difficulty for libertarian accounts[^42].
 
 **Compatibilism** holds that a person acts freely when acting according to their own desires without external coercion, even if those desires were themselves determined. It is associated with the Reformed tradition and was defended in various forms by Francis Turretin and Jonathan Edwards, with Calvin often read the same way, though scholars debate whether his view fits the modern category[^43]. The principal objection is that if God determines the desires producing sinful choices, distancing God from the authorship of sin becomes difficult, and compatibilists answer with distinctions between primary and secondary causation and between permitting and causing[^44].
 
@@ -149,9 +149,9 @@ Scripture asserts both truths without resolving the mechanism, and the doctrine 
 *   **The cross.** Acts 2:23 holds together God's deliberate plan and foreknowledge and the culpability of those who carried out the execution in a single sentence, and Acts 4:27-28 states that they did what God's power and will had decided beforehand[^59].
 *   **Paul's instruction.** Believers are told to work out their own salvation with fear and trembling precisely because it is God who works in them to will and to act, so the human effort is grounded in divine working rather than opposed to it[^60].
 
-God is described as doing whatever pleases Him and as declaring the end from the beginning, while human beings are treated throughout as fully responsible agents whose choices have real effect[^61]. Concurrence holds that an action is entirely the agent's own and simultaneously entirely under God's providential governance, which describes what Scripture affirms rather than explaining how it operates[^30].
+God is described as doing whatever pleases Him and as declaring the end from the beginning, while human beings are treated throughout as fully responsible agents whose choices have real effect[^61][^62]. Concurrence holds that an action is entirely the agent's own and simultaneously entirely under God's providential governance, which describes what Scripture affirms rather than explaining how it operates[^30].
 
-Collapsing the tension in either direction carries practical cost. Fatalism breeds passivity, and a God whose purposes depend on human cooperation is not the God of Scripture. Holding both sustains urgent action alongside genuine rest[^62].
+Collapsing the tension in either direction carries practical cost. Fatalism breeds passivity, and a God whose purposes depend on human cooperation is not the God of Scripture. Holding both sustains urgent action alongside genuine rest[^63].
 
 **See also:** [Why Pray if God Already Has a Plan? (Prayer)](/categories/prayer#section-why-pray).
 `
@@ -177,11 +177,11 @@ Collapsing the tension in either direction carries practical cost. Fatalism bree
     "17. [Academic] Stanford Encyclopedia of Philosophy. Practical Reason. Deliberation as the exercise of rational agency. https://plato.stanford.edu/entries/practical-reason/",
     "18. [Academic] Stanford Encyclopedia of Philosophy. Compatibilism. The case that freedom and determinism are compatible. https://plato.stanford.edu/entries/compatibilism/",
     "19. [Wikipedia] Frankfurt cases (the principle of alternate possibilities). https://en.wikipedia.org/wiki/Frankfurt_cases",
-    "20. [Academic] 'Moral Responsibility and the Principle of Alternative Possibilities.' Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/alternative-possibilities/",
-    "21. [Wikipedia] 'Harry Frankfurt.' https://en.wikipedia.org/wiki/Harry_Frankfurt",
-    "22. [Primary Source] 'Communion and Stewardship: Human Persons Created in the Image of God, 2004.' Holy See. https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_en.html",
-    "23. [Wikipedia] 'Image of God.' https://en.wikipedia.org/wiki/Image_of_God",
-    "24. [Academic] Stanford Encyclopedia of Philosophy. Moral Responsibility. Conditions for praise and blame. https://plato.stanford.edu/entries/moral-responsibility/",
+    "20. [Academic] Stanford Encyclopedia of Philosophy. Moral Responsibility. Conditions for praise and blame. https://plato.stanford.edu/entries/moral-responsibility/",
+    "21. [Academic] 'Moral Responsibility and the Principle of Alternative Possibilities.' Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/alternative-possibilities/",
+    "22. [Wikipedia] 'Harry Frankfurt.' https://en.wikipedia.org/wiki/Harry_Frankfurt",
+    "23. [Primary Source] 'Communion and Stewardship: Human Persons Created in the Image of God, 2004.' Holy See. https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_en.html",
+    "24. [Wikipedia] 'Image of God.' https://en.wikipedia.org/wiki/Image_of_God",
     "25. [Wikipedia] Culpability. The legal standard tracking degrees of responsibility. https://en.wikipedia.org/wiki/Culpability",
     "26. [Commentary] Bible Hub. Romans 2:6 Commentaries. https://biblehub.com/commentaries/romans/2-6.htm",
     "27. [Academic] Stanford Encyclopedia of Philosophy. Heaven and Hell in Christian Thought (free will theodicies of hell). https://plato.stanford.edu/entries/heaven-hell/",
@@ -219,7 +219,8 @@ Collapsing the tension in either direction carries practical cost. Fatalism bree
     "59. [Lexicon] Bible Hub. Greek 4309, proorizo, the verb rendered predestine. https://biblehub.com/greek/4309.htm",
     "60. [Commentary] Bible Hub. 'Commentaries on Philippians 2:13.' https://biblehub.com/commentaries/philippians/2-13.htm",
     "61. [Wikipedia] Attributes of God in Christianity. The classical attributes and their scriptural basis. https://en.wikipedia.org/wiki/Attributes_of_God_in_Christianity",
-    "62. [Wikipedia] Fatalism. The position distinguished from providence, and its practical effect. https://en.wikipedia.org/wiki/Fatalism"
+    "62. [Commentary] Commentaries on Isaiah 46:10. Bible Hub. https://biblehub.com/commentaries/isaiah/46-10.htm",
+    "63. [Wikipedia] Fatalism. The position distinguished from providence, and its practical effect. https://en.wikipedia.org/wiki/Fatalism"
   ],
   lastUpdated: "30-10-2026"
 }

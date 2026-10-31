@@ -41,7 +41,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "the-law",
       title: "The Old Testament: The Law (Torah)",
       tags: ["Old Testament", "Law"],
-      content: `The Pentateuch establishes the covenant between God and Israel and lays the foundation for all later biblical theology[^15].
+      content: `The Pentateuch establishes the covenant between God and Israel and lays the foundation for all later biblical theology[^15][^16].
 
 
 ### Genesis
@@ -77,7 +77,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "historical-books",
       title: "Old Testament: Historical Books",
       tags: ["Old Testament", "History"],
-      content: `The historical books trace Israel from the conquest of Canaan through the monarchy, the exile and the return[^16].
+      content: `The historical books trace Israel from the conquest of Canaan through the monarchy, the exile and the return[^17].
 
 
 ### Joshua
@@ -146,7 +146,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "wisdom-literature",
       title: "Old Testament: Wisdom Literature",
       tags: ["Old Testament", "Wisdom"],
-      content: `The wisdom and poetic books address suffering, worship, prudence and the limits of human understanding[^17].
+      content: `The wisdom and poetic books address suffering, worship, prudence and the limits of human understanding[^18].
 
 
 ### Job
@@ -180,7 +180,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "major-prophets",
       title: "Old Testament: Major Prophets",
       tags: ["Old Testament", "Prophets"],
-      content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^18].
+      content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^19].
 
 
 ### Isaiah
@@ -214,7 +214,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "minor-prophets",
       title: "Old Testament: Minor Prophets",
       tags: ["Old Testament", "Prophets"],
-      content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^19].
+      content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^20].
 
 
 ### Hosea
@@ -283,7 +283,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "gospels-and-acts",
       title: "New Testament: The Gospels and Acts",
       tags: ["New Testament", "Gospels"],
-      content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^20][^21].
+      content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^21][^22].
 
 
 ### Matthew
@@ -319,7 +319,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "pauline-epistles",
       title: "New Testament: The Pauline Epistles",
       tags: ["New Testament", "Letters"],
-      content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^22].
+      content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^23].
 
 
 <?viz bible-books/letters-map?>
@@ -395,7 +395,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "general-epistles-and-revelation",
       title: "New Testament: General Epistles and Revelation",
       tags: ["New Testament", "Letters"],
-      content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^23].
+      content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^24].
 
 
 ### Hebrews
@@ -464,14 +464,15 @@ The Bible is a collection of 66 books written by more than forty authors across 
     "13. [Wikipedia] Second Epistle of Peter. Authorship and dating. https://en.wikipedia.org/wiki/Second_Epistle_of_Peter",
     "14. [Wikipedia] Gospel. Anonymity, traditional ascriptions and dating of the canonical gospels. https://en.wikipedia.org/wiki/Gospel",
     "15. [Wikipedia] Torah. The five books of Moses and their place in Jewish and Christian scripture. https://en.wikipedia.org/wiki/Torah",
-    "16. [Wikipedia] Historical books. Joshua through Esther in the Christian Old Testament. https://en.wikipedia.org/wiki/Historical_books",
-    "17. [Wikipedia] Poetic Books. Job, Psalms, Proverbs, Ecclesiastes and Song of Songs. https://en.wikipedia.org/wiki/Poetic_Books",
-    "18. [Wikipedia] Major prophet. Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. https://en.wikipedia.org/wiki/Major_prophet",
-    "19. [Wikipedia] Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
-    "20. [Encyclopedia] 'Synoptics.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/14389b.htm",
-    "21. [Wikipedia] 'Synoptic Gospels.' https://en.wikipedia.org/wiki/Synoptic_Gospels",
-    "22. [Wikipedia] Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
-    "23. [Wikipedia] Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
+    "16. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Pentateuch.' https://www.newadvent.org/cathen/11646c.htm",
+    "17. [Wikipedia] Historical books. Joshua through Esther in the Christian Old Testament. https://en.wikipedia.org/wiki/Historical_books",
+    "18. [Wikipedia] Poetic Books. Job, Psalms, Proverbs, Ecclesiastes and Song of Songs. https://en.wikipedia.org/wiki/Poetic_Books",
+    "19. [Wikipedia] Major prophet. Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. https://en.wikipedia.org/wiki/Major_prophet",
+    "20. [Wikipedia] Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
+    "21. [Encyclopedia] 'Synoptics.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/14389b.htm",
+    "22. [Wikipedia] 'Synoptic Gospels.' https://en.wikipedia.org/wiki/Synoptic_Gospels",
+    "23. [Wikipedia] Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
+    "24. [Wikipedia] Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
   ],
   lastUpdated: "30-10-2026"
 }

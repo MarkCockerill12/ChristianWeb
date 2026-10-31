@@ -128,7 +128,7 @@ NASA JPL's HORIZONS ephemeris system reconstructs planetary positions for any da
 <?viz nasa/star?>
 
 
-No candidate is conclusive. Matthew describes a star that went ahead of the Magi and stopped over a specific location, behaviour no conjunction, comet, nova or planet exhibits. Proposals include a supernova, a comet, a purely astrological interpretation, and a non-natural sign, each fitting parts of the account and straining others[^44].
+No candidate is conclusive. Matthew describes a star that went ahead of the Magi and stopped over a specific location, behaviour no conjunction, comet, nova or planet exhibits. Proposals include a supernova, a comet, a purely astrological interpretation, and a non-natural sign, each fitting parts of the account and straining others[^44][^42].
 
 The dating problem cuts both ways. The 2 BC option conflicts with the traditional dating of Herod's death to 4 BC, while the 7 BC option requires a longer journey. Presenting any one of these as the Star of Bethlehem overstates what the astronomy can settle[^45].
 
