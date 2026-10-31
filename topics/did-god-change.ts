@@ -28,10 +28,10 @@ This dichotomy has a name. Marcion of Sinope taught in the second century that t
       title: "Marcion and the Two Gods Proposal",
       tags: ["History"],
       content: `
-The two gods reading was formulated, tested, and rejected within the second century[^4].
+The two gods reading was formulated, tested, and rejected within the second century[^4][^5].
 
-*   **Marcion's position.** He distinguished the creator of the Hebrew scriptures, whom he regarded as just but harsh, from the previously unknown God of love revealed in Jesus. He assembled a canon consisting of an edited Luke and ten Pauline letters, removing the Jewish material[^5].
-*   **The church's response.** Marcion was excommunicated around AD 144. The controversy pressed the early church toward defining its own canon, one that deliberately retained the Hebrew scriptures and affirmed that the same God stood behind both testaments[^6].
+*   **Marcion's position.** He distinguished the creator of the Hebrew scriptures, whom he regarded as just but harsh, from the previously unknown God of love revealed in Jesus. He assembled a canon consisting of an edited Luke and ten Pauline letters, removing the Jewish material[^6].
+*   **The church's response.** Marcion was excommunicated around AD 144. The controversy pressed the early church toward defining its own canon, one that deliberately retained the Hebrew scriptures and affirmed that the same God stood behind both testaments[^5].
 *   **The method it required.** Sustaining the division forced Marcion to cut a great deal of Luke and Paul, which is itself evidence of how strongly the texts resist being separated in that way[^7].
 
 <?viz did-god-change/marcion?>
@@ -150,8 +150,8 @@ What changed was the covenant, the ceremonial apparatus, and the stage of revela
     "2. [Encyclopedia] Britannica. Marcion. Biography and the church's rejection of his teaching. https://www.britannica.com/biography/Marcion",
     "3. [Academic] Stanford Encyclopedia of Philosophy. Immutability. Academic treatment of the doctrine. https://plato.stanford.edu/entries/immutability/",
     "4. [Primary Source] New Advent, Church Fathers. Tertullian, Against Marcion. https://www.newadvent.org/fathers/0312.htm",
-    "5. [Wikipedia] Marcion of Sinope. https://en.wikipedia.org/wiki/Marcion_of_Sinope",
-    "6. [Wikipedia] Marcionism. https://en.wikipedia.org/wiki/Marcionism",
+    "5. [Wikipedia] Marcionism. https://en.wikipedia.org/wiki/Marcionism",
+    "6. [Wikipedia] Marcion of Sinope. https://en.wikipedia.org/wiki/Marcion_of_Sinope",
     "7. [Wikipedia] Gospel of Marcion. https://en.wikipedia.org/wiki/Gospel_of_Marcion",
     "8. [Commentary] Lawrence Farley, Orthodox Church in America. The God of the Old Testament. https://www.oca.org/reflections/fr.-lawrence-farley/the-god-of-the-old-testament",
     "9. [Wikipedia] Thirteen Attributes of Mercy. https://en.wikipedia.org/wiki/Thirteen_Attributes_of_Mercy",

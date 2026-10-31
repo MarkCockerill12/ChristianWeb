@@ -402,7 +402,7 @@ export const branches: Topic = {
 
       **Key Beliefs:**
 
-      • **Dyophysite Christology:** Traditionally described as "Nestorian," emphasizes two distinct natures (divine and human) in Christ[^44]
+      • **Dyophysite Christology:** Traditionally described as "Nestorian," emphasizes two distinct natures (divine and human) in Christ[^44][^43]
 
       • **Historical missions:** Once spread from the Middle East to China and India[^45][^46]
 
@@ -452,27 +452,27 @@ export const branches: Topic = {
       id: "Lutheran",
       title: "Lutheran",
       tags: ["Reformation"],
-      content: `**Founded:** c. 1517 AD (Martin Luther's Reformation)[^64]
+      content: `**Founded:** c. 1517 AD (Martin Luther's Reformation)[^64][^65]
 
       **Key Beliefs:**
 
-      • **Justification by faith alone:** Salvation by grace through faith, not works (sola fide)[^65][^66]
+      • **Justification by faith alone:** Salvation by grace through faith, not works (sola fide)[^66][^67]
 
-      • **Scripture alone:** Bible is the sole infallible authority (sola scriptura)[^19][^67]
+      • **Scripture alone:** Bible is the sole infallible authority (sola scriptura)[^19][^68]
 
-      • **Sacramental Union:** Christ is truly present "in, with, and under" the bread and wine; outsiders often call this consubstantiation, a term Lutheran theologians reject[^68][^69]
+      • **Sacramental Union:** Christ is truly present "in, with, and under" the bread and wine; outsiders often call this consubstantiation, a term Lutheran theologians reject[^69][^70]
 
-      • **Two sacraments:** Baptism and Communion as primary sacraments[^70][^71]
+      • **Two sacraments:** Baptism and Communion as primary sacraments[^71][^72]
 
-      • **Liturgical worship:** Maintains traditional liturgical structure (though varies)[^72]
+      • **Liturgical worship:** Maintains traditional liturgical structure (though varies)[^73]
 
-      • **Grace alone:** Salvation is entirely God's unmerited work (sola gratia)[^73]
+      • **Grace alone:** Salvation is entirely God's unmerited work (sola gratia)[^74]
 
-      • **Priesthood of all believers:** All Christians have direct access to God[^74][^19]
+      • **Priesthood of all believers:** All Christians have direct access to God[^75][^19]
 
-      **Distinctive Features:** Lutheran Confessions (Book of Concord, Augsburg Confession)[^75][^68], liturgical calendar, infant baptism[^71][^76].
+      **Distinctive Features:** Lutheran Confessions (Book of Concord, Augsburg Confession)[^76][^69], liturgical calendar, infant baptism[^72][^65].
 
-      **Major Bodies:** Lutheran World Federation, Lutheran Church-Missouri Synod, Wisconsin Evangelical Lutheran Synod[^77]`,
+      **Major Bodies:** Lutheran World Federation, Lutheran Church-Missouri Synod, Wisconsin Evangelical Lutheran Synod[^77][^65]`,
     },
     {
       id: "Reformed/Presbyterian",
@@ -546,7 +546,7 @@ export const branches: Topic = {
 
       • **Book of Common Prayer:** Structured liturgical worship[^110][^111]
 
-      • **Three-legged stool:** Scripture, tradition, and reason as authorities[^69][^107]
+      • **Three-legged stool:** Scripture, tradition, and reason as authorities[^70][^107]
 
       • **Broad spectrum:** Includes high church (Anglo-Catholic), low church (Evangelical), and broad church traditions[^112][^113]
 
@@ -596,19 +596,19 @@ export const branches: Topic = {
 
       • **Arminian soteriology:** Humans have free will to accept or reject salvation[^137]
 
-      • **Social holiness:** Personal holiness must lead to social action and justice[^138]
+      • **Social holiness:** Personal holiness must lead to social action and justice[^138][^139]
 
-      • **Perfectionism:** Christians can achieve "Christian perfection" (sanctification) in this life[^139][^134]
+      • **Perfectionism:** Christians can achieve "Christian perfection" (sanctification) in this life[^140][^134]
 
-      • **Means of grace:** Emphasizes spiritual growth through scripture, sacraments, prayer, and fellowship[^140]
+      • **Means of grace:** Emphasizes spiritual growth through scripture, sacraments, prayer, and fellowship[^141]
 
-      • **Methodist quadrilateral:** Authority based on Scripture (primary), tradition, reason, and experience[^141][^142]
+      • **Methodist quadrilateral:** Authority based on Scripture (primary), tradition, reason, and experience[^142][^143]
 
-      • **Social justice:** Strong emphasis on helping the poor and marginalized[^143]
+      • **Social justice:** Strong emphasis on helping the poor and marginalized[^144]
 
-      **Historical Impact:** Abolition movement, temperance, civil rights[^144][^145]
+      **Historical Impact:** Abolition movement, temperance, civil rights[^139][^145]
 
-      **Major Bodies:** United Methodist Church, Free Methodist, African Methodist Episcopal Church (AME)[^146]`,
+      **Major Bodies:** United Methodist Church, Free Methodist, African Methodist Episcopal Church (AME)[^146][^139]`,
     },
     {
       id: "Pentecostal",
@@ -632,7 +632,7 @@ export const branches: Topic = {
 
       • **Evangelistic fervor:** Strong emphasis on missions and church planting[^124][^158]
 
-      **Global Movement:** One of the fastest-growing Christian movements worldwide[^159]
+      **Global Movement:** One of the fastest-growing Christian movements worldwide[^159][^157]
 
       **Major Bodies:** Assemblies of God, Church of God in Christ, Foursquare Church[^160][^156]`,
     },
@@ -792,7 +792,7 @@ export const branches: Topic = {
       id: "moravian",
       title: "Moravian Church (Unitas Fratrum)",
       tags: ["Pre-Reformation"],
-      content: `**Founded:** 1457 AD (Bohemian Reformation, inspired by Jan Hus)[^227]
+      content: `**Founded:** 1457 AD (Bohemian Reformation, inspired by Jan Hus)[^227][^228]
 
       **Key Beliefs:**
 
@@ -800,7 +800,7 @@ export const branches: Topic = {
 
       • **Herrnhut Revival:** Renewed in 1727 under Count Zinzendorf, leading to a famous 100-year continuous prayer vigil[^229]
 
-      • **Global Missions:** Pioneered modern Protestant foreign missions, sending missionaries worldwide in the 18th century[^230]
+      • **Global Missions:** Pioneered modern Protestant foreign missions, sending missionaries worldwide in the 18th century[^230][^227]
 
       **Distinctive Features:** Often described as the oldest Protestant denomination still in existence, and known for adopting the motto "In essentials unity, in non-essentials liberty, in all things charity", which originated with the 17th-century Lutheran writer Rupertus Meldenius[^231].`,
     },
@@ -887,18 +887,18 @@ export const branches: Topic = {
     "62. [Christian Source] World Council of Churches. 'Eastern Orthodox Churches.' https://www.oikoumene.org/church-families/orthodox-churches-eastern",
     "63. [Primary Source] OCA. 'Worship.' https://www.oca.org/orthodoxy/the-orthodox-faith/worship",
     "64. [Encyclopedia] World History Encyclopedia - Protestant Reformation. 'Overview of Reformation movements.' https://www.worldhistory.org/Protestant_Reformation",
-    "65. [Encyclopedia] Britannica - Justification. 'Theological doctrine of justification by faith.' https://www.britannica.com/topic/justification-Christianity",
-    "66. [Primary Source] Schaff, Creeds of Christendom. 'The Augsburg Confession, A.D. 1530.' https://www.ccel.org/ccel/schaff/creeds3.iii.ii.html",
-    "67. [Wikipedia] 'Sola scriptura.' https://en.wikipedia.org/wiki/Sola_scriptura",
-    "68. [Primary Source] Schaff, Creeds of Christendom. 'The Formula of Concord, A.D. 1576.' https://www.ccel.org/ccel/schaff/creeds3.iii.iv.html",
-    "69. [Wikipedia] Anglican doctrine. https://en.wikipedia.org/wiki/Anglican_doctrine",
-    "70. [Primary Source] Schaff, Creeds of Christendom. 'Luther's Small Catechism, A.D. 1529.' https://www.ccel.org/ccel/schaff/creeds3.iii.iii.html",
-    "71. [Reference] World Council of Churches. 'Lutheran churches.' https://www.oikoumene.org/church-families/lutheran-churches",
-    "72. [Wikipedia] Divine Service (Lutheran). https://en.wikipedia.org/wiki/Divine_Service_(Lutheran)",
-    "73. [Wikipedia] Sola gratia. https://en.wikipedia.org/wiki/Sola_gratia",
-    "74. [Wikipedia] Priesthood of all believers. https://en.wikipedia.org/wiki/Universal_priesthood",
-    "75. [Primary Source] Schaff, Creeds of Christendom. 'The Lutheran Confessions.' https://www.ccel.org/ccel/schaff/creeds1.viii.i.html",
-    "76. [Wikipedia] 'Lutheranism.' https://en.wikipedia.org/wiki/Lutheranism",
+    "65. [Wikipedia] 'Lutheranism.' https://en.wikipedia.org/wiki/Lutheranism",
+    "66. [Encyclopedia] Britannica - Justification. 'Theological doctrine of justification by faith.' https://www.britannica.com/topic/justification-Christianity",
+    "67. [Primary Source] Schaff, Creeds of Christendom. 'The Augsburg Confession, A.D. 1530.' https://www.ccel.org/ccel/schaff/creeds3.iii.ii.html",
+    "68. [Wikipedia] 'Sola scriptura.' https://en.wikipedia.org/wiki/Sola_scriptura",
+    "69. [Primary Source] Schaff, Creeds of Christendom. 'The Formula of Concord, A.D. 1576.' https://www.ccel.org/ccel/schaff/creeds3.iii.iv.html",
+    "70. [Wikipedia] Anglican doctrine. https://en.wikipedia.org/wiki/Anglican_doctrine",
+    "71. [Primary Source] Schaff, Creeds of Christendom. 'Luther's Small Catechism, A.D. 1529.' https://www.ccel.org/ccel/schaff/creeds3.iii.iii.html",
+    "72. [Reference] World Council of Churches. 'Lutheran churches.' https://www.oikoumene.org/church-families/lutheran-churches",
+    "73. [Wikipedia] Divine Service (Lutheran). https://en.wikipedia.org/wiki/Divine_Service_(Lutheran)",
+    "74. [Wikipedia] Sola gratia. https://en.wikipedia.org/wiki/Sola_gratia",
+    "75. [Wikipedia] Priesthood of all believers. https://en.wikipedia.org/wiki/Universal_priesthood",
+    "76. [Primary Source] Schaff, Creeds of Christendom. 'The Lutheran Confessions.' https://www.ccel.org/ccel/schaff/creeds1.viii.i.html",
     "77. [Wikipedia] List of Lutheran denominations. https://en.wikipedia.org/wiki/List_of_Lutheran_denominations",
     "78. [Wikipedia] 'Reformed Christianity.' https://en.wikipedia.org/wiki/Reformed_Christianity",
     "79. [Primary Source] Schaff, Creeds of Christendom. 'The Westminster Shorter Catechism, A.D. 1647.' https://www.ccel.org/ccel/schaff/creeds3.iv.xviii.html",
@@ -961,12 +961,12 @@ export const branches: Topic = {
     "136. [Academic] Rutherford. Prevenient Grace: An Investigation into Arminianism. 2020. https://doi.org/10.60080/abac3913",
     "137. [Primary Source] Schaff, Creeds of Christendom. 'The Five Arminian Articles, A.D. 1610.' https://www.ccel.org/ccel/schaff/creeds3.iv.xv.html",
     "138. [Primary Source] UMC. 'Our Wesleyan Heritage.' https://www.umc.org/en/content/our-wesleyan-heritage",
-    "139. [Academic] Tyson. / Christian Perfection and Its Pretenders. Charles Wesley, 2000. https://doi.org/10.1093/oso/9780195134858.003.0011",
-    "140. [Wikipedia] Means of grace. https://en.wikipedia.org/wiki/Means_of_grace",
-    "141. [Academic] Cosby. Using the Wesleyan Quadrilateral to Teach Biblical Studies in Christian Liberal Arts Colleges. Teaching Theology & Religion, 2001. https://doi.org/10.1111/1467-9647.00097",
-    "142. [Wikipedia] 'Wesleyan Quadrilateral.' https://en.wikipedia.org/wiki/Wesleyan_Quadrilateral",
-    "143. [Primary Source] United Methodist General Board of Church and Society. 'United Methodist Social Principles (2024).' https://www.umcjustice.org/documents/124",
-    "144. [Wikipedia] Methodism. https://en.wikipedia.org/wiki/Methodism",
+    "139. [Wikipedia] Methodism. https://en.wikipedia.org/wiki/Methodism",
+    "140. [Academic] Tyson. / Christian Perfection and Its Pretenders. Charles Wesley, 2000. https://doi.org/10.1093/oso/9780195134858.003.0011",
+    "141. [Wikipedia] Means of grace. https://en.wikipedia.org/wiki/Means_of_grace",
+    "142. [Academic] Cosby. Using the Wesleyan Quadrilateral to Teach Biblical Studies in Christian Liberal Arts Colleges. Teaching Theology & Religion, 2001. https://doi.org/10.1111/1467-9647.00097",
+    "143. [Wikipedia] 'Wesleyan Quadrilateral.' https://en.wikipedia.org/wiki/Wesleyan_Quadrilateral",
+    "144. [Primary Source] United Methodist General Board of Church and Society. 'United Methodist Social Principles (2024).' https://www.umcjustice.org/documents/124",
     "145. [Academic] Abraham. The impact of Methodism. Methodism: A Very Short Introduction, 2019. https://doi.org/10.1093/actrade/9780198802310.003.0007",
     "146. [Wikipedia] List of Methodist denominations. https://en.wikipedia.org/wiki/List_of_Methodist_denominations",
     "147. [Academic] Stephen C. Dove. Hymnody and Liturgy in the Azusa Street Revival, 1906-1908. Pneuma, 2009. https://doi.org/10.1163/027209609x12470371387840",

@@ -81,7 +81,7 @@ The doctrine does not teach three Gods (tritheism) nor one person in three modes
       tags: ["Objections"],
       content: `**Objection: "Trinity is a logical contradiction"**
 
-Response: The Trinity is not 1+1+1=1, but rather one What (divine essence) in three Whos (persons)[^14]. It is not contradictory because the claim of unity and threeness are not made in the same sense[^2]. The Trinity is a mystery (beyond full human understanding) but not a contradiction (a logical impossibility)[^15].
+Response: The Trinity is not 1+1+1=1, but rather one What (divine essence) in three Whos (persons)[^14]. It is not contradictory because the claim of unity and threeness are not made in the same sense[^2][^15]. The Trinity is a mystery (beyond full human understanding) but not a contradiction (a logical impossibility)[^15].
 
 
 **Objection: "The word 'Trinity' isn't in the Bible"**

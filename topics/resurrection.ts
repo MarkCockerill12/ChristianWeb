@@ -132,9 +132,9 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 • **Diocletian's Persecution:** The most widespread and severe persecution occurred under Emperor Diocletian in the early 4th century, beginning in 303 AD, involving the destruction of churches, confiscation of scriptures, torture, and executions of Christians[^61][^62].
 
-• **Edict of Toleration:** Galerius's Edict of Toleration in 311 AD granted Christians the right to practise their religion. Maximinus Daia resumed persecution in the East, and it ended only after the agreement of Constantine and Licinius at Milan in 313[^63].
+• **Edict of Toleration:** Galerius's Edict of Toleration in 311 AD granted Christians the right to practise their religion. Maximinus Daia resumed persecution in the East, and it ended only after the agreement of Constantine and Licinius at Milan in 313[^63][^57].
 
-• **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^64].
+• **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^64][^57].
 
 <?viz resurrection/persecution?>
 

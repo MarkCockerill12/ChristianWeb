@@ -85,7 +85,7 @@ No Mithraic myth of the god's death or rising is known, and Mithras was not beli
 
 ### The Sacred Meal
 
-The one real overlap is a ritual meal. Justin Martyr, writing in the mid-second century, complained that "the wicked devils have imitated" the Lord's Supper "in the mysteries of Mithras", in which "bread and a cup of water are placed with certain incantations in the mystic rites"[^23]. Paul had described the Lord's Supper a century earlier (1 Corinthians 11:23-26), before Roman Mithraism is attested. If one group influenced the other, the dates do not favour the Mithraists, and a shared culture of sacred meals explains both.
+The one real overlap is a ritual meal. Justin Martyr, writing in the mid-second century, complained that "the wicked devils have imitated" the Lord's Supper "in the mysteries of Mithras", in which "bread and a cup of water are placed with certain incantations in the mystic rites"[^23][^21]. Paul had described the Lord's Supper a century earlier (1 Corinthians 11:23-26), before Roman Mithraism is attested. If one group influenced the other, the dates do not favour the Mithraists, and a shared culture of sacred meals explains both.
 
 <?viz pagan-origins/tauroctony?>
 

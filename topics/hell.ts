@@ -31,15 +31,15 @@ Hell is often pictured as a furnace ruled by the devil, where the damned are tor
       title: "Sheol, Hades, Tartarus, Gehenna: The Words Behind \"Hell\"",
       tags: ["Scripture"],
       content: `
-The word "hell" appears 54 times in the King James Version, which uses it for several different Hebrew and Greek terms. Modern translations use it far less, rendering Sheol and Hades as "the grave" or "the realm of the dead" or leaving them untranslated[^3]. In the Old Testament, Sheol is primarily the grave or the place of the dead, not a place of punishment[^4][^5][^6].
+The word "hell" appears 54 times in the King James Version, which uses it for several different Hebrew and Greek terms. Modern translations use it far less, rendering Sheol and Hades as "the grave" or "the realm of the dead" or leaving them untranslated[^3][^4]. In the Old Testament, Sheol is primarily the grave or the place of the dead, not a place of punishment[^5][^6][^7].
 
 
 
-*   **Hades:** The Greek equivalent of Sheol, used in the New Testament for the intermediate, temporary state of the dead awaiting final judgment[^7][^8].
+*   **Hades:** The Greek equivalent of Sheol, used in the New Testament for the intermediate, temporary state of the dead awaiting final judgment[^8][^9].
 
-*   **Tartarus:** Mentioned once, as a verb, in [2 Peter 2:4](https://www.biblegateway.com/passage/?search=2+Peter+2%3A4&version=NIV), for the place where fallen angels are kept in chains of darkness until judgment day[^9][^10].
+*   **Tartarus:** Mentioned once, as a verb, in [2 Peter 2:4](https://www.biblegateway.com/passage/?search=2+Peter+2%3A4&version=NIV), for the place where fallen angels are kept in chains of darkness until judgment day[^10][^11].
 
-*   **Gehenna:** The primary word Jesus uses for final punishment[^11][^12]. Its name derives from the *Valley of Hinnom* south of Jerusalem, the site of child sacrifices to Molech ([Jeremiah 7:31](https://www.biblegateway.com/passage/?search=Jeremiah+7:31&version=NIV)). It was defiled by King Josiah (2 Kings 23:10), and Jeremiah pronounced it a future "Valley of Slaughter" filled with corpses (Jeremiah 7:32-33). The popular claim that it was the city's burning rubbish dump in Jesus' day is first found in Rabbi David Kimhi around AD 1200 and has no archaeological or earlier literary support[^13]. Jesus' imagery draws instead on the valley's history of idolatry and judgment and on Isaiah 66:24, where the worm does not die and the fire is not quenched.
+*   **Gehenna:** The primary word Jesus uses for final punishment[^12][^13]. Its name derives from the *Valley of Hinnom* south of Jerusalem, the site of child sacrifices to Molech ([Jeremiah 7:31](https://www.biblegateway.com/passage/?search=Jeremiah+7:31&version=NIV)). It was defiled by King Josiah (2 Kings 23:10), and Jeremiah pronounced it a future "Valley of Slaughter" filled with corpses (Jeremiah 7:32-33). The popular claim that it was the city's burning rubbish dump in Jesus' day is first found in Rabbi David Kimhi around AD 1200 and has no archaeological or earlier literary support[^4]. Jesus' imagery draws instead on the valley's history of idolatry and judgment and on Isaiah 66:24, where the worm does not die and the fire is not quenched.
 
 <?viz hell/hinnom?>
 
@@ -124,9 +124,9 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 
 **How the traditions combine the two.**
 
-*   **Catholic.** The Catechism calls hell a "state of definitive self-exclusion from communion with God", entered "by our own free choice", and in the same passage speaks of "the punishments of hell, 'eternal fire'", adding that "the chief punishment of hell is eternal separation from God"[^64]. Separation is therefore the punishment, not an alternative to it.
-*   **Reformed.** The Westminster Confession (1646) says the wicked "shall be cast into eternal torments, and be punished with everlasting destruction from the presence of the Lord, and from the glory of his power", combining the penal and the relational in a single sentence[^65].
-*   **Orthodox.** Many Orthodox theologians teach that there is no place where God is absent; the same presence of God is experienced as joy by those who love him and as torment by those who hate him[^66]. Isaac the Syrian (7th century) wrote that "those who are punished in Gehenna are scourged by the scourge of love"; Isaac himself also hoped for the eventual restoration of all, which is not Orthodox doctrine[^67][^68].
+*   **Catholic.** The Catechism calls hell a "state of definitive self-exclusion from communion with God", entered "by our own free choice", and in the same passage speaks of "the punishments of hell, 'eternal fire'", adding that "the chief punishment of hell is eternal separation from God"[^64][^65]. Separation is therefore the punishment, not an alternative to it.
+*   **Reformed.** The Westminster Confession (1646) says the wicked "shall be cast into eternal torments, and be punished with everlasting destruction from the presence of the Lord, and from the glory of his power", combining the penal and the relational in a single sentence[^66][^65].
+*   **Orthodox.** Many Orthodox theologians teach that there is no place where God is absent; the same presence of God is experienced as joy by those who love him and as torment by those who hate him[^65]. Isaac the Syrian (7th century) wrote that "those who are punished in Gehenna are scourged by the scourge of love"; Isaac himself also hoped for the eventual restoration of all, which is not Orthodox doctrine[^67][^68].
 *   **C. S. Lewis.** Lewis emphasised the chosen character of hell, writing in *The Problem of Pain* that the doors of hell are "locked on the inside", while still describing it as God's judgment[^69].
 
 **The answer.** Hell is not a mere natural byproduct that God only watches happen, nor a torture unrelated to the sin that leads to it. The person who rejects God receives the separation they chose, and that separation is also the sentence God passes as judge. Jesus locates the final authority with God himself: "fear him who can destroy both soul and body in hell" (Matthew 10:28)[^70][^71].`
@@ -151,7 +151,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
 **Does God inflict the suffering, or does it follow from the separation?** Scripture is clear that God is the judge who passes the sentence. Jesus says to fear the one who "has authority to cast into hell" (Luke 12:5); Paul says that "God considers it just to repay with affliction" those who afflict his people (2 Thessalonians 1:6); and "it is a fearful thing to fall into the hands of the living God" (Hebrews 10:31)[^90][^91][^92]. Scripture says much less about how the suffering itself comes about, and Christians answer differently.
 
 *   **Active punishment.** Many theologians in the Augustinian and Reformed traditions hold that God positively punishes as well as withdrawing his favour. Aquinas taught that besides the loss of God the damned suffer a "pain of sense" that belongs to divine justice, with created things such as fire as its instruments, and Jonathan Edwards preached that the wicked are held back from the pit only by the hand of God[^93][^94][^95].
-*   **Consequence of separation.** Others emphasise that the suffering is what existence cut off from every good is like: the self turned in on itself, with its sin, regret and hostility to God unchecked. C. S. Lewis's doors "locked on the inside" and Tim Keller's description of hell as "one's freely chosen identity apart from God on a trajectory into infinity" belong here, as does the Orthodox picture of God's presence experienced as torment by those who hate him[^96]. In the story of the rich man, he is "in torment" and "in anguish in this flame" (Luke 16:23-24), but no tormentor is mentioned[^97][^7].
+*   **Consequence of separation.** Others emphasise that the suffering is what existence cut off from every good is like: the self turned in on itself, with its sin, regret and hostility to God unchecked. C. S. Lewis's doors "locked on the inside" and Tim Keller's description of hell as "one's freely chosen identity apart from God on a trajectory into infinity" belong here, as does the Orthodox picture of God's presence experienced as torment by those who hate him[^96]. In the story of the rich man, he is "in torment" and "in anguish in this flame" (Luke 16:23-24), but no tormentor is mentioned[^97][^8].
 *   **Held together.** Most traditional statements combine the two. The Catholic Catechism calls separation from God the "chief punishment" of hell, so that the loss itself is the heart of the penalty, and treats that separation as both chosen by the sinner and pronounced by God. On all of these views the suffering is judicial, not cruel. God says "I have no pleasure in the death of the wicked" (Ezekiel 33:11) and "does not afflict from his heart" (Lamentations 3:33); no demons torment anyone; and the suffering is proportioned to guilt[^98][^99].
 
 **The "life with God or life apart from God" argument still stands.** The choice set before every person is real, but it concerns relationship, not location. Eternal life is defined as knowing God (John 17:3), and its fulfilment is that "the dwelling place of God is with man" and "they will see his face" (Revelation 21:3; 22:4)[^100][^101][^102]. Hell is the opposite: existence still under God's rule and judgment, but with his face turned away and every good gift withdrawn. It is therefore accurate to say that the lost are separated from God, provided "separated" carries its biblical meaning, the loss of his favour and fellowship rather than an escape from his reach. It is equally accurate to say that hell is more than separation, because the one who excludes is God the judge (Matthew 25:41). Described only as God's absence, hell would lose the element of judgment that runs through Jesus' teaching. Described only as punishment, it would leave out the relational loss at the centre of the biblical picture, since what the gospel offers is God himself.`
@@ -246,16 +246,16 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     "1. [Academic] Stanford Encyclopedia of Philosophy. 'Heaven and Hell in Christian Thought.' https://plato.stanford.edu/entries/heaven-hell/",
     "2. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Hell.' https://www.newadvent.org/cathen/07207a.htm",
     "3. [Commentary] Tentmaker. KJV hell count: the King James Version uses 'hell' 54 times for Sheol, Hades, Gehenna and Tartarus. https://tentmaker.org/articles/Hell_is_Leaving_the_Bible_Forever.html",
-    "4. [Encyclopedia] Jewish Encyclopedia (1906). 'Sheol.' https://www.jewishencyclopedia.com/articles/13563-sheol",
-    "5. [Primary Source] Sefaria. 'Sheol Below and Gehenna Flames.' Jewish texts on the terminology. https://www.sefaria.org/sheets/135611",
-    "6. [Wikipedia] 'Sheol.' https://en.wikipedia.org/wiki/Sheol",
-    "7. [Commentary] Logos Sermons. 'Where Do the Spirits of Believers Go After Death?' Hades as the intermediate state. https://sermons.logos.com/sermons/231488-where-do-the-spirits-of-believers-go-after-death",
-    "8. [Wikipedia] 'Intermediate state.' https://en.wikipedia.org/wiki/Intermediate_state",
-    "9. [Commentary] ESV.org. '2 Peter 2:4.' https://www.esv.org/verses/2+Peter+2:4/",
-    "10. [Wikipedia] 'Tartarus.' Its single use in 2 Peter. https://en.wikipedia.org/wiki/Tartarus",
-    "11. [Apologetics] GotQuestions.org. 'What is Gehenna?' https://www.gotquestions.org/Gehenna.html",
-    "12. [Commentary] Bible Study Tools. 'What Is Gehenna? Is It the Same as Hell in the Bible?' https://www.biblestudytools.com/bible-study/topical-studies/what-does-gehenna-mean-in-the-bible.html",
-    "13. [Wikipedia] 'Gehenna.' History of the valley and the medieval origin of the rubbish-dump explanation. https://en.wikipedia.org/wiki/Gehenna",
+    "4. [Wikipedia] 'Gehenna.' History of the valley and the medieval origin of the rubbish-dump explanation. https://en.wikipedia.org/wiki/Gehenna",
+    "5. [Encyclopedia] Jewish Encyclopedia (1906). 'Sheol.' https://www.jewishencyclopedia.com/articles/13563-sheol",
+    "6. [Primary Source] Sefaria. 'Sheol Below and Gehenna Flames.' Jewish texts on the terminology. https://www.sefaria.org/sheets/135611",
+    "7. [Wikipedia] 'Sheol.' https://en.wikipedia.org/wiki/Sheol",
+    "8. [Commentary] Logos Sermons. 'Where Do the Spirits of Believers Go After Death?' Hades as the intermediate state. https://sermons.logos.com/sermons/231488-where-do-the-spirits-of-believers-go-after-death",
+    "9. [Wikipedia] 'Intermediate state.' https://en.wikipedia.org/wiki/Intermediate_state",
+    "10. [Commentary] ESV.org. '2 Peter 2:4.' https://www.esv.org/verses/2+Peter+2:4/",
+    "11. [Wikipedia] 'Tartarus.' Its single use in 2 Peter. https://en.wikipedia.org/wiki/Tartarus",
+    "12. [Apologetics] GotQuestions.org. 'What is Gehenna?' https://www.gotquestions.org/Gehenna.html",
+    "13. [Commentary] Bible Study Tools. 'What Is Gehenna? Is It the Same as Hell in the Bible?' https://www.biblestudytools.com/bible-study/topical-studies/what-does-gehenna-mean-in-the-bible.html",
     "14. [Wikipedia] 'Lake of fire.' https://en.wikipedia.org/wiki/Lake_of_fire",
     "15. [Academic] Woodington. Crafting the Eschaton: The Second Death and the Lake of Fire in Revelation. Journal for the Study of the New Testament, 2019. https://doi.org/10.1177/0142064x19832204",
     "16. [Commentary] OpenBible.info. 'What Does the Bible Say About Wailing and Gnashing of Teeth?' https://www.openbible.info/topics/wailing_and_gnashing_of_teeth",
@@ -307,8 +307,8 @@ The offer set against hell is God himself. Salvation does not depend on merit or
     "62. [Commentary] Bible Hub. 'Commentaries on Psalm 139:8.' https://biblehub.com/commentaries/psalms/139-8.htm",
     "63. [Commentary] Bible Hub. 'Commentaries on Revelation 14:10.' https://biblehub.com/commentaries/revelation/14-10.htm",
     "64. [Primary Source] Holy See. Catechism of the Catholic Church, paragraphs 1033-1037, 'Hell.' https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_12/iv_hell.html",
-    "65. [Primary Source] Orthodox Presbyterian Church. Westminster Confession of Faith (1646), chapter 33.2. https://www.opc.org/wcf.html",
-    "66. [Wikipedia] 'Hell in Christianity.' Eastern Orthodox views of hell as the experience of God's presence. https://en.wikipedia.org/wiki/Christian_views_on_hell",
+    "65. [Wikipedia] 'Hell in Christianity.' Eastern Orthodox views of hell as the experience of God's presence. https://en.wikipedia.org/wiki/Christian_views_on_hell",
+    "66. [Primary Source] Orthodox Presbyterian Church. Westminster Confession of Faith (1646), chapter 33.2. https://www.opc.org/wcf.html",
     "67. [Christian Source] Aidan Kimel, Eclectic Orthodoxy. 'St Isaac the Syrian: Hell and the Scourge of Divine Love.' https://afkimel.wordpress.com/2013/03/19/st-isaac-the-syrian-the-hellish-scourge-of-divine-love/",
     "68. [Wikipedia] 'Isaac the Syrian.' His hope of universal salvation. https://en.wikipedia.org/wiki/Isaac_of_Nineveh",
     "69. [Apologetics] C.S. Lewis Institute. 'C.S. Lewis on Heaven and Hell.' Quotes The Problem of Pain on the doors of hell. https://www.cslewisinstitute.org/resources/c-s-lewis-on-heaven-and-hell/",

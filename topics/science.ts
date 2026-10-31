@@ -171,15 +171,15 @@ A stronger claim than bare compatibility is also defensible. Christian theology 
       title: "Where the Warfare Story Came From",
       tags: ["History"],
       content: `
-Two books built the idea. John William Draper's *History of the Conflict between Religion and Science* appeared in 1874, written in the wake of the First Vatican Council and its definition of papal infallibility, and Andrew Dickson White's *A History of the Warfare of Science with Theology in Christendom* followed in 1896[^7]. White was the founding president of Cornell, a university established without religious affiliation, and his history served partly to defend that founding against clerical criticism[^8][^9].
+Two books built the idea. John William Draper's *History of the Conflict between Religion and Science* appeared in 1874, written in the wake of the First Vatican Council and its definition of papal infallibility, and Andrew Dickson White's *A History of the Warfare of Science with Theology in Christendom* followed in 1896[^7][^8]. White was the founding president of Cornell, a university established without religious affiliation, and his history served partly to defend that founding against clerical criticism[^9][^10].
 
 
 
-Both books were polemics with footnotes, and neither survived examination. Draper's is no longer treated as a reliable secondary source, and specialists in nineteenth-century German material have shown that even the details of the conflict narrative were assembled to fit the argument rather than drawn from it[^10].
+Both books were polemics with footnotes, and neither survived examination. Draper's is no longer treated as a reliable secondary source, and specialists in nineteenth-century German material have shown that even the details of the conflict narrative were assembled to fit the argument rather than drawn from it[^11].
 
-Acceptance of the thesis declined across the twentieth century, and by the 1980s historians of science had largely abandoned it. A landmark was *God and Nature*, an eighteen-essay collection edited by David Lindberg and Ronald Numbers in 1986, which reassessed the trial of Galileo, the Newtonian synthesis and the reception of Darwin using the available archival scholarship instead of the warfare frame[^11][^12].
+Acceptance of the thesis declined across the twentieth century, and by the 1980s historians of science had largely abandoned it. A landmark was *God and Nature*, an eighteen-essay collection edited by David Lindberg and Ronald Numbers in 1986, which reassessed the trial of Galileo, the Newtonian synthesis and the reception of Darwin using the available archival scholarship instead of the warfare frame[^12][^13].
 
-**A worked example of how such a myth forms.** The story that medieval Christians thought the earth flat, and that Columbus faced down hooded theologians at Salamanca, is an invention of Washington Irving's fictionalised 1828 life of Columbus. Educated Europeans had held the earth to be a sphere since antiquity; the fourth-century Lactantius and the sixth-century Alexandrian writer Cosmas Indicopleustes are the best-known Christian authors who argued otherwise, and neither shaped educated opinion on the point[^13][^14].
+**A worked example of how such a myth forms.** The story that medieval Christians thought the earth flat, and that Columbus faced down hooded theologians at Salamanca, is an invention of Washington Irving's fictionalised 1828 life of Columbus. Educated Europeans had held the earth to be a sphere since antiquity; the fourth-century Lactantius and the sixth-century Alexandrian writer Cosmas Indicopleustes are the best-known Christian authors who argued otherwise, and neither shaped educated opinion on the point[^14][^8].
 
 The corresponding picture of the medieval period as a scientific blank is equally hard to sustain. Bede tied the tides to the lunar cycle and noted their local variation in the eighth century, and Gerbert of Aurillac, who became Pope Sylvester II in 999, reintroduced the abacus and the armillary sphere to western Europe and taught Arabic numerals[^15][^16].
 
@@ -262,7 +262,7 @@ The list below is not offered as an argument that Christianity is true. Many abl
 
 **Nicolas Steno** (1638 to 1686) founded stratigraphy with the *Prodromus* of 1669, stating the principle of superposition on which historical geology rests. He converted to Catholicism in 1667, was ordained in 1675, was made a bishop two years later, and was beatified by John Paul II in 1988[^66][^67].
 
-**John Ray** (1627 to 1705) laid the groundwork of systematic botany and wrote *The Wisdom of God Manifested in the Works of the Creation*, the book that set the pattern for English natural theology for the next century and a half[^68].
+**John Ray** (1627 to 1705) laid the groundwork of systematic botany and wrote *The Wisdom of God Manifested in the Works of the Creation*, the book that set the pattern for English natural theology for the next century and a half[^68][^51].
 
 **Carl Linnaeus** (1707 to 1778) produced the binomial system still used to name every species, and understood the task as cataloguing the works of a creator[^69].
 
@@ -452,13 +452,13 @@ The Christian position is not that science has limits and God lives in them. It 
     "5. [Academic] Church Life Journal, University of Notre Dame. 'Peter Harrison's Challenge to the Secular Mythos.' https://churchlifejournal.nd.edu/articles/a-challenge-to-the-secular-mythos-part-one/",
     "6. [Academic] Notre Dame Philosophical Reviews. Review of Alvin Plantinga, 'Where the Conflict Really Lies: Science, Religion, and Naturalism.' https://ndpr.nd.edu/reviews/where-the-conflict-really-lies-science-religion-and-naturalism/",
     "7. [Wikipedia] Conflict thesis. Origins of the thesis in Draper and White and its decline among historians. https://en.wikipedia.org/wiki/Conflict_thesis",
-    "8. [Wikipedia] A History of the Warfare of Science with Theology in Christendom. White's 1896 work and the circumstances of its composition. https://en.wikipedia.org/wiki/A_History_of_the_Warfare_of_Science_with_Theology_in_Christendom",
-    "9. [Reference] First Things. 'Modern Science's Christian Sources.' Historical essay on the theological presuppositions of the scientific enterprise. https://firstthings.com/modern-sciences-christian-sources/",
-    "10. [Academic] Annals of Science. 'The Many Histories of the Conflict Thesis: The Science vs. Religion Narrative in Nineteenth-Century Germany.' https://www.tandfonline.com/doi/abs/10.1080/00033790.2023.2187086",
-    "11. [Academic] University of California Press. David C. Lindberg and Ronald L. Numbers, eds. 'God and Nature: Historical Essays on the Encounter between Christianity and Science' (1986). https://www.ucpress.edu/books/god-and-nature/paper",
-    "12. [Academic] Project MUSE. Review of 'God and Nature: Historical Essays on the Encounter Between Christianity and Science.' https://muse.jhu.edu/article/638018",
-    "13. [Academic] American Scientific Affiliation. Jeffrey Burton Russell, 'The Myth of the Flat Earth.' Paper tracing the myth to Washington Irving and later writers. https://www.asa3.org/ASA/topics/history/1997Russell.html",
-    "14. [Wikipedia] Myth of the flat Earth. The historical evidence for medieval belief in a spherical earth. https://en.wikipedia.org/wiki/Myth_of_the_flat_Earth",
+    "8. [Wikipedia] Myth of the flat Earth. The historical evidence for medieval belief in a spherical earth. https://en.wikipedia.org/wiki/Myth_of_the_flat_Earth",
+    "9. [Wikipedia] A History of the Warfare of Science with Theology in Christendom. White's 1896 work and the circumstances of its composition. https://en.wikipedia.org/wiki/A_History_of_the_Warfare_of_Science_with_Theology_in_Christendom",
+    "10. [Reference] First Things. 'Modern Science's Christian Sources.' Historical essay on the theological presuppositions of the scientific enterprise. https://firstthings.com/modern-sciences-christian-sources/",
+    "11. [Academic] Annals of Science. 'The Many Histories of the Conflict Thesis: The Science vs. Religion Narrative in Nineteenth-Century Germany.' https://www.tandfonline.com/doi/abs/10.1080/00033790.2023.2187086",
+    "12. [Academic] University of California Press. David C. Lindberg and Ronald L. Numbers, eds. 'God and Nature: Historical Essays on the Encounter between Christianity and Science' (1986). https://www.ucpress.edu/books/god-and-nature/paper",
+    "13. [Academic] Project MUSE. Review of 'God and Nature: Historical Essays on the Encounter Between Christianity and Science.' https://muse.jhu.edu/article/638018",
+    "14. [Academic] American Scientific Affiliation. Jeffrey Burton Russell, 'The Myth of the Flat Earth.' Paper tracing the myth to Washington Irving and later writers. https://www.asa3.org/ASA/topics/history/1997Russell.html",
     "15. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Bede.' On the Reckoning of Time, the computus and the lunar theory of tides. https://www.newadvent.org/cathen/02383b.htm",
     "16. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Pope Sylvester II.' Gerbert of Aurillac and the reintroduction of the abacus and armillary sphere. https://www.newadvent.org/cathen/14371a.htm",
     "17. [Wikipedia] Inventing the Flat Earth. Jeffrey Burton Russell's 1991 study of how the myth was manufactured. https://en.wikipedia.org/wiki/Inventing_the_Flat_Earth",

@@ -44,11 +44,11 @@ Because the male and female structure of marriage rests on creation, it is not a
       title: "Old Testament Prohibitions: Leviticus 18:22 and 20:13",
       tags: ["Old Testament"],
       content: `
-Leviticus 18:22 states that a man must not lie with a man as with a woman, and Leviticus 20:13 repeats the prohibition with a penalty attached[^9].
+Leviticus 18:22 states that a man must not lie with a man as with a woman, and Leviticus 20:13 repeats the prohibition with a penalty attached[^9][^10].
 
-The most common objection is that these verses sit within the Holiness Code alongside rules about mixed fabrics and shellfish that Christians no longer observe, making the selection arbitrary[^10][^11].
+The most common objection is that these verses sit within the Holiness Code alongside rules about mixed fabrics and shellfish that Christians no longer observe, making the selection arbitrary[^11][^12].
 
-*   **The surrounding material is moral rather than ritual.** Leviticus 18 and 20 address incest, adultery, child sacrifice and bestiality. The subject of the chapters is sexual and moral conduct rather than diet or clothing, so extracting one verse and reclassifying it as ceremonial does not fit its context[^12].
+*   **The surrounding material is moral rather than ritual.** Leviticus 18 and 20 address incest, adultery, child sacrifice and bestiality. The subject of the chapters is sexual and moral conduct rather than diet or clothing, so extracting one verse and reclassifying it as ceremonial does not fit its context[^10].
 *   **These laws are applied to the nations.** Leviticus 18:24-30 states that the Canaanites were expelled for these very practices. Ceremonial regulations were never applied to Gentiles in that way, whereas moral standards were, which is the strongest single answer to the shellfish objection[^13].
 *   **The New Testament carries the prohibition forward.** Paul reaffirms it in two separate letters, which is not true of the dietary laws[^14].
 
@@ -140,9 +140,9 @@ The teaching asks some believers to forgo marriage and sexual intimacy for life.
     "7. [Academic] 'The Natural Law Tradition in Ethics.' Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/natural-law-ethics/",
     "8. [Wikipedia] 'Natural law.' https://en.wikipedia.org/wiki/Natural_law",
     "9. [Commentary] Bible Hub. 'Commentaries on Leviticus 18:22.' https://biblehub.com/commentaries/leviticus/18-22.htm",
-    "10. [Academic] 'RLST 145 - Lecture 9 - The Priestly Legacy: Cult and Sacrifice, Purity and Holiness in Leviticus and Numbers | Open Yale Courses.' Open Yale Courses. https://oyc.yale.edu/religious-studies/rlst-145/lecture-9",
-    "11. [Wikipedia] 'Holiness code.' https://en.wikipedia.org/wiki/Holiness_code",
-    "12. [Wikipedia] Leviticus 18. The chapter's structure and its moral content. https://en.wikipedia.org/wiki/Leviticus_18",
+    "10. [Wikipedia] Leviticus 18. The chapter's structure and its moral content. https://en.wikipedia.org/wiki/Leviticus_18",
+    "11. [Academic] 'RLST 145 - Lecture 9 - The Priestly Legacy: Cult and Sacrifice, Purity and Holiness in Leviticus and Numbers | Open Yale Courses.' Open Yale Courses. https://oyc.yale.edu/religious-studies/rlst-145/lecture-9",
+    "12. [Wikipedia] 'Holiness code.' https://en.wikipedia.org/wiki/Holiness_code",
     "13. [Reference] ESV. Leviticus 18 with study notes. https://www.esv.org/Leviticus+18/",
     "14. [Commentary] Bible Hub. 'Commentaries on 1 Timothy 1:10.' https://biblehub.com/commentaries/1_timothy/1-10.htm",
     "15. [Wikipedia] Epistle to the Romans. Structure and argument of the letter. https://en.wikipedia.org/wiki/Epistle_to_the_Romans",

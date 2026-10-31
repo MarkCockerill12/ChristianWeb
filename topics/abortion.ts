@@ -49,7 +49,7 @@ These texts do not give a medical definition or a date. Their combined force is 
       title: "When Does a Human Life Begin?",
       tags: ["Medicine", "Philosophy"],
       content: `
-**The biology.** A new human organism begins at fertilisation, when egg and sperm unite to form a zygote with its own genetic identity[^4]. From there development is continuous. By the end of the fifth week of pregnancy the heart tube is pulsing, by week 8 all the major organs are developing, and by week 10 fingers and toes are formed[^5]. A child may survive from about week 23 with intensive care[^6][^5]. The early pulsing is that of a heart tube and not yet a fully formed heart, and the child is called an embryo for eight weeks after fertilisation and a foetus from then until birth[^7][^5].
+**The biology.** A new human organism begins at fertilisation, when egg and sperm unite to form a zygote with its own genetic identity[^4]. From there development is continuous. By the end of the fifth week of pregnancy the heart tube is pulsing, by week 8 all the major organs are developing, and by week 10 fingers and toes are formed[^5][^4]. A child may survive from about week 23 with intensive care[^6][^5]. The early pulsing is that of a heart tube and not yet a fully formed heart, and the child is called an embryo for eight weeks after fertilisation and a foetus from then until birth[^7][^5].
 
 **The philosophical question.** Few dispute that the embryo is biologically human. The serious debate is over whether every human being is a person with a right to life. Philosophers such as Mary Anne Warren have argued that personhood requires capacities such as consciousness, reasoning and self-awareness, which a foetus lacks[^8].
 
@@ -96,7 +96,7 @@ Abortion and exposing unwanted infants were both common in the Roman world. Chri
       content: `
 **The commandment forbids murder, and this is not murder.** The sixth commandment prohibits the unjust taking of innocent life. A doctor who finds that a mother will die, and that the child cannot be saved, or that only one of them can be, and who acts to save the life that can be saved, is not murdering anyone. The aim is to preserve life, and the child's death is the tragic result of a situation no one chose. It is done out of necessity, and it deserves grief and never accusation.
 
-**The clearest case.** In an ectopic pregnancy the embryo implants outside the womb, in more than nine cases out of ten in a fallopian tube, and as it grows the tube can rupture and cause life-threatening bleeding[^20][^21]. With very rare exceptions the child cannot survive[^22][^23], and it is not possible to save the pregnancy[^24]. Treating it saves the mother and costs no life that could otherwise have been kept. Others include severe pre-eclampsia and sepsis, when the pregnancy is too early for the baby to live outside the womb.
+**The clearest case.** In an ectopic pregnancy the embryo implants outside the womb, in more than nine cases out of ten in a fallopian tube, and as it grows the tube can rupture and cause life-threatening bleeding[^20][^21]. With very rare exceptions the child cannot survive[^22][^23], and it is not possible to save the pregnancy[^24][^21]. Treating it saves the mother and costs no life that could otherwise have been kept. Others include severe pre-eclampsia and sepsis, when the pregnancy is too early for the baby to live outside the womb.
 
 **How Christian traditions reason about it.**
 

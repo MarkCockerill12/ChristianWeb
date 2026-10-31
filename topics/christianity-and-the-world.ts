@@ -72,9 +72,9 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
       title: "Children, Women and the Arena",
       tags: ["Rights"],
       content: `
-**Unwanted babies.** Abandoning newborns was common in the ancient world. Christianity forbade infanticide from its earliest times: the Didache commands, "you shall not murder a child by abortion nor kill that which is begotten"[^36]. This led Constantine and Valentinian I to ban it across the Roman Empire[^37].
+**Unwanted babies.** Abandoning newborns was common in the ancient world. Christianity forbade infanticide from its earliest times: the Didache commands, "you shall not murder a child by abortion nor kill that which is begotten"[^36]. This led Constantine and Valentinian I to ban it across the Roman Empire[^37][^38].
 
-**The arena.** Athenagoras wrote in the second century that Christians, "deeming that to see a man put to death is much the same as killing him, have abjured such spectacles"[^38]. Tertullian scorned the thought that Christians should "regale ourselves there with human blood"[^39]. Christian emperors moved against the shows, and Honorius legally ended them in 399 and again in 404[^40].
+**The arena.** Athenagoras wrote in the second century that Christians, "deeming that to see a man put to death is much the same as killing him, have abjured such spectacles"[^39]. Tertullian scorned the thought that Christians should "regale ourselves there with human blood"[^40]. Christian emperors moved against the shows, and Honorius legally ended them in 399 and again in 404[^38].
 
 **Women.** Christian communities refused to let husbands keep a double standard, and they supported widows, as the [women topic](/categories/women) sets out with its evidence and its failures. Missionaries also campaigned against practices that harmed women and children: William Carey against widow burning in India[^41][^42][^43], others against foot binding in China[^44], and Mary Slessor against the killing of twin babies in Calabar[^45][^46].
 
@@ -236,9 +236,9 @@ None of the good above cancels what follows, all of which was done by Christians
     "35. [Wikipedia] 'Habitat for Humanity.' https://en.wikipedia.org/wiki/Habitat_for_Humanity",
     "36. [Primary Source] The Didache 2:2. New Advent. https://www.newadvent.org/fathers/0714.htm",
     "37. [Wikipedia] 'Infanticide.' https://en.wikipedia.org/wiki/Infanticide",
-    "38. [Primary Source] Athenagoras, A Plea for the Christians, chapter 35. New Advent. https://www.newadvent.org/fathers/0205.htm",
-    "39. [Primary Source] Tertullian, On the Spectacles. New Advent. https://www.newadvent.org/fathers/0303.htm",
-    "40. [Wikipedia] 'Gladiator.' https://en.wikipedia.org/wiki/Gladiator",
+    "38. [Wikipedia] 'Gladiator.' https://en.wikipedia.org/wiki/Gladiator",
+    "39. [Primary Source] Athenagoras, A Plea for the Christians, chapter 35. New Advent. https://www.newadvent.org/fathers/0205.htm",
+    "40. [Primary Source] Tertullian, On the Spectacles. New Advent. https://www.newadvent.org/fathers/0303.htm",
     "41. [Wikipedia] 'William Carey (missionary).' https://en.wikipedia.org/wiki/William_Carey_(missionary)",
     "42. [Academic] 'The Representation of Sati.' University of Texas at Austin. https://www.laits.utexas.edu/solvyns-project/Satiart.rft.html",
     "43. [Wikipedia] 'Sati (practice).' https://en.wikipedia.org/wiki/Sati_(practice)",

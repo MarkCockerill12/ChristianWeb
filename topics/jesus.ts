@@ -60,7 +60,7 @@ Son of God:
 
 Son of Man (Divine Messianic Title):
 • [**Daniel 7:13-14**](https://www.biblegateway.com/passage/?search=Daniel+7%3A13-14&version=NIV) - The "Son of Man" receives eternal dominion and worship.
-• [**Matthew 26:64**](https://www.biblegateway.com/passage/?search=Matthew+26%3A64&version=NIV) - Jesus applies this divine title to Himself in the context of His judicial authority[^12].
+• [**Matthew 26:64**](https://www.biblegateway.com/passage/?search=Matthew+26%3A64&version=NIV) - Jesus applies this divine title to Himself in the context of His judicial authority[^12][^10].
 
 Alpha and Omega:
 • [**Revelation 22:13**](https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=NIV) - Jesus declares: "I am the Alpha and the Omega, the First and the Last, the Beginning and the End"[^13][^14].
@@ -86,9 +86,9 @@ Alpha and Omega:
 
 ### 3. Authority to Judge
 [**John 5:22**](https://www.biblegateway.com/passage/?search=John+5%3A22&version=NIV) - "Moreover, the Father judges no one, but has entrusted all judgment to the Son.":
-• The assumption of the role of ultimate Judge is a claim to God's sovereign authority[^17].
+• The assumption of the role of ultimate Judge is a claim to God's sovereign authority[^17][^18].
 
-[**Matthew 25:31-32**](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-32&version=NIV) - Jesus describes His role as the final Judge of all nations[^18][^19].
+[**Matthew 25:31-32**](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-32&version=NIV) - Jesus describes His role as the final Judge of all nations[^19][^18].
 
 ### 4. Authority over the Sabbath and Temple
 Jesus claimed authority to legislate over the Sabbath, a power belonging exclusively to God as the Creator and Lawgiver.
@@ -297,8 +297,8 @@ Given His profound moral teaching and the sanity of His character, Lewis argues 
     "15. [Apologetics] GotQuestions.org - Forgiveness Without Sacrifice. 'Article discussing Jesus' authority to forgive sins as a divine prerogative, citing Mark 2:7.' https://www.gotquestions.org/forgiveness-without-sacrifice.html",
     "16. [Christian Source] The Outlook Magazine (Reformed Fellowship) - “I Am the Resurrection and the Life”. 'Meditation emphasizing Jesus’ personal authority over both spiritual and bodily resurrection, demonstrating His divine power.' https://outlook.reformedfellowship.net/sermons/i-am-the-resurrection-and-the-life-a-meditation-on-john-1125-26/",
     "17. [Apologetics] The Gospel Coalition - The Compassionate Truth About Judgment. 'Article affirming Jesus’ assumption of the role of ultimate Judge as a core claim to His sovereign authority.' https://www.thegospelcoalition.org/article/the-compassionate-truth-about-judgment/",
-    "18. [Academic] George Fox University - Matthew 25:31-46 Exegetical Perspective. 'Exegetical article on the Son of Man sitting as the heavenly judge of the nations, a claim to sovereign authority.' https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1330&context=ccs",
-    "19. [Commentary] Commentaries on Matthew 25:31. Bible Hub. https://biblehub.com/commentaries/matthew/25-31.htm",
+    "18. [Commentary] Commentaries on Matthew 25:31. Bible Hub. https://biblehub.com/commentaries/matthew/25-31.htm",
+    "19. [Academic] George Fox University - Matthew 25:31-46 Exegetical Perspective. 'Exegetical article on the Son of Man sitting as the heavenly judge of the nations, a claim to sovereign authority.' https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1330&context=ccs",
     "20. [Christian Source] Third Mill - The Son of Man is Lord even of the Sabbath. 'Commentary detailing how Jesus' claim to be Lord of the Sabbath was a direct claim to deity, as He is the Sovereign One who makes the Sabbath rules.' https://thirdmill.org/answers/answer.asp/file/48973",
     "21. [Christian Source] John Dickson - Jesus as Temple. 'Article analyzing Jesus' cleansing of the temple and his claim to rebuild it in three days (referencing his own body) as an assertion of divine authority superior to the temple itself.' http://www.johndickson.org/blog/2018/2/7/jesus-as-the-temple",
     "22. [Academic] ResearchGate - The Faith of the Disciples in John 16:30-33. 'Academic article discussing the significance of the disciples' confession that Jesus 'knows all things' (omniscience).' https://www.researchgate.net/publication/334909741_Now_You_Believe_The_Faith_of_the_Disciples_in_John_1630-33",

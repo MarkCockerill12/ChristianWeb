@@ -601,7 +601,7 @@ Early church leaders used several key criteria to determine which books were tru
 
       **Epistle to the Laodiceans (circa 4th century AD):**
       • **Forged Pauline epistle:** A short collection of Pauline phrases compiled to forge the "letter from Laodicea" mentioned in [Colossians 4:16](https://www.biblegateway.com/passage/?search=Colossians+4%3A16&version=NIV)[^150][^151].
-      • **Why rejected:** A compilation of phrases from Paul's genuine letters designed to supply the "missing" letter. Jerome reported that it was rejected by all, yet it was copied in many medieval Latin Bibles before being excluded[^152].
+      • **Why rejected:** A compilation of phrases from Paul's genuine letters designed to supply the "missing" letter. Jerome reported that it was rejected by all, yet it was copied in many medieval Latin Bibles before being excluded[^152][^150].
 
 **See also:** [Heresy and Legend in the Quran (Islam)](/categories/islam#section-quran-sources).
 `

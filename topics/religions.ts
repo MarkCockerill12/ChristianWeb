@@ -742,7 +742,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
       - **Gender equality:** Women can serve as religious leaders and have equal spiritual status[^170]
 
-      - **Community service:** Strong tradition of selfless service (seva) and charity[^171]
+      - **Community service:** Strong tradition of selfless service (seva) and charity[^171][^168]
 
       - **Honest living:** Emphasis on earning through legitimate means and hard work[^172]
 
@@ -1337,7 +1337,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
       - **Eschatological concepts:** Developed ideas about judgment and resurrection[^277][^278]
 
-      - **Environmental reverence:** Respect for fire, water, earth, and air as sacred[^279]
+      - **Environmental reverence:** Respect for fire, water, earth, and air as sacred[^279][^273]
 
       - **Spiritual equality:** Teaches the spiritual equality and shared religious duty of men and women[^280]
     </div>
@@ -2028,7 +2028,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
     - **Self-improvement focus:** Encourages personal responsibility and self-betterment[^401]
 
-      - **Drug rehabilitation:** Operates extensive (though controversial) anti-drug programs[^402]
+      - **Drug rehabilitation:** Operates extensive (though controversial) anti-drug programs[^402][^403]
 
       - **Community structure:** Provides a strong, organized community for adherents[^403]
     </div>

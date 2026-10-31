@@ -86,7 +86,7 @@ Critics define faith as believing without evidence, and that is not the biblical
       title: "The Teapot, the Spaghetti Monster and the Burden of Proof",
       tags: ["Atheism"],
       content: `
-Bertrand Russell said that no one could disprove a teapot orbiting the sun, and that the burden of proof lies with the one who claims it[^13]. The Flying Spaghetti Monster makes the same point in parody[^14][^15]. The point about the burden of proof is fair for anyone who claims that God exists, and Christians accept it, which is why they offer evidence. The comparison fails because a teapot explains nothing, while God is offered as an explanation of why the universe exists, why it is ordered, and why Jesus' tomb was empty. Christopher Hitchens said that what can be asserted without evidence can be dismissed without evidence[^16], and that rule would apply here if there were no evidence. The [resurrection](/categories/resurrection) and [fine-tuning](/categories/fine-tuning) topics set out that evidence.
+Bertrand Russell said that no one could disprove a teapot orbiting the sun, and that the burden of proof lies with the one who claims it[^13][^14]. The Flying Spaghetti Monster makes the same point in parody[^15][^14]. The point about the burden of proof is fair for anyone who claims that God exists, and Christians accept it, which is why they offer evidence. The comparison fails because a teapot explains nothing, while God is offered as an explanation of why the universe exists, why it is ordered, and why Jesus' tomb was empty. Christopher Hitchens said that what can be asserted without evidence can be dismissed without evidence[^16], and that rule would apply here if there were no evidence. The [resurrection](/categories/resurrection) and [fine-tuning](/categories/fine-tuning) topics set out that evidence.
 `,
     },
     {
@@ -148,8 +148,8 @@ Some scholars and pastors have lost their faith, the New Testament scholar Bart 
     "11. [Academic] Internet Encyclopedia of Philosophy. 'The Hard Problem of Consciousness.' https://iep.utm.edu/hard-problem-of-conciousness/",
     "12. [Wikipedia] 'Hard problem of consciousness.' https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
     "13. [Wikipedia] 'Russell's teapot.' https://en.wikipedia.org/wiki/Russell%27s_teapot",
-    "14. [Academic] Gershman. Celestial teapots and flying spaghetti monsters. What Makes Us Smart, 2021. https://doi.org/10.23943/princeton/9780691205717.003.0009",
-    "15. [Wikipedia] 'Flying Spaghetti Monster.' https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster",
+    "14. [Wikipedia] 'Flying Spaghetti Monster.' https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster",
+    "15. [Academic] Gershman. Celestial teapots and flying spaghetti monsters. What Makes Us Smart, 2021. https://doi.org/10.23943/princeton/9780691205717.003.0009",
     "16. [Wikipedia] 'Hitchens's razor.' https://en.wikipedia.org/wiki/Hitchens%27s_razor",
     "17. [Academic] Groothuis. WHO DESIGNED THE DESIGNER?: A DIALOGUE ON RICHARD DAWKINS'S THE GOD DELUSION. Think, 2009. https://doi.org/10.1017/s1477175608000407",
     "18. [Wikipedia] 'The God Delusion.' https://en.wikipedia.org/wiki/The_God_Delusion",

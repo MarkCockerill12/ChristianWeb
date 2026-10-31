@@ -78,7 +78,7 @@ None of this settles whether Muhammad was a prophet. Good teaching does not prov
 
 **The first revelation.** Around 610 he reported a being in the cave commanding him to recite. Islamic sources describe him as terrified, and it was Khadijah who took him to her Christian cousin Waraqa, who told him it was the same messenger sent to Moses[^28]. The following years brought opposition in Mecca from the leaders whose gods he attacked.
 
-**Medina.** In 622 he and his followers moved to Medina, the migration from which the Islamic calendar is counted[^29][^30]. His role changed there from preacher to ruler and commander. Raids on Meccan caravans led to the Battle of Badr in 624[^31][^32], and his followers took Mecca in 630[^33].
+**Medina.** In 622 he and his followers moved to Medina, the migration from which the Islamic calendar is counted[^29][^30]. His role changed there from preacher to ruler and commander. Raids on Meccan caravans led to the Battle of Badr in 624[^31][^32], and his followers took Mecca in 630[^33][^27].
 
 **War and treaty.** The Muslims lost at Uhud in 625[^32], withstood the siege of the Trench in 627, and agreed a ten-year truce with Mecca at Hudaybiyya in 628[^34]. When the truce broke down he marched on the city. His entry in 630 was largely bloodless, with a wide amnesty, which is to his credit.
 
@@ -129,7 +129,7 @@ The Quran limits men to four wives (Quran 4:3), and grants Muhammad an exemption
 
 **Juwayriya.** Bukhari records that Muhammad "suddenly attacked Bani Mustaliq without warning while they were heedless". Their fighting men were killed, the women and children captured, "the Prophet got Juwairiya on that day"[^56][^57]. Aisha describes her as "a very beautiful woman, most attractive to the eye", and says she looked on with disapproval when Juwayriya came to ask his help[^58].
 
-**Safiyya.** At Khaybar "their warriors were killed; the children and women were taken as captives. Safiya was taken by Dihya Al-Kalbi and later she belonged to Allah's Apostle who married her and her Mahr was her manumission"[^57]. She had been given to Dihya first, and was taken back when Muhammad was told of her standing[^59][^57]. Her husband and father had both been killed by Muhammad's forces[^60].
+**Safiyya.** At Khaybar "their warriors were killed; the children and women were taken as captives. Safiya was taken by Dihya Al-Kalbi and later she belonged to Allah's Apostle who married her and her Mahr was her manumission"[^57]. She had been given to Dihya first, and was taken back when Muhammad was told of her standing[^59][^57]. Her husband and father had both been killed by Muhammad's forces[^60][^48].
 
 **How he treated them.** Anas reports that "The Prophet used to visit all his wives in a round, during the day and night and they were eleven in number", and that the companions said he "was given the strength of thirty"[^61][^62]. Another report has nine wives in one night[^62][^61]. His rota could be set aside by revelation: "It is up to you to delay or receive whoever you please of your wives" (Quran 33:51)[^63]. No one else could marry them after him (Quran 33:53)[^64]. Disputes among them produced the warning in Quran 66, and Aisha's remark on how quickly his Lord fulfilled his wishes.
 
@@ -197,7 +197,7 @@ A recurring pattern in the Quran is revelation that resolves a difficulty in Muh
 
 **His own opponents said otherwise.** The Quran records the charge in his lifetime: "no one is teaching him except a human" (Quran 16:103). Its answer is that the man they mean speaks a foreign language, which does not address whether the ideas came from him[^123]. Others said he made it up "with the help of others" (Quran 25:4)[^124][^125].
 
-**Waraqa.** Islam's most trusted hadith collection places a Christian at the very start. Waraqa ibn Nawfal was Khadijah's cousin, a convert to Christianity who wrote out the Scriptures, and he was the first person to tell Muhammad he was a prophet. The same report continues: "But after a few days Waraqa died and the Divine Inspiration was also paused for a while"[^126]. In that pause Muhammad "repeatedly went out intending to throw himself from the summits of high mountains", and each time was stopped by a voice telling him he was truly God's messenger[^127].
+**Waraqa.** Islam's most trusted hadith collection places a Christian at the very start. Waraqa ibn Nawfal was Khadijah's cousin, a convert to Christianity who wrote out the Scriptures, and he was the first person to tell Muhammad he was a prophet. The same report continues: "But after a few days Waraqa died and the Divine Inspiration was also paused for a while"[^126][^127]. In that pause Muhammad "repeatedly went out intending to throw himself from the summits of high mountains", and each time was stopped by a voice telling him he was truly God's messenger[^127].
 
 The sequence is striking and needs stating accurately. The pause ended, and revelations continued for over twenty years, so Waraqa's death did not stop them for good. What the sources show is that the one learned Christian in Muhammad's circle confirmed his call, that the revelation fell silent when that man died, and that its recipient was suicidal during the silence.
 
@@ -222,7 +222,7 @@ The Quran presents itself as revelation correcting what Christians had distorted
 
 The usual reply is that these stories are true and that revelation confirmed them. That can be refuted on the dating: these are the writings that historians of every persuasion identify as late and legendary, while the earliest sources on Jesus are silent about any of it. A book correcting the Gospels from heaven would not be expected to repeat the legends of the age it appeared in, and one drawing on Christian hearsay in seventh-century Arabia would be. Norman Geisler and other Christian critics draw the same conclusion from the Quran's reliance on folklore, apocrypha and heretical traditions[^143].
 
-**Pagan rites retained.** The pilgrimage rites Muhammad reformed were pre-Islamic[^146], and the Black Stone in the Kaaba was venerated before Islam[^147]. Umar is reported as saying to the stone that he knew it could neither benefit nor harm, and that he kissed it only because he had seen the Prophet do so[^148][^147]. The rites are traced to Abraham, for which there is no evidence earlier than the Quran.
+**Pagan rites retained.** The pilgrimage rites Muhammad reformed were pre-Islamic[^146], and the Black Stone in the Kaaba was venerated before Islam[^147][^146]. Umar is reported as saying to the stone that he knew it could neither benefit nor harm, and that he kissed it only because he had seen the Prophet do so[^148][^147]. The rites are traced to Abraham, for which there is no evidence earlier than the Quran.
 `,
     },
     {
@@ -248,7 +248,7 @@ A revelation from the Creator would be expected to rise above the mistaken scien
 * "If a house fly falls in the drink of anyone of you, he should dip it (in the drink) and take it out, for one of its wings has a disease and the other has the cure"[^166].
 * He prescribed camel urine as medicine[^91][^167]. The World Health Organization warns against it as a route of MERS infection[^167].
 * "He who eats seven 'Ajwa dates every morning, will not be affected by poison or magic on the day he eats them"[^168]. He himself was affected by both.
-* "Fever is from the heat of Jahannam, so cool it with water"[^169].
+* "Fever is from the heat of Jahannam, so cool it with water"[^169][^160].
 * "The effect of an evil eye is a fact"[^170].
 * On contagion he said there is "no 'Adwa", and in the same breath that "one should run away from the leper as one runs away from a lion"[^171]. Scholars have long worked to reconcile the two.
 
@@ -276,7 +276,7 @@ Many popular criticisms of the Quran turn on the meaning of an Arabic word, and 
 
 **Why these reports cannot simply be discarded.** Sunni Muslims value Bukhari and Muslim as the most authentic texts after the Quran[^188]. To set these reports aside is to concede that the collection that defines Muhammad's example contains falsehoods, and the same collection supplies the details of prayer, fasting and pilgrimage.
 
-**Weaker charges, stated as such.** Several other charges are often made and have standard replies that are harder to rule out. The Quran calls Mary "sister of Aaron" (Quran 19:28)[^189] and "daughter of Imran" (Quran 66:12)[^190], as though confusing her with Moses' sister, and Christians raised this in Muhammad's time. His reply was that people were named after earlier prophets[^191]. The Quran places Haman in Pharaoh's court building a tower (Quran 28:38)[^192], where the Bible's only Haman is a Persian official many centuries later[^193], and the usual reply is that this is a different Haman[^194]. The Quran says the Jews called Ezra the son of God (Quran 9:30)[^195][^143]; no such Jewish belief is known, though a lost sect has been proposed. These are worth raising, and they are not the strongest points.
+**Weaker charges, stated as such.** Several other charges are often made and have standard replies that are harder to rule out. The Quran calls Mary "sister of Aaron" (Quran 19:28)[^189] and "daughter of Imran" (Quran 66:12)[^190], as though confusing her with Moses' sister, and Christians raised this in Muhammad's time. His reply was that people were named after earlier prophets[^191]. The Quran places Haman in Pharaoh's court building a tower (Quran 28:38)[^192][^193], where the Bible's only Haman is a Persian official many centuries later[^194][^193], and the usual reply is that this is a different Haman[^193]. The Quran says the Jews called Ezra the son of God (Quran 9:30)[^195][^143]; no such Jewish belief is known, though a lost sect has been proposed. These are worth raising, and they are not the strongest points.
 `,
     },
     {
@@ -356,7 +356,7 @@ This is the most serious difficulty in Islam, because it does not depend on any 
       title: "Does the Bible Predict Muhammad?",
       tags: ["Bible", "Objections"],
       content: `
-**The claim.** The Quran says that Jesus gave "good news of a messenger after me whose name will be Ahmad" (Quran 61:6)[^234], and that Muhammad is the one "whose description they find in their Torah and the Gospel" (Quran 7:157)[^235]. Many passages have therefore been offered as predictions of him. Every one of them can be refuted from its own context, and the Quran's claim sets up a test: if his description is not in the Torah and Gospel that existed in his day, the Quran is mistaken. Those texts survive from before his time.
+**The claim.** The Quran says that Jesus gave "good news of a messenger after me whose name will be Ahmad" (Quran 61:6)[^234][^235], and that Muhammad is the one "whose description they find in their Torah and the Gospel" (Quran 7:157)[^236]. Many passages have therefore been offered as predictions of him. Every one of them can be refuted from its own context, and the Quran's claim sets up a test: if his description is not in the Torah and Gospel that existed in his day, the Quran is mistaken. Those texts survive from before his time.
 
 **Deuteronomy 18:15-18.** God will raise up a prophet "like you from among their fellow Israelites". The argument is that Ishmael's descendants are the brothers of Israel. But the same phrase in Deuteronomy 17:15 forbids a foreign king, and it plainly means fellow Israelites. Deuteronomy 18:1-2 uses "fellow Israelites" of the other tribes of Israel. Deuteronomy 34:10 says that no prophet like Moses had arisen, one "whom the LORD knew face to face", and Muhammad by his own account never spoke with God face to face. Peter applies the passage to Jesus (Acts 3:22-26).
 
@@ -368,7 +368,7 @@ This is the most serious difficulty in Islam, because it does not depend on any 
 
 **Ishmael.** Genesis 17:20-21 promises Ishmael blessing and twelve rulers, and in the same sentence says, "But my covenant I will establish with Isaac." The promise to Ishmael is real, and the covenant line is explicitly elsewhere.
 
-**The Paraclete.** The strongest and most popular claim concerns Jesus' promise of "another advocate" (*parakletos* (παράκλητος, advocate)) in John 14 to 16. Many Muslim writers argue that this is Muhammad[^236], and some say the original word was *periklytos* (περικλυτός, praised one), "praised one", which would match the meaning of Ahmad. No Greek manuscript of John has that reading. The text answers the claim directly:
+**The Paraclete.** The strongest and most popular claim concerns Jesus' promise of "another advocate" (*parakletos* (παράκλητος, advocate)) in John 14 to 16. Many Muslim writers argue that this is Muhammad[^235], and some say the original word was *periklytos* (περικλυτός, praised one), "praised one", which would match the meaning of Ahmad. No Greek manuscript of John has that reading. The text answers the claim directly:
 
 * He is "the Spirit of truth", "the Holy Spirit" (John 14:17, 26).
 * The world "neither sees him nor knows him. But you know him, for he lives with you and will be in you" (John 14:17). Those words were spoken to the disciples six centuries before Muhammad.
@@ -697,8 +697,8 @@ A weak argument is easily refuted and damages the strong ones beside it, and sev
     "190. [Primary Source] The Quran 66:12. Quran.com. https://quran.com/66/12",
     "191. [Primary Source] Sahih Muslim 2135. Hadith Unlocked. https://hadithunlocked.com/muslim:2135",
     "192. [Primary Source] The Quran 28:38. Quran.com. https://quran.com/28/38",
-    "193. [Wikipedia] 'Haman.' https://en.wikipedia.org/wiki/Haman",
-    "194. [Wikipedia] 'Haman (Islam).' https://en.wikipedia.org/wiki/Haman_(Islam)",
+    "193. [Wikipedia] 'Haman (Islam).' https://en.wikipedia.org/wiki/Haman_(Islam)",
+    "194. [Wikipedia] 'Haman.' https://en.wikipedia.org/wiki/Haman",
     "195. [Primary Source] The Quran 9:30. Quran.com. https://quran.com/9/30",
     "196. [Wikipedia] 'Ibn Ishaq.' https://en.wikipedia.org/wiki/Ibn_Ishaq",
     "197. [Wikipedia] 'Muhammad al-Bukhari.' https://en.wikipedia.org/wiki/Muhammad_al-Bukhari",
@@ -739,8 +739,8 @@ A weak argument is easily refuted and damages the strong ones beside it, and sev
     "232. [Wikipedia] 'Codex Vaticanus.' https://en.wikipedia.org/wiki/Codex_Vaticanus",
     "233. [Wikipedia] 'Codex Sinaiticus.' https://en.wikipedia.org/wiki/Codex_Sinaiticus",
     "234. [Primary Source] The Quran 61:6. Quran.com. https://quran.com/61/6",
-    "235. [Primary Source] The Quran 7:157. Quran.com. https://quran.com/7/157",
-    "236. [Wikipedia] 'Paraclete.' https://en.wikipedia.org/wiki/Paraclete",
+    "235. [Wikipedia] 'Paraclete.' https://en.wikipedia.org/wiki/Paraclete",
+    "236. [Primary Source] The Quran 7:157. Quran.com. https://quran.com/7/157",
     "237. [Wikipedia] 'Gospel of Barnabas.' https://en.wikipedia.org/wiki/Gospel_of_Barnabas",
     "238. [Primary Source] The Quran 47:15. Quran.com. https://quran.com/47/15",
     "239. [Primary Source] The Quran 76:19. Quran.com. https://quran.com/76/19",

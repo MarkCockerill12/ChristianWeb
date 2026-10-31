@@ -130,7 +130,7 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Progressive warnings:** Nine increasingly severe plagues gave Pharaoh multiple opportunities to repent, demonstrating God's patience[^21].
 
-      • **Judgment on false gods:** Exodus 12:12 presents the plagues as judgment "on all the gods of Egypt". Interpreters often link individual plagues to particular deities (e.g., the Nile god Hapi, the frog goddess Heqet), though the text names none and the one-to-one pairings are conjectural. The plagues demonstrate the gods' powerlessness and Yahweh’s supremacy to both Egyptians and Israelites[^22].
+      • **Judgment on false gods:** Exodus 12:12 presents the plagues as judgment "on all the gods of Egypt". Interpreters often link individual plagues to particular deities (e.g., the Nile god Hapi, the frog goddess Heqet), though the text names none and the one-to-one pairings are conjectural. The plagues demonstrate the gods' powerlessness and Yahweh’s supremacy to both Egyptians and Israelites[^22][^20].
 
       • **Protection available:** Households marked with the Passover blood were passed over ([Exodus 12:13](https://www.biblegateway.com/passage/?search=Exodus+12:13&version=NIV)). The text does not say whether Egyptians took part, but a "mixed multitude" left with Israel, and interpreters take the sign to have been open to any who obeyed.
 

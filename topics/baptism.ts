@@ -58,7 +58,7 @@ The sacramental argument is that Scripture repeatedly links baptism to salvation
 *   **Romans 6:3-4 and Galatians 3:27.** Baptism is where believers are buried with Christ and clothed with Him, which is participatory language rather than symbolic description[^16].
 *   **Mark 16:16.** Whoever believes and is baptised will be saved. This verse sits in the longer ending of Mark, absent from the earliest manuscripts, which reduces its evidential weight[^17].
 
-The Catholic Catechism teaches that baptism is necessary for salvation for those to whom the gospel has been proclaimed, while affirming that God is not bound by His sacraments, allowing for baptism of desire and of blood[^18][^1]. The Augsburg Confession states that baptism is necessary to salvation and that grace is offered through it[^19].
+The Catholic Catechism teaches that baptism is necessary for salvation for those to whom the gospel has been proclaimed, while affirming that God is not bound by His sacraments, allowing for baptism of desire and of blood[^18][^1]. The Augsburg Confession states that baptism is necessary to salvation and that grace is offered through it[^19][^1].
 
 The sacramental position must account for Ephesians 2:8-9 and for Cornelius. The traditional answers are that baptism is God's appointed means of applying grace rather than a human work earning it, and that God can save apart from the ordinary means He has established[^20].
 `

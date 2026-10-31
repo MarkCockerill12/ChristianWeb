@@ -322,9 +322,9 @@ The scientific support for the second premise has grown. The universe has expand
 
       • **Motor Components:** An outboard motor made of ~40 distinct proteins, including a rotor, stator, drive shaft, and propeller[^124][^125].
 
-      • **Rotation Speed:** Can rotate up to 100,000 RPM and reverse direction in 1/4 of a turn[^126].
+      • **Rotation Speed:** Can rotate up to 100,000 RPM and reverse direction in 1/4 of a turn[^126][^125].
 
-      • **Universal Joint:** A "hook" protein (FlgE) acts as a universal joint, transmitting torque from the motor to the filament[^127].
+      • **Universal Joint:** A "hook" protein (FlgE) acts as a universal joint, transmitting torque from the motor to the filament[^127][^125].
 
       • **Protein Export:** A Type III Secretion System (T3SS) exports proteins from the cytoplasm to build the flagellum from the outside-in[^128][^129].
 

@@ -333,7 +333,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 2 Samuel 6:23 states Michal had no children, whereas 2 Samuel 21:8 mentions her five sons.
 
-**Clarification:** This is probably a copyist slip where Michal's name was written instead of her sister Merab, which is the reading of two Hebrew manuscripts and some Septuagint manuscripts[^201]. 1 Samuel 18:19 records that Merab married Adriel, the father of the five sons[^202][^203]. Alternatively, Michal may have adopted and raised her deceased sister Merab's five sons[^204][^205][^206].`,
+**Clarification:** This is probably a copyist slip where Michal's name was written instead of her sister Merab, which is the reading of two Hebrew manuscripts and some Septuagint manuscripts[^201][^202]. 1 Samuel 18:19 records that Merab married Adriel, the father of the five sons[^202][^203]. Alternatively, Michal may have adopted and raised her deceased sister Merab's five sons[^204][^205][^206].`,
     },
     {
       id: 'SolomonsStalls',
