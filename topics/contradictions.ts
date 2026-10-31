@@ -95,7 +95,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Family and genealogy"],
       content: `**Supposed Contradiction:** Matthew 1 and Luke 3 provide two entirely different lists of ancestors for Jesus between King David and Joseph.
 
-**Clarification:** Three explanations are in circulation, and no one of them commands agreement[^60][^61][^62]. The first, popular since Annius of Viterbo in the fifteenth century, is that [Matthew 1](https://www.biblegateway.com/passage/?search=Matthew+1&version=NIV) traces Joseph's legal lineage while [Luke 3](https://www.biblegateway.com/passage/?search=Luke+3&version=NIV) traces Mary's, since 'son of' could cover a son-in-law; its weakness is that Luke never mentions Mary in the list and names Joseph outright[^63][^64]. The second, reported by Julius Africanus in the third century, is levirate marriage: Joseph's legal and biological fathers differed because a childless brother's widow was married by his kinsman[^65][^66][^67]. The third takes both lines through Joseph, one by legal royal succession and one by natural descent[^68][^69]. What the two lists agree on is the point each writer is making: descent from David through the royal line, Matthew arranging his in three sets of fourteen for a Jewish readership and Luke running his back to Adam for a Gentile one[^70].
+**Clarification:** Three explanations are in circulation, and no one of them commands agreement[^60][^61][^62][^63]. The first, popular since Annius of Viterbo in the fifteenth century, is that [Matthew 1](https://www.biblegateway.com/passage/?search=Matthew+1&version=NIV) traces Joseph's legal lineage while [Luke 3](https://www.biblegateway.com/passage/?search=Luke+3&version=NIV) traces Mary's, since 'son of' could cover a son-in-law; its weakness is that Luke never mentions Mary in the list and names Joseph outright[^64][^65]. The second, reported by Julius Africanus in the third century, is levirate marriage: Joseph's legal and biological fathers differed because a childless brother's widow was married by his kinsman[^66][^67][^68]. The third takes both lines through Joseph, one by legal royal succession and one by natural descent[^69][^70]. What the two lists agree on is the point each writer is making: descent from David through the royal line, Matthew arranging his in three sets of fourteen for a Jewish readership and Luke running his back to Adam for a Gentile one[^71].
 
 <?viz contradictions/genealogies?>
 
@@ -108,7 +108,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** 2 Samuel 24:1 states that the anger of the Lord burned against Israel and He incited David to count the fighting men, whereas 1 Chronicles 21:1 states that Satan rose up against Israel and incited David to take a census.
 
-**Clarification:** This reflects different theological perspectives on divine sovereignty and secondary causes[^71][^72]. Both are true: God ultimately permitted Satan to tempt David (similar to the book of Job)[^73][^74]. 2 Samuel emphasizes God's primary sovereignty (allowing the event to proceed in judgment), whereas 1 Chronicles identifies the immediate spiritual agent (Satan) who tempted David to act out of pride rather than trust in God[^75][^76].
+**Clarification:** This reflects different theological perspectives on divine sovereignty and secondary causes[^72][^73]. Both are true: God ultimately permitted Satan to tempt David (similar to the book of Job)[^74][^75]. 2 Samuel emphasizes God's primary sovereignty (allowing the event to proceed in judgment), whereas 1 Chronicles identifies the immediate spiritual agent (Satan) who tempted David to act out of pride rather than trust in God[^76][^77].
 
 **See also:** [Sovereignty and Concurrence (Free Will)](/categories/free-will#section-concurrence).
 `,
@@ -119,7 +119,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew 20:29-30 states that Jesus healed two blind men as He left Jericho, whereas Mark 10:46 and Luke 18:35 mention only one blind man (named Bartimaeus in Mark).
 
-**Clarification:** This is a case of selective reporting, not a contradiction[^77]. Stating there were two blind men (Matthew) does not contradict stating there was one (Mark/Luke), especially if one of them (Bartimaeus) was far more prominent or later became well-known in the early church[^78][^79]. Additionally, the healings may have occurred at different points of Jesus' journey around Jericho, as the area had multiple city sites (an old ruins site and a newer Herod-built Roman city)[^80][^81][^82].`,
+**Clarification:** This is a case of selective reporting, not a contradiction[^78]. Stating there were two blind men (Matthew) does not contradict stating there was one (Mark/Luke), especially if one of them (Bartimaeus) was far more prominent or later became well-known in the early church[^79][^80]. Additionally, the healings may have occurred at different points of Jesus' journey around Jericho, as the area had multiple city sites (an old ruins site and a newer Herod-built Roman city)[^81][^82][^83].`,
     },
     {
       id: 'JudasDeath',
@@ -127,7 +127,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew 27:5 states that Judas went and hanged himself, whereas Acts 1:18 states that Judas fell headlong (πρηνὴς γενόμενος, *prēnēs genomenos*), and his body burst open.
 
-**Clarification:** The usual answer is that the accounts describe different stages of the same event: Matthew records the method of death, and Acts the state of the body afterwards, the rope or branch having given way so that the corpse fell and ruptured[^83]. That reconstruction is not stated by either writer and has to be supplied[^84][^85][^86]. A second difference is harder: Matthew has the priests buy the field with the returned money, while Acts says Judas acquired it, which is best read as the priests buying it in his name with what was legally still his[^87][^88]. The two writers are pursuing different ends, Matthew the fulfilment of prophecy and Luke the vacancy among the Twelve, and neither is attempting a full account of the death[^89].`,
+**Clarification:** The usual answer is that the accounts describe different stages of the same event: Matthew records the method of death, and Acts the state of the body afterwards, the rope or branch having given way so that the corpse fell and ruptured[^84]. That reconstruction is not stated by either writer and has to be supplied[^85][^86][^87]. A second difference is harder: Matthew has the priests buy the field with the returned money, while Acts says Judas acquired it, which is best read as the priests buying it in his name with what was legally still his[^88][^89][^90]. The two writers are pursuing different ends, Matthew the fulfilment of prophecy and Luke the vacancy among the Twelve, and neither is attempting a full account of the death[^91].`,
     },
     {
       id: 'CrucifixionTiming',
@@ -135,7 +135,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** Mark 15:25 states that Jesus was crucified at the "third hour" (9 a.m.), whereas John 19:14-15 states that Jesus was still standing trial before Pilate at the "sixth hour" (noon).
 
-**Clarification:** Two answers are given, and this remains one of the harder harmonisations[^90]. On the first, Mark uses Jewish reckoning from sunrise, so the "third hour" is 9 a.m., while John uses Roman civil reckoning from midnight, so his "sixth hour" is 6 a.m., leaving time for the sentence to be carried out[^91][^92][^93]. Against it, John elsewhere appears to use the Jewish system, as at [John 4:6](https://www.biblegateway.com/passage/?search=John+4%3A6&version=NIV)[^94]. On the second, both writers use Jewish hours and are dividing the day into rough three-hour blocks rather than clock times, so a death sequence running through the middle of the day could be reported by one as the third hour and by the other as approaching the sixth[^95][^96]. Ancient timekeeping without clocks worked in quarters of the day, and precision of the modern sort is not what either writer is offering[^97].
+**Clarification:** Two answers are given, and this remains one of the harder harmonisations[^92]. On the first, Mark uses Jewish reckoning from sunrise, so the "third hour" is 9 a.m., while John uses Roman civil reckoning from midnight, so his "sixth hour" is 6 a.m., leaving time for the sentence to be carried out[^93][^94][^95]. Against it, John elsewhere appears to use the Jewish system, as at [John 4:6](https://www.biblegateway.com/passage/?search=John+4%3A6&version=NIV)[^96]. On the second, both writers use Jewish hours and are dividing the day into rough three-hour blocks rather than clock times, so a death sequence running through the middle of the day could be reported by one as the third hour and by the other as approaching the sixth[^97][^98]. Ancient timekeeping without clocks worked in quarters of the day, and precision of the modern sort is not what either writer is offering[^99].
 
 <?viz contradictions/hours?>
 `,
@@ -146,7 +146,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** John 19:17 states that Jesus went out bearing His own cross, whereas Matthew 27:32 (and Mark and Luke) state that the Roman soldiers forced Simon of Cyrene to carry it.
 
-**Clarification:** These accounts describe different stages of the journey to Golgotha[^98]. Jesus initially carried the crossbeam (patibulum) Himself as He went out (John)[^99][^100][^101]. However, severely weakened by the preceding Roman scourging, blood loss, and exhaustion, Jesus collapsed along the way, forcing the soldiers to conscript Simon to carry it the rest of the distance (Matthew)[^102].`,
+**Clarification:** These accounts describe different stages of the journey to Golgotha[^100]. Jesus initially carried the crossbeam (patibulum) Himself as He went out (John)[^101][^102][^103]. However, severely weakened by the preceding Roman scourging, blood loss, and exhaustion, Jesus collapsed along the way, forcing the soldiers to conscript Simon to carry it the rest of the distance (Matthew)[^104].`,
     },
     {
       id: 'FinalCry',
@@ -154,7 +154,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The Gospels record different final words spoken by Jesus on the cross, with none of them recording all of them.
 
-**Clarification:** Jesus survived for six hours on the cross, giving Him ample time to make several statements[^103][^104]. The chronological sequence is: 1) "My God, why have you forsaken me?" (Matthew/Mark), representing His spiritual suffering; 2) "It is finished" (John), declaring His work complete; and 3) "Father, into your hands I commit my spirit" (Luke), His final act of trust[^105]. Each author selected the statement that aligned best with their theological focus[^106].`,
+**Clarification:** Jesus survived for six hours on the cross, giving Him ample time to make several statements[^105][^106]. The chronological sequence is: 1) "My God, why have you forsaken me?" (Matthew/Mark), representing His spiritual suffering; 2) "It is finished" (John), declaring His work complete; and 3) "Father, into your hands I commit my spirit" (Luke), His final act of trust[^107]. Each author selected the statement that aligned best with their theological focus[^108].`,
     },
     {
       id: 'GodSeen',
@@ -162,7 +162,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** John 1:18 and Exodus 33:20 state that no one has ever seen God, whereas Genesis 32:30 states that Jacob saw God face to face at Peniel.
 
-**Clarification:** The verses stating God is invisible refer to His full, unshielded essence and glory as the Father ([1 Timothy 6:16](https://www.biblegateway.com/passage/?search=1+Timothy+6%3A16&version=NIV))[^107]. However, God chose to appear in accommodated, localized forms (theophanies or Christophanies) to individuals like Jacob[^108][^109][^110]. The phrase "face to face" is also a Hebrew idiom meaning "directly" or "intimately," rather than literally gazing upon God's full, infinite glory[^111][^112].`,
+**Clarification:** The verses stating God is invisible refer to His full, unshielded essence and glory as the Father ([1 Timothy 6:16](https://www.biblegateway.com/passage/?search=1+Timothy+6%3A16&version=NIV))[^109]. However, God chose to appear in accommodated, localized forms (theophanies or Christophanies) to individuals like Jacob[^110][^111][^112]. The phrase "face to face" is also a Hebrew idiom meaning "directly" or "intimately," rather than literally gazing upon God's full, infinite glory[^113][^114].`,
     },
     {
       id: 'FaithAlone',
@@ -170,7 +170,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Theology"],
       content: `**Supposed Contradiction:** Paul in Ephesians 2:8-9 states that salvation is by grace through faith, not of works, whereas James 2:24 states that a person is justified by works and not by faith alone.
 
-**Clarification:** These passages address different contexts and use the word "justified" in different ways[^113][^114][^115]. Paul is discussing the *root* of salvation, how a sinner is declared righteous before God solely by faith ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV))[^116]. James is discussing the *fruit* of salvation, how a believer's claim of faith is vindicated or demonstrated as genuine before men ([James 2:24](https://www.biblegateway.com/passage/?search=James+2%3A24&version=NIV))[^117]. Both agree that saving faith inevitably produces good works.
+**Clarification:** These passages address different contexts and use the word "justified" in different ways[^115][^116][^117][^118]. Paul is discussing the *root* of salvation, how a sinner is declared righteous before God solely by faith ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV))[^119]. James is discussing the *fruit* of salvation, how a believer's claim of faith is vindicated or demonstrated as genuine before men ([James 2:24](https://www.biblegateway.com/passage/?search=James+2%3A24&version=NIV))[^120][^119]. Both agree that saving faith inevitably produces good works.
 
 **See also:** [The Contested Texts (Baptism)](/categories/baptism#section-contested-texts).
 `,
@@ -181,7 +181,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 2 Kings 8:26 states that Ahaziah was 22 years old when he became king, whereas 2 Chronicles 22:2 states he was 42 years old.
 
-**Clarification:** This is a clear copyist error in the Masoretic Hebrew text of 2 Chronicles (אַרְבָּעִים וּשְׁתַּיִם, 'forty-two', against עֶשְׂרִים וּשְׁתַּיִם, 'twenty-two' in 2 Kings), as Ahaziah's father died at age 40, making a 42-year-old son chronologically impossible[^118][^119]. The Syriac and Arabic versions read '22' in [2 Chronicles 22:2](https://www.biblegateway.com/passage/?search=2+Chronicles+22%3A2&version=NIV) (the Septuagint reads '20'), matching the age in [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^120].`,
+**Clarification:** This is a clear copyist error in the Masoretic Hebrew text of 2 Chronicles (אַרְבָּעִים וּשְׁתַּיִם, 'forty-two', against עֶשְׂרִים וּשְׁתַּיִם, 'twenty-two' in 2 Kings), as Ahaziah's father died at age 40, making a 42-year-old son chronologically impossible[^121][^122]. The Syriac and Arabic versions read '22' in [2 Chronicles 22:2](https://www.biblegateway.com/passage/?search=2+Chronicles+22%3A2&version=NIV) (the Septuagint reads '20'), matching the age in [2 Kings](https://www.biblegateway.com/passage/?search=2+Kings&version=NIV)[^123][^122].`,
     },
     {
       id: 'TempleCleansing',
@@ -189,7 +189,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** John places the cleansing of the Temple at the start of Jesus' ministry, whereas the Synoptic Gospels place it at the very end of His ministry.
 
-**Clarification:** There are two main resolutions. First, Jesus may have cleansed the Temple twice: once at the start of His ministry (John) as a warning, and once at the end (Synoptics) as a final judgment[^121][^122]. Second, John may have arranged the event thematically at the beginning of his Gospel for theological impact rather than strict chronological order[^123][^124].`,
+**Clarification:** There are two main resolutions. First, Jesus may have cleansed the Temple twice: once at the start of His ministry (John) as a warning, and once at the end (Synoptics) as a final judgment[^124][^125]. Second, John may have arranged the event thematically at the beginning of his Gospel for theological impact rather than strict chronological order[^126][^127].`,
     },
     {
       id: 'HighPriest',
@@ -197,7 +197,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Mark 2:26 states that David entered the house of God and ate the showbread "in the days of Abiathar the high priest," whereas 1 Samuel 21:1 records that the high priest was actually Ahimelech.
 
-**Clarification:** The Greek phrase *epi Abiathar* (ἐπὶ Ἀβιαθάρ, in the time of Abiathar) in Mark 2:26 means "in the time of Abiathar" or "during the lifetime of Abiathar," rather than "at the exact moment he was high priest."[^125][^126]. Since the event led immediately to the death of Ahimelech and the rise of his son Abiathar, who served as David's primary high priest for decades, it was historically appropriate to reference the entire epoch under Abiathar's name. The phrase *epi* with the genitive does elsewhere mean "in the time of", but some scholars, including Bart Ehrman, regard the verse as a genuine slip, and Matthew and Luke both omit the name in their parallels[^127][^128].`,
+**Clarification:** The Greek phrase *epi Abiathar* (ἐπὶ Ἀβιαθάρ, in the time of Abiathar) in Mark 2:26 means "in the time of Abiathar" or "during the lifetime of Abiathar," rather than "at the exact moment he was high priest."[^128][^129]. Since the event led immediately to the death of Ahimelech and the rise of his son Abiathar, who served as David's primary high priest for decades, it was historically appropriate to reference the entire epoch under Abiathar's name. The phrase *epi* with the genitive does elsewhere mean "in the time of", but some scholars, including Bart Ehrman, regard the verse as a genuine slip, and Matthew and Luke both omit the name in their parallels[^130][^131].`,
     },
     {
       id: 'ResurrectionAccounts',
@@ -205,7 +205,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The four Gospels differ on the details of the resurrection morning, including who visited the tomb, what time they arrived, and how many angels were present.
 
-**Clarification:** Harmonisers argue that these variations reflect the partial perspectives of different witnesses rather than invention. Matthew and Luke drew on Mark for much of their material, so the accounts are not wholly independent, but their divergences on the resurrection morning show that they were not simply copied either[^129][^130][^131]. 1) *Women:* John focuses on Mary Magdalene, while the other Gospels include her companions; focusing on one does not deny the others were present[^132]. 2) *Timing:* The women left "while it was still dark" (John) and arrived at dawn "as the sun was rising" (Mark)[^133]. 3) *Angels:* Stating there was one angel (Matthew/Mark) does not deny the presence of a second angel who remained silent (Luke/John)[^134].
+**Clarification:** Harmonisers argue that these variations reflect the partial perspectives of different witnesses rather than invention. Matthew and Luke drew on Mark for much of their material, so the accounts are not wholly independent, but their divergences on the resurrection morning show that they were not simply copied either[^132][^133][^134]. 1) *Women:* John focuses on Mary Magdalene, while the other Gospels include her companions; focusing on one does not deny the others were present[^135][^16]. 2) *Timing:* The women left "while it was still dark" (John) and arrived at dawn "as the sun was rising" (Mark)[^136][^15]. 3) *Angels:* Stating there was one angel (Matthew/Mark) does not deny the presence of a second angel who remained silent (Luke/John)[^137][^15].
 
 <?viz contradictions/resurrection-morning?>
 
@@ -218,7 +218,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** Numbers 23:19 states that God is not a man that He should repent, whereas Genesis 6:6 states that God repented that He had made man.
 
-**Clarification:** This resolves by examining the Hebrew word נָחַם (niham - "grief/relenting")[^135][^136]. Numbers 23 refers to God's immutable character; He does not change His mind or break His word[^137]. Genesis 6 uses an anthropomorphism to express God's emotional grief over sin[^138][^139][^140]. It describes a change in God's *dealings* with man (judgment instead of favor) in perfect *consistency* with His unchanging holy character[^141].
+**Clarification:** This resolves by examining the Hebrew word נָחַם (niham - "grief/relenting")[^138][^139]. Numbers 23 refers to God's immutable character; He does not change His mind or break His word[^140]. Genesis 6 uses an anthropomorphism to express God's emotional grief over sin[^141][^142][^143]. It describes a change in God's *dealings* with man (judgment instead of favor) in perfect *consistency* with His unchanging holy character[^144].
 
 **See also:** [Texts Where God Relents (Did God Change?)](/categories/did-god-change#section-god-relented).
 `,
@@ -229,7 +229,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Both", "Theology"],
       content: `**Supposed Contradiction:** Exodus 21:24 commands retaliation ("an eye for an eye"), whereas Jesus in Matthew 5:38-39 commands non-retaliation ("turn the other cheek").
 
-**Clarification:** These commands address different contexts. The *Lex Talionis* ("eye for an eye") in Exodus was a *civil law* for judges to ensure punishments were proportional, thereby preventing excessive revenge[^142][^143]. Jesus in Matthew 5 was speaking to individuals about *personal relationships*, forbidding personal vengeance and insults ("a slap on the right cheek"), while leaving civil justice to the state ([Romans 13:4](https://www.biblegateway.com/passage/?search=Romans+13%3A4&version=NIV))[^144].
+**Clarification:** These commands address different contexts. The *Lex Talionis* ("eye for an eye") in Exodus was a *civil law* for judges to ensure punishments were proportional, thereby preventing excessive revenge[^145][^146]. Jesus in Matthew 5 was speaking to individuals about *personal relationships*, forbidding personal vengeance and insults ("a slap on the right cheek"), while leaving civil justice to the state ([Romans 13:4](https://www.biblegateway.com/passage/?search=Romans+13%3A4&version=NIV))[^147].
 
 **See also:** [Shellfish, Stoning and the Harsh Laws (Did God Change?)](/categories/did-god-change#section-harsh-old-testament-laws).
 `,
@@ -241,7 +241,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       content: `
 **Supposed Contradiction:** Jesus says, "If anyone comes to me and does not hate father and mother, wife and children, brothers and sisters... such a person cannot be my disciple" (Luke 14:26). Yet the Law commands, "Honour your father and your mother" (Exodus 20:12), Jesus condemns those who neglect their parents (Mark 7:9-13), and he commands love even of enemies (Matthew 5:44).
 
-**Clarification:** The Greek is μισεῖ (*misei*, from μισέω, *miseō*, "hate")[^145], and it carries a Hebrew idiom of preference. The Hebrew שָׂנֵא (*sane*, "hate")[^146] appears in Genesis 29:30-31, which says Jacob "loved Rachel more than Leah", and in the next verse calls Leah שְׂנוּאָה (*senu'ah*, "hated"), where the NIV has "not loved". Deuteronomy 21:15 and Malachi 1:2-3 use the same contrast[^147]. Matthew records the same teaching in plain terms: "Anyone who loves their father or mother more than me is not worthy of me" (Matthew 10:37). Some commentators add that the saying goes further than "love less": when the closest of relationships becomes an obstacle to following Christ, Christ comes first[^148]. Jesus' own conduct shows that he was not teaching literal hatred: from the cross he made provision for his mother (John 19:26-27). The saying is meant to be hard, and it remains so. It is a demand for first loyalty, and it does not cancel the command to honour parents.
+**Clarification:** The Greek is μισεῖ (*misei*, from μισέω, *miseō*, "hate")[^148], and it carries a Hebrew idiom of preference. The Hebrew שָׂנֵא (*sane*, "hate")[^149][^148] appears in Genesis 29:30-31, which says Jacob "loved Rachel more than Leah", and in the next verse calls Leah שְׂנוּאָה (*senu'ah*, "hated"), where the NIV has "not loved". Deuteronomy 21:15 and Malachi 1:2-3 use the same contrast[^150][^149]. Matthew records the same teaching in plain terms: "Anyone who loves their father or mother more than me is not worthy of me" (Matthew 10:37). Some commentators add that the saying goes further than "love less": when the closest of relationships becomes an obstacle to following Christ, Christ comes first[^151]. Jesus' own conduct shows that he was not teaching literal hatred: from the cross he made provision for his mother (John 19:26-27). The saying is meant to be hard, and it remains so. It is a demand for first loyalty, and it does not cancel the command to honour parents.
 `,
     },
     {
@@ -251,7 +251,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       content: `
 **Supposed Contradiction:** In Matthew 10:34 Jesus says, "I did not come to bring peace, but a sword." Yet he says "Peace I leave with you; my peace I give you" (John 14:27) and "Blessed are the peacemakers" (Matthew 5:9), and he tells Peter, "Put your sword back in its place" (Matthew 26:52).
 
-**Clarification:** The Greek word is μάχαιραν (*machairan*, "sword")[^149], and the context shows that it is a metaphor. The next verse explains it: "a man against his father, a daughter against her mother", quoting Micah 7:6. Luke's parallel has no weapon at all, and uses διαμερισμόν (*diamerismon*, "division", Luke 12:51)[^150]. Jesus is describing the effect of his coming and not its purpose: following him would split families, as it did for many early Christians and still does for converts in many countries[^151]. The peace he gives is peace with God, "not as the world gives" (John 14:27). When Peter used a real sword, Jesus stopped him and healed the wounded man (Luke 22:50-51). The saying in Luke 22:36 about buying a sword is often raised alongside this. When the disciples produce two, he replies, "That's enough" (Luke 22:38), which most interpreters read as ending a conversation they had misunderstood, and shortly afterwards he forbids its use.
+**Clarification:** The Greek word is μάχαιραν (*machairan*, "sword")[^152], and the context shows that it is a metaphor. The next verse explains it: "a man against his father, a daughter against her mother", quoting Micah 7:6. Luke's parallel has no weapon at all, and uses διαμερισμόν (*diamerismon*, "division", Luke 12:51)[^153][^152]. Jesus is describing the effect of his coming and not its purpose: following him would split families, as it did for many early Christians and still does for converts in many countries[^154]. The peace he gives is peace with God, "not as the world gives" (John 14:27). When Peter used a real sword, Jesus stopped him and healed the wounded man (Luke 22:50-51). The saying in Luke 22:36 about buying a sword is often raised alongside this. When the disciples produce two, he replies, "That's enough" (Luke 22:38), which most interpreters read as ending a conversation they had misunderstood, and shortly afterwards he forbids its use.
 `,
     },
     {
@@ -260,7 +260,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The four Gospels record different wordings for the inscription on the cross.
 
-**Clarification:** All four accounts agree on the core charge: "The King of the Jews"[^152]. None of the authors claim to quote the entire sign verbatim; they summarize or select the part relevant to their focus[^153][^154]. Furthermore, Luke and John note that the sign was written in three languages (Hebrew, Latin, Greek), meaning minor variations reflect translations from different languages on the sign[^155][^156].
+**Clarification:** All four accounts agree on the core charge: "The King of the Jews"[^155][^156]. None of the authors claim to quote the entire sign verbatim; they summarize or select the part relevant to their focus[^156][^157]. Furthermore, Luke and John note that the sign was written in three languages (Hebrew, Latin, Greek), meaning minor variations reflect translations from different languages on the sign[^158][^159].
 
 <?viz contradictions/inscription?>
 `,
@@ -271,7 +271,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Mark records Jesus predicting the rooster will crow twice, whereas Matthew (and Luke and John) records the rooster crowing once.
 
-**Clarification:** This is an example of precision against summary[^157]. Mark, on the early tradition that his Gospel carries Peter's testimony, records two crowings[^158][^159]. The others report the crowing that mattered, the one that broke Peter, and pass over the first; a prediction of a single crowing is not denied by a record of two, since the second crowing is also a crowing[^160].`,
+**Clarification:** This is an example of precision against summary[^160]. Mark, on the early tradition that his Gospel carries Peter's testimony, records two crowings[^161][^162][^163]. The others report the crowing that mattered, the one that broke Peter, and pass over the first; a prediction of a single crowing is not denied by a record of two, since the second crowing is also a crowing[^164].`,
     },
     {
       id: 'PaulsConversion',
@@ -279,7 +279,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** The three conversion accounts of Paul in Acts differ on whether his companions stood or fell, and whether they heard the voice.
 
-**Clarification:** The Greek terms resolve these details[^161][^162]. In Acts 9:7, the men "heard the sound" (ἀκούοντες μὲν τῆς φωνῆς, general noise), while Acts 22:9 notes they did not "understand the voice" (τὴν δὲ φωνὴν οὐκ ἤκουσαν, comprehend the words); *akouō* (ἀκούω, hear) can mean either to hear or to understand, as the NIV renders it, though the grammatical argument sometimes built on the case of the noun is weaker than often claimed[^163][^164]. Regarding posture, they all fell initially to the ground (Acts 26) and then stood up or remained frozen in speechless terror (Acts 9)[^165][^166].
+**Clarification:** The Greek terms resolve these details[^165][^166]. In Acts 9:7, the men "heard the sound" (ἀκούοντες μὲν τῆς φωνῆς, general noise), while Acts 22:9 notes they did not "understand the voice" (τὴν δὲ φωνὴν οὐκ ἤκουσαν, comprehend the words); *akouō* (ἀκούω, hear) can mean either to hear or to understand, as the NIV renders it, though the grammatical argument sometimes built on the case of the noun is weaker than often claimed[^167][^168]. Regarding posture, they all fell initially to the ground (Acts 26) and then stood up or remained frozen in speechless terror (Acts 9)[^169][^170].
 
 <?viz contradictions/paul?>
 `,
@@ -290,7 +290,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** Luke links Jesus' birth to the reign of Herod (who died in 4 BC) and a census under Quirinius (who became governor of Syria in 6 AD).
 
-**Clarification:** This is the most substantial historical objection in the list, and none of the answers is free of difficulty[^167][^168]. The Greek of Luke 2:2, αὕτη ἀπογραφὴ πρώτη ἐγένετο (*hautē apographē prōtē egeneto*), can be read as "this registration was before Quirinius was governing Syria", which removes the clash, though the construction is unusual and most translators have not taken it that way[^169][^170][^171]. A second answer proposes an earlier commission for Quirinius in the east under Herod, which is possible but not directly attested; the Lapis Tiburtinus inscription naming an unnamed official twice made legate is often cited and does not name him[^172][^173][^174]. Josephus places the census of Quirinius in 6 AD and treats it as a novelty that provoked revolt, which is the weight of evidence on the other side[^175][^176][^177]. What can be said is that Luke knew of that 6 AD census and refers to it in [Acts 5:37](https://www.biblegateway.com/passage/?search=Acts+5%3A37&version=NIV), which tells against the idea that he simply confused its date[^178].
+**Clarification:** This is the most substantial historical objection in the list, and none of the answers is free of difficulty[^171][^172]. The Greek of Luke 2:2, αὕτη ἀπογραφὴ πρώτη ἐγένετο (*hautē apographē prōtē egeneto*), can be read as "this registration was before Quirinius was governing Syria", which removes the clash, though the construction is unusual and most translators have not taken it that way[^173][^174][^175]. A second answer proposes an earlier commission for Quirinius in the east under Herod, which is possible but not directly attested; the Lapis Tiburtinus inscription naming an unnamed official twice made legate is often cited and does not name him[^176][^177][^178]. Josephus places the census of Quirinius in 6 AD and treats it as a novelty that provoked revolt, which is the weight of evidence on the other side[^179][^180][^181]. What can be said is that Luke knew of that 6 AD census and refers to it in [Acts 5:37](https://www.biblegateway.com/passage/?search=Acts+5%3A37&version=NIV), which tells against the idea that he simply confused its date[^182].
 
 **See also:** [New Testament Archaeological Evidence (Archaeology)](/categories/archaeological#section-new-testament).
 `,
@@ -301,7 +301,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Mark 6:8 records Jesus telling the disciples to take a staff, whereas Matthew and Luke record Him telling them not to take a staff.
 
-**Clarification:** Matthew uses the Greek verb *ktaomai* (κτάομαι, acquire), meaning "to acquire" or "to buy extra." Jesus was commanding them not to buy *new* gear for the trip[^179][^180]. Mark uses *airo* (αἴρω, take), meaning "to take what you have." Jesus wanted them to take their existing staff but avoid procuring extra supplies, emphasizing reliance on God. This distinction works for Matthew but not for Luke 9:3, which uses the same verb as Mark (*airo*), so for Luke the answer must be that the Gospels preserve the sense of the instruction (travel light and depend on hospitality) rather than its exact wording[^181][^182].`,
+**Clarification:** Matthew uses the Greek verb *ktaomai* (κτάομαι, acquire), meaning "to acquire" or "to buy extra." Jesus was commanding them not to buy *new* gear for the trip[^183][^184]. Mark uses *airo* (αἴρω, take), meaning "to take what you have." Jesus wanted them to take their existing staff but avoid procuring extra supplies, emphasizing reliance on God. This distinction works for Matthew but not for Luke 9:3, which uses the same verb as Mark (*airo*), so for Luke the answer must be that the Gospels preserve the sense of the instruction (travel light and depend on hospitality) rather than its exact wording[^185][^186].`,
     },
     {
       id: 'CenturionServant',
@@ -309,7 +309,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew records that the centurion came personally to Jesus, whereas Luke records that he sent Jewish elders on his behalf.
 
-**Clarification:** This employs the standard ancient and modern legal principle of agency, that what a person does through their representative is described as being done by themselves[^183][^184]. Matthew highlights the centurion as the source of the request for brevity, while Luke provides the precise historical mechanism of his messengers[^185][^186].`,
+**Clarification:** This employs the standard ancient and modern legal principle of agency, that what a person does through their representative is described as being done by themselves[^187][^188]. Matthew highlights the centurion as the source of the request for brevity, while Luke provides the precise historical mechanism of his messengers[^189][^190].`,
     },
     {
       id: 'SaulsDeath',
@@ -317,7 +317,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** 1 Samuel records Saul committing suicide by falling on his own sword, whereas 2 Samuel records an Amalekite claiming he killed Saul.
 
-**Clarification:** 1 Samuel records the actual historical event[^187]. 2 Samuel records a character telling a lie: the Amalekite found Saul's dead body, stole his crown, and fabricated the story of a mercy-killing to gain a reward from David[^188][^189].`,
+**Clarification:** 1 Samuel records the actual historical event[^191]. 2 Samuel records a character telling a lie: the Amalekite found Saul's dead body, stole his crown, and fabricated the story of a mercy-killing to gain a reward from David[^192][^193].`,
     },
     {
       id: 'WhoKilledGoliath',
@@ -325,7 +325,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 1 Samuel records David killing Goliath, whereas 2 Samuel 21:19 records that Elhanan killed Goliath.
 
-**Clarification:** The usual conservative answer is a copyist error in 2 Samuel, corrected by the parallel passage in 1 Chronicles 20:5; many critical scholars instead think the Elhanan tradition is older and that Chronicles harmonised it with the David story[^190][^191]. 1 Chronicles preserves the original reading: Elhanan killed Lahmi, the *brother of* Goliath[^192][^193][^194]. 1 Chronicles 20:5 reads אֶת־לַחְמִי אֲחִי גָּלְיָת (*et-Lachmi achi Golyat*, "Lahmi the brother of Goliath"), and 2 Samuel 21:19 reads בֵּית הַלַּחְמִי אֵת גָּלְיָת (*Beit ha-Lachmi et Golyat*, "the Bethlehemite, Goliath"). The consonants are almost the same, so a scribe in 2 Samuel misread "brother of" as "Bethlehemite" and omitted Lahmi's name[^195][^196].`,
+**Clarification:** The usual conservative answer is a copyist error in 2 Samuel, corrected by the parallel passage in 1 Chronicles 20:5; many critical scholars instead think the Elhanan tradition is older and that Chronicles harmonised it with the David story[^194][^195]. 1 Chronicles preserves the original reading: Elhanan killed Lahmi, the *brother of* Goliath[^196][^197][^198]. 1 Chronicles 20:5 reads אֶת־לַחְמִי אֲחִי גָּלְיָת (*et-Lachmi achi Golyat*, "Lahmi the brother of Goliath"), and 2 Samuel 21:19 reads בֵּית הַלַּחְמִי אֵת גָּלְיָת (*Beit ha-Lachmi et Golyat*, "the Bethlehemite, Goliath"). The consonants are almost the same, so a scribe in 2 Samuel misread "brother of" as "Bethlehemite" and omitted Lahmi's name[^199][^200].`,
     },
     {
       id: 'MichalsChildren',
@@ -333,7 +333,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 2 Samuel 6:23 states Michal had no children, whereas 2 Samuel 21:8 mentions her five sons.
 
-**Clarification:** This is probably a copyist slip where Michal's name was written instead of her sister Merab, which is the reading of two Hebrew manuscripts and some Septuagint manuscripts[^197]. 1 Samuel 18:19 records that Merab married Adriel, the father of the five sons[^198][^199]. Alternatively, Michal may have adopted and raised her deceased sister Merab's five sons[^200][^201][^202].`,
+**Clarification:** This is probably a copyist slip where Michal's name was written instead of her sister Merab, which is the reading of two Hebrew manuscripts and some Septuagint manuscripts[^201]. 1 Samuel 18:19 records that Merab married Adriel, the father of the five sons[^202][^203]. Alternatively, Michal may have adopted and raised her deceased sister Merab's five sons[^204][^205][^206].`,
     },
     {
       id: 'SolomonsStalls',
@@ -341,7 +341,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Numbers and copying"],
       content: `**Supposed Contradiction:** 1 Kings records Solomon having 40,000 stalls for horses, whereas 2 Chronicles records 4,000 stalls.
 
-**Clarification:** This is a scribal transcription error where a copyist added a plural ending to the Hebrew word for 'four' (אַרְבַּעַת, *arba'at*, 'four', against אַרְבָּעִים, *arba'im*, 'forty'), multiplying the original number 4,000 by ten[^203][^204]. The number 4,000 matches the proportional 12,000 horsemen and is logistically realistic[^205][^206][^207].`,
+**Clarification:** This is a scribal transcription error where a copyist added a plural ending to the Hebrew word for 'four' (אַרְבַּעַת, *arba'at*, 'four', against אַרְבָּעִים, *arba'im*, 'forty'), multiplying the original number 4,000 by ten[^207][^208]. The number 4,000 matches the proportional 12,000 horsemen and is logistically realistic[^209][^210][^211].`,
     },
     {
       id: 'PunishingSons',
@@ -349,7 +349,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Theology"],
       content: `**Supposed Contradiction:** Exodus records God visiting the sins of the fathers on their children, whereas Ezekiel records that children will not bear their fathers' iniquity.
 
-**Clarification:** Exodus describes the *earthly, natural consequences* of sin affecting future generations within a family[^208][^209]. Ezekiel describes *eternal, spiritual guilt* before God, where every individual is judged solely for their own choices[^210].
+**Clarification:** Exodus describes the *earthly, natural consequences* of sin affecting future generations within a family[^212][^213]. Ezekiel describes *eternal, spiritual guilt* before God, where every individual is judged solely for their own choices[^214].
 
 **See also:** [Is It Fair to Inherit Adam's Sin? (The Tree of Knowledge)](/categories/tree-of-knowledge#section-is-original-sin-fair).
 `,
@@ -360,7 +360,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Both", "Chronology"],
       content: `**Supposed Contradiction:** Exodus states the Israelites lived in Egypt for 430 years, whereas Galatians states the Law came 430 years after Abraham.
 
-**Clarification:** The Septuagint and the Samaritan Pentateuch read in Exodus 12:40 that they lived in Egypt *and Canaan* for 430 years, whereas the Masoretic Text has Egypt alone[^211][^212]. On that reading the 430-year period began with the promise to Abraham, spanning 215 years in Canaan and 215 in Egypt. Those who follow the Masoretic Text reply that Paul may be counting from the promise's last confirmation to Jacob, or using the Septuagint figure familiar to his audience[^213][^214].`,
+**Clarification:** The Septuagint and the Samaritan Pentateuch read in Exodus 12:40 that they lived in Egypt *and Canaan* for 430 years, whereas the Masoretic Text has Egypt alone[^215][^216]. On that reading the 430-year period began with the promise to Abraham, spanning 215 years in Canaan and 215 in Egypt. Those who follow the Masoretic Text reply that Paul may be counting from the promise's last confirmation to Jacob, or using the Septuagint figure familiar to his audience[^217][^218].`,
     },
     {
       id: 'JacobsFamily',
@@ -368,7 +368,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Both", "Numbers and copying"],
       content: `**Supposed Contradiction:** Genesis records 70 people of Jacob's household going to Egypt, whereas Stephen in Acts records 75 people.
 
-**Clarification:** Genesis uses the Hebrew Masoretic count of 70 (direct descendants)[^215]. Stephen quoted the Septuagint Greek translation, which counts 75 by including five additional grandsons of Joseph born in Egypt[^216][^217]. Both are correct under their respective criteria.`,
+**Clarification:** Genesis uses the Hebrew Masoretic count of 70 (direct descendants)[^219][^220]. Stephen quoted the Septuagint Greek translation, which counts 75 by including five additional grandsons of Joseph born in Egypt[^220][^221]. Both are correct under their respective criteria.`,
     },
     {
       id: 'PostResurrection',
@@ -376,7 +376,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew records Jesus commanding the disciples to meet Him in Galilee, whereas Luke records Him telling them to stay in Jerusalem.
 
-**Clarification:** These accounts describe different parts of a 40-day sequence[^218]. The disciples remained in Jerusalem initially, then traveled to Galilee where Jesus appeared to them (Matthew), and finally returned to Jerusalem prior to the Ascension and Pentecost (Luke)[^219].`,
+**Clarification:** These accounts describe different parts of a 40-day sequence[^222]. The disciples remained in Jerusalem initially, then traveled to Galilee where Jesus appeared to them (Matthew), and finally returned to Jerusalem prior to the Ascension and Pentecost (Luke)[^223][^222].`,
     },
     {
       id: 'PassoverTiming',
@@ -384,7 +384,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Chronology"],
       content: `**Supposed Contradiction:** The Synoptics place the Last Supper as the Passover meal (Thursday), whereas John places the crucifixion on the Preparation of the Passover (Friday).
 
-**Clarification:** Two answers carry weight[^220]. The first appeals to competing calendars, with Galileans and Pharisees keeping the meal on Thursday evening and Judeans and Sadducees on Friday evening, so that both writers describe a real Passover[^221][^222][^223][^224]. The second reads John's "day of Preparation" as Friday of Passover week, the day before the Sabbath, rather than preparation for the Seder itself, which removes the clash without positing two calendars[^225][^226]. A third position holds that John has moved the day deliberately so that Jesus dies as the lambs are killed, a theological arrangement rather than a chronological claim, and this reading is common among critical scholars[^227][^228].`,
+**Clarification:** Two answers carry weight[^224]. The first appeals to competing calendars, with Galileans and Pharisees keeping the meal on Thursday evening and Judeans and Sadducees on Friday evening, so that both writers describe a real Passover[^225][^226][^227][^228]. The second reads John's "day of Preparation" as Friday of Passover week, the day before the Sabbath, rather than preparation for the Seder itself, which removes the clash without positing two calendars[^229][^230]. A third position holds that John has moved the day deliberately so that Jesus dies as the lambs are killed, a theological arrangement rather than a chronological claim, and this reading is common among critical scholars[^231][^232].`,
     },
     {
       id: 'TemptationOrder',
@@ -392,7 +392,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Parallel accounts"],
       content: `**Supposed Contradiction:** Matthew and Luke record different orders for the second and third temptations of Jesus.
 
-**Clarification:** Matthew uses chronological conjunctions ("then," "again"), representing the historical order[^229][^230]. Luke uses the simple "and," presenting the temptations in a thematic order ending at the Jerusalem Temple for theological emphasis[^231][^232].`,
+**Clarification:** Matthew uses chronological conjunctions ("then," "again"), representing the historical order[^233][^234]. Luke uses the simple "and," presenting the temptations in a thematic order ending at the Jerusalem Temple for theological emphasis[^235][^236].`,
     },
     {
       id: 'MosesDeath',
@@ -400,7 +400,7 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["Old Testament", "Authorship"],
       content: `**Supposed Contradiction:** Deuteronomy 34 records the death and burial of Moses, yet the book is traditionally attributed to him.
 
-**Clarification:** On the traditional view, Moses wrote the substance of the Pentateuch, and his successor Joshua (or a later inspired scribe) added the final chapter as an obituary; the Talmud (Bava Batra 14b-15a) already attributes the last eight verses to Joshua[^233][^234][^235]. Editorial additions of this kind do not by themselves negate Mosaic authorship, though critical scholarship holds that the Pentateuch as a whole was compiled much later from several sources[^236][^237].
+**Clarification:** On the traditional view, Moses wrote the substance of the Pentateuch, and his successor Joshua (or a later inspired scribe) added the final chapter as an obituary; the Talmud (Bava Batra 14b-15a) already attributes the last eight verses to Joshua[^237][^238][^239]. Editorial additions of this kind do not by themselves negate Mosaic authorship, though critical scholarship holds that the Pentateuch as a whole was compiled much later from several sources[^240][^241].
 
 **See also:** [Where Traditional and Critical Scholarship Diverge (The 66 Books)](/categories/bible-books#section-traditional-and-critical).
 `,
@@ -411,15 +411,15 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
       tags: ["New Testament", "Theology"],
       content: `**Supposed Contradiction:** In John 14:28 Jesus says "the Father is greater than I," implying He is inferior to God. Yet Philippians 2:6 says He existed "in the form of God" and did not regard "equality with God" as something to exploit, and in John 5:18 His opponents tried to kill Him because He "was making himself equal with God." John 10:30 has Him declare "I and the Father are one." Is Jesus equal to God or not?
 
-**Clarification:** The resolution lies in the distinction Christian theology draws between **who Jesus is by nature** (ontological equality) and **what role He accepted during the incarnation** (economic or functional subordination)[^238].
+**Clarification:** The resolution lies in the distinction Christian theology draws between **who Jesus is by nature** (ontological equality) and **what role He accepted during the incarnation** (economic or functional subordination)[^242].
 
-**The Greek of Philippians 2:6-8** makes this explicit. Paul says Jesus existed in the *morphē theou* (μορφῇ θεοῦ, "form of God"), where the Greek *morphē* (μορφή, Strong's 3444) is read by many commentators, following J. B. Lightfoot, as the essential, defining characteristics that make something what it is rather than mere outward shape; others take it as "visible form" or divine glory, which on either reading is something only God possesses[^239][^240]. Being in the very form of God, He possessed full deity. The word rendered "equality" is the Greek *isos* (ἴσος, Strong's 2470), meaning equal or equivalent[^241]. Paul's point is that Jesus did not cling to the *privileges* of that equality but voluntarily emptied Himself (*kenosis* (κένωσις, emptying)) by taking the form of a servant and being made in human likeness[^242][^243]. The self-emptying was not a subtraction from His divine nature but an addition of human nature and a voluntary setting aside of the independent exercise of His divine prerogatives[^244].
+**The Greek of Philippians 2:6-8** makes this explicit. Paul says Jesus existed in the *morphē theou* (μορφῇ θεοῦ, "form of God"), where the Greek *morphē* (μορφή, Strong's 3444) is read by many commentators, following J. B. Lightfoot, as the essential, defining characteristics that make something what it is rather than mere outward shape; others take it as "visible form" or divine glory, which on either reading is something only God possesses[^243][^244]. Being in the very form of God, He possessed full deity. The word rendered "equality" is the Greek *isos* (ἴσος, Strong's 2470), meaning equal or equivalent[^245]. Paul's point is that Jesus did not cling to the *privileges* of that equality but voluntarily emptied Himself (*kenosis* (κένωσις, emptying)) by taking the form of a servant and being made in human likeness[^246][^247][^248]. The self-emptying was not a subtraction from His divine nature but an addition of human nature and a voluntary setting aside of the independent exercise of His divine prerogatives[^249].
 
-**John 14:28 in its immediate context** is about Jesus' departure. He tells the disciples: "You heard me say, 'I am going away and I am coming back to you.' If you loved me, you would be glad that I am going to the Father, for the Father is greater than I"[^245]. The reason they should be glad is that Jesus is about to leave His present state of humiliation, suffering, and limitation as a man walking toward the cross, and return to the glory He had with the Father before the world began ([John 17:5](https://www.biblegateway.com/passage/?search=John+17%3A5&version=NIV))[^246]. "Greater" (*meizōn* (μείζων, greater), Strong's 3187) is read in orthodox interpretation as referring to the Father's position, not His nature; Athanasius noted that Jesus said "greater" rather than "better" (*kreittōn* (κρείττων, better)), though the word alone does not settle the question and the reading rests on the wider Johannine context. A king is "greater" than a soldier on the battlefield in rank and station, but they share the same human nature. In the same way, the Father was "greater" than the incarnate Son in positional glory and authority, while they remained equal in divine essence[^247][^248].
+**John 14:28 in its immediate context** is about Jesus' departure. He tells the disciples: "You heard me say, 'I am going away and I am coming back to you.' If you loved me, you would be glad that I am going to the Father, for the Father is greater than I"[^250][^251]. The reason they should be glad is that Jesus is about to leave His present state of humiliation, suffering, and limitation as a man walking toward the cross, and return to the glory He had with the Father before the world began ([John 17:5](https://www.biblegateway.com/passage/?search=John+17%3A5&version=NIV))[^252]. "Greater" (*meizōn* (μείζων, greater), Strong's 3187) is read in orthodox interpretation as referring to the Father's position, not His nature; Athanasius noted that Jesus said "greater" rather than "better" (*kreittōn* (κρείττων, better)), though the word alone does not settle the question and the reading rests on the wider Johannine context. A king is "greater" than a soldier on the battlefield in rank and station, but they share the same human nature. In the same way, the Father was "greater" than the incarnate Son in positional glory and authority, while they remained equal in divine essence[^251][^253].
 
-**Other passages confirm the equality of essence.** In John 5:18, the Jewish leaders understood exactly what Jesus was claiming, that by calling God His own Father He was "making himself equal with God", and they sought to kill Him for it[^249]. In John 10:30, "I and the Father are one" (Greek *hen* (ἕν, one), neuter, "one thing" rather than "one person", which rules out merging Father and Son into a single person and is widely read as unity of nature) prompted the same reaction: the crowd picked up stones for blasphemy ([John 10:33](https://www.biblegateway.com/passage/?search=John+10%3A33&version=NIV))[^250]. Hebrews 1:3 calls the Son "the exact representation of [God's] being," and Colossians 2:9 states that "in Christ all the fullness of the Deity lives in bodily form"[^251].
+**Other passages confirm the equality of essence.** In John 5:18, the Jewish leaders understood exactly what Jesus was claiming, that by calling God His own Father He was "making himself equal with God", and they sought to kill Him for it[^254]. In John 10:30, "I and the Father are one" (Greek *hen* (ἕν, one), neuter, "one thing" rather than "one person", which rules out merging Father and Son into a single person and is widely read as unity of nature) prompted the same reaction: the crowd picked up stones for blasphemy ([John 10:33](https://www.biblegateway.com/passage/?search=John+10%3A33&version=NIV))[^255]. Hebrews 1:3 calls the Son "the exact representation of [God's] being," and Colossians 2:9 states that "in Christ all the fullness of the Deity lives in bodily form"[^256][^247].
 
-**In summary:** "Equal" describes Jesus' divine nature, *what* He is. "Greater" describes the Father's position relative to the incarnate Son, a difference in *role*, not in *being*. There is no contradiction because the two statements are not made in the same sense. One speaks of eternal essence, the other of the voluntary, temporary arrangement of the incarnation[^252].
+**In summary:** "Equal" describes Jesus' divine nature, *what* He is. "Greater" describes the Father's position relative to the incarnate Son, a difference in *role*, not in *being*. There is no contradiction because the two statements are not made in the same sense. One speaks of eternal essence, the other of the voluntary, temporary arrangement of the incarnation[^257].
 
 **See also:** [Common Objections Answered (The Trinity)](/categories/trinity#section-objections), [Addressing Objections: Verses Where Jesus Differentiates Himself From the Father (Jesus' Claims)](/categories/jesus#section-objections).
 `,
@@ -489,196 +489,201 @@ The principle of "Scripture interprets Scripture" means that an apparent contrad
     "60. [Apologetics] Got Questions. 'Why Are Jesus' Genealogies in Matthew and Luke So Different?' (2025). https://gotquestions.org/Jesus-genealogy.html",
     "61. [Academic] 'Jesus’ Davidic Lineage and the Case for Jewish Adoption | New Testament Studies | Cambridge Core.' Cambridge University Press. https://www.cambridge.org/core/journals/new-testament-studies/article/jesus-davidic-lineage-and-the-case-for-jewish-adoption/92B32A053628FD94923EA24871CCBC2C",
     "62. [Apologetics] The Gospel Coalition Canada. 'Why Do Matthew and Luke's Genealogies of Jesus Differ?.' https://ca.thegospelcoalition.org/columns/detrinitate/why-do-matthew-and-lukes-genealogies-of-jesus-differ/",
-    "63. [Christian Source] The Scott Smith Blog. 'Why Are Jesus' Genealogies in Matthew and Luke Different?' https://www.thescottsmithblog.com/2021/06/why-are-jesus-genealogies-in-matthew.html",
-    "64. [Commentary] Bible.org. 'The Genealogy of Jesus, Luke 3:23-38.' https://bible.org/seriespage/lesson-14-genealogy-jesus-luke-323-38",
-    "65. [Primary Source] New Advent, Church Fathers. 'Eusebius, Church History Book I, quoting Julius Africanus on the genealogies.' https://www.newadvent.org/fathers/250101.htm",
-    "66. [Creationist] Creation Ministries International. 'Tracing the Sceptre, Reconciling Views on the Genealogies of Jesus.' https://creation.com/en/articles/jesus-genealogies-royal-vs-biological-lines",
-    "67. [Wikipedia] 'Levirate Marriage.' https://en.wikipedia.org/wiki/Levirate_marriage",
-    "68. [Christian Source] The Reformed Classicalist. 'Why Are There Two Different Genealogies of Jesus?.' https://www.reformedclassicalist.com/home/why-are-there-two-different-genealogies-of-jesus",
-    "69. [Commentary] Logos Bible Study. 'The Genealogy of Jesus, Part 2.' https://www.logosbiblestudy.com/blog/2021/5/27/the-genealogy-of-jesus-part-2",
-    "70. [Christian Source] Staseos. 'On Matthew and Luke's Genealogies.' https://www.staseos.net/post/on-matthew-and-luke-s-contradictory-genealogies",
-    "71. [Apologetics] Got Questions. 'Why was God so angry at David for taking the census?' https://www.gotquestions.org/David-census.html",
-    "72. [Apologetics] Ligonier Ministries. 'Who Called David's Census, God or Satan?.' https://learn.ligonier.org/articles/davids-census",
-    "73. [Commentary] Bible Hub. 'Why Do 1 Chronicles 21:1 and 2 Samuel 24:1 Differ?.' https://biblehub.com/q/why_do_1_chr_21_1_and_2_sam_24_1_differ.htm",
-    "74. [Creationist] Answers in Genesis. 'Contradiction: Who Incited David to Count the Fighting Men of Israel?.' https://answersingenesis.org/contradictions-in-the-bible/contradiction-who-incited-david-to-count-the-fighting-men-of-israel/",
-    "75. [Commentary] Enduring Word, David Guzik. '2 Samuel 24, David and the Census.' https://enduringword.com/bible-commentary/2-samuel-24/",
-    "76. [Christian Source] Why Theology. 'Difficult Passages, 2 Samuel 24 and 1 Chronicles 21.' https://whytheology.wordpress.com/2012/10/15/difficult-passages-2-samuel-24-vs-1-chronicles-21/",
-    "77. [Apologetics] Got Questions. 'Matthew 20:29-34 Says Jesus Healed Two Blind Men; Mark and Luke Say One. Is This a Contradiction?.' https://www.gotquestions.org/one-two-blind-men.html",
-    "78. [Academic] Peter Goeman. 'Does Blind Bartimaeus Expose a Contradiction in the Gospels?.' https://petergoeman.com/does-blind-bartimaeus-expose-a-contradiction-in-the-gospels/",
-    "79. [Academic] Psephizo, Ian Paul. 'Blind Bartimaeus Is Healed in Mark 10.' https://www.psephizo.com/biblical-studies/blind-bartimaeus-is-healed-in-mark-10/",
-    "80. [Wikipedia] 'Jericho.' https://en.wikipedia.org/wiki/Jericho",
-    "81. [Archaeology] BiblePlaces. 'Jericho.' https://www.bibleplaces.com/jericho/",
-    "82. [Commentary] Werner Bible Commentary. 'Blind Bartimaeus and His Companion.' https://wernerbiblecommentary.org/?q=book%2Fprint%2F426",
-    "83. [Apologetics] The Gospel Coalition. 'Judas's Demise in Matthew 27 and Acts 1.' https://www.thegospelcoalition.org/article/judas-demise-matthew-1-acts-1/",
-    "84. [Creationist] Answers in Genesis. 'Contradictions: How Did Judas Die?.' https://answersingenesis.org/contradictions-in-the-bible/how-did-judas-die/",
-    "85. [Commentary] Bible Hub. 'How Do Matthew 27:5 and Acts 1:18 Align?.' https://biblehub.com/q/how_do_matthew_27_5_and_acts_1_18_align.htm",
-    "86. [Academic] James Bishop. 'Against Inerrancy: The Death of Judas Iscariot.' https://jamesbishopblog.com/2024/09/15/against-inerrancy-the-death-of-judas-iscariot-matthew-275-v-acts-118/",
-    "87. [Encyclopedia] 'Haceldama.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/07103b.htm",
-    "88. [Wikipedia] 'Matthew 27:8.' https://en.wikipedia.org/wiki/Matthew_27:8",
-    "89. [Wikipedia] 'Judas Iscariot.' https://en.wikipedia.org/wiki/Judas_Iscariot",
-    "90. [Apologetics] Got Questions. 'What Time Was Jesus Crucified? What Time Did Jesus Die on the Cross?.' https://www.gotquestions.org/what-time-was-Jesus-crucified.html",
-    "91. [Apologetics] Evidence Unseen. 'Was Jesus Crucified at the Third Hour or the Sixth Hour?.' https://evidenceunseen.com/new-testament/john/difficulties/was-jesus-crucified-on-the-third-hour-or-the-sixth-hour",
-    "92. [Apologetics] Catholic Fidelity, Steve Ray. 'What Time of Day Was Christ Crucified?.' https://www.catholicfidelity.com/apologetics-topics/misc/what-time-of-the-day-was-chrsit-crucified-by-steve-ray/",
-    "93. [Apologetics] Truth in My Days. 'Sixth Hour or Third Hour? A Discrepancy Examined.' https://www.truthinmydays.com/post/sixth-hour-john-19-14-or-third-hour-mark-15-25-an-intractable-discrepancy-solved",
-    "94. [Commentary] The Bible Made Plain. 'What Is the Sixth Hour in John 19:14?.' https://thebiblemadeplain.com/what-is-the-sixth-hour-in-john-1914/",
-    "95. [Christian Source] Emmanuel Baptist Church. 'About the Sixth Hour.' https://ebcelkhorn.com/about-the-sixth-hour/",
-    "96. [Wikipedia] 'Roman Timekeeping.' https://en.wikipedia.org/wiki/Roman_timekeeping",
-    "97. [Wikipedia] 'Hour.' https://en.wikipedia.org/wiki/Hour",
-    "98. [Academic] Bart Ehrman. 'Who Helped Jesus Carry the Cross?' (2024). https://www.bartehrman.com/who-helped-jesus-carry-the-cross/",
-    "99. [Wikipedia] 'Simon of Cyrene.' https://en.wikipedia.org/wiki/Simon_of_Cyrene",
-    "100. [Academic] Bryn Mawr Classical Review. 'Cook, Crucifixion in the Mediterranean World.' https://bmcr.brynmawr.edu/2017/2017.01.19/",
-    "101. [Academic] BJU Seminary. 'The Man from Cyrene.' https://seminary.bju.edu/theology-in-3d/the-man-from-cyrene/",
-    "102. [Creationist] Answers in Genesis. 'Who Really Carried the Cross of Jesus?.' https://answersingenesis.org/contradictions-in-the-bible/who-really-carried-the-cross-of-jesus/",
-    "103. [Wikipedia] 'Sayings of Jesus on the Cross.' https://en.wikipedia.org/wiki/Sayings_of_Jesus_on_the_cross",
-    "104. [Encyclopedia] Encyclopedia.com. 'Seven Last Words.' https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/seven-last-words",
-    "105. [Commentary] JesusWalk. 'The Seven Last Words of Christ from the Cross.' https://www.jesuswalk.com/7-last-words/",
-    "106. [Academic] Eric Redmond. 'Seven Last Words of Christ: Order, Placement, Significance.' https://ericredmond.wordpress.com/2011/04/21/seven-last-words-of-christ-order-placement-significance/",
-    "107. [Commentary] Bible Hub. 'Commentaries on 1 Timothy 6:16.' https://biblehub.com/commentaries/1_timothy/6-16.htm",
-    "108. [Wikipedia] 'Theophany.' https://en.wikipedia.org/wiki/Theophany",
-    "109. [Creationist] Answers in Genesis. 'Has Anyone Seen God?.' https://answersingenesis.org/contradictions-in-the-bible/has-anyone-seen-god/",
-    "110. [Apologetics] Ligonier Ministries. 'Seeing God Face to Face.' https://learn.ligonier.org/devotionals/seeing-god-face-face",
-    "111. [Commentary] Bible Hub. 'Is It a Contradiction That Jacob Saw God?.' https://biblehub.com/q/is_it_a_contradiction_that_jacob_saw_god.htm",
-    "112. [Lexicon] Bible Hub. 'Strong's Hebrew 6440, panim, face or presence.' https://biblehub.com/hebrew/6440.htm",
-    "113. [Apologetics] The Gospel Coalition. 'Do Paul and James Disagree on Justification by Faith Alone?.' https://www.thegospelcoalition.org/article/do-paul-james-disagree-on-justification-by-faith-alone/",
-    "114. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Justification.' https://www.newadvent.org/cathen/08573a.htm",
-    "115. [Lexicon] Bible Hub. 'Strong's Greek 1344, dikaioo, to justify.' https://biblehub.com/greek/1344.htm",
-    "116. [Apologetics] Got Questions. 'How Can You Believe in Salvation by Faith Alone When James 2:24 Says It Is Not by Faith Alone?.' https://www.gotquestions.org/faith-alone.html",
-    "117. [Commentary] Bible Hub. 'Reconciling James 2:24 with Ephesians 2:8-9.' https://biblehub.com/q/Reconciling_James_2_24_Eph_2_8-9.htm",
-    "118. [Apologetics] Got Questions. 'Was Ahaziah 22 Years Old (2 Kings 8:26) or 42 Years Old (2 Chronicles 22:2) When He Started His Reign?.' https://www.gotquestions.org/Ahaziah-22-42.html",
-    "119. [Apologetics] Christian Courier. 'Is There a Bible Contradiction Regarding Ahaziah's Age?.' https://christiancourier.com/articles/is-there-a-bible-contradiction-regarding-ahaziahs-age",
-    "120. [Commentary] Updated American Standard Version. 'Textual Commentary on 2 Chronicles 22:2.' https://uasvbible.org/2025/08/15/textual-commentary-on-2-chronicles-222/",
-    "121. [Apologetics] Apologetics Press. 'Chronology and the Cleansing of the Temple.' https://apologeticspress.org/chronology-and-the-cleansing-of-the-temple-660/",
-    "122. [Commentary] Reasonable Theology. 'Did Jesus Cleanse the Temple Once or Twice?.' https://reasonabletheology.org/did-jesus-cleanse-the-temple-once-or-twice-evidence-for-twice/",
-    "123. [Wikipedia] 'Cleansing of the Temple.' https://en.wikipedia.org/wiki/Cleansing_of_the_Temple",
-    "124. [Commentary] Bible Hub. 'Did the Temple Cleansing Occur Twice?.' https://biblehub.com/q/did_the_temple_cleansing_occur_twice.htm",
-    "125. [Apologetics] Themelios. 'Revisiting the Time of Abiathar the High Priest.' https://www.thegospelcoalition.org/themelios/article/revisiting-the-time-of-abiathar-the-high-priest/",
-    "126. [Commentary] Bible.org. 'Mark 2:26 and the Problem of Abiathar.' https://bible.org/article/mark-226-and-problem-abiathar",
-    "127. [Apologetics] Got Questions. 'Why Does Jesus Call Abiathar the High Priest in Mark 2:26, When 1 Samuel 21 Indicates It Was Ahimelech?.' https://www.gotquestions.org/Abiathar-Ahimelech.html",
-    "128. [Apologetics] CARM. 'Was Abiathar or Ahimelech the High Priest?.' https://carm.org/bible-difficulties/was-abiathar-or-ahimelech-the-high-priest-mark-226-and-1-samuel-211/",
-    "129. [Apologetics] Got Questions. 'Can the Various Resurrection Accounts from the Four Gospels Be Harmonized?.' https://www.gotquestions.org/resurrection-accounts.html",
-    "130. [Commentary] Kathy Howard. 'How to Harmonize the Gospel Resurrection Accounts.' https://www.kathyhoward.org/how-to-harmonize-the-gospel-resurrection-accounts/",
-    "131. [Academic] Bart Ehrman. 'A Fuller Account of the Resurrection Discrepancies.' https://ehrmanblog.org/fuller-account-of-resurrection-discrepancies/",
-    "132. [Commentary] JesusWalk. 'A Possible Harmonization of the Resurrection Accounts.' https://www.jesuswalk.com/john/appendix_11.htm",
-    "133. [Commentary] Christian Publishing House. 'Harmonizing the Post-Resurrection Appearances.' https://christianpublishinghouse.co/2025/01/06/how-can-we-harmonize-the-post-resurrection-appearances-and-confirm-the-integrity-of-the-gospel-accounts/",
-    "134. [Commentary] Bible Hub. 'Commentaries on Luke 24:4.' https://biblehub.com/commentaries/luke/24-4.htm",
-    "135. [Lexicon] Bible Hub. 'Strong's Hebrew 5162, nacham, to be sorry or relent.' https://biblehub.com/hebrew/5162.htm",
-    "136. [Commentary] Sola. 'What Does Nacham Mean in Genesis 6:6?.' https://www.solabibleapp.com/blog/2026-02-24-what-does-nacham-mean",
-    "137. [Commentary] Bible Hub. 'Commentaries on Numbers 23:19.' https://biblehub.com/commentaries/numbers/23-19.htm",
-    "138. [Wikipedia] 'Anthropomorphism.' https://en.wikipedia.org/wiki/Anthropomorphism",
-    "139. [Commentary] Reasons for Hope. 'What About the Verses That Say God Repented?.' https://reasonsforhopejesus.com/verses-god-repented/",
-    "140. [Christian Source] Catholic Productions, Brant Pitre. 'Does God Change His Mind?.' https://catholicproductions.com/blogs/blog/god-repents-in-the-bible",
-    "141. [Wikipedia] 'Immutability (theology).' https://en.wikipedia.org/wiki/Immutability_(theology)",
-    "142. [Wikipedia] 'Eye for an Eye.' https://en.wikipedia.org/wiki/Eye_for_an_eye",
-    "143. [Encyclopedia] EBSCO Research Starters. 'Eye for an Eye, Talion.' https://www.ebsco.com/research-starters/history/eye-eye-talion",
-    "144. [Wikipedia] 'Matthew 5:38.' https://en.wikipedia.org/wiki/Matthew_5:38",
-    "145. [Lexicon] Bible Hub. Greek 3404, miseo. https://biblehub.com/greek/3404.htm",
-    "146. [Lexicon] Bible Hub. Hebrew 8130, sane. https://biblehub.com/hebrew/8130.htm",
-    "147. [Apologetics] GotQuestions.org. Why did Jesus say to hate your father and mother? https://www.gotquestions.org/hate-father-mother.html",
-    "148. [Commentary] Bible Hub. Commentaries on Luke 14:26, including the Cambridge Bible for Schools and Colleges. https://biblehub.com/commentaries/luke/14-26.htm",
-    "149. [Lexicon] Bible Hub. Greek 3162, machaira. https://biblehub.com/greek/3162.htm",
-    "150. [Lexicon] Bible Hub. Greek 1267, diamerismos. https://biblehub.com/greek/1267.htm",
-    "151. [Commentary] Bible Hub. Commentaries on Matthew 10:34, including Barnes' Notes. https://biblehub.com/commentaries/matthew/10-34.htm",
-    "152. [Apologetics] Apologetics Press. 'What Was the Inscription on the Cross?.' https://apologeticspress.org/what-was-the-inscription-on-the-cross-1424/",
-    "153. [Apologetics] ChristianAnswers.Net. 'Why Do the Four Gospels Give Different Versions of the Inscription?.' https://christiananswers.net/q-aig/aig-t001.html",
-    "154. [Creationist] Answers in Genesis. 'Contradictions: Crossed Messages.' https://answersingenesis.org/jesus/crucifixion/crossed-messages/",
-    "155. [Academic] Bart Ehrman. 'INRI: The Hebrew, Greek and Latin Writing on the Cross.' https://www.bartehrman.com/inri-meaning/",
-    "156. [Creationist] Creation Ministries International. 'Inscriptions on the Cross.' https://creation.com/en/articles/inscriptions-on-the-cross",
-    "157. [Wikipedia] 'Denial of Peter.' https://en.wikipedia.org/wiki/Denial_of_Peter",
-    "158. [Primary Source] New Advent, Church Fathers. 'Eusebius, Church History Book III, on Mark as Peter's interpreter.' https://www.newadvent.org/fathers/250103.htm",
-    "159. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Gospel of Mark.' https://www.newadvent.org/cathen/09674b.htm",
-    "160. [Commentary] Bible Hub. 'Why Do the Gospels Differ on Rooster Crows?.' https://www.biblehub.com/q/why_do_gospels_differ_on_rooster_crows.htm",
-    "161. [Apologetics] Got Questions. 'Why Does Acts 9:7 Say That Those Traveling with Paul Heard a Voice, but Acts 22:9 Says That They Heard No Voice?.' https://www.gotquestions.org/Acts-9-7-22-9.html",
-    "162. [Lexicon] Bible Hub. 'Strong's Greek 191, akouo, to hear or understand.' https://biblehub.com/greek/191.htm",
-    "163. [Commentary] Bible.org. 'On the Apparent Contradiction Between Acts 9:7 and Acts 22:9.' https://bible.org/question/i%E2%80%99m-troubled-contradiction-between-acts-97-and-229-where-it-unclear-whether-men-paul-his-co",
-    "164. [Apologetics] Catholic Answers. 'What Happened at Paul's Conversion?.' https://www.catholic.com/magazine/online-edition/resolving-a-bible-difficulty-what-happened-at-pauls-conversion",
-    "165. [Apologetics] Is Jesus Alive. 'Do the Three Accounts of Paul's Conversion Contradict?.' https://isjesusalive.com/three-stories-of-pauls-conversion-in-acts/",
-    "166. [Apologetics] M. D. Harris Institute. 'Paul's Conversion, Why Three Accounts?.' https://mdharrismd.com/2011/12/19/pauls-conversion-why-three-accounts-and-how-do-they-differ/",
-    "167. [Wikipedia] 'Census of Quirinius.' https://en.wikipedia.org/wiki/Census_of_Quirinius",
-    "168. [Academic] Psephizo, Ian Paul. 'Was Luke Mistaken About the Date of Jesus' Birth?.' https://www.psephizo.com/biblical-studies/was-luke-mistaken-about-the-date-of-jesus-birth-2/",
-    "169. [Academic] Interdisciplinary Biblical Research Institute. 'The Census of Quirinius: The Historicity of Luke 2:1-5.' https://ibri.org/RRs/RR004/04census.htm",
-    "170. [Lexicon] Bible Hub. 'Strong's Greek 4413, protos, first or before.' https://biblehub.com/greek/4413.htm",
-    "171. [Apologetics] Tough Questions Answered. 'Did the Census Reported in Luke 2 Actually Occur?.' https://www.toughquestionsanswered.org/2016/09/01/did-the-census-reported-in-luke-2-actually-occur/",
-    "172. [Archaeology] Associates for Biblical Research. 'Once More: Quirinius's Census.' https://biblearchaeology.org/research/new-testament-era/2839-once-more-quiriniuss-census",
-    "173. [Archaeology] Bible Archaeology Report. 'Quirinius: An Archaeological Biography.' https://biblearchaeologyreport.com/2019/12/19/quirinius-an-archaeological-biography/",
-    "174. [Wikipedia] 'Publius Sulpicius Quirinius.' https://en.wikipedia.org/wiki/Publius_Sulpicius_Quirinius",
-    "175. [Academic] LacusCurtius, University of Chicago. 'Josephus, Antiquities of the Jews Book 18.' https://penelope.uchicago.edu/josephus/ant-18.html",
-    "176. [Academic] Psephizo, Ian Paul. 'Did Luke Get His Nativity History Wrong?.' https://www.psephizo.com/biblical-studies/did-luke-get-his-nativity-history-wrong/",
-    "177. [Wikipedia] 'Judas of Galilee.' https://en.wikipedia.org/wiki/Judas_of_Galilee",
-    "178. [Commentary] Life, Hope and Truth. 'Was Luke Wrong About the Census of Quirinius?.' https://lifehopeandtruth.com/bible/is-the-bible-true/how-do-we-know-the-bible-is-true/contradictions-in-the-bible/census-of-quirinius/",
-    "179. [Apologetics] Apologetics Press. 'Take It or Leave It, the Staff of Mark 6 and Matthew 10.' https://apologeticspress.org/take-it-or-leave-it-295/",
-    "180. [Lexicon] Bible Hub. 'Strong's Greek 2932, ktaomai, to acquire or procure.' https://biblehub.com/greek/2932.htm",
-    "181. [Lexicon] Bible Hub. 'Strong's Greek 142, airo, to take up or carry.' https://biblehub.com/greek/142.htm",
-    "182. [Apologetics] Christian Think Tank. 'Did Jesus Tell Them to Take a Staff or Not?.' https://www.christian-thinktank.com/nostaff.html",
-    "183. [Creationist] Answers in Genesis. 'Centurion Contradiction?.' https://answersingenesis.org/contradictions-in-the-bible/centurion-contradiction/",
-    "184. [Wikipedia] 'Shaliah.' https://en.wikipedia.org/wiki/Shaliah",
-    "185. [Commentary] Updated American Standard Version. 'Who Actually Came to Jesus, the Centurion or the Jewish Elders?.' https://uasvbible.org/2025/05/12/when-the-centurions-servant-was-ill-who-actually-came-to-jesus-the-centurion-matthew-85-13-or-the-jewish-elders-luke-72-11/",
-    "186. [Apologetics] Defending Inerrancy. 'Is There a Bible Contradiction in Matthew 8:5-13?.' https://defendinginerrancy.com/bible-solutions/Matthew_8.5-13_(cf._Luke_7.2-10).php",
-    "187. [Commentary] Enduring Word, David Guzik. '1 Samuel 31, The Death of Saul and His Sons.' https://enduringword.com/bible-commentary/1-samuel-31/",
-    "188. [Apologetics] Got Questions. 'Why Are There Contradictory Accounts Regarding the Death of Saul in 1 and 2 Samuel?.' https://www.gotquestions.org/death-of-Saul.html",
-    "189. [Apologetics] Ligonier Ministries. 'A Lying Amalekite.' https://learn.ligonier.org/devotionals/lying-amalekite",
-    "190. [Academic] Tyndale House, Cambridge. 'Who Killed Goliath? The Puzzling Text of 2 Samuel 21:19.' https://tyndalehouse.com/2022/04/14/who-killed-goliath/",
-    "191. [Academic] Text and Canon Institute. 'Who Really Killed Goliath?.' https://textandcanon.org/who-really-killed-goliath/",
-    "192. [Apologetics] Got Questions. 'Who Killed Goliath, David or Elhanan?.' https://www.gotquestions.org/Goliath-David-Elhanan.html",
-    "193. [Wikipedia] 'Elhanan, Son of Jaare Oregim.' https://en.wikipedia.org/wiki/Elhanan,_son_of_Jaare-oregim",
-    "194. [Commentary] Bible Hub. 'Why Does Elhanan Kill Goliath's Brother?.' https://biblehub.com/q/why_does_elhanan_kill_goliath's_brother.htm",
-    "195. [Commentary] Christian Publishing House. 'Resolving the Elhanan Enigma.' https://christianpublishinghouse.co/2023/09/17/resolving-the-elhanan-enigma-a-close-examination-of-2-samuel-2119-and-1-chronicles-205/",
-    "196. [Commentary] NeverThirsty. 'Who Killed Goliath, David or Elhanan?.' https://www.neverthirsty.org/bible-qa/qa-archives/question/who-killed-goliath-david-elhanan/",
-    "197. [Apologetics] Institute for Religious Research. 'Did Michal Have Children or Not?.' https://bib.irr.org/did-michal-have-children-or-not-2-samuel-623-and-218",
-    "198. [Wikipedia] 'Merab.' https://en.wikipedia.org/wiki/Merab",
-    "199. [Wikipedia] 'Adriel.' https://en.wikipedia.org/wiki/Adriel",
-    "200. [Commentary] Bible Apps. 'Commentary on 2 Samuel 21:8.' https://bibleapps.com/commentaries/2_samuel/21-8.htm",
-    "201. [Commentary] StudyLight. 'Verse-by-Verse Commentary on 2 Samuel 21:8.' https://www.studylight.org/commentary/2-samuel/21-8.html",
-    "202. [Wikipedia] 'Michal.' https://en.wikipedia.org/wiki/Michal",
-    "203. [Reference] KJV Today. '40,000 or 4,000 in 1 Kings 4:26?.' https://sites.google.com/site/kjvtoday/home/40000-or-4000-in-1-kings-426",
-    "204. [Apologetics] Defending Inerrancy. 'Is There a Bible Contradiction in 1 Kings 4:26?.' https://defendinginerrancy.com/bible-solutions/1_Kings_4.26.php",
-    "205. [Commentary] Bible Hub. 'Commentaries on 1 Kings 4:26.' https://biblehub.com/commentaries/1_kings/4-26.htm",
-    "206. [Apologetics] Mark Tabata. 'How Many Stalls Did Solomon Have?.' https://marktabata.com/2023/04/27/how-many-stalls-did-solomon-have/",
-    "207. [Apologetics] Evidence Unseen. '1 Kings 4:26, How Many Stalls Did Solomon Have?.' https://www.evidenceunseen.com/bible-difficulties-2/ot-difficulties/1-samuel-2-chronicles/1-kings-426-how-many-stalls-did-solomon-have/",
-    "208. [Apologetics] Stand to Reason. 'Does God Visit the Iniquities of the Fathers on the Third and Fourth Generations?.' https://www.str.org/w/does-god-visit-the-iniquities-of-the-fathers-on-the-third-fourth-generations-",
-    "209. [Commentary] Bible Hub. 'Do Children Suffer for Their Fathers' Sins?.' https://biblehub.com/q/do_children_suffer_for_fathers'_sins.htm",
-    "210. [Commentary] Bible Hub. 'Study Bible on Ezekiel 18:20.' https://biblehub.com/study/ezekiel/18-20.htm",
-    "211. [Academic] Intertextual Bible. 'Exodus 12:40 Compared with the Samaritan Pentateuch.' https://intertextual.bible/text/exodus-12.40-samaritan-exodus-12.40",
-    "212. [Commentary] Updated American Standard Version. 'Old Testament Textual Commentary on Exodus 12:40.' https://uasvbible.org/2025/09/04/old-testament-textual-commentary-on-exodus-1240/",
-    "213. [Archaeology] Associates for Biblical Research. 'The Duration of the Israelite Sojourn in Egypt.' https://biblearchaeology.org/research/patriarchal-era/3228-the-duration-of-the-israelite-sojourn-in-egypt",
-    "214. [Academic] TheTorah.com. 'How Many Years Were the Israelites in Egypt?.' https://www.thetorah.com/article/how-many-years-were-the-israelites-in-egypt",
-    "215. [Commentary] Christian Publishing House. 'How Many Persons Were in Jacob's Household?.' https://christianpublishinghouse.co/2019/09/01/genesis-4626-27-otbdc-how-many-persons-were-in-jacobs-household-when-they-moved-into-egypt/",
-    "216. [Academic] Intertextual Bible. 'Genesis 46:27 Compared with the Septuagint.' https://intertextual.bible/text/genesis-46.27/lxx-genesis-46.27",
-    "217. [Apologetics] Defending Inerrancy. 'Is There a Bible Contradiction in Acts 7:14?.' https://defendinginerrancy.com/bible-solutions/Acts_7.14.php",
-    "218. [Apologetics] Apologetics Press. 'To Galilee or Jerusalem?.' https://apologeticspress.org/to-galilee-or-jerusalem-730/",
-    "219. [Christian Source] St Paul Center. 'Did Jesus Appear to His Disciples in Jerusalem or Galilee?.' https://stpaulcenter.com/posts/did-jesus-appear-to-his-disciples-in-jerusalem-or-galilee",
-    "220. [Apologetics] Ligonier Ministries. 'Does John's Last Supper Chronology Differ from the Other Gospels?.' https://learn.ligonier.org/articles/does-last-supper-chronology-differ",
-    "221. [Academic] The Jesus Blog. 'Was the Last Supper on Wednesday? A Review of Humphreys.' https://historicaljesusresearch.blogspot.com/2016/01/was-last-supper-on-wednesday-review-of.html",
-    "222. [Academic] NT Weblog, Mark Goodacre. 'Dating the Last Supper a Day Early?.' https://ntweblog.blogspot.com/2011/04/dating-last-supper-day-early.html",
-    "223. [Wikipedia] 'Chronology of Jesus.' https://en.wikipedia.org/wiki/Chronology_of_Jesus",
-    "224. [Academic] Psephizo, Ian Paul. 'Are the Gospel Accounts of Holy Week Contradictory?.' https://www.psephizo.com/biblical-studies/are-the-gospel-accounts-of-holy-week-contradictory/",
-    "225. [Academic] Biola University. 'Chronology of Easter in John and the Synoptic Gospels.' https://www.biola.edu/blogs/good-book-blog/2015/chronology-of-easter-in-john-and-the-synoptic-gospels",
-    "226. [Commentary] JesusWalk. 'The Chronology of Holy Week in John's Gospel.' https://www.jesuswalk.com/john/appendix_7.htm",
-    "227. [Wikipedia] 'Passover Sacrifice.' https://en.wikipedia.org/wiki/Passover_sacrifice",
-    "228. [Wikipedia] 'Last Supper.' https://en.wikipedia.org/wiki/Last_Supper",
-    "229. [Apologetics] Apologetics Press. 'In What Order Did Satan Tempt Jesus?.' https://apologeticspress.org/in-what-order-did-satan-tempt-jesus-746/",
-    "230. [Commentary] Bible Hub. 'Why Do Luke and Matthew Differ on the Temptations?.' https://biblehub.com/q/why_do_luke_and_matthew_differ_in_temptations.htm",
-    "231. [Christian Source] Reformed Wiki. 'Is the Order of the Temptations of Jesus Contradictory?.' https://reformedwiki.com/order-temptations",
-    "232. [Wikipedia] 'Temptation of Christ.' https://en.wikipedia.org/wiki/Temptation_of_Christ",
-    "233. [Apologetics] The Gospel Coalition. 'Who Wrote Moses's Obituary in Deuteronomy 34?.' https://www.thegospelcoalition.org/article/wrote-mosess-obituary-deuteronomy-34/",
-    "234. [Apologetics] Christian Research Institute. 'The Death of Moses in Deuteronomy 34 and Authorship.' https://www.equip.org/articles/death-of-moses-in-deut-34-and-authorship/",
-    "235. [Primary Source] Sefaria. 'Bava Batra 14b, on the authorship of the biblical books.' https://www.sefaria.org/Bava_Batra.14b",
-    "236. [Commentary] BibleAsk. 'Who Wrote the Last Five Verses of Deuteronomy 34?.' https://bibleask.org/who-wrote-the-last-5-verses-of-deuteronomy-34/",
-    "237. [Wikipedia] 'Mosaic Authorship.' https://en.wikipedia.org/wiki/Mosaic_authorship",
-    "238. [Apologetics] The Gospel Coalition Canada. 'Is the Father Greater than the Son?' - Theological explanation of John 14:28 and Jesus' functional subordination in the Incarnation. https://ca.thegospelcoalition.org/columns/detrinitate/is-the-father-greater-than-the-son/",
-    "239. [Lexicon] Bible Hub. 'Strong's Greek 3444, morphē, form or nature.' https://biblehub.com/greek/3444.htm",
-    "240. [Commentary] Bible Hub. 'Commentaries on Philippians 2:6.' https://biblehub.com/commentaries/philippians/2-6.htm",
-    "241. [Lexicon] Bible Hub. 'Strong's Greek 2470, isos, equal or identical.' https://biblehub.com/greek/2470.htm",
-    "242. [Academic] Montgomery. Kenosis. The Encyclopedia of Christian Civilization, 2011. https://doi.org/10.1002/9780470670606.wbecc0749",
-    "243. [Apologetics] Got Questions. 'What is the kenosis? What is kenotic theology?' - Explanation of kenosis as addition of human nature, not subtraction of divine nature. https://www.gotquestions.org/kenosis.html",
-    "244. [Commentary] Bible Hub. Commentaries on Philippians 2:7. https://biblehub.com/commentaries/philippians/2-7.htm",
-    "245. [Commentary] Bible Hub. 'Commentaries on John 14:28.' https://biblehub.com/commentaries/john/14-28.htm",
-    "246. [Commentary] Bible Hub. 'Commentaries on John 17:5.' https://biblehub.com/commentaries/john/17-5.htm",
-    "247. [Apologetics] CARM. 'John 14:28, The Father Is Greater Than I.' - Distinguishes positional greatness from ontological equality. https://carm.org/about-jesus/john-1428-the-father-is-greater-than-i/",
-    "248. [Wikipedia] 'Economic Trinity.' - Distinction between the immanent Trinity (God in Himself) and the economic Trinity (God's activity in creation and salvation). https://en.wikipedia.org/wiki/Economic_Trinity",
-    "249. [Commentary] Bible Hub. 'Commentaries on John 5:18.' https://biblehub.com/commentaries/john/5-18.htm",
-    "250. [Commentary] Bible Hub. 'Commentaries on John 10:30.' https://biblehub.com/commentaries/john/10-30.htm",
-    "251. [Commentary] Bible Hub. 'Commentaries on Hebrews 1:3.' https://biblehub.com/commentaries/hebrews/1-3.htm",
-    "252. [Wikipedia] Trinity (economic and immanent Trinity; Augustine and Aquinas on John 14:28). https://en.wikipedia.org/wiki/Trinity"
+    "63. [Wikipedia] 'Genealogy of Jesus.' https://en.wikipedia.org/wiki/Genealogy_of_Jesus",
+    "64. [Christian Source] The Scott Smith Blog. 'Why Are Jesus' Genealogies in Matthew and Luke Different?' https://www.thescottsmithblog.com/2021/06/why-are-jesus-genealogies-in-matthew.html",
+    "65. [Commentary] Bible.org. 'The Genealogy of Jesus, Luke 3:23-38.' https://bible.org/seriespage/lesson-14-genealogy-jesus-luke-323-38",
+    "66. [Primary Source] New Advent, Church Fathers. 'Eusebius, Church History Book I, quoting Julius Africanus on the genealogies.' https://www.newadvent.org/fathers/250101.htm",
+    "67. [Creationist] Creation Ministries International. 'Tracing the Sceptre, Reconciling Views on the Genealogies of Jesus.' https://creation.com/en/articles/jesus-genealogies-royal-vs-biological-lines",
+    "68. [Wikipedia] 'Levirate Marriage.' https://en.wikipedia.org/wiki/Levirate_marriage",
+    "69. [Christian Source] The Reformed Classicalist. 'Why Are There Two Different Genealogies of Jesus?.' https://www.reformedclassicalist.com/home/why-are-there-two-different-genealogies-of-jesus",
+    "70. [Commentary] Logos Bible Study. 'The Genealogy of Jesus, Part 2.' https://www.logosbiblestudy.com/blog/2021/5/27/the-genealogy-of-jesus-part-2",
+    "71. [Christian Source] Staseos. 'On Matthew and Luke's Genealogies.' https://www.staseos.net/post/on-matthew-and-luke-s-contradictory-genealogies",
+    "72. [Apologetics] Got Questions. 'Why was God so angry at David for taking the census?' https://www.gotquestions.org/David-census.html",
+    "73. [Apologetics] Ligonier Ministries. 'Who Called David's Census, God or Satan?.' https://learn.ligonier.org/articles/davids-census",
+    "74. [Commentary] Bible Hub. 'Why Do 1 Chronicles 21:1 and 2 Samuel 24:1 Differ?.' https://biblehub.com/q/why_do_1_chr_21_1_and_2_sam_24_1_differ.htm",
+    "75. [Creationist] Answers in Genesis. 'Contradiction: Who Incited David to Count the Fighting Men of Israel?.' https://answersingenesis.org/contradictions-in-the-bible/contradiction-who-incited-david-to-count-the-fighting-men-of-israel/",
+    "76. [Commentary] Enduring Word, David Guzik. '2 Samuel 24, David and the Census.' https://enduringword.com/bible-commentary/2-samuel-24/",
+    "77. [Christian Source] Why Theology. 'Difficult Passages, 2 Samuel 24 and 1 Chronicles 21.' https://whytheology.wordpress.com/2012/10/15/difficult-passages-2-samuel-24-vs-1-chronicles-21/",
+    "78. [Apologetics] Got Questions. 'Matthew 20:29-34 Says Jesus Healed Two Blind Men; Mark and Luke Say One. Is This a Contradiction?.' https://www.gotquestions.org/one-two-blind-men.html",
+    "79. [Academic] Peter Goeman. 'Does Blind Bartimaeus Expose a Contradiction in the Gospels?.' https://petergoeman.com/does-blind-bartimaeus-expose-a-contradiction-in-the-gospels/",
+    "80. [Academic] Psephizo, Ian Paul. 'Blind Bartimaeus Is Healed in Mark 10.' https://www.psephizo.com/biblical-studies/blind-bartimaeus-is-healed-in-mark-10/",
+    "81. [Wikipedia] 'Jericho.' https://en.wikipedia.org/wiki/Jericho",
+    "82. [Archaeology] BiblePlaces. 'Jericho.' https://www.bibleplaces.com/jericho/",
+    "83. [Commentary] Werner Bible Commentary. 'Blind Bartimaeus and His Companion.' https://wernerbiblecommentary.org/?q=book%2Fprint%2F426",
+    "84. [Apologetics] The Gospel Coalition. 'Judas's Demise in Matthew 27 and Acts 1.' https://www.thegospelcoalition.org/article/judas-demise-matthew-1-acts-1/",
+    "85. [Creationist] Answers in Genesis. 'Contradictions: How Did Judas Die?.' https://answersingenesis.org/contradictions-in-the-bible/how-did-judas-die/",
+    "86. [Commentary] Bible Hub. 'How Do Matthew 27:5 and Acts 1:18 Align?.' https://biblehub.com/q/how_do_matthew_27_5_and_acts_1_18_align.htm",
+    "87. [Academic] James Bishop. 'Against Inerrancy: The Death of Judas Iscariot.' https://jamesbishopblog.com/2024/09/15/against-inerrancy-the-death-of-judas-iscariot-matthew-275-v-acts-118/",
+    "88. [Encyclopedia] 'Haceldama.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/07103b.htm",
+    "89. [Wikipedia] 'Matthew 27:8.' https://en.wikipedia.org/wiki/Matthew_27:8",
+    "90. [Wikipedia] 'Akeldama.' https://en.wikipedia.org/wiki/Akeldama",
+    "91. [Wikipedia] 'Judas Iscariot.' https://en.wikipedia.org/wiki/Judas_Iscariot",
+    "92. [Apologetics] Got Questions. 'What Time Was Jesus Crucified? What Time Did Jesus Die on the Cross?.' https://www.gotquestions.org/what-time-was-Jesus-crucified.html",
+    "93. [Apologetics] Evidence Unseen. 'Was Jesus Crucified at the Third Hour or the Sixth Hour?.' https://evidenceunseen.com/new-testament/john/difficulties/was-jesus-crucified-on-the-third-hour-or-the-sixth-hour",
+    "94. [Apologetics] Catholic Fidelity, Steve Ray. 'What Time of Day Was Christ Crucified?.' https://www.catholicfidelity.com/apologetics-topics/misc/what-time-of-the-day-was-chrsit-crucified-by-steve-ray/",
+    "95. [Apologetics] Truth in My Days. 'Sixth Hour or Third Hour? A Discrepancy Examined.' https://www.truthinmydays.com/post/sixth-hour-john-19-14-or-third-hour-mark-15-25-an-intractable-discrepancy-solved",
+    "96. [Commentary] The Bible Made Plain. 'What Is the Sixth Hour in John 19:14?.' https://thebiblemadeplain.com/what-is-the-sixth-hour-in-john-1914/",
+    "97. [Christian Source] Emmanuel Baptist Church. 'About the Sixth Hour.' https://ebcelkhorn.com/about-the-sixth-hour/",
+    "98. [Wikipedia] 'Roman Timekeeping.' https://en.wikipedia.org/wiki/Roman_timekeeping",
+    "99. [Wikipedia] 'Hour.' https://en.wikipedia.org/wiki/Hour",
+    "100. [Academic] Bart Ehrman. 'Who Helped Jesus Carry the Cross?' (2024). https://www.bartehrman.com/who-helped-jesus-carry-the-cross/",
+    "101. [Wikipedia] 'Simon of Cyrene.' https://en.wikipedia.org/wiki/Simon_of_Cyrene",
+    "102. [Academic] Bryn Mawr Classical Review. 'Cook, Crucifixion in the Mediterranean World.' https://bmcr.brynmawr.edu/2017/2017.01.19/",
+    "103. [Academic] BJU Seminary. 'The Man from Cyrene.' https://seminary.bju.edu/theology-in-3d/the-man-from-cyrene/",
+    "104. [Creationist] Answers in Genesis. 'Who Really Carried the Cross of Jesus?.' https://answersingenesis.org/contradictions-in-the-bible/who-really-carried-the-cross-of-jesus/",
+    "105. [Wikipedia] 'Sayings of Jesus on the Cross.' https://en.wikipedia.org/wiki/Sayings_of_Jesus_on_the_cross",
+    "106. [Encyclopedia] Encyclopedia.com. 'Seven Last Words.' https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/seven-last-words",
+    "107. [Commentary] JesusWalk. 'The Seven Last Words of Christ from the Cross.' https://www.jesuswalk.com/7-last-words/",
+    "108. [Academic] Eric Redmond. 'Seven Last Words of Christ: Order, Placement, Significance.' https://ericredmond.wordpress.com/2011/04/21/seven-last-words-of-christ-order-placement-significance/",
+    "109. [Commentary] Bible Hub. 'Commentaries on 1 Timothy 6:16.' https://biblehub.com/commentaries/1_timothy/6-16.htm",
+    "110. [Wikipedia] 'Theophany.' https://en.wikipedia.org/wiki/Theophany",
+    "111. [Creationist] Answers in Genesis. 'Has Anyone Seen God?.' https://answersingenesis.org/contradictions-in-the-bible/has-anyone-seen-god/",
+    "112. [Apologetics] Ligonier Ministries. 'Seeing God Face to Face.' https://learn.ligonier.org/devotionals/seeing-god-face-face",
+    "113. [Commentary] Bible Hub. 'Is It a Contradiction That Jacob Saw God?.' https://biblehub.com/q/is_it_a_contradiction_that_jacob_saw_god.htm",
+    "114. [Lexicon] Bible Hub. 'Strong's Hebrew 6440, panim, face or presence.' https://biblehub.com/hebrew/6440.htm",
+    "115. [Apologetics] The Gospel Coalition. 'Do Paul and James Disagree on Justification by Faith Alone?.' https://www.thegospelcoalition.org/article/do-paul-james-disagree-on-justification-by-faith-alone/",
+    "116. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Justification.' https://www.newadvent.org/cathen/08573a.htm",
+    "117. [Lexicon] Bible Hub. 'Strong's Greek 1344, dikaioo, to justify.' https://biblehub.com/greek/1344.htm",
+    "118. [Wikipedia] 'Justification (theology).' https://en.wikipedia.org/wiki/Justification_(theology)",
+    "119. [Apologetics] Got Questions. 'How Can You Believe in Salvation by Faith Alone When James 2:24 Says It Is Not by Faith Alone?.' https://www.gotquestions.org/faith-alone.html",
+    "120. [Commentary] Bible Hub. 'Reconciling James 2:24 with Ephesians 2:8-9.' https://biblehub.com/q/Reconciling_James_2_24_Eph_2_8-9.htm",
+    "121. [Apologetics] Got Questions. 'Was Ahaziah 22 Years Old (2 Kings 8:26) or 42 Years Old (2 Chronicles 22:2) When He Started His Reign?.' https://www.gotquestions.org/Ahaziah-22-42.html",
+    "122. [Apologetics] Christian Courier. 'Is There a Bible Contradiction Regarding Ahaziah's Age?.' https://christiancourier.com/articles/is-there-a-bible-contradiction-regarding-ahaziahs-age",
+    "123. [Commentary] Updated American Standard Version. 'Textual Commentary on 2 Chronicles 22:2.' https://uasvbible.org/2025/08/15/textual-commentary-on-2-chronicles-222/",
+    "124. [Apologetics] Apologetics Press. 'Chronology and the Cleansing of the Temple.' https://apologeticspress.org/chronology-and-the-cleansing-of-the-temple-660/",
+    "125. [Commentary] Reasonable Theology. 'Did Jesus Cleanse the Temple Once or Twice?.' https://reasonabletheology.org/did-jesus-cleanse-the-temple-once-or-twice-evidence-for-twice/",
+    "126. [Wikipedia] 'Cleansing of the Temple.' https://en.wikipedia.org/wiki/Cleansing_of_the_Temple",
+    "127. [Commentary] Bible Hub. 'Did the Temple Cleansing Occur Twice?.' https://biblehub.com/q/did_the_temple_cleansing_occur_twice.htm",
+    "128. [Apologetics] Themelios. 'Revisiting the Time of Abiathar the High Priest.' https://www.thegospelcoalition.org/themelios/article/revisiting-the-time-of-abiathar-the-high-priest/",
+    "129. [Commentary] Bible.org. 'Mark 2:26 and the Problem of Abiathar.' https://bible.org/article/mark-226-and-problem-abiathar",
+    "130. [Apologetics] Got Questions. 'Why Does Jesus Call Abiathar the High Priest in Mark 2:26, When 1 Samuel 21 Indicates It Was Ahimelech?.' https://www.gotquestions.org/Abiathar-Ahimelech.html",
+    "131. [Apologetics] CARM. 'Was Abiathar or Ahimelech the High Priest?.' https://carm.org/bible-difficulties/was-abiathar-or-ahimelech-the-high-priest-mark-226-and-1-samuel-211/",
+    "132. [Apologetics] Got Questions. 'Can the Various Resurrection Accounts from the Four Gospels Be Harmonized?.' https://www.gotquestions.org/resurrection-accounts.html",
+    "133. [Commentary] Kathy Howard. 'How to Harmonize the Gospel Resurrection Accounts.' https://www.kathyhoward.org/how-to-harmonize-the-gospel-resurrection-accounts/",
+    "134. [Academic] Bart Ehrman. 'A Fuller Account of the Resurrection Discrepancies.' https://ehrmanblog.org/fuller-account-of-resurrection-discrepancies/",
+    "135. [Commentary] JesusWalk. 'A Possible Harmonization of the Resurrection Accounts.' https://www.jesuswalk.com/john/appendix_11.htm",
+    "136. [Commentary] Christian Publishing House. 'Harmonizing the Post-Resurrection Appearances.' https://christianpublishinghouse.co/2025/01/06/how-can-we-harmonize-the-post-resurrection-appearances-and-confirm-the-integrity-of-the-gospel-accounts/",
+    "137. [Commentary] Bible Hub. 'Commentaries on Luke 24:4.' https://biblehub.com/commentaries/luke/24-4.htm",
+    "138. [Lexicon] Bible Hub. 'Strong's Hebrew 5162, nacham, to be sorry or relent.' https://biblehub.com/hebrew/5162.htm",
+    "139. [Commentary] Sola. 'What Does Nacham Mean in Genesis 6:6?.' https://www.solabibleapp.com/blog/2026-02-24-what-does-nacham-mean",
+    "140. [Commentary] Bible Hub. 'Commentaries on Numbers 23:19.' https://biblehub.com/commentaries/numbers/23-19.htm",
+    "141. [Wikipedia] 'Anthropomorphism.' https://en.wikipedia.org/wiki/Anthropomorphism",
+    "142. [Commentary] Reasons for Hope. 'What About the Verses That Say God Repented?.' https://reasonsforhopejesus.com/verses-god-repented/",
+    "143. [Christian Source] Catholic Productions, Brant Pitre. 'Does God Change His Mind?.' https://catholicproductions.com/blogs/blog/god-repents-in-the-bible",
+    "144. [Wikipedia] 'Immutability (theology).' https://en.wikipedia.org/wiki/Immutability_(theology)",
+    "145. [Wikipedia] 'Eye for an Eye.' https://en.wikipedia.org/wiki/Eye_for_an_eye",
+    "146. [Encyclopedia] EBSCO Research Starters. 'Eye for an Eye, Talion.' https://www.ebsco.com/research-starters/history/eye-eye-talion",
+    "147. [Wikipedia] 'Matthew 5:38.' https://en.wikipedia.org/wiki/Matthew_5:38",
+    "148. [Lexicon] Bible Hub. Greek 3404, miseo. https://biblehub.com/greek/3404.htm",
+    "149. [Lexicon] Bible Hub. Hebrew 8130, sane. https://biblehub.com/hebrew/8130.htm",
+    "150. [Apologetics] GotQuestions.org. Why did Jesus say to hate your father and mother? https://www.gotquestions.org/hate-father-mother.html",
+    "151. [Commentary] Bible Hub. Commentaries on Luke 14:26, including the Cambridge Bible for Schools and Colleges. https://biblehub.com/commentaries/luke/14-26.htm",
+    "152. [Lexicon] Bible Hub. Greek 3162, machaira. https://biblehub.com/greek/3162.htm",
+    "153. [Lexicon] Bible Hub. Greek 1267, diamerismos. https://biblehub.com/greek/1267.htm",
+    "154. [Commentary] Bible Hub. Commentaries on Matthew 10:34, including Barnes' Notes. https://biblehub.com/commentaries/matthew/10-34.htm",
+    "155. [Apologetics] Apologetics Press. 'What Was the Inscription on the Cross?.' https://apologeticspress.org/what-was-the-inscription-on-the-cross-1424/",
+    "156. [Apologetics] ChristianAnswers.Net. 'Why Do the Four Gospels Give Different Versions of the Inscription?.' https://christiananswers.net/q-aig/aig-t001.html",
+    "157. [Creationist] Answers in Genesis. 'Contradictions: Crossed Messages.' https://answersingenesis.org/jesus/crucifixion/crossed-messages/",
+    "158. [Academic] Bart Ehrman. 'INRI: The Hebrew, Greek and Latin Writing on the Cross.' https://www.bartehrman.com/inri-meaning/",
+    "159. [Creationist] Creation Ministries International. 'Inscriptions on the Cross.' https://creation.com/en/articles/inscriptions-on-the-cross",
+    "160. [Wikipedia] 'Denial of Peter.' https://en.wikipedia.org/wiki/Denial_of_Peter",
+    "161. [Primary Source] New Advent, Church Fathers. 'Eusebius, Church History Book III, on Mark as Peter's interpreter.' https://www.newadvent.org/fathers/250103.htm",
+    "162. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Gospel of Mark.' https://www.newadvent.org/cathen/09674b.htm",
+    "163. [Wikipedia] 'Gospel of Mark.' https://en.wikipedia.org/wiki/Gospel_of_Mark",
+    "164. [Commentary] Bible Hub. 'Why Do the Gospels Differ on Rooster Crows?.' https://www.biblehub.com/q/why_do_gospels_differ_on_rooster_crows.htm",
+    "165. [Apologetics] Got Questions. 'Why Does Acts 9:7 Say That Those Traveling with Paul Heard a Voice, but Acts 22:9 Says That They Heard No Voice?.' https://www.gotquestions.org/Acts-9-7-22-9.html",
+    "166. [Lexicon] Bible Hub. 'Strong's Greek 191, akouo, to hear or understand.' https://biblehub.com/greek/191.htm",
+    "167. [Commentary] Bible.org. 'On the Apparent Contradiction Between Acts 9:7 and Acts 22:9.' https://bible.org/question/i%E2%80%99m-troubled-contradiction-between-acts-97-and-229-where-it-unclear-whether-men-paul-his-co",
+    "168. [Apologetics] Catholic Answers. 'What Happened at Paul's Conversion?.' https://www.catholic.com/magazine/online-edition/resolving-a-bible-difficulty-what-happened-at-pauls-conversion",
+    "169. [Apologetics] Is Jesus Alive. 'Do the Three Accounts of Paul's Conversion Contradict?.' https://isjesusalive.com/three-stories-of-pauls-conversion-in-acts/",
+    "170. [Apologetics] M. D. Harris Institute. 'Paul's Conversion, Why Three Accounts?.' https://mdharrismd.com/2011/12/19/pauls-conversion-why-three-accounts-and-how-do-they-differ/",
+    "171. [Wikipedia] 'Census of Quirinius.' https://en.wikipedia.org/wiki/Census_of_Quirinius",
+    "172. [Academic] Psephizo, Ian Paul. 'Was Luke Mistaken About the Date of Jesus' Birth?.' https://www.psephizo.com/biblical-studies/was-luke-mistaken-about-the-date-of-jesus-birth-2/",
+    "173. [Academic] Interdisciplinary Biblical Research Institute. 'The Census of Quirinius: The Historicity of Luke 2:1-5.' https://ibri.org/RRs/RR004/04census.htm",
+    "174. [Lexicon] Bible Hub. 'Strong's Greek 4413, protos, first or before.' https://biblehub.com/greek/4413.htm",
+    "175. [Apologetics] Tough Questions Answered. 'Did the Census Reported in Luke 2 Actually Occur?.' https://www.toughquestionsanswered.org/2016/09/01/did-the-census-reported-in-luke-2-actually-occur/",
+    "176. [Archaeology] Associates for Biblical Research. 'Once More: Quirinius's Census.' https://biblearchaeology.org/research/new-testament-era/2839-once-more-quiriniuss-census",
+    "177. [Archaeology] Bible Archaeology Report. 'Quirinius: An Archaeological Biography.' https://biblearchaeologyreport.com/2019/12/19/quirinius-an-archaeological-biography/",
+    "178. [Wikipedia] 'Publius Sulpicius Quirinius.' https://en.wikipedia.org/wiki/Publius_Sulpicius_Quirinius",
+    "179. [Academic] LacusCurtius, University of Chicago. 'Josephus, Antiquities of the Jews Book 18.' https://penelope.uchicago.edu/josephus/ant-18.html",
+    "180. [Academic] Psephizo, Ian Paul. 'Did Luke Get His Nativity History Wrong?.' https://www.psephizo.com/biblical-studies/did-luke-get-his-nativity-history-wrong/",
+    "181. [Wikipedia] 'Judas of Galilee.' https://en.wikipedia.org/wiki/Judas_of_Galilee",
+    "182. [Commentary] Life, Hope and Truth. 'Was Luke Wrong About the Census of Quirinius?.' https://lifehopeandtruth.com/bible/is-the-bible-true/how-do-we-know-the-bible-is-true/contradictions-in-the-bible/census-of-quirinius/",
+    "183. [Apologetics] Apologetics Press. 'Take It or Leave It, the Staff of Mark 6 and Matthew 10.' https://apologeticspress.org/take-it-or-leave-it-295/",
+    "184. [Lexicon] Bible Hub. 'Strong's Greek 2932, ktaomai, to acquire or procure.' https://biblehub.com/greek/2932.htm",
+    "185. [Lexicon] Bible Hub. 'Strong's Greek 142, airo, to take up or carry.' https://biblehub.com/greek/142.htm",
+    "186. [Apologetics] Christian Think Tank. 'Did Jesus Tell Them to Take a Staff or Not?.' https://www.christian-thinktank.com/nostaff.html",
+    "187. [Creationist] Answers in Genesis. 'Centurion Contradiction?.' https://answersingenesis.org/contradictions-in-the-bible/centurion-contradiction/",
+    "188. [Wikipedia] 'Shaliah.' https://en.wikipedia.org/wiki/Shaliah",
+    "189. [Commentary] Updated American Standard Version. 'Who Actually Came to Jesus, the Centurion or the Jewish Elders?.' https://uasvbible.org/2025/05/12/when-the-centurions-servant-was-ill-who-actually-came-to-jesus-the-centurion-matthew-85-13-or-the-jewish-elders-luke-72-11/",
+    "190. [Apologetics] Defending Inerrancy. 'Is There a Bible Contradiction in Matthew 8:5-13?.' https://defendinginerrancy.com/bible-solutions/Matthew_8.5-13_(cf._Luke_7.2-10).php",
+    "191. [Commentary] Enduring Word, David Guzik. '1 Samuel 31, The Death of Saul and His Sons.' https://enduringword.com/bible-commentary/1-samuel-31/",
+    "192. [Apologetics] Got Questions. 'Why Are There Contradictory Accounts Regarding the Death of Saul in 1 and 2 Samuel?.' https://www.gotquestions.org/death-of-Saul.html",
+    "193. [Apologetics] Ligonier Ministries. 'A Lying Amalekite.' https://learn.ligonier.org/devotionals/lying-amalekite",
+    "194. [Academic] Tyndale House, Cambridge. 'Who Killed Goliath? The Puzzling Text of 2 Samuel 21:19.' https://tyndalehouse.com/2022/04/14/who-killed-goliath/",
+    "195. [Academic] Text and Canon Institute. 'Who Really Killed Goliath?.' https://textandcanon.org/who-really-killed-goliath/",
+    "196. [Apologetics] Got Questions. 'Who Killed Goliath, David or Elhanan?.' https://www.gotquestions.org/Goliath-David-Elhanan.html",
+    "197. [Wikipedia] 'Elhanan, Son of Jaare Oregim.' https://en.wikipedia.org/wiki/Elhanan,_son_of_Jaare-oregim",
+    "198. [Commentary] Bible Hub. 'Why Does Elhanan Kill Goliath's Brother?.' https://biblehub.com/q/why_does_elhanan_kill_goliath's_brother.htm",
+    "199. [Commentary] Christian Publishing House. 'Resolving the Elhanan Enigma.' https://christianpublishinghouse.co/2023/09/17/resolving-the-elhanan-enigma-a-close-examination-of-2-samuel-2119-and-1-chronicles-205/",
+    "200. [Commentary] NeverThirsty. 'Who Killed Goliath, David or Elhanan?.' https://www.neverthirsty.org/bible-qa/qa-archives/question/who-killed-goliath-david-elhanan/",
+    "201. [Apologetics] Institute for Religious Research. 'Did Michal Have Children or Not?.' https://bib.irr.org/did-michal-have-children-or-not-2-samuel-623-and-218",
+    "202. [Wikipedia] 'Merab.' https://en.wikipedia.org/wiki/Merab",
+    "203. [Wikipedia] 'Adriel.' https://en.wikipedia.org/wiki/Adriel",
+    "204. [Commentary] Bible Apps. 'Commentary on 2 Samuel 21:8.' https://bibleapps.com/commentaries/2_samuel/21-8.htm",
+    "205. [Commentary] StudyLight. 'Verse-by-Verse Commentary on 2 Samuel 21:8.' https://www.studylight.org/commentary/2-samuel/21-8.html",
+    "206. [Wikipedia] 'Michal.' https://en.wikipedia.org/wiki/Michal",
+    "207. [Reference] KJV Today. '40,000 or 4,000 in 1 Kings 4:26?.' https://sites.google.com/site/kjvtoday/home/40000-or-4000-in-1-kings-426",
+    "208. [Apologetics] Defending Inerrancy. 'Is There a Bible Contradiction in 1 Kings 4:26?.' https://defendinginerrancy.com/bible-solutions/1_Kings_4.26.php",
+    "209. [Commentary] Bible Hub. 'Commentaries on 1 Kings 4:26.' https://biblehub.com/commentaries/1_kings/4-26.htm",
+    "210. [Apologetics] Mark Tabata. 'How Many Stalls Did Solomon Have?.' https://marktabata.com/2023/04/27/how-many-stalls-did-solomon-have/",
+    "211. [Apologetics] Evidence Unseen. '1 Kings 4:26, How Many Stalls Did Solomon Have?.' https://www.evidenceunseen.com/bible-difficulties-2/ot-difficulties/1-samuel-2-chronicles/1-kings-426-how-many-stalls-did-solomon-have/",
+    "212. [Apologetics] Stand to Reason. 'Does God Visit the Iniquities of the Fathers on the Third and Fourth Generations?.' https://www.str.org/w/does-god-visit-the-iniquities-of-the-fathers-on-the-third-fourth-generations-",
+    "213. [Commentary] Bible Hub. 'Do Children Suffer for Their Fathers' Sins?.' https://biblehub.com/q/do_children_suffer_for_fathers'_sins.htm",
+    "214. [Commentary] Bible Hub. 'Study Bible on Ezekiel 18:20.' https://biblehub.com/study/ezekiel/18-20.htm",
+    "215. [Academic] Intertextual Bible. 'Exodus 12:40 Compared with the Samaritan Pentateuch.' https://intertextual.bible/text/exodus-12.40-samaritan-exodus-12.40",
+    "216. [Commentary] Updated American Standard Version. 'Old Testament Textual Commentary on Exodus 12:40.' https://uasvbible.org/2025/09/04/old-testament-textual-commentary-on-exodus-1240/",
+    "217. [Archaeology] Associates for Biblical Research. 'The Duration of the Israelite Sojourn in Egypt.' https://biblearchaeology.org/research/patriarchal-era/3228-the-duration-of-the-israelite-sojourn-in-egypt",
+    "218. [Academic] TheTorah.com. 'How Many Years Were the Israelites in Egypt?.' https://www.thetorah.com/article/how-many-years-were-the-israelites-in-egypt",
+    "219. [Commentary] Christian Publishing House. 'How Many Persons Were in Jacob's Household?.' https://christianpublishinghouse.co/2019/09/01/genesis-4626-27-otbdc-how-many-persons-were-in-jacobs-household-when-they-moved-into-egypt/",
+    "220. [Academic] Intertextual Bible. 'Genesis 46:27 Compared with the Septuagint.' https://intertextual.bible/text/genesis-46.27/lxx-genesis-46.27",
+    "221. [Apologetics] Defending Inerrancy. 'Is There a Bible Contradiction in Acts 7:14?.' https://defendinginerrancy.com/bible-solutions/Acts_7.14.php",
+    "222. [Apologetics] Apologetics Press. 'To Galilee or Jerusalem?.' https://apologeticspress.org/to-galilee-or-jerusalem-730/",
+    "223. [Christian Source] St Paul Center. 'Did Jesus Appear to His Disciples in Jerusalem or Galilee?.' https://stpaulcenter.com/posts/did-jesus-appear-to-his-disciples-in-jerusalem-or-galilee",
+    "224. [Apologetics] Ligonier Ministries. 'Does John's Last Supper Chronology Differ from the Other Gospels?.' https://learn.ligonier.org/articles/does-last-supper-chronology-differ",
+    "225. [Academic] The Jesus Blog. 'Was the Last Supper on Wednesday? A Review of Humphreys.' https://historicaljesusresearch.blogspot.com/2016/01/was-last-supper-on-wednesday-review-of.html",
+    "226. [Academic] NT Weblog, Mark Goodacre. 'Dating the Last Supper a Day Early?.' https://ntweblog.blogspot.com/2011/04/dating-last-supper-day-early.html",
+    "227. [Wikipedia] 'Chronology of Jesus.' https://en.wikipedia.org/wiki/Chronology_of_Jesus",
+    "228. [Academic] Psephizo, Ian Paul. 'Are the Gospel Accounts of Holy Week Contradictory?.' https://www.psephizo.com/biblical-studies/are-the-gospel-accounts-of-holy-week-contradictory/",
+    "229. [Academic] Biola University. 'Chronology of Easter in John and the Synoptic Gospels.' https://www.biola.edu/blogs/good-book-blog/2015/chronology-of-easter-in-john-and-the-synoptic-gospels",
+    "230. [Commentary] JesusWalk. 'The Chronology of Holy Week in John's Gospel.' https://www.jesuswalk.com/john/appendix_7.htm",
+    "231. [Wikipedia] 'Passover Sacrifice.' https://en.wikipedia.org/wiki/Passover_sacrifice",
+    "232. [Wikipedia] 'Last Supper.' https://en.wikipedia.org/wiki/Last_Supper",
+    "233. [Apologetics] Apologetics Press. 'In What Order Did Satan Tempt Jesus?.' https://apologeticspress.org/in-what-order-did-satan-tempt-jesus-746/",
+    "234. [Commentary] Bible Hub. 'Why Do Luke and Matthew Differ on the Temptations?.' https://biblehub.com/q/why_do_luke_and_matthew_differ_in_temptations.htm",
+    "235. [Christian Source] Reformed Wiki. 'Is the Order of the Temptations of Jesus Contradictory?.' https://reformedwiki.com/order-temptations",
+    "236. [Wikipedia] 'Temptation of Christ.' https://en.wikipedia.org/wiki/Temptation_of_Christ",
+    "237. [Apologetics] The Gospel Coalition. 'Who Wrote Moses's Obituary in Deuteronomy 34?.' https://www.thegospelcoalition.org/article/wrote-mosess-obituary-deuteronomy-34/",
+    "238. [Apologetics] Christian Research Institute. 'The Death of Moses in Deuteronomy 34 and Authorship.' https://www.equip.org/articles/death-of-moses-in-deut-34-and-authorship/",
+    "239. [Primary Source] Sefaria. 'Bava Batra 14b, on the authorship of the biblical books.' https://www.sefaria.org/Bava_Batra.14b",
+    "240. [Commentary] BibleAsk. 'Who Wrote the Last Five Verses of Deuteronomy 34?.' https://bibleask.org/who-wrote-the-last-5-verses-of-deuteronomy-34/",
+    "241. [Wikipedia] 'Mosaic Authorship.' https://en.wikipedia.org/wiki/Mosaic_authorship",
+    "242. [Apologetics] The Gospel Coalition Canada. 'Is the Father Greater than the Son?' - Theological explanation of John 14:28 and Jesus' functional subordination in the Incarnation. https://ca.thegospelcoalition.org/columns/detrinitate/is-the-father-greater-than-the-son/",
+    "243. [Lexicon] Bible Hub. 'Strong's Greek 3444, morphē, form or nature.' https://biblehub.com/greek/3444.htm",
+    "244. [Commentary] Bible Hub. 'Commentaries on Philippians 2:6.' https://biblehub.com/commentaries/philippians/2-6.htm",
+    "245. [Lexicon] Bible Hub. 'Strong's Greek 2470, isos, equal or identical.' https://biblehub.com/greek/2470.htm",
+    "246. [Academic] Montgomery. Kenosis. The Encyclopedia of Christian Civilization, 2011. https://doi.org/10.1002/9780470670606.wbecc0749",
+    "247. [Apologetics] Got Questions. 'What is the kenosis? What is kenotic theology?' - Explanation of kenosis as addition of human nature, not subtraction of divine nature. https://www.gotquestions.org/kenosis.html",
+    "248. [Wikipedia] 'Kenosis.' https://en.wikipedia.org/wiki/Kenosis",
+    "249. [Commentary] Bible Hub. Commentaries on Philippians 2:7. https://biblehub.com/commentaries/philippians/2-7.htm",
+    "250. [Commentary] Bible Hub. 'Commentaries on John 14:28.' https://biblehub.com/commentaries/john/14-28.htm",
+    "251. [Apologetics] CARM. 'John 14:28, The Father Is Greater Than I.' - Distinguishes positional greatness from ontological equality. https://carm.org/about-jesus/john-1428-the-father-is-greater-than-i/",
+    "252. [Commentary] Bible Hub. 'Commentaries on John 17:5.' https://biblehub.com/commentaries/john/17-5.htm",
+    "253. [Wikipedia] 'Economic Trinity.' - Distinction between the immanent Trinity (God in Himself) and the economic Trinity (God's activity in creation and salvation). https://en.wikipedia.org/wiki/Economic_Trinity",
+    "254. [Commentary] Bible Hub. 'Commentaries on John 5:18.' https://biblehub.com/commentaries/john/5-18.htm",
+    "255. [Commentary] Bible Hub. 'Commentaries on John 10:30.' https://biblehub.com/commentaries/john/10-30.htm",
+    "256. [Commentary] Bible Hub. 'Commentaries on Hebrews 1:3.' https://biblehub.com/commentaries/hebrews/1-3.htm",
+    "257. [Wikipedia] Trinity (economic and immanent Trinity; Augustine and Aquinas on John 14:28). https://en.wikipedia.org/wiki/Trinity"
   ],
   lastUpdated: "30-10-2026",
 }

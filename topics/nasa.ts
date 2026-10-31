@@ -33,13 +33,13 @@ These tools establish that an event was physically possible, and in several case
       content: `
 The popular story that NASA computers discovered a missing day in history is fiction. It goes back to C. A. L. Totten's 1890 book on Joshua's long day and Harry Rimmer's retelling in the 1930s, predates NASA entirely, and no such calculation is possible, since orbital models are calibrated from observations and therefore cannot reveal a gap in them[^3].
 
-The serious research is different. Cambridge physicists Colin Humphreys and Graeme Waddington published an analysis in *Astronomy & Geophysics* in 2017 proposing that the event was an annular solar eclipse[^4].
+The serious research is different. Cambridge physicists Colin Humphreys and Graeme Waddington published an analysis in *Astronomy & Geophysics* in 2017 proposing that the event was an annular solar eclipse[^4][^5].
 
-*   **The translation argument.** The Hebrew verbs usually rendered "stand still" can carry the sense of ceasing to shine or growing dark, which would describe an eclipse rather than a halt in the earth's rotation[^5].
-*   **The date.** Working from eclipse canons, the authors identify an annular eclipse over Canaan on 30 October 1207 BC, which would be the oldest solar eclipse recorded anywhere[^6].
-*   **The chronological payoff.** If correct, it fixes an absolute date in the period, with implications for Egyptian chronology and the reign of Merneptah[^7].
+*   **The translation argument.** The Hebrew verbs usually rendered "stand still" can carry the sense of ceasing to shine or growing dark, which would describe an eclipse rather than a halt in the earth's rotation[^6].
+*   **The date.** Working from eclipse canons, the authors identify an annular eclipse over Canaan on 30 October 1207 BC, which would be the oldest solar eclipse recorded anywhere[^7][^8].
+*   **The chronological payoff.** If correct, it fixes an absolute date in the period, with implications for Egyptian chronology and the reign of Merneptah[^8].
 
-The reading depends on a non-standard translation that many Hebraists do not accept, and it requires a particular Exodus chronology. It is a serious peer-reviewed proposal rather than a settled result, and it reinterprets the miracle rather than confirming the traditional reading of it[^8][^9].
+The reading depends on a non-standard translation that many Hebraists do not accept, and it requires a particular Exodus chronology. It is a serious peer-reviewed proposal rather than a settled result, and it reinterprets the miracle rather than confirming the traditional reading of it[^9][^5].
 
 **See also:** [Old Testament Archaeological Evidence (Archaeology)](/categories/archaeological#section-old-testament).
 `
@@ -75,9 +75,9 @@ A widely circulated claim held that a Tunguska-scale cosmic airburst destroyed T
 *   **The physics rebuttal.** Boslough and Bruno later showed that the Tunguska comparison rested on errors overestimating temperatures, wind speeds and blast effects[^20].
 *   **The retraction.** *Scientific Reports* formally retracted the paper on 24 April 2025. Several authors disagreed with the decision and stated an intention to republish with new data[^21][^22].
 
-Melted material at the site is real and still requires explanation, and Tall el-Hammam remains a significant Bronze Age destruction layer. The airburst interpretation no longer stands in the published literature[^23].
+Melted material at the site is real and still requires explanation, and Tall el-Hammam remains a significant Bronze Age destruction layer. The airburst interpretation no longer stands in the published literature[^23][^24].
 
-Airbursts remain a genuine and well-documented phenomenon, independent of the Tall el-Hammam claim[^24].
+Airbursts remain a genuine and well-documented phenomenon, independent of the Tall el-Hammam claim[^25].
 
 **See also:** [Sodom and Gomorrah (Is God Evil?)](/categories/god-evil#section-sodom-gomorrah).
 `
@@ -87,15 +87,15 @@ Airbursts remain a genuine and well-documented phenomenon, independent of the Ta
       title: "Ubar and Radar Archaeology",
       tags: ["Archaeology"],
       content: `
-Satellite and Space Shuttle radar can penetrate dry sand and reveal buried features. In the late 1980s and early 1990s a team including NASA's Jet Propulsion Laboratory used Landsat and Shuttle imaging radar to trace ancient caravan tracks converging in the Rub' al Khali[^25].
+Satellite and Space Shuttle radar can penetrate dry sand and reveal buried features. In the late 1980s and early 1990s a team including NASA's Jet Propulsion Laboratory used Landsat and Shuttle imaging radar to trace ancient caravan tracks converging in the Rub' al Khali[^26].
 
-*   **The find.** Excavation at Shisr in Oman revealed a fortified caravan site associated with the frankincense trade, partly collapsed into a limestone sinkhole[^26][^27].
+*   **The find.** Excavation at Shisr in Oman revealed a fortified caravan site associated with the frankincense trade, partly collapsed into a limestone sinkhole[^27][^28].
 
 <?viz nasa/ubar?>
 
-*   **The trade connection.** Frankincense and its Arabian trade routes appear in the Old Testament, and the commerce the site served is the commerce those texts describe[^28].
+*   **The trade connection.** Frankincense and its Arabian trade routes appear in the Old Testament, and the commerce the site served is the commerce those texts describe[^29][^30].
 
-The "lost city of Ubar" identification was largely a media framing. Archaeologists dispute whether Shisr is Ubar at all, and some regard the site as a modest caravan waystation rather than a great city. Ubar is not named in the Bible, so the scriptural connection is the frankincense trade generally rather than the site specifically[^29].
+The "lost city of Ubar" identification was largely a media framing. Archaeologists dispute whether Shisr is Ubar at all, and some regard the site as a modest caravan waystation rather than a great city. Ubar is not named in the Bible, so the scriptural connection is the frankincense trade generally rather than the site specifically[^31].
 `
     },
     {
@@ -103,14 +103,14 @@ The "lost city of Ubar" identification was largely a media framing. Archaeologis
       title: "Dating the Crucifixion: Eclipse and Seismite",
       tags: ["New Testament"],
       content: `
-Two independent lines of data converge on a narrow window, though neither is decisive alone[^30].
+Two independent lines of data converge on a narrow window, though neither is decisive alone[^32].
 
-*   **The lunar eclipse.** NASA's eclipse catalogue confirms a partial lunar eclipse on 3 April AD 33, visible at moonrise from Jerusalem, which Humphreys and Waddington argued illuminates Peter's Pentecost citation of Joel[^31][^32].
-*   **Why the moon reddens.** During an eclipse the earth's atmosphere refracts and scatters sunlight, allowing long-wavelength red light through. This is ordinary optics rather than an anomaly[^33][^34].
-*   **The competing date.** Many scholars prefer AD 30, on which the eclipse argument does not work, so the date of the crucifixion remains genuinely unsettled[^35].
-*   **The earthquake.** Williams and colleagues, analysing laminated Dead Sea sediments, identified a seismite layer dated to roughly AD 26 to 36, overlapping Pilate's governorship[^36][^37].
+*   **The lunar eclipse.** NASA's eclipse catalogue confirms a partial lunar eclipse on 3 April AD 33, visible at moonrise from Jerusalem, which Humphreys and Waddington argued illuminates Peter's Pentecost citation of Joel[^33][^34].
+*   **Why the moon reddens.** During an eclipse the earth's atmosphere refracts and scatters sunlight, allowing long-wavelength red light through. This is ordinary optics rather than an anomaly[^35][^36].
+*   **The competing date.** Many scholars prefer AD 30, on which the eclipse argument does not work, so the date of the crucifixion remains genuinely unsettled[^37].
+*   **The earthquake.** Williams and colleagues, analysing laminated Dead Sea sediments, identified a seismite layer dated to roughly AD 26 to 36, overlapping Pilate's governorship[^38][^39].
 
-The seismite dating has limits. The authors noted that Matthew's earthquake could be one that occurred somewhat before or after the crucifixion and was in effect borrowed by the Gospel writer, or a local quake in that window too small to leave a historical record. Sediment dating at this resolution cannot isolate a single day, and the study does not claim to confirm Matthew's account, only that a regional seismic event in that period is consistent with it[^38].
+The seismite dating has limits. The authors noted that Matthew's earthquake could be one that occurred somewhat before or after the crucifixion and was in effect borrowed by the Gospel writer, or a local quake in that window too small to leave a historical record. Sediment dating at this resolution cannot isolate a single day, and the study does not claim to confirm Matthew's account, only that a regional seismic event in that period is consistent with it[^40].
 
 **See also:** [Darkness Over the Land (Prophecy)](/categories/prophecy#section-darkness-land).
 `
@@ -120,17 +120,17 @@ The seismite dating has limits. The authors noted that Matthew's earthquake coul
       title: "The Star of Bethlehem",
       tags: ["New Testament"],
       content: `
-NASA JPL's HORIZONS ephemeris system reconstructs planetary positions for any date with high precision, and the candidate events below genuinely occurred[^39].
+NASA JPL's HORIZONS ephemeris system reconstructs planetary positions for any date with high precision, and the candidate events below genuinely occurred[^41].
 
-*   **Jupiter and Saturn, 7 BC, in Pisces.** A real and rare triple conjunction. Babylonian astrology associated Jupiter with kingship and Pisces with the Levant, which would give Magi a reason to travel[^40].
-*   **Jupiter and Venus, 17 June 2 BC, in Leo.** The two planets closed to within a few arcminutes, appearing nearly as a single very bright object[^41].
+*   **Jupiter and Saturn, 7 BC, in Pisces.** A real and rare triple conjunction. Babylonian astrology associated Jupiter with kingship and Pisces with the Levant, which would give Magi a reason to travel[^42].
+*   **Jupiter and Venus, 17 June 2 BC, in Leo.** The two planets closed to within a few arcminutes, appearing nearly as a single very bright object[^43].
 
 <?viz nasa/star?>
 
 
-No candidate is conclusive. Matthew describes a star that went ahead of the Magi and stopped over a specific location, behaviour no conjunction, comet, nova or planet exhibits. Proposals include a supernova, a comet, a purely astrological interpretation, and a non-natural sign, each fitting parts of the account and straining others[^42].
+No candidate is conclusive. Matthew describes a star that went ahead of the Magi and stopped over a specific location, behaviour no conjunction, comet, nova or planet exhibits. Proposals include a supernova, a comet, a purely astrological interpretation, and a non-natural sign, each fitting parts of the account and straining others[^44].
 
-The dating problem cuts both ways. The 2 BC option conflicts with the traditional dating of Herod's death to 4 BC, while the 7 BC option requires a longer journey. Presenting any one of these as the Star of Bethlehem overstates what the astronomy can settle[^43].
+The dating problem cuts both ways. The 2 BC option conflicts with the traditional dating of Herod's death to 4 BC, while the 7 BC option requires a longer journey. Presenting any one of these as the Star of Bethlehem overstates what the astronomy can settle[^45].
 
 **See also:** [Born in Bethlehem (Prophecy)](/categories/prophecy#section-bethlehem-birth).
 `
@@ -140,10 +140,10 @@ The dating problem cuts both ways. The 2 BC option conflicts with the traditiona
       title: "Hezekiah's Sundial and Atmospheric Refraction",
       tags: ["Old Testament"],
       content: `
-The shadow moving backward on the steps of Ahaz has been explained by anomalous atmospheric refraction, in which light bends passing through air layers of sharply differing density and shifts the sun's apparent position[^44].
+The shadow moving backward on the steps of Ahaz has been explained by anomalous atmospheric refraction, in which light bends passing through air layers of sharply differing density and shifts the sun's apparent position[^46].
 
-*   **The physics is real.** Refraction genuinely displaces the sun's apparent position near the horizon, and unusual temperature inversions produce documented distortions such as mirages and the Novaya Zemlya effect[^45][^46].
-*   **The scale required is not established.** Producing a shadow retreat large enough to be read as a sign on a stepped dial is a much stronger effect than ordinary refraction delivers, and no observation of that magnitude has been recorded[^47].
+*   **The physics is real.** Refraction genuinely displaces the sun's apparent position near the horizon, and unusual temperature inversions produce documented distortions such as mirages and the Novaya Zemlya effect[^47][^48][^49].
+*   **The scale required is not established.** Producing a shadow retreat large enough to be read as a sign on a stepped dial is a much stronger effect than ordinary refraction delivers, and no observation of that magnitude has been recorded[^50].
 
 Refraction remains a physically conceivable mechanism rather than a corroborated explanation. The narrative frames the event as a sign given at Hezekiah's request ([2 Kings 20:8-11](https://www.biblegateway.com/passage/?search=2+Kings+20%3A8-11&version=NIV)), a category that a natural mechanism does not obviously improve on.
 `
@@ -154,11 +154,11 @@ Refraction remains a physically conceivable mechanism rather than a corroborated
     "2. [News] NPR. 'Study: Wind May Have Helped Moses Part Red Sea' (interview with Carl Drews, 26 September 2010). https://www.npr.org/transcripts/130112925",
     "3. [Creationist] Answers in Genesis. 'Have NASA Computers Proved Joshua's Long Day?' https://answersingenesis.org/creationism/arguments-to-avoid/have-nasa-computers-proved-joshuas-long-day/",
     "4. [Academic] Humphreys, C. and Waddington, G. Solar eclipse of 1207 BC helps to date pharaohs. Astronomy & Geophysics 58.5 (2017). https://academic.oup.com/astrogeo/article/58/5/5.39/4159289",
-    "5. [Lexicon] Bible Hub. Hebrew 1826, damam, the verb rendered stand still or be silent. https://biblehub.com/hebrew/1826.htm",
-    "6. [Reference] NASA GSFC. Solar eclipse catalogue, 1299 to 1200 BC, the interval containing the proposed Joshua eclipse. https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html",
-    "7. [Academic] University of Cambridge. 'Oldest Recorded Solar Eclipse Helps Date the Egyptian Pharaohs.' https://www.cam.ac.uk/research/news/oldest-recorded-solar-eclipse-helps-date-the-egyptian-pharaohs",
-    "8. [Commentary] Bible Hub. 'Commentaries on Joshua 10:13.' https://biblehub.com/commentaries/joshua/10-13.htm",
-    "9. [Commentary] Mosaic. 'No, the Book of Joshua Does Not Tell of a Rare Solar Eclipse.' https://ideas.tikvah.org/mosaic/columns/observations/no-the-book-of-joshua-does-not-tell-of-a-rare-solar-eclipse",
+    "5. [Commentary] Mosaic. 'No, the Book of Joshua Does Not Tell of a Rare Solar Eclipse.' https://ideas.tikvah.org/mosaic/columns/observations/no-the-book-of-joshua-does-not-tell-of-a-rare-solar-eclipse",
+    "6. [Lexicon] Bible Hub. Hebrew 1826, damam, the verb rendered stand still or be silent. https://biblehub.com/hebrew/1826.htm",
+    "7. [Reference] NASA GSFC. Solar eclipse catalogue, 1299 to 1200 BC, the interval containing the proposed Joshua eclipse. https://eclipse.gsfc.nasa.gov/SEcat5/SE-1299--1200.html",
+    "8. [Academic] University of Cambridge. 'Oldest Recorded Solar Eclipse Helps Date the Egyptian Pharaohs.' https://www.cam.ac.uk/research/news/oldest-recorded-solar-eclipse-helps-date-the-egyptian-pharaohs",
+    "9. [Commentary] Bible Hub. 'Commentaries on Joshua 10:13.' https://biblehub.com/commentaries/joshua/10-13.htm",
     "10. [Academic] Drews, C. and Han, W. Dynamics of Wind Setdown at Suez and the Eastern Nile Delta. PLOS ONE (2010), supported by the NASA Ocean Vector Winds Science Team. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0012481",
     "11. [News] Christian Science Monitor. 'Moses' Parting of the Red Sea: Is There a Physical Explanation?' (21 September 2010). https://csmonitor.com/Science/2010/0921/Moses-parting-of-the-Red-Sea-Is-there-a-physical-explanation",
     "12. [Commentary] Bible Hub. 'Commentaries on Exodus 14:21.' https://biblehub.com/commentaries/exodus/14-21.htm",
@@ -173,30 +173,33 @@ Refraction remains a physically conceivable mechanism rather than a corroborated
     "21. [Academic] Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam. Scientific Reports, 24 April 2025. https://www.nature.com/articles/s41598-025-99265-5",
     "22. [News] Retraction Watch. 'Sodom Comet Paper to Be Retracted Two Years After Editor's Note Acknowledging Concerns' (23 April 2025). https://retractionwatch.com/2025/04/23/sodom-comet-paper-to-be-retracted-two-years-after-editors-note-acknowledging-concerns/",
     "23. [Academic] T. E. Bunch. Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea. Scientific Reports, 2025. https://doi.org/10.1038/s41598-025-99265-5",
-    "24. [Academic] Lunar and Planetary Institute. Explore! Planetary Defense: Background, on asteroid impacts and airbursts such as Tunguska and Chelyabinsk. https://www.lpi.usra.edu/education/explore/planetary-defense/background/",
-    "25. [Reference] NASA Earth Observatory. Secrets Beneath the Sand. Shuttle radar imaging in Arabia. https://earthobservatory.nasa.gov/images/90847/secrets-beneath-the-sand",
-    "26. [Archaeology] Madain Project. 'Ubar (Shisr).' https://madainproject.com/ubar",
-    "27. [Reference] NASA JPL. 'Space Radar Image of Ubar Optical/Radar' (PIA01302). https://www.jpl.nasa.gov/images/pia01302-space-radar-image-of-ubar-opticalradar/",
-    "28. [Reference] 'Incense Route - Desert Cities in the Negev - UNESCO World Heritage Centre.' UNESCO. https://whc.unesco.org/en/list/1107",
-    "29. [Wikipedia] 'Iram of the Pillars.' Including the disputed identification of Ubar with Shisr. https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
-    "30. [News] NBC News. 'Quake Reveals Day of Jesus' Crucifixion, Researchers Believe' (2012). https://www.nbcnews.com/news/amp/wbna47555983",
-    "31. [Reference] NASA Eclipse Web Site. Lunar Eclipses: 0001 to 0100 AD, including 3 April AD 33. https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html",
-    "32. [Academic] Humphreys, C. J. and Waddington, W. G. Dating the Crucifixion. Nature 306 (1983). https://www.nature.com/articles/306743a0",
-    "33. [Reference] NASA. Blood Moon Lunar Eclipse. Why the moon reddens during totality. https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/",
-    "34. [Reference] NASA Eclipse Web Site. Atmospheric refraction and the appearance of eclipsed bodies. https://eclipse.gsfc.nasa.gov/LEcat5/appearance.html",
-    "35. [Wikipedia] Chronology of Jesus. The competing dates for the crucifixion. https://en.wikipedia.org/wiki/Chronology_of_Jesus",
-    "36. [Academic] Williams, J. et al. An early first-century earthquake in the Dead Sea. International Geology Review 54 (2012). https://ui.adsabs.harvard.edu/abs/2012IGRv...54.1219W/abstract",
-    "37. [Wikipedia] Pontius Pilate. Dates of his governorship of Judea. https://en.wikipedia.org/wiki/Pontius_Pilate",
-    "38. [News] Live Science. 'Quake Reveals Day of Jesus' Crucifixion' (2012). https://www.livescience.com/20605-jesus-crucifixion.html",
-    "39. [Reference] NASA JPL. HORIZONS ephemeris system, used to reconstruct historical planetary positions. https://ssd.jpl.nasa.gov/horizons/",
-    "40. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Wise Men (Magi).' https://www.newadvent.org/cathen/09527a.htm",
-    "41. [News] Astronomy Magazine. 'June 17, 2 BCE: A Conjunction Between Venus and Jupiter.' https://www.astronomy.com/today-in-the-history-of-astronomy/june-17-2-bce-a-conjunction-between-venus-and-jupiter/",
-    "42. [Wikipedia] Star of Bethlehem. Survey of the conjunction, comet, nova and astrological proposals. https://en.wikipedia.org/wiki/Star_of_Bethlehem",
-    "43. [Wikipedia] Herod the Great. The dating of his death and its bearing on the nativity. https://en.wikipedia.org/wiki/Herod_the_Great",
-    "44. [Commentary] Bible Hub. 'Commentaries on 2 Kings 20:11.' https://biblehub.com/commentaries/2_kings/20-11.htm",
-    "45. [Wikipedia] Novaya Zemlya effect. A documented extreme refraction phenomenon. https://en.wikipedia.org/wiki/Novaya_Zemlya_effect",
-    "46. [Academic] 'Mirages and Green Flashes.' San Diego State University. https://aty.sdsu.edu/mirages/mirintro.html",
-    "47. [Wikipedia] 'Atmospheric Refraction.' Magnitude of ordinary refraction near the horizon. https://en.wikipedia.org/wiki/Atmospheric_refraction"
+    "24. [Wikipedia] 'Tall el-Hammam.' https://en.wikipedia.org/wiki/Tall_el-Hammam",
+    "25. [Academic] Lunar and Planetary Institute. Explore! Planetary Defense: Background, on asteroid impacts and airbursts such as Tunguska and Chelyabinsk. https://www.lpi.usra.edu/education/explore/planetary-defense/background/",
+    "26. [Reference] NASA Earth Observatory. Secrets Beneath the Sand. Shuttle radar imaging in Arabia. https://earthobservatory.nasa.gov/images/90847/secrets-beneath-the-sand",
+    "27. [Archaeology] Madain Project. 'Ubar (Shisr).' https://madainproject.com/ubar",
+    "28. [Reference] NASA JPL. 'Space Radar Image of Ubar Optical/Radar' (PIA01302). https://www.jpl.nasa.gov/images/pia01302-space-radar-image-of-ubar-opticalradar/",
+    "29. [Reference] 'Incense Route - Desert Cities in the Negev - UNESCO World Heritage Centre.' UNESCO. https://whc.unesco.org/en/list/1107",
+    "30. [Wikipedia] 'Incense trade route.' https://en.wikipedia.org/wiki/Incense_trade_route",
+    "31. [Wikipedia] 'Iram of the Pillars.' Including the disputed identification of Ubar with Shisr. https://en.wikipedia.org/wiki/Iram_of_the_Pillars",
+    "32. [News] NBC News. 'Quake Reveals Day of Jesus' Crucifixion, Researchers Believe' (2012). https://www.nbcnews.com/news/amp/wbna47555983",
+    "33. [Reference] NASA Eclipse Web Site. Lunar Eclipses: 0001 to 0100 AD, including 3 April AD 33. https://eclipse.gsfc.nasa.gov/LEcat5/LE0001-0100.html",
+    "34. [Academic] Humphreys, C. J. and Waddington, W. G. Dating the Crucifixion. Nature 306 (1983). https://www.nature.com/articles/306743a0",
+    "35. [Reference] NASA. Blood Moon Lunar Eclipse. Why the moon reddens during totality. https://www.nasa.gov/image-article/blood-moon-lunar-eclipse/",
+    "36. [Reference] NASA Eclipse Web Site. Atmospheric refraction and the appearance of eclipsed bodies. https://eclipse.gsfc.nasa.gov/LEcat5/appearance.html",
+    "37. [Wikipedia] Chronology of Jesus. The competing dates for the crucifixion. https://en.wikipedia.org/wiki/Chronology_of_Jesus",
+    "38. [Academic] Williams, J. et al. An early first-century earthquake in the Dead Sea. International Geology Review 54 (2012). https://ui.adsabs.harvard.edu/abs/2012IGRv...54.1219W/abstract",
+    "39. [Wikipedia] Pontius Pilate. Dates of his governorship of Judea. https://en.wikipedia.org/wiki/Pontius_Pilate",
+    "40. [News] Live Science. 'Quake Reveals Day of Jesus' Crucifixion' (2012). https://www.livescience.com/20605-jesus-crucifixion.html",
+    "41. [Reference] NASA JPL. HORIZONS ephemeris system, used to reconstruct historical planetary positions. https://ssd.jpl.nasa.gov/horizons/",
+    "42. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Wise Men (Magi).' https://www.newadvent.org/cathen/09527a.htm",
+    "43. [News] Astronomy Magazine. 'June 17, 2 BCE: A Conjunction Between Venus and Jupiter.' https://www.astronomy.com/today-in-the-history-of-astronomy/june-17-2-bce-a-conjunction-between-venus-and-jupiter/",
+    "44. [Wikipedia] Star of Bethlehem. Survey of the conjunction, comet, nova and astrological proposals. https://en.wikipedia.org/wiki/Star_of_Bethlehem",
+    "45. [Wikipedia] Herod the Great. The dating of his death and its bearing on the nativity. https://en.wikipedia.org/wiki/Herod_the_Great",
+    "46. [Commentary] Bible Hub. 'Commentaries on 2 Kings 20:11.' https://biblehub.com/commentaries/2_kings/20-11.htm",
+    "47. [Wikipedia] Novaya Zemlya effect. A documented extreme refraction phenomenon. https://en.wikipedia.org/wiki/Novaya_Zemlya_effect",
+    "48. [Academic] 'Mirages and Green Flashes.' San Diego State University. https://aty.sdsu.edu/mirages/mirintro.html",
+    "49. [Wikipedia] 'Mirage.' https://en.wikipedia.org/wiki/Mirage",
+    "50. [Wikipedia] 'Atmospheric Refraction.' Magnitude of ordinary refraction near the horizon. https://en.wikipedia.org/wiki/Atmospheric_refraction"
   ],
   lastUpdated: "30-10-2026"
 }

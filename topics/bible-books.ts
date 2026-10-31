@@ -26,9 +26,9 @@ The Bible is a collection of 66 books written by more than forty authors across 
 *   **The Pentateuch.** Traditionally ascribed to Moses around 1440 to 1400 BC. Most critical scholars hold that the Torah reached its final form considerably later, drawing on multiple sources or supplements, an approach whose classic form is the documentary hypothesis. Conservative scholars respond with arguments for substantial Mosaic origin together with later editorial updating[^4][^5].
 *   **Isaiah.** Traditionally a single eighth-century author. Many scholars divide the book into two or three parts, arguing that chapters 40 to 66 address the exile directly and therefore postdate it. Defenders of unity treat this as predictive prophecy and note that the New Testament cites both halves as Isaiah[^6].
 *   **Daniel.** Traditionally sixth century BC. Most critical scholars date its final form to about 165 BC, pointing to the detailed accuracy of its Greek-period material up to the persecution of Antiochus IV and its divergence from history in 11:40-45, to Greek loanwords for musical instruments, to historical difficulties such as "Darius the Mede", and to its placement among the Writings rather than the Prophets. Conservative scholars answer each point and argue that the late date partly follows from a prior rejection of predictive prophecy[^7].
-*   **The Pauline letters.** Seven are accepted as Pauline across essentially the whole field, being Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon. Many scholars regard Ephesians, Colossians, 2 Thessalonians and the Pastoral Epistles as written later by followers of Paul, arguing from vocabulary, style and assumed church structure[^8][^9][^10].
-*   **Hebrews and 2 Peter.** Hebrews is formally anonymous, and the traditional Pauline attribution was disputed even in the early church. The traditional authorship of 2 Peter is the most widely doubted in the New Testament[^11][^12].
-*   **The Gospels.** All four are formally anonymous. The names attached to them are early and unanimous in the manuscript tradition, though the titles are not part of the original text, and dating ranges from roughly AD 60 to 100 depending on the scholar[^13].
+*   **The Pauline letters.** Seven are accepted as Pauline across essentially the whole field, being Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians and Philemon. Many scholars regard Ephesians, Colossians, 2 Thessalonians and the Pastoral Epistles as written later by followers of Paul, arguing from vocabulary, style and assumed church structure[^8][^9][^10][^11].
+*   **Hebrews and 2 Peter.** Hebrews is formally anonymous, and the traditional Pauline attribution was disputed even in the early church. The traditional authorship of 2 Peter is the most widely doubted in the New Testament[^12][^13].
+*   **The Gospels.** All four are formally anonymous. The names attached to them are early and unanimous in the manuscript tradition, though the titles are not part of the original text, and dating ranges from roughly AD 60 to 100 depending on the scholar[^14].
 
 <?viz bible-books/dating-compare?>
 
@@ -41,7 +41,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "the-law",
       title: "The Old Testament: The Law (Torah)",
       tags: ["Old Testament", "Law"],
-      content: `The Pentateuch establishes the covenant between God and Israel and lays the foundation for all later biblical theology[^14].
+      content: `The Pentateuch establishes the covenant between God and Israel and lays the foundation for all later biblical theology[^15].
 
 
 ### Genesis
@@ -77,7 +77,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "historical-books",
       title: "Old Testament: Historical Books",
       tags: ["Old Testament", "History"],
-      content: `The historical books trace Israel from the conquest of Canaan through the monarchy, the exile and the return[^15].
+      content: `The historical books trace Israel from the conquest of Canaan through the monarchy, the exile and the return[^16].
 
 
 ### Joshua
@@ -146,7 +146,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "wisdom-literature",
       title: "Old Testament: Wisdom Literature",
       tags: ["Old Testament", "Wisdom"],
-      content: `The wisdom and poetic books address suffering, worship, prudence and the limits of human understanding[^16].
+      content: `The wisdom and poetic books address suffering, worship, prudence and the limits of human understanding[^17].
 
 
 ### Job
@@ -180,7 +180,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "major-prophets",
       title: "Old Testament: Major Prophets",
       tags: ["Old Testament", "Prophets"],
-      content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^17].
+      content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^18].
 
 
 ### Isaiah
@@ -214,7 +214,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "minor-prophets",
       title: "Old Testament: Minor Prophets",
       tags: ["Old Testament", "Prophets"],
-      content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^18].
+      content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^19].
 
 
 ### Hosea
@@ -283,7 +283,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "gospels-and-acts",
       title: "New Testament: The Gospels and Acts",
       tags: ["New Testament", "Gospels"],
-      content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^19].
+      content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^20][^21].
 
 
 ### Matthew
@@ -319,7 +319,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "pauline-epistles",
       title: "New Testament: The Pauline Epistles",
       tags: ["New Testament", "Letters"],
-      content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^20].
+      content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^22].
 
 
 <?viz bible-books/letters-map?>
@@ -395,7 +395,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "general-epistles-and-revelation",
       title: "New Testament: General Epistles and Revelation",
       tags: ["New Testament", "Letters"],
-      content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^21].
+      content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^23].
 
 
 ### Hebrews
@@ -459,17 +459,19 @@ The Bible is a collection of 66 books written by more than forty authors across 
     "8. [Academic] 'Scribes and Ancient Letters.' Religious Studies Center, Brigham Young University. https://rsc.byu.edu/how-new-testament-came-be/scribes-ancient-letters",
     "9. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Epistle to the Ephesians.' https://www.newadvent.org/cathen/05485a.htm",
     "10. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Epistles to Titus and Timothy.' https://www.newadvent.org/cathen/14727b.htm",
-    "11. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Epistle to the Hebrews.' https://www.newadvent.org/cathen/07181a.htm",
-    "12. [Wikipedia] Second Epistle of Peter. Authorship and dating. https://en.wikipedia.org/wiki/Second_Epistle_of_Peter",
-    "13. [Wikipedia] Gospel. Anonymity, traditional ascriptions and dating of the canonical gospels. https://en.wikipedia.org/wiki/Gospel",
-    "14. [Wikipedia] Torah. The five books of Moses and their place in Jewish and Christian scripture. https://en.wikipedia.org/wiki/Torah",
-    "15. [Wikipedia] Historical books. Joshua through Esther in the Christian Old Testament. https://en.wikipedia.org/wiki/Historical_books",
-    "16. [Wikipedia] Poetic Books. Job, Psalms, Proverbs, Ecclesiastes and Song of Songs. https://en.wikipedia.org/wiki/Poetic_Books",
-    "17. [Wikipedia] Major prophet. Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. https://en.wikipedia.org/wiki/Major_prophet",
-    "18. [Wikipedia] Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
-    "19. [Encyclopedia] 'Synoptics.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/14389b.htm",
-    "20. [Wikipedia] Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
-    "21. [Wikipedia] Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
+    "11. [Wikipedia] 'Authorship of the Pauline epistles.' https://en.wikipedia.org/wiki/Authorship_of_the_Pauline_epistles",
+    "12. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Epistle to the Hebrews.' https://www.newadvent.org/cathen/07181a.htm",
+    "13. [Wikipedia] Second Epistle of Peter. Authorship and dating. https://en.wikipedia.org/wiki/Second_Epistle_of_Peter",
+    "14. [Wikipedia] Gospel. Anonymity, traditional ascriptions and dating of the canonical gospels. https://en.wikipedia.org/wiki/Gospel",
+    "15. [Wikipedia] Torah. The five books of Moses and their place in Jewish and Christian scripture. https://en.wikipedia.org/wiki/Torah",
+    "16. [Wikipedia] Historical books. Joshua through Esther in the Christian Old Testament. https://en.wikipedia.org/wiki/Historical_books",
+    "17. [Wikipedia] Poetic Books. Job, Psalms, Proverbs, Ecclesiastes and Song of Songs. https://en.wikipedia.org/wiki/Poetic_Books",
+    "18. [Wikipedia] Major prophet. Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. https://en.wikipedia.org/wiki/Major_prophet",
+    "19. [Wikipedia] Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
+    "20. [Encyclopedia] 'Synoptics.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/14389b.htm",
+    "21. [Wikipedia] 'Synoptic Gospels.' https://en.wikipedia.org/wiki/Synoptic_Gospels",
+    "22. [Wikipedia] Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
+    "23. [Wikipedia] Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
   ],
   lastUpdated: "30-10-2026"
 }

@@ -51,7 +51,7 @@ Love that cannot be withheld is not love. A creature with no capacity to refuse 
 *   Alvin Plantinga's Free Will Defense argues that a world containing significantly free creatures is more valuable than one containing none, and that God cannot create genuinely free creatures while determining that they never choose wrongly. To make moral good possible, God must make moral evil possible[^11][^12].
 *   Plantinga's argument establishes that God and evil are logically compatible. It does not claim to identify God's actual reasons. Philosophers widely regard it as having settled the logical problem of evil, while the evidential problem remains actively debated[^13].
 
-Critics respond that God could have created beings who freely choose good every time, since a merely possible wrong choice is not a necessary one. Plantinga answers by appealing to transworld depravity, the claim that God may not have had a feasible world of that kind available. The exchange remains live philosophy rather than a settled matter[^14].
+Critics respond that God could have created beings who freely choose good every time, since a merely possible wrong choice is not a necessary one. Plantinga answers by appealing to transworld depravity, the claim that God may not have had a feasible world of that kind available. The exchange remains live philosophy rather than a settled matter[^14][^15].
 
 **See also:** [The Choice of Love (Free Will)](/categories/free-will#section-the-choice-of-love).
 `
@@ -61,16 +61,16 @@ Critics respond that God could have created beings who freely choose good every 
       title: "The Two Trees: Life and Knowledge",
       tags: ["Why a tree"],
       content: `
-The garden held two named trees, and reading only one of them distorts the account[^15].
+The garden held two named trees, and reading only one of them distorts the account[^16][^17].
 
 <?viz tree-of-knowledge/parallels?>
 
 
-*   The tree of life was never forbidden. Before the fall Adam and Eve had free access to it, and God's prohibition covered exactly one tree out of a garden full of them[^16].
-*   Expulsion was protective rather than merely punitive. Genesis 3:22-24 gives the stated reason, which was to prevent humanity eating from the tree of life in a fallen condition and so fixing that condition permanently[^17].
-*   The choice lay between two kinds of life. The tree of life represented received, dependent life sustained by fellowship with God, while the tree of knowledge represented self-derived life on self-defined terms[^18].
+*   The tree of life was never forbidden. Before the fall Adam and Eve had free access to it, and God's prohibition covered exactly one tree out of a garden full of them[^17].
+*   Expulsion was protective rather than merely punitive. Genesis 3:22-24 gives the stated reason, which was to prevent humanity eating from the tree of life in a fallen condition and so fixing that condition permanently[^18].
+*   The choice lay between two kinds of life. The tree of life represented received, dependent life sustained by fellowship with God, while the tree of knowledge represented self-derived life on self-defined terms[^19].
 
-Scripture closes where it began. The tree of life reappears in Revelation 22, unguarded, at the centre of the New Jerusalem, its leaves "for the healing of the nations." What the fall closed, redemption reopens, and Eden is not merely restored but surpassed[^19].
+Scripture closes where it began. The tree of life reappears in Revelation 22, unguarded, at the centre of the New Jerusalem, its leaves "for the healing of the nations." What the fall closed, redemption reopens, and Eden is not merely restored but surpassed[^20][^17].
 
 <?viz tree-of-knowledge/bookends?>
 
@@ -81,14 +81,14 @@ Scripture closes where it began. The tree of life reappears in Revelation 22, un
       title: "'You Shall Surely Die'",
       tags: ["Death"],
       content: `
-God said that in the day they ate of it they would surely die, yet Adam lived to 930. Sceptics argue that the serpent told the truth and God did not. Three responses are offered, and they are not mutually exclusive[^20].
+God said that in the day they ate of it they would surely die, yet Adam lived to 930. Sceptics argue that the serpent told the truth and God did not. Three responses are offered, and they are not mutually exclusive[^21].
 
 <?viz tree-of-knowledge/art?>
 
 
-*   **The Hebrew idiom.** The construction *môt tāmût*, "dying you shall die," is an infinitive absolute used elsewhere in legal contexts to pronounce a sentence. It marks the certainty of the penalty rather than its timing, closer to "you shall surely be doomed to die" than to a promise of death within a single day[^21].
-*   **Death as separation.** The death threatened was primarily relational. Fellowship with God was severed the same day, evidenced by hiding, shame, and expulsion, and physical death followed as the outworking of that rupture[^22].
-*   **Mortality commenced immediately.** Access to the tree of life was cut off at once, so whatever had sustained unending life ended at once. Adam began dying the day he ate, even though the process took centuries[^23].
+*   **The Hebrew idiom.** The construction *môt tāmût*, "dying you shall die," is an infinitive absolute used elsewhere in legal contexts to pronounce a sentence. It marks the certainty of the penalty rather than its timing, closer to "you shall surely be doomed to die" than to a promise of death within a single day[^22].
+*   **Death as separation.** The death threatened was primarily relational. Fellowship with God was severed the same day, evidenced by hiding, shame, and expulsion, and physical death followed as the outworking of that rupture[^23].
+*   **Mortality commenced immediately.** Access to the tree of life was cut off at once, so whatever had sustained unending life ended at once. Adam began dying the day he ate, even though the process took centuries[^24].
 
 The philological answer carries the most weight. The second and third are theological readings consistent with the wider narrative.
 
@@ -100,13 +100,13 @@ The philological answer carries the most weight. The second and third are theolo
       title: "The Creator-Creature Distinction",
       tags: ["Meaning"],
       content: `
-The prohibition marked a boundary that the image of God does not erase. Genesis grants humanity extraordinary dignity through representation, rule, and relationship, while maintaining that the creature is never the Creator[^24][^25].
+The prohibition marked a boundary that the image of God does not erase. Genesis grants humanity extraordinary dignity through representation, rule, and relationship, while maintaining that the creature is never the Creator[^25][^26][^27].
 
-*   The serpent's offer inverted this precisely. "You will be like God" was an offer of illegitimate Godlikeness, deciding good and evil for oneself instead of receiving them from the one who defines them[^26].
-*   Because humanity is made, humanity is answerable. There is no neutral third position, since moral authority is either received from God or asserted autonomously[^27].
-*   Proverbs 9:10 places the fear of the LORD at the beginning of wisdom, which is the exact inverse of the tree's offer. Wisdom arrives through dependence, not through seizing the right to define[^28].
+*   The serpent's offer inverted this precisely. "You will be like God" was an offer of illegitimate Godlikeness, deciding good and evil for oneself instead of receiving them from the one who defines them[^28].
+*   Because humanity is made, humanity is answerable. There is no neutral third position, since moral authority is either received from God or asserted autonomously[^29].
+*   Proverbs 9:10 places the fear of the LORD at the beginning of wisdom, which is the exact inverse of the tree's offer. Wisdom arrives through dependence, not through seizing the right to define[^30].
 
-Temptation follows the same pattern in the New Testament, where desire conceives and gives birth to sin. The mechanism visible in Eden recurs throughout Scripture[^29].
+Temptation follows the same pattern in the New Testament, where desire conceives and gives birth to sin. The mechanism visible in Eden recurs throughout Scripture[^31].
 `
     },
     {
@@ -116,7 +116,7 @@ Temptation follows the same pattern in the New Testament, where desire conceives
       content: `
 **The objection.** Why should anyone be condemned for what a distant ancestor did?
 
-**Christians differ.** Augustine taught that all humanity shares the guilt of Adam's sin, which became the basis of Western teaching. The Orthodox tradition holds that people inherit mortality and a damaged nature, and not Adam's guilt[^30]. Ezekiel 18:20 says that "the child will not share the guilt of the parent", and Paul adds that death spread to all "because all sinned" (Romans 5:12). Whichever view is right, no one is condemned for sins they have not shared in.
+**Christians differ.** Augustine taught that all humanity shares the guilt of Adam's sin, which became the basis of Western teaching. The Orthodox tradition holds that people inherit mortality and a damaged nature, and not Adam's guilt[^32]. Ezekiel 18:20 says that "the child will not share the guilt of the parent", and Paul adds that death spread to all "because all sinned" (Romans 5:12). Whichever view is right, no one is condemned for sins they have not shared in.
 
 **The experience of it.** Some of the force of the doctrine is simply observation. People are born into families and histories that damage them, and no one needs to be taught selfishness. G. K. Chesterton called original sin the one doctrine that can be proved by looking around. Representation is also ordinary: a nation's leader can bring it into war. Adam stands at the head of the race in that way, and in the same way Christ stands at the head of a new one: "as in Adam all die, so in Christ all will be made alive" (1 Corinthians 15:22). The objection that it is unfair to be represented by Adam is also one against being saved through Christ.
 
@@ -139,22 +139,24 @@ Temptation follows the same pattern in the New Testament, where desire conceives
     "12. [Academic] Stanford Encyclopedia of Philosophy. The Problem of Evil. https://plato.stanford.edu/entries/evil/",
     "13. [Academic] Internet Encyclopedia of Philosophy. The Logical Problem of Evil. Assesses the reception of the Free Will Defense. https://iep.utm.edu/evil-log/",
     "14. [Academic] The Problem of Evil. Oxford Scholarship Online, 2018. https://doi.org/10.1093/oso/9780198821625.001.0001",
-    "15. [Wikipedia] Tree of life (biblical). The tree of life across Genesis and Revelation. https://en.wikipedia.org/wiki/Tree_of_life_(biblical)",
-    "16. [Apologetics] GotQuestions.org. What is the tree of life? https://www.gotquestions.org/tree-of-life.html",
-    "17. [Apologetics] Ligonier Ministries. The Future Tree of Life. https://learn.ligonier.org/devotionals/future-tree-life",
-    "18. [Academic] Lausanne Movement. A Theology of the Human Person. Occasional paper on the imago Dei and human accountability. https://lausanne.org/occasional-paper/a-theology-of-the-human-person",
-    "19. [Wikipedia] New Jerusalem. The restored city in which the tree of life stands. https://en.wikipedia.org/wiki/New_Jerusalem",
-    "20. [Primary Source] Sefaria. Genesis Rabbah 19, rabbinic commentary on the serpent and the sentence. https://www.sefaria.org/Genesis_Rabbah.19",
-    "21. [Lexicon] Bible Hub. Hebrew 4191, muth (to die). The infinitive absolute construction of Genesis 2:17. https://biblehub.com/hebrew/4191.htm",
-    "22. [Commentary] Bible Hub. 'Commentaries on Genesis 3:8.' https://biblehub.com/commentaries/genesis/3-8.htm",
-    "23. [Commentary] Bible Hub. 'Commentaries on Romans 5:12.' https://biblehub.com/commentaries/romans/5-12.htm",
-    "24. [Creationist] Answers in Genesis. What Is the Image of God? https://answersingenesis.org/genesis/what-is-image-of-god/",
-    "25. [Primary Source] 'Communion and Stewardship: Human Persons Created in the Image of God, 2004.' Holy See. https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_en.html",
-    "26. [Commentary] Bible Hub. 'Commentaries on Genesis 3:5.' The serpent's promise of divinity. https://biblehub.com/commentaries/genesis/3-5.htm",
-    "27. [Christian Source] Association of Certified Biblical Counselors. Because I Am Not God: Three Reflections on the Creator-Creature Distinction. https://biblicalcounseling.com/resource-library/articles/because-i-am-not-god-three-reflections-on-the-creator-creature-distinction/",
-    "28. [Commentary] Bible Hub. 'Commentaries on Proverbs 9:10.' https://biblehub.com/commentaries/proverbs/9-10.htm",
-    "29. [Commentary] Bible Hub. 'Commentaries on James 1:15.' https://biblehub.com/commentaries/james/1-15.htm",
-    "30. [Wikipedia] 'Original sin.' https://en.wikipedia.org/wiki/Original_sin"
+    "15. [Wikipedia] 'Problem of evil.' https://en.wikipedia.org/wiki/Problem_of_evil",
+    "16. [Wikipedia] Tree of life (biblical). The tree of life across Genesis and Revelation. https://en.wikipedia.org/wiki/Tree_of_life_(biblical)",
+    "17. [Apologetics] GotQuestions.org. What is the tree of life? https://www.gotquestions.org/tree-of-life.html",
+    "18. [Apologetics] Ligonier Ministries. The Future Tree of Life. https://learn.ligonier.org/devotionals/future-tree-life",
+    "19. [Academic] Lausanne Movement. A Theology of the Human Person. Occasional paper on the imago Dei and human accountability. https://lausanne.org/occasional-paper/a-theology-of-the-human-person",
+    "20. [Wikipedia] New Jerusalem. The restored city in which the tree of life stands. https://en.wikipedia.org/wiki/New_Jerusalem",
+    "21. [Primary Source] Sefaria. Genesis Rabbah 19, rabbinic commentary on the serpent and the sentence. https://www.sefaria.org/Genesis_Rabbah.19",
+    "22. [Lexicon] Bible Hub. Hebrew 4191, muth (to die). The infinitive absolute construction of Genesis 2:17. https://biblehub.com/hebrew/4191.htm",
+    "23. [Commentary] Bible Hub. 'Commentaries on Genesis 3:8.' https://biblehub.com/commentaries/genesis/3-8.htm",
+    "24. [Commentary] Bible Hub. 'Commentaries on Romans 5:12.' https://biblehub.com/commentaries/romans/5-12.htm",
+    "25. [Creationist] Answers in Genesis. What Is the Image of God? https://answersingenesis.org/genesis/what-is-image-of-god/",
+    "26. [Primary Source] 'Communion and Stewardship: Human Persons Created in the Image of God, 2004.' Holy See. https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_en.html",
+    "27. [Wikipedia] 'Image of God.' https://en.wikipedia.org/wiki/Image_of_God",
+    "28. [Commentary] Bible Hub. 'Commentaries on Genesis 3:5.' The serpent's promise of divinity. https://biblehub.com/commentaries/genesis/3-5.htm",
+    "29. [Christian Source] Association of Certified Biblical Counselors. Because I Am Not God: Three Reflections on the Creator-Creature Distinction. https://biblicalcounseling.com/resource-library/articles/because-i-am-not-god-three-reflections-on-the-creator-creature-distinction/",
+    "30. [Commentary] Bible Hub. 'Commentaries on Proverbs 9:10.' https://biblehub.com/commentaries/proverbs/9-10.htm",
+    "31. [Commentary] Bible Hub. 'Commentaries on James 1:15.' https://biblehub.com/commentaries/james/1-15.htm",
+    "32. [Wikipedia] 'Original sin.' https://en.wikipedia.org/wiki/Original_sin"
   ],
   lastUpdated: "30-10-2026"
 }

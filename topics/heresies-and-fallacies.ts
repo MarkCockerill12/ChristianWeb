@@ -25,7 +25,7 @@ Heresies are errors about the centre of the faith, and they are still commonly r
       title: "What Is a Heresy?",
       tags: ["Basics"],
       content: `
-A heresy is a teaching that denies a central truth of the faith, as distinct from the many secondary questions on which Christians can disagree. Most of the great heresies arose from sincere attempts to explain something hard, and they were answered by the early councils, such as Nicaea in 325[^1] and Chalcedon in 451[^2]. They still matter because they keep coming back, often in sermons, children's talks and popular criticism. The word is about teaching and not about a person's sincerity, and it should be used with care.
+A heresy is a teaching that denies a central truth of the faith, as distinct from the many secondary questions on which Christians can disagree. Most of the great heresies arose from sincere attempts to explain something hard, and they were answered by the early councils, such as Nicaea in 325[^1][^2] and Chalcedon in 451[^3][^4]. They still matter because they keep coming back, often in sermons, children's talks and popular criticism. The word is about teaching and not about a person's sincerity, and it should be used with care.
 
 What Christians believe about the Trinity is set out in the [Trinity topic](/categories/trinity). The errors below are the ways of getting it wrong.
 
@@ -37,12 +37,12 @@ What Christians believe about the Trinity is set out in the [Trinity topic](/cat
       title: "Heresies About the Trinity",
       tags: ["Trinity"],
       content: `
-* **Tritheism: three gods.** It treats the Father, Son and Spirit as three separate gods[^3]. It contradicts "The LORD our God, the LORD is one" (Deuteronomy 6:4) and the basics of Christian monotheism.
-* **Modalism: one person in three masks.** God is one person who appears in different modes, at one time as Father, then as Son, then as Spirit. It is also called Sabellianism, after Sabellius[^4]. It denies the distinct persons: at Jesus' baptism all three act at once, with the Son in the water, the Spirit descending and the Father speaking (Matthew 3:16-17). It bears a resemblance to the Hindu idea of one reality appearing as different gods.
+* **Tritheism: three gods.** It treats the Father, Son and Spirit as three separate gods[^5][^6]. It contradicts "The LORD our God, the LORD is one" (Deuteronomy 6:4) and the basics of Christian monotheism.
+* **Modalism: one person in three masks.** God is one person who appears in different modes, at one time as Father, then as Son, then as Spirit. It is also called Sabellianism, after Sabellius[^7][^8]. It denies the distinct persons: at Jesus' baptism all three act at once, with the Son in the water, the Spirit descending and the Father speaking (Matthew 3:16-17). It bears a resemblance to the Hindu idea of one reality appearing as different gods.
 * **Partialism: three parts of God.** Each person is one-third of God, so that only together do they make up God. It contradicts "in Christ all the fullness of the Deity lives in bodily form" (Colossians 2:9). Each person is fully God: Jesus says that "anyone who has seen me has seen the Father" (John 14:9), and lying to the Spirit is lying to God (Acts 5:3-4).
-* **Patripassianism: the Father died on the cross.** A form of modalism, in which the Father himself suffered, as Tertullian charged against Praxeas[^5]. Scripture teaches that it was the Son who suffered (Isaiah 53; Luke 23), and that he prayed to the Father from the cross (Luke 23:46).
+* **Patripassianism: the Father died on the cross.** A form of modalism, in which the Father himself suffered, as Tertullian charged against Praxeas[^9][^10]. Scripture teaches that it was the Son who suffered (Isaiah 53; Luke 23), and that he prayed to the Father from the cross (Luke 23:46).
 
-**Bad analogies.** Many well-meant illustrations fall into these errors. Water as ice, liquid and steam suggests modalism. A shamrock or an egg with three parts suggests partialism. Three separate people suggests tritheism. The Trinity has no exact parallel in creation, which is why every analogy eventually breaks down[^6].
+**Bad analogies.** Many well-meant illustrations fall into these errors. Water as ice, liquid and steam suggests modalism. A shamrock or an egg with three parts suggests partialism. Three separate people suggests tritheism. The Trinity has no exact parallel in creation, which is why every analogy eventually breaks down[^11][^12].
 `,
     },
     {
@@ -50,13 +50,13 @@ What Christians believe about the Trinity is set out in the [Trinity topic](/cat
       title: "Heresies About Jesus",
       tags: ["Jesus"],
       content: `
-* **Arianism: Jesus was created.** Arius taught that the Son is a created being, the first and greatest of creatures, and not fully God. The Council of Nicaea rejected this in 325[^7]. It is refuted by "the Word was God" (John 1:1) and "through him all things were made" (John 1:3). The Jehovah's Witnesses hold a modern form of it.
-* **Adoptionism: Jesus became God's Son.** Jesus was an ordinary man whom God adopted, at his baptism or his resurrection[^8][^9]. It denies his eternal Sonship: "the Word became flesh" (John 1:14), and God "sent his Son, born of a woman" (Galatians 4:4).
-* **Docetism: Jesus only seemed human.** His body and suffering were an appearance[^10]. John answers it directly: "every spirit that does not acknowledge Jesus is not from God" (1 John 4:2-3), and the risen Jesus has flesh and bones (Luke 24:39).
-* **Apollinarianism: a divine mind in a human body.** Jesus had a human body and a divine mind in place of a human one. It was condemned at Constantinople in 381[^11]. The early church answered that what Christ did not take on, he did not heal.
-* **Nestorianism: two persons.** The human Jesus and the divine Son are two persons joined together. It was condemned at Ephesus in 431[^12]. It denies the unity of his person: "The Word became flesh" (John 1:14). Whether Nestorius himself taught this is disputed, and the Church of the East rejects the label.
-* **Monophysitism: one nature.** The human nature was absorbed into the divine, as taught by Eutyches and rejected at Chalcedon[^13]. The Oriental Orthodox churches, often labelled with this name, reject it, and describe their own view as miaphysite.
-* **Monothelitism: one will.** Christ had only a divine will, which would make his humanity a kind of puppet. It was condemned at Constantinople in 681[^14]. "Not my will, but yours be done" (Luke 22:42) shows a human will submitted to the Father's.
+* **Arianism: Jesus was created.** Arius taught that the Son is a created being, the first and greatest of creatures, and not fully God. The Council of Nicaea rejected this in 325[^13][^14]. It is refuted by "the Word was God" (John 1:1) and "through him all things were made" (John 1:3). The Jehovah's Witnesses hold a modern form of it.
+* **Adoptionism: Jesus became God's Son.** Jesus was an ordinary man whom God adopted, at his baptism or his resurrection[^15][^16]. It denies his eternal Sonship: "the Word became flesh" (John 1:14), and God "sent his Son, born of a woman" (Galatians 4:4).
+* **Docetism: Jesus only seemed human.** His body and suffering were an appearance[^17][^18]. John answers it directly: "every spirit that does not acknowledge Jesus is not from God" (1 John 4:2-3), and the risen Jesus has flesh and bones (Luke 24:39).
+* **Apollinarianism: a divine mind in a human body.** Jesus had a human body and a divine mind in place of a human one. It was condemned at Constantinople in 381[^19][^20]. The early church answered that what Christ did not take on, he did not heal.
+* **Nestorianism: two persons.** The human Jesus and the divine Son are two persons joined together. It was condemned at Ephesus in 431[^21][^22]. It denies the unity of his person: "The Word became flesh" (John 1:14). Whether Nestorius himself taught this is disputed, and the Church of the East rejects the label.
+* **Monophysitism: one nature.** The human nature was absorbed into the divine, as taught by Eutyches and rejected at Chalcedon[^23][^24]. The Oriental Orthodox churches, often labelled with this name, reject it, and describe their own view as miaphysite.
+* **Monothelitism: one will.** Christ had only a divine will, which would make his humanity a kind of puppet. It was condemned at Constantinople in 681[^25][^26]. "Not my will, but yours be done" (Luke 22:42) shows a human will submitted to the Father's.
 
 **See also:** [Addressing Objections: Verses Where Jesus Differentiates Himself From the Father (Jesus' Claims)](/categories/jesus#section-objections).
 `,
@@ -66,9 +66,9 @@ What Christians believe about the Trinity is set out in the [Trinity topic](/cat
       title: "Other Major Errors",
       tags: ["Salvation"],
       content: `
-* **Pelagianism: we can save ourselves.** People are able to obey God without grace, and Adam's sin harms us only by example. Augustine opposed it, and the Council of Carthage condemned it in 418[^15]. Scripture says that salvation is "by grace... not by works" (Ephesians 2:8-9).
-* **Gnosticism: secret knowledge saves.** The material world is evil, made by a lesser god, and salvation comes through hidden knowledge[^16]. Genesis calls creation "very good" (Genesis 1:31). The [canon topic](/categories/canon) covers its writings.
-* **Marcionism: two gods.** The God of the Old Testament is a different and lesser one than the Father of Jesus[^17]. The [did God change topic](/categories/did-god-change) answers it.
+* **Pelagianism: we can save ourselves.** People are able to obey God without grace, and Adam's sin harms us only by example. Augustine opposed it, and the Council of Carthage condemned it in 418[^27][^28]. Scripture says that salvation is "by grace... not by works" (Ephesians 2:8-9).
+* **Gnosticism: secret knowledge saves.** The material world is evil, made by a lesser god, and salvation comes through hidden knowledge[^29][^30]. Genesis calls creation "very good" (Genesis 1:31). The [canon topic](/categories/canon) covers its writings.
+* **Marcionism: two gods.** The God of the Old Testament is a different and lesser one than the Father of Jesus[^31][^32]. The [did God change topic](/categories/did-god-change) answers it.
 `,
     },
     {
@@ -78,9 +78,9 @@ What Christians believe about the Trinity is set out in the [Trinity topic](/cat
       content: `
 These are not heresies, but truths whose denial lies behind many of the errors above.
 
-**Divine simplicity.** God is not made of separable components or parts[^18]. His justice, love and power are not pieces of him that could pull against each other. The doctrine is complex and Christians discuss how far to take it, and it clears up a number of supposed contradictions, such as justice being set against mercy, as though these were two different parties inside God.
+**Divine simplicity.** God is not made of separable components or parts[^33][^34]. His justice, love and power are not pieces of him that could pull against each other. The doctrine is complex and Christians discuss how far to take it, and it clears up a number of supposed contradictions, such as justice being set against mercy, as though these were two different parties inside God.
 
-**Divine immutability.** God does not change: "I the LORD do not change" (Malachi 3:6)[^19]. A common reply is that Jesus becoming human is a change. The answer is that he did not lose his divinity but gained a humanity, so that the divine nature remained constant. Nor did sending the Son to earth mean that God had to leave heaven, since God is everywhere. The [did God change topic](/categories/did-god-change) covers this further.
+**Divine immutability.** God does not change: "I the LORD do not change" (Malachi 3:6)[^35][^36]. A common reply is that Jesus becoming human is a change. The answer is that he did not lose his divinity but gained a humanity, so that the divine nature remained constant. Nor did sending the Son to earth mean that God had to leave heaven, since God is everywhere. The [did God change topic](/categories/did-god-change) covers this further.
 
 **See also:** [Numbers 23:19 / 1 Samuel 15:29 vs. Genesis 6:6 - God does not repent vs. God repented (Contradictions)](/categories/contradictions#section-GodRepents).
 `,
@@ -102,15 +102,15 @@ A popular comic and internet joke goes roughly like this: God sends himself to e
 
 **Fallacies it commits.**
 
-* **Strawman.** Attacking a misrepresented version of an argument[^20]. No Christian teaches that God sacrifices himself to himself in this sense.
-* **Equivocation.** Using a word in two senses[^21]. "Myself" confuses person with essence. One God in three persons does not mean that the Son and Father are one person.
-* **Category mistake.** Treating something as if it belonged to a category it does not[^22]. God's justice is not a separate being standing against God, but an expression of his nature, so "God against God" does not describe it.
-* **Composition.** Assuming that what is true of the parts holds for the whole, or the reverse[^23]. The joke treats Father, Son and Spirit as parts whose actions add up to God.
-* **Anthropomorphism.** Attributing human traits to what is not human[^24]. Scripture does use human language of God by analogy, but the joke goes further and makes God confused, like a sitcom father. We are made in his image, and he is not made in ours.
-* **False analogy.** Comparing unlike things[^25]. God sending the Son is not like one person sending himself.
-* **False cause.** Assuming a false link between cause and effect[^26]. "Saving everyone from me" treats God as the cause of the problem. Sin is what brings separation, and God is not arbitrarily punishing.
-* **Oversimplification.** Simplifying to the point of distortion[^27]. The Trinity and the atonement are subtle subjects, which cannot be reduced to one line.
-* **Begging the question.** Assuming what it sets out to prove[^28]. The joke assumes that the doctrines are absurd, and uses that to show they are absurd. It offers no actual argument.
+* **Strawman.** Attacking a misrepresented version of an argument[^37][^38]. No Christian teaches that God sacrifices himself to himself in this sense.
+* **Equivocation.** Using a word in two senses[^37]. "Myself" confuses person with essence. One God in three persons does not mean that the Son and Father are one person.
+* **Category mistake.** Treating something as if it belonged to a category it does not[^39][^40]. God's justice is not a separate being standing against God, but an expression of his nature, so "God against God" does not describe it.
+* **Composition.** Assuming that what is true of the parts holds for the whole, or the reverse[^37]. The joke treats Father, Son and Spirit as parts whose actions add up to God.
+* **Anthropomorphism.** Attributing human traits to what is not human[^41][^42]. Scripture does use human language of God by analogy, but the joke goes further and makes God confused, like a sitcom father. We are made in his image, and he is not made in ours.
+* **False analogy.** Comparing unlike things[^37]. God sending the Son is not like one person sending himself.
+* **False cause.** Assuming a false link between cause and effect[^37]. "Saving everyone from me" treats God as the cause of the problem. Sin is what brings separation, and God is not arbitrarily punishing.
+* **Oversimplification.** Simplifying to the point of distortion[^37]. The Trinity and the atonement are subtle subjects, which cannot be reduced to one line.
+* **Begging the question.** Assuming what it sets out to prove[^37]. The joke assumes that the doctrines are absurd, and uses that to show they are absurd. It offers no actual argument.
 
 **What can fairly be asked.** Good questions do lie behind the joke. How can one God be three persons? Why would God need a sacrifice? How can one death deal with the guilt of others? These are real and deserve real answers, and the [Trinity](/categories/trinity) and [Jesus](/categories/jesus) topics take them up.
 `,
@@ -118,33 +118,47 @@ A popular comic and internet joke goes roughly like this: God sends himself to e
   ],
   sources: [
     "1. [Primary Source] First Council of Nicaea (325): creed and canons. Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum01.htm",
-    "2. [Primary Source] Council of Chalcedon (451). Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum04.htm",
-    "3. [Academic] Stanford Encyclopedia of Philosophy. 'Trinity.' https://plato.stanford.edu/entries/trinity/",
-    "4. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Monarchians.' https://www.newadvent.org/cathen/10448a.htm",
-    "5. [Primary Source] Tertullian, Against Praxeas. New Advent. https://www.newadvent.org/fathers/0317.htm",
-    "6. [Academic] 'Trinity.' Internet Encyclopedia of Philosophy. https://iep.utm.edu/trinity/",
-    "7. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Arianism.' https://www.newadvent.org/cathen/01707c.htm",
-    "8. [Wikipedia] 'Adoptionism.' https://en.wikipedia.org/wiki/Adoptionism",
-    "9. [Academic] Lavender. Adoptionism. The Encyclopedia of Ancient History, 2012. https://doi.org/10.1002/9781444338386.wbeah05004",
-    "10. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Docetae.' https://www.newadvent.org/cathen/05070c.htm",
-    "11. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Apollinarianism.' https://www.newadvent.org/cathen/01615b.htm",
-    "12. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Nestorius and Nestorianism.' https://www.newadvent.org/cathen/10755a.htm",
-    "13. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Monophysites and Monophysitism.' https://www.newadvent.org/cathen/10489b.htm",
-    "14. [Primary Source] Third Council of Constantinople (680-681). Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum06.htm",
-    "15. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Pelagius and Pelagianism.' https://www.newadvent.org/cathen/11604a.htm",
-    "16. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Gnosticism.' https://www.newadvent.org/cathen/06592a.htm",
-    "17. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Marcionites.' https://www.newadvent.org/cathen/09645c.htm",
-    "18. [Academic] Stanford Encyclopedia of Philosophy. 'Divine Simplicity.' https://plato.stanford.edu/entries/divine-simplicity/",
-    "19. [Academic] Stanford Encyclopedia of Philosophy. 'Immutability.' https://plato.stanford.edu/entries/immutability/",
-    "20. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#StrawMan",
-    "21. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#Equivocation",
-    "22. [Academic] Stanford Encyclopedia of Philosophy. 'Category Mistakes.' https://plato.stanford.edu/entries/category-mistakes/",
-    "23. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#Composition",
-    "24. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Anthropomorphism.' https://www.newadvent.org/cathen/01558c.htm",
-    "25. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#FaultyComparison",
-    "26. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#FalseCause",
-    "27. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#Oversimplification",
-    "28. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#BeggingtheQuestion"
+    "2. [Wikipedia] 'Nicene Creed.' https://en.wikipedia.org/wiki/Nicene_Creed",
+    "3. [Primary Source] Council of Chalcedon (451). Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum04.htm",
+    "4. [Wikipedia] 'Chalcedonian Definition.' https://en.wikipedia.org/wiki/Chalcedonian_Definition",
+    "5. [Academic] Stanford Encyclopedia of Philosophy. 'Trinity.' https://plato.stanford.edu/entries/trinity/",
+    "6. [Wikipedia] 'Tritheism.' https://en.wikipedia.org/wiki/Tritheism",
+    "7. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Monarchians.' https://www.newadvent.org/cathen/10448a.htm",
+    "8. [Wikipedia] 'Sabellianism.' https://en.wikipedia.org/wiki/Sabellianism",
+    "9. [Primary Source] Tertullian, Against Praxeas. New Advent. https://www.newadvent.org/fathers/0317.htm",
+    "10. [Wikipedia] 'Patripassianism.' https://en.wikipedia.org/wiki/Patripassianism",
+    "11. [Academic] 'Trinity.' Internet Encyclopedia of Philosophy. https://iep.utm.edu/trinity/",
+    "12. [Wikipedia] 'Trinity.' https://en.wikipedia.org/wiki/Trinity",
+    "13. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Arianism.' https://www.newadvent.org/cathen/01707c.htm",
+    "14. [Wikipedia] 'Arianism.' https://en.wikipedia.org/wiki/Arianism",
+    "15. [Wikipedia] 'Adoptionism.' https://en.wikipedia.org/wiki/Adoptionism",
+    "16. [Academic] Lavender. Adoptionism. The Encyclopedia of Ancient History, 2012. https://doi.org/10.1002/9781444338386.wbeah05004",
+    "17. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Docetae.' https://www.newadvent.org/cathen/05070c.htm",
+    "18. [Wikipedia] 'Docetism.' https://en.wikipedia.org/wiki/Docetism",
+    "19. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Apollinarianism.' https://www.newadvent.org/cathen/01615b.htm",
+    "20. [Wikipedia] 'Apollinarism.' https://en.wikipedia.org/wiki/Apollinarism",
+    "21. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Nestorius and Nestorianism.' https://www.newadvent.org/cathen/10755a.htm",
+    "22. [Wikipedia] 'Nestorianism.' https://en.wikipedia.org/wiki/Nestorianism",
+    "23. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Monophysites and Monophysitism.' https://www.newadvent.org/cathen/10489b.htm",
+    "24. [Wikipedia] 'Monophysitism.' https://en.wikipedia.org/wiki/Monophysitism",
+    "25. [Primary Source] Third Council of Constantinople (680-681). Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum06.htm",
+    "26. [Wikipedia] 'Monothelitism.' https://en.wikipedia.org/wiki/Monothelitism",
+    "27. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Pelagius and Pelagianism.' https://www.newadvent.org/cathen/11604a.htm",
+    "28. [Wikipedia] 'Pelagianism.' https://en.wikipedia.org/wiki/Pelagianism",
+    "29. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Gnosticism.' https://www.newadvent.org/cathen/06592a.htm",
+    "30. [Wikipedia] 'Gnosticism.' https://en.wikipedia.org/wiki/Gnosticism",
+    "31. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Marcionites.' https://www.newadvent.org/cathen/09645c.htm",
+    "32. [Wikipedia] 'Marcionism.' https://en.wikipedia.org/wiki/Marcionism",
+    "33. [Academic] Stanford Encyclopedia of Philosophy. 'Divine Simplicity.' https://plato.stanford.edu/entries/divine-simplicity/",
+    "34. [Wikipedia] 'Divine simplicity.' https://en.wikipedia.org/wiki/Divine_simplicity",
+    "35. [Academic] Stanford Encyclopedia of Philosophy. 'Immutability.' https://plato.stanford.edu/entries/immutability/",
+    "36. [Wikipedia] 'Immutability (theology).' https://en.wikipedia.org/wiki/Immutability_(theology)",
+    "37. [Academic] Internet Encyclopedia of Philosophy. 'Fallacies.' https://iep.utm.edu/fallacy/#StrawMan",
+    "38. [Wikipedia] 'Straw man.' https://en.wikipedia.org/wiki/Straw_man",
+    "39. [Academic] Stanford Encyclopedia of Philosophy. 'Category Mistakes.' https://plato.stanford.edu/entries/category-mistakes/",
+    "40. [Wikipedia] 'Category mistake.' https://en.wikipedia.org/wiki/Category_mistake",
+    "41. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Anthropomorphism.' https://www.newadvent.org/cathen/01558c.htm",
+    "42. [Wikipedia] 'Anthropomorphism.' https://en.wikipedia.org/wiki/Anthropomorphism"
   ],
   lastUpdated: "30-10-2026"
 }

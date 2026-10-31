@@ -52,9 +52,9 @@ Several arguments are offered for libertarian freedom, each carrying force and e
 
 **The argument from deliberation.** Every human being experiences weighing alternatives, predicting outcomes, and reaching decisions. That universal and persistent intuition provides prima facie evidence of real agency[^17]. Compatibilists accept that the experience is veridical while denying that it demonstrates libertarian freedom, since a compatibilist account predicts the same felt sense of deliberating[^18].
 
-**The argument from moral responsibility.** Praise and blame apply only to agents who could have done otherwise, which is why a falling rock is not held culpable for the damage it causes[^19]. Frankfurt-style cases were designed to challenge exactly this, presenting scenarios in which an agent seems responsible despite being unable to do otherwise, and the resulting literature remains unresolved[^20].
+**The argument from moral responsibility.** Praise and blame apply only to agents who could have done otherwise, which is why a falling rock is not held culpable for the damage it causes[^19]. Frankfurt-style cases were designed to challenge exactly this, presenting scenarios in which an agent seems responsible despite being unable to do otherwise, and the resulting literature remains unresolved[^20][^21].
 
-**The argument from creativity.** Composition and artistic expression bring something new into existence, which is difficult to reduce to mechanistic causes and reflects the creative freedom of the God in whose image humans are made[^21].
+**The argument from creativity.** Composition and artistic expression bring something new into existence, which is difficult to reduce to mechanistic causes and reflects the creative freedom of the God in whose image humans are made[^22][^23].
 `
     },
     {
@@ -62,13 +62,13 @@ Several arguments are offered for libertarian freedom, each carrying force and e
       title: "Moral Responsibility and Accountability",
       tags: ["Philosophy"],
       content: `
-The most significant implication of free will concerns moral responsibility[^22].
+The most significant implication of free will concerns moral responsibility[^24][^20].
 
-*   **Justice presupposes agency.** Human legal systems distinguish the culpable from the coerced and the sane from the incapacitated, distinctions that make sense only if some agents genuinely control their actions[^23].
-*   **Divine judgment presupposes it.** Scripture depicts God assessing thoughts, intentions and deliberate acts, judging with equity, which requires that the acts be genuinely the person's own[^24].
-*   **Final separation as ratification.** Eternal separation from God is widely read as the confirmation of a sustained and freely maintained rejection rather than an arbitrary sentence, a reading more natural on libertarian assumptions than on compatibilist ones[^25].
+*   **Justice presupposes agency.** Human legal systems distinguish the culpable from the coerced and the sane from the incapacitated, distinctions that make sense only if some agents genuinely control their actions[^25].
+*   **Divine judgment presupposes it.** Scripture depicts God assessing thoughts, intentions and deliberate acts, judging with equity, which requires that the acts be genuinely the person's own[^26].
+*   **Final separation as ratification.** Eternal separation from God is widely read as the confirmation of a sustained and freely maintained rejection rather than an arbitrary sentence, a reading more natural on libertarian assumptions than on compatibilist ones[^27].
 
-Neither camp holds that humans are puppets. Compatibilists insist as strongly as libertarians that people act, deliberate and are rightly held responsible, and the disagreement concerns what makes that so[^26].
+Neither camp holds that humans are puppets. Compatibilists insist as strongly as libertarians that people act, deliberate and are rightly held responsible, and the disagreement concerns what makes that so[^28].
 `
     },
     {
@@ -76,11 +76,11 @@ Neither camp holds that humans are puppets. Compatibilists insist as strongly as
       title: "The Choice of Love",
       tags: ["Love"],
       content: `
-A theological argument distinct from the philosophical ones turns on the nature of love. Authentic love cannot be forced, programmed or coerced, and must be freely given[^27].
+A theological argument distinct from the philosophical ones turns on the nature of love. Authentic love cannot be forced, programmed or coerced, and must be freely given[^29][^30].
 
-God, who is love in His essence, created human beings for relationship with Him. A relationship guaranteed by construction would be something other than love, and a programmed affirmation offers no intimacy[^28]. The freedom to accept therefore entails the freedom to reject, and the risk of rebellion was the price of a universe containing creatures capable of genuine devotion[^29].
+God, who is love in His essence, created human beings for relationship with Him. A relationship guaranteed by construction would be something other than love, and a programmed affirmation offers no intimacy[^31]. The freedom to accept therefore entails the freedom to reject, and the risk of rebellion was the price of a universe containing creatures capable of genuine devotion[^32].
 
-The strongest objection holds that God could have created beings who freely love Him without exception, since a choice freely made for good once is possible always. Plantinga answers by appealing to transworld depravity, the claim that such a world may not have been feasible for God to actualise, and whether that reply succeeds remains disputed[^30].
+The strongest objection holds that God could have created beings who freely love Him without exception, since a choice freely made for good once is possible always. Plantinga answers by appealing to transworld depravity, the claim that such a world may not have been feasible for God to actualise, and whether that reply succeeds remains disputed[^33].
 
 **See also:** [Why a Prohibition Was Necessary (The Tree of Knowledge)](/categories/tree-of-knowledge#section-why-a-prohibition).
 `
@@ -90,11 +90,11 @@ The strongest objection holds that God could have created beings who freely love
       title: "The Free Will Defense against the Problem of Evil",
       tags: ["Problem of evil"],
       content: `
-The most influential apologetic use of free will is Alvin Plantinga's Free Will Defense[^31].
+The most influential apologetic use of free will is Alvin Plantinga's Free Will Defense[^34][^33].
 
-A world containing significantly free creatures is more valuable than one containing none, and God cannot create genuinely free creatures while determining that they never choose wrongly. To make moral good possible, God must permit the possibility of moral evil, and the source of that evil is the creature's misuse of freedom rather than God[^32]. Scripture states directly that God tempts no one[^33].
+A world containing significantly free creatures is more valuable than one containing none, and God cannot create genuinely free creatures while determining that they never choose wrongly. To make moral good possible, God must permit the possibility of moral evil, and the source of that evil is the creature's misuse of freedom rather than God[^35][^36]. Scripture states directly that God tempts no one[^37].
 
-The argument is a defense rather than a theodicy, aiming only to show that the existence of God and the existence of evil are not logically contradictory. It does not claim to state God's actual reasons for permitting any particular evil, and Plantinga was explicit on that point[^34].
+The argument is a defense rather than a theodicy, aiming only to show that the existence of God and the existence of evil are not logically contradictory. It does not claim to state God's actual reasons for permitting any particular evil, and Plantinga was explicit on that point[^38].
 
 It is widely regarded as having succeeded against the logical problem of evil, with most philosophers of religion including many atheists accepting that the bare incompatibility charge fails. The evidential problem, concerning whether the amount and distribution of suffering makes God's existence improbable, remains fully live and is where the contemporary debate sits[^35].
 
@@ -106,13 +106,13 @@ It is widely regarded as having succeeded against the logical problem of evil, w
       title: "Libertarian Free Will vs. Compatibilism",
       tags: ["Philosophy"],
       content: `
-This is the central disagreement within Christian theology, and both positions are held by serious orthodox theologians[^36][^37].
+This is the central disagreement within Christian theology, and both positions are held by serious orthodox theologians[^39][^40].
 
-**Libertarian free will** asserts that a choice is genuinely free only if, given identical prior circumstances and internal states, the agent could have chosen otherwise. Choices are not fully determined by prior causes, including divine decree[^38]. The principal objection is that a choice not determined by the agent's character and reasons appears random rather than authored, which is the luck objection and a serious difficulty for libertarian accounts[^39].
+**Libertarian free will** asserts that a choice is genuinely free only if, given identical prior circumstances and internal states, the agent could have chosen otherwise. Choices are not fully determined by prior causes, including divine decree[^41]. The principal objection is that a choice not determined by the agent's character and reasons appears random rather than authored, which is the luck objection and a serious difficulty for libertarian accounts[^42].
 
-**Compatibilism** holds that a person acts freely when acting according to their own desires without external coercion, even if those desires were themselves determined. It is associated with the Reformed tradition and was defended in various forms by Francis Turretin and Jonathan Edwards, with Calvin often read the same way, though scholars debate whether his view fits the modern category[^40]. The principal objection is that if God determines the desires producing sinful choices, distancing God from the authorship of sin becomes difficult, and compatibilists answer with distinctions between primary and secondary causation and between permitting and causing[^41].
+**Compatibilism** holds that a person acts freely when acting according to their own desires without external coercion, even if those desires were themselves determined. It is associated with the Reformed tradition and was defended in various forms by Francis Turretin and Jonathan Edwards, with Calvin often read the same way, though scholars debate whether his view fits the modern category[^43]. The principal objection is that if God determines the desires producing sinful choices, distancing God from the authorship of sin becomes difficult, and compatibilists answer with distinctions between primary and secondary causation and between permitting and causing[^44].
 
-The Reformed position developed within a longer controversy running from Pelagianism and the response to it through to the Synod of Dort, and the categories of prevenient grace, total depravity and irresistible grace belong to that history[^42][^43]. Arminian theology occupies the corresponding position on the other side, affirming that grace enables a genuine choice that can be resisted[^44].
+The Reformed position developed within a longer controversy running from Pelagianism and the response to it through to the Synod of Dort, and the categories of prevenient grace, total depravity and irresistible grace belong to that history[^45][^46][^47]. Arminian theology occupies the corresponding position on the other side, affirming that grace enables a genuine choice that can be resisted[^48].
 `
     },
     {
@@ -120,16 +120,16 @@ The Reformed position developed within a longer controversy running from Pelagia
       title: "The Molinist Approach and Middle Knowledge",
       tags: ["Sovereignty"],
       content: `
-Molinism, developed by the sixteenth-century Jesuit Luis de Molina, proposes a third way[^45].
+Molinism, developed by the sixteenth-century Jesuit Luis de Molina, proposes a third way[^49][^50].
 
 <?viz free-will/molinist-order?>
 
 
-God possesses three kinds of knowledge. Natural knowledge covers everything that could be, free knowledge covers everything that will be, and between them lies middle knowledge, covering what any free creature would freely do in any given circumstance. These are the counterfactuals of creaturely freedom[^46].
+God possesses three kinds of knowledge. Natural knowledge covers everything that could be, free knowledge covers everything that will be, and between them lies middle knowledge, covering what any free creature would freely do in any given circumstance. These are the counterfactuals of creaturely freedom[^51][^52].
 
-By choosing to actualise a world whose full set of counterfactuals He knows, God ensures that His purposes are achieved entirely through genuinely free decisions[^47]. Applied to prophecy, this explains how God could know with certainty that Peter would deny Christ three times without causing it, since God knew what Peter would freely do in exactly those circumstances[^48].
+By choosing to actualise a world whose full set of counterfactuals He knows, God ensures that His purposes are achieved entirely through genuinely free decisions[^53]. Applied to prophecy, this explains how God could know with certainty that Peter would deny Christ three times without causing it, since God knew what Peter would freely do in exactly those circumstances[^54].
 
-The principal objection is the grounding problem. What makes a counterfactual of creaturely freedom true prior to God's decision to create? It cannot be God's will, or the choices are determined after all, and it cannot be the creature's actual choice, since the creature does not yet exist[^49]. The debate traces back to medieval discussions of future contingents and the longstanding puzzle of reconciling infallible foreknowledge with freedom[^50][^51].
+The principal objection is the grounding problem. What makes a counterfactual of creaturely freedom true prior to God's decision to create? It cannot be God's will, or the choices are determined after all, and it cannot be the creature's actual choice, since the creature does not yet exist[^52][^55]. The debate traces back to medieval discussions of future contingents and the longstanding puzzle of reconciling infallible foreknowledge with freedom[^55][^56].
 `
     },
     {
@@ -137,7 +137,7 @@ The principal objection is the grounding problem. What makes a counterfactual of
       title: "Sovereignty and Concurrence",
       tags: ["Sovereignty"],
       content: `
-Scripture asserts both truths without resolving the mechanism, and the doctrine of concurrence names that fact[^52].
+Scripture asserts both truths without resolving the mechanism, and the doctrine of concurrence names that fact[^57].
 
 <?viz free-will/tulip?>
 
@@ -145,13 +145,13 @@ Scripture asserts both truths without resolving the mechanism, and the doctrine 
 <?viz free-will/systems?>
 
 
-*   **Joseph.** His brothers acted from genuine malice and bear the guilt, and Joseph nonetheless states that what they intended for harm God intended for good. One event receives two complete descriptions[^53].
-*   **The cross.** Acts 2:23 holds together God's deliberate plan and foreknowledge and the culpability of those who carried out the execution in a single sentence, and Acts 4:27-28 states that they did what God's power and will had decided beforehand[^54].
-*   **Paul's instruction.** Believers are told to work out their own salvation with fear and trembling precisely because it is God who works in them to will and to act, so the human effort is grounded in divine working rather than opposed to it[^55].
+*   **Joseph.** His brothers acted from genuine malice and bear the guilt, and Joseph nonetheless states that what they intended for harm God intended for good. One event receives two complete descriptions[^58].
+*   **The cross.** Acts 2:23 holds together God's deliberate plan and foreknowledge and the culpability of those who carried out the execution in a single sentence, and Acts 4:27-28 states that they did what God's power and will had decided beforehand[^59].
+*   **Paul's instruction.** Believers are told to work out their own salvation with fear and trembling precisely because it is God who works in them to will and to act, so the human effort is grounded in divine working rather than opposed to it[^60].
 
-God is described as doing whatever pleases Him and as declaring the end from the beginning, while human beings are treated throughout as fully responsible agents whose choices have real effect[^56]. Concurrence holds that an action is entirely the agent's own and simultaneously entirely under God's providential governance, which describes what Scripture affirms rather than explaining how it operates[^57].
+God is described as doing whatever pleases Him and as declaring the end from the beginning, while human beings are treated throughout as fully responsible agents whose choices have real effect[^61]. Concurrence holds that an action is entirely the agent's own and simultaneously entirely under God's providential governance, which describes what Scripture affirms rather than explaining how it operates[^30].
 
-Collapsing the tension in either direction carries practical cost. Fatalism breeds passivity, and a God whose purposes depend on human cooperation is not the God of Scripture. Holding both sustains urgent action alongside genuine rest[^58].
+Collapsing the tension in either direction carries practical cost. Fatalism breeds passivity, and a God whose purposes depend on human cooperation is not the God of Scripture. Holding both sustains urgent action alongside genuine rest[^62].
 
 **See also:** [Why Pray if God Already Has a Plan? (Prayer)](/categories/prayer#section-why-pray).
 `
@@ -178,44 +178,48 @@ Collapsing the tension in either direction carries practical cost. Fatalism bree
     "18. [Academic] Stanford Encyclopedia of Philosophy. Compatibilism. The case that freedom and determinism are compatible. https://plato.stanford.edu/entries/compatibilism/",
     "19. [Wikipedia] Frankfurt cases (the principle of alternate possibilities). https://en.wikipedia.org/wiki/Frankfurt_cases",
     "20. [Academic] 'Moral Responsibility and the Principle of Alternative Possibilities.' Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/entries/alternative-possibilities/",
-    "21. [Primary Source] 'Communion and Stewardship: Human Persons Created in the Image of God, 2004.' Holy See. https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_en.html",
-    "22. [Academic] Stanford Encyclopedia of Philosophy. Moral Responsibility. Conditions for praise and blame. https://plato.stanford.edu/entries/moral-responsibility/",
-    "23. [Wikipedia] Culpability. The legal standard tracking degrees of responsibility. https://en.wikipedia.org/wiki/Culpability",
-    "24. [Commentary] Bible Hub. Romans 2:6 Commentaries. https://biblehub.com/commentaries/romans/2-6.htm",
-    "25. [Academic] Stanford Encyclopedia of Philosophy. Heaven and Hell in Christian Thought (free will theodicies of hell). https://plato.stanford.edu/entries/heaven-hell/",
-    "26. [Wikipedia] Soft determinism. The compatibilist position under its older name. https://en.wikipedia.org/wiki/Soft_determinism",
-    "27. [Apologetics] Greg Boyd, ReKnew. Why Did God Allow Evil? https://reknew.org/2015/02/why-did-god-allow-evil/",
-    "28. [Commentary] Bible Hub. 'Commentaries on 1 John 4:19.' https://biblehub.com/commentaries/1_john/4-19.htm",
-    "29. [Commentary] Bible Hub. What is the purpose of God granting free will? https://biblehub.com/q/why_does_god_grant_free_will.htm",
-    "30. [Wikipedia] Alvin Plantinga's free-will defense. https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense",
-    "31. [Academic] Internet Encyclopedia of Philosophy. The Logical Problem of Evil. Assesses the standing of the Free Will Defense. https://iep.utm.edu/evil-log/",
-    "32. [Academic] 'Evidential Problem of Evil, The.' Internet Encyclopedia of Philosophy. https://www.iep.utm.edu/evil-evi/",
-    "33. [Commentary] Bible Hub. James 1:13 Commentaries. https://biblehub.com/commentaries/james/1-13.htm",
-    "34. [Academic] Stanford Encyclopedia of Philosophy. The Problem of Evil. The standard survey. https://plato.stanford.edu/entries/evil/",
-    "35. [Academic] Internet Encyclopedia of Philosophy. The Evidential Problem of Evil. https://iep.utm.edu/evil-evi/",
-    "36. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Controversies on Grace.' https://www.newadvent.org/cathen/06710a.htm",
-    "37. [Wikipedia] Domingo Banez. The Dominican who opposed Molina on divine causality. https://en.wikipedia.org/wiki/Domingo_B%C3%A1%C3%B1ez",
-    "38. [Wikipedia] Libertarianism (metaphysics). https://en.wikipedia.org/wiki/Libertarianism_(metaphysics)",
-    "39. [Academic] Stanford Encyclopedia of Philosophy. Incompatibilist Theories of Free Will. The positive libertarian accounts. https://plato.stanford.edu/entries/incompatibilism-theories/",
-    "40. [Apologetics] The Gospel Coalition (Themelios). Christological Arguments for Compatibilism in Reformed Theology. Calvin, Turretin and Edwards. https://www.thegospelcoalition.org/themelios/article/christological-arguments-for-compatibilism-in-reformed-theology/",
-    "41. [Apologetics] Ligonier Ministries. The Westminster Confession of Faith (chapters 3 and 5). https://learn.ligonier.org/articles/westminster-confession-faith",
-    "42. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Semipelagianism.' https://www.newadvent.org/cathen/13703a.htm",
-    "43. [Wikipedia] Synod of Dort. The assembly that formalised the Reformed response to Arminianism. https://en.wikipedia.org/wiki/Synod_of_Dort",
-    "44. [Wikipedia] Five Articles of Remonstrance. The Arminian statement of the disputed points. https://en.wikipedia.org/wiki/Five_Articles_of_Remonstrance",
-    "45. [Academic] Freddoso. Molina, Luis de (1535–1600). Routledge Encyclopedia of Philosophy https://doi.org/10.4324/9780415249126-c024-1",
-    "46. [Apologetics] GotQuestions.org. What is Molinism? Introduction to middle knowledge. https://www.gotquestions.org/Molinism.html",
-    "47. [Academic] Stanford Encyclopedia of Philosophy. Foreknowledge and Free Will. The problem of infallible foreknowledge. https://plato.stanford.edu/entries/free-will-foreknowledge/",
-    "48. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Molinism.' https://www.newadvent.org/cathen/10437a.htm",
-    "49. [Academic] Internet Encyclopedia of Philosophy. Middle Knowledge (the grounding objection). https://iep.utm.edu/middlekn/",
-    "50. [Academic] Stanford Encyclopedia of Philosophy. Medieval Theories of Future Contingents. Historical background. https://plato.stanford.edu/entries/medieval-futcont/",
-    "51. [Academic] Internet Encyclopedia of Philosophy. Foreknowledge and Free Will. Academic treatment of the surrounding problems. https://iep.utm.edu/foreknow/",
-    "52. [Wikipedia] Divine providence (concursus dei). https://en.wikipedia.org/wiki/Divine_providence",
-    "53. [Commentary] Bible Hub. Genesis 50:20 Commentaries. https://biblehub.com/commentaries/genesis/50-20.htm",
-    "54. [Lexicon] Bible Hub. Greek 4309, proorizo, the verb rendered predestine. https://biblehub.com/greek/4309.htm",
-    "55. [Commentary] Bible Hub. 'Commentaries on Philippians 2:13.' https://biblehub.com/commentaries/philippians/2-13.htm",
-    "56. [Wikipedia] Attributes of God in Christianity. The classical attributes and their scriptural basis. https://en.wikipedia.org/wiki/Attributes_of_God_in_Christianity",
-    "57. [Academic] Stanford Encyclopedia of Philosophy. Divine Providence. How divine governance relates to creaturely action. https://plato.stanford.edu/entries/providence-divine/",
-    "58. [Wikipedia] Fatalism. The position distinguished from providence, and its practical effect. https://en.wikipedia.org/wiki/Fatalism"
+    "21. [Wikipedia] 'Harry Frankfurt.' https://en.wikipedia.org/wiki/Harry_Frankfurt",
+    "22. [Primary Source] 'Communion and Stewardship: Human Persons Created in the Image of God, 2004.' Holy See. https://www.vatican.va/roman_curia/congregations/cfaith/cti_documents/rc_con_cfaith_doc_20040723_communion-stewardship_en.html",
+    "23. [Wikipedia] 'Image of God.' https://en.wikipedia.org/wiki/Image_of_God",
+    "24. [Academic] Stanford Encyclopedia of Philosophy. Moral Responsibility. Conditions for praise and blame. https://plato.stanford.edu/entries/moral-responsibility/",
+    "25. [Wikipedia] Culpability. The legal standard tracking degrees of responsibility. https://en.wikipedia.org/wiki/Culpability",
+    "26. [Commentary] Bible Hub. Romans 2:6 Commentaries. https://biblehub.com/commentaries/romans/2-6.htm",
+    "27. [Academic] Stanford Encyclopedia of Philosophy. Heaven and Hell in Christian Thought (free will theodicies of hell). https://plato.stanford.edu/entries/heaven-hell/",
+    "28. [Wikipedia] Soft determinism. The compatibilist position under its older name. https://en.wikipedia.org/wiki/Soft_determinism",
+    "29. [Apologetics] Greg Boyd, ReKnew. Why Did God Allow Evil? https://reknew.org/2015/02/why-did-god-allow-evil/",
+    "30. [Academic] Stanford Encyclopedia of Philosophy. Divine Providence. How divine governance relates to creaturely action. https://plato.stanford.edu/entries/providence-divine/",
+    "31. [Commentary] Bible Hub. 'Commentaries on 1 John 4:19.' https://biblehub.com/commentaries/1_john/4-19.htm",
+    "32. [Commentary] Bible Hub. What is the purpose of God granting free will? https://biblehub.com/q/why_does_god_grant_free_will.htm",
+    "33. [Wikipedia] Alvin Plantinga's free-will defense. https://en.wikipedia.org/wiki/Alvin_Plantinga%27s_free-will_defense",
+    "34. [Academic] Internet Encyclopedia of Philosophy. The Logical Problem of Evil. Assesses the standing of the Free Will Defense. https://iep.utm.edu/evil-log/",
+    "35. [Academic] 'Evidential Problem of Evil, The.' Internet Encyclopedia of Philosophy. https://www.iep.utm.edu/evil-evi/",
+    "36. [Wikipedia] 'Theodicy.' https://en.wikipedia.org/wiki/Theodicy",
+    "37. [Commentary] Bible Hub. James 1:13 Commentaries. https://biblehub.com/commentaries/james/1-13.htm",
+    "38. [Academic] Stanford Encyclopedia of Philosophy. The Problem of Evil. The standard survey. https://plato.stanford.edu/entries/evil/",
+    "39. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Controversies on Grace.' https://www.newadvent.org/cathen/06710a.htm",
+    "40. [Wikipedia] Domingo Banez. The Dominican who opposed Molina on divine causality. https://en.wikipedia.org/wiki/Domingo_B%C3%A1%C3%B1ez",
+    "41. [Wikipedia] Libertarianism (metaphysics). https://en.wikipedia.org/wiki/Libertarianism_(metaphysics)",
+    "42. [Academic] Stanford Encyclopedia of Philosophy. Incompatibilist Theories of Free Will. The positive libertarian accounts. https://plato.stanford.edu/entries/incompatibilism-theories/",
+    "43. [Apologetics] The Gospel Coalition (Themelios). Christological Arguments for Compatibilism in Reformed Theology. Calvin, Turretin and Edwards. https://www.thegospelcoalition.org/themelios/article/christological-arguments-for-compatibilism-in-reformed-theology/",
+    "44. [Apologetics] Ligonier Ministries. The Westminster Confession of Faith (chapters 3 and 5). https://learn.ligonier.org/articles/westminster-confession-faith",
+    "45. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Semipelagianism.' https://www.newadvent.org/cathen/13703a.htm",
+    "46. [Wikipedia] Synod of Dort. The assembly that formalised the Reformed response to Arminianism. https://en.wikipedia.org/wiki/Synod_of_Dort",
+    "47. [Wikipedia] 'Semi-Pelagianism.' https://en.wikipedia.org/wiki/Semi-Pelagianism",
+    "48. [Wikipedia] Five Articles of Remonstrance. The Arminian statement of the disputed points. https://en.wikipedia.org/wiki/Five_Articles_of_Remonstrance",
+    "49. [Academic] Freddoso. Molina, Luis de (1535–1600). Routledge Encyclopedia of Philosophy https://doi.org/10.4324/9780415249126-c024-1",
+    "50. [Wikipedia] 'Luis de Molina.' https://en.wikipedia.org/wiki/Luis_de_Molina",
+    "51. [Apologetics] GotQuestions.org. What is Molinism? Introduction to middle knowledge. https://www.gotquestions.org/Molinism.html",
+    "52. [Academic] Internet Encyclopedia of Philosophy. Middle Knowledge (the grounding objection). https://iep.utm.edu/middlekn/",
+    "53. [Academic] Stanford Encyclopedia of Philosophy. Foreknowledge and Free Will. The problem of infallible foreknowledge. https://plato.stanford.edu/entries/free-will-foreknowledge/",
+    "54. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Molinism.' https://www.newadvent.org/cathen/10437a.htm",
+    "55. [Academic] Stanford Encyclopedia of Philosophy. Medieval Theories of Future Contingents. Historical background. https://plato.stanford.edu/entries/medieval-futcont/",
+    "56. [Academic] Internet Encyclopedia of Philosophy. Foreknowledge and Free Will. Academic treatment of the surrounding problems. https://iep.utm.edu/foreknow/",
+    "57. [Wikipedia] Divine providence (concursus dei). https://en.wikipedia.org/wiki/Divine_providence",
+    "58. [Commentary] Bible Hub. Genesis 50:20 Commentaries. https://biblehub.com/commentaries/genesis/50-20.htm",
+    "59. [Lexicon] Bible Hub. Greek 4309, proorizo, the verb rendered predestine. https://biblehub.com/greek/4309.htm",
+    "60. [Commentary] Bible Hub. 'Commentaries on Philippians 2:13.' https://biblehub.com/commentaries/philippians/2-13.htm",
+    "61. [Wikipedia] Attributes of God in Christianity. The classical attributes and their scriptural basis. https://en.wikipedia.org/wiki/Attributes_of_God_in_Christianity",
+    "62. [Wikipedia] Fatalism. The position distinguished from providence, and its practical effect. https://en.wikipedia.org/wiki/Fatalism"
   ],
   lastUpdated: "30-10-2026"
 }

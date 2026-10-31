@@ -18,7 +18,7 @@ export const LAZARUS: Topic = {
   content: `
 The account of Lazarus in [John 11](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=NIV) is the longest continuous miracle narrative in the Gospels and the last of the signs John records before the passion[^1]. Rather than presenting an aloof deity or a mere wonder-worker, the chapter shows the intersection of absolute divine power with authentic, weeping humanity[^2].
 
-John states that Jesus loved this family, and then that He remained where He was for two further days while Lazarus died[^3]. The narrative does not soften that sequence, and the decisions Jesus makes throughout, specifically the deliberate delay and the profound grief, carry the theological weight of the chapter[^4].
+John states that Jesus loved this family, and then that He remained where He was for two further days while Lazarus died[^3][^4]. The narrative does not soften that sequence, and the decisions Jesus makes throughout, specifically the deliberate delay and the profound grief, carry the theological weight of the chapter[^5].
 
 <?viz lazarus/map?>
 
@@ -29,7 +29,7 @@ John states that Jesus loved this family, and then that He remained where He was
       title: "The Purposeful Two-Day Delay",
       tags: ["The delay"],
       content: `
-When Jesus first received word that Lazarus was terminally ill, He declared that the illness was for the glory of God, then deliberately stayed where He was for two additional days, allowing Lazarus to die before setting out for Bethany[^5][^6].
+When Jesus first received word that Lazarus was terminally ill, He declared that the illness was for the glory of God, then deliberately stayed where He was for two additional days, allowing Lazarus to die before setting out for Bethany[^6][^4].
 
 The delay was not apathy but a specific theological and pedagogical purpose.
 
@@ -68,13 +68,13 @@ Paul calls death the last enemy to be destroyed, which fits the reading of indig
       title: "The Cost of Lazarus's Life",
       tags: ["The cost"],
       content: `
-The chapter does not close with the miracle. It closes with a council meeting[^20].
+The chapter does not close with the miracle. It closes with a council meeting[^20][^5].
 
 *   **Immediate consequence.** The raising divided the crowd, some reported it to the Pharisees, and the Sanhedrin then convened and resolved to put Jesus to death, with Caiaphas arguing that one man should die for the people[^21][^22].
 *   **The structure is deliberate.** In John's Gospel the raising of Lazarus is the direct trigger for the passion, whereas the Synoptics place the temple cleansing in that role[^23].
 *   **A further detail.** The chief priests subsequently plotted to kill Lazarus as well, since his continued existence was itself evidence[^24].
 
-To call Lazarus out of the tomb, Jesus set in motion the events that placed Him inside one[^25].
+To call Lazarus out of the tomb, Jesus set in motion the events that placed Him inside one[^25][^5].
 `
     },
     {
@@ -98,9 +98,9 @@ Similar raisings appear elsewhere in the Gospels, including the widow's son at N
     "1. [Wikipedia] Raising of Lazarus. The narrative and its place in the structure of John. https://en.wikipedia.org/wiki/Raising_of_Lazarus",
     "2. [Christian Source] New Advent. John chapter 11 with traditional commentary. https://www.newadvent.org/bible/joh011.htm",
     "3. [Commentary] Bible Hub. 'Commentaries on John 11:5.' https://biblehub.com/commentaries/john/11-5.htm",
-    "4. [Commentary] Enduring Word. Commentary on John 11. Verse-by-verse treatment of the chapter. https://enduringword.com/bible-commentary/john-11/",
-    "5. [Commentary] Bible Hub. 'Commentaries on John 11:1.' https://biblehub.com/commentaries/john/11-1.htm",
-    "6. [Commentary] Bible Hub. 'Commentaries on John 11:6.' https://biblehub.com/commentaries/john/11-6.htm",
+    "4. [Commentary] Bible Hub. 'Commentaries on John 11:6.' https://biblehub.com/commentaries/john/11-6.htm",
+    "5. [Commentary] Enduring Word. Commentary on John 11. Verse-by-verse treatment of the chapter. https://enduringword.com/bible-commentary/john-11/",
+    "6. [Commentary] Bible Hub. 'Commentaries on John 11:1.' https://biblehub.com/commentaries/john/11-1.htm",
     "7. [Commentary] Bible Hub. 'Commentaries on John 11:17.' https://biblehub.com/commentaries/john/11-17.htm",
     "8. [Primary Source] Sefaria. Leviticus Rabbah 18:1, the rabbinic tradition that the soul lingers three days, compiled centuries after the first century. https://www.sefaria.org/Leviticus_Rabbah.18.1",
     "9. [Encyclopedia] Jewish Encyclopedia. Resurrection. Jewish beliefs about death and resurrection and their dating. https://www.jewishencyclopedia.com/articles/12376-resurrection",

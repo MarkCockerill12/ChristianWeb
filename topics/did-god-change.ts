@@ -94,7 +94,7 @@ Three responses are offered, in ascending order of exegetical weight.
 *   **Anthropopathism.** Scripture routinely ascribes human emotions and reactions to God in order to convey the moral significance of human conduct in terms creatures can grasp, in the same way it ascribes hands, eyes, and a face. The Hebrew verb *nacham* (נָחַם, relent, grieve) covers a range including grief, comfort, and relenting[^27][^28].
 *   **Immutability properly defined.** The doctrine claims that God is unchanging in nature, character, and purpose, not that He is static or unresponsive. A fixed disposition to show mercy to the repentant necessarily produces different treatment of the same person before and after repentance[^29][^30].
 
-The anthropopathism answer can be applied so broadly that it drains the texts of content, and open theists argue that classical immutability owes more to Greek philosophy than to Hebrew scripture. That debate remains live within orthodox Christianity, and the conditional-announcement reading carries the most exegetical weight without requiring a heavy philosophical apparatus[^31].
+The anthropopathism answer can be applied so broadly that it drains the texts of content, and open theists argue that classical immutability owes more to Greek philosophy than to Hebrew scripture. That debate remains live within orthodox Christianity, and the conditional-announcement reading carries the most exegetical weight without requiring a heavy philosophical apparatus[^31][^32].
 `
     },
     {
@@ -102,20 +102,20 @@ The anthropopathism answer can be applied so broadly that it drains the texts of
       title: "Progressive Revelation and Covenant",
       tags: ["Covenant"],
       content: `
-The standard Christian explanation is that revelation unfolded in stages while its author did not change[^32].
+The standard Christian explanation is that revelation unfolded in stages while its author did not change[^33].
 
-*   **The claim.** God disclosed His character and purposes progressively, accommodating each stage to its recipients and culminating in Christ. Hebrews opens by making exactly this argument, stating that God spoke at many times and in various ways through the prophets, and in these last days through His Son[^33].
-*   **What it does not mean.** It is not the claim that earlier revelation was mistaken and later corrected, which would concede the objection. Earlier revelation was partial and preparatory[^34].
-*   **Ceremonial law fulfilled.** The food laws, purity regulations, and sacrificial system marked Israel as distinct and pointed forward to a decisive sacrifice. Mark 7:19 and Peter's vision in Acts 10 present these as fulfilled rather than abolished arbitrarily[^35][^36].
-*   **The mechanism stated explicitly.** Hebrews declares that by calling the covenant new, God made the first one obsolete. The change is legislated by the same authority that gave the earlier covenant, which is the opposite of that authority changing its mind[^37].
+*   **The claim.** God disclosed His character and purposes progressively, accommodating each stage to its recipients and culminating in Christ. Hebrews opens by making exactly this argument, stating that God spoke at many times and in various ways through the prophets, and in these last days through His Son[^34].
+*   **What it does not mean.** It is not the claim that earlier revelation was mistaken and later corrected, which would concede the objection. Earlier revelation was partial and preparatory[^35].
+*   **Ceremonial law fulfilled.** The food laws, purity regulations, and sacrificial system marked Israel as distinct and pointed forward to a decisive sacrifice. Mark 7:19 and Peter's vision in Acts 10 present these as fulfilled rather than abolished arbitrarily[^36][^37].
+*   **The mechanism stated explicitly.** Hebrews declares that by calling the covenant new, God made the first one obsolete. The change is legislated by the same authority that gave the earlier covenant, which is the opposite of that authority changing its mind[^38].
 
 <?viz did-god-change/covenants?>
 
-*   **Moral law continues and intensifies.** The commands against murder, theft, adultery, and idolatry are reaffirmed, and Jesus extends prohibitions from actions to the intentions behind them[^38].
+*   **Moral law continues and intensifies.** The commands against murder, theft, adultery, and idolatry are reaffirmed, and Jesus extends prohibitions from actions to the intentions behind them[^39].
 
-If God had genuinely changed, the moral standards would be expected to relax. They do not; they tighten. What relaxes is the ceremonial apparatus whose stated purpose was to point toward Christ[^39].
+If God had genuinely changed, the moral standards would be expected to relax. They do not; they tighten. What relaxes is the ceremonial apparatus whose stated purpose was to point toward Christ[^40].
 
-How completely the new covenant replaces the old, and what that means for Israel's ongoing status, remains contested among Christians, so covenant change describes a family of positions rather than a single one[^40].
+How completely the new covenant replaces the old, and what that means for Israel's ongoing status, remains contested among Christians, so covenant change describes a family of positions rather than a single one[^41].
 `
     },
     {
@@ -125,7 +125,7 @@ How completely the new covenant replaces the old, and what that means for Israel
       content: `
 **The objection.** The Law of Moses orders the stoning of rebellious sons (Deuteronomy 21:18-21) and Sabbath-breakers (Numbers 15:32-36), and forbids shellfish and mixed fabrics (Leviticus 11:10; 19:19). Christians ignore these, and critics say that they pick and choose.
 
-**Which laws apply.** Christian theology has long distinguished moral, civil and ceremonial law[^41]. Food and purity laws marked Israel out, and the New Testament explicitly ends them: Jesus "declared all foods clean" (Mark 7:19), and Peter's vision and the Jerusalem council settled the matter for Gentiles (Acts 10; 15). Civil penalties belonged to Israel's own national covenant, and no New Testament church was given them to enforce. The moral law is repeated in the New Testament. This is a principle given by the texts themselves, which is why the Christian position on shellfish does not settle anything about the moral commands.
+**Which laws apply.** Christian theology has long distinguished moral, civil and ceremonial law[^42]. Food and purity laws marked Israel out, and the New Testament explicitly ends them: Jesus "declared all foods clean" (Mark 7:19), and Peter's vision and the Jerusalem council settled the matter for Gentiles (Acts 10; 15). Civil penalties belonged to Israel's own national covenant, and no New Testament church was given them to enforce. The moral law is repeated in the New Testament. This is a principle given by the texts themselves, which is why the Christian position on shellfish does not settle anything about the moral commands.
 
 **The penalties themselves.** These are harder, and the distinction does not make them comfortable. Some interpreters note that the rebellious son of Deuteronomy 21 is a violent drunkard, brought before the elders by both parents, which limited a father's power of life and death, and that later Jewish law made the penalty almost impossible to carry out. Jesus, faced with a woman liable to stoning, says, "Let any one of you who is without sin be the first to throw a stone" (John 8:7), though that passage is absent from the earliest manuscripts. These laws still leave real difficulties for Christians, and the [is God evil topic](/categories/god-evil) addresses the hardest of them.
 
@@ -137,11 +137,11 @@ How completely the new covenant replaces the old, and what that means for Israel
       title: "Assessment",
       tags: ["Covenant"],
       content: `
-The objection depends on a selective reading of both testaments. The Old Testament's own creedal self-description is of a God slow to anger and abounding in love, while the New Testament contains Scripture's most severe judgment material. Removing the selectivity causes the two portraits to converge sharply[^42].
+The objection depends on a selective reading of both testaments. The Old Testament's own creedal self-description is of a God slow to anger and abounding in love, while the New Testament contains Scripture's most severe judgment material. Removing the selectivity causes the two portraits to converge sharply[^43].
 
-The texts in which God relents are genuine data, and the classical doctrine of immutability requires careful statement to accommodate them[^43].
+The texts in which God relents are genuine data, and the classical doctrine of immutability requires careful statement to accommodate them[^44].
 
-What changed was the covenant, the ceremonial apparatus, and the stage of revelation, administered by the same God toward the same ends. On the historic Christian account the incarnation is not a change in God's character but its clearest expression, displaying the same holiness and the same mercy now visible in a person[^44].
+What changed was the covenant, the ceremonial apparatus, and the stage of revelation, administered by the same God toward the same ends. On the historic Christian account the incarnation is not a change in God's character but its clearest expression, displaying the same holiness and the same mercy now visible in a person[^45].
 `
     }
   ],
@@ -177,19 +177,20 @@ What changed was the covenant, the ceremonial apparatus, and the stage of revela
     "29. [Encyclopedia] New Advent, Catholic Encyclopedia. Immutability of God. Classical formulation of the doctrine. https://www.newadvent.org/cathen/09645c.htm",
     "30. [Apologetics] The Gospel Coalition. The Immutability of God. Theological essay on God's unchanging character across Scripture. https://www.thegospelcoalition.org/essay/the-immutability-of-god/",
     "31. [Academic] 'Open Theism.' Internet Encyclopedia of Philosophy. https://www.iep.utm.edu/o-theism/",
-    "32. [Wikipedia] Progressive revelation (Christianity). https://en.wikipedia.org/wiki/Progressive_revelation_(Christianity)",
-    "33. [Commentary] Bible Hub. Hebrews 1:1 Commentaries. https://biblehub.com/commentaries/hebrews/1-1.htm",
-    "34. [Apologetics] GotQuestions.org. What is progressive revelation as it relates to salvation? https://www.gotquestions.org/progressive-revelation.html",
-    "35. [Commentary] Bible Hub. 'Commentaries on Acts 10:9.' https://biblehub.com/commentaries/acts/10-9.htm",
-    "36. [Wikipedia] Ceremonial law. The category of law understood as fulfilled in Christ. https://en.wikipedia.org/wiki/Ceremonial_law",
-    "37. [Wikipedia] New Covenant. The promised covenant and its Christian interpretation. https://en.wikipedia.org/wiki/New_Covenant",
-    "38. [Commentary] Bible Hub. Matthew 5:28 Commentaries. https://biblehub.com/commentaries/matthew/5-28.htm",
-    "39. [Wikipedia] Biblical law in Christianity. How Christians have distinguished moral, civil and ceremonial law. https://en.wikipedia.org/wiki/Biblical_law_in_Christianity",
-    "40. [Wikipedia] Supersessionism. The disputed question of how far the new covenant replaces the old. https://en.wikipedia.org/wiki/Supersessionism",
-    "41. [Wikipedia] 'Christian views on the old covenant.' https://en.wikipedia.org/wiki/Christian_views_on_the_old_covenant",
-    "42. [Apologetics] Billy Graham Evangelistic Association. Is it true that the God of the Old Testament is different from the God of the New Testament? https://billygraham.org.uk/answer/is-it-true-that-the-god-of-the-old-testament-is-different-from-the-god-of-the-new-testament/",
-    "43. [Academic] Bob Jones University Seminary. Greater Is He Than Man Can Know: Divine Repentance. Journal article on the relenting texts. https://seminary.bju.edu/files/2022/03/JBTW2.2_Article05_GreaterIsHeThanManCanKnow.pdf",
-    "44. [Commentary] Bible Hub. 'Commentaries on Hebrews 13:8.' https://biblehub.com/commentaries/hebrews/13-8.htm"
+    "32. [Wikipedia] 'Open theism.' https://en.wikipedia.org/wiki/Open_theism",
+    "33. [Wikipedia] Progressive revelation (Christianity). https://en.wikipedia.org/wiki/Progressive_revelation_(Christianity)",
+    "34. [Commentary] Bible Hub. Hebrews 1:1 Commentaries. https://biblehub.com/commentaries/hebrews/1-1.htm",
+    "35. [Apologetics] GotQuestions.org. What is progressive revelation as it relates to salvation? https://www.gotquestions.org/progressive-revelation.html",
+    "36. [Commentary] Bible Hub. 'Commentaries on Acts 10:9.' https://biblehub.com/commentaries/acts/10-9.htm",
+    "37. [Wikipedia] Ceremonial law. The category of law understood as fulfilled in Christ. https://en.wikipedia.org/wiki/Ceremonial_law",
+    "38. [Wikipedia] New Covenant. The promised covenant and its Christian interpretation. https://en.wikipedia.org/wiki/New_Covenant",
+    "39. [Commentary] Bible Hub. Matthew 5:28 Commentaries. https://biblehub.com/commentaries/matthew/5-28.htm",
+    "40. [Wikipedia] Biblical law in Christianity. How Christians have distinguished moral, civil and ceremonial law. https://en.wikipedia.org/wiki/Biblical_law_in_Christianity",
+    "41. [Wikipedia] Supersessionism. The disputed question of how far the new covenant replaces the old. https://en.wikipedia.org/wiki/Supersessionism",
+    "42. [Wikipedia] 'Christian views on the old covenant.' https://en.wikipedia.org/wiki/Christian_views_on_the_old_covenant",
+    "43. [Apologetics] Billy Graham Evangelistic Association. Is it true that the God of the Old Testament is different from the God of the New Testament? https://billygraham.org.uk/answer/is-it-true-that-the-god-of-the-old-testament-is-different-from-the-god-of-the-new-testament/",
+    "44. [Academic] Bob Jones University Seminary. Greater Is He Than Man Can Know: Divine Repentance. Journal article on the relenting texts. https://seminary.bju.edu/files/2022/03/JBTW2.2_Article05_GreaterIsHeThanManCanKnow.pdf",
+    "45. [Commentary] Bible Hub. 'Commentaries on Hebrews 13:8.' https://biblehub.com/commentaries/hebrews/13-8.htm"
   ],
   lastUpdated: "30-10-2026"
 }

@@ -218,18 +218,18 @@ export const canon: Topic = {
   ],
   tldr: `The church did not vote the Bible into existence. It recognised the books that were apostolic in origin, consistent with apostolic teaching and accepted across the churches, and most of the New Testament was never seriously disputed. Catholics, Orthodox and Protestants agree on the 27 books of the New Testament and differ over the Old Testament, where Protestants follow the Hebrew canon and Catholics and Orthodox include further books. The Gnostic gospels and other rejected works came later and fail the same tests.`,
   content: `
-The word "canon" comes from the Greek word "kanon," meaning "rule" or "measuring rod"[^1]. The biblical canon represents the authoritative collection of books that comprise Scripture[^2].
+The word "canon" comes from the Greek word "kanon," meaning "rule" or "measuring rod"[^1][^2]. The biblical canon represents the authoritative collection of books that comprise Scripture[^3][^4].
 
 ### Criteria for Canonicity
-Early church leaders used several key criteria to determine which books were truly inspired Scripture[^3]:
+Early church leaders used several key criteria to determine which books were truly inspired Scripture[^4]:
 
-• **Apostolicity:** Written by apostles or their close associates[^4]
+• **Apostolicity:** Written by apostles or their close associates[^5][^4]
 
-• **Orthodoxy:** Consistent with established apostolic teaching[^5]
+• **Orthodoxy:** Consistent with established apostolic teaching[^6][^7]
 
-• **Catholicity:** Accepted by churches universally (not just in one region)[^6]
+• **Catholicity:** Accepted by churches universally (not just in one region)[^7]
 
-• **Antiquity:** Written during the apostolic era (1st century AD)[^7]
+• **Antiquity:** Written during the apostolic era (1st century AD)[^2][^7]
 
 <?viz canon/counts?>
 
@@ -243,21 +243,21 @@ Early church leaders used several key criteria to determine which books were tru
       title: "Did Constantine or the Council of Nicaea Choose the Bible?",
       tags: ["Objections", "History"],
       content: `
-**The claim.** The Emperor Constantine, or the Council of Nicaea in 325, chose which books went into the Bible and suppressed the rest. Dan Brown's novel *The Da Vinci Code* carried a version of this to millions of readers, with Constantine suppressing Gnosticism for political reasons[^8]. The idea that the canon was settled at Nicaea seems to come mainly from Voltaire, who popularised a story that the books were placed on an altar and those that did not fall off were kept[^9].
+**The claim.** The Emperor Constantine, or the Council of Nicaea in 325, chose which books went into the Bible and suppressed the rest. Dan Brown's novel *The Da Vinci Code* carried a version of this to millions of readers, with Constantine suppressing Gnosticism for political reasons[^8][^9]. The idea that the canon was settled at Nicaea seems to come mainly from Voltaire, who popularised a story that the books were placed on an altar and those that did not fall off were kept[^10].
 
-**What the council actually did.** There is no record of any discussion of the biblical canon at Nicaea. The council's letter and its surviving canons deal with Arius's teaching, the date of Easter and church discipline, and they contain no list of books[^10].
+**What the council actually did.** There is no record of any discussion of the biblical canon at Nicaea. The council's letter and its surviving canons deal with Arius's teaching, the date of Easter and church discipline, and they contain no list of books[^11].
 
 **The core books were recognised long before.**
 
-* **Irenaeus**, around 180, argues that there are exactly four Gospels, calling them the "four pillars" of the church[^11].
-* **The Muratorian Fragment**, usually dated to the late second century though some scholars place it later, lists most of the New Testament, and rejects the Shepherd of Hermas as written "very recently, in our times"[^12].
-* **Eusebius**, writing about the time of the council, already sorts the books into those accepted, those disputed and those rejected. The four Gospels, Acts and Paul's letters are among the accepted, while James, Jude, 2 Peter and others are recorded as disputed[^13].
+* **Irenaeus**, around 180, argues that there are exactly four Gospels, calling them the "four pillars" of the church[^12].
+* **The Muratorian Fragment**, usually dated to the late second century though some scholars place it later, lists most of the New Testament, and rejects the Shepherd of Hermas as written "very recently, in our times"[^13].
+* **Eusebius**, writing about the time of the council, already sorts the books into those accepted, those disputed and those rejected. The four Gospels, Acts and Paul's letters are among the accepted, while James, Jude, 2 Peter and others are recorded as disputed[^14][^2].
 
-**After Nicaea.** The first known list of exactly the 27 books of the New Testament comes from Athanasius in his Easter letter of 367, more than forty years after the council: "These are fountains of salvation"[^14]. Regional councils at Hippo and Carthage followed in 393 and 397, as set out under the deuterocanonical books.
+**After Nicaea.** The first known list of exactly the 27 books of the New Testament comes from Athanasius in his Easter letter of 367, more than forty years after the council: "These are fountains of salvation"[^15][^16]. Regional councils at Hippo and Carthage followed in 393 and 397, as set out under the deuterocanonical books.
 
-**Constantine's actual part.** Eusebius preserves a letter in which Constantine orders "fifty copies of the sacred Scriptures" for the churches of his new capital[^15]. Ordering copies is not choosing the contents. Nothing in the sources has him deciding which books belonged.
+**Constantine's actual part.** Eusebius preserves a letter in which Constantine orders "fifty copies of the sacred Scriptures" for the churches of his new capital[^17]. Ordering copies is not choosing the contents. Nothing in the sources has him deciding which books belonged.
 
-**What is fair in the objection.** The canon did take time to settle, and some books were genuinely disputed for centuries. It was a historical process that involved human judgment, and Christians should say so. The rejected Gospels were set aside on grounds of date and teaching, as set out under the Gnostic Gospels. Bart Ehrman, an agnostic critic of Christianity, wrote *Truth and Fiction in The Da Vinci Code* to correct claims of this kind[^16].
+**What is fair in the objection.** The canon did take time to settle, and some books were genuinely disputed for centuries. It was a historical process that involved human judgment, and Christians should say so. The rejected Gospels were set aside on grounds of date and teaching, as set out under the Gnostic Gospels. Bart Ehrman, an agnostic critic of Christianity, wrote *Truth and Fiction in The Da Vinci Code* to correct claims of this kind[^18].
 `,
     },
     {
@@ -269,7 +269,7 @@ Early church leaders used several key criteria to determine which books were tru
 
 **Christians agree that men wrote it.** The Bible says so itself. Luke explains that he "carefully investigated everything from the beginning" before writing (Luke 1:3). Paul writes in his own large handwriting (Galatians 6:11), loses his temper and forgets whom he baptised (1 Corinthians 1:16). The styles of Isaiah, Amos, Mark and John are visibly different. Most Christians do not believe that God dictated the text, and this is a real difference from how the Quran is understood.
 
-**The doctrine is that both are true.** "Prophets, though human, spoke from God as they were carried along by the Holy Spirit" (2 Peter 1:21). "All Scripture is God-breathed" (2 Timothy 3:16), where the Greek is θεόπνευστος (*theopneustos*, "breathed out by God")[^17]. The Second Vatican Council states the Catholic form of it: "God chose men and while employed by Him they made use of their powers and abilities", so that "they, as true authors, consigned to writing everything and only those things which He wanted"[^18]. If God exists and made human minds, there is no obvious reason why he could not communicate through them.
+**The doctrine is that both are true.** "Prophets, though human, spoke from God as they were carried along by the Holy Spirit" (2 Peter 1:21). "All Scripture is God-breathed" (2 Timothy 3:16), where the Greek is θεόπνευστος (*theopneustos*, "breathed out by God")[^19][^20]. The Second Vatican Council states the Catholic form of it: "God chose men and while employed by Him they made use of their powers and abilities", so that "they, as true authors, consigned to writing everything and only those things which He wanted"[^21]. If God exists and made human minds, there is no obvious reason why he could not communicate through them.
 
 **"Written by men" does not mean unreliable.** Every history book, scientific paper and court record was also written by people. Saying who wrote something does not show whether it is true, which is the error set out in [Is Belief in God Reasonable?](/categories/is-belief-reasonable#section-born-into-it). The fair questions are whether these men were in a position to know, and whether what they wrote holds up. The [archaeology](/categories/archaeological), [manuscripts](/categories/bible-translations#section-manuscripts) and [supposed contradictions](/categories/contradictions) are where that can be tested.
 
@@ -280,59 +280,59 @@ Early church leaders used several key criteria to determine which books were tru
       id: "deuterocanonical-books",
       title: "Deuterocanonical Books",
       tags: ["Catholic", "Apocrypha"],
-      content: `**Overview:** The Catholic Bible includes additional texts, often referred to as the Deuterocanonical books, bringing the total to 73[^19]. These books include Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch, and 1 and 2 Maccabees, among others. Understanding their history reveals why Protestant scholars maintain these texts should not be considered Scripture.
+      content: `**Overview:** The Catholic Bible includes additional texts, often referred to as the Deuterocanonical books, bringing the total to 73[^22]. These books include Tobit, Judith, Wisdom of Solomon, Sirach (Ecclesiasticus), Baruch, and 1 and 2 Maccabees, among others. Understanding their history reveals why Protestant scholars maintain these texts should not be considered Scripture.
 
       **Historical Development of the Deuterocanonical Debate**
 
 
-      **Jewish Canon Foundation:** Jewish tradition regarded prophecy as having ceased after Malachi, and by the late 1st century AD the Hebrew Bible (Tanakh) was recognised as 24 books (equivalent to the Protestant 39 Old Testament books), although scholars debate how early the third division, the Writings, was closed[^20][^21][^22]. Jewish authorities never accepted the deuterocanonical books as Scripture, viewing them as valuable historical and devotional literature but not divinely inspired[^23].
+      **Jewish Canon Foundation:** Jewish tradition regarded prophecy as having ceased after Malachi, and by the late 1st century AD the Hebrew Bible (Tanakh) was recognised as 24 books (equivalent to the Protestant 39 Old Testament books), although scholars debate how early the third division, the Writings, was closed[^23][^24][^25][^26][^27]. Jewish authorities never accepted the deuterocanonical books as Scripture, viewing them as valuable historical and devotional literature but not divinely inspired[^28].
 
-      **Septuagint Inclusion (3rd-1st century BC):** When the Hebrew Bible was translated into Greek (the Septuagint), some manuscripts included these additional books. The surviving complete Greek Bibles are Christian codices of the 4th and 5th centuries, such as Vaticanus, Sinaiticus and Alexandrinus, and each includes a somewhat different selection of these books[^24]. Importantly, inclusion in a translation does not establish canonicity, as the translators were preserving culturally significant texts, not declaring them Scripture[^25].
+      **Septuagint Inclusion (3rd-1st century BC):** When the Hebrew Bible was translated into Greek (the Septuagint), some manuscripts included these additional books. The surviving complete Greek Bibles are Christian codices of the 4th and 5th centuries, such as Vaticanus, Sinaiticus and Alexandrinus, and each includes a somewhat different selection of these books[^29]. Importantly, inclusion in a translation does not establish canonicity, as the translators were preserving culturally significant texts, not declaring them Scripture[^30].
 
-      **Early Church Period (1st-4th centuries):** Church fathers had mixed opinions about these books. Jerome (347-420 AD), the translator of the Latin Vulgate, explicitly distinguished between canonical books (the Hebrew canon) and those "read for edification" (the Apocrypha) but not for establishing doctrine. Augustine, by contrast, accepted them, and the councils of Hippo (393) and Carthage (397) included them in their lists[^26][^27].
+      **Early Church Period (1st-4th centuries):** Church fathers had mixed opinions about these books. Jerome (347-420 AD), the translator of the Latin Vulgate, explicitly distinguished between canonical books (the Hebrew canon) and those "read for edification" (the Apocrypha) but not for establishing doctrine. Augustine, by contrast, accepted them, and the councils of Hippo (393) and Carthage (397) included them in their lists[^31][^32].
 
-      **Council of Trent's Decision (1546 AD):** The Council of Florence had already listed these books in 1442, and the Council of Trent defined them as canonical dogma in response to Protestant challenges. Protestants argue that this settled a question the early church had left open; Catholics and Orthodox reply that the books were read as Scripture by the church from the beginning, since the Greek Old Testament used by the apostles' churches contained them[^28][^29][^30].
+      **Council of Trent's Decision (1546 AD):** The Council of Florence had already listed these books in 1442, and the Council of Trent defined them as canonical dogma in response to Protestant challenges. Protestants argue that this settled a question the early church had left open; Catholics and Orthodox reply that the books were read as Scripture by the church from the beginning, since the Greek Old Testament used by the apostles' churches contained them[^33][^34][^35][^36].
 
       **Specific Problems with Individual Deuterocanonical Books**
 
 
       **Tobit (circa 200 BC):**
 
-      • **Magical practices:** Tobit 6:5-8 has the angel Raphael prescribe burning fish liver and heart to drive away demons, and using fish gall to cure blindness, which Protestant critics regard as closer to folk magic than to biblical religion; Catholic commentators read the remedies as means God chose to use through the angel[^31]
+      • **Magical practices:** Tobit 6:5-8 has the angel Raphael prescribe burning fish liver and heart to drive away demons, and using fish gall to cure blindness, which Protestant critics regard as closer to folk magic than to biblical religion; Catholic commentators read the remedies as means God chose to use through the angel[^37]
 
-    • **Salvation by works:** Tobit 12:9 states "almsgiving delivers from death and purges away every sin," which Protestants read as contradicting salvation by grace through faith ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV)). Catholic interpreters compare it with Daniel 4:27 and Proverbs 16:6, and read almsgiving as the fruit of grace rather than a rival to it[^32]
+    • **Salvation by works:** Tobit 12:9 states "almsgiving delivers from death and purges away every sin," which Protestants read as contradicting salvation by grace through faith ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV)). Catholic interpreters compare it with Daniel 4:27 and Proverbs 16:6, and read almsgiving as the fruit of grace rather than a rival to it[^38]
 
       **Judith (circa 150 BC):**
 
-      • **Historical errors:** Claims Nebuchadnezzar ruled the Assyrians from Nineveh, when historically he was king of Babylon[^33]. The book is widely seen as a historical novel, not factual history[^34].
+      • **Historical errors:** Claims Nebuchadnezzar ruled the Assyrians from Nineveh, when historically he was king of Babylon[^39]. The book is widely seen as a historical novel, not factual history[^40].
 
       **Wisdom of Solomon (circa 50 BC):**
 
-      • **Greek philosophical influence:** Contains heavy influence from Platonic philosophy, and Wisdom 8:19-20 is often read as teaching the pre-existence of souls, which would contradict biblical anthropology, although some interpreters dispute that reading[^35]
+      • **Greek philosophical influence:** Contains heavy influence from Platonic philosophy, and Wisdom 8:19-20 is often read as teaching the pre-existence of souls, which would contradict biblical anthropology, although some interpreters dispute that reading[^41]
 
-      • **False attribution:** Claims Solomon as author but was written centuries after his death, making it pseudepigraphical[^36]
+      • **False attribution:** Claims Solomon as author but was written centuries after his death, making it pseudepigraphical[^42]
 
       **2 Maccabees (circa 124 BC):**
 
-    • **Prayers for the dead:** 2 Maccabees 12:44-46 supports praying and making offerings for the dead, contradicting the biblical teaching that judgment is final after death ([Hebrews 9:27](https://www.biblegateway.com/passage/?search=Hebrews+9%3A27&version=NIV))[^37]. This text is a primary basis for the Catholic doctrine of Purgatory[^38].
+    • **Prayers for the dead:** 2 Maccabees 12:44-46 supports praying and making offerings for the dead, contradicting the biblical teaching that judgment is final after death ([Hebrews 9:27](https://www.biblegateway.com/passage/?search=Hebrews+9%3A27&version=NIV))[^43]. This text is a primary basis for the Catholic doctrine of Purgatory[^44][^32].
 
       **Why Jesus and the Apostles Never Endorsed These Books**
 
-    When Jesus referred to "the Law of Moses, the Prophets and the Psalms" ([Luke 24:44](https://www.biblegateway.com/passage/?search=Luke+24%3A44&version=NIV)), Protestant interpreters take Him to be referencing the threefold Hebrew canon, with the Psalms heading the Writings[^39]. The New Testament contains hundreds of Old Testament quotations, but it never quotes the deuterocanonical books as inspired Scripture. However, it does contain allusions to them. For example, [Hebrews 11:35](https://www.biblegateway.com/passage/?search=Hebrews+11%3A35&version=NIV) ("...others were tortured, refusing to accept release...") is widely seen as a clear allusion to the martyrdom of Eleazar and the seven brothers in 2 Maccabees 6–7[^40]. This shows the apostles were aware of these books but did not grant them the authority of Scripture.
+    When Jesus referred to "the Law of Moses, the Prophets and the Psalms" ([Luke 24:44](https://www.biblegateway.com/passage/?search=Luke+24%3A44&version=NIV)), Protestant interpreters take Him to be referencing the threefold Hebrew canon, with the Psalms heading the Writings[^45]. The New Testament contains hundreds of Old Testament quotations, but it never quotes the deuterocanonical books as inspired Scripture. However, it does contain allusions to them. For example, [Hebrews 11:35](https://www.biblegateway.com/passage/?search=Hebrews+11%3A35&version=NIV) ("...others were tortured, refusing to accept release...") is widely seen as a clear allusion to the martyrdom of Eleazar and the seven brothers in 2 Maccabees 6–7[^46]. This shows the apostles were aware of these books but did not grant them the authority of Scripture.
 
         **Daniel and Esther Additions:**
-        • **Additions to Daniel:** Includes the **Susanna** narrative (where Daniel delivers Susanna from false adultery accusations), **Bel and the Dragon** (containing two stories demonstrating the vanity of idols and Daniel's survival in the lions' den), and the **Prayer of Azariah and Song of the Three Holy Children** (liturgical prayers by the three youths in the furnace)[^41].
-        • **Additions to Esther:** Six chapters of prayers, dream interpretations, and letters inserted to give the book a more explicitly religious tone[^42].
+        • **Additions to Daniel:** Includes the **Susanna** narrative (where Daniel delivers Susanna from false adultery accusations), **Bel and the Dragon** (containing two stories demonstrating the vanity of idols and Daniel's survival in the lions' den), and the **Prayer of Azariah and Song of the Three Holy Children** (liturgical prayers by the three youths in the furnace)[^47].
+        • **Additions to Esther:** Six chapters of prayers, dream interpretations, and letters inserted to give the book a more explicitly religious tone[^48].
 
         **Eastern Orthodox and Slavonic Additions (Anagignoskomena):**
-        • **1 Esdras:** A Greek retelling of the historical events from Josiah's passover through Ezra's reforms[^43].
-        • **Prayer of Manasseh:** A short, beautifully composed penitential prayer attributed to King Manasseh of Judah after his captivity in Babylon[^44].
-        • **Psalm 151:** A short psalm celebrating David's choice as king and his combat with Goliath, found in the Greek Septuagint but not the Hebrew Masoretic text[^45][^46].
-        • **3 & 4 Maccabees:** 3 Maccabees describes the persecution of Alexandrian Jews under Ptolemy IV (not about the Maccabean revolt)[^47], and 4 Maccabees is a philosophical treatise on religious reason conquering passion using the Maccabean martyrs as exemplars[^48].
+        • **1 Esdras:** A Greek retelling of the historical events from Josiah's passover through Ezra's reforms[^49][^50].
+        • **Prayer of Manasseh:** A short, beautifully composed penitential prayer attributed to King Manasseh of Judah after his captivity in Babylon[^51][^52].
+        • **Psalm 151:** A short psalm celebrating David's choice as king and his combat with Goliath, found in the Greek Septuagint but not the Hebrew Masoretic text[^53][^54].
+        • **3 & 4 Maccabees:** 3 Maccabees describes the persecution of Alexandrian Jews under Ptolemy IV (not about the Maccabean revolt)[^55][^56], and 4 Maccabees is a philosophical treatise on religious reason conquering passion using the Maccabean martyrs as exemplars[^57][^58].
 
         **Ethiopian Orthodox Canon Additions:**
-        • **1-3 Meqabyan:** Three books of Ethiopian Maccabees outlining struggles against idolatrous kings (Meqabis), which are completely separate from the Greek 1-2 Maccabees[^49].
-        • **Josippon:** A chronicle of Jewish history from Adam through the Roman wars, valued as historical literature[^50].
+        • **1-3 Meqabyan:** Three books of Ethiopian Maccabees outlining struggles against idolatrous kings (Meqabis), which are completely separate from the Greek 1-2 Maccabees[^59].
+        • **Josippon:** A chronicle of Jewish history from Adam through the Roman wars, valued as historical literature[^60][^61].
 
 **See also:** [Roman Catholic Church (Branches of Christianity)](/categories/branches#section-romanCatholic).
 `
@@ -341,18 +341,18 @@ Early church leaders used several key criteria to determine which books were tru
       id: "gnostic-gospels",
       title: "Gnostic Gospels",
       tags: ["Gnostic"],
-      content: `**Founded:** 2nd-4th centuries AD (100-300+ years after Christ)[^51]
+      content: `**Founded:** 2nd-4th centuries AD (100-300+ years after Christ)[^62]
 
 
       **Key Characteristics:**
 
-      • **Secret knowledge:** Claim salvation comes through hidden gnosis (knowledge) rather than faith in Christ's sacrifice[^52]
+      • **Secret knowledge:** Claim salvation comes through hidden gnosis (knowledge) rather than faith in Christ's sacrifice[^63][^62]
 
-      • **Dualistic heresy:** Teach the material world is evil and created by a lesser god (Demiurge), contradicting [Genesis 1:31](https://www.biblegateway.com/passage/?search=Genesis+1%3A31&version=NIV)[^53]
+      • **Dualistic heresy:** Teach the material world is evil and created by a lesser god (Demiurge), contradicting [Genesis 1:31](https://www.biblegateway.com/passage/?search=Genesis+1%3A31&version=NIV)[^64][^65]
 
-      • **Pseudonymous authorship:** Falsely claim apostolic authors (Thomas, Judas, Mary) to gain credibility[^54]
+      • **Pseudonymous authorship:** Falsely claim apostolic authors (Thomas, Judas, Mary) to gain credibility[^66]
 
-      • **Docetic Christology:** Many deny Jesus had a real physical body, claiming He was a phantom or spirit (contradicting [1 John 4:2-3](https://www.biblegateway.com/passage/?search=1+John+4%3A2-3&version=NIV))[^55]
+      • **Docetic Christology:** Many deny Jesus had a real physical body, claiming He was a phantom or spirit (contradicting [1 John 4:2-3](https://www.biblegateway.com/passage/?search=1+John+4%3A2-3&version=NIV))[^67]
 
 
       **Detailed Examples of Invalidity:**
@@ -363,45 +363,45 @@ Early church leaders used several key criteria to determine which books were tru
 
       **Gospel of Thomas (circa 50-140 AD):**
 
-      • **Anti-material bias:** Saying 114 claims "every woman who will make herself male will enter the Kingdom of Heaven," reflecting Gnostic hatred of physical creation[^56]
+      • **Anti-material bias:** Saying 114 claims "every woman who will make herself male will enter the Kingdom of Heaven," reflecting Gnostic hatred of physical creation[^68]
 
-      • **Secret knowledge heresy:** Saying 1 promises immortality to those who find the "interpretation" of Jesus' secret sayings, contradicting salvation by faith[^57]
+      • **Secret knowledge heresy:** Saying 1 promises immortality to those who find the "interpretation" of Jesus' secret sayings, contradicting salvation by faith[^69]
 
 
       **Gospel of Judas (circa 180 AD):**
 
-      • **Moral inversion:** Portrays Judas' betrayal as a noble act to help Jesus escape his physical body, directly contradicting Jesus' condemnation in [Matthew 26:24](https://www.biblegateway.com/passage/?search=Matthew+26%3A24&version=NIV)[^58]
+      • **Moral inversion:** Portrays Judas' betrayal as a noble act to help Jesus escape his physical body, directly contradicting Jesus' condemnation in [Matthew 26:24](https://www.biblegateway.com/passage/?search=Matthew+26%3A24&version=NIV)[^70]
 
-      • **Demiurge heresy:** Claims the God of the Old Testament is an inferior creator deity, not the true God[^59]
+      • **Demiurge heresy:** Claims the God of the Old Testament is an inferior creator deity, not the true God[^71]
 
 
       **Gospel of Mary (circa 180-200 AD):**
 
-      • **Gnostic revelations:** Claims Mary Magdalene received special, secret revelations unavailable to male apostles, challenging apostolic authority[^60]
+      • **Gnostic revelations:** Claims Mary Magdalene received special, secret revelations unavailable to male apostles, challenging apostolic authority[^72]
 
-      • **Anti-body teachings:** Promotes escape from material existence ("sin...is not in the nature") rather than resurrection hope[^61]
+      • **Anti-body teachings:** Promotes escape from material existence ("sin...is not in the nature") rather than resurrection hope[^73]
 
 
       **Gospel of Philip (circa 200-250 AD):**
 
-      • **Sacramental magic:** Claims salvation depends on secret rituals in a "bridal chamber" rather than faith in Christ[^62]
+      • **Sacramental magic:** Claims salvation depends on secret rituals in a "bridal chamber" rather than faith in Christ[^74]
 
-      • **Sensationalism:** Contains the reference to Mary Magdalene as Jesus' "companion," which has been fictionalized in modern works but reflects Gnostic (not historical) ideas[^63]
+      • **Sensationalism:** Contains the reference to Mary Magdalene as Jesus' "companion," which has been fictionalized in modern works but reflects Gnostic (not historical) ideas[^75]
 
 
-      **Why Rejected:** These texts systematically contradict apostolic teaching on creation ([Genesis 1:31](https://www.biblegateway.com/passage/?search=Genesis+1%3A31&version=NIV)), salvation by grace ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV)), Christ's physical reality ([1 John 4:2-3](https://www.biblegateway.com/passage/?search=1+John+4%3A2-3&version=NIV)), and were written 100-300+ years after the apostles, failing every test of canonicity[^64].
+      **Why Rejected:** These texts systematically contradict apostolic teaching on creation ([Genesis 1:31](https://www.biblegateway.com/passage/?search=Genesis+1%3A31&version=NIV)), salvation by grace ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians+2%3A8-9&version=NIV)), Christ's physical reality ([1 John 4:2-3](https://www.biblegateway.com/passage/?search=1+John+4%3A2-3&version=NIV)), and were written 100-300+ years after the apostles, failing every test of canonicity[^76].
 
         **Apocryphon of John (Secret Revelation of John) (circa 120-180 AD):**
-        • **Cosmological dualism:** Outlines Gnostic cosmology, claiming the true God did not create the universe, but rather an inferior, blind deity called Yaldabaoth (the demiurge)[^65].
-        • **Why rejected:** Direct conflict with the monotheistic biblical doctrine of creation ([Genesis 1:1](https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV)) and the goodness of the physical world[^66].
+        • **Cosmological dualism:** Outlines Gnostic cosmology, claiming the true God did not create the universe, but rather an inferior, blind deity called Yaldabaoth (the demiurge)[^77].
+        • **Why rejected:** Direct conflict with the monotheistic biblical doctrine of creation ([Genesis 1:1](https://www.biblegateway.com/passage/?search=Genesis+1%3A1&version=NIV)) and the goodness of the physical world[^78].
 
         **Gospel of Truth (circa 140-180 AD):**
-        • **Valentinian homily:** A meditation on Gnostic truth that treats ignorance of the Father as a physical, dark entity (Error) that must be dispelled by secret knowledge[^67].
-        • **Why rejected:** Lacks historical narrative, presents salvation as cognitive awakening rather than redemption from sin, and was written long after the apostolic era[^68].
+        • **Valentinian homily:** A meditation on Gnostic truth that treats ignorance of the Father as a physical, dark entity (Error) that must be dispelled by secret knowledge[^79][^80].
+        • **Why rejected:** Lacks historical narrative, presents salvation as cognitive awakening rather than redemption from sin, and was written long after the apostolic era[^81].
 
         **Pistis Sophia (circa 250-300 AD):**
-        • **Dialogue of Sophia:** Records post-resurrection teachings of Jesus to His disciples concerning the fall and liberation of Sophia (wisdom) through celestial levels[^69].
-        • **Why rejected:** Written centuries after Christ, introduces complex astrological/pantheistic concepts foreign to the Apostles, and rejects historical redemption[^70].
+        • **Dialogue of Sophia:** Records post-resurrection teachings of Jesus to His disciples concerning the fall and liberation of Sophia (wisdom) through celestial levels[^82][^83].
+        • **Why rejected:** Written centuries after Christ, introduces complex astrological/pantheistic concepts foreign to the Apostles, and rejects historical redemption[^84].
 
 **See also:** [Pagan Origins](/categories/pagan-origins), [Other Major Errors (Heresies and Fallacies)](/categories/heresies-and-fallacies#section-other-heresies).
 `
@@ -410,16 +410,16 @@ Early church leaders used several key criteria to determine which books were tru
       id: "early-christian-writings",
       title: "Early Christian Writings (Apostolic Fathers)",
       tags: ["Orthodox"],
-      content: `**Overview:** This refers to a group of orthodox writings from the late 1st and early 2nd centuries. While theologically valuable, the early church recognized them as important pastoral letters but not inspired Scripture[^71].
+      content: `**Overview:** This refers to a group of orthodox writings from the late 1st and early 2nd centuries. While theologically valuable, the early church recognized them as important pastoral letters but not inspired Scripture[^85][^86].
 
 
       **Key Characteristics:**
 
-      • **Orthodox theology:** Generally consistent with apostolic teaching and combat Gnosticism[^72]
+      • **Orthodox theology:** Generally consistent with apostolic teaching and combat Gnosticism[^87]
 
-      • **Non-apostolic authorship:** Not written by apostles, but by the next generation of church leaders[^73]
+      • **Non-apostolic authorship:** Not written by apostles, but by the next generation of church leaders[^88]
 
-      • **Self-aware status:** The authors often quote the apostles as a higher authority, showing they did not see their own writings as equal to Scripture[^74]
+      • **Self-aware status:** The authors often quote the apostles as a higher authority, showing they did not see their own writings as equal to Scripture[^89]
 
 
       **Detailed Analysis of Key Works:**
@@ -427,23 +427,23 @@ Early church leaders used several key criteria to determine which books were tru
 
       **The Didache (circa 50-120 AD):**
 
-      • **Church manual nature:** A practical "church-order" manual for new converts, providing instructions on baptism, fasting, and the "Two Ways" (life and death)[^75]
+      • **Church manual nature:** A practical "church-order" manual for new converts, providing instructions on baptism, fasting, and the "Two Ways" (life and death)[^90]
 
-      • **Why not canonical:** It is anonymous and, while orthodox, was seen as a summary of apostolic teaching rather than a new revelation itself[^76]
+      • **Why not canonical:** It is anonymous and, while orthodox, was seen as a summary of apostolic teaching rather than a new revelation itself[^91]
 
 
       **1 Clement (circa 96 AD):**
 
-      • **Ecclesiastical authority:** Written by Clement of Rome to the Corinthian church to address a dispute. It calls for order and respect for appointed leaders[^77]
+      • **Ecclesiastical authority:** Written by Clement of Rome to the Corinthian church to address a dispute. It calls for order and respect for appointed leaders[^92]
 
-      • **Why not canonical:** Clement himself distinguishes his letter from the "epistle of the blessed Paul" (which he cites as binding authority), showing he did not consider his own letter to be Scripture[^78]
+      • **Why not canonical:** Clement himself distinguishes his letter from the "epistle of the blessed Paul" (which he cites as binding authority), showing he did not consider his own letter to be Scripture[^93]
 
 
       **Shepherd of Hermas (circa 100-140 AD):**
 
-      • **Allegorical visions:** A popular book of elaborate visions and allegories, urging repentance[^79]
+      • **Allegorical visions:** A popular book of elaborate visions and allegories, urging repentance[^94]
 
-      • **Why not canonical:** It was popular, but its late date and promotion of a "second repentance" (a post-baptismal chance) were seen as a development beyond apostolic teaching[^80]
+      • **Why not canonical:** It was popular, but its late date and promotion of a "second repentance" (a post-baptismal chance) were seen as a development beyond apostolic teaching[^95]
 
 
       **Epistle of Barnabas (circa 70-130 AD):**
@@ -451,40 +451,40 @@ Early church leaders used several key criteria to determine which books were tru
 <?viz canon/manuscripts?>
 
 
-      • **Allegorical excess:** Uses extreme, non-literal allegorical interpretations of the Old Testament that were not characteristic of apostolic writing[^81]
+      • **Allegorical excess:** Uses extreme, non-literal allegorical interpretations of the Old Testament that were not characteristic of apostolic writing[^96]
 
-      • **Anti-Jewish polemic:** Contains a harsh polemic against Judaism that was deemed inconsistent with the pastoral tone of the apostles[^82]
+      • **Anti-Jewish polemic:** Contains a harsh polemic against Judaism that was deemed inconsistent with the pastoral tone of the apostles[^97]
 
 
-      **Why Not Canonical:** These works fail the test of apostolic authorship. The early church read them for edification (Athanasius called them "books merely read") but clearly distinguished them from the inspired, foundational apostolic Scriptures[^83].
+      **Why Not Canonical:** These works fail the test of apostolic authorship. The early church read them for edification (Athanasius called them "books merely read") but clearly distinguished them from the inspired, foundational apostolic Scriptures[^98].
 
       **Letters of Ignatius of Antioch (circa 110 AD):**
-      • **Ignatian epistles:** Seven letters written by Ignatius while in chains en route to Rome. They address church order, the authority of the bishop, and combat early docetism[^84].
-      • **Why not canonical:** Ignatius explicitly distinguishes himself from the apostles, saying "I do not, as Peter and Paul, issue commandments unto you. They were apostles; I am but a condemned man"[^85].
+      • **Ignatian epistles:** Seven letters written by Ignatius while in chains en route to Rome. They address church order, the authority of the bishop, and combat early docetism[^99][^100].
+      • **Why not canonical:** Ignatius explicitly distinguishes himself from the apostles, saying "I do not, as Peter and Paul, issue commandments unto you. They were apostles; I am but a condemned man"[^101].
 
       **Polycarp's Writings and Martyrdom (circa 110-155 AD):**
-      • **Apostolic disciple legacy:** Polycarp's *Letter to the Philippians* exhorts righteousness, and the *Martyrdom of Polycarp* provides the earliest account of a post-NT martyr's death[^86].
-      • **Why not canonical:** These are valuable early records, but are pastoral and historical accounts, not written by apostles or containing unique divine revelation[^87].
+      • **Apostolic disciple legacy:** Polycarp's *Letter to the Philippians* exhorts righteousness, and the *Martyrdom of Polycarp* provides the earliest account of a post-NT martyr's death[^102][^103].
+      • **Why not canonical:** These are valuable early records, but are pastoral and historical accounts, not written by apostles or containing unique divine revelation[^104].
 
       **Epistle to Diognetus (circa 130-200 AD):**
-      • **Apologetic letter:** An elegant defense of the Christian faith to a pagan inquirer, describing Christians as "living in the world but not of it"[^88].
-      • **Why not canonical:** The letter is anonymous, post-apostolic, and is a work of human apologetics rather than inspired, authoritative scripture[^89].
+      • **Apologetic letter:** An elegant defense of the Christian faith to a pagan inquirer, describing Christians as "living in the world but not of it"[^105].
+      • **Why not canonical:** The letter is anonymous, post-apostolic, and is a work of human apologetics rather than inspired, authoritative scripture[^106][^107].
 `
     },
     {
       id: "pseudepigraphical-works",
       title: "Pseudepigraphical Works",
       tags: ["False-Authorship"],
-      content: `**Overview:** "Pseudepigrapha" (Gr. "false writings") are texts deliberately and falsely attributed to ancient biblical figures (Enoch, Moses, patriarchs) to give them an aura of authority[^90]. They were written centuries after their claimed authors lived[^91].
+      content: `**Overview:** "Pseudepigrapha" (Gr. "false writings") are texts deliberately and falsely attributed to ancient biblical figures (Enoch, Moses, patriarchs) to give them an aura of authority[^108]. They were written centuries after their claimed authors lived[^109].
 
 
       **New Testament Allusions (Crucial Additions)**
 
   Despite being non-canonical, two pseudepigraphical books are famously referenced in the New Testament book of Jude:
 
-  • **1 Enoch:** [Jude 14-15](https://www.biblegateway.com/passage/?search=Jude+1%3A14-15&version=NIV) directly quotes 1 Enoch 1:9 ("See, the Lord is coming with thousands upon thousands of his holy ones..."), citing it as a prophecy[^92][^93]. Jude uses this prophecy as a true statement, just as Paul quoted pagan poets ([Acts 17:28](https://www.biblegateway.com/passage/?search=Acts+17%3A28&version=NIV)), without canonizing the entire work.
+  • **1 Enoch:** [Jude 14-15](https://www.biblegateway.com/passage/?search=Jude+1%3A14-15&version=NIV) directly quotes 1 Enoch 1:9 ("See, the Lord is coming with thousands upon thousands of his holy ones..."), citing it as a prophecy[^110][^111]. Jude uses this prophecy as a true statement, just as Paul quoted pagan poets ([Acts 17:28](https://www.biblegateway.com/passage/?search=Acts+17%3A28&version=NIV)), without canonizing the entire work.
 
-  • **Assumption of Moses:** [Jude 9](https://www.biblegateway.com/passage/?search=Jude+1%3A9&version=NIV) alludes to a dispute between Michael and the devil over Moses' body ("...but even the archangel Michael, when he was disputing with the devil about the body of Moses..."). This event is not found in the Old Testament but was recorded in the non-extant ending of the Assumption of Moses[^94].
+  • **Assumption of Moses:** [Jude 9](https://www.biblegateway.com/passage/?search=Jude+1%3A9&version=NIV) alludes to a dispute between Michael and the devil over Moses' body ("...but even the archangel Michael, when he was disputing with the devil about the body of Moses..."). This event is not found in the Old Testament but was recorded in the non-extant ending of the Assumption of Moses[^112].
 
 
       **Detailed Examination of Major Works:**
@@ -492,37 +492,37 @@ Early church leaders used several key criteria to determine which books were tru
 
       **1 Enoch (3rd century BC - 1st century AD):**
 
-  • **Elaborate angelology:** Presents detailed angel hierarchies and names (like Uriel, Raguel) and stories of the "Watchers" (fallen angels) that go far beyond [Genesis 6](https://www.biblegateway.com/passage/?search=Genesis+6&version=NIV)[^95]
+  • **Elaborate angelology:** Presents detailed angel hierarchies and names (like Uriel, Raguel) and stories of the "Watchers" (fallen angels) that go far beyond [Genesis 6](https://www.biblegateway.com/passage/?search=Genesis+6&version=NIV)[^113]
 
-      • **Astronomical errors:** Contains inaccurate calendrical (a 364-day calendar) and astronomical information[^96] (Note: The Ethiopian Orthodox Church does consider 1 Enoch to be canonical).
+      • **Astronomical errors:** Contains inaccurate calendrical (a 364-day calendar) and astronomical information[^114] (Note: The Ethiopian Orthodox Church does consider 1 Enoch to be canonical).
 
       **Book of Jubilees (circa 160-150 BC):**
 
-      • **Calendar innovation:** Promotes a 364-day solar calendar, contradicting the lunar-based calendar used in canonical Jewish practice[^97]
+      • **Calendar innovation:** Promotes a 364-day solar calendar, contradicting the lunar-based calendar used in canonical Jewish practice[^115]
 
-      • **Legalistic additions:** Claims to be a secret revelation from an angel to Moses, adding numerous laws not found in the Pentateuch[^98]
+      • **Legalistic additions:** Claims to be a secret revelation from an angel to Moses, adding numerous laws not found in the Pentateuch[^116]
 
       **Testament of the Twelve Patriarchs (2nd century BC to 2nd century AD, dating disputed):**
 
-      • **Composite work:** A collection of "last words" from Jacob's twelve sons, containing moral exhortations but also later Christian interpolations (additions)[^99].
+      • **Composite work:** A collection of "last words" from Jacob's twelve sons, containing moral exhortations but also later Christian interpolations (additions)[^117].
 
 
 
       **Why These Works Are Invalid (despite NT allusions):**
 
-  The pseudepigraphical works violate the fundamental principle of truthfulness; their deceptive authorship alone disqualifies them, as God cannot lie ([Titus 1:2](https://www.biblegateway.com/passage/?search=Titus+1%3A2&version=NIV)). The New Testament authors' allusions to them (like Jude) show awareness of contemporary literature to make a point, not a declaration of the entire work's divine inspiration[^100].
+  The pseudepigraphical works violate the fundamental principle of truthfulness; their deceptive authorship alone disqualifies them, as God cannot lie ([Titus 1:2](https://www.biblegateway.com/passage/?search=Titus+1%3A2&version=NIV)). The New Testament authors' allusions to them (like Jude) show awareness of contemporary literature to make a point, not a declaration of the entire work's divine inspiration[^118].
 
       **Psalms of Solomon (circa 50 BC):**
-      • **Pharisaic messianism:** 18 psalms focusing on the Maccabean corruption, the Roman invasion of Jerusalem, and expectations of a militant Messiah[^101].
-      • **Why rejected:** Written during the intertestamental period when prophecy was recognized as ceased, and falsely attributed to Solomon to gain authority[^102].
+      • **Pharisaic messianism:** 18 psalms focusing on the Maccabean corruption, the Roman invasion of Jerusalem, and expectations of a militant Messiah[^119].
+      • **Why rejected:** Written during the intertestamental period when prophecy was recognized as ceased, and falsely attributed to Solomon to gain authority[^120].
 
       **Letter of Aristeas (circa 2nd century BC):**
-      • **Septuagint origin story:** A book describing the translation of the Hebrew Law into Greek by 72 elders under Ptolemy II Philadelphus[^103].
-      • **Why rejected:** A pseudepigraphal work by a Jewish author writing in the persona of a Greek courtier, serving as historical romance rather than inspired prophetic revelation[^104].
+      • **Septuagint origin story:** A book describing the translation of the Hebrew Law into Greek by 72 elders under Ptolemy II Philadelphus[^121][^122].
+      • **Why rejected:** A pseudepigraphal work by a Jewish author writing in the persona of a Greek courtier, serving as historical romance rather than inspired prophetic revelation[^123].
 
       **Martyrdom and Ascension of Isaiah (circa 1st-2nd century AD):**
-      • **Isaiah's death:** Details King Manasseh sawing the prophet Isaiah in half (referenced in [Hebrews 11:37](https://www.biblegateway.com/passage/?search=Hebrews+11%3A37&version=NIV))[^105].
-      • **Why rejected:** Falsely attributed, contains later Gnostic-leaning Christian interpolations, and post-dates the prophetic era[^106].
+      • **Isaiah's death:** Details King Manasseh sawing the prophet Isaiah in half (referenced in [Hebrews 11:37](https://www.biblegateway.com/passage/?search=Hebrews+11%3A37&version=NIV))[^124][^125].
+      • **Why rejected:** Falsely attributed, contains later Gnostic-leaning Christian interpolations, and post-dates the prophetic era[^126].
 
 **See also:** [Where Traditional and Critical Scholarship Diverge (The 66 Books)](/categories/bible-books#section-traditional-and-critical).
 `
@@ -531,18 +531,18 @@ Early church leaders used several key criteria to determine which books were tru
       id: "new-testament-apocrypha",
       title: "New Testament Apocrypha",
       tags: ["Apocryphal", "Legendary"],
-      content: `**Overview:** A large collection of "gospels," "acts," and "epistles" written from the 2nd century onward. They are not the same as the Gnostic gospels; rather than being heretical, they are often legendary, fan-fiction-like accounts meant to "fill in the blanks" of the canonical stories[^107].
+      content: `**Overview:** A large collection of "gospels," "acts," and "epistles" written from the 2nd century onward. They are not the same as the Gnostic gospels; rather than being heretical, they are often legendary, fan-fiction-like accounts meant to "fill in the blanks" of the canonical stories[^127].
 
 
       **Key Characteristics:**
 
-      • **Legendary content:** Focus on sensational, fantastic, or sentimental stories (e.g., Jesus's childhood, apostles' adventures)[^108]
+      • **Legendary content:** Focus on sensational, fantastic, or sentimental stories (e.g., Jesus's childhood, apostles' adventures)[^128]
 
-      • **Late composition:** Written well after the apostolic period (2nd-5th centuries)[^109]
+      • **Late composition:** Written well after the apostolic period (2nd-5th centuries)[^129]
 
-      • **Pseudonymous authorship:** Falsely claim apostolic authors for credibility[^110]
+      • **Pseudonymous authorship:** Falsely claim apostolic authors for credibility[^130]
 
-      • **Church rejection:** Consistently rejected by early church leaders as forgeries or "pious frauds"[^111]
+      • **Church rejection:** Consistently rejected by early church leaders as forgeries or "pious frauds"[^131]
 
 
       **Detailed Analysis of Major Apocryphal Works:**
@@ -550,58 +550,58 @@ Early church leaders used several key criteria to determine which books were tru
 
       **Protoevangelium of James (circa 150 AD):**
 
-      • **Legendary embellishments:** "Fills in" Mary's childhood, claiming she was a temple virgin, and details Jesus's birth in a cave[^112]
+      • **Legendary embellishments:** "Fills in" Mary's childhood, claiming she was a temple virgin, and details Jesus's birth in a cave[^132][^133]
 
-      • **Perpetual virginity:** The earliest written source for the belief that Mary remained a virgin during and after Jesus's birth. The doctrine is held by Catholic and Orthodox Christians, and was affirmed by Luther, Calvin and Zwingli, but most modern Protestants hold that Scripture does not teach it[^113]
+      • **Perpetual virginity:** The earliest written source for the belief that Mary remained a virgin during and after Jesus's birth. The doctrine is held by Catholic and Orthodox Christians, and was affirmed by Luther, Calvin and Zwingli, but most modern Protestants hold that Scripture does not teach it[^133][^44]
 
       **Infancy Gospel of Thomas (circa 180-200 AD):**
 
-      • **Vindictive child Jesus:** Portrays young Jesus as a petulant and vengeful child, causing blindness or death to children who annoy him, and then sometimes healing them[^114]
+      • **Vindictive child Jesus:** Portrays young Jesus as a petulant and vengeful child, causing blindness or death to children who annoy him, and then sometimes healing them[^134]
 
-  • **Character contradictions:** This portrait of a sinfully prideful child completely contradicts the biblical portrait of Jesus's sinless character ([Hebrews 4:15](https://www.biblegateway.com/passage/?search=Hebrews+4%3A15&version=NIV)) and wisdom ([Luke 2:52](https://www.biblegateway.com/passage/?search=Luke+2%3A52&version=NIV))[^115]
+  • **Character contradictions:** This portrait of a sinfully prideful child completely contradicts the biblical portrait of Jesus's sinless character ([Hebrews 4:15](https://www.biblegateway.com/passage/?search=Hebrews+4%3A15&version=NIV)) and wisdom ([Luke 2:52](https://www.biblegateway.com/passage/?search=Luke+2%3A52&version=NIV))[^135][^136]
 
       **Gospel of Peter (circa 150-200 AD):**
 
-      • **Docetic elements:** Portrays Jesus on the cross as feeling no pain and crying out "My power, my power, you have left me" (instead of "My God, my God..."), implying his divinity, not humanity, was present[^116]
+      • **Docetic elements:** Portrays Jesus on the cross as feeling no pain and crying out "My power, my power, you have left me" (instead of "My God, my God..."), implying his divinity, not humanity, was present[^137]
 
-      • **Fantastic resurrection:** Describes Jesus emerging from the tomb as a giant whose head reaches the clouds, supported by two other giants (angels), and followed by a talking cross[^117]
+      • **Fantastic resurrection:** Describes Jesus emerging from the tomb as a giant whose head reaches the clouds, supported by two other giants (angels), and followed by a talking cross[^138]
 
 
       **Acts of Paul (circa 180-190 AD):**
 
-      • **Legendary adventures:** Contains fictional stories of Paul's encounters, including a lion that Paul baptises and that later refuses to attack him in the arena at Ephesus, and the story of Thecla and other miracles not recorded in the Bible[^118]
+      • **Legendary adventures:** Contains fictional stories of Paul's encounters, including a lion that Paul baptises and that later refuses to attack him in the arena at Ephesus, and the story of Thecla and other miracles not recorded in the Bible[^139]
 
-  • **Ascetic heresy:** Promotes extreme celibacy and anti-marriage teachings contrary to Paul's balanced view in [1 Corinthians 7](https://www.biblegateway.com/passage/?search=1+Corinthians+7&version=NIV)[^119]
+  • **Ascetic heresy:** Promotes extreme celibacy and anti-marriage teachings contrary to Paul's balanced view in [1 Corinthians 7](https://www.biblegateway.com/passage/?search=1+Corinthians+7&version=NIV)[^140]
 
 
       **Acts of John (circa 150-200 AD):**
 
-      • **Gnostic docetism:** Claims Jesus only appeared to suffer on the cross while his spirit was "dancing" above, a classic Gnostic rejection of the physical suffering and resurrection[^120]
+      • **Gnostic docetism:** Claims Jesus only appeared to suffer on the cross while his spirit was "dancing" above, a classic Gnostic rejection of the physical suffering and resurrection[^141]
 
 
       **Why These Works Are Clearly Invalid:**
 
-      The New Testament apocrypha fail every test of canonicity. Their late dates, false authorships, theological errors (especially Gnosticism and docetism), and fantastic, legendary content stand in stark contrast to the sober, historical, and theologically unified accounts of the 27 canonical books[^121].
+      The New Testament apocrypha fail every test of canonicity. Their late dates, false authorships, theological errors (especially Gnosticism and docetism), and fantastic, legendary content stand in stark contrast to the sober, historical, and theologically unified accounts of the 27 canonical books[^16].
 
       **Gospel of Nicodemus (including Acts of Pilate) (circa 4th century AD):**
-      • **Harrowing of Hell:** Details Jesus descending into Hades after the crucifixion, breaking its gates, and rescuing Adam and the Old Testament saints[^122].
-      • **Why rejected:** Late legendary writing containing fantastical descriptions of the underworld, with no historical or apostolic validation[^123].
+      • **Harrowing of Hell:** Details Jesus descending into Hades after the crucifixion, breaking its gates, and rescuing Adam and the Old Testament saints[^142].
+      • **Why rejected:** Late legendary writing containing fantastical descriptions of the underworld, with no historical or apostolic validation[^143].
 
       **Acts of Peter (circa 150-200 AD):**
-      • **Quo Vadis legend:** Contains the story of Peter fleeing Rome, meeting a vision of Jesus, and returning to be crucified upside down, as well as stories of Peter resurrecting smoked fish[^124].
-      • **Why rejected:** Written long after Peter's death, containing legendary embellishments and severe ascetic biases foreign to apostolic letters[^125].
+      • **Quo Vadis legend:** Contains the story of Peter fleeing Rome, meeting a vision of Jesus, and returning to be crucified upside down, as well as stories of Peter resurrecting smoked fish[^144].
+      • **Why rejected:** Written long after Peter's death, containing legendary embellishments and severe ascetic biases foreign to apostolic letters[^145].
 
       **Acts of Thomas (circa 200-225 AD):**
-      • **Mission to India:** Details Thomas's travels and miracles in India, and contains Gnostic theology (such as the *Hymn of the Pearl*)[^126].
-      • **Why rejected:** A late pseudepigraphal romance containing heretical Gnostic concepts, including rejection of physical marriage[^127].
+      • **Mission to India:** Details Thomas's travels and miracles in India, and contains Gnostic theology (such as the *Hymn of the Pearl*)[^146].
+      • **Why rejected:** A late pseudepigraphal romance containing heretical Gnostic concepts, including rejection of physical marriage[^147].
 
       **Apocalypse of Peter (circa 100-150 AD):**
-      • **Visions of hell:** Contains detailed, graphic accounts of specific punishments in hell for various sins, alongside descriptions of heaven[^128].
-      • **Why rejected:** It was accepted by some in the 2nd century (the Muratorian Fragment lists it with reservations and Clement of Alexandria cited it), but it was not apostolic, and its imagery of the underworld draws on Greek and Jewish apocalyptic traditions rather than on apostolic teaching[^129][^130].
+      • **Visions of hell:** Contains detailed, graphic accounts of specific punishments in hell for various sins, alongside descriptions of heaven[^148].
+      • **Why rejected:** It was accepted by some in the 2nd century (the Muratorian Fragment lists it with reservations and Clement of Alexandria cited it), but it was not apostolic, and its imagery of the underworld draws on Greek and Jewish apocalyptic traditions rather than on apostolic teaching[^149][^13].
 
       **Epistle to the Laodiceans (circa 4th century AD):**
-      • **Forged Pauline epistle:** A short collection of Pauline phrases compiled to forge the "letter from Laodicea" mentioned in [Colossians 4:16](https://www.biblegateway.com/passage/?search=Colossians+4%3A16&version=NIV)[^131].
-      • **Why rejected:** A compilation of phrases from Paul's genuine letters designed to supply the "missing" letter. Jerome reported that it was rejected by all, yet it was copied in many medieval Latin Bibles before being excluded[^132].
+      • **Forged Pauline epistle:** A short collection of Pauline phrases compiled to forge the "letter from Laodicea" mentioned in [Colossians 4:16](https://www.biblegateway.com/passage/?search=Colossians+4%3A16&version=NIV)[^150][^151].
+      • **Why rejected:** A compilation of phrases from Paul's genuine letters designed to supply the "missing" letter. Jerome reported that it was rejected by all, yet it was copied in many medieval Latin Bibles before being excluded[^152].
 
 **See also:** [Heresy and Legend in the Quran (Islam)](/categories/islam#section-quran-sources).
 `
@@ -609,137 +609,157 @@ Early church leaders used several key criteria to determine which books were tru
   ],
             sources: [
     "1. [Encyclopedia] Britannica - Biblical Literature: The Biblical Canon. https://www.britannica.com/topic/biblical-literature/The-biblical-canon",
-    "2. [Academic] Oxford Bibliographies. 'Biblical Canon.' https://www.oxfordbibliographies.com/abstract/document/obo-9780195393361/obo-9780195393361-0017.xml",
-    "3. [Christian Source] BibleQuestions.info. 'Criteria for Canonicity.' https://biblequestions.info/2019/08/10/what-are-the-criteria-for-a-book-to-be-canonical/",
-    "4. [Apologetics] The Gospel Coalition. 'The Biblical Canon.' https://www.thegospelcoalition.org/essay/the-biblical-canon/",
-    "5. [Christian Source] Arlington Catholic Herald. Where did the New Testament canon come from? https://www.catholicherald.com/?p=13388",
-    "6. [Apologetics] Department of Christian Defense. Corralling the New Testament Canon. https://christiandefense.org/general/corralling-the-new-testament-canon/",
-    "7. [Creationist] Answers in Genesis - Why 66 Books? https://answersingenesis.org/the-word-of-god/why-66-books/",
+    "2. [Creationist] Answers in Genesis - Why 66 Books? https://answersingenesis.org/the-word-of-god/why-66-books/",
+    "3. [Academic] Oxford Bibliographies. 'Biblical Canon.' https://www.oxfordbibliographies.com/abstract/document/obo-9780195393361/obo-9780195393361-0017.xml",
+    "4. [Christian Source] BibleQuestions.info. 'Criteria for Canonicity.' https://biblequestions.info/2019/08/10/what-are-the-criteria-for-a-book-to-be-canonical/",
+    "5. [Apologetics] The Gospel Coalition. 'The Biblical Canon.' https://www.thegospelcoalition.org/essay/the-biblical-canon/",
+    "6. [Christian Source] Arlington Catholic Herald. Where did the New Testament canon come from? https://www.catholicherald.com/?p=13388",
+    "7. [Apologetics] Department of Christian Defense. Corralling the New Testament Canon. https://christiandefense.org/general/corralling-the-new-testament-canon/",
     "8. [Academic] Ehrman. Truth and Fiction in The Da Vinci Code., 2004. https://doi.org/10.1093/oso/9780195181401.001.0001",
-    "9. [Wikipedia] 'First Council of Nicaea.' https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
-    "10. [Primary Source] The First Council of Nicaea: letter and canons, in Nicene and Post-Nicene Fathers. New Advent. https://www.newadvent.org/fathers/3801.htm",
-    "11. [Primary Source] Irenaeus, Against Heresies III.11, in Ante-Nicene Fathers, vol. 1. Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/anf01.ix.iv.xii.html",
-    "12. [Primary Source] The Muratorian Fragment, trans. Bruce Metzger. Early Christian Writings. https://www.earlychristianwritings.com/text/muratorian-metzger.html",
-    "13. [Primary Source] Eusebius, Church History III.25, in Nicene and Post-Nicene Fathers. Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/npnf201.iii.viii.xxv.html",
-    "14. [Primary Source] Athanasius, Festal Letter 39 (367), in Nicene and Post-Nicene Fathers. Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/npnf204.xxv.iii.iii.xxv.html",
-    "15. [Primary Source] Eusebius, Life of Constantine IV.36. New Advent. https://www.newadvent.org/fathers/25024.htm",
-    "16. [Wikipedia] 'Bart D. Ehrman.' https://en.wikipedia.org/wiki/Bart_D._Ehrman",
-    "17. [Lexicon] Bible Hub. Greek 2315, theopneustos. https://biblehub.com/greek/2315.htm",
-    "18. [Primary Source] Second Vatican Council, Dei Verbum, section 11 (1965). Holy See. https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
-    "19. [Primary Source] USCCB - Books of the Bible. https://www.usccb.org/bible/books-of-the-bible",
-    "20. [Encyclopedia] Britannica - Tanakh. https://www.britannica.com/topic/Tanakh",
-    "21. [Encyclopedia] 'BIBLE CANON.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/view.jsp?artid=1025&letter=B&search=Bible%20canon",
-    "22. [Primary Source] Babylonian Talmud, Bava Batra 14b. Sefaria. https://www.sefaria.org/Bava_Batra.14b",
-    "23. [Encyclopedia] Britannica - Old Testament: The Apocrypha. https://www.britannica.com/topic/Old-Testament/The-Apocrypha",
-    "24. [Apologetics] Christianity.com - What is the Septuagint? https://www.christianity.com/wiki/bible/what-is-the-septuagint.html",
-    "25. [Academic] Logos. 'What Is the Septuagint and Is It Valuable for Bible Study?' https://www.logos.com/grow/what-is-the-septuagint-and-why-is-it-valuable-for-bible-study/",
-    "26. [Encyclopedia] Britannica - Saint Jerome: Biblical scholar. https://www.britannica.com/biography/Saint-Jerome/Biblical-scholar",
-    "27. [Encyclopedia] New Advent - Canon of the Old Testament. https://www.newadvent.org/cathen/03267a.htm",
-    "28. [Encyclopedia] Britannica - Council of Trent. https://www.britannica.com/event/Council-of-Trent",
-    "29. [Primary Source] Council of Basel-Ferrara-Florence (1431-45). Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum17.htm",
-    "30. [Primary Source] Council of Trent. 'Fourth Session, on the Canonical Scriptures.' https://www.ccel.org/ccel/schaff/creeds2.v.i.i.ii.html",
-    "31. [Encyclopedia] Britannica. 'Book of Tobit.' https://www.britannica.com/topic/Tobit-biblical-literature",
-    "32. [Wikipedia] Book of Tobit. https://en.wikipedia.org/wiki/Book_of_Tobit",
-    "33. [Apologetics] Got Questions - Book of Judith. https://www.gotquestions.org/book-of-Judith.html",
-    "34. [Encyclopedia] Britannica - Book of Judith. https://www.britannica.com/topic/Book-of-Judith",
-    "35. [Wikipedia] Book of Wisdom. https://en.wikipedia.org/wiki/Book_of_Wisdom",
-    "36. [Encyclopedia] Britannica - Wisdom of Solomon (Old Testament book). https://www.britannica.com/topic/Wisdom-of-Solomon",
-    "37. [Wikipedia] 2 Maccabees. https://en.wikipedia.org/wiki/2_Maccabees",
-    "38. [Apologetics] Catholic Answers - Purgatory. https://www.catholic.com/encyclopedia/purgatory",
-    "39. [Wikipedia] Ketuvim. https://en.wikipedia.org/wiki/Ketuvim",
-    "40. [Commentary] Gill's Exposition of the Bible - Hebrews 11:35. https://www.biblestudytools.com/commentaries/gills-exposition-of-the-bible/hebrews-11-35.html",
-    "41. [Wikipedia] Additions to Daniel. https://en.wikipedia.org/wiki/Additions_to_Daniel",
-    "42. [Wikipedia] Book of Esther (Greek additions). https://en.wikipedia.org/wiki/Additions_to_Esther",
-    "43. [Encyclopedia] 'ESDRAS, BOOKS OF.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/view.jsp?artid=463&letter=E&search=Books%20of%20Esdras",
-    "44. [Academic] Gutman. The Prayer of Manasseh. The Oxford Handbook of the Apocrypha, 2021. https://doi.org/10.1093/oxfordhb/9780190689643.013.20",
-    "45. [Wikipedia] Psalm 151. https://en.wikipedia.org/wiki/Psalm_151",
-    "46. [Academic] Goff. David Singing at the End of the Psalter. The Apocrypha: A Guide, 2024. https://doi.org/10.1093/9780190060770.003.0014",
-    "47. [Encyclopedia] 'MACCABEES, BOOKS OF.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/articles/10237-maccabees-books-of",
-    "48. [Academic] van Henten et al. 4 Maccabees. Oxford Classical Dictionary, 2025. https://doi.org/10.1093/acrefore/9780199381135.013.9080",
-    "49. [Wikipedia] Meqabyan. https://en.wikipedia.org/wiki/Meqabyan",
-    "50. [Encyclopedia] 'JOSEPH BEN GORION.' Jewish Encyclopedia (1906). https://www.jewishencyclopedia.com/view.jsp?artid=473&letter=J",
-    "51. [Primary Source] Early Christian Writings - Gnostic Texts. https://www.earlychristianwritings.com/gnostics.html",
-    "52. [Encyclopedia] Britannica - Gnosticism. https://www.britannica.com/topic/Gnosticism",
-    "53. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Demiurge.' https://www.newadvent.org/cathen/04707b.htm",
-    "54. [Apologetics] Got Questions - Nag Hammadi Library. https://www.gotquestions.org/Nag-Hammadi.html",
-    "55. [Wikipedia] Docetism. https://en.wikipedia.org/wiki/Docetism",
-    "56. [Apologetics] Got Questions - Gospel of Thomas. https://www.gotquestions.org/Gospel-of-Thomas.html",
-    "57. [Primary Source] Early Christian Writings - Gospel of Thomas. https://www.earlychristianwritings.com/thomas.html",
-    "58. [Primary Source] Early Christian Writings - Gospel of Judas. https://www.earlychristianwritings.com/gospeljudas.html",
-    "59. [Wikipedia] Gospel of Judas. https://en.wikipedia.org/wiki/Gospel_of_Judas",
-    "60. [Primary Source] Early Christian Writings - Gospel of Mary. https://www.earlychristianwritings.com/gospelmary.html",
-    "61. [Encyclopedia] EBSCO Research Starters. 'The Gospel of Mary of Magdala.' https://www.ebsco.com/research-starters/literature-and-writing/gospel-mary-magdala-karen-l-king",
-    "62. [Primary Source] Early Christian Writings - Gospel of Philip. https://www.earlychristianwritings.com/gospelphilip.html",
-    "63. [Apologetics] Got Questions - Gospel of Philip. https://www.gotquestions.org/Gospel-of-Philip.html",
-    "64. [Apologetics] Stand to Reason. 'Why Are the Gnostic Gospels Left Out?' https://www.str.org/w/why-are-the-gnostic-gospels-left-out-of-the-bible-",
-    "65. [Wikipedia] Apocryphon of John. https://en.wikipedia.org/wiki/Apocryphon_of_John",
-    "66. [Primary Source] Irenaeus, Against Heresies I.29 (New Advent). https://www.newadvent.org/fathers/0103129.htm",
-    "67. [Primary Source] 'Gospel of Truth.' Early Christian Writings. https://www.earlychristianwritings.com/text/gospeltruth-attridge.html",
-    "68. [Primary Source] Irenaeus, Against Heresies III.11 (New Advent). https://www.newadvent.org/fathers/0103311.htm",
-    "69. [Primary Source] 'Introduction – Pistis Sophia – Gnosticism and Hermetica.' Internet Sacred Text Archive. https://www.sacred-texts.com/chr/ps/ps003.htm",
-    "70. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Gnosticism.' https://www.newadvent.org/cathen/06592a.htm",
-    "71. [Primary Source] 'Schaff, History of the Christian Church, Volume II: Ante-Nicene Christianity. A.D. 100-325.' Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/hcc2.v.xv.iv.html",
-    "72. [Encyclopedia] New Advent, Catholic Encyclopedia. Docetae. https://www.newadvent.org/cathen/05070c.htm",
-    "73. [Encyclopedia] New Advent. 'The Apostolic Fathers.' https://www.newadvent.org/cathen/01637a.htm",
-    "74. [Primary Source] Polycarp, Epistle to the Philippians (New Advent). https://www.newadvent.org/fathers/0136.htm",
-    "75. [Primary Source] Early Christian Writings - The Didache. https://www.earlychristianwritings.com/didache.html",
-    "76. [Apologetics] Got Questions - The Didache. https://www.gotquestions.org/Didache.html",
-    "77. [Primary Source] Early Christian Writings - 1 Clement. https://www.earlychristianwritings.com/1clement.html",
-    "78. [Primary Source] New Advent - 1 Clement (Primary Source Text). https://www.newadvent.org/fathers/1010.htm",
-    "79. [Primary Source] Early Christian Writings - Shepherd of Hermas. https://www.earlychristianwritings.com/shepherd.html",
-    "80. [Apologetics] Got Questions - Shepherd of Hermas. https://www.gotquestions.org/Shepherd-of-Hermas.html",
-    "81. [Primary Source] Early Christian Writings - Epistle of Barnabas. https://www.earlychristianwritings.com/barnabas.html",
-    "82. [Apologetics] Got Questions - Epistle of Barnabas. https://www.gotquestions.org/Epistle-of-Barnabas.html",
-    "83. [Primary Source] New Advent - Athanasius' 39th Festal Letter (Primary Source). https://www.newadvent.org/fathers/2806039.htm",
-    "84. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. Ignatius of Antioch.' https://www.newadvent.org/cathen/07644a.htm",
-    "85. [Primary Source] Ignatius, Epistle to the Romans (New Advent). https://www.newadvent.org/fathers/0107.htm",
-    "86. [Primary Source] Martyrdom of Polycarp. New Advent. https://www.newadvent.org/fathers/0102.htm",
-    "87. [Wikipedia] Polycarp. https://en.wikipedia.org/wiki/Polycarp",
-    "88. [Primary Source] Epistle to Diognetus (New Advent). https://www.newadvent.org/fathers/0101.htm",
-    "89. [Primary Source] 'Epistle of Mathetes to Diognetus.' Early Christian Writings. https://www.earlychristianwritings.com/diognetus.html",
-    "90. [Encyclopedia] Britannica - Pseudepigrapha. https://www.britannica.com/topic/pseudepigrapha",
-    "91. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Apocrypha.' https://www.newadvent.org/cathen/01601a.htm",
-    "92. [Apologetics] Got Questions - Book of Enoch. https://www.gotquestions.org/book-of-Enoch.html",
-    "93. [Wikipedia] Epistle of Jude. https://en.wikipedia.org/wiki/Epistle_of_Jude",
-    "94. [Apologetics] Got Questions - Assumption of Moses. https://www.gotquestions.org/Assumption-of-Moses.html",
-    "95. [Wikipedia] Book of Enoch. https://en.wikipedia.org/wiki/Book_of_Enoch",
-    "96. [Wikipedia] Enoch Calendar. https://en.wikipedia.org/wiki/Enoch_calendar",
-    "97. [Apologetics] Got Questions - Book of Jubilees. https://www.gotquestions.org/book-of-Jubilees.html",
-    "98. [Encyclopedia] Britannica - Book of Jubilees. https://www.britannica.com/topic/Book-of-Jubilees",
-    "99. [Encyclopedia] Britannica - Testaments of the Twelve Patriarchs. https://www.britannica.com/topic/Testaments-of-the-Twelve-Patriarchs",
-    "100. [Academic] Christianity Stack Exchange - Why is the Book of Enoch not regarded as canonical? https://christianity.stackexchange.com/questions/8576/why-is-the-book-of-enoch-not-regarded-as-canonical",
-    "101. [Wikipedia] Psalms of Solomon. https://en.wikipedia.org/wiki/Psalms_of_Solomon",
-    "102. [Wikipedia] Against Apion. https://en.wikipedia.org/wiki/Against_Apion",
-    "103. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Septuagint Version.' https://www.newadvent.org/cathen/13722a.htm",
-    "104. [Wikipedia] Letter of Aristeas. https://en.wikipedia.org/wiki/Letter_of_Aristeas",
-    "105. [Primary Source] 'The Ascension of Isaiah.' Early Christian Writings. https://www.earlychristianwritings.com/text/ascension.html",
-    "106. [Academic] Early Jewish Writings. Martyrdom and Ascension of Isaiah. https://www.earlyjewishwritings.com/ascensionisaiah.html",
-    "107. [Primary Source] Early Christian Writings - New Testament Apocrypha. https://www.earlychristianwritings.com/apocrypha.html",
-    "108. [Encyclopedia] Britannica - New Testament apocrypha. https://www.britannica.com/topic/New-Testament-apocrypha",
-    "109. [Wikipedia] New Testament apocrypha. https://en.wikipedia.org/wiki/New_Testament_apocrypha",
-    "110. [Reference] Bible Research. The Muratorian Fragment. https://www.bible-researcher.com/muratorian.html",
-    "111. [Primary Source] Eusebius, Church History, Book III (New Advent). https://www.newadvent.org/fathers/250103.htm",
-    "112. [Primary Source] Early Christian Writings - Protoevangelium of James. https://www.earlychristianwritings.com/infancyjames.html",
-    "113. [Apologetics] Got Questions - Protoevangelium of James. https://www.gotquestions.org/Protoevangelium-of-James.html",
-    "114. [Primary Source] Early Christian Writings - Infancy Gospel of Thomas. https://www.earlychristianwritings.com/infancythomas.html",
-    "115. [Primary Source] Infancy Gospel of Thomas. New Advent. https://www.newadvent.org/fathers/0846.htm",
-    "116. [Primary Source] Early Christian Writings - Gospel of Peter. https://www.earlychristianwritings.com/gospelpeter.html",
-    "117. [Apologetics] Got Questions - Gospel of Peter. https://www.gotquestions.org/Gospel-of-Peter.html",
-    "118. [Primary Source] Early Christian Writings - Acts of Paul. https://www.earlychristianwritings.com/actspaul.html",
-    "119. [Wikipedia] Acts of Paul and Thecla. https://en.wikipedia.org/wiki/Acts_of_Paul_and_Thecla",
-    "120. [Primary Source] Early Christian Writings - Acts of John. https://www.earlychristianwritings.com/actsjohn.html",
-    "121. [Wikipedia] Development of the New Testament canon. https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon",
-    "122. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Gospel of Nicodemus.' https://www.newadvent.org/cathen/01111b.htm",
-    "123. [Wikipedia] Gospel of Nicodemus. https://en.wikipedia.org/wiki/Gospel_of_Nicodemus",
-    "124. [Wikipedia] Acts of Peter. https://en.wikipedia.org/wiki/Acts_of_Peter",
-    "125. [Primary Source] Early Christian Writings. Acts of Peter. https://www.earlychristianwritings.com/actspeter.html",
-    "126. [Wikipedia] Acts of Thomas. https://en.wikipedia.org/wiki/Acts_of_Thomas",
-    "127. [Primary Source] Early Christian Writings. Acts of Thomas. https://www.earlychristianwritings.com/actsthomas.html",
-    "128. [Wikipedia] Apocalypse of Peter. https://en.wikipedia.org/wiki/Apocalypse_of_Peter",
-    "129. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Muratorian Canon.' https://www.newadvent.org/cathen/10642a.htm",
-    "130. [Primary Source] Early Christian Writings. The Muratorian Fragment (trans. Bruce Metzger). https://earlychristianwritings.com/text/muratorian-metzger.html",
-    "131. [Wikipedia] Epistle to the Laodiceans. https://en.wikipedia.org/wiki/Epistle_to_the_Laodiceans",
-    "132. [Primary Source] Jerome, De Viris Illustribus (New Advent). https://www.newadvent.org/fathers/2708.htm"
+    "9. [Wikipedia] 'The Da Vinci Code.' https://en.wikipedia.org/wiki/The_Da_Vinci_Code",
+    "10. [Wikipedia] 'First Council of Nicaea.' https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+    "11. [Primary Source] The First Council of Nicaea: letter and canons, in Nicene and Post-Nicene Fathers. New Advent. https://www.newadvent.org/fathers/3801.htm",
+    "12. [Primary Source] Irenaeus, Against Heresies III.11, in Ante-Nicene Fathers, vol. 1. Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/anf01.ix.iv.xii.html",
+    "13. [Primary Source] The Muratorian Fragment, trans. Bruce Metzger. Early Christian Writings. https://www.earlychristianwritings.com/text/muratorian-metzger.html",
+    "14. [Primary Source] Eusebius, Church History III.25, in Nicene and Post-Nicene Fathers. Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/npnf201.iii.viii.xxv.html",
+    "15. [Primary Source] Athanasius, Festal Letter 39 (367), in Nicene and Post-Nicene Fathers. Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/npnf204.xxv.iii.iii.xxv.html",
+    "16. [Wikipedia] Development of the New Testament canon. https://en.wikipedia.org/wiki/Development_of_the_New_Testament_canon",
+    "17. [Primary Source] Eusebius, Life of Constantine IV.36. New Advent. https://www.newadvent.org/fathers/25024.htm",
+    "18. [Wikipedia] 'Bart D. Ehrman.' https://en.wikipedia.org/wiki/Bart_D._Ehrman",
+    "19. [Lexicon] Bible Hub. Greek 2315, theopneustos. https://biblehub.com/greek/2315.htm",
+    "20. [Commentary] Commentaries on 2 Timothy 3:16. Bible Hub. https://biblehub.com/commentaries/2_timothy/3-16.htm",
+    "21. [Primary Source] Second Vatican Council, Dei Verbum, section 11 (1965). Holy See. https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html",
+    "22. [Primary Source] USCCB - Books of the Bible. https://www.usccb.org/bible/books-of-the-bible",
+    "23. [Encyclopedia] Britannica - Tanakh. https://www.britannica.com/topic/Tanakh",
+    "24. [Encyclopedia] 'BIBLE CANON.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/view.jsp?artid=1025&letter=B&search=Bible%20canon",
+    "25. [Primary Source] Babylonian Talmud, Bava Batra 14b. Sefaria. https://www.sefaria.org/Bava_Batra.14b",
+    "26. [Wikipedia] 'Baba Bathra.' https://en.wikipedia.org/wiki/Baba_Bathra",
+    "27. [Wikipedia] 'Development of the Hebrew Bible canon.' https://en.wikipedia.org/wiki/Development_of_the_Hebrew_Bible_canon",
+    "28. [Encyclopedia] Britannica - Old Testament: The Apocrypha. https://www.britannica.com/topic/Old-Testament/The-Apocrypha",
+    "29. [Apologetics] Christianity.com - What is the Septuagint? https://www.christianity.com/wiki/bible/what-is-the-septuagint.html",
+    "30. [Academic] Logos. 'What Is the Septuagint and Is It Valuable for Bible Study?' https://www.logos.com/grow/what-is-the-septuagint-and-why-is-it-valuable-for-bible-study/",
+    "31. [Encyclopedia] Britannica - Saint Jerome: Biblical scholar. https://www.britannica.com/biography/Saint-Jerome/Biblical-scholar",
+    "32. [Encyclopedia] New Advent - Canon of the Old Testament. https://www.newadvent.org/cathen/03267a.htm",
+    "33. [Encyclopedia] Britannica - Council of Trent. https://www.britannica.com/event/Council-of-Trent",
+    "34. [Primary Source] Council of Basel-Ferrara-Florence (1431-45). Papal Encyclicals Online. https://www.papalencyclicals.net/councils/ecum17.htm",
+    "35. [Primary Source] Council of Trent. 'Fourth Session, on the Canonical Scriptures.' https://www.ccel.org/ccel/schaff/creeds2.v.i.i.ii.html",
+    "36. [Wikipedia] 'Council of Florence.' https://en.wikipedia.org/wiki/Council_of_Florence",
+    "37. [Encyclopedia] Britannica. 'Book of Tobit.' https://www.britannica.com/topic/Tobit-biblical-literature",
+    "38. [Wikipedia] Book of Tobit. https://en.wikipedia.org/wiki/Book_of_Tobit",
+    "39. [Apologetics] Got Questions - Book of Judith. https://www.gotquestions.org/book-of-Judith.html",
+    "40. [Encyclopedia] Britannica - Book of Judith. https://www.britannica.com/topic/Book-of-Judith",
+    "41. [Wikipedia] Book of Wisdom. https://en.wikipedia.org/wiki/Book_of_Wisdom",
+    "42. [Encyclopedia] Britannica - Wisdom of Solomon (Old Testament book). https://www.britannica.com/topic/Wisdom-of-Solomon",
+    "43. [Wikipedia] 2 Maccabees. https://en.wikipedia.org/wiki/2_Maccabees",
+    "44. [Apologetics] Catholic Answers - Purgatory. https://www.catholic.com/encyclopedia/purgatory",
+    "45. [Wikipedia] Ketuvim. https://en.wikipedia.org/wiki/Ketuvim",
+    "46. [Commentary] Gill's Exposition of the Bible - Hebrews 11:35. https://www.biblestudytools.com/commentaries/gills-exposition-of-the-bible/hebrews-11-35.html",
+    "47. [Wikipedia] Additions to Daniel. https://en.wikipedia.org/wiki/Additions_to_Daniel",
+    "48. [Wikipedia] Book of Esther (Greek additions). https://en.wikipedia.org/wiki/Additions_to_Esther",
+    "49. [Encyclopedia] 'ESDRAS, BOOKS OF.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/view.jsp?artid=463&letter=E&search=Books%20of%20Esdras",
+    "50. [Wikipedia] '1 Esdras.' https://en.wikipedia.org/wiki/1_Esdras",
+    "51. [Academic] Gutman. The Prayer of Manasseh. The Oxford Handbook of the Apocrypha, 2021. https://doi.org/10.1093/oxfordhb/9780190689643.013.20",
+    "52. [Wikipedia] 'Prayer of Manasseh.' https://en.wikipedia.org/wiki/Prayer_of_Manasseh",
+    "53. [Wikipedia] Psalm 151. https://en.wikipedia.org/wiki/Psalm_151",
+    "54. [Academic] Goff. David Singing at the End of the Psalter. The Apocrypha: A Guide, 2024. https://doi.org/10.1093/9780190060770.003.0014",
+    "55. [Encyclopedia] 'MACCABEES, BOOKS OF.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/articles/10237-maccabees-books-of",
+    "56. [Wikipedia] '3 Maccabees.' https://en.wikipedia.org/wiki/3_Maccabees",
+    "57. [Academic] van Henten et al. 4 Maccabees. Oxford Classical Dictionary, 2025. https://doi.org/10.1093/acrefore/9780199381135.013.9080",
+    "58. [Wikipedia] '4 Maccabees.' https://en.wikipedia.org/wiki/4_Maccabees",
+    "59. [Wikipedia] Meqabyan. https://en.wikipedia.org/wiki/Meqabyan",
+    "60. [Encyclopedia] 'JOSEPH BEN GORION.' Jewish Encyclopedia (1906). https://www.jewishencyclopedia.com/view.jsp?artid=473&letter=J",
+    "61. [Wikipedia] 'Josippon.' https://en.wikipedia.org/wiki/Josippon",
+    "62. [Primary Source] Early Christian Writings - Gnostic Texts. https://www.earlychristianwritings.com/gnostics.html",
+    "63. [Encyclopedia] Britannica - Gnosticism. https://www.britannica.com/topic/Gnosticism",
+    "64. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Demiurge.' https://www.newadvent.org/cathen/04707b.htm",
+    "65. [Wikipedia] 'Demiurge.' https://en.wikipedia.org/wiki/Demiurge",
+    "66. [Apologetics] Got Questions - Nag Hammadi Library. https://www.gotquestions.org/Nag-Hammadi.html",
+    "67. [Wikipedia] Docetism. https://en.wikipedia.org/wiki/Docetism",
+    "68. [Apologetics] Got Questions - Gospel of Thomas. https://www.gotquestions.org/Gospel-of-Thomas.html",
+    "69. [Primary Source] Early Christian Writings - Gospel of Thomas. https://www.earlychristianwritings.com/thomas.html",
+    "70. [Primary Source] Early Christian Writings - Gospel of Judas. https://www.earlychristianwritings.com/gospeljudas.html",
+    "71. [Wikipedia] Gospel of Judas. https://en.wikipedia.org/wiki/Gospel_of_Judas",
+    "72. [Primary Source] Early Christian Writings - Gospel of Mary. https://www.earlychristianwritings.com/gospelmary.html",
+    "73. [Encyclopedia] EBSCO Research Starters. 'The Gospel of Mary of Magdala.' https://www.ebsco.com/research-starters/literature-and-writing/gospel-mary-magdala-karen-l-king",
+    "74. [Primary Source] Early Christian Writings - Gospel of Philip. https://www.earlychristianwritings.com/gospelphilip.html",
+    "75. [Apologetics] Got Questions - Gospel of Philip. https://www.gotquestions.org/Gospel-of-Philip.html",
+    "76. [Apologetics] Stand to Reason. 'Why Are the Gnostic Gospels Left Out?' https://www.str.org/w/why-are-the-gnostic-gospels-left-out-of-the-bible-",
+    "77. [Wikipedia] Apocryphon of John. https://en.wikipedia.org/wiki/Apocryphon_of_John",
+    "78. [Primary Source] Irenaeus, Against Heresies I.29 (New Advent). https://www.newadvent.org/fathers/0103129.htm",
+    "79. [Primary Source] 'Gospel of Truth.' Early Christian Writings. https://www.earlychristianwritings.com/text/gospeltruth-attridge.html",
+    "80. [Wikipedia] 'Gospel of Truth.' https://en.wikipedia.org/wiki/Gospel_of_Truth",
+    "81. [Primary Source] Irenaeus, Against Heresies III.11 (New Advent). https://www.newadvent.org/fathers/0103311.htm",
+    "82. [Primary Source] 'Introduction – Pistis Sophia – Gnosticism and Hermetica.' Internet Sacred Text Archive. https://www.sacred-texts.com/chr/ps/ps003.htm",
+    "83. [Wikipedia] 'Pistis Sophia.' https://en.wikipedia.org/wiki/Pistis_Sophia",
+    "84. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Gnosticism.' https://www.newadvent.org/cathen/06592a.htm",
+    "85. [Primary Source] 'Schaff, History of the Christian Church, Volume II: Ante-Nicene Christianity. A.D. 100-325.' Christian Classics Ethereal Library. https://www.ccel.org/ccel/schaff/hcc2.v.xv.iv.html",
+    "86. [Wikipedia] 'Apostolic Fathers.' https://en.wikipedia.org/wiki/Apostolic_Fathers",
+    "87. [Encyclopedia] New Advent, Catholic Encyclopedia. Docetae. https://www.newadvent.org/cathen/05070c.htm",
+    "88. [Encyclopedia] New Advent. 'The Apostolic Fathers.' https://www.newadvent.org/cathen/01637a.htm",
+    "89. [Primary Source] Polycarp, Epistle to the Philippians (New Advent). https://www.newadvent.org/fathers/0136.htm",
+    "90. [Primary Source] Early Christian Writings - The Didache. https://www.earlychristianwritings.com/didache.html",
+    "91. [Apologetics] Got Questions - The Didache. https://www.gotquestions.org/Didache.html",
+    "92. [Primary Source] Early Christian Writings - 1 Clement. https://www.earlychristianwritings.com/1clement.html",
+    "93. [Primary Source] New Advent - 1 Clement (Primary Source Text). https://www.newadvent.org/fathers/1010.htm",
+    "94. [Primary Source] Early Christian Writings - Shepherd of Hermas. https://www.earlychristianwritings.com/shepherd.html",
+    "95. [Apologetics] Got Questions - Shepherd of Hermas. https://www.gotquestions.org/Shepherd-of-Hermas.html",
+    "96. [Primary Source] Early Christian Writings - Epistle of Barnabas. https://www.earlychristianwritings.com/barnabas.html",
+    "97. [Apologetics] Got Questions - Epistle of Barnabas. https://www.gotquestions.org/Epistle-of-Barnabas.html",
+    "98. [Primary Source] New Advent - Athanasius' 39th Festal Letter (Primary Source). https://www.newadvent.org/fathers/2806039.htm",
+    "99. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. Ignatius of Antioch.' https://www.newadvent.org/cathen/07644a.htm",
+    "100. [Wikipedia] 'Ignatius of Antioch.' https://en.wikipedia.org/wiki/Ignatius_of_Antioch",
+    "101. [Primary Source] Ignatius, Epistle to the Romans (New Advent). https://www.newadvent.org/fathers/0107.htm",
+    "102. [Primary Source] Martyrdom of Polycarp. New Advent. https://www.newadvent.org/fathers/0102.htm",
+    "103. [Wikipedia] 'Martyrdom of Polycarp.' https://en.wikipedia.org/wiki/Martyrdom_of_Polycarp",
+    "104. [Wikipedia] Polycarp. https://en.wikipedia.org/wiki/Polycarp",
+    "105. [Primary Source] Epistle to Diognetus (New Advent). https://www.newadvent.org/fathers/0101.htm",
+    "106. [Primary Source] 'Epistle of Mathetes to Diognetus.' Early Christian Writings. https://www.earlychristianwritings.com/diognetus.html",
+    "107. [Wikipedia] 'Epistle to Diognetus.' https://en.wikipedia.org/wiki/Epistle_to_Diognetus",
+    "108. [Encyclopedia] Britannica - Pseudepigrapha. https://www.britannica.com/topic/pseudepigrapha",
+    "109. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Apocrypha.' https://www.newadvent.org/cathen/01601a.htm",
+    "110. [Apologetics] Got Questions - Book of Enoch. https://www.gotquestions.org/book-of-Enoch.html",
+    "111. [Wikipedia] Epistle of Jude. https://en.wikipedia.org/wiki/Epistle_of_Jude",
+    "112. [Apologetics] Got Questions - Assumption of Moses. https://www.gotquestions.org/Assumption-of-Moses.html",
+    "113. [Wikipedia] Book of Enoch. https://en.wikipedia.org/wiki/Book_of_Enoch",
+    "114. [Wikipedia] Enoch Calendar. https://en.wikipedia.org/wiki/Enoch_calendar",
+    "115. [Apologetics] Got Questions - Book of Jubilees. https://www.gotquestions.org/book-of-Jubilees.html",
+    "116. [Encyclopedia] Britannica - Book of Jubilees. https://www.britannica.com/topic/Book-of-Jubilees",
+    "117. [Encyclopedia] Britannica - Testaments of the Twelve Patriarchs. https://www.britannica.com/topic/Testaments-of-the-Twelve-Patriarchs",
+    "118. [Academic] Christianity Stack Exchange - Why is the Book of Enoch not regarded as canonical? https://christianity.stackexchange.com/questions/8576/why-is-the-book-of-enoch-not-regarded-as-canonical",
+    "119. [Wikipedia] Psalms of Solomon. https://en.wikipedia.org/wiki/Psalms_of_Solomon",
+    "120. [Wikipedia] Against Apion. https://en.wikipedia.org/wiki/Against_Apion",
+    "121. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Septuagint Version.' https://www.newadvent.org/cathen/13722a.htm",
+    "122. [Wikipedia] 'Septuagint.' https://en.wikipedia.org/wiki/Septuagint",
+    "123. [Wikipedia] Letter of Aristeas. https://en.wikipedia.org/wiki/Letter_of_Aristeas",
+    "124. [Primary Source] 'The Ascension of Isaiah.' Early Christian Writings. https://www.earlychristianwritings.com/text/ascension.html",
+    "125. [Wikipedia] 'Ascension of Isaiah.' https://en.wikipedia.org/wiki/Ascension_of_Isaiah",
+    "126. [Academic] Early Jewish Writings. Martyrdom and Ascension of Isaiah. https://www.earlyjewishwritings.com/ascensionisaiah.html",
+    "127. [Primary Source] Early Christian Writings - New Testament Apocrypha. https://www.earlychristianwritings.com/apocrypha.html",
+    "128. [Encyclopedia] Britannica - New Testament apocrypha. https://www.britannica.com/topic/New-Testament-apocrypha",
+    "129. [Wikipedia] New Testament apocrypha. https://en.wikipedia.org/wiki/New_Testament_apocrypha",
+    "130. [Reference] Bible Research. The Muratorian Fragment. https://www.bible-researcher.com/muratorian.html",
+    "131. [Primary Source] Eusebius, Church History, Book III (New Advent). https://www.newadvent.org/fathers/250103.htm",
+    "132. [Primary Source] Early Christian Writings - Protoevangelium of James. https://www.earlychristianwritings.com/infancyjames.html",
+    "133. [Apologetics] Got Questions - Protoevangelium of James. https://www.gotquestions.org/Protoevangelium-of-James.html",
+    "134. [Primary Source] Early Christian Writings - Infancy Gospel of Thomas. https://www.earlychristianwritings.com/infancythomas.html",
+    "135. [Primary Source] Infancy Gospel of Thomas. New Advent. https://www.newadvent.org/fathers/0846.htm",
+    "136. [Wikipedia] 'Infancy Gospel of Thomas.' https://en.wikipedia.org/wiki/Infancy_Gospel_of_Thomas",
+    "137. [Primary Source] Early Christian Writings - Gospel of Peter. https://www.earlychristianwritings.com/gospelpeter.html",
+    "138. [Apologetics] Got Questions - Gospel of Peter. https://www.gotquestions.org/Gospel-of-Peter.html",
+    "139. [Primary Source] Early Christian Writings - Acts of Paul. https://www.earlychristianwritings.com/actspaul.html",
+    "140. [Wikipedia] Acts of Paul and Thecla. https://en.wikipedia.org/wiki/Acts_of_Paul_and_Thecla",
+    "141. [Primary Source] Early Christian Writings - Acts of John. https://www.earlychristianwritings.com/actsjohn.html",
+    "142. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Gospel of Nicodemus.' https://www.newadvent.org/cathen/01111b.htm",
+    "143. [Wikipedia] Gospel of Nicodemus. https://en.wikipedia.org/wiki/Gospel_of_Nicodemus",
+    "144. [Wikipedia] Acts of Peter. https://en.wikipedia.org/wiki/Acts_of_Peter",
+    "145. [Primary Source] Early Christian Writings. Acts of Peter. https://www.earlychristianwritings.com/actspeter.html",
+    "146. [Wikipedia] Acts of Thomas. https://en.wikipedia.org/wiki/Acts_of_Thomas",
+    "147. [Primary Source] Early Christian Writings. Acts of Thomas. https://www.earlychristianwritings.com/actsthomas.html",
+    "148. [Wikipedia] Apocalypse of Peter. https://en.wikipedia.org/wiki/Apocalypse_of_Peter",
+    "149. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Muratorian Canon.' https://www.newadvent.org/cathen/10642a.htm",
+    "150. [Wikipedia] Epistle to the Laodiceans. https://en.wikipedia.org/wiki/Epistle_to_the_Laodiceans",
+    "151. [Commentary] Commentaries on Colossians 4:16. Bible Hub. https://biblehub.com/commentaries/colossians/4-16.htm",
+    "152. [Primary Source] Jerome, De Viris Illustribus (New Advent). https://www.newadvent.org/fathers/2708.htm"
   ],
   timeline: canonTimeline,
   lastUpdated: "30-10-2026",

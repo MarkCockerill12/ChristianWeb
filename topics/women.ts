@@ -346,13 +346,13 @@ The Gospels record behaviour that was socially costly and that the writers had n
 
 **Women funded and travelled with the ministry.** Luke 8:1 to 3 names Mary Magdalene, Joanna and Susanna among many who supported Jesus and the Twelve out of their own means. An itinerant rabbi's mixed travelling group was irregular, and Luke states it plainly[^83].
 
-**He taught women as disciples.** Mary of Bethany sits at his feet, the posture of a student with a teacher, and when Martha objects Jesus defends Mary's choice as the better one. Rabbinic instruction of women was not the norm, and the scene is a deliberate endorsement[^84].
+**He taught women as disciples.** Mary of Bethany sits at his feet, the posture of a student with a teacher, and when Martha objects Jesus defends Mary's choice as the better one. Rabbinic instruction of women was not the norm, and the scene is a deliberate endorsement[^84][^85].
 
-**He defended women publicly against the men in charge.** He healed a crippled woman on the Sabbath and called her a daughter of Abraham, a title found nowhere else in the Gospels, in direct rebuke of the synagogue ruler. He refused to join the condemnation of the woman taken in adultery and turned the question back on her accusers, whose selective application of the law had ignored the man. This account (John 7:53 to 8:11) is absent from the earliest manuscripts of John, though many scholars regard it as an authentic early tradition[^85][^86].
+**He defended women publicly against the men in charge.** He healed a crippled woman on the Sabbath and called her a daughter of Abraham, a title found nowhere else in the Gospels, in direct rebuke of the synagogue ruler. He refused to join the condemnation of the woman taken in adultery and turned the question back on her accusers, whose selective application of the law had ignored the man. This account (John 7:53 to 8:11) is absent from the earliest manuscripts of John, though many scholars regard it as an authentic early tradition[^86][^87].
 
-**He broke purity conventions rather than enforce them.** The woman with the twelve-year haemorrhage was permanently unclean and her touch should have defiled him. He does not rebuke her; he calls her daughter and tells her that her faith has healed her[^87].
+**He broke purity conventions rather than enforce them.** The woman with the twelve-year haemorrhage was permanently unclean and her touch should have defiled him. He does not rebuke her; he calls her daughter and tells her that her faith has healed her[^88].
 
-**His longest recorded conversation is with a Samaritan woman.** The disciples' surprise is recorded in the text. She receives the explicit self-disclosure that he is the Messiah, and she brings her town to him[^88].
+**His longest recorded conversation is with a Samaritan woman.** The disciples' surprise is recorded in the text. She receives the explicit self-disclosure that he is the Messiah, and she brings her town to him[^85].
 
 **He tightened divorce law in women's favour.** Asked about the Mosaic permission, he called it a concession to hardness of heart and restricted it, which in that setting removed a man's latitude to dismiss a wife at will[^89].
 
@@ -439,9 +439,9 @@ The historical record is measurable in places, and it is not uniformly to the Ch
 
 **The institutional route.** For most of European history, the convent was the only path available to a woman that offered literacy, a role outside marriage and childbearing, corporate property, and authority over adults of both sexes. Abbesses held jurisdiction that in some cases approached episcopal scope. Whatever else is said about monasticism, it was the one structure in medieval Europe in which women governed[^145][^146].
 
-**Reform and mission.** Susanna Wesley educated her daughters as she educated her sons and led services in her kitchen that outdrew her husband's church. Josephine Butler, arguing from Christian premises, broke the Contagious Diseases Acts that subjected suspected prostitutes to forced examination while leaving their clients alone. Catherine Booth co-founded the Salvation Army and preached as a matter of course, and the movement commissioned women as officers from the beginning. Amy Carmichael spent fifty-five years in south India sheltering girls sold into temple prostitution. Mary Slessor worked against the killing of twin infants in Calabar and was appointed a vice-consul, an office no woman had held. Lottie Moon's letters from China forced her own denomination to take women's mission work seriously. Missionary pressure was a significant factor in the legal ending of widow burning in British India[^147][^148][^149][^150][^151][^152][^153].
+**Reform and mission.** Susanna Wesley educated her daughters as she educated her sons and led services in her kitchen that outdrew her husband's church. Josephine Butler, arguing from Christian premises, broke the Contagious Diseases Acts that subjected suspected prostitutes to forced examination while leaving their clients alone. Catherine Booth co-founded the Salvation Army and preached as a matter of course, and the movement commissioned women as officers from the beginning. Amy Carmichael spent fifty-five years in south India sheltering girls sold into temple prostitution. Mary Slessor worked against the killing of twin infants in Calabar and was appointed a vice-consul, an office no woman had held. Lottie Moon's letters from China forced her own denomination to take women's mission work seriously. Missionary pressure was a significant factor in the legal ending of widow burning in British India[^147][^148][^149][^150][^151][^152][^153][^154].
 
-**The other side of the ledger.** Between roughly 1450 and 1750 more than a hundred thousand people were prosecuted for witchcraft in Europe and colonial America, the great majority of them women, by Catholic and Protestant courts alike, with Exodus 22:18 and Leviticus 20:27 quoted in the indictments. The *Malleus Maleficarum* argued from women's supposed weakness of mind and body that they were the likelier party to a pact with the devil. English common law's doctrine of coverture, which extinguished a wife's separate legal personality on marriage and was systematised in Blackstone's *Commentaries*, was routinely defended from Scripture. Neither can be blamed on secular thought, and neither has an excuse. The pattern in both cases is Scripture pressed into the service of a prior cultural assumption, which is the standing danger in this whole area[^154][^155][^156][^157].
+**The other side of the ledger.** Between roughly 1450 and 1750 more than a hundred thousand people were prosecuted for witchcraft in Europe and colonial America, the great majority of them women, by Catholic and Protestant courts alike, with Exodus 22:18 and Leviticus 20:27 quoted in the indictments. The *Malleus Maleficarum* argued from women's supposed weakness of mind and body that they were the likelier party to a pact with the devil. English common law's doctrine of coverture, which extinguished a wife's separate legal personality on marriage and was systematised in Blackstone's *Commentaries*, was routinely defended from Scripture. Neither can be blamed on secular thought, and neither has an excuse. The pattern in both cases is Scripture pressed into the service of a prior cultural assumption, which is the standing danger in this whole area[^155][^156][^157][^158].
 
 **See also:** [The Church's Own Record (What Christianity Has Done for the World)](/categories/christianity-and-the-world#section-the-churchs-record).
 `
@@ -453,15 +453,15 @@ The historical record is measurable in places, and it is not uniformly to the Ch
       content: `
 Several things should be conceded rather than argued around.
 
-**The Old Testament legal framework is patriarchal in structure.** Inheritance runs through sons, vows are subject to a father or husband, a daughter's sexual status is treated as attached to her father's household, and no provision exists for a wife to initiate divorce. Individual laws inside that framework restrain abuse and some of them are strikingly humane for their period. The framework itself is not egalitarian and saying otherwise is not honest[^158].
+**The Old Testament legal framework is patriarchal in structure.** Inheritance runs through sons, vows are subject to a father or husband, a daughter's sexual status is treated as attached to her father's household, and no provision exists for a wife to initiate divorce. Individual laws inside that framework restrain abuse and some of them are strikingly humane for their period. The framework itself is not egalitarian and saying otherwise is not honest[^159].
 
-**Some texts have no satisfying explanation.** The doubled purification period after the birth of a daughter is the clearest case. Every account of it is speculation, and a Christian answer that presents one of those accounts as established has overstated its hand[^159].
+**Some texts have no satisfying explanation.** The doubled purification period after the birth of a daughter is the clearest case. Every account of it is speculation, and a Christian answer that presents one of those accounts as established has overstated its hand[^160].
 
-**The best answers are historical rather than moral.** Most of the successful defences of these passages establish that a law was better than its alternatives, that it limited a practice rather than authorising it, or that it protected someone who would otherwise have had no protection. That is a real defence and it is not the same as saying the arrangement was good. The Christian claim is that revelation met a particular society where it was and moved it, not that every stage of the movement was the destination[^160].
+**The best answers are historical rather than moral.** Most of the successful defences of these passages establish that a law was better than its alternatives, that it limited a practice rather than authorising it, or that it protected someone who would otherwise have had no protection. That is a real defence and it is not the same as saying the arrangement was good. The Christian claim is that revelation met a particular society where it was and moved it, not that every stage of the movement was the destination[^161].
 
-**Progressive revelation is a real principle and it can be abused.** It explains why the Law tolerates what the prophets condemn and the New Testament ends. It becomes an evasion the moment it is used to dissolve any inconvenient command, and the discipline that keeps it honest is that the trajectory has to be visible in the text itself, as it is with divorce, with slavery, and with monogamy[^161].
+**Progressive revelation is a real principle and it can be abused.** It explains why the Law tolerates what the prophets condemn and the New Testament ends. It becomes an evasion the moment it is used to dissolve any inconvenient command, and the discipline that keeps it honest is that the trajectory has to be visible in the text itself, as it is with divorce, with slavery, and with monogamy[^162].
 
-**The Church's record is mixed and the failures are its own.** The witch trials and the scriptural defence of coverture were not lapses into secularism. They were done by Christians, using the Bible. The same tradition produced Butler and Carmichael and the abolition of infant exposure. Both belong in the account, and the honest version of the Christian case is stronger for including the second column[^162].
+**The Church's record is mixed and the failures are its own.** The witch trials and the scriptural defence of coverture were not lapses into secularism. They were done by Christians, using the Bible. The same tradition produced Butler and Carmichael and the abolition of infant exposure. Both belong in the account, and the honest version of the Christian case is stronger for including the second column[^163].
 `
     }
   ],
@@ -559,10 +559,10 @@ Several things should be conceded rather than argued around.
     "82. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Anna.' The prophetess in the temple. https://www.newadvent.org/cathen/01530c.htm",
     "83. [Commentary] Bible Hub. 'Commentaries on Luke 8:3.' The women who funded the ministry out of their own means. https://biblehub.com/commentaries/luke/8-3.htm",
     "84. [Commentary] Bible Hub. 'Commentaries on Luke 10:39.' Mary seated at the Lord's feet as a disciple. https://biblehub.com/commentaries/luke/10-39.htm",
-    "85. [Commentary] Bible Hub. 'Commentaries on Luke 13:16.' A daughter of Abraham healed on the Sabbath. https://biblehub.com/commentaries/luke/13-16.htm",
-    "86. [Commentary] Bible Hub. 'Commentaries on John 8:7.' https://biblehub.com/commentaries/john/8-7.htm",
-    "87. [Commentary] Bible Hub. 'Commentaries on Mark 5:25.' The woman with the haemorrhage and the purity convention. https://biblehub.com/commentaries/mark/5-25.htm",
-    "88. [Commentary] Bible Hub. 'Commentaries on John 4:27.' The disciples' surprise at the conversation with the Samaritan woman. https://biblehub.com/commentaries/john/4-27.htm",
+    "85. [Commentary] Bible Hub. 'Commentaries on John 4:27.' The disciples' surprise at the conversation with the Samaritan woman. https://biblehub.com/commentaries/john/4-27.htm",
+    "86. [Commentary] Bible Hub. 'Commentaries on Luke 13:16.' A daughter of Abraham healed on the Sabbath. https://biblehub.com/commentaries/luke/13-16.htm",
+    "87. [Commentary] Bible Hub. 'Commentaries on John 8:7.' https://biblehub.com/commentaries/john/8-7.htm",
+    "88. [Commentary] Bible Hub. 'Commentaries on Mark 5:25.' The woman with the haemorrhage and the purity convention. https://biblehub.com/commentaries/mark/5-25.htm",
     "89. [Commentary] Bible Hub. 'Commentaries on Matthew 19:3.' The Hillel and Shammai dispute over divorce for any cause. https://biblehub.com/commentaries/matthew/19-3.htm",
     "90. [Commentary] Bible Hub. 'Commentaries on Matthew 28:1.' The women at the tomb. https://biblehub.com/commentaries/matthew/28-1.htm",
     "91. [Commentary] Bible Hub. 'Commentaries on John 20:16.' Mary Magdalene commissioned to announce the resurrection. https://biblehub.com/commentaries/john/20-16.htm",
@@ -628,15 +628,16 @@ Several things should be conceded rather than argued around.
     "151. [Wikipedia] Mary Slessor. https://en.wikipedia.org/wiki/Mary_Slessor",
     "152. [Wikipedia] Lottie Moon. https://en.wikipedia.org/wiki/Lottie_Moon",
     "153. [Academic] 'The Representation of Sati.' University of Texas at Austin. https://www.laits.utexas.edu/solvyns-project/Satiart.rft.html",
-    "154. [Reference] Research Guides. 'Witch Trials and Witchcraft.' Scale of the prosecutions and the sources. https://guides.loc.gov/feminism-french-women-history/witch-trials-witchcraft",
-    "155. [Archaeology] English Heritage. 'Witchcraft: Eight Myths and Misconceptions.' https://www.english-heritage.org.uk/learn/histories/eight-witchcraft-myths/",
-    "156. [Wikipedia] Feminist interpretations of witch trials in the early modern period. The Malleus Maleficarum and the gendering of accusations. https://en.wikipedia.org/wiki/Feminist_interpretations_of_witch_trials_in_the_early_modern_period",
-    "157. [Wikipedia] Coverture. The extinction of a wife's separate legal personality, and Blackstone's formulation. https://en.wikipedia.org/wiki/Coverture",
-    "158. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Divorce in Civil Jurisprudence.' The asymmetry of divorce rights across legal traditions. https://www.newadvent.org/cathen/05064a.htm",
-    "159. [Commentary] Thinking Torah. Shlomo Skinner, 'Leviticus 12:5: A Daughter is Born.' Survey of the proposed explanations for the doubled period. https://thinkingtorah.com/leviticus-12-5-a-daughter-is-born/",
-    "160. [Academic] Journal of the Evangelical Theological Society 47/2 (2004). Wayne Grudem, 'Should We Move Beyond the New Testament to a Better Ethic? An Analysis of William J. Webb, Slaves, Women and Homosexuals.' https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-2_47-2-pp299-346_JETS.pdf",
-    "161. [Wikipedia] Progressive revelation (Christianity). https://en.wikipedia.org/wiki/Progressive_revelation_(Christianity)",
-    "162. [Wikipedia] Infanticide. Christianity and the abolition of infant exposure in Roman law. https://en.wikipedia.org/wiki/Infanticide"
+    "154. [Wikipedia] 'Sati (practice).' https://en.wikipedia.org/wiki/Sati_(practice)",
+    "155. [Reference] Research Guides. 'Witch Trials and Witchcraft.' Scale of the prosecutions and the sources. https://guides.loc.gov/feminism-french-women-history/witch-trials-witchcraft",
+    "156. [Archaeology] English Heritage. 'Witchcraft: Eight Myths and Misconceptions.' https://www.english-heritage.org.uk/learn/histories/eight-witchcraft-myths/",
+    "157. [Wikipedia] Feminist interpretations of witch trials in the early modern period. The Malleus Maleficarum and the gendering of accusations. https://en.wikipedia.org/wiki/Feminist_interpretations_of_witch_trials_in_the_early_modern_period",
+    "158. [Wikipedia] Coverture. The extinction of a wife's separate legal personality, and Blackstone's formulation. https://en.wikipedia.org/wiki/Coverture",
+    "159. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Divorce in Civil Jurisprudence.' The asymmetry of divorce rights across legal traditions. https://www.newadvent.org/cathen/05064a.htm",
+    "160. [Commentary] Thinking Torah. Shlomo Skinner, 'Leviticus 12:5: A Daughter is Born.' Survey of the proposed explanations for the doubled period. https://thinkingtorah.com/leviticus-12-5-a-daughter-is-born/",
+    "161. [Academic] Journal of the Evangelical Theological Society 47/2 (2004). Wayne Grudem, 'Should We Move Beyond the New Testament to a Better Ethic? An Analysis of William J. Webb, Slaves, Women and Homosexuals.' https://etsjets.org/wp-content/uploads/2010/06/files_JETS-PDFs_47_47-2_47-2-pp299-346_JETS.pdf",
+    "162. [Wikipedia] Progressive revelation (Christianity). https://en.wikipedia.org/wiki/Progressive_revelation_(Christianity)",
+    "163. [Wikipedia] Infanticide. Christianity and the abolition of infant exposure in Roman law. https://en.wikipedia.org/wiki/Infanticide"
   ],
   lastUpdated: "30-10-2026",
 }
