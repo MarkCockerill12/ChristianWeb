@@ -168,15 +168,15 @@ None of the good above cancels what follows, all of which was done by Christians
 
 **Africa and Asia before most of Europe.**
 
-* **Armenia** became the first state to adopt Christianity, in 301[^109].
-* **Ethiopia.** King Ezana of Aksum embraced Christianity in the fourth century[^110][^111], and his church has an unbroken history to this day, long before most of northern Europe converted.
-* **North Africa** produced Tertullian, Cyprian and Augustine, among the most influential thinkers in Christian history[^112].
-* **India.** The Saint Thomas Christians trace their origin to the apostle Thomas in the first century, though historians dispute that visit[^113][^114].
-* **China.** A stone stele set up in 781 records the Church of the East at work in Tang China[^115].
+* **Armenia** became the first state to adopt Christianity, traditionally in 301 and by many historians around 314[^109][^110].
+* **Ethiopia.** King Ezana of Aksum embraced Christianity in the fourth century[^111][^112], and his church has an unbroken history to this day, long before most of northern Europe converted.
+* **North Africa** produced Tertullian, Cyprian and Augustine, among the most influential thinkers in Christian history[^113].
+* **India.** The Saint Thomas Christians trace their origin to the apostle Thomas in the first century, though historians dispute that visit[^114][^115].
+* **China.** A stone stele set up in 781 records the Church of the East at work in Tang China[^116][^117].
 
-**What the enslaved saw.** Enslaved Africans in America met in secret to worship, in what were known as hush harbours[^116]. They knew the difference between Christ and their masters' religion. Frederick Douglass, who escaped slavery, wrote: "between the Christianity of this land, and the Christianity of Christ, I recognize the widest possible difference"[^117]. The Black church went on to lead the American civil rights movement.
+**What the enslaved saw.** Enslaved Africans in America met in secret to worship, in what were known as hush harbours[^118][^119]. They knew the difference between Christ and their masters' religion. Frederick Douglass, who escaped slavery, wrote: "between the Christianity of this land, and the Christianity of Christ, I recognize the widest possible difference"[^120]. The Black church went on to lead the American civil rights movement.
 
-**Today.** Christians are now a majority in every region of the world except Asia-Pacific and the Middle East and North Africa[^118], and the faith is held by people of every colour.
+**Today.** Christians are now a majority in every region of the world except Asia-Pacific and the Middle East and North Africa[^121], and the faith is held by people of every colour.
 
 **What is fair in the objection.** Missionaries often carried colonial assumptions with the gospel, and some churches blessed conquest and slavery, including through the [misuse of the curse of Ham](/categories/slavery). That is a charge against those Christians, and the New Testament is the ground on which it can be made: "there is neither Jew nor Gentile, neither slave nor free" (Galatians 3:28).
 `,
@@ -186,9 +186,9 @@ None of the good above cancels what follows, all of which was done by Christians
       title: "Has Christianity Done More Harm Than Good?",
       tags: ["History", "Objections"],
       content: `
-**"Religion causes most wars."** It does not. The *Encyclopedia of Wars* classifies 121 of 1,763 recorded conflicts, about 7 per cent, as primarily religious[^119]. Many wars have mixed motives, and counts of this sort are rough, but the claim as stated is false.
+**"Religion causes most wars."** It does not. The *Encyclopedia of Wars* classifies 121 of 1,763 recorded conflicts, about 7 per cent, as primarily religious[^122]. Many wars have mixed motives, and counts of this sort are rough, but the claim as stated is false.
 
-**Removing Christianity did not remove the killing.** Regimes committed to state atheism killed on a scale no religious persecution matched. *The Black Book of Communism* estimates more than 94 million deaths, a figure that scholars dispute, while no one disputes that the toll ran to many millions[^120]. This does not excuse a single Christian crime. It shows that the problem lies in human beings, which is what Christianity has always said.
+**Removing Christianity did not remove the killing.** Regimes committed to state atheism killed on a scale no religious persecution matched. *The Black Book of Communism* estimates more than 94 million deaths, a figure that scholars dispute, while no one disputes that the toll ran to many millions[^123]. This does not excuse a single Christian crime. It shows that the problem lies in human beings, which is what Christianity has always said.
 
 **"Those weren't real Christians."** This is too easy, and it should not be used. Many were sincere believers, and Scripture has an uncomfortable word for them all the same: "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven" (Matthew 7:21). "Whoever claims to love God yet hates a brother or sister is a liar" (1 John 4:20). The fair point is narrower. Critics condemn these acts by a standard, and Christ's own teaching condemns them too: love your enemies (Matthew 5:44), put away the sword (Matthew 26:52), and let the children come to him (Matthew 19:14). The reformers who ended these evils appealed to that same teaching.
 
@@ -308,17 +308,20 @@ None of the good above cancels what follows, all of which was done by Christians
     "107. [Wikipedia] 'Southern Baptist Convention.' https://en.wikipedia.org/wiki/Southern_Baptist_Convention",
     "108. [Primary Source] Holy See. 'Presentation of the Day of Pardon' (12 March 2000). https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20000312_presentation-day-pardon_en.html",
     "109. [Wikipedia] 'Religion in Armenia.' https://en.wikipedia.org/wiki/Christianity_in_Armenia",
-    "110. [Wikipedia] 'Ezana of Axum.' https://en.wikipedia.org/wiki/Ezana_of_Axum",
-    "111. [Academic] Butts. Ezana of Aksum: The First Christian African King. Aethiopica, 2026. https://doi.org/10.15460/gfj9t143",
-    "112. [Wikipedia] 'Early African Church.' https://en.wikipedia.org/wiki/Early_African_Church",
-    "113. [Academic] Przemysław Turek. Syriac Heritage of the Saint Thomas Christians: Language and Liturgical Tradition Saint Thomas Christians – origins, language and liturgy. Orientalia Christiana Cracoviensia, 2011. https://doi.org/10.15633/ochc.1038",
-    "114. [Wikipedia] 'Saint Thomas Christians.' https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
-    "115. [Wikipedia] 'Xi'an Stele.' https://en.wikipedia.org/wiki/Xi%27an_Stele",
-    "116. [Wikipedia] 'Black church.' https://en.wikipedia.org/wiki/Black_church",
-    "117. [Primary Source] Frederick Douglass, Narrative of the Life of Frederick Douglass (1845), Appendix. Project Gutenberg. https://www.gutenberg.org/files/23/23-h/23-h.htm",
-    "118. [Academic] Pew Research Center. 'Countries with the most Christians and global Christian population change, 2010-2020' (2025). https://www.pewresearch.org/religion/2025/06/09/christian-population-change/",
-    "119. [Wikipedia] 'Religious war.' https://en.wikipedia.org/wiki/Religious_war",
-    "120. [Wikipedia] 'The Black Book of Communism.' https://en.wikipedia.org/wiki/The_Black_Book_of_Communism"
+    "110. [Encyclopedia] The Early Christianization of Armenia. World History Encyclopedia. https://www.worldhistory.org/article/801/the-early-christianization-of-armenia/",
+    "111. [Wikipedia] 'Ezana of Axum.' https://en.wikipedia.org/wiki/Ezana_of_Axum",
+    "112. [Academic] Butts. Ezana of Aksum: The First Christian African King. Aethiopica, 2026. https://doi.org/10.15460/gfj9t143",
+    "113. [Wikipedia] 'Early African Church.' https://en.wikipedia.org/wiki/Early_African_Church",
+    "114. [Academic] Przemysław Turek. Syriac Heritage of the Saint Thomas Christians: Language and Liturgical Tradition Saint Thomas Christians – origins, language and liturgy. Orientalia Christiana Cracoviensia, 2011. https://doi.org/10.15633/ochc.1038",
+    "115. [Wikipedia] 'Saint Thomas Christians.' https://en.wikipedia.org/wiki/Saint_Thomas_Christians",
+    "116. [Wikipedia] 'Xi'an Stele.' https://en.wikipedia.org/wiki/Xi%27an_Stele",
+    "117. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Nestorius and Nestorianism.' https://www.newadvent.org/cathen/10755a.htm",
+    "118. [Wikipedia] 'Black church.' https://en.wikipedia.org/wiki/Black_church",
+    "119. [Reference] Albert J. Raboteau et al. The Christian Tradition in African American Religion. National Humanities Center. https://www.nationalhumanitiescenter.org/tserve/nineteen/nkeyinfo/aareligion.htm",
+    "120. [Primary Source] Frederick Douglass, Narrative of the Life of Frederick Douglass (1845), Appendix. Project Gutenberg. https://www.gutenberg.org/files/23/23-h/23-h.htm",
+    "121. [Academic] Pew Research Center. 'Countries with the most Christians and global Christian population change, 2010-2020' (2025). https://www.pewresearch.org/religion/2025/06/09/christian-population-change/",
+    "122. [Wikipedia] 'Religious war.' https://en.wikipedia.org/wiki/Religious_war",
+    "123. [Wikipedia] 'The Black Book of Communism.' https://en.wikipedia.org/wiki/The_Black_Book_of_Communism"
   ],
   lastUpdated: "30-10-2026"
 }

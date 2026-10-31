@@ -792,33 +792,33 @@ export const branches: Topic = {
       id: "moravian",
       title: "Moravian Church (Unitas Fratrum)",
       tags: ["Pre-Reformation"],
-      content: `**Founded:** 1457 AD (Bohemian Reformation, inspired by Jan Hus)[^243][^244]
+      content: `**Founded:** 1457 AD (Bohemian Reformation, inspired by Jan Hus)[^243][^244][^245]
 
       **Key Beliefs:**
 
       • **Jan Hus Influence:** Traces roots to the Hussite movement which challenged papal authority, liturgical language, and communion practices prior to the Reformation[^244]
 
-      • **Herrnhut Revival:** Renewed in 1727 under Count Zinzendorf, leading to a famous 100-year continuous prayer vigil[^245]
+      • **Herrnhut Revival:** Renewed in 1727 under Count Zinzendorf, leading to a famous 100-year continuous prayer vigil[^246][^245]
 
-      • **Global Missions:** Pioneered modern Protestant foreign missions, sending missionaries worldwide in the 18th century[^246][^243]
+      • **Global Missions:** Pioneered modern Protestant foreign missions, sending missionaries worldwide in the 18th century[^247][^243]
 
-      **Distinctive Features:** Often described as the oldest Protestant denomination still in existence, and known for adopting the motto "In essentials unity, in non-essentials liberty, in all things charity", which originated with the 17th-century Lutheran writer Rupertus Meldenius[^247].`,
+      **Distinctive Features:** Often described as the oldest Protestant denomination still in existence, and known for adopting the motto "In essentials unity, in non-essentials liberty, in all things charity", which originated with the 17th-century Lutheran writer Rupertus Meldenius[^248].`,
     },
     {
       id: "congregationalist",
       title: "Congregationalists",
       tags: ["Later Protestant"],
-      content: `**Founded:** c. 1580s AD (Puritan Separatists, England)[^248][^249][^250]
+      content: `**Founded:** c. 1580s AD (Puritan Separatists, England)[^249][^250][^251]
 
       **Key Beliefs:**
 
-      • **Local Autonomy:** Rejects both episcopal (bishop) and presbyterian (elder council) hierarchies; each local congregation is fully independent and self-governing under Christ[^251]
+      • **Local Autonomy:** Rejects both episcopal (bishop) and presbyterian (elder council) hierarchies; each local congregation is fully independent and self-governing under Christ[^252]
 
-      • **Puritan Roots:** Developed by English Puritans who wanted to simplify worship and purify the church of Catholic-style rituals[^250][^252]
+      • **Puritan Roots:** Developed by English Puritans who wanted to simplify worship and purify the church of Catholic-style rituals[^251][^253]
 
-      • **Cambridge Platform (1648):** Established church government rules for early American Congregationalists[^253][^254]
+      • **Cambridge Platform (1648):** Established church government rules for early American Congregationalists[^254][^255]
 
-      **Distinctive Features:** Heavily influenced the settlement of colonial New England (including the Pilgrims)[^255][^256]. Highly democratic church governance[^249].`,
+      **Distinctive Features:** Heavily influenced the settlement of colonial New England (including the Pilgrims)[^256][^257]. Highly democratic church governance[^250].`,
     },
   ],
 
@@ -1067,18 +1067,19 @@ export const branches: Topic = {
     "242. [Wikipedia] Waldensian Evangelical Church. https://en.wikipedia.org/wiki/Waldensian_Evangelical_Church",
     "243. [Wikipedia] Moravian Church. https://en.wikipedia.org/wiki/Moravian_Church",
     "244. [Wikipedia] Hussites. https://en.wikipedia.org/wiki/Hussites",
-    "245. [Wikipedia] 'History of the Moravian Church.' https://en.wikipedia.org/wiki/History_of_the_Moravian_Church",
-    "246. [Encyclopedia] Encyclopaedia Britannica. 'Moravian Church, History and Beliefs.' https://www.britannica.com/topic/Moravian-church",
-    "247. [Wikipedia] Rupertus Meldenius. https://en.wikipedia.org/wiki/Rupertus_Meldenius",
-    "248. [Wikipedia] Brownists. https://en.wikipedia.org/wiki/Brownist",
-    "249. [Wikipedia] Congregationalism. https://en.wikipedia.org/wiki/Congregational_church",
-    "250. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Puritans.' https://www.newadvent.org/cathen/12581a.htm",
-    "251. [Primary Source] Schaff, Creeds of Christendom. 'Declaration of the Congregational Union of England and Wales.' https://www.ccel.org/ccel/schaff/creeds3.v.i.ii.html",
-    "252. [Wikipedia] 'Puritans.' https://en.wikipedia.org/wiki/Puritans",
-    "253. [Wikipedia] Cambridge Platform. https://en.wikipedia.org/wiki/Cambridge_Platform",
-    "254. [Academic] Burg. The Cambridge Platform: A Reassertion of Ecclesiasatical Authority. Church History, 1974. https://doi.org/10.2307/3164923",
-    "255. [Wikipedia] 'Plymouth Colony.' https://en.wikipedia.org/wiki/Plymouth_Colony",
-    "256. [Encyclopedia] World History Encyclopedia. 'Plymouth Colony.' https://www.worldhistory.org/Plymouth_Colony/"
+    "245. [Reference] A Prayer Meeting that Lasted 100 Years. Christian History Institute. https://christianhistoryinstitute.org/magazine/article/one-hundred-year-prayer-meeting",
+    "246. [Wikipedia] 'History of the Moravian Church.' https://en.wikipedia.org/wiki/History_of_the_Moravian_Church",
+    "247. [Encyclopedia] Encyclopaedia Britannica. 'Moravian Church, History and Beliefs.' https://www.britannica.com/topic/Moravian-church",
+    "248. [Wikipedia] Rupertus Meldenius. https://en.wikipedia.org/wiki/Rupertus_Meldenius",
+    "249. [Wikipedia] Brownists. https://en.wikipedia.org/wiki/Brownist",
+    "250. [Wikipedia] Congregationalism. https://en.wikipedia.org/wiki/Congregational_church",
+    "251. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Puritans.' https://www.newadvent.org/cathen/12581a.htm",
+    "252. [Primary Source] Schaff, Creeds of Christendom. 'Declaration of the Congregational Union of England and Wales.' https://www.ccel.org/ccel/schaff/creeds3.v.i.ii.html",
+    "253. [Wikipedia] 'Puritans.' https://en.wikipedia.org/wiki/Puritans",
+    "254. [Wikipedia] Cambridge Platform. https://en.wikipedia.org/wiki/Cambridge_Platform",
+    "255. [Academic] Burg. The Cambridge Platform: A Reassertion of Ecclesiasatical Authority. Church History, 1974. https://doi.org/10.2307/3164923",
+    "256. [Wikipedia] 'Plymouth Colony.' https://en.wikipedia.org/wiki/Plymouth_Colony",
+    "257. [Encyclopedia] World History Encyclopedia. 'Plymouth Colony.' https://www.worldhistory.org/Plymouth_Colony/"
   ],
   lastUpdated: "30-10-2026",
 };

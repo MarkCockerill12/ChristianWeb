@@ -237,20 +237,20 @@ Non-Christian writers of the ancient world attest Jesus's existence[^166][^167][
       content: `
 **New Testament Manuscripts**
 
-- **P52 (John Rylands Papyrus)**: Fragment of [John 18](https://biblegateway.com/passage/?search=John+18&version=NIV), assigned on handwriting to the first half of the second century, with later palaeographic work widening the range to roughly 125-175 AD[^236][^237]
-  - **P66, P75**: Substantial early copies of John, and of Luke and John, from around 200 AD[^238][^239][^240][^241]
-  - Over 5,800 Greek manuscripts provide textual reliability[^242][^243][^244]
+- **P52 (John Rylands Papyrus)**: Fragment of [John 18](https://biblegateway.com/passage/?search=John+18&version=NIV), assigned on handwriting to the first half of the second century, with later palaeographic work widening the range to roughly 125-175 AD[^236][^237][^238]
+  - **P66, P75**: Substantial early copies of John, and of Luke and John, from around 200 AD[^239][^240][^241][^242]
+  - Over 5,800 Greek manuscripts provide textual reliability[^243][^244][^245]
 
 <?viz archaeological/manuscript-counts?>
 
 **Old Testament Manuscripts**
 
-- **Dead Sea Scrolls**: Push the manuscript evidence for the Hebrew Bible back by roughly a thousand years[^245][^246][^247][^248]. The scrolls agree with the medieval Masoretic Text closely, with differences that are overwhelmingly spelling and word order, though the biblical manuscripts among them represent several text traditions rather than one, about 60 percent of them proto-Masoretic[^249][^250][^251].
-  - **Ketef Hinnom Silver Scrolls**: Two rolled silver amulets discovered in Jerusalem in 1979, paleographically dated to c. 600 BC[^252][^253][^254]. They contain a variation of the Priestly Blessing (Numbers 6:24-26) and represent the **oldest surviving fragments of a biblical text ever found**, predating the Dead Sea Scrolls by several centuries.
-  - **Isaiah Scroll**: A complete scroll of Isaiah a thousand years older than the oldest Hebrew copies previously known, agreeing with them in substance while carrying some 2,600 mostly orthographic variants[^255][^256][^257].
-  - **Biblical canon**: Evidence for established Hebrew scriptures before Christ[^258][^259][^260][^261].
-  - **Nash Papyrus**: Ten Commandments from 2nd century BC[^262][^263][^264]
-  - **Aleppo Codex**: Medieval manuscript matching ancient texts[^265][^266][^267]
+- **Dead Sea Scrolls**: Push the manuscript evidence for the Hebrew Bible back by roughly a thousand years[^246][^247][^248][^249]. The scrolls agree with the medieval Masoretic Text closely, with differences that are overwhelmingly spelling and word order, though the biblical manuscripts among them represent several text traditions rather than one, about 60 percent of them proto-Masoretic[^250][^251][^252].
+  - **Ketef Hinnom Silver Scrolls**: Two rolled silver amulets discovered in Jerusalem in 1979, paleographically dated to c. 600 BC[^253][^254][^255]. They contain a variation of the Priestly Blessing (Numbers 6:24-26) and represent the **oldest surviving fragments of a biblical text ever found**, predating the Dead Sea Scrolls by several centuries.
+  - **Isaiah Scroll**: A complete scroll of Isaiah a thousand years older than the oldest Hebrew copies previously known, agreeing with them in substance while carrying some 2,600 mostly orthographic variants[^256][^257][^258].
+  - **Biblical canon**: Evidence for established Hebrew scriptures before Christ[^259][^260][^261][^262].
+  - **Nash Papyrus**: Ten Commandments from 2nd century BC[^263][^264][^265]
+  - **Aleppo Codex**: Medieval manuscript matching ancient texts[^266][^267][^268]
 
 **See also:** [What Translators Actually Translate: The Manuscripts (Bible Translations)](/categories/bible-translations#section-manuscripts), [The Canon](/categories/canon).
 `
@@ -262,13 +262,13 @@ Non-Christian writers of the ancient world attest Jesus's existence[^166][^167][
       content: `
 **The Shroud of Turin**
 
-The Shroud of Turin is a linen cloth bearing the faint image of a crucified man. It is one of the most intensely studied and debated artifacts in the world.[^268][^269][^270] 
+The Shroud of Turin is a linen cloth bearing the faint image of a crucified man. It is one of the most intensely studied and debated artifacts in the world.[^269][^270][^271] 
 
-- **Image & Physical Analysis (STURP, 1978)**: The Shroud of Turin Research Project (STURP) concluded the image was *not* a painting, scorch, or stain, as the image-forming substance has no pigment and resides only on the topmost micro-fibers[^271][^272][^273][^274]. They also found the image contains unique three-dimensional spatial information.
-  - **Contradictory Dating 1: Radiocarbon (1988)**: The most notable test, published in *Nature*, used radiocarbon dating on samples from a corner of the cloth. The results dated the linen to the medieval period (1260-1390 AD)[^275][^276][^277][^278].
-  - **Contradictory Dating 2: WAXS (2022)**: A newer study by Dr. Liberato De Caro, using Wide-Angle X-ray Scattering (WAXS) to analyze the natural aging of cellulose, dated a thread taken near the 1988 radiocarbon sampling area to approximately 2,000 years ago, consistent with a 1st-century origin[^279]. The technique has not been independently replicated on the Shroud, and its result assumes the cloth was kept at an average of about 20 to 22.5 °C through some thirteen centuries of unknown history, a storage history that cannot be checked; De Caro himself has called for X-ray measurements by several laboratories[^280].
-  - **The Sample Controversy**: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth[^281][^282][^283][^284]. A 2010 re-examination of a surviving piece of the dated sample by Freer-Waters and Jull found no evidence of coatings or dyes, and their observations were consistent with it coming from the main cloth, so the question remains disputed[^285].
-  - **Botanical Evidence (Pollen)**: Analysis has identified numerous pollen grains, some of which have been claimed to be from plant species unique to the Judea/Jerusalem region[^286][^287][^288]. This evidence, like the shroud itself, remains highly debated.
+- **Image & Physical Analysis (STURP, 1978)**: The Shroud of Turin Research Project (STURP) concluded the image was *not* a painting, scorch, or stain, as the image-forming substance has no pigment and resides only on the topmost micro-fibers[^272][^273][^274][^275]. They also found the image contains unique three-dimensional spatial information.
+  - **Contradictory Dating 1: Radiocarbon (1988)**: The most notable test, published in *Nature*, used radiocarbon dating on samples from a corner of the cloth. The results dated the linen to the medieval period (1260-1390 AD)[^276][^277][^278][^279].
+  - **Contradictory Dating 2: WAXS (2022)**: A newer study by Dr. Liberato De Caro, using Wide-Angle X-ray Scattering (WAXS) to analyze the natural aging of cellulose, dated a thread taken near the 1988 radiocarbon sampling area to approximately 2,000 years ago, consistent with a 1st-century origin[^280]. The technique has not been independently replicated on the Shroud, and its result assumes the cloth was kept at an average of about 20 to 22.5 °C through some thirteen centuries of unknown history, a storage history that cannot be checked; De Caro himself has called for X-ray measurements by several laboratories[^281].
+  - **The Sample Controversy**: Proponents of the 1st-century date argue the 1988 C-14 test was flawed because its sample was taken from an outer corner that was "invisibly re-woven" or patched during the medieval period (e.g., after a 1532 fire), making the sample unrepresentative of the original cloth[^282][^283][^284][^285]. A 2010 re-examination of a surviving piece of the dated sample by Freer-Waters and Jull found no evidence of coatings or dyes, and their observations were consistent with it coming from the main cloth, so the question remains disputed[^286].
+  - **Botanical Evidence (Pollen)**: Analysis has identified numerous pollen grains, some of which have been claimed to be from plant species unique to the Judea/Jerusalem region[^287][^288][^289]. This evidence, like the shroud itself, remains highly debated.
 `
     }
   ],
@@ -511,57 +511,58 @@ The Shroud of Turin is a linen cloth bearing the faint image of a crucified man.
     "235. [Encyclopedia] Jewish Virtual Library. 'The Temple Mount.' https://www.jewishvirtuallibrary.org/the-temple-mount",
     "236. [Wikipedia] 'Rylands Library Papyrus P52.' https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
     "237. [Wikipedia] 'List of New Testament Papyri.' https://en.wikipedia.org/wiki/List_of_New_Testament_papyri",
-    "238. [Academic] Larry Hurtado. 'The Date of P66: Nongbri's New Argument.' https://larryhurtado.wordpress.com/2014/06/03/the-date-of-p66-p-bodmer-ii-nongbris-new-argument/",
-    "239. [Wikipedia] 'Papyrus 66.' https://en.wikipedia.org/wiki/Papyrus_66",
-    "240. [Wikipedia] 'Papyrus 75.' https://en.wikipedia.org/wiki/Papyrus_75",
-    "241. [Wikipedia] 'Biblical Manuscript.' https://en.wikipedia.org/wiki/Biblical_manuscript",
-    "242. [Academic] INTF, University of Munster. 'Kurzgefasste Liste of Greek New Testament Manuscripts.' https://ntvmr.uni-muenster.de/liste",
-    "243. [Wikipedia] 'Institute for New Testament Textual Research.' https://en.wikipedia.org/wiki/Institute_for_New_Testament_Textual_Research",
-    "244. [Academic] Bart Ehrman. 'The Greek Manuscripts of the New Testament.' https://ehrmanblog.org/the-greek-manuscripts-of-the-new-testament/",
-    "245. [Archaeology] Dead Sea Scrolls Foundation. 'Introduction.' https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
-    "246. [Academic] VanderKam. Dead Sea Scrolls. Oxford Research Encyclopedia of Religion, 2025. https://doi.org/10.1093/acrefore/9780199340378.013.1059",
-    "247. [Encyclopedia] Encyclopaedia Britannica. 'Dead Sea Scrolls.' https://www.britannica.com/topic/Dead-Sea-Scrolls",
-    "248. [Wikipedia] 'Dead Sea Scrolls.' https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
-    "249. [Apologetics] Cold Case Christianity. 'Reliability of the Old Testament.' https://coldcasechristianity.com/writings/establishing-the-reliability-of-the-old-testament-a-timely-test-of-transmission/",
-    "250. [Academic] Text and Canon Institute. 'How Much Can the Most Famous Dead Sea Scroll Prove?.' https://textandcanon.org/how-much-can-the-most-famous-dead-sea-scroll-prove/",
-    "251. [Wikipedia] 'Masoretic Text.' https://en.wikipedia.org/wiki/Masoretic_Text",
-    "252. [Wikipedia] 'Ketef Hinnom Scrolls.' https://en.wikipedia.org/wiki/Ketef_Hinnom_scrolls",
-    "253. [Archaeology] Associates for Biblical Research. 'The Blessing of the Silver Scrolls.' https://biblearchaeology.org/research-articles/the-blessing-of-the-silver-scrolls/",
-    "254. [Academic] Center for Online Judaic Studies. 'Silver Scroll Amulets from Ketef Hinnom, c. 600 BCE.' https://cojs.org/silver_scroll_amulets_from_ketef_hinnom-_c-_600_bce/",
-    "255. [Wikipedia] 'Isaiah Scroll.' https://en.wikipedia.org/wiki/Isaiah_Scroll",
-    "256. [Archaeology] The Israel Museum, Jerusalem. 'The Digital Dead Sea Scrolls: The Great Isaiah Scroll.' http://dss.collections.imj.org.il/isaiah",
-    "257. [Lexicon] Ancient Hebrew Research Center. 'The Great Isaiah Scroll and the Masoretic Text.' https://www.ancient-hebrew.org/dss/great-isaiah-scroll-and-the-masoretic-text.htm",
-    "258. [Apologetics] Logos. 'Dead Sea Scrolls and the Canon.' https://www.logos.com/grow/dead-sea-scrolls-answer-canon-question",
-    "259. [Encyclopedia] 'BIBLE CANON.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/view.jsp?artid=1025&letter=B&search=Bible%20canon",
-    "260. [Encyclopedia] Encyclopaedia Britannica. 'Biblical Literature.' https://www.britannica.com/topic/biblical-literature",
-    "261. [Wikipedia] 'Development of the Hebrew Bible canon.' https://en.wikipedia.org/wiki/Development_of_the_Hebrew_Bible_canon",
-    "262. [Academic] Cambridge Digital Library. 'Hebrew Manuscripts: Nash Papyrus.' https://cudl.lib.cam.ac.uk/view/MS-OR-00233/1",
-    "263. [Wikipedia] 'Nash Papyrus.' https://en.wikipedia.org/wiki/Nash_Papyrus",
-    "264. [Reference] History of Information. 'The Nash Fragment of the Ten Commandments.' https://www.historyofinformation.com/detail.php?id=2412",
-    "265. [Wikipedia] 'Aleppo Codex.' https://en.wikipedia.org/wiki/Aleppo_Codex",
-    "266. [Reference] The Aleppo Codex. 'The Aleppo Codex Online.' https://www.aleppocodex.org/",
-    "267. [Encyclopedia] Encyclopaedia Britannica. 'Aleppo Codex.' https://www.britannica.com/topic/Aleppo-Codex",
-    "268. [Academic] Shroud.com. 'Dating The Shroud Of Turin: Weighing All The Evidence.' https://www.shroud.com/pdfs/stlschneiderpaper.pdf",
-    "269. [Wikipedia] 'Shroud of Turin.' https://en.wikipedia.org/wiki/Shroud_of_Turin",
-    "270. [Encyclopedia] Encyclopaedia Britannica. 'Shroud of Turin.' https://www.britannica.com/topic/Shroud-of-Turin",
-    "271. [Academic] Schwortz, B. 'The Shroud of Turin Research Project 1978 Scientific Examination.' https://www.shroud.com/pdfs/schwortz2p.pdf",
-    "272. [Wikipedia] 'Shroud of Turin Research Project.' https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
-    "273. [Academic] Rogers and Arnoldi, Melanoidins vol. 4. 'The Shroud of Turin: An Amino-Carbonyl Reaction May Explain the Image Formation.' https://www.shroud.com/pdfs/rogers7.pdf",
-    "274. [Academic] The Medieval Shroud. 'STURP Revisited.' https://medievalshroud.com/sturp-revisited/",
-    "275. [Academic] Damon PE et al. Radiocarbon dating of the Shroud of Turin. Nature, 1989. Reproduced at shroud.com. https://www.shroud.com/nature.htm",
-    "276. [Academic] Nature. 'Damon. Radiocarbon Dating of the Shroud of Turin (1989).' https://www.nature.com/articles/337611a0",
-    "277. [Wikipedia] 'History of the Shroud of Turin.' https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
-    "278. [Wikipedia] 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
-    "279. [Academic] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. Heritage, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
-    "280. [News] National Catholic Register. 'New Scientific Technique Dates Shroud of Turin to Around the Time of Christ's Death and Resurrection' (interview with Liberato De Caro, 2022). https://www.ncregister.com/interview/new-scientific-technique-dates-shroud-of-turin-to-around-the-time-of-christ-s-death-and-resurrection",
-    "281. [Academic] Journal of Archaeological Science, Reports. 'An Instructive Inter-Laboratory Comparison: The 1988 Radiocarbon Dating of the Shroud of Turin.' https://www.sciencedirect.com/science/article/pii/S2352409X19301865",
-    "282. [Academic] Entropy. 'Di Lazzaro, P. et al. Statistical and Proactive Analysis of an Inter-Laboratory Comparison: The Radiocarbon Dating of the Shroud of Turin (2020).' https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7597180/",
-    "283. [Academic] Advances in Social Sciences Research Journal. 'Revisiting the Analysis of 1988 Radiocarbon Dating of the Shroud of Turin.' https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/3418",
-    "284. [Academic] ResearchGate. 'Casabianca. Radiocarbon Dating of the Turin Shroud: New Evidence from Raw Data.' https://www.researchgate.net/publication/331956466_Radiocarbon_Dating_of_the_Turin_Shroud_New_Evidence_from_Raw_Data",
-    "285. [Academic] Radiocarbon 52(4). 'Freer-Waters, R. and Jull, A. J. T. Investigating a Dated Piece of the Shroud of Turin (2010).' https://www.cambridge.org/core/journals/radiocarbon/article/investigating-a-dated-piece-of-the-shroud-of-turin/8CC26C322198300E051C49A0BA5B96D9",
-    "286. [Reference] Center for Inquiry. 'Pollens on the 'Shroud': A Study in Deception.' https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1994/07/22165128/p45.pdf",
-    "287. [Academic] Shroud.com. 'Pollen Grains on the Shroud of Turin.' https://www.shroud.com/pdfs/ssi10part4.pdf",
-    "288. [Wikipedia] 'Max Frei.' https://en.wikipedia.org/wiki/Max_Frei"
+    "238. [Academic] Palaeography, Precision and Publicity: Further Thoughts on P.Ryl.III.457 (P52). New Testament Studies. Cambridge University Press. https://resolve.cambridge.org/core/journals/new-testament-studies/article/abs/palaeography-precision-and-publicity-further-thoughts-on-pryliii457-p52/1D4E56BF0E9D4DDDA313D0C2754E2F28",
+    "239. [Academic] Larry Hurtado. 'The Date of P66: Nongbri's New Argument.' https://larryhurtado.wordpress.com/2014/06/03/the-date-of-p66-p-bodmer-ii-nongbris-new-argument/",
+    "240. [Wikipedia] 'Papyrus 66.' https://en.wikipedia.org/wiki/Papyrus_66",
+    "241. [Wikipedia] 'Papyrus 75.' https://en.wikipedia.org/wiki/Papyrus_75",
+    "242. [Wikipedia] 'Biblical Manuscript.' https://en.wikipedia.org/wiki/Biblical_manuscript",
+    "243. [Academic] INTF, University of Munster. 'Kurzgefasste Liste of Greek New Testament Manuscripts.' https://ntvmr.uni-muenster.de/liste",
+    "244. [Wikipedia] 'Institute for New Testament Textual Research.' https://en.wikipedia.org/wiki/Institute_for_New_Testament_Textual_Research",
+    "245. [Academic] Bart Ehrman. 'The Greek Manuscripts of the New Testament.' https://ehrmanblog.org/the-greek-manuscripts-of-the-new-testament/",
+    "246. [Archaeology] Dead Sea Scrolls Foundation. 'Introduction.' https://www.deadseascrolls.org.il/learn-about-the-scrolls/introduction",
+    "247. [Academic] VanderKam. Dead Sea Scrolls. Oxford Research Encyclopedia of Religion, 2025. https://doi.org/10.1093/acrefore/9780199340378.013.1059",
+    "248. [Encyclopedia] Encyclopaedia Britannica. 'Dead Sea Scrolls.' https://www.britannica.com/topic/Dead-Sea-Scrolls",
+    "249. [Wikipedia] 'Dead Sea Scrolls.' https://en.wikipedia.org/wiki/Dead_Sea_Scrolls",
+    "250. [Apologetics] Cold Case Christianity. 'Reliability of the Old Testament.' https://coldcasechristianity.com/writings/establishing-the-reliability-of-the-old-testament-a-timely-test-of-transmission/",
+    "251. [Academic] Text and Canon Institute. 'How Much Can the Most Famous Dead Sea Scroll Prove?.' https://textandcanon.org/how-much-can-the-most-famous-dead-sea-scroll-prove/",
+    "252. [Wikipedia] 'Masoretic Text.' https://en.wikipedia.org/wiki/Masoretic_Text",
+    "253. [Wikipedia] 'Ketef Hinnom Scrolls.' https://en.wikipedia.org/wiki/Ketef_Hinnom_scrolls",
+    "254. [Archaeology] Associates for Biblical Research. 'The Blessing of the Silver Scrolls.' https://biblearchaeology.org/research-articles/the-blessing-of-the-silver-scrolls/",
+    "255. [Academic] Center for Online Judaic Studies. 'Silver Scroll Amulets from Ketef Hinnom, c. 600 BCE.' https://cojs.org/silver_scroll_amulets_from_ketef_hinnom-_c-_600_bce/",
+    "256. [Wikipedia] 'Isaiah Scroll.' https://en.wikipedia.org/wiki/Isaiah_Scroll",
+    "257. [Archaeology] The Israel Museum, Jerusalem. 'The Digital Dead Sea Scrolls: The Great Isaiah Scroll.' http://dss.collections.imj.org.il/isaiah",
+    "258. [Lexicon] Ancient Hebrew Research Center. 'The Great Isaiah Scroll and the Masoretic Text.' https://www.ancient-hebrew.org/dss/great-isaiah-scroll-and-the-masoretic-text.htm",
+    "259. [Apologetics] Logos. 'Dead Sea Scrolls and the Canon.' https://www.logos.com/grow/dead-sea-scrolls-answer-canon-question",
+    "260. [Encyclopedia] 'BIBLE CANON.' Jewish Encyclopedia (1906). https://jewishencyclopedia.com/view.jsp?artid=1025&letter=B&search=Bible%20canon",
+    "261. [Encyclopedia] Encyclopaedia Britannica. 'Biblical Literature.' https://www.britannica.com/topic/biblical-literature",
+    "262. [Wikipedia] 'Development of the Hebrew Bible canon.' https://en.wikipedia.org/wiki/Development_of_the_Hebrew_Bible_canon",
+    "263. [Academic] Cambridge Digital Library. 'Hebrew Manuscripts: Nash Papyrus.' https://cudl.lib.cam.ac.uk/view/MS-OR-00233/1",
+    "264. [Wikipedia] 'Nash Papyrus.' https://en.wikipedia.org/wiki/Nash_Papyrus",
+    "265. [Reference] History of Information. 'The Nash Fragment of the Ten Commandments.' https://www.historyofinformation.com/detail.php?id=2412",
+    "266. [Wikipedia] 'Aleppo Codex.' https://en.wikipedia.org/wiki/Aleppo_Codex",
+    "267. [Reference] The Aleppo Codex. 'The Aleppo Codex Online.' https://www.aleppocodex.org/",
+    "268. [Encyclopedia] Encyclopaedia Britannica. 'Aleppo Codex.' https://www.britannica.com/topic/Aleppo-Codex",
+    "269. [Academic] Shroud.com. 'Dating The Shroud Of Turin: Weighing All The Evidence.' https://www.shroud.com/pdfs/stlschneiderpaper.pdf",
+    "270. [Wikipedia] 'Shroud of Turin.' https://en.wikipedia.org/wiki/Shroud_of_Turin",
+    "271. [Encyclopedia] Encyclopaedia Britannica. 'Shroud of Turin.' https://www.britannica.com/topic/Shroud-of-Turin",
+    "272. [Academic] Schwortz, B. 'The Shroud of Turin Research Project 1978 Scientific Examination.' https://www.shroud.com/pdfs/schwortz2p.pdf",
+    "273. [Wikipedia] 'Shroud of Turin Research Project.' https://en.wikipedia.org/wiki/Shroud_of_Turin_Research_Project",
+    "274. [Academic] Rogers and Arnoldi, Melanoidins vol. 4. 'The Shroud of Turin: An Amino-Carbonyl Reaction May Explain the Image Formation.' https://www.shroud.com/pdfs/rogers7.pdf",
+    "275. [Academic] The Medieval Shroud. 'STURP Revisited.' https://medievalshroud.com/sturp-revisited/",
+    "276. [Academic] Damon PE et al. Radiocarbon dating of the Shroud of Turin. Nature, 1989. Reproduced at shroud.com. https://www.shroud.com/nature.htm",
+    "277. [Academic] Nature. 'Damon. Radiocarbon Dating of the Shroud of Turin (1989).' https://www.nature.com/articles/337611a0",
+    "278. [Wikipedia] 'History of the Shroud of Turin.' https://en.wikipedia.org/wiki/History_of_the_Shroud_of_Turin",
+    "279. [Wikipedia] 'Radiocarbon dating of the Shroud of Turin.' https://en.wikipedia.org/wiki/Radiocarbon_dating_of_the_Shroud_of_Turin",
+    "280. [Academic] De Caro, L. et al. (2022). 'X-ray dating of a sample of the Turin Shroud'. Heritage, 5(2), 860-870. https://www.mdpi.com/2571-9408/5/2/860",
+    "281. [News] National Catholic Register. 'New Scientific Technique Dates Shroud of Turin to Around the Time of Christ's Death and Resurrection' (interview with Liberato De Caro, 2022). https://www.ncregister.com/interview/new-scientific-technique-dates-shroud-of-turin-to-around-the-time-of-christ-s-death-and-resurrection",
+    "282. [Academic] Journal of Archaeological Science, Reports. 'An Instructive Inter-Laboratory Comparison: The 1988 Radiocarbon Dating of the Shroud of Turin.' https://www.sciencedirect.com/science/article/pii/S2352409X19301865",
+    "283. [Academic] Entropy. 'Di Lazzaro, P. et al. Statistical and Proactive Analysis of an Inter-Laboratory Comparison: The Radiocarbon Dating of the Shroud of Turin (2020).' https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7597180/",
+    "284. [Academic] Advances in Social Sciences Research Journal. 'Revisiting the Analysis of 1988 Radiocarbon Dating of the Shroud of Turin.' https://journals.scholarpublishing.org/index.php/ASSRJ/article/view/3418",
+    "285. [Academic] ResearchGate. 'Casabianca. Radiocarbon Dating of the Turin Shroud: New Evidence from Raw Data.' https://www.researchgate.net/publication/331956466_Radiocarbon_Dating_of_the_Turin_Shroud_New_Evidence_from_Raw_Data",
+    "286. [Academic] Radiocarbon 52(4). 'Freer-Waters, R. and Jull, A. J. T. Investigating a Dated Piece of the Shroud of Turin (2010).' https://www.cambridge.org/core/journals/radiocarbon/article/investigating-a-dated-piece-of-the-shroud-of-turin/8CC26C322198300E051C49A0BA5B96D9",
+    "287. [Reference] Center for Inquiry. 'Pollens on the 'Shroud': A Study in Deception.' https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1994/07/22165128/p45.pdf",
+    "288. [Academic] Shroud.com. 'Pollen Grains on the Shroud of Turin.' https://www.shroud.com/pdfs/ssi10part4.pdf",
+    "289. [Wikipedia] 'Max Frei.' https://en.wikipedia.org/wiki/Max_Frei"
   ],
   lastUpdated: "30-10-2026",
 }
