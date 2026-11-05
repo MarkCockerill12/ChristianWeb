@@ -68,7 +68,7 @@ Abortion and exposing unwanted infants were both common in the Roman world. Chri
 * **Athenagoras**, around AD 177, told the emperor that Christians hold that women who use drugs to bring on abortion commit murder and will answer to God[^14].
 * **Tertullian**, around AD 197, wrote that "we may not destroy even the foetus in the womb"[^15][^16][^17].
 
-**A qualification.** Later theologians, following Aristotle's biology, debated when the soul entered the body. Augustine thought an early abortion was not murder for that reason, and Aquinas held a similar view of ensoulment[^16]. They still condemned the act. Their question was how grave it was, not whether it was acceptable, and the biology on which they depended has since been superseded.
+**A qualification.** Later theologians, following Aristotle's biology, debated when the soul entered the body. Augustine thought an early abortion was not murder for that reason, and Aquinas held a similar view of ensoulment[^16][^17]. They still condemned the act. Their question was how grave it was, not whether it was acceptable, and the biology on which they depended has since been superseded.
 
 **Practice as well as teaching.** Christians in the Roman Empire became known for rescuing and raising exposed infants[^18][^19]. The church's opposition has always been tied to the care of the child and the mother.
 

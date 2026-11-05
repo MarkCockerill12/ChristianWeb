@@ -201,7 +201,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
 
 - Jesus stated, "Very truly I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father" (John 14:12).
 - James instructs the sick to call the elders of the church to pray over them and anoint them with oil (James 5:14-15).
-- Mark 16:17-18 lists signs that will accompany believers, including healing the sick. These verses belong to the longer ending of Mark, which is absent from the earliest complete manuscripts, and most scholars regard it as a later addition, so doctrine is not usually built on it alone[^61].
+- Mark 16:17-18 lists signs that will accompany believers, including healing the sick. These verses belong to the longer ending of Mark, which is absent from the earliest complete manuscripts, and most scholars regard it as a later addition, so doctrine is not usually built on it alone[^61][^62].
 
 **Not every prayer is answered with healing:** Paul left Trophimus sick at Miletus (2 Timothy 4:20), advised Timothy to take wine for his frequent illnesses (1 Timothy 5:23), and was refused the removal of his own "thorn in the flesh" (2 Corinthians 12:7-9).
 
@@ -213,7 +213,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
       title: "Extraordinary Claims Require Extraordinary Evidence",
       tags: ["Objections"],
       content: `
-Carl Sagan's slogan, with roots in Laplace and others, says that the more unlikely a claim, the stronger the evidence it needs[^62]. As a principle of weighing evidence, it is fair, and Christians should accept it.
+Carl Sagan's slogan, with roots in Laplace and others, says that the more unlikely a claim, the stronger the evidence it needs[^63]. As a principle of weighing evidence, it is fair, and Christians should accept it.
 
 It raises a question, however, about what counts as extraordinary. A miracle is unlikely if the universe is a closed system, and much less so if God exists. So the slogan cannot settle the matter by itself, because the answer depends on what one already believes about God. And it does not mean that the evidence has to be of a special kind: extremely unlikely events are accepted every day on ordinary testimony, such as a report of a lottery result.
 
@@ -291,7 +291,8 @@ I had a personal experience of something highly coincidental. My church is locat
     "59. [Wikipedia] 'Miracle.' https://en.wikipedia.org/wiki/Miracle",
     "60. [Wikipedia] 'Cessationism versus continuationism.' https://en.wikipedia.org/wiki/Cessationism",
     "61. [Wikipedia] 'Mark 16.' The longer ending and its manuscript evidence. https://en.wikipedia.org/wiki/Mark_16",
-    "62. [Wikipedia] 'Sagan standard.' https://en.wikipedia.org/wiki/Sagan_standard"
+    "62. [Commentary] Commentaries on Mark 16:9. Bible Hub. https://biblehub.com/commentaries/mark/16-9.htm",
+    "63. [Wikipedia] 'Sagan standard.' https://en.wikipedia.org/wiki/Sagan_standard"
   ],
   lastUpdated: "30-10-2026"
 }

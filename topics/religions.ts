@@ -148,7 +148,7 @@ Christianity's own difficult questions have topics of their own, and the case fo
 
 <h3>❌ Areas of Concern</h3>
 
-    - **Ritual access to the afterlife:** Preservation of the body and the correct spells were central, and the earliest texts served the king alone[^48]
+    - **Ritual access to the afterlife:** Preservation of the body and the correct spells were central, and the earliest texts served the king alone[^48][^47]
 
     - **A short-lived reform:** Akhenaten replaced Amun with the Aten and ended official worship of most other gods, and his successors restored the old system and dismantled his monuments[^49][^39][^40]
     </div>
@@ -322,9 +322,9 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
       - **Moral emphasis:** Strong focus on righteous living (dharma)[^104][^105]
 
-      - **Rich culture:** Beautiful art, music, and literature traditions[^106]
+      - **Rich culture:** Long traditions of temple art, devotional music and epic literature[^106][^107]
 
-      - **Family values:** Emphasis on duty and respect for elders[^107]
+      - **Family values:** Emphasis on duty and respect for elders[^108]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -333,17 +333,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Diversity of scripture:** The Vedas, Upanishads, Puranas and epics contain several accounts of origins that do not harmonise into one narrative. Hindu tradition largely does not require them to, treating them as complementary approaches rather than as a single historical record, which is itself a substantial difference from the Christian view of Scripture rather than an internal inconsistency by Hindu standards[^108]
+    - **Diversity of scripture:** The Vedas, Upanishads, Puranas and epics contain several accounts of origins that do not harmonise into one narrative. Hindu tradition largely does not require them to, treating them as complementary approaches rather than as a single historical record, which is itself a substantial difference from the Christian view of Scripture rather than an internal inconsistency by Hindu standards[^109]
 
-      - **Caste:** The fourfold varna order appears in the Purusha hymn of the Rig Veda and is elaborated in the Manusmriti into a hereditary hierarchy with severe disabilities for those at the bottom. This is the most serious moral objection to the tradition, and it has to be made accurately: caste discrimination and untouchability are prohibited by the Indian constitution, and reform from within Hinduism runs from the Bhakti poets through Ramakrishna, Vivekananda, Narayana Guru and Gandhi. The charge is that the texts underwrite the hierarchy, not that Hindus today defend it[^109]
+      - **Caste:** The fourfold varna order appears in the Purusha hymn of the Rig Veda and is elaborated in the Manusmriti into a hereditary hierarchy with severe disabilities for those at the bottom. This is the most serious moral objection to the tradition, and it has to be made accurately: caste discrimination and untouchability are prohibited by the Indian constitution, and reform from within Hinduism runs from the Bhakti poets through Ramakrishna, Vivekananda, Narayana Guru and Gandhi. The charge is that the texts underwrite the hierarchy, not that Hindus today defend it[^110]
 
-      - **Karma and rebirth:** The strongest form of the difficulty is not circularity but unfalsifiability. An appeal to deeds in unremembered former lives can account for any distribution of suffering whatever, which means no observation can count against it. Christian theology faces the problem of suffering in its own form and answers it differently, so the point is a comparison of two accounts rather than a knock-down[^110][^101]
+      - **Karma and rebirth:** The strongest form of the difficulty is not circularity but unfalsifiability. An appeal to deeds in unremembered former lives can account for any distribution of suffering whatever, which means no observation can count against it. Christian theology faces the problem of suffering in its own form and answers it differently, so the point is a comparison of two accounts rather than a knock-down[^111][^101]
 
-      - **Change over time:** Contemporary devotional Hinduism, centred on Vishnu, Shiva and the Goddess, differs considerably from the sacrificial religion of the Vedic hymns. Whether that constitutes organic development or departure is disputed among Hindu thinkers themselves, and the identical question is put to Christianity about its own first four centuries[^111]
+      - **Change over time:** Contemporary devotional Hinduism, centred on Vishnu, Shiva and the Goddess, differs considerably from the sacrificial religion of the Vedic hymns. Whether that constitutes organic development or departure is disputed among Hindu thinkers themselves, and the identical question is put to Christianity about its own first four centuries[^112]
 
-      - **Divine attributes:** Texts describe deities in ways that are difficult to hold together, as supreme and yet limited, and Hindu philosophy divides internally over how to resolve it. Advaita Vedanta treats personal deities as accessible forms of a single impersonal Brahman, while the theistic Vaishnava and Shaiva schools resist that reduction. Christian theology reaches a different answer, but this is a live philosophical argument inside the tradition and not an oversight[^112][^101]
+      - **Divine attributes:** Texts describe deities in ways that are difficult to hold together, as supreme and yet limited, and Hindu philosophy divides internally over how to resolve it. Advaita Vedanta treats personal deities as accessible forms of a single impersonal Brahman, while the theistic Vaishnava and Shaiva schools resist that reduction. Christian theology reaches a different answer, but this is a live philosophical argument inside the tradition and not an oversight[^113][^101]
 
-      - **Cosmology:** Puranic cosmology, with its concentric continents and central mountain, does not correspond to modern geography. The picture is mixed rather than uniformly hostile, since the immense cyclical timescales of the yugas and kalpas are frequently noted as closer in order of magnitude to modern cosmological ages than a literal short chronology is[^113]
+      - **Cosmology:** Puranic cosmology, with its concentric continents and central mountain, does not correspond to modern geography. The picture is mixed rather than uniformly hostile, since the immense cyclical timescales of the yugas and kalpas are frequently noted as closer in order of magnitude to modern cosmological ages than a literal short chronology is[^114]
     </div>
 </div>
 
@@ -356,23 +356,23 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
   <div style="margin: 10px 0;">
-    **1. Polytheism vs. Monotheism:** While some Hindu traditions speak of ultimate unity (Brahman), popular practice involves worship of multiple deities, contradicting the biblical revelation of one personal God who is both transcendent and immanent[^114][^97].
+    **1. Polytheism vs. Monotheism:** While some Hindu traditions speak of ultimate unity (Brahman), popular practice involves worship of multiple deities, contradicting the biblical revelation of one personal God who is both transcendent and immanent[^115][^97].
   </div>
 
   <div style="margin: 10px 0;">
-    **2. Karma vs. Grace:** The karma system creates endless cycles of debt and payment with no guarantee of liberation. Christianity offers immediate forgiveness and freedom through Christ's sacrifice, not earned through countless lifetimes of works[^115].
+    **2. Karma vs. Grace:** The karma system creates endless cycles of debt and payment with no guarantee of liberation. Christianity offers immediate forgiveness and freedom through Christ's sacrifice, not earned through countless lifetimes of works[^116].
   </div>
 
   <div style="margin: 10px 0;">
-    **3. Social Stratification vs. Human Equality:** While early Vedic texts spoke of functional divisions (varna), the rigid hereditary caste system that developed over centuries contradicts Christianity's teaching that all people are created equal in God's image ([Genesis 1:27](https://www.biblegateway.com/passage/?search=Genesis%201%3A27&version=NIV), [Galatians 3:28](https://www.biblegateway.com/passage/?search=Galatians%203%3A28&version=NIV))[^116].
+    **3. Social Stratification vs. Human Equality:** While early Vedic texts spoke of functional divisions (varna), the rigid hereditary caste system that developed over centuries contradicts Christianity's teaching that all people are created equal in God's image ([Genesis 1:27](https://www.biblegateway.com/passage/?search=Genesis%201%3A27&version=NIV), [Galatians 3:28](https://www.biblegateway.com/passage/?search=Galatians%203%3A28&version=NIV))[^117].
   </div>
 
   <div style="margin: 10px 0;">
-    **4. Impersonal vs. Personal God:** Hindu ultimate reality (Brahman) is often described as impersonal consciousness, while the Christian God is personal, relational, and knowable through Jesus Christ[^117].
+    **4. Impersonal vs. Personal God:** Hindu ultimate reality (Brahman) is often described as impersonal consciousness, while the Christian God is personal, relational, and knowable through Jesus Christ[^118].
   </div>
 
   <div style="margin: 10px 0;">
-    **5. Uncertain Liberation vs. Assured Salvation:** While some Hindu schools teach eventual moksha (liberation), the various paths (karma, bhakti, jnana) offer no certain timeline or guarantee, and most require multiple lifetimes. Christianity provides immediate assurance of salvation and eternal life through faith in Christ[^118].
+    **5. Uncertain Liberation vs. Assured Salvation:** While some Hindu schools teach eventual moksha (liberation), the various paths (karma, bhakti, jnana) offer no certain timeline or guarantee, and most require multiple lifetimes. Christianity provides immediate assurance of salvation and eternal life through faith in Christ[^119].
   </div>
 
   **Conclusion:** While appreciating Hinduism's spiritual depth and cultural richness, Christianity provides clearer revelation of God's nature, assured salvation, and ultimate hope beyond the cycles of karma and rebirth.
@@ -392,10 +392,10 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Greek Polytheism:**
 
-  Greek polytheism was the religious system of ancient Greece, centered on the worship of the Olympian gods and goddesses[^119]. The pantheon included major deities like Zeus (king of gods), Hera (goddess of marriage), Poseidon (god of the sea), Athena (goddess of wisdom), and Apollo (god of prophecy and music, later identified with the sun). Greeks believed these gods controlled various aspects of life and nature, requiring worship, sacrifices, and rituals to gain favor. The religion included mystery cults, oracles (especially at Delphi), and elaborate festivals.
+  Greek polytheism was the religious system of ancient Greece, centered on the worship of the Olympian gods and goddesses[^120]. The pantheon included major deities like Zeus (king of gods), Hera (goddess of marriage), Poseidon (god of the sea), Athena (goddess of wisdom), and Apollo (god of prophecy and music, later identified with the sun). Greeks believed these gods controlled various aspects of life and nature, requiring worship, sacrifices, and rituals to gain favor. The religion included mystery cults, oracles (especially at Delphi), and elaborate festivals.
 
 
-  **📅 Date Founded:** Systematic development c. 800-500 BC during the Archaic period, though rooted in earlier Bronze Age religious traditions including Minoan (c. 2700-1100 BC) and Mycenaean (c. 1600-1100 BC) practices[^120]
+  **📅 Date Founded:** Systematic development c. 800-500 BC during the Archaic period, though rooted in earlier Bronze Age religious traditions including Minoan (c. 2700-1100 BC) and Mycenaean (c. 1600-1100 BC) practices[^121]
 </div>
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; margin-bottom: 20px; width: 100%;">
@@ -405,17 +405,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Cultural foundation:** Provided foundation for Western literature, art, and philosophy[^121][^122]
+    - **Cultural foundation:** Provided foundation for Western literature, art, and philosophy[^122][^123]
 
-      - **Community cohesion:** Festivals and rituals strengthened social bonds[^123]
+      - **Community cohesion:** Festivals and rituals strengthened social bonds[^124]
 
-      - **Moral stories:** Myths taught lessons about hubris, justice, and virtue[^124]
+      - **Moral stories:** Myths taught lessons about hubris, justice, and virtue[^125]
 
-      - **Democratic values:** Influenced development of democratic ideals in Athens[^125]
+      - **Democratic values:** Influenced development of democratic ideals in Athens[^126]
 
-      - **Artistic inspiration:** Produced magnificent temples, sculptures, and literature[^126][^127]
+      - **Artistic inspiration:** Produced magnificent temples, sculptures, and literature[^127][^128]
 
-      - **Mystery traditions:** Offered deeper spiritual experiences through mystery cults[^128]
+      - **Mystery traditions:** Offered deeper spiritual experiences through mystery cults[^129]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -424,17 +424,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Internal mythological contradictions:** Multiple conflicting origin stories and genealogies of the same gods[^129]
+    - **Internal mythological contradictions:** Greek sources give differing origin stories and genealogies for the same gods[^130][^131]
 
-      - **Moral inconsistencies:** Gods praised for virtues while simultaneously committing acts condemned in mortals[^130]
+      - **Moral inconsistencies:** Gods praised for virtues while simultaneously committing acts condemned in mortals[^132]
 
-      - **Historical extinction:** Public cult ended in late antiquity. Its decline owed much to imperial legislation, including the Theodosian bans on sacrifice in the 390s, so its disappearance is not by itself evidence that it failed its adherents[^131]
+      - **Historical extinction:** Public cult ended in late antiquity. Its decline owed much to imperial legislation, including the Theodosian bans on sacrifice in the 390s, so its disappearance is not by itself evidence that it failed its adherents[^133]
 
-      - **Anthropomorphic limitations:** Gods displayed human emotions and limitations, contradicting claims of divinity[^132]
+      - **Anthropomorphic limitations:** Gods displayed human emotions and limitations, contradicting claims of divinity[^134]
 
-      - **Oracle reliability:** The most famous Delphic responses are ambiguous or known only from later literary sources, and modern study concludes that many of the dramatic ones are legendary rather than historical[^133]
+      - **Oracle reliability:** The most famous Delphic responses are ambiguous or known only from later literary sources, and modern study concludes that many of the dramatic ones are legendary rather than historical[^135]
 
-      - **Lack of coherent theology:** No systematic doctrine - beliefs varied significantly between city-states[^134][^135]
+      - **Lack of coherent theology:** No systematic doctrine - beliefs varied significantly between city-states[^136][^137]
     </div>
 </div>
 
@@ -486,17 +486,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Social cohesion:** United diverse peoples under common religious framework[^136]
+    - **Social cohesion:** United diverse peoples under common religious framework[^138]
 
-      - **Civic duty:** Public cult bound worship to duty toward the community and state[^137][^138]
+      - **Civic duty:** Public cult bound worship to duty toward the community and state[^139][^140]
 
-      - **Religious tolerance:** Generally accepted foreign gods and practices[^139][^138]
+      - **Religious tolerance:** Generally accepted foreign gods and practices[^141][^140]
 
-      - **Legal framework:** Contributed to development of Roman law and jurisprudence[^140]
+      - **Legal framework:** Contributed to development of Roman law and jurisprudence[^142]
 
-      - **Administrative efficiency:** Organized religious practices for vast empire[^138]
+      - **Administrative efficiency:** Organized religious practices for vast empire[^140]
 
-      - **Cultural preservation:** Preserved and transmitted Greek and other traditions[^141][^142]
+      - **Cultural preservation:** Preserved and transmitted Greek and other traditions[^143][^144]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -505,17 +505,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Internal mythological contradictions:** Competing and conflicting accounts of Rome's founding, including the Romulus and Aeneas traditions, between different sources[^143][^142]
+    - **Internal mythological contradictions:** Competing and conflicting accounts of Rome's founding, including the Romulus and Aeneas traditions, between different sources[^145][^144]
 
-      - **Religious syncretism:** Roman religion heavily adapted Greek deities and myths, often changing names while adopting similar attributes and stories, showing cultural borrowing rather than independent development[^144][^138]
+      - **Religious syncretism:** Roman religion heavily adapted Greek deities and myths, often changing names while adopting similar attributes and stories, showing cultural borrowing rather than independent development[^146][^140]
 
-      - **Political manipulation:** Religious practices were often changed to serve political purposes rather than spiritual truth[^145][^138]
+      - **Political manipulation:** Religious practices were often changed to serve political purposes rather than spiritual truth[^147][^140]
 
-      - **State-controlled theology:** Emperor worship contradicted earlier religious principles and was enforced through political pressure[^146]
+      - **State-controlled theology:** Emperor worship contradicted earlier religious principles and was enforced through political pressure[^148]
 
-      - **Historical extinction:** The religion was replaced by Christianity, a process driven by conversion and, from Theodosius I onward, by laws closing temples and banning sacrifice[^147]
+      - **Historical extinction:** The religion was replaced by Christianity, a process driven by conversion and, from Theodosius I onward, by laws closing temples and banning sacrifice[^149]
 
-      - **Limited theological development:** Roman religion had distinctive native elements, including Janus, Vesta, the household lares and penates and an elaborate augural system, but it centred on correct ritual rather than on doctrine, and it produced little systematic theology of its own[^148][^138]
+      - **Limited theological development:** Roman religion had distinctive native elements, including Janus, Vesta, the household lares and penates and an elaborate augural system, but it centred on correct ritual rather than on doctrine, and it produced little systematic theology of its own[^150][^140]
     </div>
 </div>
 
@@ -554,7 +554,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Buddhism:**
 
-  Buddhism was founded by Siddhartha Gautama (the Buddha) and focuses on the path to enlightenment through understanding the Four Noble Truths and following the Eightfold Path. Buddhists believe in the cycle of rebirth (samsara) driven by karma, and seek to achieve nirvana - the cessation of suffering and release from the cycle of rebirth. The religion emphasizes meditation, ethical conduct, wisdom, and compassion. Pew Research Center estimated about 488 million Buddhists in 2010, making Buddhism the fourth-largest religion globally[^149][^150]. Major traditions include Theravada, Mahayana, and Vajrayana Buddhism.
+  Buddhism was founded by Siddhartha Gautama (the Buddha) and focuses on the path to enlightenment through understanding the Four Noble Truths and following the Eightfold Path. Buddhists believe in the cycle of rebirth (samsara) driven by karma, and seek to achieve nirvana - the cessation of suffering and release from the cycle of rebirth. The religion emphasizes meditation, ethical conduct, wisdom, and compassion. Pew Research Center estimated about 488 million Buddhists in 2010, making Buddhism the fourth-largest religion globally[^151][^152]. Major traditions include Theravada, Mahayana, and Vajrayana Buddhism.
 
 
   **📅 Date Founded:** c. 6th-4th century BC in northeastern India by Siddhartha Gautama (Buddha)
@@ -567,17 +567,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Compassion emphasis:** Strong focus on reducing suffering for all sentient beings[^151][^152]
+    - **Compassion emphasis:** Strong focus on reducing suffering for all sentient beings[^153][^154]
 
-      - **Meditation practices:** Developed sophisticated mindfulness and meditation techniques[^153][^154]
+      - **Meditation practices:** Developed sophisticated mindfulness and meditation techniques[^155][^156]
 
-      - **Non-violence:** Commitment to ahimsa (non-harm) toward all living beings[^155][^156]
+      - **Non-violence:** Commitment to ahimsa (non-harm) toward all living beings[^157][^158]
 
-      - **Personal responsibility:** Emphasizes individual accountability for actions and their consequences[^157]
+      - **Personal responsibility:** Emphasizes individual accountability for actions and their consequences[^159]
 
-      - **Philosophical depth:** Addresses fundamental questions about suffering and existence[^158]
+      - **Philosophical depth:** Addresses fundamental questions about suffering and existence[^160]
 
-      - **Peaceful traditions:** Generally promoted peaceful coexistence and tolerance[^159]
+      - **Peaceful traditions:** Generally promoted peaceful coexistence and tolerance[^161]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -586,17 +586,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Diversity across schools:** Theravada, Mahayana and Vajrayana differ on major questions, including how many Buddhas there are and what exactly is denied by the doctrine of no-self. Christianity's own branches differ comparably on questions of similar weight, so this is recorded as a feature of a tradition spread over two and a half millennia rather than pressed as an objection[^160][^161]
+    - **Diversity across schools:** Theravada, Mahayana and Vajrayana differ on major questions, including how many Buddhas there are and what exactly is denied by the doctrine of no-self. Christianity's own branches differ comparably on questions of similar weight, so this is recorded as a feature of a tradition spread over two and a half millennia rather than pressed as an objection[^162][^163]
 
-      - **Karma without a self:** If there is no permanent self, what carries karma from one life to the next is a real question, and Buddhism has developed answers to it: dependent origination, the continuity of a causal mind-stream rather than a substance, and the argument in the *Milindapanha* that a chariot's identity is conventional yet serviceable. Critics reply that a purely conventional continuity does not obviously make a future rebirth *the same person's* reward or punishment, which is the point at which the moral force of karma is at stake. The objection is live and much discussed inside Buddhist philosophy, not an oversight[^162][^163]
+      - **Karma without a self:** If there is no permanent self, what carries karma from one life to the next is a real question, and Buddhism has developed answers to it: dependent origination, the continuity of a causal mind-stream rather than a substance, and the argument in the *Milindapanha* that a chariot's identity is conventional yet serviceable. Critics reply that a purely conventional continuity does not obviously make a future rebirth *the same person's* reward or punishment, which is the point at which the moral force of karma is at stake. The objection is live and much discussed inside Buddhist philosophy, not an oversight[^164][^165]
 
-      - **Textual development:** Miraculous birth accounts, supernatural powers and cosmic events appear in later strata of the Buddhist canon rather than in the earliest material. The same kind of historical-critical question is asked of the Christian sources, and Christians answer it by arguing for early dating and proximity to eyewitnesses rather than by denying that the question is legitimate. Applied here it is a fair observation about textual layering; it is not a charge only other religions have to answer[^164][^158]
+      - **Textual development:** Miraculous birth accounts, supernatural powers and cosmic events appear in later strata of the Buddhist canon rather than in the earliest material. The same kind of historical-critical question is asked of the Christian sources, and Christians answer it by arguing for early dating and proximity to eyewitnesses rather than by denying that the question is legitimate. Applied here it is a fair observation about textual layering; it is not a charge only other religions have to answer[^166][^160]
 
-      - **Compassion and detachment:** This is often listed as a contradiction and it is not one on Buddhist terms. Non-attachment means freedom from craving rather than indifference to others, and the Mahayana bodhisattva vow makes the liberation of all beings the purpose of the path. The genuine philosophical question is a narrower one, whether a tradition that regards the individual self as ultimately unreal can ground the value of persons in the way Christian theology does through the image of God[^152]
+      - **Compassion and detachment:** This is often listed as a contradiction and it is not one on Buddhist terms. Non-attachment means freedom from craving rather than indifference to others, and the Mahayana bodhisattva vow makes the liberation of all beings the purpose of the path. The genuine philosophical question is a narrower one, whether a tradition that regards the individual self as ultimately unreal can ground the value of persons in the way Christian theology does through the image of God[^154]
 
-      - **Cosmology:** Traditional Buddhist cosmology, with Mount Meru and its world-systems, does not correspond to modern astronomy or geology. Modern Buddhist thinkers commonly treat it as cosmological myth rather than as physical description[^165][^166]
+      - **Cosmology:** Traditional Buddhist cosmology, with Mount Meru and its world-systems, does not correspond to modern astronomy or geology. Modern Buddhist thinkers commonly treat it as cosmological myth rather than as physical description[^167][^168]
 
-      - **Monasticism and the world:** Monastic withdrawal alongside a commitment to universal compassion has been criticised as inconsistent. The same criticism has long been made of Christian monasticism, which Christians defend as a life of prayer, learning and service, so this charge is not available without qualification to anyone making it from a Christian position[^167][^161]
+      - **Monasticism and the world:** Monastic withdrawal alongside a commitment to universal compassion has been criticised as inconsistent. The same criticism has long been made of Christian monasticism, which Christians defend as a life of prayer, learning and service, so this charge is not available without qualification to anyone making it from a Christian position[^169][^163]
     </div>
 </div>
 
@@ -654,17 +654,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Personal empowerment:** Encourages individual spiritual exploration and self-discovery[^168][^169]
+    - **Personal empowerment:** Encourages individual spiritual exploration and self-discovery[^170][^171]
 
-      - **Environmental consciousness:** Often stresses connection with nature, and the Vatican's study of the movement notes its ecological concern[^170][^169]
+      - **Environmental consciousness:** Often stresses connection with nature, and the Vatican's study of the movement notes its ecological concern[^172][^171]
 
-      - **Holistic approach:** Considers physical, mental, and spiritual aspects of human experience[^171][^169]
+      - **Holistic approach:** Considers physical, mental, and spiritual aspects of human experience[^173][^171]
 
-      - **Gender equality:** Many movements emphasize feminine divine aspects and gender equality[^172]
+      - **Gender equality:** Many movements emphasize feminine divine aspects and gender equality[^174]
 
-      - **Cultural inclusivity:** Draws on many world traditions, Eastern and Western[^173][^169]
+      - **Cultural inclusivity:** Draws on many world traditions, Eastern and Western[^175][^171]
 
-      - **Therapeutic elements:** Offers psychological benefits through meditation and self-reflection[^174]
+      - **Therapeutic elements:** Offers psychological benefits through meditation and self-reflection[^176]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -673,17 +673,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Internal contradictions:** Many movements combine mutually exclusive beliefs (e.g., claiming both Buddhist non-self and individualistic self-empowerment)[^175][^169]
+    - **Internal contradictions:** Many movements combine mutually exclusive beliefs (e.g., claiming both Buddhist non-self and individualistic self-empowerment)[^177][^171]
 
-      - **Lack of historical foundation:** Most practices claim ancient origins while being recently invented (e.g., modern Wicca created in the 1950s)[^176]
+      - **Lack of historical foundation:** Most practices claim ancient origins while being recently invented (e.g., modern Wicca created in the 1950s)[^178]
 
-      - **Scientific contradictions:** Tests of energy healing and astrology have not supported their claims, and they have no basis in established physics or medicine[^177][^171][^178]
+      - **Scientific contradictions:** Tests of energy healing and astrology have not supported their claims, and they have no basis in established physics or medicine[^179][^173][^180]
 
-      - **Logical inconsistencies:** Simultaneous claims of universal truth and subjective relativism[^179]
+      - **Logical inconsistencies:** Simultaneous claims of universal truth and subjective relativism[^181]
 
-      - **Commercialisation:** Paid courses, certifications and product ranges are central to the economics of several of these movements, and doctrine sometimes tracks what sells. The observation is fair; it is also one Christians have to accept about the prosperity gospel and parts of the televangelism industry, so it identifies a failure mode that religion in general is prone to rather than a feature unique to new movements[^180]
+      - **Commercialisation:** Paid courses, certifications and product ranges are central to the economics of several of these movements, and doctrine sometimes tracks what sells. The observation is fair; it is also one Christians have to accept about the prosperity gospel and parts of the televangelism industry, so it identifies a failure mode that religion in general is prone to rather than a feature unique to new movements[^182]
 
-      - **Coercive group dynamics:** Some groups show the recognised marks of coercive control, including isolation from family, information restriction and financial exploitation. This applies to specific organisations rather than to the category as a whole, and Christian groups have produced their own documented examples of the same pattern[^181]
+      - **Coercive group dynamics:** Some groups show the recognised marks of coercive control, including isolation from family, information restriction and financial exploitation. This applies to specific organisations rather than to the category as a whole, and Christian groups have produced their own documented examples of the same pattern[^183]
     </div>
 </div>
 
@@ -723,7 +723,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Sikhism:**
 
-  Sikhism was founded by Guru Nanak in 15th-century Punjab and developed through nine successive Gurus. Sikhs believe in one God (Waheguru) and follow the teachings recorded in the Guru Granth Sahib, their holy scripture. The religion emphasizes devotion to God, equality of all people regardless of caste or gender, honest work, and sharing with others. Sikhs practice the three pillars: meditation on God's name (Naam Japna), honest livelihood (Kirat Karni), and sharing with the needy (Vand Chakna). The faith includes the concept of reincarnation and karma but focuses on liberation in this lifetime. Sikhism has approximately 25 to 30 million followers worldwide and is commonly listed as the fifth-largest organized religion[^182].
+  Sikhism was founded by Guru Nanak in 15th-century Punjab and developed through nine successive Gurus. Sikhs believe in one God (Waheguru) and follow the teachings recorded in the Guru Granth Sahib, their holy scripture. The religion emphasizes devotion to God, equality of all people regardless of caste or gender, honest work, and sharing with others. Sikhs practice the three pillars: meditation on God's name (Naam Japna), honest livelihood (Kirat Karni), and sharing with the needy (Vand Chakna). The faith includes the concept of reincarnation and karma but focuses on liberation in this lifetime. Sikhism has approximately 25 to 30 million followers worldwide and is commonly listed as the fifth-largest organized religion[^184].
 
 
   **📅 Date Founded:** c. 1500 AD in Punjab (modern-day India/Pakistan) by Guru Nanak Dev (born 1469), who began his public teaching around 1499
@@ -736,17 +736,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Monotheistic clarity:** Clear belief in one supreme God (Waheguru)[^183]
+    - **Monotheistic clarity:** Clear belief in one supreme God (Waheguru)[^185]
 
-      - **Social equality:** Rejected caste system and promoted equality regardless of birth[^184][^185]
+      - **Social equality:** Rejected caste system and promoted equality regardless of birth[^186][^187]
 
-      - **Gender equality:** Sikh teaching gives women equal spiritual status, and they may lead worship[^186][^182]
+      - **Gender equality:** Sikh teaching gives women equal spiritual status, and they may lead worship[^188][^184]
 
-      - **Community service:** Strong tradition of selfless service (seva) and charity[^187][^184]
+      - **Community service:** Strong tradition of selfless service (seva) and charity[^189][^186]
 
-      - **Honest living:** Emphasis on earning through legitimate means and hard work[^188]
+      - **Honest living:** Emphasis on earning through legitimate means and hard work[^190]
 
-      - **Religious tolerance:** Generally peaceful coexistence with other faiths[^189][^190]
+      - **Religious tolerance:** Generally peaceful coexistence with other faiths[^191][^192]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -755,17 +755,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Relationship to Hinduism and Islam:** Older Western scholarship described Sikhism as a synthesis of Hindu and Islamic ideas. Sikh scholars and most modern specialists reject that description, holding that Guru Nanak's teaching is a distinct revelation that rejects both, so the point is a matter of debate rather than an established defect[^191][^192]
+    - **Relationship to Hinduism and Islam:** Older Western scholarship described Sikhism as a synthesis of Hindu and Islamic ideas. Sikh scholars and most modern specialists reject that description, holding that Guru Nanak's teaching is a distinct revelation that rejects both, so the point is a matter of debate rather than an established defect[^193][^194]
 
-      - **Karma-reincarnation problems:** Keeps karma and rebirth, so it meets the same objections Christians raise against the Hindu system[^193][^192]
+      - **Karma-reincarnation problems:** Keeps karma and rebirth, so it meets the same objections Christians raise against the Hindu system[^195][^194]
 
-      - **Historical anachronisms:** Some teachings attributed to early Gurus show later theological development[^194]
+      - **Historical anachronisms:** Some teachings attributed to early Gurus show later theological development[^196]
 
-      - **Limited historical verification:** Many biographical details of Guru Nanak are legendary rather than historical[^185]
+      - **Limited historical verification:** Many biographical details of Guru Nanak are legendary rather than historical[^187]
 
-      - **Internal sectarian divisions:** Different groups interpret Guru's teachings differently[^195]
+      - **Internal sectarian divisions:** Different groups interpret Guru's teachings differently[^197]
 
-      - **Grace and effort:** Sikh scripture teaches that liberation comes by divine grace (*nadar*): in the Japji, good actions earn the "robe" but grace opens "the gate of liberation". The Christian disagreement is over whether that grace is grounded in an atonement, not over whether Sikhism has a doctrine of grace[^196]
+      - **Grace and effort:** Sikh scripture teaches that liberation comes by divine grace (*nadar*): in the Japji, good actions earn the "robe" but grace opens "the gate of liberation". The Christian disagreement is over whether that grace is grounded in an atonement, not over whether Sikhism has a doctrine of grace[^198]
     </div>
 </div>
 
@@ -810,7 +810,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Jainism:**
 
-  Jainism was founded in 6th century BC India by Mahavira (though Jains trace their tradition to earlier Tirthankaras). Central to Jainism is the principle of ahimsa (non-violence) toward all living beings, extending even to microscopic life forms. Jains believe in karma, reincarnation, and liberation (moksha) through ethical conduct, right knowledge, and ascetic practices. The religion emphasizes strict vegetarianism, truth-telling, non-stealing, sexual restraint (celibacy for monastics, fidelity for laypeople), and non-attachment. Jains worship Tirthankaras (spiritual teachers) who have achieved liberation. As of 2024, Jainism has approximately 4.5 million followers worldwide, primarily concentrated in India[^197].
+  Jainism was founded in 6th century BC India by Mahavira (though Jains trace their tradition to earlier Tirthankaras). Central to Jainism is the principle of ahimsa (non-violence) toward all living beings, extending even to microscopic life forms. Jains believe in karma, reincarnation, and liberation (moksha) through ethical conduct, right knowledge, and ascetic practices. The religion emphasizes strict vegetarianism, truth-telling, non-stealing, sexual restraint (celibacy for monastics, fidelity for laypeople), and non-attachment. Jains worship Tirthankaras (spiritual teachers) who have achieved liberation. As of 2024, Jainism has approximately 4.5 million followers worldwide, primarily concentrated in India[^199].
 
 
   **📅 Date Founded:** 6th century BC in India, with Mahavira as the 24th Tirthankara
@@ -823,17 +823,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Non-violence commitment:** Strongest possible commitment to avoiding harm to all life[^198]
+    - **Non-violence commitment:** Strongest possible commitment to avoiding harm to all life[^200]
 
-      - **Environmental consciousness:** Deep respect for nature and all living beings[^199]
+      - **Environmental consciousness:** Deep respect for nature and all living beings[^201]
 
-      - **Ethical strictness:** High moral standards and personal accountability[^156]
+      - **Ethical strictness:** High moral standards and personal accountability[^158]
 
-      - **Truth emphasis:** Strong commitment to honesty and truthfulness[^200][^156]
+      - **Truth emphasis:** Strong commitment to honesty and truthfulness[^202][^158]
 
-      - **Self-discipline:** Develops remarkable personal self-control and restraint[^201]
+      - **Self-discipline:** Develops remarkable personal self-control and restraint[^203]
 
-      - **Charitable giving:** Strong tradition of philanthropy and community support[^202]
+      - **Charitable giving:** Strong tradition of philanthropy and community support[^204]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -842,17 +842,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Extreme asceticism:** Self-starvation (sallekhana) and extreme practices can lead to death[^203][^204]
+    - **Extreme asceticism:** Self-starvation (sallekhana) and extreme practices can lead to death[^205][^206]
 
-      - **Impractical ethics:** Absolute non-violence makes normal life nearly impossible[^205][^156]
+      - **Impractical ethics:** Absolute non-violence makes normal life nearly impossible[^207][^158]
 
-      - **Karma and intention:** Jain teaching holds that harm done carelessly still binds karma, though it treats the passions behind an act as the chief factor in how strongly karma binds. Critics argue that assigning any karmic weight to unintended harm sits uneasily with ordinary ideas of moral responsibility[^206]
+      - **Karma and intention:** Jain teaching holds that harm done carelessly still binds karma, though it treats the passions behind an act as the chief factor in how strongly karma binds. Critics argue that assigning any karmic weight to unintended harm sits uneasily with ordinary ideas of moral responsibility[^208]
 
-      - **Scientific conflicts:** The traditional classification of beings by number of senses includes souls embodied in earth, water, fire and air, which modern biology does not recognise as living[^207]
+      - **Scientific conflicts:** The traditional classification of beings by number of senses includes souls embodied in earth, water, fire and air, which modern biology does not recognise as living[^209]
 
-      - **Historical problems:** Many biographical details of Tirthankaras are clearly mythological[^208]
+      - **Historical problems:** Many biographical details of Tirthankaras are clearly mythological[^210]
 
-      - **Social isolation:** Monks and nuns renounce household life under strict vows, which limits ordinary community life[^209][^156]
+      - **Social isolation:** Monks and nuns renounce household life under strict vows, which limits ordinary community life[^211][^158]
     </div>
 </div>
 
@@ -892,7 +892,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Bahá'í Faith:**
 
-  The Bahá'í Faith was founded by Bahá'u'lláh in 19th-century Persia. Bahá'ís believe in the unity of God, unity of religion, and unity of humanity. They view all major religions as progressive revelations from the same God, with Bahá'u'lláh as the latest messenger for this age. The faith emphasizes world peace, universal education, gender equality, elimination of prejudice, and the harmony of science and religion. Bahá'ís practice devotional gatherings, study circles, and children's classes, working toward global unity and justice. As of 2024, the Bahá'í Faith has approximately 5-8 million adherents worldwide, spread across over 200 countries[^210].
+  The Bahá'í Faith was founded by Bahá'u'lláh in 19th-century Persia. Bahá'ís believe in the unity of God, unity of religion, and unity of humanity. They view all major religions as progressive revelations from the same God, with Bahá'u'lláh as the latest messenger for this age. The faith emphasizes world peace, universal education, gender equality, elimination of prejudice, and the harmony of science and religion. Bahá'ís practice devotional gatherings, study circles, and children's classes, working toward global unity and justice. As of 2024, the Bahá'í Faith has approximately 5-8 million adherents worldwide, spread across over 200 countries[^212].
 
 
   **📅 Date Founded:** 1844 AD in Persia with the Báb's declaration; 1863 AD when Bahá'u'lláh proclaimed his mission as the promised one foretold by the Báb
@@ -905,17 +905,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Unity emphasis:** Promotes unity among different races, nations, and religions[^211][^212]
+    - **Unity emphasis:** Promotes unity among different races, nations, and religions[^213][^214]
 
-      - **Gender equality:** Strong advocate for women's rights and equality[^213]
+      - **Gender equality:** Strong advocate for women's rights and equality[^215]
 
-      - **Education focus:** Emphasizes universal education and literacy[^214][^215]
+      - **Education focus:** Emphasizes universal education and literacy[^216][^217]
 
-      - **Social justice:** Advocates for elimination of prejudice and poverty[^216][^215]
+      - **Social justice:** Advocates for elimination of prejudice and poverty[^218][^217]
 
-      - **Science and religion harmony:** Attempts to reconcile scientific and spiritual truth[^217][^218]
+      - **Science and religion harmony:** Attempts to reconcile scientific and spiritual truth[^219][^220]
 
-      - **World peace:** Works actively for global peace and international cooperation[^215]
+      - **World peace:** Works actively for global peace and international cooperation[^217]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -924,16 +924,16 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Progressive revelation:** Teaches that the major religions derive from successive revelations of one God, and explains their present contradictions as later human distortion. Christians object that the contradictions concern central claims, such as the death and resurrection of Jesus, which cannot all be later additions[^219][^220]
+    - **Progressive revelation:** Teaches that the major religions derive from successive revelations of one God, and explains their present contradictions as later human distortion. Christians object that the contradictions concern central claims, such as the death and resurrection of Jesus, which cannot all be later additions[^221][^222]
 
 
-      - **Historical inaccuracies:** Bahá'u'lláh's Tablet of Wisdom makes Empedocles a contemporary of David and Pythagoras a contemporary of Solomon, a chronology at odds with modern historical dating that Bahá'í scholars have had to address[^221]
+      - **Historical inaccuracies:** Bahá'u'lláh's Tablet of Wisdom makes Empedocles a contemporary of David and Pythagoras a contemporary of Solomon, a chronology at odds with modern historical dating that Bahá'í scholars have had to address[^223]
 
-      - **Prophecy expectations:** 'Abdu'l-Bahá wrote that the unity of nations would be securely established in the twentieth century, and many Bahá'ís expected the Lesser Peace before 2000; the Universal House of Justice later stated that the Writings set no such date[^222]
+      - **Prophecy expectations:** 'Abdu'l-Bahá wrote that the unity of nations would be securely established in the twentieth century, and many Bahá'ís expected the Lesser Peace before 2000; the Universal House of Justice later stated that the Writings set no such date[^224]
 
-      - **Authoritarian structure:** Despite universal principles, maintains strict hierarchical control[^223]
+      - **Authoritarian structure:** Despite universal principles, maintains strict hierarchical control[^225]
 
-      - **Syncretistic inconsistencies:** Combines incompatible theological concepts from different traditions[^212]
+      - **Syncretistic inconsistencies:** Combines incompatible theological concepts from different traditions[^214]
     </div>
 </div>
 
@@ -973,7 +973,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Confucianism:**
 
-  Confucianism is a comprehensive philosophical and ethical system based on the teachings of Confucius (Kong Qiu) in ancient China. While primarily philosophical, it functions as a complete worldview and belief system that has guided entire civilizations for over 2,000 years[^224][^225]. Confucianism emphasizes moral cultivation, social harmony, filial piety, respect for elders and authority, education, and proper relationships (ruler-subject, parent-child, husband-wife, elder-younger, friend-friend). The system focuses on virtue ethics, ritual propriety (li), humaneness (ren), and the cultivation of the "gentleman" (junzi) ideal. Adherent counts are not meaningful in the way they are for other traditions, because Confucian ethics shape the cultures of China, Korea, Japan and Vietnam while few people identify Confucianism as their sole religion[^226][^227][^228].
+  Confucianism is a comprehensive philosophical and ethical system based on the teachings of Confucius (Kong Qiu) in ancient China. While primarily philosophical, it functions as a complete worldview and belief system that has guided entire civilizations for over 2,000 years[^226][^227]. Confucianism emphasizes moral cultivation, social harmony, filial piety, respect for elders and authority, education, and proper relationships (ruler-subject, parent-child, husband-wife, elder-younger, friend-friend). The system focuses on virtue ethics, ritual propriety (li), humaneness (ren), and the cultivation of the "gentleman" (junzi) ideal. Adherent counts are not meaningful in the way they are for other traditions, because Confucian ethics shape the cultures of China, Korea, Japan and Vietnam while few people identify Confucianism as their sole religion[^228][^229][^230].
 
 
   **📅 Date Founded:** 6th-5th century BC in China by Confucius (Kong Qiu)
@@ -986,17 +986,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Social harmony:** Promotes stable, harmonious relationships in society[^229]
+    - **Social harmony:** Promotes stable, harmonious relationships in society[^231]
 
-      - **Educational emphasis:** Strong value placed on learning and self-improvement[^225]
+      - **Educational emphasis:** Strong value placed on learning and self-improvement[^227]
 
-      - **Family values:** Emphasizes respect for parents and family obligations[^230][^231]
+      - **Family values:** Emphasizes respect for parents and family obligations[^232][^233]
 
-      - **Moral cultivation:** Focus on developing personal virtue and character[^232]
+      - **Moral cultivation:** Focus on developing personal virtue and character[^234]
 
-      - **Social responsibility:** Encourages leaders to serve the common good[^231]
+      - **Social responsibility:** Encourages leaders to serve the common good[^233]
 
-      - **Cultural preservation:** Maintained Chinese cultural traditions for millennia[^233][^225]
+      - **Cultural preservation:** Maintained Chinese cultural traditions for millennia[^235][^227]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1005,17 +1005,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Hierarchical rigidity:** Reinforces social stratification and limits social mobility[^234]
+    - **Hierarchical rigidity:** Reinforces social stratification and limits social mobility[^236]
 
-      - **Gender inequality:** Traditional interpretations subordinate women to male authority[^235][^229]
+      - **Gender inequality:** Traditional interpretations subordinate women to male authority[^237][^231]
 
-      - **Lack of transcendent foundation:** Provides no ultimate basis for moral claims beyond social convention[^236]
+      - **Lack of transcendent foundation:** Provides no ultimate basis for moral claims beyond social convention[^238]
 
-      - **Historical adaptability:** Has been used to justify various political systems, from authoritarianism to democracy[^237]
+      - **Historical adaptability:** Has been used to justify various political systems, from authoritarianism to democracy[^239]
 
-      - **Limited spiritual dimension:** Focuses on earthly relationships while neglecting eternal spiritual needs[^238][^225]
+      - **Limited spiritual dimension:** Focuses on earthly relationships while neglecting eternal spiritual needs[^240][^227]
 
-      - **Ancestor veneration problems:** Worship of deceased ancestors borders on idolatry[^239]
+      - **Ancestor veneration problems:** Worship of deceased ancestors borders on idolatry[^241]
     </div>
 </div>
 
@@ -1060,7 +1060,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Taoism/Daoism:**
 
-  Taoism is a Chinese philosophical and religious tradition emphasizing living in harmony with the Tao (道), often translated as "the Way." Traditionally attributed to Laozi (dated to the 6th century BC, though his historicity is uncertain), and organised as a religion from the 2nd century AD with the Celestial Masters movement, Taoism teaches that the Tao is the ultimate reality underlying all existence. Key concepts include wu wei (non-action or effortless action), yin and yang (complementary opposites), and ziran (naturalness). Taoism emphasizes simplicity, spontaneity, and balance with nature, seeking to align human behavior with the natural order of the universe[^240].
+  Taoism is a Chinese philosophical and religious tradition emphasizing living in harmony with the Tao (道), often translated as "the Way." Traditionally attributed to Laozi (dated to the 6th century BC, though his historicity is uncertain), and organised as a religion from the 2nd century AD with the Celestial Masters movement, Taoism teaches that the Tao is the ultimate reality underlying all existence. Key concepts include wu wei (non-action or effortless action), yin and yang (complementary opposites), and ziran (naturalness). Taoism emphasizes simplicity, spontaneity, and balance with nature, seeking to align human behavior with the natural order of the universe[^242].
 
 
   **📅 Date Founded:** 6th century BC in China, traditionally attributed to Laozi
@@ -1073,17 +1073,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Environmental harmony:** Emphasizes living in balance with nature[^241]
+    - **Environmental harmony:** Emphasizes living in balance with nature[^243]
 
-      - **Humility and simplicity:** Values modesty and simple living[^242][^243]
+      - **Humility and simplicity:** Values modesty and simple living[^244][^245]
 
-      - **Peaceful approach:** The Tao Te Ching warns against force and war[^244][^245]
+      - **Peaceful approach:** The Tao Te Ching warns against force and war[^246][^247]
 
-      - **Stress reduction:** Wu wei concept can reduce anxiety and striving[^246][^240]
+      - **Stress reduction:** Wu wei concept can reduce anxiety and striving[^248][^242]
 
-      - **Holistic thinking:** Recognizes interconnectedness of all things[^247]
+      - **Holistic thinking:** Recognizes interconnectedness of all things[^249]
 
-      - **Personal reflection:** Encourages introspection and self-awareness[^248][^242]
+      - **Personal reflection:** Encourages introspection and self-awareness[^250][^244]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1092,17 +1092,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Moral grounding:** The *Tao Te Ching* commends compassion, frugality and humility (its "three treasures"), but it also describes Heaven and Earth as not humane and treats conventional moral categories as signs that the Way has been lost. Christians object that an impersonal Way cannot ground moral obligation[^249]
+    - **Moral grounding:** The *Tao Te Ching* commends compassion, frugality and humility (its "three treasures"), but it also describes Heaven and Earth as not humane and treats conventional moral categories as signs that the Way has been lost. Christians object that an impersonal Way cannot ground moral obligation[^251]
 
-      - **The nature of the Tao:** The Tao is described as both transcendent and immanent, and while philosophical Daoism treats it as impersonal, religious Daoism deified Laozi and developed a large pantheon, so the tradition holds two quite different pictures of ultimate reality[^250]
+      - **The nature of the Tao:** The Tao is described as both transcendent and immanent, and while philosophical Daoism treats it as impersonal, religious Daoism deified Laozi and developed a large pantheon, so the tradition holds two quite different pictures of ultimate reality[^252]
 
-      - **Historical problems:** Laozi may be a legendary figure; the Tao Te Ching shows multiple authorship[^251][^252]
+      - **Historical problems:** Laozi may be a legendary figure; the Tao Te Ching shows multiple authorship[^253][^254]
 
-      - **Practical ineffectiveness:** Wu wei philosophy can lead to passivity in face of injustice[^253]
+      - **Practical ineffectiveness:** Wu wei philosophy can lead to passivity in face of injustice[^255]
 
-      - **Naturalistic fallacy:** Assumes what is natural is automatically good[^254]
+      - **Naturalistic fallacy:** Assumes what is natural is automatically good[^256]
 
-      - **Lack of personal God:** The Tao is impersonal, offering no relationship or communication[^255]
+      - **Lack of personal God:** The Tao is impersonal, offering no relationship or communication[^257]
     </div>
 </div>
 
@@ -1147,7 +1147,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Shintoism:**
 
-  Shintoism is the indigenous spiritual tradition of Japan, focusing on the veneration of kami (spirits or deities) present in natural phenomena, ancestors, and sacred places. Shinto has no founder, central scripture, or systematic doctrine, but emphasizes purity, gratitude, and harmony with nature and community. Practices include shrine visits, purification rituals, festivals (matsuri), and offerings to kami. Shinto has coexisted with Buddhism and Confucianism throughout Japanese history, forming a syncretic religious landscape. Modern Shinto includes both shrine-based practices and state-related traditions. Japanese government figures, based on shrine registrations, count around 87 million Shinto adherents, but only a small percentage of Japanese identify Shinto as their religion in surveys, since shrine practice is widely treated as custom rather than confession[^256].
+  Shintoism is the indigenous spiritual tradition of Japan, focusing on the veneration of kami (spirits or deities) present in natural phenomena, ancestors, and sacred places. Shinto has no founder, central scripture, or systematic doctrine, but emphasizes purity, gratitude, and harmony with nature and community. Practices include shrine visits, purification rituals, festivals (matsuri), and offerings to kami. Shinto has coexisted with Buddhism and Confucianism throughout Japanese history, forming a syncretic religious landscape. Modern Shinto includes both shrine-based practices and state-related traditions. Japanese government figures, based on shrine registrations, count around 87 million Shinto adherents, but only a small percentage of Japanese identify Shinto as their religion in surveys, since shrine practice is widely treated as custom rather than confession[^258].
 
 
   **📅 Date Founded:** Ancient, prehistoric origins; systematized during 8th century AD in Japan
@@ -1160,17 +1160,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Environmental reverence:** Deep respect for nature and natural phenomena[^257]
+    - **Environmental reverence:** Deep respect for nature and natural phenomena[^259]
 
-      - **Cultural preservation:** Maintains traditional Japanese values and customs[^258][^259]
+      - **Cultural preservation:** Maintains traditional Japanese values and customs[^260][^261]
 
-      - **Community emphasis:** Strengthens local and family bonds[^260][^261]
+      - **Community emphasis:** Strengthens local and family bonds[^262][^263]
 
-      - **Aesthetic appreciation:** Values beauty and purity in daily life[^262][^261]
+      - **Aesthetic appreciation:** Values beauty and purity in daily life[^264][^263]
 
-      - **Gratitude practice:** Encourages thankfulness for natural gifts[^263][^257]
+      - **Gratitude practice:** Encourages thankfulness for natural gifts[^265][^259]
 
-      - **Flexibility:** Adapts to other religious traditions without conflict[^264][^261]
+      - **Flexibility:** Adapts to other religious traditions without conflict[^266][^263]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1179,17 +1179,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Animistic polytheism:** Worship of multiple kami contradicts monotheistic truth[^261][^265]
+    - **Animistic polytheism:** Worship of multiple kami contradicts monotheistic truth[^263][^267]
 
-      - **Nationalist exploitation:** Historically used to justify militarism and emperor worship[^266][^267][^268]
+      - **Nationalist exploitation:** Historically used to justify militarism and emperor worship[^268][^269][^270]
 
-      - **Ancestor veneration:** Worship of deceased humans approaches idolatry[^269]
+      - **Ancestor veneration:** Worship of deceased humans approaches idolatry[^271]
 
-      - **Lack of moral absolutes:** Emphasis on ritual purity over moral righteousness[^259]
+      - **Lack of moral absolutes:** Emphasis on ritual purity over moral righteousness[^261]
 
-      - **Ritual emptiness:** External purification without addressing internal spiritual condition[^270][^271]
+      - **Ritual emptiness:** External purification without addressing internal spiritual condition[^272][^273]
 
-      - **Theological confusion:** Syncretic mixing with Buddhism creates contradictory beliefs[^272]
+      - **Theological confusion:** Syncretic mixing with Buddhism creates contradictory beliefs[^274]
     </div>
 </div>
 
@@ -1234,7 +1234,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Rastafarianism:**
 
-  Rastafarianism is a religious and social movement that emerged in Jamaica in the 1930s[^273][^274]. Most Rastafarians regard Haile Selassie I, the former Emperor of Ethiopia, as God incarnate and the returned Messiah. The movement emphasizes Afrocentrism, resistance to oppression, and the eventual return to Africa (Zion). Key practices include the use of cannabis (ganja) as a sacrament, dietary laws (Ital food), and the wearing of dreadlocks. Rastafari was popularized globally through reggae music, particularly by Bob Marley. As of 2024, Rastafarianism has approximately 1 million adherents worldwide, primarily in Jamaica and Caribbean diaspora communities[^275][^276][^277].
+  Rastafarianism is a religious and social movement that emerged in Jamaica in the 1930s[^275][^276]. Most Rastafarians regard Haile Selassie I, the former Emperor of Ethiopia, as God incarnate and the returned Messiah. The movement emphasizes Afrocentrism, resistance to oppression, and the eventual return to Africa (Zion). Key practices include the use of cannabis (ganja) as a sacrament, dietary laws (Ital food), and the wearing of dreadlocks. Rastafari was popularized globally through reggae music, particularly by Bob Marley. As of 2024, Rastafarianism has approximately 1 million adherents worldwide, primarily in Jamaica and Caribbean diaspora communities[^277][^278][^279].
 
 
   **📅 Date Founded:** 1930s in Jamaica, inspired by Marcus Garvey's teachings and Haile Selassie's coronation
@@ -1247,17 +1247,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Social justice emphasis:** Strong commitment to fighting oppression and inequality[^278]
+    - **Social justice emphasis:** Strong commitment to fighting oppression and inequality[^280]
 
-      - **Cultural pride:** Celebrates African heritage and black identity[^279][^273]
+      - **Cultural pride:** Celebrates African heritage and black identity[^281][^275]
 
-      - **Environmental consciousness:** Ital living favours natural, unprocessed food[^280][^277]
+      - **Environmental consciousness:** Ital living favours natural, unprocessed food[^282][^279]
 
-      - **Peaceful resistance:** Generally advocates non-violent protest against injustice[^281]
+      - **Peaceful resistance:** Generally advocates non-violent protest against injustice[^283]
 
-      - **Community solidarity:** Strong bonds among believers and mutual support[^282]
+      - **Community solidarity:** Strong bonds among believers and mutual support[^284]
 
-      - **Biblical engagement:** Takes Scripture seriously, particularly Old Testament prophecy[^274]
+      - **Biblical engagement:** Takes Scripture seriously, particularly Old Testament prophecy[^276]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1266,17 +1266,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **False messianic claims:** Haile Selassie remained a member of the Ethiopian Orthodox Church and is reported to have denied his own divinity in a 1967 interview, though he never rebuked Rastafari for their belief[^283][^275]
+    - **False messianic claims:** Haile Selassie remained a member of the Ethiopian Orthodox Church and is reported to have denied his own divinity in a 1967 interview, though he never rebuked Rastafari for their belief[^285][^277]
 
-      - **Historical contradictions:** Selassie's life contradicts Rastafarian theological claims about him[^284]
+      - **Historical contradictions:** Selassie's life contradicts Rastafarian theological claims about him[^286]
 
-      - **Biblical misinterpretation:** Forced interpretation of prophecies to support Ethiopian focus[^285]
+      - **Biblical misinterpretation:** Forced interpretation of prophecies to support Ethiopian focus[^287]
 
-      - **Drug use religious justification:** Christians object that religious cannabis use conflicts with the biblical call to sobriety (1 Peter 5:8)[^286][^274]
+      - **Drug use religious justification:** Christians object that religious cannabis use conflicts with the biblical call to sobriety (1 Peter 5:8)[^288][^276]
 
-      - **Racial separation theology:** Some interpretations promote racial superiority concepts[^287][^275]
+      - **Racial separation theology:** Some interpretations promote racial superiority concepts[^289][^277]
 
-      - **Inconsistent doctrines:** Different Rastafarian groups hold contradictory beliefs about core teachings[^288][^278]
+      - **Inconsistent doctrines:** Different Rastafarian groups hold contradictory beliefs about core teachings[^290][^280]
     </div>
 </div>
 
@@ -1316,7 +1316,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Zoroastrianism:**
 
-  Zoroastrianism is one of the world's oldest monotheistic religions, founded by the prophet Zoroaster (Zarathustra) in ancient Persia[^289][^290]. The religion centers on the worship of Ahura Mazda ("Wise Lord") and emphasizes the cosmic struggle between good (Ahura Mazda) and evil (Angra Mainyu/Ahriman). Zoroastrians believe in free will, the final judgment, resurrection of the dead, and the eventual triumph of good over evil. Key practices include maintaining ritual purity, the sacred fire, and the three pillars: good thoughts, good words, and good deeds. Estimates of adherents range from about 110,000 to 200,000 worldwide, primarily in India (Parsis) and Iran, with a declining population[^291].
+  Zoroastrianism is one of the world's oldest monotheistic religions, founded by the prophet Zoroaster (Zarathustra) in ancient Persia[^291][^292]. The religion centers on the worship of Ahura Mazda ("Wise Lord") and emphasizes the cosmic struggle between good (Ahura Mazda) and evil (Angra Mainyu/Ahriman). Zoroastrians believe in free will, the final judgment, resurrection of the dead, and the eventual triumph of good over evil. Key practices include maintaining ritual purity, the sacred fire, and the three pillars: good thoughts, good words, and good deeds. Estimates of adherents range from about 110,000 to 200,000 worldwide, primarily in India (Parsis) and Iran, with a declining population[^293].
 
 
   **📅 Date Founded:** Traditionally c. 628-551 BC; most modern scholars place Zoroaster much earlier, roughly 1500-1000 BC, because the language of his Gathas is close to that of the Rigveda
@@ -1329,17 +1329,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Monotheistic foundation:** Early recognition of one supreme deity[^292]
+    - **Monotheistic foundation:** Early recognition of one supreme deity[^294]
 
-      - **Moral emphasis:** Teaches good thoughts, good words and good deeds[^293][^294]
+      - **Moral emphasis:** Teaches good thoughts, good words and good deeds[^295][^296]
 
-      - **Free will doctrine:** Emphasizes human choice and responsibility[^295]
+      - **Free will doctrine:** Emphasizes human choice and responsibility[^297]
 
-      - **Eschatological concepts:** Developed ideas about judgment and resurrection[^296][^297]
+      - **Eschatological concepts:** Developed ideas about judgment and resurrection[^298][^299]
 
-      - **Environmental reverence:** Treats fire, water, earth and air as sacred[^298][^291][^294]
+      - **Environmental reverence:** Treats fire, water, earth and air as sacred[^300][^293][^296]
 
-      - **Spiritual equality:** Teaches the spiritual equality and shared religious duty of men and women[^299]
+      - **Spiritual equality:** Teaches the spiritual equality and shared religious duty of men and women[^301]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1348,17 +1348,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Dualistic confusion:** Sets Angra Mainyu against Ahura Mazda as a rival power, which Christians object compromises monotheism[^300][^294]
+    - **Dualistic confusion:** Sets Angra Mainyu against Ahura Mazda as a rival power, which Christians object compromises monotheism[^302][^296]
 
-      - **Limited historical evidence:** Many claims about Zoroaster are legendary rather than historical[^290][^301]
+      - **Limited historical evidence:** Many claims about Zoroaster are legendary rather than historical[^292][^303]
 
-      - **Contradictory manuscripts:** Different versions of Zoroastrian texts contain conflicting teachings[^302]
+      - **Contradictory manuscripts:** Different versions of Zoroastrian texts contain conflicting teachings[^304]
 
-      - **Ritual complexity:** Elaborate purity laws create barriers to authentic spirituality[^303]
+      - **Ritual complexity:** Elaborate purity laws create barriers to authentic spirituality[^305]
 
-      - **Cultural isolation:** Restrictive practices have led to demographic decline[^304]
+      - **Cultural isolation:** Restrictive practices have led to demographic decline[^306]
 
-      - **Works-based salvation:** Weighs a person's good and evil deeds at the judgment, in contrast to salvation by grace[^305][^294]
+      - **Works-based salvation:** Weighs a person's good and evil deeds at the judgment, in contrast to salvation by grace[^307][^296]
     </div>
 </div>
 
@@ -1371,7 +1371,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
   <div style="margin: 10px 0;">
-    **1. Cosmic Dualism vs. Monotheism:** While Ahura Mazda remains supreme, Zoroastrian cosmic dualism grants significant independent power to Angra Mainyu (destructive spirit), creating tension with pure monotheism that attributes all ultimate authority to one God[^306][^307].
+    **1. Cosmic Dualism vs. Monotheism:** While Ahura Mazda remains supreme, Zoroastrian cosmic dualism grants significant independent power to Angra Mainyu (destructive spirit), creating tension with pure monotheism that attributes all ultimate authority to one God[^308][^309].
   </div>
 
   <div style="margin: 10px 0;">
@@ -1401,7 +1401,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Vodou:**
 
-  Vodou is a syncretic religion that developed among enslaved Africans in the French colony of Saint-Domingue (modern-day Haiti), combining West and Central African religious traditions with Catholicism[^308][^309]. Practitioners serve both the lwa (spirits) and the Christian God, believing that spirits mediate between humans and the divine. Vodou emphasizes healing, community support, and connection with ancestors. Rituals include drumming, dancing, possession by spirits, and offerings. The religion has been widely misunderstood due to Hollywood portrayals and colonial prejudices. Reliable adherent figures do not exist, because most practitioners also identify as Catholic; it is practised chiefly in Haiti and the Haitian diaspora, and is related to, but distinct from, the Vodun of Benin and Togo[^310].
+  Vodou is a syncretic religion that developed among enslaved Africans in the French colony of Saint-Domingue (modern-day Haiti), combining West and Central African religious traditions with Catholicism[^310][^311]. Practitioners serve both the lwa (spirits) and the Christian God, believing that spirits mediate between humans and the divine. Vodou emphasizes healing, community support, and connection with ancestors. Rituals include drumming, dancing, possession by spirits, and offerings. The religion has been widely misunderstood due to Hollywood portrayals and colonial prejudices. Reliable adherent figures do not exist, because most practitioners also identify as Catholic; it is practised chiefly in Haiti and the Haitian diaspora, and is related to, but distinct from, the Vodun of Benin and Togo[^312].
 
 
   **📅 Date Founded:** 17th-18th centuries in colonial Saint-Domingue (modern-day Haiti), emerging from African diaspora traditions
@@ -1414,15 +1414,15 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Cultural preservation:** Maintained African heritage under oppressive conditions[^311][^312]
+    - **Cultural preservation:** Maintained African heritage under oppressive conditions[^313][^314]
 
-      - **Community healing:** Provides psychological and social support systems[^313]
+      - **Community healing:** Provides psychological and social support systems[^315]
 
-      - **Resistance to oppression:** Helped sustain identity during slavery and colonialism[^314]
+      - **Resistance to oppression:** Helped sustain identity during slavery and colonialism[^316]
 
-      - **Holistic approach:** Addresses physical, mental, and spiritual well-being[^315]
+      - **Holistic approach:** Addresses physical, mental, and spiritual well-being[^317]
 
-      - **Ancestor reverence:** Values wisdom and connection with predecessors[^316]
+      - **Ancestor reverence:** Values wisdom and connection with predecessors[^318]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1431,17 +1431,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Syncretistic confusion:** Mixing incompatible Christian and animistic beliefs creates theological contradictions[^317]
+    - **Syncretistic confusion:** Mixing incompatible Christian and animistic beliefs creates theological contradictions[^319]
 
-      - **Spirit possession dangers:** Spiritual possession contradicts biblical warnings about demonic activity[^318]
+      - **Spirit possession dangers:** Spiritual possession contradicts biblical warnings about demonic activity[^320]
 
-      - **Magical thinking:** Emphasis on spiritual manipulation rather than submission to God's will[^319]
+      - **Magical thinking:** Emphasis on spiritual manipulation rather than submission to God's will[^321]
 
-      - **Polytheistic practices:** Service to multiple lwa conflicts with monotheistic worship[^320][^321]
+      - **Polytheistic practices:** Service to multiple lwa conflicts with monotheistic worship[^322][^323]
 
-      - **Fear-based elements:** Some practices involve curses and malevolent magic[^322]
+      - **Fear-based elements:** Some practices involve curses and malevolent magic[^324]
 
-      - **Limited theological development:** Lacks systematic doctrine or consistent theological framework[^323]
+      - **Limited theological development:** Lacks systematic doctrine or consistent theological framework[^325]
     </div>
 </div>
 
@@ -1481,7 +1481,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Norse/Germanic Paganism:**
 
-  Norse paganism was the indigenous religion of the Germanic peoples, including Scandinavians, before Christianity[^324]. The pantheon included gods like Odin (the All-Father), Thor (god of thunder), Freyja (goddess of love and fertility), and Loki (trickster god). Norse religion emphasized honor, courage in battle, and fate (wyrd). The cosmology featured nine worlds connected by Yggdrasil (world tree), with Ragnarök as the prophesied end of the world. Practices included animal sacrifice, seasonal festivals, and veneration of ancestors.
+  Norse paganism was the indigenous religion of the Germanic peoples, including Scandinavians, before Christianity[^326]. The pantheon included gods like Odin (the All-Father), Thor (god of thunder), Freyja (goddess of love and fertility), and Loki (trickster god). Norse religion emphasized honor, courage in battle, and fate (wyrd). The cosmology featured nine worlds connected by Yggdrasil (world tree), with Ragnarök as the prophesied end of the world. Practices included animal sacrifice, seasonal festivals, and veneration of ancestors.
 
 
   **📅 Date Founded:** Developed from earlier Germanic traditions (c. 1st century BC - 11th century AD)
@@ -1494,17 +1494,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Cultural preservation:** Rich mythology preserved through Eddas and sagas[^325][^326]
+    - **Cultural preservation:** Rich mythology preserved through Eddas and sagas[^327][^328]
 
-      - **Honor emphasis:** Valued personal integrity and courage[^327][^328]
+      - **Honor emphasis:** Valued personal integrity and courage[^329][^330]
 
-      - **Gender inclusion:** Featured powerful female deities and leaders[^329]
+      - **Gender inclusion:** Featured powerful female deities and leaders[^331]
 
-      - **Natural connection:** Deep reverence for nature and seasonal cycles[^330]
+      - **Natural connection:** Deep reverence for nature and seasonal cycles[^332]
 
-      - **Literary legacy:** Influenced modern fantasy literature and culture[^331]
+      - **Literary legacy:** Influenced modern fantasy literature and culture[^333]
 
-      - **Democratic elements:** Thing assemblies showed early democratic practices[^332]
+      - **Democratic elements:** Thing assemblies showed early democratic practices[^334]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1513,17 +1513,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Historical extinction:** Gradually displaced by Christianity through various factors[^333]
+    - **Historical extinction:** Gradually displaced by Christianity through various factors[^335]
 
-      - **Violence glorification:** Emphasized warfare and dying in battle as highest honor[^334][^335]
+      - **Violence glorification:** Emphasized warfare and dying in battle as highest honor[^336][^337]
 
-      - **Fatalistic worldview:** Belief in predetermined fate (wyrd) undermined human agency[^336]
+      - **Fatalistic worldview:** Belief in predetermined fate (wyrd) undermined human agency[^338]
 
-      - **Inconsistent mythology:** Multiple conflicting versions of the same stories[^337][^39]
+      - **Inconsistent mythology:** Multiple conflicting versions of the same stories[^339][^39]
 
-      - **Limited written sources:** Most knowledge comes from Christian-era compilations[^338][^339][^324]
+      - **Limited written sources:** Most knowledge comes from Christian-era compilations[^340][^341][^326]
 
-      - **Cosmic pessimism:** Even the gods die at Ragnarök, and though a renewed world follows, few survive to see it[^340][^341]
+      - **Cosmic pessimism:** Even the gods die at Ragnarök, and though a renewed world follows, few survive to see it[^342][^343]
     </div>
 </div>
 
@@ -1563,7 +1563,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Celtic Paganism:**
 
-  Celtic paganism was the indigenous religion of Celtic peoples across Ireland, Britain, Gaul, and other regions of Europe[^342][^343]. The religion featured a complex pantheon including gods like Lugh (associated with skill and kingship, and once widely but doubtfully interpreted as a solar deity), Brigid (goddess of fire and poetry), and the Morrigan (war goddess). Druids served as priests, judges, and teachers, conducting rituals in sacred groves. Celtic religion emphasized the supernatural, with thin boundaries between the physical and spiritual worlds. Seasonal festivals like Samhain and Beltane marked important transitions.
+  Celtic paganism was the indigenous religion of Celtic peoples across Ireland, Britain, Gaul, and other regions of Europe[^344][^345]. The religion featured a complex pantheon including gods like Lugh (associated with skill and kingship, and once widely but doubtfully interpreted as a solar deity), Brigid (goddess of fire and poetry), and the Morrigan (war goddess). Druids served as priests, judges, and teachers, conducting rituals in sacred groves. Celtic religion emphasized the supernatural, with thin boundaries between the physical and spiritual worlds. Seasonal festivals like Samhain and Beltane marked important transitions.
 
 
   **📅 Date Founded:** Developed from earlier Indo-European traditions (c. 1200 BC - 500 AD)
@@ -1576,17 +1576,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Environmental reverence:** Deep respect for nature and sacred landscapes[^344]
+    - **Environmental reverence:** Deep respect for nature and sacred landscapes[^346]
 
-      - **Educational emphasis:** Druids maintained learning and oral traditions[^345]
+      - **Educational emphasis:** Druids maintained learning and oral traditions[^347]
 
-      - **Spiritual awareness:** Belief in an Otherworld beyond the visible one[^346][^342]
+      - **Spiritual awareness:** Belief in an Otherworld beyond the visible one[^348][^344]
 
-      - **Cultural richness:** Complex mythology and artistic traditions[^347]
+      - **Cultural richness:** Complex mythology and artistic traditions[^349]
 
-      - **Gender balance:** Worshipped both gods and goddesses[^348][^342]
+      - **Gender balance:** Worshipped both gods and goddesses[^350][^344]
 
-      - **Seasonal wisdom:** Celebrated natural cycles and transitions[^349][^350]
+      - **Seasonal wisdom:** Celebrated natural cycles and transitions[^351][^352]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1595,17 +1595,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Human sacrifice:** Greek and Roman writers report it, and some archaeological finds, such as certain bog bodies, are consistent with ritual killing, though the extent of the practice is debated and the classical reports were partly hostile propaganda[^351][^352]
+    - **Human sacrifice:** Greek and Roman writers report it, and some archaeological finds, such as certain bog bodies, are consistent with ritual killing, though the extent of the practice is debated and the classical reports were partly hostile propaganda[^353][^354]
 
-      - **Limited historical records:** Most knowledge comes from Roman or later Christian sources[^353][^342]
+      - **Limited historical records:** Most knowledge comes from Roman or later Christian sources[^355][^344]
 
-      - **Historical abandonment:** Celtic peoples converted to Christianity, abandoning their ancestral faith[^354]
+      - **Historical abandonment:** Celtic peoples converted to Christianity, abandoning their ancestral faith[^356]
 
-      - **Inconsistent practices:** Varied significantly between different Celtic groups[^355]
+      - **Inconsistent practices:** Varied significantly between different Celtic groups[^357]
 
-      - **Mythological contradictions:** Deities and stories vary by region and survive largely through later sources[^356][^342]
+      - **Mythological contradictions:** Deities and stories vary by region and survive largely through later sources[^358][^344]
 
-      - **Social stratification:** Rigid class system with druids as elite priestly class[^357][^358]
+      - **Social stratification:** Rigid class system with druids as elite priestly class[^359][^360]
     </div>
 </div>
 
@@ -1645,7 +1645,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Wicca/Neo-Paganism:**
 
-  Wicca is a modern neo-pagan religious movement developed in England in the 1940s and made public in the 1950s by Gerald Gardner[^359][^360]. Importantly, despite claims of ancient origins, modern Wicca is essentially a 20th-century creation that combines elements from various sources including ceremonial magic, folk practices, and Gardner's own innovations[^361]. Wiccans worship a Goddess and God, follow the Wheel of the Year (eight seasonal festivals), and practice magic (spelled "magick"). The religion emphasizes connection with nature, personal empowerment, and the Wiccan Rede: "An it harm none, do what ye will." This differs significantly from ancient Celtic and other historical pagan traditions, which had entirely different practices and beliefs. Estimates of practising Wiccans worldwide run to the hundreds of thousands, with a frequently cited median of about 800,000, concentrated mainly in English-speaking countries[^362].
+  Wicca is a modern neo-pagan religious movement developed in England in the 1940s and made public in the 1950s by Gerald Gardner[^361][^362]. Importantly, despite claims of ancient origins, modern Wicca is essentially a 20th-century creation that combines elements from various sources including ceremonial magic, folk practices, and Gardner's own innovations[^363]. Wiccans worship a Goddess and God, follow the Wheel of the Year (eight seasonal festivals), and practice magic (spelled "magick"). The religion emphasizes connection with nature, personal empowerment, and the Wiccan Rede: "An it harm none, do what ye will." This differs significantly from ancient Celtic and other historical pagan traditions, which had entirely different practices and beliefs. Estimates of practising Wiccans worldwide run to the hundreds of thousands, with a frequently cited median of about 800,000, concentrated mainly in English-speaking countries[^364].
 
 
   **📅 Date Founded:** 1950s in England by Gerald Gardner, despite claims of much older origins
@@ -1658,17 +1658,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Environmental awareness:** Treats nature as sacred[^360][^363]
+    - **Environmental awareness:** Treats nature as sacred[^362][^365]
 
-      - **Gender equality:** Elevates feminine divine and promotes gender balance[^364]
+      - **Gender equality:** Elevates feminine divine and promotes gender balance[^366]
 
-      - **Personal empowerment:** Teaches responsibility for one's own actions[^365][^366]
+      - **Personal empowerment:** Teaches responsibility for one's own actions[^367][^368]
 
-      - **Peaceful principles:** "Harm none" ethic promotes non-violence[^367][^366]
+      - **Peaceful principles:** "Harm none" ethic promotes non-violence[^369][^368]
 
-      - **Seasonal celebration:** Keeps festivals tied to the seasons[^368][^366]
+      - **Seasonal celebration:** Keeps festivals tied to the seasons[^370][^368]
 
-      - **Creative expression:** Encourages artistic and ritualistic creativity[^369]
+      - **Creative expression:** Encourages artistic and ritualistic creativity[^371]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1677,17 +1677,17 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Historical fabrication:** Claims of an unbroken ancient witch religion are not supported by historians; Gardner assembled the tradition in the mid-twentieth century from ceremonial magic, Freemasonry, folklore and his own innovations[^370][^366]
+    - **Historical fabrication:** Claims of an unbroken ancient witch religion are not supported by historians; Gardner assembled the tradition in the mid-twentieth century from ceremonial magic, Freemasonry, folklore and his own innovations[^372][^368]
 
-      - **Occult practices:** Spell-casting and magic contradict biblical prohibitions on sorcery[^371][^372]
+      - **Occult practices:** Spell-casting and magic contradict biblical prohibitions on sorcery[^373][^374]
 
-      - **Polytheistic confusion:** Worship of a goddess and god conflicts with the first commandment (Exodus 20:3)[^373][^374]
+      - **Polytheistic confusion:** Worship of a goddess and god conflicts with the first commandment (Exodus 20:3)[^375][^376]
 
-      - **Moral relativism:** "Do what ye will" philosophy lacks absolute moral standards[^375]
+      - **Moral relativism:** "Do what ye will" philosophy lacks absolute moral standards[^377]
 
-      - **Spiritual deception:** Claims of supernatural power often lead to disillusionment[^374]
+      - **Spiritual deception:** Claims of supernatural power often lead to disillusionment[^376]
 
-      - **Theological inconsistency:** Different Wiccan traditions contradict each other on fundamental beliefs[^376][^377]
+      - **Theological inconsistency:** Different Wiccan traditions contradict each other on fundamental beliefs[^378][^379]
     </div>
 </div>
 
@@ -1727,7 +1727,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Mormonism:**
 
-  Mormonism, officially The Church of Jesus Christ of Latter-day Saints (LDS), was founded in the 19th century by Joseph Smith. LDS believe the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price are additional divinely inspired scriptures alongside the Bible, restored for the 'Latter Days'[^378]. The faith teaches that God has a physical body, humans can become gods (Exaltation), and families can be eternally sealed. As of 2024, the LDS Church has approximately 17.2 million members worldwide[^379].
+  Mormonism, officially The Church of Jesus Christ of Latter-day Saints (LDS), was founded in the 19th century by Joseph Smith. LDS believe the Book of Mormon, Doctrine and Covenants, and Pearl of Great Price are additional divinely inspired scriptures alongside the Bible, restored for the 'Latter Days'[^380]. The faith teaches that God has a physical body, humans can become gods (Exaltation), and families can be eternally sealed. As of 2024, the LDS Church has approximately 17.2 million members worldwide[^381].
 
 
   **📅 Date Founded:** 1830 AD in Fayette, New York, by Joseph Smith
@@ -1740,13 +1740,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Family focus:** Strong emphasis on family unity and genealogical research[^380]
+    - **Family focus:** Strong emphasis on family unity and genealogical research[^382]
 
-      - **Service ethic:** Strong commitment to community service and missionary work[^381]
+      - **Service ethic:** Strong commitment to community service and missionary work[^383]
 
-      - **Health code:** Strict health code (Word of Wisdom) promotes healthy living[^382]
+      - **Health code:** Strict health code (Word of Wisdom) promotes healthy living[^384]
 
-      - **Lay leadership:** Reliance on non-paid, local leaders builds community involvement[^383]
+      - **Lay leadership:** Reliance on non-paid, local leaders builds community involvement[^385]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1755,13 +1755,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Non-Trinitarian view of God:** God is an exalted man with a physical body, contradicting biblical monotheism and the Trinity[^384]
+    - **Non-Trinitarian view of God:** God is an exalted man with a physical body, contradicting biblical monotheism and the Trinity[^386]
 
-      - **Grace and works:** LDS teaching holds that resurrection is given to all, while exaltation requires ordinances and covenant faithfulness; the Book of Mormon says "it is by grace that we are saved, after all we can do" (2 Nephi 25:23). Some recent LDS teachers read "after" as "in spite of", but the system still makes exaltation conditional on obedience, which Christians regard as contrary to salvation by grace alone ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians%202%3A8-9&version=ESV))[^385][^386]
+      - **Grace and works:** LDS teaching holds that resurrection is given to all, while exaltation requires ordinances and covenant faithfulness; the Book of Mormon says "it is by grace that we are saved, after all we can do" (2 Nephi 25:23). Some recent LDS teachers read "after" as "in spite of", but the system still makes exaltation conditional on obedience, which Christians regard as contrary to salvation by grace alone ([Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians%202%3A8-9&version=ESV))[^387][^388]
 
-      - **Prophetic additions to Scripture:** The acceptance of additional sacred texts and ongoing revelation supersedes the final authority of the Bible[^387]
+      - **Prophetic additions to Scripture:** The acceptance of additional sacred texts and ongoing revelation supersedes the final authority of the Bible[^389]
 
-      - **Changing doctrines:** Early doctrines (e.g., polygamy, Black priesthood ban) were later reversed or abandoned[^388][^389][^390]
+      - **Changing doctrines:** Early doctrines (e.g., polygamy, Black priesthood ban) were later reversed or abandoned[^390][^391][^392]
     </div>
 </div>
 
@@ -1800,7 +1800,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Jehovah's Witnesses:**
 
-  Jehovah's Witnesses (JWs) originated from the Bible Student movement founded by Charles Taze Russell. They are known for their door-to-door ministry, refusal to celebrate holidays like Christmas and birthdays, and rejection of blood transfusions. JWs believe that God's name is Jehovah and that only a select 144,000 will reign with Christ in heaven, while the majority of the faithful will live eternally on a restored earth. They rely on their own Bible translation, the New World Translation (NWT)[^391][^392].
+  Jehovah's Witnesses (JWs) originated from the Bible Student movement founded by Charles Taze Russell. They are known for their door-to-door ministry, refusal to celebrate holidays like Christmas and birthdays, and rejection of blood transfusions. JWs believe that God's name is Jehovah and that only a select 144,000 will reign with Christ in heaven, while the majority of the faithful will live eternally on a restored earth. They rely on their own Bible translation, the New World Translation (NWT)[^393][^394].
 
 
   **📅 Date Founded:** Late 1870s in Pennsylvania (Charles Taze Russell)
@@ -1813,13 +1813,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Evangelistic zeal:** Strong commitment to worldwide ministry and personal evangelism[^393][^392]
+    - **Evangelistic zeal:** Strong commitment to worldwide ministry and personal evangelism[^395][^394]
 
-      - **Moral discipline:** Encourages high moral and ethical standards, discouraging substance abuse[^394][^392]
+      - **Moral discipline:** Encourages high moral and ethical standards, discouraging substance abuse[^396][^394]
 
-      - **Community support:** Strong global community network providing mutual support[^392]
+      - **Community support:** Strong global community network providing mutual support[^394]
 
-      - **Literacy promotion:** Encourages reading and extensive study of religious literature[^395]
+      - **Literacy promotion:** Encourages reading and extensive study of religious literature[^397]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1828,13 +1828,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Denial of Christ's Divinity:** Teach Jesus is Michael the Archangel and a created being, denying the biblical Trinity[^396][^397]
+    - **Denial of Christ's Divinity:** Teach Jesus is Michael the Archangel and a created being, denying the biblical Trinity[^398][^399]
 
-      - **Altered Scripture:** Use of the New World Translation (NWT) which changes key verses (e.g., [John 1:1](https://www.biblegateway.com/passage/?search=John%201%3A1&version=NIV)) to support non-Trinitarian views[^398][^399]
+      - **Altered Scripture:** Use of the New World Translation (NWT) which changes key verses (e.g., [John 1:1](https://www.biblegateway.com/passage/?search=John%201%3A1&version=NIV)) to support non-Trinitarian views[^400][^401]
 
-      - **Failed predictions:** Watch Tower publications set expectations for 1914, 1925 and (less formally, but widely taught) 1975 that were not fulfilled. The organisation now says it never claimed inspired prophecy, but the expectations were published as its teaching[^400]
+      - **Failed predictions:** Watch Tower publications set expectations for 1914, 1925 and (less formally, but widely taught) 1975 that were not fulfilled. The organisation now says it never claimed inspired prophecy, but the expectations were published as its teaching[^402]
 
-      - **Two-class hope:** Only the "anointed" 144,000 go to heaven; the "great crowd" of other faithful receive eternal life on a paradise earth, dividing believers in a way orthodox Christianity does not[^401]
+      - **Two-class hope:** Only the "anointed" 144,000 go to heaven; the "great crowd" of other faithful receive eternal life on a paradise earth, dividing believers in a way orthodox Christianity does not[^403]
     </div>
 </div>
 
@@ -1873,7 +1873,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Alevism:**
 
-  Alevism is a syncretic, non-denominational religious and cultural tradition predominantly found among Turkish, Kurdish, and Zaza people. It draws on Twelver Shia devotion, Sufi (especially Bektashi) mysticism and pre-Islamic Turkic tradition, and some scholars also see Anatolian Christian influence. Unlike orthodox Islam, Alevis do not generally fast during Ramadan, pray five times a day, or perform the Hajj to Mecca. Their focus is on inner spirituality, love for the Prophet Muhammad's cousin Ali, and the religious gathering (cem) which features music, poetry, and ritual dancing[^402][^403].
+  Alevism is a syncretic, non-denominational religious and cultural tradition predominantly found among Turkish, Kurdish, and Zaza people. It draws on Twelver Shia devotion, Sufi (especially Bektashi) mysticism and pre-Islamic Turkic tradition, and some scholars also see Anatolian Christian influence. Unlike orthodox Islam, Alevis do not generally fast during Ramadan, pray five times a day, or perform the Hajj to Mecca. Their focus is on inner spirituality, love for the Prophet Muhammad's cousin Ali, and the religious gathering (cem) which features music, poetry, and ritual dancing[^404][^405].
 
 
   **📅 Date Founded:** Emerged in Anatolia/Middle East between the 13th and 16th centuries
@@ -1886,13 +1886,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Gender equality:** Men and women participate equally in religious ceremonies and gatherings[^404]
+    - **Gender equality:** Men and women participate equally in religious ceremonies and gatherings[^406]
 
-      - **Tolerance:** Generally promotes religious pluralism and non-discrimination[^405]
+      - **Tolerance:** Generally promotes religious pluralism and non-discrimination[^407]
 
-      - **Social justice:** Strong historical commitment to social justice and anti-authoritarianism[^406]
+      - **Social justice:** Strong historical commitment to social justice and anti-authoritarianism[^408]
 
-      - **Cultural preservation:** Maintains rich cultural traditions through music, poetry, and dancing[^407]
+      - **Cultural preservation:** Maintains rich cultural traditions through music, poetry, and dancing[^409]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1901,13 +1901,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Syncretism:** Christians and many Sunni Muslims regard the blending of Shia, Sufi and pre-Islamic elements as theologically unstable; Alevis themselves describe their path as an inward reading of Islam[^408]
+    - **Syncretism:** Christians and many Sunni Muslims regard the blending of Shia, Sufi and pre-Islamic elements as theologically unstable; Alevis themselves describe their path as an inward reading of Islam[^410]
 
-      - **Esoteric/Secretive Practices:** Doctrines are transmitted secretly within communities, lacking openness and public accountability[^403]
+      - **Esoteric/Secretive Practices:** Doctrines are transmitted secretly within communities, lacking openness and public accountability[^405]
 
-      - **Gnostic/Mystical Focus:** Stresses inner knowledge (ma'rifa) and spiritual experience[^409][^408][^410]
+      - **Gnostic/Mystical Focus:** Stresses inner knowledge (ma'rifa) and spiritual experience[^411][^410][^412]
 
-      - **Focus on Ali:** Exalted status of Ali (and the Ahl al-Bayt) effectively supplants traditional Islamic focus on God alone[^411]
+      - **Focus on Ali:** Exalted status of Ali (and the Ahl al-Bayt) effectively supplants traditional Islamic focus on God alone[^413]
     </div>
 </div>
 
@@ -1943,7 +1943,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Sufism:**
 
-  Sufism is the mystical dimension of Islam, focusing on the inward search for God and a direct, personal experience of the Divine. Sufis (including the ascetic Dervishes) seek spiritual excellence (*ihsan*) through disciplines such as the remembrance of God (*dhikr*), which can be quiet or ecstatic, meditation, asceticism, and adherence to a spiritual master (*Sheikh* or *Pir*). Key tenets include the passing away of the self (*fana*) followed by subsistence in God (*baqa*); the "sober" school associated with al-Junayd understood this as the ego's surrender rather than a merging of substances, while "intoxicated" Sufis used bolder language of union. It grew out of the ascetic piety of the first Islamic centuries, partly in reaction to the worldliness of the early caliphate. As of 2024, Sufism is widely practiced within mainstream Islam, with various orders (*tariqas*) across the globe[^412][^410].
+  Sufism is the mystical dimension of Islam, focusing on the inward search for God and a direct, personal experience of the Divine. Sufis (including the ascetic Dervishes) seek spiritual excellence (*ihsan*) through disciplines such as the remembrance of God (*dhikr*), which can be quiet or ecstatic, meditation, asceticism, and adherence to a spiritual master (*Sheikh* or *Pir*). Key tenets include the passing away of the self (*fana*) followed by subsistence in God (*baqa*); the "sober" school associated with al-Junayd understood this as the ego's surrender rather than a merging of substances, while "intoxicated" Sufis used bolder language of union. It grew out of the ascetic piety of the first Islamic centuries, partly in reaction to the worldliness of the early caliphate. As of 2024, Sufism is widely practiced within mainstream Islam, with various orders (*tariqas*) across the globe[^414][^412].
 
 
   **📅 Date Founded:** 8th century AD (as an ascetic and mystical stream within Islam)
@@ -1956,13 +1956,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Intense spiritual focus:** Emphasizes sincere devotion and inner transformation[^413][^410]
+    - **Intense spiritual focus:** Emphasizes sincere devotion and inner transformation[^415][^412]
 
-      - **Ethical discipline:** Promotes high moral and spiritual disciplines[^414]
+      - **Ethical discipline:** Promotes high moral and spiritual disciplines[^416]
 
-      - **Tolerance:** Often promotes a non-judgmental and inclusive attitude toward others[^415][^416]
+      - **Tolerance:** Often promotes a non-judgmental and inclusive attitude toward others[^417][^418]
 
-      - **Cultural contribution:** Produced world-renowned poetry, music, and art (e.g., Rumi)[^417][^418]
+      - **Cultural contribution:** Produced world-renowned poetry, music, and art (e.g., Rumi)[^419][^420]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -1971,13 +1971,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Monistic tendencies:** Doctrine of *fana* (annihilation of self in God) blurs the creator/creature distinction[^419][^420][^421]
+    - **Monistic tendencies:** Doctrine of *fana* (annihilation of self in God) blurs the creator/creature distinction[^421][^422][^423]
 
-      - **Authority of the Sheikh:** Elevation of the spiritual master's authority potentially supersedes Qur'anic/Hadith authority[^422]
+      - **Authority of the Sheikh:** Elevation of the spiritual master's authority potentially supersedes Qur'anic/Hadith authority[^424]
 
-      - **Ecstatic practices:** Practices like whirling (Mevlevi Dervishes) and intense *dhikr* seek altered states of consciousness, which Christians and many Muslim critics regard as spiritually problematic[^423][^410]
+      - **Ecstatic practices:** Practices like whirling (Mevlevi Dervishes) and intense *dhikr* seek altered states of consciousness, which Christians and many Muslim critics regard as spiritually problematic[^425][^412]
 
-      - **Syncretism with local religions:** Sufi orders often incorporate local non-Islamic traditions, undermining monotheistic purity[^424]
+      - **Syncretism with local religions:** Sufi orders often incorporate local non-Islamic traditions, undermining monotheistic purity[^426]
     </div>
 </div>
 
@@ -2013,7 +2013,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Scientology:**
 
-  Scientology is a set of beliefs and practices created by science fiction author L. Ron Hubbard in the early 1950s. It developed from his earlier self-help system, Dianetics. Scientologists believe humans are immortal spiritual beings called "thetans" who have forgotten their true nature. The goal of the religion is to clear the mind of past traumatic memories (engrams) through a counseling process called "auditing" to achieve a state of "Clear" and eventually "Operating Thetan" (OT)[^425][^426][^427]. The church is known for its strict control over members, high financial costs for courses, and secrecy regarding its advanced teachings[^428].
+  Scientology is a set of beliefs and practices created by science fiction author L. Ron Hubbard in the early 1950s. It developed from his earlier self-help system, Dianetics. Scientologists believe humans are immortal spiritual beings called "thetans" who have forgotten their true nature. The goal of the religion is to clear the mind of past traumatic memories (engrams) through a counseling process called "auditing" to achieve a state of "Clear" and eventually "Operating Thetan" (OT)[^427][^428][^429]. The church is known for its strict control over members, high financial costs for courses, and secrecy regarding its advanced teachings[^430].
 
 
   **📅 Date Founded:** 1953-1954 (first churches incorporated in New Jersey and California) by L. Ron Hubbard
@@ -2026,11 +2026,11 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Self-improvement focus:** Encourages personal responsibility and self-betterment[^429]
+    - **Self-improvement focus:** Encourages personal responsibility and self-betterment[^431]
 
-      - **Drug rehabilitation:** Operates extensive (though controversial) anti-drug programs[^430][^431]
+      - **Drug rehabilitation:** Operates extensive (though controversial) anti-drug programs[^432][^433]
 
-      - **Community structure:** Runs as a tightly organised church[^431][^432]
+      - **Community structure:** Runs as a tightly organised church[^433][^434]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -2039,13 +2039,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Financial exploitation:** Spiritual progress requires paying exorbitant fees for courses and auditing[^433][^434]
+    - **Financial exploitation:** Spiritual progress requires paying exorbitant fees for courses and auditing[^435][^436]
 
-      - **Incompatible theology:** Leaves the Supreme Being (the "eighth dynamic") undefined, teaches that thetans pass through many lives, and centres salvation on recovering the thetan's own godlike abilities[^435][^436]
+      - **Incompatible theology:** Leaves the Supreme Being (the "eighth dynamic") undefined, teaches that thetans pass through many lives, and centres salvation on recovering the thetan's own godlike abilities[^437][^438]
 
-      - **Abusive practices:** Numerous reports of physical and psychological abuse of members[^437][^438][^428]
+      - **Abusive practices:** Numerous reports of physical and psychological abuse of members[^439][^440][^430]
 
-      - **Secrecy:** Core beliefs (like the Xenu narrative) are hidden from lower-level members[^439]
+      - **Secrecy:** Core beliefs (like the Xenu narrative) are hidden from lower-level members[^441]
     </div>
 </div>
 
@@ -2081,7 +2081,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Christian Science:**
 
-  Christian Science was founded by Mary Baker Eddy in the late 19th century. It is based on her book *Science and Health with Key to the Scriptures*. The central teaching is that God is all-in-all and purely spiritual; therefore, matter, sin, sickness, and death are illusions ("errors") of the mortal mind. Christian Scientists believe that realizing this spiritual reality brings physical healing. They typically rely on prayer for healing rather than medical treatment[^440][^441].
+  Christian Science was founded by Mary Baker Eddy in the late 19th century. It is based on her book *Science and Health with Key to the Scriptures*. The central teaching is that God is all-in-all and purely spiritual; therefore, matter, sin, sickness, and death are illusions ("errors") of the mortal mind. Christian Scientists believe that realizing this spiritual reality brings physical healing. They typically rely on prayer for healing rather than medical treatment[^442][^443].
 
 
   **📅 Date Founded:** 1879 in Boston, Massachusetts, by Mary Baker Eddy
@@ -2094,11 +2094,11 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Emphasis on prayer:** Strong dedication to daily prayer and spiritual study[^442][^443]
+    - **Emphasis on prayer:** Strong dedication to daily prayer and spiritual study[^444][^445]
 
-      - **God's goodness:** Focuses heavily on the goodness and love of God[^444]
+      - **God's goodness:** Focuses heavily on the goodness and love of God[^446]
 
-      - **Journalism:** Established the *Christian Science Monitor*, a highly respected secular newspaper[^445][^441]
+      - **Journalism:** Established the *Christian Science Monitor*, a highly respected secular newspaper[^447][^443]
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -2107,13 +2107,13 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
 
 
-    - **Denial of reality:** Denies the existence of matter, pain, and the physical body, contradicting both science and Scripture[^446][^441]
+    - **Denial of reality:** Denies the existence of matter, pain, and the physical body, contradicting both science and Scripture[^448][^443]
 
-      - **Denial of the Atonement:** Teaches that Jesus did not die to pay for sins, as sin is considered an illusion[^447][^441]
+      - **Denial of the Atonement:** Teaches that Jesus did not die to pay for sins, as sin is considered an illusion[^449][^443]
 
-      - **Distinction from Jesus:** Distinguishes between "Jesus" (the man) and "Christ" (the divine idea), denying the Incarnation[^441]
+      - **Distinction from Jesus:** Distinguishes between "Jesus" (the man) and "Christ" (the divine idea), denying the Incarnation[^443]
 
-      - **Medical neglect:** Rejection of medical treatment has led to preventable deaths, including children[^448][^449]
+      - **Medical neglect:** Rejection of medical treatment has led to preventable deaths, including children[^450][^451]
     </div>
 </div>
 
@@ -2149,7 +2149,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 <div style="background: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
   **📚 About Tengrism:**
 
-  Tengrism is a modern name for the traditional religion of the Central Asian steppe, characterized by shamanism, animism, ancestor veneration, and a supreme sky god, Tengri (also rendered Tangri)[^450][^451]. It was the religion of the early Turkic and Mongol peoples, and probably of the Xiongnu and the early Hungarians. Since the collapse of the Soviet Union it has undergone a revival, often tied to national identity, in Kyrgyzstan, Kazakhstan, Buryatia and Yakutia[^452][^453]. It emphasizes living in harmony with the surrounding world, reverence for nature spirits, and the veneration of ancestors.
+  Tengrism is a modern name for the traditional religion of the Central Asian steppe, characterized by shamanism, animism, ancestor veneration, and a supreme sky god, Tengri (also rendered Tangri)[^452][^453]. It was the religion of the early Turkic and Mongol peoples, and probably of the Xiongnu and the early Hungarians. Since the collapse of the Soviet Union it has undergone a revival, often tied to national identity, in Kyrgyzstan, Kazakhstan, Buryatia and Yakutia[^454][^455]. It emphasizes living in harmony with the surrounding world, reverence for nature spirits, and the veneration of ancestors.
 
   **📅 Date Founded:** Prehistoric origins in the Eurasian steppes, highly prominent during the Mongol Empire (13th century) and earlier Turkic Khaganates.
 </div>
@@ -2165,7 +2165,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
       - **Simplicity:** Focus on practical survival and harmony without rigid dogmatic structures.
 
-      - **Tolerance:** Historically, Tengrist empires (like the Mongol Empire) often allowed freedom of religion[^454].
+      - **Tolerance:** Historically, Tengrist empires (like the Mongol Empire) often allowed freedom of religion[^456].
     </div>
 
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #f8d7da; padding: 15px; border-radius: 8px; border-left: 4px solid #dc3545; box-sizing: border-box;">
@@ -2176,7 +2176,7 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
 
       - **Animistic worldview:** Veneration of localized spirits can lead to fear and constant attempts to appease unpredictable forces.
 
-      - **No revealed moral code:** Ethics rested mainly on custom (*töre*) and, under the Mongols, on imperial law such as the Yassa, rather than on a universal code grounded in revelation[^455][^456].
+      - **No revealed moral code:** Ethics rested mainly on custom (*töre*) and, under the Mongols, on imperial law such as the Yassa, rather than on a universal code grounded in revelation[^457][^458].
 
       - **Lack of redemption:** Offers no solution for human sin or a clear pathway to eternal salvation, focusing instead on temporal balance.
     </div>
@@ -2321,356 +2321,358 @@ The modern scholar Michael L. Brown, himself a Jewish believer in Jesus, has ans
     "104. [Encyclopedia] 'Dharma.' Encyclopedia.com. https://www.encyclopedia.com/topic/dharma.aspx",
     "105. [Wikipedia] 'Dharma.' https://en.wikipedia.org/wiki/Dharma",
     "106. [Wikipedia] 'Hindu art.' https://en.wikipedia.org/wiki/Hindu_art",
-    "107. [Wikipedia] 'Grihastha.' https://en.wikipedia.org/wiki/Grihastha",
-    "108. [Academic] IJSR. 'Triggering Problem in the Origin of the Universe: Hindu Mythology.' https://www.ijsr.net/getabstract.php?paperid=SR23602180244",
-    "109. [Encyclopedia] Britannica. 'Caste.' https://www.britannica.com/topic/caste-social-differentiation",
-    "110. [Wikipedia] 'Karma.' Including the problem of evil and Kaufman's objections. https://en.wikipedia.org/wiki/Karma",
-    "111. [Wikipedia] 'Historical Vedic religion.' https://en.wikipedia.org/wiki/Historical_Vedic_religion",
-    "112. [Wikipedia] 'Hindu Denominations.' https://en.wikipedia.org/wiki/Hindu_denominations",
-    "113. [Wikipedia] 'Hindu cosmology.' https://en.wikipedia.org/wiki/Hindu_cosmology",
-    "114. [Wikipedia] 'Polytheism.' https://en.wikipedia.org/wiki/Polytheism",
-    "115. [Lexicon] Merriam-Webster. 'Samsara.' https://www.merriam-webster.com/dictionary/samsara",
-    "116. [Wikipedia] 'Varna (Hinduism).' https://en.wikipedia.org/wiki/Varna_(Hinduism)",
-    "117. [Encyclopedia] Encyclopedia Britannica. 'Hinduism: The Nature of the Divine.' https://www.britannica.com/topic/brahman-Hindu-concept",
-    "118. [Christian Source] Christianity Today. 'Hinduism.' https://www.christianitytoday.com/topics/hinduism/",
-    "119. [Encyclopedia] Britannica. 'Greek mythology.' https://www.britannica.com/topic/Greek-mythology",
-    "120. [Academic] Cambridge University Press. 'Mycenaean Greek Worship in Minoan Territory.' https://www.cambridge.org/core/books/local-horizon-of-ancient-greek-religion/mycenaean-greek-worship-in-minoan-territory/2F2598B389D602F29616D08438794A2C",
-    "121. [Wikipedia] 'Classical tradition.' https://en.wikipedia.org/wiki/Classical_tradition",
-    "122. [Encyclopedia] World History Encyclopedia. 'Greek Philosophy.' https://www.worldhistory.org/Greek_Philosophy/",
-    "123. [Encyclopedia] World History Encyclopedia. 'Greek Religion.' https://www.worldhistory.org/Greek_Religion/",
-    "124. [Reference] Theoi Project. 'Greek Mythology.' https://www.theoi.com/",
-    "125. [Encyclopedia] Encyclopedia Britannica. 'Democracy: Ancient Greece.' https://www.britannica.com/topic/democracy",
-    "126. [Wikipedia] 'Greek Art.' https://en.wikipedia.org/wiki/Greek_art",
-    "127. [Encyclopedia] World History Encyclopedia. 'Greek Art.' https://www.worldhistory.org/Greek_Art/",
-    "128. [Encyclopedia] Encyclopedia Britannica. 'Mystery Religion.' https://www.britannica.com/topic/mystery-religion",
-    "129. [Wikipedia] 'Greek mythology.' https://en.wikipedia.org/wiki/Greek_mythology",
-    "130. [Encyclopedia] Britannica. 'Zeus.' https://www.britannica.com/topic/Zeus",
-    "131. [Wikipedia] 'Persecution of pagans in the late Roman Empire.' https://en.wikipedia.org/wiki/Persecution_of_pagans_in_the_late_Roman_Empire",
-    "132. [Encyclopedia] Encyclopedia Britannica. 'Anthropomorphism.' https://www.britannica.com/topic/anthropomorphism",
-    "133. [Encyclopedia] Britannica. 'Oracle.' https://www.britannica.com/topic/Delphic-oracle",
-    "134. [Wikipedia] 'Religion in Ancient Greece.' https://en.wikipedia.org/wiki/Religion_in_ancient_Greece",
-    "135. [Academic] Cambridge Core. 'Religion without doctrine or clergy: the case of Ancient Greece'. https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/religion-without-doctrine-or-clergy-the-case-of-ancient-greece/901613496165E373719D3B343E945156",
-    "136. [Encyclopedia] Encyclopedia Britannica. 'Roman religion.' https://www.britannica.com/topic/Roman-religion",
-    "137. [Wikipedia] 'Jupiter (mythology).' https://en.wikipedia.org/wiki/Jupiter_(mythology)",
-    "138. [Encyclopedia] World History Encyclopedia. 'Roman Religion.' https://www.worldhistory.org/Roman_Religion/",
-    "139. [Reference] Goodreads. 'Religions of Rome: Volume 1'. https://www.goodreads.com/book/show/167946.Religions_of_Rome_Volume_1",
-    "140. [Encyclopedia] Encyclopedia Britannica. 'Roman law.' https://www.britannica.com/topic/Roman-law",
-    "141. [Wikipedia] 'Roman mythology.' https://en.wikipedia.org/wiki/Roman_mythology",
-    "142. [Encyclopedia] World History Encyclopedia. 'Roman Mythology.' https://www.worldhistory.org/Roman_Mythology/",
-    "143. [Wikipedia] 'Founding of Rome.' https://en.wikipedia.org/wiki/Founding_of_Rome",
-    "144. [Wikipedia] 'Interpretatio graeca.' https://en.wikipedia.org/wiki/Interpretatio_graeca",
-    "145. [Wikipedia] 'Augur.' https://en.wikipedia.org/wiki/Augur",
-    "146. [Encyclopedia] World History Encyclopedia. 'Imperial Cult of Ancient Rome.' https://www.worldhistory.org/Roman_Imperial_Cult/",
-    "147. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Theodosius I.' https://www.newadvent.org/cathen/14577d.htm",
-    "148. [Wikipedia] 'Religion in ancient Rome.' https://en.wikipedia.org/wiki/Religion_in_ancient_Rome",
-    "149. [Academic] Pew Research Center. 'Buddhists.' https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-buddhist/",
-    "150. [Encyclopedia] Britannica. 'Nirvana.' https://www.britannica.com/topic/nirvana-religion",
-    "151. [Encyclopedia] Britannica. 'Buddhism.' https://www.britannica.com/topic/Buddhism",
-    "152. [Academic] Stanford Encyclopedia of Philosophy. 'Ethics in Indian Buddhism.' https://plato.stanford.edu/entries/ethics-indian-buddhism/",
-    "153. [Wikipedia] 'Buddhist meditation.' https://en.wikipedia.org/wiki/Buddhist_meditation",
-    "154. [Academic] Yamabe. Concentration and Visualization Techniques in Buddhist Meditation. The Oxford Handbook of Meditation, 2021. https://doi.org/10.1093/oxfordhb/9780198808640.013.19",
-    "155. [Wikipedia] 'Five precepts.' https://en.wikipedia.org/wiki/Five_precepts",
-    "156. [Academic] IEP. 'Jain Philosophy.' https://iep.utm.edu/jain/",
-    "157. [Encyclopedia] Britannica. 'Karma.' https://www.britannica.com/topic/karma",
-    "158. [Academic] Stanford Encyclopedia of Philosophy. 'The Buddha.' https://plato.stanford.edu/entries/buddha/",
-    "159. [News] PBS. 'Buddhism and Peace.' https://www.pbs.org/edens/thailand/buddhism.htm",
-    "160. [Wikipedia] 'Schools of Buddhism.' https://en.wikipedia.org/wiki/Schools_of_Buddhism",
-    "161. [Reference] BBC Religions. 'Theravada Buddhism.' https://www.bbc.co.uk/religion/religions/buddhism/subdivisions/theravada_1.shtml",
-    "162. [Academic] Polak. Does the not-Self (anattā) teaching in the Nikāyas presuppose the existence of a special type of consciousness?. Argument: Biannual Philosophical Journal, 2022. https://doi.org/10.24917/20841043.12.1.08",
-    "163. [Wikipedia] 'Anattā.' https://en.wikipedia.org/wiki/Anatt%C4%81",
-    "164. [Wikipedia] 'Early Buddhist texts.' https://en.wikipedia.org/wiki/Early_Buddhist_texts",
-    "165. [Academic] Burley. Conundrums of Buddhist Cosmology and Psychology. Numen, 2017. https://doi.org/10.1163/15685276-12341470",
-    "166. [Wikipedia] 'Buddhist cosmology.' https://en.wikipedia.org/wiki/Buddhist_cosmology",
-    "167. [Wikipedia] 'Buddhist monasticism.' https://en.wikipedia.org/wiki/Buddhist_monasticism",
-    "168. [Wikipedia] 'Human potential movement.' https://en.wikipedia.org/wiki/Human_Potential_Movement",
-    "169. [Primary Source] Pontifical Councils. Jesus Christ the Bearer of the Water of Life: A Christian reflection on the New Age. Holy See. https://www.vatican.va/roman_curia/pontifical_councils/interelg/documents/rc_pc_interelg_doc_20030203_new-age_en.html",
-    "170. [Wikipedia] 'Nature religion.' https://en.wikipedia.org/wiki/Nature_religion",
-    "171. [Wikipedia] 'Alternative medicine.' Including holistic claims. https://en.wikipedia.org/wiki/Alternative_medicine",
-    "172. [Encyclopedia] Encyclopedia.com. 'New Religious Movements and Women.' https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/new-religious-movements-new-religious-movements-and-women",
-    "173. [Wikipedia] 'Perennial philosophy.' https://en.wikipedia.org/wiki/Perennial_philosophy",
-    "174. [Academic] NIH News in Health. 'Mindfulness for Your Health.' https://newsinhealth.nih.gov/2021/06/mindfulness-your-health",
-    "175. [Wikipedia] 'New Age.' https://en.wikipedia.org/wiki/New_Age",
-    "176. [Encyclopedia] Britannica. 'Gerald Gardner.' https://www.britannica.com/biography/Gerald-Brousseau-Gardner",
-    "177. [Wikipedia] 'Energy medicine.' https://en.wikipedia.org/wiki/Energy_medicine",
-    "178. [Academic] Reiki. National Center for Complementary and Integrative Health. https://www.nccih.nih.gov/health/reiki",
-    "179. [Apologetics] GotQuestions.org. 'What is the New Age movement?' https://www.gotquestions.org/New-Age-movement.html",
-    "180. [Academic] Cowan, Douglas. 'Cults and New Religions: A Brief History.' Wiley-Blackwell, 2007. https://www.amazon.com/Cults-New-Religions-Brief-History/dp/1405161272",
-    "181. [Academic] Dawson, Lorne L. 'Comprehending Cults: The Sociology of New Religious Movements.' Oxford University Press. https://www.amazon.com/Comprehending-Cults-Sociology-Religious-Movements/dp/0195420098",
-    "182. [Reference] BBC. 'Sikhism at a Glance.' https://www.bbc.co.uk/religion/religions/sikhism/ataglance/glance.shtml",
-    "183. [Reference] SikhiWiki. 'Waheguru.' https://www.sikhiwiki.org/index.php/Waheguru",
-    "184. [Wikipedia] 'Langar (Sikhism).' https://en.wikipedia.org/wiki/Langar_(Sikhism)",
-    "185. [Reference] BBC Religions. 'Guru Nanak.' https://www.bbc.co.uk/religion/religions/sikhism/people/nanak.shtml",
-    "186. [Wikipedia] 'Women in Sikhism.' https://en.wikipedia.org/wiki/Women_in_Sikhism",
-    "187. [Primary Source] SikhiWiki. 'Seva: Selfless Service.' https://www.sikhiwiki.org/index.php/Seva",
-    "188. [Christian Source] SikhiWiki. 'Kirat Karni.' https://www.sikhiwiki.org/index.php/Kirat_Karni",
-    "189. [Wikipedia] 'Guru Tegh Bahadur.' Executed in 1675 after defending the religious freedom of Kashmiri Hindus. https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur",
-    "190. [Academic] Stanford Encyclopedia of Philosophy. 'Religious Diversity (Pluralism).' https://plato.stanford.edu/entries/religious-pluralism/",
-    "191. [Wikipedia] 'Sikhism.' https://en.wikipedia.org/wiki/Sikhism",
-    "192. [Apologetics] What is Sikhism? GotQuestions.org. https://www.gotquestions.org/Sikhism.html",
-    "193. [Wikipedia] 'Reincarnation.' https://en.wikipedia.org/wiki/Reincarnation",
-    "194. [Wikipedia] 'Janamsakhis.' https://en.wikipedia.org/wiki/Janamsakhis",
-    "195. [Academic] Singh, Nikky-Guninder Kaur. 'Sikhism: An Introduction.' I.B. Tauris, 2011. https://www.amazon.com/Sikhism-Introduction-Nikky-Guninder-Kaur-Singh/dp/1848853211",
-    "196. [Encyclopedia] Britannica. 'Adi Granth.' https://www.britannica.com/topic/Adi-Granth-Sikh-sacred-scripture",
-    "197. [Encyclopedia] Encyclopedia Britannica. 'Jainism.' https://www.britannica.com/topic/Jainism",
-    "198. [Reference] BBC. 'Ahimsa.' https://www.bbc.co.uk/religion/religions/jainism/living/ahimsa_1.shtml",
-    "199. [Academic] Yale Forum on Religion and Ecology. 'Jainism.' https://fore.yale.edu/World-Religions/Jainism",
-    "200. [Wikipedia] 'Five Vows (Jain ethics).' https://en.wikipedia.org/wiki/Jain_ethics",
-    "201. [Encyclopedia] Britannica. 'Mahavira (Vardhamana).' https://www.britannica.com/biography/Vardhamana",
-    "202. [Encyclopedia] Britannica. 'Dana.' https://www.britannica.com/topic/almsgiving",
-    "203. [Academic] Soni, Luitgard. 'Jaina Modes of Dying in Aradhana Texts.' International Journal of Jaina Studies 10.2 (2014). https://jainastudies.soas.ac.uk/ijjs/ijjs-1002-2014.pdf",
-    "204. [Encyclopedia] Britannica. 'Sallekhana.' https://www.britannica.com/topic/sallekhana",
-    "205. [Wikipedia] 'Ahimsa in Jainism.' https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
-    "206. [Academic] Cort, John E. 'Jain Doctrine and Practice.' Oxford University Press, 2016. https://global.oup.com/academic/product/jain-doctrine-and-practice-9780199460555",
-    "207. [Encyclopedia] New World Encyclopedia. 'Jainism.' https://www.newworldencyclopedia.org/entry/Jainism",
-    "208. [Academic] Dundas, Paul. 'The Jains.' Routledge, 2002. https://www.amazon.com/Jains-Library-Religious-Beliefs-Practices/dp/0415266068",
-    "209. [Wikipedia] 'Jain Monasticism.' https://en.wikipedia.org/wiki/Jain_monasticism",
-    "210. [Encyclopedia] Britannica. 'Bahá'í Faith'. https://www.britannica.com/topic/Bahai-Faith",
-    "211. [Christian Source] Bahá'í International Community. 'One Human Family.' https://www.bahai.org/beliefs/essential-relationships/one-human-family",
-    "212. [Wikipedia] 'Baháʼí Faith and the Unity of Religion.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_the_unity_of_religion",
-    "213. [Christian Source] Bahai.org. 'Beliefs.' https://www.bahai.org/beliefs/",
-    "214. [Wikipedia] 'Baháʼí Faith and education.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_education",
-    "215. [Christian Source] Bahá'í International Community. 'Universal Peace.' https://www.bahai.org/beliefs/universal-peace/",
-    "216. [Wikipedia] 'Baháʼí Faith and the Unity of Humanity.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_the_unity_of_humanity",
-    "217. [Wikipedia] 'Baháʼí views on science.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_science",
-    "218. [Academic] Houghton. Science and Religion: how can the Bahá’í Faith contribute to the existing discourse?. Baha i Studies Review, 2025. https://doi.org/10.67743/e20251221",
-    "219. [Reference] Stockman. 'Progressive Revelation'. https://bahai-library.com/stockman_encyclopedia_progressive_revelation",
-    "220. [Wikipedia] 'Manifestation of God.' https://en.wikipedia.org/wiki/Manifestation_of_God",
-    "221. [Academic] Terry, Peter. 'Some Chronological Issues in the Lawh-i-Hikmat of Bahá'u'lláh.' Lights of Irfán 1 (2000). https://bahai-library.com/terry_chronological_issues_hikmat",
-    "222. [Christian Source] Bahaipedia. 'Lesser Peace.' https://bahaipedia.org/Lesser_Peace",
-    "223. [Wikipedia] 'Bahai Administration.' https://en.wikipedia.org/wiki/Bahai_administration",
-    "224. [Wikipedia] 'Confucianism.' https://en.wikipedia.org/wiki/Confucianism",
-    "225. [Academic] Stanford Encyclopedia of Philosophy. 'Confucius.' https://plato.stanford.edu/entries/confucius/",
-    "226. [Academic] Pew Research Center. 'Folk Religionists.' https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-folk/",
-    "227. [Encyclopedia] Britannica. 'Ren.' https://www.britannica.com/topic/ren",
-    "228. [Encyclopedia] Britannica. 'Junzi.' https://www.britannica.com/topic/junzi",
-    "229. [Encyclopedia] World History Encyclopedia. 'Confucianism.' https://www.worldhistory.org/Confucianism/",
-    "230. [Wikipedia] 'Filial piety.' https://en.wikipedia.org/wiki/Filial_piety",
-    "231. [Academic] Stanford Encyclopedia of Philosophy. 'Ethics in Chinese Tradition.' https://plato.stanford.edu/entries/ethics-chinese/",
-    "232. [Encyclopedia] Britannica. 'Mencius.' https://www.britannica.com/biography/Mencius-Chinese-philosopher",
-    "233. [Encyclopedia] World History Encyclopedia. 'Confucius.' https://www.worldhistory.org/Confucius/",
-    "234. [Academic] Internet Encyclopedia of Philosophy. 'Confucius.' https://iep.utm.edu/confucius/",
-    "235. [Wikipedia] 'Three Obediences and Four Virtues.' https://en.wikipedia.org/wiki/Three_Obediences_and_Four_Virtues",
-    "236. [Academic] Stanford Encyclopedia of Philosophy. 'Xunzi.' https://plato.stanford.edu/entries/xunzi/",
-    "237. [Academic] De Bary, Wm. Theodore. 'The Trouble with Confucianism.' Harvard University Press, 1991. https://www.hup.harvard.edu/books/9780674910164",
-    "238. [Wikipedia] 'Analects.' https://en.wikipedia.org/wiki/Analects",
-    "239. [Academic] Oxford Bibliographies. 'Ancestor Worship.' https://www.oxfordbibliographies.com/display/document/obo-9780199920082/obo-9780199920082-0171.xml",
-    "240. [Academic] Stanford Encyclopedia of Philosophy. 'Daoism.' https://plato.stanford.edu/entries/daoism/",
-    "241. [Encyclopedia] World History Encyclopedia. 'Taoism.' https://www.worldhistory.org/Taoism/",
-    "242. [Academic] 'Daoist Philosophy.' Internet Encyclopedia of Philosophy. https://iep.utm.edu/daoismdaoist-philosophy/",
-    "243. [Wikipedia] 'Taoism.' https://en.wikipedia.org/wiki/Taoism",
-    "244. [Wikipedia] 'Tao Te Ching.' https://en.wikipedia.org/wiki/Tao_Te_Ching",
-    "245. [Primary Source] Tao Te Ching, trans. James Legge. Internet Sacred Text Archive. https://sacred-texts.com/tao/taote.htm",
-    "246. [Wikipedia] 'Wu Wei.' https://en.wikipedia.org/wiki/Wu_wei",
-    "247. [Wikipedia] 'Yin and Yang.' https://en.wikipedia.org/wiki/Yin_and_yang",
-    "248. [Wikipedia] 'Taoist Meditation.' https://en.wikipedia.org/wiki/Taoist_meditation",
-    "249. [Wikipedia] 'Three Treasures (taoism).' https://en.wikipedia.org/wiki/Three_Treasures_(Taoism)",
-    "250. [Academic] New World Encyclopedia. 'Taoism.' https://www.newworldencyclopedia.org/entry/Taoism",
-    "251. [Encyclopedia] Encyclopedia Britannica. 'Daodejing.' https://www.britannica.com/topic/Tao-te-Ching",
-    "252. [Academic] Stanford Encyclopedia of Philosophy. 'Laozi.' https://plato.stanford.edu/entries/laozi/",
-    "253. [Encyclopedia] Britannica. 'Wuwei (Chinese Philosophy).' https://www.britannica.com/topic/wuwei-Chinese-philosophy",
-    "254. [Reference] Khan Academy. 'Daoism.' https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-china/a/daoism",
-    "255. [Wikipedia] 'Tao.' https://en.wikipedia.org/wiki/Tao",
-    "256. [Encyclopedia] Britannica. 'Shrine Shinto.' https://www.britannica.com/topic/Shrine-Shinto",
-    "257. [Reference] BBC Religions. 'Shinto: Kami.' https://www.bbc.co.uk/religion/religions/shinto/beliefs/kami_1.shtml",
-    "258. [Reference] Japan Guide. 'Shinto.' https://www.japan-guide.com/e/e2056.html",
-    "259. [Encyclopedia] New World Encyclopedia. 'Shinto: Ethics and Thought.' https://www.newworldencyclopedia.org/entry/Shinto#Ethics",
-    "260. [Wikipedia] 'Matsuri.' https://en.wikipedia.org/wiki/Matsuri",
-    "261. [Encyclopedia] World History Encyclopedia. 'Shinto.' https://www.worldhistory.org/Shinto/",
-    "262. [Wikipedia] 'Shinto.' https://en.wikipedia.org/wiki/Shinto",
-    "263. [Wikipedia] 'Kami.' https://en.wikipedia.org/wiki/Kami",
-    "264. [Wikipedia] 'Shinbutsu-shugo.' The historical fusion of Shinto and Buddhism. https://en.wikipedia.org/wiki/Shinbutsu-sh%C5%ABg%C5%8D",
-    "265. [Wikipedia] 'Animism.' https://en.wikipedia.org/wiki/Animism",
-    "266. [Reference] 'BBC - Religions - Shinto: Shinto and nationalism.' BBC. https://www.bbc.co.uk/religion/religions/shinto/history/nationalism_1.shtml",
-    "267. [Wikipedia] 'State Shinto.' https://en.wikipedia.org/wiki/State_Shinto",
-    "268. [Wikipedia] 'Shinto Directive.' https://en.wikipedia.org/wiki/Shinto_Directive",
-    "269. [Apologetics] GotQuestions.org. 'What does the Bible say about ancestor worship?' https://www.gotquestions.org/ancestor-worship.html",
-    "270. [Reference] BBC Religions. 'Shinto.' Including purification rites. https://www.bbc.co.uk/religion/religions/shinto/",
-    "271. [Wikipedia] 'Harae.' https://en.wikipedia.org/wiki/Harae",
-    "272. [Encyclopedia] Britannica. 'Shinto.' https://www.britannica.com/topic/Shinto",
-    "273. [Encyclopedia] New World Encyclopedia. 'Rastafari Movement.' https://www.newworldencyclopedia.org/entry/Rastafari_movement",
-    "274. [Apologetics] GotQuestions.org. 'What is Rastafarianism?' https://www.gotquestions.org/Rastafarianism.html",
-    "275. [Reference] BBC Religions. 'Rastafari.' https://www.bbc.co.uk/religion/religions/rastafari/",
-    "276. [Wikipedia] 'Bob Marley.' https://en.wikipedia.org/wiki/Bob_Marley",
-    "277. [Reference] BBC. 'Rastafari Customs.' https://www.bbc.co.uk/religion/religions/rastafari/customs/customs_1.shtml",
-    "278. [Reference] BBC. 'Rastafari Beliefs.' https://www.bbc.co.uk/religion/religions/rastafari/beliefs/beliefs_1.shtml",
-    "279. [Reference] BBC Religions. 'Rastafari: Rastafarian history.' https://www.bbc.co.uk/religion/religions/rastafari/history/history.shtml",
-    "280. [Wikipedia] 'Ital.' https://en.wikipedia.org/wiki/Ital",
-    "281. [Academic] Hemispheric Institute. 'Rastafari, Reggae, and Resistance.' https://hemisphericinstitute.org/en/emisferica-21/2-1-review-essays/rastafari-reggae-and-resistance-by-katrina-lacey.html",
-    "282. [Reference] BBC. 'Rastafari at a Glance.' https://www.bbc.co.uk/religion/religions/rastafari/ataglance/glance.shtml",
-    "283. [Wikipedia] 'Haile Selassie.' https://en.wikipedia.org/wiki/Haile_Selassie",
-    "284. [Reference] Biography.com. 'Haile Selassie I.' https://www.biography.com/political-figures/haile-selassie-i",
-    "285. [Encyclopedia] Britannica. 'Ethiopianism.' https://www.britannica.com/topic/Ethiopianism",
-    "286. [Wikipedia] 'Cannabis (drug).' https://en.wikipedia.org/wiki/Cannabis_(drug)",
-    "287. [Wikipedia] 'Rastafari Movement.' https://en.wikipedia.org/wiki/Rastafari_movement",
-    "288. [Wikipedia] 'Mansions of Rastafari.' https://en.wikipedia.org/wiki/Mansions_of_Rastafari",
-    "289. [Reference] BBC Religions. 'Zoroastrianism.' https://www.bbc.co.uk/religion/religions/zoroastrian/",
-    "290. [Reference] BBC. 'Zoroaster.' https://www.bbc.co.uk/religion/religions/zoroastrian/history/zoroaster_1.shtml",
-    "291. [Wikipedia] 'Parsis.' Including their demographic decline. https://en.wikipedia.org/wiki/Parsis",
-    "292. [Encyclopedia] Britannica. 'Ahura Mazda.' https://www.britannica.com/topic/Ahura-Mazda",
-    "293. [Wikipedia] 'Asha.' https://en.wikipedia.org/wiki/Asha",
-    "294. [Encyclopedia] World History Encyclopedia. 'Zoroastrianism.' https://www.worldhistory.org/Zoroastrianism/",
-    "295. [Reference] BBC. 'Zoroastrian God.' https://www.bbc.co.uk/religion/religions/zoroastrian/beliefs/god.shtml",
-    "296. [Academic] Encyclopaedia Iranica. 'SAOŠYANT.' https://www.iranicaonline.org/articles/saosyant",
-    "297. [Wikipedia] 'Saoshyant.' https://en.wikipedia.org/wiki/Saoshyant",
-    "298. [Wikipedia] 'Fire Temple.' https://en.wikipedia.org/wiki/Fire_temple",
-    "299. [Wikipedia] 'Zoroastrianism.' https://en.wikipedia.org/wiki/Zoroastrianism",
-    "300. [Wikipedia] 'Dualistic Cosmology.' https://en.wikipedia.org/wiki/Dualistic_cosmology",
-    "301. [Encyclopedia] Britannica. 'Gatha.' https://www.britannica.com/topic/Gatha-Zoroastrian-literature",
-    "302. [Encyclopedia] Encyclopedia Britannica. 'The Avesta.' https://www.britannica.com/topic/Avesta-Zoroastrian-scripture",
-    "303. [Reference] BBC. 'Zoroastrian Worship.' https://www.bbc.co.uk/religion/religions/zoroastrian/worship/worship.shtml",
-    "304. [Encyclopedia] Britannica. 'Parsi.' https://www.britannica.com/topic/Parsi",
-    "305. [Wikipedia] 'Zoroastrian Eschatology.' https://en.wikipedia.org/wiki/Zoroastrian_eschatology",
-    "306. [Academic] De Jong. Ahriman. The Encyclopedia of Ancient History, 2012. https://doi.org/10.1002/9781444338386.wbeah17018",
-    "307. [Wikipedia] 'Ahriman.' https://en.wikipedia.org/wiki/Ahriman",
-    "308. [Academic] Weber. Haitian Vodou and Ecotheology. The Ecumenical Review, 2018. https://doi.org/10.1111/erev.12393",
-    "309. [Wikipedia] 'Haitian Vodou.' https://en.wikipedia.org/wiki/Haitian_Vodou",
-    "310. [Wikipedia] 'West African Vodun.' https://en.wikipedia.org/wiki/West_African_Vodun",
-    "311. [Encyclopedia] 'African Diaspora.' Encyclopedia.com. https://www.encyclopedia.com/social-sciences-and-law/anthropology-and-archaeology/human-evolution/african-diaspora",
-    "312. [Wikipedia] 'African diaspora religions.' https://en.wikipedia.org/wiki/African_diaspora_religions",
-    "313. [Wikipedia] 'Houngan.' https://en.wikipedia.org/wiki/Houngan",
-    "314. [Wikipedia] 'Bois Caïman.' https://en.wikipedia.org/wiki/Bois_Ca%C3%AFman",
-    "315. [Wikipedia] 'Mambo (vodou).' https://en.wikipedia.org/wiki/Mambo_(Vodou)",
-    "316. [Reference] Black History Month. 'Honouring Ancestors in Haiti and Africa.' https://www.blackhistorymonth.org.uk/article/section/african-history/honouring-ancestors-a-sacred-tradition-in-haiti-africa-and-latin-america/",
-    "317. [Wikipedia] 'Catholic Church in Haiti.' https://en.wikipedia.org/wiki/Catholic_Church_in_Haiti",
-    "318. [Wikipedia] 'Spirit Possession.' https://en.wikipedia.org/wiki/Spirit_possession",
-    "319. [Wikipedia] 'Bokor.' https://en.wikipedia.org/wiki/Bokor",
-    "320. [Wikipedia] 'Lwa, the Vodou Spirits.' https://en.wikipedia.org/wiki/Lwa",
-    "321. [Encyclopedia] Britannica. 'Lwa.' https://www.britannica.com/topic/lwa-Vodou",
-    "322. [Reference] Visit Haiti. 'Haitian Vodou Revealed: Secret Societies and Dark Magic.' https://visithaiti.com/art-culture/haitian-vodou-revealed/",
-    "323. [Encyclopedia] Encyclopedia.com. 'Voodoo.' https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/miscellaneous-religion/voodoo",
-    "324. [Encyclopedia] World History Encyclopedia. 'Norse Mythology.' https://www.worldhistory.org/Norse_Mythology/",
-    "325. [Encyclopedia] World History Encyclopedia. 'Edda.' https://www.worldhistory.org/Edda/",
-    "326. [Wikipedia] 'Saga.' https://en.wikipedia.org/wiki/Saga",
-    "327. [Primary Source] Hovamol, The Poetic Edda, trans. H. A. Bellows (1936). Internet Sacred Text Archive. https://sacred-texts.com/neu/poe/poe04.htm",
-    "328. [Wikipedia] 'Hávamál.' https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l",
-    "329. [Wikipedia] 'Völva (Seeress).' https://en.wikipedia.org/wiki/V%C3%B6lva",
-    "330. [Wikipedia] 'Vanir.' https://en.wikipedia.org/wiki/Vanir",
-    "331. [News] The Guardian. 'Norse Mythology by Neil Gaiman review.' https://www.theguardian.com/books/2017/mar/29/norse-myths-by-neil-gaiman-review",
-    "332. [Encyclopedia] Britannica. 'Thing (Scandinavian Assembly).' https://www.britannica.com/topic/thing-Scandinavian-political-assembly",
-    "333. [Wikipedia] 'Christianization of Scandinavia.' https://en.wikipedia.org/wiki/Christianization_of_Scandinavia",
-    "334. [Wikipedia] 'Valhalla.' https://en.wikipedia.org/wiki/Valhalla",
-    "335. [Encyclopedia] World History Encyclopedia. 'Valhalla.' https://www.worldhistory.org/Valhalla/",
-    "336. [Encyclopedia] Britannica. 'The Fate of the Norns.' https://www.britannica.com/topic/Norn",
-    "337. [Wikipedia] 'Poetic Edda.' https://en.wikipedia.org/wiki/Poetic_Edda",
-    "338. [Wikipedia] 'Snorri Sturluson.' The 13th-century Christian compiler of Norse myth. https://en.wikipedia.org/wiki/Snorri_Sturluson",
-    "339. [Wikipedia] 'Prose Edda.' https://en.wikipedia.org/wiki/Prose_Edda",
-    "340. [Wikipedia] 'Ragnarök.' https://en.wikipedia.org/wiki/Ragnar%C3%B6k",
-    "341. [Encyclopedia] World History Encyclopedia. 'Ragnarok.' https://www.worldhistory.org/Ragnarok/",
-    "342. [Encyclopedia] World History Encyclopedia. 'Ancient Celts.' https://www.worldhistory.org/Celts/",
-    "343. [Wikipedia] 'Celts.' https://en.wikipedia.org/wiki/Celts",
-    "344. [Encyclopedia] World History Encyclopedia. 'Celtic Religion.' https://www.worldhistory.org/Ancient_Celtic_Religion/",
-    "345. [Encyclopedia] Britannica. 'Bard.' https://www.britannica.com/art/bard",
-    "346. [Wikipedia] 'Otherworld.' https://en.wikipedia.org/wiki/Otherworld",
-    "347. [Wikipedia] 'Celtic art.' https://en.wikipedia.org/wiki/Celtic_art",
-    "348. [Wikipedia] 'Celtic deities.' https://en.wikipedia.org/wiki/Celtic_deities",
-    "349. [Encyclopedia] World History Encyclopedia. 'Samhain.' https://www.worldhistory.org/Samhain/",
-    "350. [Wikipedia] 'Samhain.' https://en.wikipedia.org/wiki/Samhain",
-    "351. [Wikipedia] 'Human Sacrifice.' https://en.wikipedia.org/wiki/Human_sacrifice",
-    "352. [Encyclopedia] Britannica. 'Human sacrifice.' https://www.britannica.com/topic/human-sacrifice",
-    "353. [Encyclopedia] Britannica. 'Celt.' https://www.britannica.com/topic/Celt-people",
-    "354. [Encyclopedia] New Advent, Catholic Encyclopedia. 'St. Patrick.' https://www.newadvent.org/cathen/11554a.htm",
-    "355. [Encyclopedia] Britannica. 'Celtic religion.' https://www.britannica.com/topic/Celtic-religion",
-    "356. [Wikipedia] 'Tuatha Dé Danann.' https://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann",
-    "357. [Wikipedia] 'Druid.' https://en.wikipedia.org/wiki/Druid",
-    "358. [Encyclopedia] World History Encyclopedia. 'Druid.' https://www.worldhistory.org/Druid/",
-    "359. [Encyclopedia] Britannica. 'Witchcraft.' https://www.britannica.com/topic/witchcraft",
-    "360. [Wikipedia] 'Contemporary Paganism.' https://en.wikipedia.org/wiki/Contemporary_Paganism",
-    "361. [Encyclopedia] Britannica. 'Modern Paganism.' https://www.britannica.com/topic/modern-Paganism",
-    "362. [Wikipedia] 'Wicca.' Including demographics. https://en.wikipedia.org/wiki/Wicca",
-    "363. [Reference] BBC Religions. 'Pagan beliefs.' https://www.bbc.co.uk/religion/religions/paganism/beliefs/beliefs.shtml",
-    "364. [Reference] Goddess and Green Man. 'Wicca & Witchcraft.' https://www.goddessandgreenman.co.uk/wicca-witchcraft",
-    "365. [Wikipedia] 'Wiccan Rede.' https://en.wikipedia.org/wiki/Wiccan_Rede",
-    "366. [Reference] BBC Religions. 'Wicca.' https://www.bbc.co.uk/religion/religions/paganism/subdivisions/wicca.shtml",
-    "367. [Wikipedia] 'Rule of Three (Wicca).' https://en.wikipedia.org/wiki/Threefold_Law",
-    "368. [Wikipedia] 'Esbat.' https://en.wikipedia.org/wiki/Esbat",
-    "369. [Wikipedia] 'Charge of the Goddess.' https://en.wikipedia.org/wiki/Charge_of_the_Goddess",
-    "370. [Wikipedia] 'History of Wicca.' https://en.wikipedia.org/wiki/History_of_Wicca",
-    "371. [Encyclopedia] Britannica. 'Occultism.' https://www.britannica.com/topic/occultism",
-    "372. [Apologetics] Catholic Answers. 'Witchcraft.' https://www.catholic.com/encyclopedia/witchcraft",
-    "373. [Wikipedia] 'Goddess Movement.' https://en.wikipedia.org/wiki/Goddess_movement",
-    "374. [Apologetics] GotQuestions.org. 'What is Wicca? Is Wicca witchcraft?' https://www.gotquestions.org/Wicca.html",
-    "375. [Reference] Wicca Living. 'The Wiccan Rede.' https://wiccaliving.com/wiccan-rede/",
-    "376. [Wikipedia] 'Gardnerian Wicca.' https://en.wikipedia.org/wiki/Gardnerian_Wicca",
-    "377. [Wikipedia] 'Alexandrian Wicca.' https://en.wikipedia.org/wiki/Alexandrian_Wicca",
-    "378. [Reference] BBC. 'Mormonism at a Glance.' https://www.bbc.co.uk/religion/religions/mormon/ataglance/glance.shtml",
-    "379. [Primary Source] Church of Jesus Christ Newsroom. 'Facts and Statistics.' https://newsroom.churchofjesuschrist.org/facts-and-statistics",
-    "380. [Christian Source] Church of Jesus Christ. 'Gospel Topics: Family.' https://www.churchofjesuschrist.org/study/manual/gospel-topics/family?lang=eng",
-    "381. [Christian Source] Church of Jesus Christ. 'Gospel Topics: Service and Sacrifice.' https://www.churchofjesuschrist.org/study/manual/gospel-topics/service?lang=eng",
-    "382. [Primary Source] Church of Jesus Christ. 'Word of Wisdom.' https://www.churchofjesuschrist.org/study/manual/gospel-topics/word-of-wisdom?lang=eng",
-    "383. [Encyclopedia] Encyclopedia Britannica. 'The Church of Jesus Christ of Latter-day Saints.' https://www.britannica.com/topic/Church-of-Jesus-Christ-of-Latter-day-Saints",
-    "384. [Apologetics] Christian Defense. 'The LDS God is an Exalted Man.' https://christiandefense.org/mormonism/the-lds-god-is-an-exalted-man-with-body-parts/",
-    "385. [Wikipedia] 'Plan of Salvation (latter Day Saints).' https://en.wikipedia.org/wiki/Plan_of_salvation_(Latter_Day_Saints)",
-    "386. [Commentary] Commentaries on Ephesians 2:8. Bible Hub. https://biblehub.com/commentaries/ephesians/2-8.htm",
-    "387. [Primary Source] The Church of Jesus Christ of Latter-day Saints. 'The Book of Mormon.' https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng",
-    "388. [Encyclopedia] Britannica. 'Brigham Young.' https://www.britannica.com/biography/Brigham-Young",
-    "389. [Academic] 'Spencer W. Kimball and the Revelation on Priesthood.' BYU Studies. https://byustudies.byu.edu/article/spencer-w-kimball-and-the-revelation-on-priesthood/",
-    "390. [Wikipedia] 'Black people and Mormon priesthood.' https://en.wikipedia.org/wiki/Black_people_and_Mormon_priesthood",
-    "391. [Reference] BBC Religions. 'Jehovah's Witnesses: Beliefs.' https://www.bbc.co.uk/religion/religions/witnesses/beliefs/beliefs.shtml",
-    "392. [Academic] 'Jehovah's Witnesses.' Cambridge University Press. https://www.cambridge.org/core/elements/jehovahs-witnesses/605AED05C9FA13DC68BB74FE3D2C651D",
-    "393. [Reference] BBC Religions. 'Jehovah's Witnesses.' https://www.bbc.co.uk/religion/religions/witnesses/",
-    "394. [Wikipedia] 'Jehovah's Witnesses practices.' https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses_practices",
-    "395. [Christian Source] JW.org. 'Advancing Global Literacy.' https://www.jw.org/en/library/series/from-our-archives/advancing-global-literacy/",
-    "396. [Apologetics] GotQuestions.org. 'Is Jesus Michael the archangel?' https://www.gotquestions.org/Jesus-Michael-archangel.html",
-    "397. [Wikipedia] 'Arianism.' https://en.wikipedia.org/wiki/Arianism",
-    "398. [Wikipedia] 'Criticism of Jehovah's Witnesses.' https://en.wikipedia.org/wiki/Criticism_of_Jehovah%27s_Witnesses",
-    "399. [Apologetics] Is the New World Translation of the Bible a valid version? GotQuestions.org. https://www.gotquestions.org/New-World-Translation.html",
-    "400. [Wikipedia] 'Unfulfilled Watch Tower Society predictions.' https://en.wikipedia.org/wiki/Unfulfilled_Watch_Tower_Society_predictions",
-    "401. [Reference] BBC Religions. 'Jehovah's Witnesses: Organisation.' https://www.bbc.co.uk/religion/religions/witnesses/structure/structure.shtml",
-    "402. [Encyclopedia] Britannica. 'Alevi.' https://www.britannica.com/topic/Alevi",
-    "403. [Wikipedia] 'Alevism.' https://en.wikipedia.org/wiki/Alevism",
-    "404. [Reference] Refworld (UNHCR), Minority Rights Group International. 'World Directory of Minorities and Indigenous Peoples: Turkey, Alevis' (2018). https://www.refworld.org/reference/countryrep/mrgi/2018/en/111484",
-    "405. [Reference] Human Rights Watch. 'Alevis.' https://www.hrw.org/reports/2000/turkey2/Turk009-11.htm",
-    "406. [Reference] Minority Rights Group. 'Alevis.' https://www.refworld.org/reference/countryrep/mrgi/2018/en/64583",
-    "407. [Reference] UNESCO. 'Semah, Alevi-Bektasi ritual.' https://ich.unesco.org/en/RL/semah-alevi-bektasi-ritual-00384",
-    "408. [Wikipedia] 'Bektashi Order.' https://en.wikipedia.org/wiki/Bektashi_Order",
-    "409. [Wikipedia] 'Batiniyya.' https://en.wikipedia.org/wiki/Batiniyya",
-    "410. [Reference] BBC Religions. 'Sufism.' https://www.bbc.co.uk/religion/religions/islam/subdivisions/sufism_1.shtml",
-    "411. [Encyclopedia] Britannica. 'Kizilbash.' https://www.britannica.com/topic/Kizilbash",
-    "412. [Wikipedia] 'Sufism.' https://en.wikipedia.org/wiki/Sufism",
-    "413. [Wikipedia] 'Dhikr.' https://en.wikipedia.org/wiki/Dhikr",
-    "414. [Encyclopedia] Britannica. 'Dervish.' https://www.britannica.com/topic/dervish",
-    "415. [Wikipedia] 'Rumi.' https://en.wikipedia.org/wiki/Rumi",
-    "416. [Encyclopedia] World History Encyclopedia. 'Rumi.' https://www.worldhistory.org/Rumi/",
-    "417. [Reference] The New Yorker. 'The Erasure of Islam from the Poetry of Rumi.' https://www.newyorker.com/books/page-turner/the-erasure-of-islam-from-the-poetry-of-rumi",
-    "418. [Encyclopedia] Britannica. 'Rumi.' https://www.britannica.com/biography/Rumi",
-    "419. [Wikipedia] 'Fana (sufism).' https://en.wikipedia.org/wiki/Fana_(Sufism)",
-    "420. [Wikipedia] 'Sufi Metaphysics.' https://en.wikipedia.org/wiki/Sufi_metaphysics",
-    "421. [Academic] Stanford Encyclopedia of Philosophy. 'Ibn Arabi.' https://plato.stanford.edu/entries/ibn-arabi/",
-    "422. [Encyclopedia] Britannica. 'Tariqa.' https://www.britannica.com/topic/tariqa",
-    "423. [Wikipedia] 'Mevlevi Order.' https://en.wikipedia.org/wiki/Mevlevi_Order",
-    "424. [Wikipedia] 'Dargah.' https://en.wikipedia.org/wiki/Dargah",
-    "425. [Encyclopedia] Britannica. 'L. Ron Hubbard.' https://www.britannica.com/biography/L-Ron-Hubbard",
-    "426. [Academic] 'Secrets of Scientology: The E-Meter.' Carnegie Mellon University archive. https://www-2.cs.cmu.edu/~dst/Secrets/E-Meter/",
-    "427. [Wikipedia] 'Auditing (Scientology).' https://en.wikipedia.org/wiki/Auditing_(Scientology)",
-    "428. [Academic] 'Scientology -- Is This a Religion?.' Carnegie Mellon University archive. https://www.cs.cmu.edu/~dst/Library/Shelf/kent/religion.html",
-    "429. [Christian Source] Scientology.org. 'What is Scientology?' https://www.scientology.org/what-is-scientology/",
-    "430. [Primary Source] Narconon. 'About Narconon.' https://www.narconon.org/about-narconon/",
-    "431. [Wikipedia] 'Church of Scientology.' https://en.wikipedia.org/wiki/Church_of_Scientology",
-    "432. [Academic] Stephen Kent. Scientology: Is This a Religion? Carnegie Mellon University archive. https://www.cs.cmu.edu/%7Edst/Library/Shelf/kent/religion.html",
-    "433. [Academic] 'THE DUMBLETON - POWLES REPORT: PART II.' Carnegie Mellon University archive. https://www.cs.cmu.edu/~dst/Cowen/audit/nz02.html",
-    "434. [Wikipedia] 'Scientology controversies.' https://en.wikipedia.org/wiki/Scientology_controversies",
-    "435. [Wikipedia] 'Scientology beliefs and practices.' https://en.wikipedia.org/wiki/Scientology_beliefs_and_practices",
-    "436. [Wikipedia] 'Thetan.' https://en.wikipedia.org/wiki/Thetan",
-    "437. [Wikipedia] 'Disconnection.' https://en.wikipedia.org/wiki/Disconnection",
-    "438. [Wikipedia] 'Fair Game (scientology).' https://en.wikipedia.org/wiki/Fair_Game_(Scientology)",
-    "439. [Academic] Carnegie Mellon. 'Scientology Secrets.' https://www.cs.cmu.edu/~dst/Secrets/",
-    "440. [Encyclopedia] Britannica. 'Mary Baker Eddy.' https://www.britannica.com/biography/Mary-Baker-Eddy",
-    "441. [Apologetics] GotQuestions.org. 'What is Christian Science?' https://www.gotquestions.org/Christian-Science.html",
-    "442. [Wikipedia] 'Christian Science practitioner.' https://en.wikipedia.org/wiki/Christian_Science_practitioner",
-    "443. [Christian Source] ChristianScience.com. 'What is Christian Science?' https://www.christianscience.com/what-is-christian-science",
-    "444. [Christian Source] ChristianScience.com. 'Beliefs and Teachings.' https://www.christianscience.com/what-is-christian-science/beliefs-and-teachings",
-    "445. [Wikipedia] 'The Christian Science Monitor.' https://en.wikipedia.org/wiki/The_Christian_Science_Monitor",
-    "446. [Wikipedia] 'Science and Health with Key to the Scriptures.' https://en.wikipedia.org/wiki/Science_and_Health_with_Key_to_the_Scriptures",
-    "447. [Wikipedia] 'Christian Science.' https://en.wikipedia.org/wiki/Christian_Science",
-    "448. [Wikipedia] 'Children's Healthcare is a Legal Duty.' Including Asser and Swan, Pediatrics 1998. https://en.wikipedia.org/wiki/Children%27s_Healthcare_is_a_Legal_Duty",
-    "449. [Academic] Asser. Child fatalities from religion-motivated medical neglect.. Pediatrics, 1998. https://pubmed.ncbi.nlm.nih.gov/9521945/",
-    "450. [Wikipedia] 'Tengri.' https://en.wikipedia.org/wiki/Tengri",
-    "451. [Encyclopedia] World History Encyclopedia. 'Tengri.' https://www.worldhistory.org/Tengri/",
-    "452. [Academic] Marlène Agnès Laruelle et al. Religious revival, nationalism and the ‘invention of tradition’: political Tengrism in Central Asia and Tatarstan. Central Asian Survey, 2007. https://doi.org/10.1080/02634930701517433",
-    "453. [Wikipedia] 'Tengrism.' https://en.wikipedia.org/wiki/Tengrism",
-    "454. [Wikipedia] 'Religion in the Mongol Empire.' https://en.wikipedia.org/wiki/Religion_in_the_Mongol_Empire",
-    "455. [Wikipedia] 'Yassa.' https://en.wikipedia.org/wiki/Yassa",
-    "456. [Encyclopedia] World History Encyclopedia. 'Mongol Empire.' https://www.worldhistory.org/Mongol_Empire/"
+    "107. [Reference] Khajuraho Group of Monuments. UNESCO World Heritage Centre. https://whc.unesco.org/en/list/244/",
+    "108. [Wikipedia] 'Grihastha.' https://en.wikipedia.org/wiki/Grihastha",
+    "109. [Academic] IJSR. 'Triggering Problem in the Origin of the Universe: Hindu Mythology.' https://www.ijsr.net/getabstract.php?paperid=SR23602180244",
+    "110. [Encyclopedia] Britannica. 'Caste.' https://www.britannica.com/topic/caste-social-differentiation",
+    "111. [Wikipedia] 'Karma.' Including the problem of evil and Kaufman's objections. https://en.wikipedia.org/wiki/Karma",
+    "112. [Wikipedia] 'Historical Vedic religion.' https://en.wikipedia.org/wiki/Historical_Vedic_religion",
+    "113. [Wikipedia] 'Hindu Denominations.' https://en.wikipedia.org/wiki/Hindu_denominations",
+    "114. [Wikipedia] 'Hindu cosmology.' https://en.wikipedia.org/wiki/Hindu_cosmology",
+    "115. [Wikipedia] 'Polytheism.' https://en.wikipedia.org/wiki/Polytheism",
+    "116. [Lexicon] Merriam-Webster. 'Samsara.' https://www.merriam-webster.com/dictionary/samsara",
+    "117. [Wikipedia] 'Varna (Hinduism).' https://en.wikipedia.org/wiki/Varna_(Hinduism)",
+    "118. [Encyclopedia] Encyclopedia Britannica. 'Hinduism: The Nature of the Divine.' https://www.britannica.com/topic/brahman-Hindu-concept",
+    "119. [Christian Source] Christianity Today. 'Hinduism.' https://www.christianitytoday.com/topics/hinduism/",
+    "120. [Encyclopedia] Britannica. 'Greek mythology.' https://www.britannica.com/topic/Greek-mythology",
+    "121. [Academic] Cambridge University Press. 'Mycenaean Greek Worship in Minoan Territory.' https://www.cambridge.org/core/books/local-horizon-of-ancient-greek-religion/mycenaean-greek-worship-in-minoan-territory/2F2598B389D602F29616D08438794A2C",
+    "122. [Wikipedia] 'Classical tradition.' https://en.wikipedia.org/wiki/Classical_tradition",
+    "123. [Encyclopedia] World History Encyclopedia. 'Greek Philosophy.' https://www.worldhistory.org/Greek_Philosophy/",
+    "124. [Encyclopedia] World History Encyclopedia. 'Greek Religion.' https://www.worldhistory.org/Greek_Religion/",
+    "125. [Reference] Theoi Project. 'Greek Mythology.' https://www.theoi.com/",
+    "126. [Encyclopedia] Encyclopedia Britannica. 'Democracy: Ancient Greece.' https://www.britannica.com/topic/democracy",
+    "127. [Wikipedia] 'Greek Art.' https://en.wikipedia.org/wiki/Greek_art",
+    "128. [Encyclopedia] World History Encyclopedia. 'Greek Art.' https://www.worldhistory.org/Greek_Art/",
+    "129. [Encyclopedia] Encyclopedia Britannica. 'Mystery Religion.' https://www.britannica.com/topic/mystery-religion",
+    "130. [Wikipedia] 'Greek mythology.' https://en.wikipedia.org/wiki/Greek_mythology",
+    "131. [Encyclopedia] World History Encyclopedia. 'Greek Mythology.' https://www.worldhistory.org/Greek_Mythology/",
+    "132. [Encyclopedia] Britannica. 'Zeus.' https://www.britannica.com/topic/Zeus",
+    "133. [Wikipedia] 'Persecution of pagans in the late Roman Empire.' https://en.wikipedia.org/wiki/Persecution_of_pagans_in_the_late_Roman_Empire",
+    "134. [Encyclopedia] Encyclopedia Britannica. 'Anthropomorphism.' https://www.britannica.com/topic/anthropomorphism",
+    "135. [Encyclopedia] Britannica. 'Oracle.' https://www.britannica.com/topic/Delphic-oracle",
+    "136. [Wikipedia] 'Religion in Ancient Greece.' https://en.wikipedia.org/wiki/Religion_in_ancient_Greece",
+    "137. [Academic] Cambridge Core. 'Religion without doctrine or clergy: the case of Ancient Greece'. https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/religion-without-doctrine-or-clergy-the-case-of-ancient-greece/901613496165E373719D3B343E945156",
+    "138. [Encyclopedia] Encyclopedia Britannica. 'Roman religion.' https://www.britannica.com/topic/Roman-religion",
+    "139. [Wikipedia] 'Jupiter (mythology).' https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "140. [Encyclopedia] World History Encyclopedia. 'Roman Religion.' https://www.worldhistory.org/Roman_Religion/",
+    "141. [Reference] Goodreads. 'Religions of Rome: Volume 1'. https://www.goodreads.com/book/show/167946.Religions_of_Rome_Volume_1",
+    "142. [Encyclopedia] Encyclopedia Britannica. 'Roman law.' https://www.britannica.com/topic/Roman-law",
+    "143. [Wikipedia] 'Roman mythology.' https://en.wikipedia.org/wiki/Roman_mythology",
+    "144. [Encyclopedia] World History Encyclopedia. 'Roman Mythology.' https://www.worldhistory.org/Roman_Mythology/",
+    "145. [Wikipedia] 'Founding of Rome.' https://en.wikipedia.org/wiki/Founding_of_Rome",
+    "146. [Wikipedia] 'Interpretatio graeca.' https://en.wikipedia.org/wiki/Interpretatio_graeca",
+    "147. [Wikipedia] 'Augur.' https://en.wikipedia.org/wiki/Augur",
+    "148. [Encyclopedia] World History Encyclopedia. 'Imperial Cult of Ancient Rome.' https://www.worldhistory.org/Roman_Imperial_Cult/",
+    "149. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Theodosius I.' https://www.newadvent.org/cathen/14577d.htm",
+    "150. [Wikipedia] 'Religion in ancient Rome.' https://en.wikipedia.org/wiki/Religion_in_ancient_Rome",
+    "151. [Academic] Pew Research Center. 'Buddhists.' https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-buddhist/",
+    "152. [Encyclopedia] Britannica. 'Nirvana.' https://www.britannica.com/topic/nirvana-religion",
+    "153. [Encyclopedia] Britannica. 'Buddhism.' https://www.britannica.com/topic/Buddhism",
+    "154. [Academic] Stanford Encyclopedia of Philosophy. 'Ethics in Indian Buddhism.' https://plato.stanford.edu/entries/ethics-indian-buddhism/",
+    "155. [Wikipedia] 'Buddhist meditation.' https://en.wikipedia.org/wiki/Buddhist_meditation",
+    "156. [Academic] Yamabe. Concentration and Visualization Techniques in Buddhist Meditation. The Oxford Handbook of Meditation, 2021. https://doi.org/10.1093/oxfordhb/9780198808640.013.19",
+    "157. [Wikipedia] 'Five precepts.' https://en.wikipedia.org/wiki/Five_precepts",
+    "158. [Academic] IEP. 'Jain Philosophy.' https://iep.utm.edu/jain/",
+    "159. [Encyclopedia] Britannica. 'Karma.' https://www.britannica.com/topic/karma",
+    "160. [Academic] Stanford Encyclopedia of Philosophy. 'The Buddha.' https://plato.stanford.edu/entries/buddha/",
+    "161. [News] PBS. 'Buddhism and Peace.' https://www.pbs.org/edens/thailand/buddhism.htm",
+    "162. [Wikipedia] 'Schools of Buddhism.' https://en.wikipedia.org/wiki/Schools_of_Buddhism",
+    "163. [Reference] BBC Religions. 'Theravada Buddhism.' https://www.bbc.co.uk/religion/religions/buddhism/subdivisions/theravada_1.shtml",
+    "164. [Academic] Polak. Does the not-Self (anattā) teaching in the Nikāyas presuppose the existence of a special type of consciousness?. Argument: Biannual Philosophical Journal, 2022. https://doi.org/10.24917/20841043.12.1.08",
+    "165. [Wikipedia] 'Anattā.' https://en.wikipedia.org/wiki/Anatt%C4%81",
+    "166. [Wikipedia] 'Early Buddhist texts.' https://en.wikipedia.org/wiki/Early_Buddhist_texts",
+    "167. [Academic] Burley. Conundrums of Buddhist Cosmology and Psychology. Numen, 2017. https://doi.org/10.1163/15685276-12341470",
+    "168. [Wikipedia] 'Buddhist cosmology.' https://en.wikipedia.org/wiki/Buddhist_cosmology",
+    "169. [Wikipedia] 'Buddhist monasticism.' https://en.wikipedia.org/wiki/Buddhist_monasticism",
+    "170. [Wikipedia] 'Human potential movement.' https://en.wikipedia.org/wiki/Human_Potential_Movement",
+    "171. [Primary Source] Pontifical Councils. Jesus Christ the Bearer of the Water of Life: A Christian reflection on the New Age. Holy See. https://www.vatican.va/roman_curia/pontifical_councils/interelg/documents/rc_pc_interelg_doc_20030203_new-age_en.html",
+    "172. [Wikipedia] 'Nature religion.' https://en.wikipedia.org/wiki/Nature_religion",
+    "173. [Wikipedia] 'Alternative medicine.' Including holistic claims. https://en.wikipedia.org/wiki/Alternative_medicine",
+    "174. [Encyclopedia] Encyclopedia.com. 'New Religious Movements and Women.' https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/new-religious-movements-new-religious-movements-and-women",
+    "175. [Wikipedia] 'Perennial philosophy.' https://en.wikipedia.org/wiki/Perennial_philosophy",
+    "176. [Academic] NIH News in Health. 'Mindfulness for Your Health.' https://newsinhealth.nih.gov/2021/06/mindfulness-your-health",
+    "177. [Wikipedia] 'New Age.' https://en.wikipedia.org/wiki/New_Age",
+    "178. [Encyclopedia] Britannica. 'Gerald Gardner.' https://www.britannica.com/biography/Gerald-Brousseau-Gardner",
+    "179. [Wikipedia] 'Energy medicine.' https://en.wikipedia.org/wiki/Energy_medicine",
+    "180. [Academic] Reiki. National Center for Complementary and Integrative Health. https://www.nccih.nih.gov/health/reiki",
+    "181. [Apologetics] GotQuestions.org. 'What is the New Age movement?' https://www.gotquestions.org/New-Age-movement.html",
+    "182. [Academic] Cowan, Douglas. 'Cults and New Religions: A Brief History.' Wiley-Blackwell, 2007. https://www.amazon.com/Cults-New-Religions-Brief-History/dp/1405161272",
+    "183. [Academic] Dawson, Lorne L. 'Comprehending Cults: The Sociology of New Religious Movements.' Oxford University Press. https://www.amazon.com/Comprehending-Cults-Sociology-Religious-Movements/dp/0195420098",
+    "184. [Reference] BBC. 'Sikhism at a Glance.' https://www.bbc.co.uk/religion/religions/sikhism/ataglance/glance.shtml",
+    "185. [Reference] SikhiWiki. 'Waheguru.' https://www.sikhiwiki.org/index.php/Waheguru",
+    "186. [Wikipedia] 'Langar (Sikhism).' https://en.wikipedia.org/wiki/Langar_(Sikhism)",
+    "187. [Reference] BBC Religions. 'Guru Nanak.' https://www.bbc.co.uk/religion/religions/sikhism/people/nanak.shtml",
+    "188. [Wikipedia] 'Women in Sikhism.' https://en.wikipedia.org/wiki/Women_in_Sikhism",
+    "189. [Primary Source] SikhiWiki. 'Seva: Selfless Service.' https://www.sikhiwiki.org/index.php/Seva",
+    "190. [Christian Source] SikhiWiki. 'Kirat Karni.' https://www.sikhiwiki.org/index.php/Kirat_Karni",
+    "191. [Wikipedia] 'Guru Tegh Bahadur.' Executed in 1675 after defending the religious freedom of Kashmiri Hindus. https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur",
+    "192. [Academic] Stanford Encyclopedia of Philosophy. 'Religious Diversity (Pluralism).' https://plato.stanford.edu/entries/religious-pluralism/",
+    "193. [Wikipedia] 'Sikhism.' https://en.wikipedia.org/wiki/Sikhism",
+    "194. [Apologetics] What is Sikhism? GotQuestions.org. https://www.gotquestions.org/Sikhism.html",
+    "195. [Wikipedia] 'Reincarnation.' https://en.wikipedia.org/wiki/Reincarnation",
+    "196. [Wikipedia] 'Janamsakhis.' https://en.wikipedia.org/wiki/Janamsakhis",
+    "197. [Academic] Singh, Nikky-Guninder Kaur. 'Sikhism: An Introduction.' I.B. Tauris, 2011. https://www.amazon.com/Sikhism-Introduction-Nikky-Guninder-Kaur-Singh/dp/1848853211",
+    "198. [Encyclopedia] Britannica. 'Adi Granth.' https://www.britannica.com/topic/Adi-Granth-Sikh-sacred-scripture",
+    "199. [Encyclopedia] Encyclopedia Britannica. 'Jainism.' https://www.britannica.com/topic/Jainism",
+    "200. [Reference] BBC. 'Ahimsa.' https://www.bbc.co.uk/religion/religions/jainism/living/ahimsa_1.shtml",
+    "201. [Academic] Yale Forum on Religion and Ecology. 'Jainism.' https://fore.yale.edu/World-Religions/Jainism",
+    "202. [Wikipedia] 'Five Vows (Jain ethics).' https://en.wikipedia.org/wiki/Jain_ethics",
+    "203. [Encyclopedia] Britannica. 'Mahavira (Vardhamana).' https://www.britannica.com/biography/Vardhamana",
+    "204. [Encyclopedia] Britannica. 'Dana.' https://www.britannica.com/topic/almsgiving",
+    "205. [Academic] Soni, Luitgard. 'Jaina Modes of Dying in Aradhana Texts.' International Journal of Jaina Studies 10.2 (2014). https://jainastudies.soas.ac.uk/ijjs/ijjs-1002-2014.pdf",
+    "206. [Encyclopedia] Britannica. 'Sallekhana.' https://www.britannica.com/topic/sallekhana",
+    "207. [Wikipedia] 'Ahimsa in Jainism.' https://en.wikipedia.org/wiki/Ahimsa_in_Jainism",
+    "208. [Academic] Cort, John E. 'Jain Doctrine and Practice.' Oxford University Press, 2016. https://global.oup.com/academic/product/jain-doctrine-and-practice-9780199460555",
+    "209. [Encyclopedia] New World Encyclopedia. 'Jainism.' https://www.newworldencyclopedia.org/entry/Jainism",
+    "210. [Academic] Dundas, Paul. 'The Jains.' Routledge, 2002. https://www.amazon.com/Jains-Library-Religious-Beliefs-Practices/dp/0415266068",
+    "211. [Wikipedia] 'Jain Monasticism.' https://en.wikipedia.org/wiki/Jain_monasticism",
+    "212. [Encyclopedia] Britannica. 'Bahá'í Faith'. https://www.britannica.com/topic/Bahai-Faith",
+    "213. [Christian Source] Bahá'í International Community. 'One Human Family.' https://www.bahai.org/beliefs/essential-relationships/one-human-family",
+    "214. [Wikipedia] 'Baháʼí Faith and the Unity of Religion.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_the_unity_of_religion",
+    "215. [Christian Source] Bahai.org. 'Beliefs.' https://www.bahai.org/beliefs/",
+    "216. [Wikipedia] 'Baháʼí Faith and education.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_education",
+    "217. [Christian Source] Bahá'í International Community. 'Universal Peace.' https://www.bahai.org/beliefs/universal-peace/",
+    "218. [Wikipedia] 'Baháʼí Faith and the Unity of Humanity.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_the_unity_of_humanity",
+    "219. [Wikipedia] 'Baháʼí views on science.' https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith_and_science",
+    "220. [Academic] Houghton. Science and Religion: how can the Bahá’í Faith contribute to the existing discourse?. Baha i Studies Review, 2025. https://doi.org/10.67743/e20251221",
+    "221. [Reference] Stockman. 'Progressive Revelation'. https://bahai-library.com/stockman_encyclopedia_progressive_revelation",
+    "222. [Wikipedia] 'Manifestation of God.' https://en.wikipedia.org/wiki/Manifestation_of_God",
+    "223. [Academic] Terry, Peter. 'Some Chronological Issues in the Lawh-i-Hikmat of Bahá'u'lláh.' Lights of Irfán 1 (2000). https://bahai-library.com/terry_chronological_issues_hikmat",
+    "224. [Christian Source] Bahaipedia. 'Lesser Peace.' https://bahaipedia.org/Lesser_Peace",
+    "225. [Wikipedia] 'Bahai Administration.' https://en.wikipedia.org/wiki/Bahai_administration",
+    "226. [Wikipedia] 'Confucianism.' https://en.wikipedia.org/wiki/Confucianism",
+    "227. [Academic] Stanford Encyclopedia of Philosophy. 'Confucius.' https://plato.stanford.edu/entries/confucius/",
+    "228. [Academic] Pew Research Center. 'Folk Religionists.' https://www.pewresearch.org/religion/2012/12/18/global-religious-landscape-folk/",
+    "229. [Encyclopedia] Britannica. 'Ren.' https://www.britannica.com/topic/ren",
+    "230. [Encyclopedia] Britannica. 'Junzi.' https://www.britannica.com/topic/junzi",
+    "231. [Encyclopedia] World History Encyclopedia. 'Confucianism.' https://www.worldhistory.org/Confucianism/",
+    "232. [Wikipedia] 'Filial piety.' https://en.wikipedia.org/wiki/Filial_piety",
+    "233. [Academic] Stanford Encyclopedia of Philosophy. 'Ethics in Chinese Tradition.' https://plato.stanford.edu/entries/ethics-chinese/",
+    "234. [Encyclopedia] Britannica. 'Mencius.' https://www.britannica.com/biography/Mencius-Chinese-philosopher",
+    "235. [Encyclopedia] World History Encyclopedia. 'Confucius.' https://www.worldhistory.org/Confucius/",
+    "236. [Academic] Internet Encyclopedia of Philosophy. 'Confucius.' https://iep.utm.edu/confucius/",
+    "237. [Wikipedia] 'Three Obediences and Four Virtues.' https://en.wikipedia.org/wiki/Three_Obediences_and_Four_Virtues",
+    "238. [Academic] Stanford Encyclopedia of Philosophy. 'Xunzi.' https://plato.stanford.edu/entries/xunzi/",
+    "239. [Academic] De Bary, Wm. Theodore. 'The Trouble with Confucianism.' Harvard University Press, 1991. https://www.hup.harvard.edu/books/9780674910164",
+    "240. [Wikipedia] 'Analects.' https://en.wikipedia.org/wiki/Analects",
+    "241. [Academic] Oxford Bibliographies. 'Ancestor Worship.' https://www.oxfordbibliographies.com/display/document/obo-9780199920082/obo-9780199920082-0171.xml",
+    "242. [Academic] Stanford Encyclopedia of Philosophy. 'Daoism.' https://plato.stanford.edu/entries/daoism/",
+    "243. [Encyclopedia] World History Encyclopedia. 'Taoism.' https://www.worldhistory.org/Taoism/",
+    "244. [Academic] 'Daoist Philosophy.' Internet Encyclopedia of Philosophy. https://iep.utm.edu/daoismdaoist-philosophy/",
+    "245. [Wikipedia] 'Taoism.' https://en.wikipedia.org/wiki/Taoism",
+    "246. [Wikipedia] 'Tao Te Ching.' https://en.wikipedia.org/wiki/Tao_Te_Ching",
+    "247. [Primary Source] Tao Te Ching, trans. James Legge. Internet Sacred Text Archive. https://sacred-texts.com/tao/taote.htm",
+    "248. [Wikipedia] 'Wu Wei.' https://en.wikipedia.org/wiki/Wu_wei",
+    "249. [Wikipedia] 'Yin and Yang.' https://en.wikipedia.org/wiki/Yin_and_yang",
+    "250. [Wikipedia] 'Taoist Meditation.' https://en.wikipedia.org/wiki/Taoist_meditation",
+    "251. [Wikipedia] 'Three Treasures (taoism).' https://en.wikipedia.org/wiki/Three_Treasures_(Taoism)",
+    "252. [Academic] New World Encyclopedia. 'Taoism.' https://www.newworldencyclopedia.org/entry/Taoism",
+    "253. [Encyclopedia] Encyclopedia Britannica. 'Daodejing.' https://www.britannica.com/topic/Tao-te-Ching",
+    "254. [Academic] Stanford Encyclopedia of Philosophy. 'Laozi.' https://plato.stanford.edu/entries/laozi/",
+    "255. [Encyclopedia] Britannica. 'Wuwei (Chinese Philosophy).' https://www.britannica.com/topic/wuwei-Chinese-philosophy",
+    "256. [Reference] Khan Academy. 'Daoism.' https://www.khanacademy.org/humanities/world-history/ancient-medieval/classical-china/a/daoism",
+    "257. [Wikipedia] 'Tao.' https://en.wikipedia.org/wiki/Tao",
+    "258. [Encyclopedia] Britannica. 'Shrine Shinto.' https://www.britannica.com/topic/Shrine-Shinto",
+    "259. [Reference] BBC Religions. 'Shinto: Kami.' https://www.bbc.co.uk/religion/religions/shinto/beliefs/kami_1.shtml",
+    "260. [Reference] Japan Guide. 'Shinto.' https://www.japan-guide.com/e/e2056.html",
+    "261. [Encyclopedia] New World Encyclopedia. 'Shinto: Ethics and Thought.' https://www.newworldencyclopedia.org/entry/Shinto#Ethics",
+    "262. [Wikipedia] 'Matsuri.' https://en.wikipedia.org/wiki/Matsuri",
+    "263. [Encyclopedia] World History Encyclopedia. 'Shinto.' https://www.worldhistory.org/Shinto/",
+    "264. [Wikipedia] 'Shinto.' https://en.wikipedia.org/wiki/Shinto",
+    "265. [Wikipedia] 'Kami.' https://en.wikipedia.org/wiki/Kami",
+    "266. [Wikipedia] 'Shinbutsu-shugo.' The historical fusion of Shinto and Buddhism. https://en.wikipedia.org/wiki/Shinbutsu-sh%C5%ABg%C5%8D",
+    "267. [Wikipedia] 'Animism.' https://en.wikipedia.org/wiki/Animism",
+    "268. [Reference] 'BBC - Religions - Shinto: Shinto and nationalism.' BBC. https://www.bbc.co.uk/religion/religions/shinto/history/nationalism_1.shtml",
+    "269. [Wikipedia] 'State Shinto.' https://en.wikipedia.org/wiki/State_Shinto",
+    "270. [Wikipedia] 'Shinto Directive.' https://en.wikipedia.org/wiki/Shinto_Directive",
+    "271. [Apologetics] GotQuestions.org. 'What does the Bible say about ancestor worship?' https://www.gotquestions.org/ancestor-worship.html",
+    "272. [Reference] BBC Religions. 'Shinto.' Including purification rites. https://www.bbc.co.uk/religion/religions/shinto/",
+    "273. [Wikipedia] 'Harae.' https://en.wikipedia.org/wiki/Harae",
+    "274. [Encyclopedia] Britannica. 'Shinto.' https://www.britannica.com/topic/Shinto",
+    "275. [Encyclopedia] New World Encyclopedia. 'Rastafari Movement.' https://www.newworldencyclopedia.org/entry/Rastafari_movement",
+    "276. [Apologetics] GotQuestions.org. 'What is Rastafarianism?' https://www.gotquestions.org/Rastafarianism.html",
+    "277. [Reference] BBC Religions. 'Rastafari.' https://www.bbc.co.uk/religion/religions/rastafari/",
+    "278. [Wikipedia] 'Bob Marley.' https://en.wikipedia.org/wiki/Bob_Marley",
+    "279. [Reference] BBC. 'Rastafari Customs.' https://www.bbc.co.uk/religion/religions/rastafari/customs/customs_1.shtml",
+    "280. [Reference] BBC. 'Rastafari Beliefs.' https://www.bbc.co.uk/religion/religions/rastafari/beliefs/beliefs_1.shtml",
+    "281. [Reference] BBC Religions. 'Rastafari: Rastafarian history.' https://www.bbc.co.uk/religion/religions/rastafari/history/history.shtml",
+    "282. [Wikipedia] 'Ital.' https://en.wikipedia.org/wiki/Ital",
+    "283. [Academic] Hemispheric Institute. 'Rastafari, Reggae, and Resistance.' https://hemisphericinstitute.org/en/emisferica-21/2-1-review-essays/rastafari-reggae-and-resistance-by-katrina-lacey.html",
+    "284. [Reference] BBC. 'Rastafari at a Glance.' https://www.bbc.co.uk/religion/religions/rastafari/ataglance/glance.shtml",
+    "285. [Wikipedia] 'Haile Selassie.' https://en.wikipedia.org/wiki/Haile_Selassie",
+    "286. [Reference] Biography.com. 'Haile Selassie I.' https://www.biography.com/political-figures/haile-selassie-i",
+    "287. [Encyclopedia] Britannica. 'Ethiopianism.' https://www.britannica.com/topic/Ethiopianism",
+    "288. [Wikipedia] 'Cannabis (drug).' https://en.wikipedia.org/wiki/Cannabis_(drug)",
+    "289. [Wikipedia] 'Rastafari Movement.' https://en.wikipedia.org/wiki/Rastafari_movement",
+    "290. [Wikipedia] 'Mansions of Rastafari.' https://en.wikipedia.org/wiki/Mansions_of_Rastafari",
+    "291. [Reference] BBC Religions. 'Zoroastrianism.' https://www.bbc.co.uk/religion/religions/zoroastrian/",
+    "292. [Reference] BBC. 'Zoroaster.' https://www.bbc.co.uk/religion/religions/zoroastrian/history/zoroaster_1.shtml",
+    "293. [Wikipedia] 'Parsis.' Including their demographic decline. https://en.wikipedia.org/wiki/Parsis",
+    "294. [Encyclopedia] Britannica. 'Ahura Mazda.' https://www.britannica.com/topic/Ahura-Mazda",
+    "295. [Wikipedia] 'Asha.' https://en.wikipedia.org/wiki/Asha",
+    "296. [Encyclopedia] World History Encyclopedia. 'Zoroastrianism.' https://www.worldhistory.org/Zoroastrianism/",
+    "297. [Reference] BBC. 'Zoroastrian God.' https://www.bbc.co.uk/religion/religions/zoroastrian/beliefs/god.shtml",
+    "298. [Academic] Encyclopaedia Iranica. 'SAOŠYANT.' https://www.iranicaonline.org/articles/saosyant",
+    "299. [Wikipedia] 'Saoshyant.' https://en.wikipedia.org/wiki/Saoshyant",
+    "300. [Wikipedia] 'Fire Temple.' https://en.wikipedia.org/wiki/Fire_temple",
+    "301. [Wikipedia] 'Zoroastrianism.' https://en.wikipedia.org/wiki/Zoroastrianism",
+    "302. [Wikipedia] 'Dualistic Cosmology.' https://en.wikipedia.org/wiki/Dualistic_cosmology",
+    "303. [Encyclopedia] Britannica. 'Gatha.' https://www.britannica.com/topic/Gatha-Zoroastrian-literature",
+    "304. [Encyclopedia] Encyclopedia Britannica. 'The Avesta.' https://www.britannica.com/topic/Avesta-Zoroastrian-scripture",
+    "305. [Reference] BBC. 'Zoroastrian Worship.' https://www.bbc.co.uk/religion/religions/zoroastrian/worship/worship.shtml",
+    "306. [Encyclopedia] Britannica. 'Parsi.' https://www.britannica.com/topic/Parsi",
+    "307. [Wikipedia] 'Zoroastrian Eschatology.' https://en.wikipedia.org/wiki/Zoroastrian_eschatology",
+    "308. [Academic] De Jong. Ahriman. The Encyclopedia of Ancient History, 2012. https://doi.org/10.1002/9781444338386.wbeah17018",
+    "309. [Wikipedia] 'Ahriman.' https://en.wikipedia.org/wiki/Ahriman",
+    "310. [Academic] Weber. Haitian Vodou and Ecotheology. The Ecumenical Review, 2018. https://doi.org/10.1111/erev.12393",
+    "311. [Wikipedia] 'Haitian Vodou.' https://en.wikipedia.org/wiki/Haitian_Vodou",
+    "312. [Wikipedia] 'West African Vodun.' https://en.wikipedia.org/wiki/West_African_Vodun",
+    "313. [Encyclopedia] 'African Diaspora.' Encyclopedia.com. https://www.encyclopedia.com/social-sciences-and-law/anthropology-and-archaeology/human-evolution/african-diaspora",
+    "314. [Wikipedia] 'African diaspora religions.' https://en.wikipedia.org/wiki/African_diaspora_religions",
+    "315. [Wikipedia] 'Houngan.' https://en.wikipedia.org/wiki/Houngan",
+    "316. [Wikipedia] 'Bois Caïman.' https://en.wikipedia.org/wiki/Bois_Ca%C3%AFman",
+    "317. [Wikipedia] 'Mambo (vodou).' https://en.wikipedia.org/wiki/Mambo_(Vodou)",
+    "318. [Reference] Black History Month. 'Honouring Ancestors in Haiti and Africa.' https://www.blackhistorymonth.org.uk/article/section/african-history/honouring-ancestors-a-sacred-tradition-in-haiti-africa-and-latin-america/",
+    "319. [Wikipedia] 'Catholic Church in Haiti.' https://en.wikipedia.org/wiki/Catholic_Church_in_Haiti",
+    "320. [Wikipedia] 'Spirit Possession.' https://en.wikipedia.org/wiki/Spirit_possession",
+    "321. [Wikipedia] 'Bokor.' https://en.wikipedia.org/wiki/Bokor",
+    "322. [Wikipedia] 'Lwa, the Vodou Spirits.' https://en.wikipedia.org/wiki/Lwa",
+    "323. [Encyclopedia] Britannica. 'Lwa.' https://www.britannica.com/topic/lwa-Vodou",
+    "324. [Reference] Visit Haiti. 'Haitian Vodou Revealed: Secret Societies and Dark Magic.' https://visithaiti.com/art-culture/haitian-vodou-revealed/",
+    "325. [Encyclopedia] Encyclopedia.com. 'Voodoo.' https://www.encyclopedia.com/philosophy-and-religion/other-religious-beliefs-and-general-terms/miscellaneous-religion/voodoo",
+    "326. [Encyclopedia] World History Encyclopedia. 'Norse Mythology.' https://www.worldhistory.org/Norse_Mythology/",
+    "327. [Encyclopedia] World History Encyclopedia. 'Edda.' https://www.worldhistory.org/Edda/",
+    "328. [Wikipedia] 'Saga.' https://en.wikipedia.org/wiki/Saga",
+    "329. [Primary Source] Hovamol, The Poetic Edda, trans. H. A. Bellows (1936). Internet Sacred Text Archive. https://sacred-texts.com/neu/poe/poe04.htm",
+    "330. [Wikipedia] 'Hávamál.' https://en.wikipedia.org/wiki/H%C3%A1vam%C3%A1l",
+    "331. [Wikipedia] 'Völva (Seeress).' https://en.wikipedia.org/wiki/V%C3%B6lva",
+    "332. [Wikipedia] 'Vanir.' https://en.wikipedia.org/wiki/Vanir",
+    "333. [News] The Guardian. 'Norse Mythology by Neil Gaiman review.' https://www.theguardian.com/books/2017/mar/29/norse-myths-by-neil-gaiman-review",
+    "334. [Encyclopedia] Britannica. 'Thing (Scandinavian Assembly).' https://www.britannica.com/topic/thing-Scandinavian-political-assembly",
+    "335. [Wikipedia] 'Christianization of Scandinavia.' https://en.wikipedia.org/wiki/Christianization_of_Scandinavia",
+    "336. [Wikipedia] 'Valhalla.' https://en.wikipedia.org/wiki/Valhalla",
+    "337. [Encyclopedia] World History Encyclopedia. 'Valhalla.' https://www.worldhistory.org/Valhalla/",
+    "338. [Encyclopedia] Britannica. 'The Fate of the Norns.' https://www.britannica.com/topic/Norn",
+    "339. [Wikipedia] 'Poetic Edda.' https://en.wikipedia.org/wiki/Poetic_Edda",
+    "340. [Wikipedia] 'Snorri Sturluson.' The 13th-century Christian compiler of Norse myth. https://en.wikipedia.org/wiki/Snorri_Sturluson",
+    "341. [Wikipedia] 'Prose Edda.' https://en.wikipedia.org/wiki/Prose_Edda",
+    "342. [Wikipedia] 'Ragnarök.' https://en.wikipedia.org/wiki/Ragnar%C3%B6k",
+    "343. [Encyclopedia] World History Encyclopedia. 'Ragnarok.' https://www.worldhistory.org/Ragnarok/",
+    "344. [Encyclopedia] World History Encyclopedia. 'Ancient Celts.' https://www.worldhistory.org/Celts/",
+    "345. [Wikipedia] 'Celts.' https://en.wikipedia.org/wiki/Celts",
+    "346. [Encyclopedia] World History Encyclopedia. 'Celtic Religion.' https://www.worldhistory.org/Ancient_Celtic_Religion/",
+    "347. [Encyclopedia] Britannica. 'Bard.' https://www.britannica.com/art/bard",
+    "348. [Wikipedia] 'Otherworld.' https://en.wikipedia.org/wiki/Otherworld",
+    "349. [Wikipedia] 'Celtic art.' https://en.wikipedia.org/wiki/Celtic_art",
+    "350. [Wikipedia] 'Celtic deities.' https://en.wikipedia.org/wiki/Celtic_deities",
+    "351. [Encyclopedia] World History Encyclopedia. 'Samhain.' https://www.worldhistory.org/Samhain/",
+    "352. [Wikipedia] 'Samhain.' https://en.wikipedia.org/wiki/Samhain",
+    "353. [Wikipedia] 'Human Sacrifice.' https://en.wikipedia.org/wiki/Human_sacrifice",
+    "354. [Encyclopedia] Britannica. 'Human sacrifice.' https://www.britannica.com/topic/human-sacrifice",
+    "355. [Encyclopedia] Britannica. 'Celt.' https://www.britannica.com/topic/Celt-people",
+    "356. [Encyclopedia] New Advent, Catholic Encyclopedia. 'St. Patrick.' https://www.newadvent.org/cathen/11554a.htm",
+    "357. [Encyclopedia] Britannica. 'Celtic religion.' https://www.britannica.com/topic/Celtic-religion",
+    "358. [Wikipedia] 'Tuatha Dé Danann.' https://en.wikipedia.org/wiki/Tuatha_D%C3%A9_Danann",
+    "359. [Wikipedia] 'Druid.' https://en.wikipedia.org/wiki/Druid",
+    "360. [Encyclopedia] World History Encyclopedia. 'Druid.' https://www.worldhistory.org/Druid/",
+    "361. [Encyclopedia] Britannica. 'Witchcraft.' https://www.britannica.com/topic/witchcraft",
+    "362. [Wikipedia] 'Contemporary Paganism.' https://en.wikipedia.org/wiki/Contemporary_Paganism",
+    "363. [Encyclopedia] Britannica. 'Modern Paganism.' https://www.britannica.com/topic/modern-Paganism",
+    "364. [Wikipedia] 'Wicca.' Including demographics. https://en.wikipedia.org/wiki/Wicca",
+    "365. [Reference] BBC Religions. 'Pagan beliefs.' https://www.bbc.co.uk/religion/religions/paganism/beliefs/beliefs.shtml",
+    "366. [Reference] Goddess and Green Man. 'Wicca & Witchcraft.' https://www.goddessandgreenman.co.uk/wicca-witchcraft",
+    "367. [Wikipedia] 'Wiccan Rede.' https://en.wikipedia.org/wiki/Wiccan_Rede",
+    "368. [Reference] BBC Religions. 'Wicca.' https://www.bbc.co.uk/religion/religions/paganism/subdivisions/wicca.shtml",
+    "369. [Wikipedia] 'Rule of Three (Wicca).' https://en.wikipedia.org/wiki/Threefold_Law",
+    "370. [Wikipedia] 'Esbat.' https://en.wikipedia.org/wiki/Esbat",
+    "371. [Wikipedia] 'Charge of the Goddess.' https://en.wikipedia.org/wiki/Charge_of_the_Goddess",
+    "372. [Wikipedia] 'History of Wicca.' https://en.wikipedia.org/wiki/History_of_Wicca",
+    "373. [Encyclopedia] Britannica. 'Occultism.' https://www.britannica.com/topic/occultism",
+    "374. [Apologetics] Catholic Answers. 'Witchcraft.' https://www.catholic.com/encyclopedia/witchcraft",
+    "375. [Wikipedia] 'Goddess Movement.' https://en.wikipedia.org/wiki/Goddess_movement",
+    "376. [Apologetics] GotQuestions.org. 'What is Wicca? Is Wicca witchcraft?' https://www.gotquestions.org/Wicca.html",
+    "377. [Reference] Wicca Living. 'The Wiccan Rede.' https://wiccaliving.com/wiccan-rede/",
+    "378. [Wikipedia] 'Gardnerian Wicca.' https://en.wikipedia.org/wiki/Gardnerian_Wicca",
+    "379. [Wikipedia] 'Alexandrian Wicca.' https://en.wikipedia.org/wiki/Alexandrian_Wicca",
+    "380. [Reference] BBC. 'Mormonism at a Glance.' https://www.bbc.co.uk/religion/religions/mormon/ataglance/glance.shtml",
+    "381. [Primary Source] Church of Jesus Christ Newsroom. 'Facts and Statistics.' https://newsroom.churchofjesuschrist.org/facts-and-statistics",
+    "382. [Christian Source] Church of Jesus Christ. 'Gospel Topics: Family.' https://www.churchofjesuschrist.org/study/manual/gospel-topics/family?lang=eng",
+    "383. [Christian Source] Church of Jesus Christ. 'Gospel Topics: Service and Sacrifice.' https://www.churchofjesuschrist.org/study/manual/gospel-topics/service?lang=eng",
+    "384. [Primary Source] Church of Jesus Christ. 'Word of Wisdom.' https://www.churchofjesuschrist.org/study/manual/gospel-topics/word-of-wisdom?lang=eng",
+    "385. [Encyclopedia] Encyclopedia Britannica. 'The Church of Jesus Christ of Latter-day Saints.' https://www.britannica.com/topic/Church-of-Jesus-Christ-of-Latter-day-Saints",
+    "386. [Apologetics] Christian Defense. 'The LDS God is an Exalted Man.' https://christiandefense.org/mormonism/the-lds-god-is-an-exalted-man-with-body-parts/",
+    "387. [Wikipedia] 'Plan of Salvation (latter Day Saints).' https://en.wikipedia.org/wiki/Plan_of_salvation_(Latter_Day_Saints)",
+    "388. [Commentary] Commentaries on Ephesians 2:8. Bible Hub. https://biblehub.com/commentaries/ephesians/2-8.htm",
+    "389. [Primary Source] The Church of Jesus Christ of Latter-day Saints. 'The Book of Mormon.' https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng",
+    "390. [Encyclopedia] Britannica. 'Brigham Young.' https://www.britannica.com/biography/Brigham-Young",
+    "391. [Academic] 'Spencer W. Kimball and the Revelation on Priesthood.' BYU Studies. https://byustudies.byu.edu/article/spencer-w-kimball-and-the-revelation-on-priesthood/",
+    "392. [Wikipedia] 'Black people and Mormon priesthood.' https://en.wikipedia.org/wiki/Black_people_and_Mormon_priesthood",
+    "393. [Reference] BBC Religions. 'Jehovah's Witnesses: Beliefs.' https://www.bbc.co.uk/religion/religions/witnesses/beliefs/beliefs.shtml",
+    "394. [Academic] 'Jehovah's Witnesses.' Cambridge University Press. https://www.cambridge.org/core/elements/jehovahs-witnesses/605AED05C9FA13DC68BB74FE3D2C651D",
+    "395. [Reference] BBC Religions. 'Jehovah's Witnesses.' https://www.bbc.co.uk/religion/religions/witnesses/",
+    "396. [Wikipedia] 'Jehovah's Witnesses practices.' https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses_practices",
+    "397. [Christian Source] JW.org. 'Advancing Global Literacy.' https://www.jw.org/en/library/series/from-our-archives/advancing-global-literacy/",
+    "398. [Apologetics] GotQuestions.org. 'Is Jesus Michael the archangel?' https://www.gotquestions.org/Jesus-Michael-archangel.html",
+    "399. [Wikipedia] 'Arianism.' https://en.wikipedia.org/wiki/Arianism",
+    "400. [Wikipedia] 'Criticism of Jehovah's Witnesses.' https://en.wikipedia.org/wiki/Criticism_of_Jehovah%27s_Witnesses",
+    "401. [Apologetics] Is the New World Translation of the Bible a valid version? GotQuestions.org. https://www.gotquestions.org/New-World-Translation.html",
+    "402. [Wikipedia] 'Unfulfilled Watch Tower Society predictions.' https://en.wikipedia.org/wiki/Unfulfilled_Watch_Tower_Society_predictions",
+    "403. [Reference] BBC Religions. 'Jehovah's Witnesses: Organisation.' https://www.bbc.co.uk/religion/religions/witnesses/structure/structure.shtml",
+    "404. [Encyclopedia] Britannica. 'Alevi.' https://www.britannica.com/topic/Alevi",
+    "405. [Wikipedia] 'Alevism.' https://en.wikipedia.org/wiki/Alevism",
+    "406. [Reference] Refworld (UNHCR), Minority Rights Group International. 'World Directory of Minorities and Indigenous Peoples: Turkey, Alevis' (2018). https://www.refworld.org/reference/countryrep/mrgi/2018/en/111484",
+    "407. [Reference] Human Rights Watch. 'Alevis.' https://www.hrw.org/reports/2000/turkey2/Turk009-11.htm",
+    "408. [Reference] Minority Rights Group. 'Alevis.' https://www.refworld.org/reference/countryrep/mrgi/2018/en/64583",
+    "409. [Reference] UNESCO. 'Semah, Alevi-Bektasi ritual.' https://ich.unesco.org/en/RL/semah-alevi-bektasi-ritual-00384",
+    "410. [Wikipedia] 'Bektashi Order.' https://en.wikipedia.org/wiki/Bektashi_Order",
+    "411. [Wikipedia] 'Batiniyya.' https://en.wikipedia.org/wiki/Batiniyya",
+    "412. [Reference] BBC Religions. 'Sufism.' https://www.bbc.co.uk/religion/religions/islam/subdivisions/sufism_1.shtml",
+    "413. [Encyclopedia] Britannica. 'Kizilbash.' https://www.britannica.com/topic/Kizilbash",
+    "414. [Wikipedia] 'Sufism.' https://en.wikipedia.org/wiki/Sufism",
+    "415. [Wikipedia] 'Dhikr.' https://en.wikipedia.org/wiki/Dhikr",
+    "416. [Encyclopedia] Britannica. 'Dervish.' https://www.britannica.com/topic/dervish",
+    "417. [Wikipedia] 'Rumi.' https://en.wikipedia.org/wiki/Rumi",
+    "418. [Encyclopedia] World History Encyclopedia. 'Rumi.' https://www.worldhistory.org/Rumi/",
+    "419. [Reference] The New Yorker. 'The Erasure of Islam from the Poetry of Rumi.' https://www.newyorker.com/books/page-turner/the-erasure-of-islam-from-the-poetry-of-rumi",
+    "420. [Encyclopedia] Britannica. 'Rumi.' https://www.britannica.com/biography/Rumi",
+    "421. [Wikipedia] 'Fana (sufism).' https://en.wikipedia.org/wiki/Fana_(Sufism)",
+    "422. [Wikipedia] 'Sufi Metaphysics.' https://en.wikipedia.org/wiki/Sufi_metaphysics",
+    "423. [Academic] Stanford Encyclopedia of Philosophy. 'Ibn Arabi.' https://plato.stanford.edu/entries/ibn-arabi/",
+    "424. [Encyclopedia] Britannica. 'Tariqa.' https://www.britannica.com/topic/tariqa",
+    "425. [Wikipedia] 'Mevlevi Order.' https://en.wikipedia.org/wiki/Mevlevi_Order",
+    "426. [Wikipedia] 'Dargah.' https://en.wikipedia.org/wiki/Dargah",
+    "427. [Encyclopedia] Britannica. 'L. Ron Hubbard.' https://www.britannica.com/biography/L-Ron-Hubbard",
+    "428. [Academic] 'Secrets of Scientology: The E-Meter.' Carnegie Mellon University archive. https://www-2.cs.cmu.edu/~dst/Secrets/E-Meter/",
+    "429. [Wikipedia] 'Auditing (Scientology).' https://en.wikipedia.org/wiki/Auditing_(Scientology)",
+    "430. [Academic] 'Scientology -- Is This a Religion?.' Carnegie Mellon University archive. https://www.cs.cmu.edu/~dst/Library/Shelf/kent/religion.html",
+    "431. [Christian Source] Scientology.org. 'What is Scientology?' https://www.scientology.org/what-is-scientology/",
+    "432. [Primary Source] Narconon. 'About Narconon.' https://www.narconon.org/about-narconon/",
+    "433. [Wikipedia] 'Church of Scientology.' https://en.wikipedia.org/wiki/Church_of_Scientology",
+    "434. [Academic] Stephen Kent. Scientology: Is This a Religion? Carnegie Mellon University archive. https://www.cs.cmu.edu/%7Edst/Library/Shelf/kent/religion.html",
+    "435. [Academic] 'THE DUMBLETON - POWLES REPORT: PART II.' Carnegie Mellon University archive. https://www.cs.cmu.edu/~dst/Cowen/audit/nz02.html",
+    "436. [Wikipedia] 'Scientology controversies.' https://en.wikipedia.org/wiki/Scientology_controversies",
+    "437. [Wikipedia] 'Scientology beliefs and practices.' https://en.wikipedia.org/wiki/Scientology_beliefs_and_practices",
+    "438. [Wikipedia] 'Thetan.' https://en.wikipedia.org/wiki/Thetan",
+    "439. [Wikipedia] 'Disconnection.' https://en.wikipedia.org/wiki/Disconnection",
+    "440. [Wikipedia] 'Fair Game (scientology).' https://en.wikipedia.org/wiki/Fair_Game_(Scientology)",
+    "441. [Academic] Carnegie Mellon. 'Scientology Secrets.' https://www.cs.cmu.edu/~dst/Secrets/",
+    "442. [Encyclopedia] Britannica. 'Mary Baker Eddy.' https://www.britannica.com/biography/Mary-Baker-Eddy",
+    "443. [Apologetics] GotQuestions.org. 'What is Christian Science?' https://www.gotquestions.org/Christian-Science.html",
+    "444. [Wikipedia] 'Christian Science practitioner.' https://en.wikipedia.org/wiki/Christian_Science_practitioner",
+    "445. [Christian Source] ChristianScience.com. 'What is Christian Science?' https://www.christianscience.com/what-is-christian-science",
+    "446. [Christian Source] ChristianScience.com. 'Beliefs and Teachings.' https://www.christianscience.com/what-is-christian-science/beliefs-and-teachings",
+    "447. [Wikipedia] 'The Christian Science Monitor.' https://en.wikipedia.org/wiki/The_Christian_Science_Monitor",
+    "448. [Wikipedia] 'Science and Health with Key to the Scriptures.' https://en.wikipedia.org/wiki/Science_and_Health_with_Key_to_the_Scriptures",
+    "449. [Wikipedia] 'Christian Science.' https://en.wikipedia.org/wiki/Christian_Science",
+    "450. [Wikipedia] 'Children's Healthcare is a Legal Duty.' Including Asser and Swan, Pediatrics 1998. https://en.wikipedia.org/wiki/Children%27s_Healthcare_is_a_Legal_Duty",
+    "451. [Academic] Asser. Child fatalities from religion-motivated medical neglect.. Pediatrics, 1998. https://pubmed.ncbi.nlm.nih.gov/9521945/",
+    "452. [Wikipedia] 'Tengri.' https://en.wikipedia.org/wiki/Tengri",
+    "453. [Encyclopedia] World History Encyclopedia. 'Tengri.' https://www.worldhistory.org/Tengri/",
+    "454. [Academic] Marlène Agnès Laruelle et al. Religious revival, nationalism and the ‘invention of tradition’: political Tengrism in Central Asia and Tatarstan. Central Asian Survey, 2007. https://doi.org/10.1080/02634930701517433",
+    "455. [Wikipedia] 'Tengrism.' https://en.wikipedia.org/wiki/Tengrism",
+    "456. [Wikipedia] 'Religion in the Mongol Empire.' https://en.wikipedia.org/wiki/Religion_in_the_Mongol_Empire",
+    "457. [Wikipedia] 'Yassa.' https://en.wikipedia.org/wiki/Yassa",
+    "458. [Encyclopedia] World History Encyclopedia. 'Mongol Empire.' https://www.worldhistory.org/Mongol_Empire/"
   ],
   lastUpdated: "30-10-2026"
 }
