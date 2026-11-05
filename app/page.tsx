@@ -9,6 +9,15 @@ import { StartHere } from "@/components/start-here"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 12,
+    title: "Two New Topics: Philosophy and Christianity, and What If I Have Psychosis?",
+    description:
+      "Philosophy and Christianity maps the main schools of thought, Western and Eastern, religious and secular, with when each began, what each teaches and how each meets Christianity: Plato and Aristotle, Augustine and Aquinas, Kant, Nietzsche, Sartre, Camus, Freud and Jung, nihilism, materialism, humanism, relativism, Confucian, Daoist, Buddhist and Indian thought, monism and oneness, Islamic and Jewish philosophy, and the political philosophies. What If I Have Psychosis? takes on the claim that faith is unsafe for someone who hears voices: what is true in the worry, how Christianity tests experiences instead of trusting every voice, why faith and treatment belong together, why leaving religion does not prevent psychosis, and the Christians who lived through severe mental illness, including Cowper, Perceval, Boisen and Spurgeon. About 260 sources were added across the two pages.",
+    date: "05/11/2026",
+    category: "New Topics",
+    link: "/categories/philosophy",
+  },
+  {
     id: 11,
     title: "Site-Wide Search, New Topics on Islam, Abortion and Christianity's Record, and Every Page Rebuilt",
     description:
