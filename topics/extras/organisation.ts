@@ -69,7 +69,7 @@ export const TOPIC_GROUPS: readonly TopicGroup[] = [
     id: "evidence",
     title: "The Evidence for Christianity",
     blurb: "Whether belief is reasonable, who Jesus claimed to be, and what the historical record shows.",
-    topics: ["is-belief-reasonable", "jesus", "resurrection", "prophecy", "archaeological", "miracles", "philosophy"],
+    topics: ["is-belief-reasonable", "jesus", "resurrection", "prophecy", "archaeological", "miracles"],
   },
   {
     id: "science",
@@ -91,9 +91,9 @@ export const TOPIC_GROUPS: readonly TopicGroup[] = [
   },
   {
     id: "faiths",
-    title: "Other Faiths",
-    blurb: "The world's religions, and a full examination of Islam.",
-    topics: ["religions", "islam"],
+    title: "Other Faiths and Philosophies",
+    blurb: "The world's religions, a full examination of Islam, and the major philosophies compared with Christianity.",
+    topics: ["religions", "islam", "philosophy"],
   },
   {
     id: "belief-and-life",

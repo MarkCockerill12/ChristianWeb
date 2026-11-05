@@ -2,7 +2,7 @@ import type { Topic } from './types'
 
 export const PHILOSOPHY: Topic = {
   id: "philosophy",
-  title: "Philosophy and Christianity: Every Major School, from Plato and Confucius to Sartre, Camus, Nietzsche, Freud and Jung",
+  title: "Philosophy and Christianity",
   description: "A map of the main philosophies, Western and Eastern, religious and secular: when each began, what each teaches, how they differ, and how each meets Christianity. Includes nihilism, existentialism, humanism, monism and oneness, Confucian, Daoist and Indian thought, and the major political philosophies.",
   icon: "BookOpen",
   color: "indigo",
