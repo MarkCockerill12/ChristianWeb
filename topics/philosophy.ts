@@ -62,10 +62,10 @@ Four things follow. It sets out a short history of Western philosophy with appro
 - **Marx (1818-1883).** Religion called "the opium of the people" (1843); history driven by economic conflict[^42].
 - **Mill (1806-1873).** Utilitarianism[^43].
 - **Comte (1798-1857)** founds positivism. **Peirce, James and Dewey** found American pragmatism (1870s to 1900s)[^44].
-- **Nietzsche (1844-1900).** "God is dead" (1882). Treated in full below[^45][^46].
+- **Nietzsche (1844-1900).** "God is dead" (1882). Treated in full below[^45][^46][^6].
 
 **The twentieth century and after**
-- **Freud (1856-1939)** founds psychoanalysis (1890s)[^47][^8]. **Jung (1875-1961)** founds analytical psychology (after 1913)[^48].
+- **Freud (1856-1939)** founds psychoanalysis (1890s)[^47][^8]. **Jung (1875-1961)** founds analytical psychology (after 1913)[^48][^10].
 - **Logical positivism** (the Vienna Circle, 1920s; Ayer's *Language, Truth and Logic*, 1936)[^49]. **Wittgenstein (1889-1951)**[^50].
 - **Existentialism** flowers in Heidegger's *Being and Time* (1927), Sartre's *Being and Nothingness* (1943), Beauvoir's *The Second Sex* (1949) and Camus' *The Myth of Sisyphus* (1942)[^51][^52][^53][^54].
 - **Postmodernism (1960s to 1980s):** Foucault (1926-1984), Derrida (1930-2004), Lyotard (*The Postmodern Condition*, 1979)[^55][^56][^57].
@@ -173,10 +173,10 @@ Each school below is placed against these five questions.
 - **Master and slave morality.** In the *Genealogy* he argues that Christian morality arose from the resentment of the weak, who turned strength into "evil" and weakness into "good"[^6][^7].
 - **The Übermensch** (Overman) and **eternal recurrence.** Having lost the Christian heaven, human beings must create their own values and affirm life so completely that they would will it to repeat forever[^6][^7].
 
-**What he saw rightly.** Nietzsche saw more clearly than many of his admirers that moral language rests on something. In *Twilight of the Idols* (1888) he wrote that when people give up the Christian faith they "pull the right to Christian morality out from under their feet", and he accused English atheists (he named George Eliot) of keeping Christian morals while dropping the Christian God[^74]. Historian Tom Holland, who does not write as a believer, argues in *Dominion* (2019) that Nietzsche was right that Western ideas of human dignity are Christian in origin[^75].
+**What he saw rightly.** Nietzsche saw more clearly than many of his admirers that moral language rests on something. In *Twilight of the Idols* (1888) he wrote that when people give up the Christian faith they "pull the right to Christian morality out from under their feet", and he accused English atheists (he named George Eliot) of keeping Christian morals while dropping the Christian God[^74][^75]. Historian Tom Holland, who does not write as a believer, argues in *Dominion* (2019) that Nietzsche was right that Western ideas of human dignity are Christian in origin[^76][^77].
 
 **Where Christianity answers him.**
-1. **The charge of slave morality.** Nietzsche is right that the Gospel honours the weak, the poor and the humble ("the last will be first", Matthew 20:16). He treats that as sickness; the Christian treats it as the truth that every human being has dignity from God, not from strength. Most people, including Nietzsche's admirers, still hold that cruelty to the weak is wrong, which is evidence for the Christian view and against his[^6][^75].
+1. **The charge of slave morality.** Nietzsche is right that the Gospel honours the weak, the poor and the humble ("the last will be first", Matthew 20:16). He treats that as sickness; the Christian treats it as the truth that every human being has dignity from God, not from strength. Most people, including Nietzsche's admirers, still hold that cruelty to the weak is wrong, which is evidence for the Christian view and against his[^6][^76].
 2. **Who creates the values?** If each person creates values, there is no ground on which to call one person's values better. Nietzsche's reply was that the strong will prevail. But that makes goodness a matter of power, and few will accept the consequence.
 3. **Genetic fallacy.** Showing where a belief came from (resentment, psychology) does not show that it is false. The same method would explain Nietzsche's own beliefs.
 4. **Nietzsche's own life.** He lived much of his life ill and alone, and some read the late work as a cry for what he said he had outgrown. That is a human observation and not an argument; the case rests on the reasoning above.
@@ -192,8 +192,8 @@ Each school below is placed against these five questions.
 
 **The Christian line.**
 - **Kierkegaard (1813-1855)** held that truth for a person is found in a committed life of faith, and that despair is the sickness of being a self that is not resting in God ("The Sickness Unto Death", 1849)[^11][^12].
-- **Dostoevsky (1821-1881)** wrote novels (*Crime and Punishment*, *The Brothers Karamazov*) in which a world without God ends in either despair or crime; Ivan Karamazov's line that "if God does not exist, everything is permitted" is quoted by Sartre as the existentialist's starting point[^3][^76].
-- **Gabriel Marcel (1889-1973)** and **Paul Tillich (1886-1965)** developed Christian existentialism in the twentieth century[^77][^78].
+- **Dostoevsky (1821-1881)** wrote novels (*Crime and Punishment*, *The Brothers Karamazov*) in which a world without God ends in either despair or crime; Ivan Karamazov's line that "if God does not exist, everything is permitted" is quoted by Sartre as the existentialist's starting point[^3][^78].
+- **Gabriel Marcel (1889-1973)** and **Paul Tillich (1886-1965)** developed Christian existentialism in the twentieth century[^79][^80].
 
 **The atheist line.**
 - **Martin Heidegger (1889-1976)**, *Being and Time* (1927), described human existence as "being-toward-death" and anxiety as the mood that wakes a person to authenticity[^51]. He joined the Nazi party in 1933, which remains a serious stain on his reputation.
@@ -207,7 +207,7 @@ Each school below is placed against these five questions.
       id: "sartre",
       title: "Jean-Paul Sartre (1905-1980)",
       tags: ["Existentialism", "Atheism"],
-      content: `**Who he was.** A French philosopher, novelist and playwright, born in Paris in 1905. He published *Nausea* (1938), *Being and Nothingness* (1943) and the play *No Exit* (1944), whose character says "hell is other people". He gave the lecture *Existentialism Is a Humanism* in October 1945, which made him famous. He declined the Nobel Prize for Literature in 1964. Late in life he turned to Marxism (*Critique of Dialectical Reason*, 1960). He died in 1980[^2][^3][^79].
+      content: `**Who he was.** A French philosopher, novelist and playwright, born in Paris in 1905. He published *Nausea* (1938), *Being and Nothingness* (1943) and the play *No Exit* (1944), whose character says "hell is other people". He gave the lecture *Existentialism Is a Humanism* in October 1945, which made him famous. He declined the Nobel Prize for Literature in 1964. Late in life he turned to Marxism (*Critique of Dialectical Reason*, 1960). He died in 1980[^2][^3][^81].
 
 **His central claims.**
 - **"Existence precedes essence."** A knife is made with a purpose, so its essence comes first. Human beings are not made for a purpose. Each exists first and then defines himself by what he chooses[^2][^3].
@@ -223,7 +223,7 @@ Each school below is placed against these five questions.
 
 **Where they disagree, and the Christian case.**
 1. **"Existence precedes essence."** Christianity says essence comes first: human beings are made in God's image for a purpose (Genesis 1:27; Ephesians 2:10). Sartre's claim is stated, not argued. It follows from atheism and cannot be used to prove it.
-2. **Values.** If a person's values come only from his own choice, there is nothing to say Hitler's choices were wrong. Sartre tried to escape: "in choosing for myself I choose for all". But why must anyone choose for all? Sartre's critics, including his own admirers, have said that his ethics are not grounded[^2][^3][^80].
+2. **Values.** If a person's values come only from his own choice, there is nothing to say Hitler's choices were wrong. Sartre tried to escape: "in choosing for myself I choose for all". But why must anyone choose for all? Sartre's critics, including his own admirers, have said that his ethics are not grounded[^2][^3][^82].
 3. **Freedom and the self.** The Christian says freedom is real but not absolute: people are free and also fallen, and need grace. Sartre's picture of unlimited freedom fits poorly with everyday experience of addiction, habit and temperament.
 4. **Meaning.** Sartre gave the answer "make your own". The Christian answer is that meaning is received. A meaning invented by someone who knows he invented it is hard to hold with conviction.
 5. **A tension in his life's work.** Sartre's thought moved from stressing individual freedom to supporting Marxism, which holds that history is determined by economic forces. The two do not easily fit together, and critics (including Camus) said so[^2][^4].
@@ -233,17 +233,17 @@ Each school below is placed against these five questions.
       id: "camus",
       title: "Albert Camus (1913-1960)",
       tags: ["Existentialism", "Atheism"],
-      content: `**Who he was.** Born in French Algeria in 1913 to a poor family, Camus was a novelist, essayist and journalist. His major works are *The Stranger* and *The Myth of Sisyphus* (both 1942), *The Plague* (1947) and *The Rebel* (1951). He won the Nobel Prize for Literature in 1957 and died in a car accident in 1960[^4][^5][^81].
+      content: `**Who he was.** Born in French Algeria in 1913 to a poor family, Camus was a novelist, essayist and journalist. His major works are *The Stranger* and *The Myth of Sisyphus* (both 1942), *The Plague* (1947) and *The Rebel* (1951). He won the Nobel Prize for Literature in 1957 and died in a car accident in 1960[^4][^5][^83].
 
-**He rejected the label "existentialist".** Camus said he was not one, and he broke publicly with Sartre in 1952 over *The Rebel*, which criticised revolutionary violence and the communist regimes that Sartre defended[^4][^5][^81]. His philosophy is usually called *absurdism*.
+**He rejected the label "existentialist".** Camus said he was not one, and he broke publicly with Sartre in 1952 over *The Rebel*, which criticised revolutionary violence and the communist regimes that Sartre defended[^4][^5][^83]. His philosophy is usually called *absurdism*.
 
 **The absurd.** For Camus, the absurd is the clash between a human longing for meaning and the silence of the universe. It is not in the world alone, nor in the person alone, but in the meeting of the two[^4][^5]. In *The Myth of Sisyphus* he asks whether this makes suicide the logical answer. His answer is no. Suicide ends the confrontation; the right response is **revolt**: to keep living in full awareness that the universe gives no answer. He pictures Sisyphus, condemned to push a rock up a hill forever, and concludes: "One must imagine Sisyphus happy"[^4][^5].
 
 **"Philosophical suicide."** Camus accused religious thinkers, and Kierkegaard in particular, of escaping the absurd by a leap of faith. He thought that leap evaded the question[^4][^5].
 
-**The Plague.** In this novel a doctor, Rieux, fights an epidemic without God. A priest, Paneloux, first preaches that the plague is a punishment, but after seeing a child die in agony his faith is shaken. Camus uses the child's death as the strongest objection to a good God[^4][^82].
+**The Plague.** In this novel a doctor, Rieux, fights an epidemic without God. A priest, Paneloux, first preaches that the plague is a punishment, but after seeing a child die in agony his faith is shaken. Camus uses the child's death as the strongest objection to a good God[^4][^84].
 
-**Where Camus and Christianity agree.** Both hold that suffering, especially of children, is an outrage and cannot be passed over. Camus was ahead of many unbelievers in insisting on the moral worth of every human being, and in opposing capital punishment and totalitarian violence. He wrote a university thesis on Christian metaphysics and Neoplatonism, with Augustine at its centre, and for the rest of his life he treated Christians as serious interlocutors[^4][^81].
+**Where Camus and Christianity agree.** Both hold that suffering, especially of children, is an outrage and cannot be passed over. Camus was ahead of many unbelievers in insisting on the moral worth of every human being, and in opposing capital punishment and totalitarian violence. He wrote a university thesis on Christian metaphysics and Neoplatonism, with Augustine at its centre, and for the rest of his life he treated Christians as serious interlocutors[^4][^83].
 
 **The Christian replies.**
 1. **A rival diagnosis.** Camus's account of the absurd begins with a real fact: people hunger for meaning that the world does not seem to supply. Christians read this as evidence that the hunger has an object. Lewis put it this way: "if I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world"[^68]. Camus asked what a human being should do if nothing answers. The Christian says something does.
@@ -260,15 +260,14 @@ Each school below is placed against these five questions.
 
 **His main ideas.** The unconscious; the id, ego and superego; repression; the Oedipus complex; dreams as disguised wishes; and a theory of the sexual drive as the root of much of human behaviour[^8][^9].
 
-**What he said about religion.** In *The Future of an Illusion* (1927), Freud argued that religion is an illusion born of wish-fulfilment: a grown-up version of a child's need for a protecting father, answering the helplessness of life and the fear of death. He added that an illusion is not necessarily false (it is a belief driven by wish), but he thought religion would fade as science grew. In *Totem and Taboo* (1913) and *Moses and Monotheism* (1939) he offered speculative accounts of the origins of religion; most historians and anthropologists reject these[^8][^9][^83]. In *Civilization and Its Discontents* (1930) he called religion a mass delusion.
+**What he said about religion.** In *The Future of an Illusion* (1927), Freud argued that religion is an illusion born of wish-fulfilment: a grown-up version of a child's need for a protecting father, answering the helplessness of life and the fear of death. He added that an illusion is not necessarily false (it is a belief driven by wish), but he thought religion would fade as science grew. In *Totem and Taboo* (1913) and *Moses and Monotheism* (1939) he offered speculative accounts of the origins of religion; most historians and anthropologists reject these[^8][^9][^85]. In *Civilization and Its Discontents* (1930) he called religion a mass delusion.
 
 **Responses.**
 1. **The genetic fallacy.** Even if a belief is comforting, that doesn't show it is false. A person may want a father and a father may exist. Freud himself said an illusion could be true[^8][^9].
-2. **The argument cuts both ways.** If wishing makes belief suspect, atheism can be a wish too: a wish for no judge and no authority. Psychologist Paul Vitz argued in *Faith of the Fatherless* (1999) that prominent atheists often had absent or failed fathers. That claim is contested and should not be pressed as proof either way, but it shows that psychological explanation does not settle the question[^84].
-3. **Scientific status.** Philosopher Karl Popper argued that psychoanalysis was unfalsifiable because every outcome could be explained in its terms, and many scientific psychologists now agree. Psychoanalysis has been far less well supported by experiment than Freud supposed[^85][^8].
-4. **The evidence on religion and mental health** is mixed and not a simple vindication of Freud's picture. Large reviews report that religious involvement is, on average, associated with better coping and lower rates of depression and suicide, with exceptions where faith is used in punishing or fearful ways[^86]. See also [What if I Have Psychosis?](/categories/psychosis).
+2. **The argument cuts both ways.** If wishing makes belief suspect, atheism can be a wish too: a wish for no judge and no authority. Psychological explanation of why people believe or disbelieve does not settle whether the belief is true.
+3. **Scientific status.** Philosopher Karl Popper argued that psychoanalysis was unfalsifiable because every outcome could be explained in its terms, and many scientific psychologists now agree. Psychoanalysis has been far less well supported by experiment than Freud supposed[^86][^8].
+4. **The evidence on religion and mental health** is mixed and not a simple vindication of Freud's picture. Large reviews report that religious involvement is, on average, associated with better coping and lower rates of depression and suicide, with exceptions where faith is used in punishing or fearful ways[^87]. See also [What if I Have Psychosis?](/categories/psychosis).
 5. **God as father is not a projection of Christian invention.** Christians hold that God as Father is revealed (Matthew 6:9), not designed to match a wish. Indeed, the God of the Bible often does the opposite of what people wish: he judges, he demands, and he calls to take up a cross (Luke 9:23). A wish-fulfilment religion would likely look different.
-6. **Freud's friend.** Freud kept a long friendship with a Swiss Protestant pastor and psychoanalyst, Oskar Pfister, and was content to disagree with him[^87].
 `,
     },
     {
@@ -307,11 +306,11 @@ Each school below is placed against these five questions.
 **Postmodernism (1960s to 1980s).** Lyotard defined it as "incredulity toward metanarratives", suspicion of any single story that explains everything[^55][^57]. Foucault argued that claims to truth are bound up with power; Derrida that texts have no fixed meaning[^36][^56]. Christianity is a metanarrative and so is directly in view. Responses:
 - The claim that "there are no universal truths" is itself offered as universal truth and so undermines itself.
 - The suspicion of power is partly biblical: the Bible criticises rulers who claim absolute authority (1 Samuel 8; Revelation 13).
-- Postmodern critics are right that some truth-claims have served power, and Christians have sometimes done the same. That is a reason for humility, not for abandoning truth (John 8:32; 18:37)[^57][^91].
+- Postmodern critics are right that some truth-claims have served power, and Christians have sometimes done the same. That is a reason for humility, not for abandoning truth (John 8:32; 18:37)[^57][^91][^55].
 
 **Christian philosophy in the late twentieth century.** From the 1960s a revival of Christian philosophy took place in the secular universities:
 - **Alvin Plantinga** (born 1932) argued in *God and Other Minds* (1967) that belief in God can be rationally held without proof, in the way belief in other minds is; in *Warranted Christian Belief* (2000) he developed "Reformed epistemology", and in his *evolutionary argument against naturalism* he argued that if naturalism and evolution are both true, there is little reason to trust our minds[^58][^92].
-- **Richard Swinburne** used probability theory to argue that God is the best explanation of the world (*The Existence of God*, 1979)[^59].
+- **Richard Swinburne** used probability theory to argue that God is the best explanation of the world (*The Existence of God*, 1979)[^59][^58].
 - **G. E. M. Anscombe** (1919-2001), a Catholic, gave the argument against "consequentialism" and helped revive virtue ethics[^93].
 - **Alasdair MacIntyre** (*After Virtue*, 1981) argued that modern moral language is the wreckage of an older tradition, and a Catholic[^94].
 - **Charles Taylor** (*A Secular Age*, 2007) traced how belief became one option among many, without treating unbelief as simply the default[^95].
@@ -443,19 +442,19 @@ A 2009 survey of professional philosophers (Bourget and Chalmers) found that mos
     "72. [Wikipedia] The Varieties of Religious Experience. https://en.wikipedia.org/wiki/The_Varieties_of_Religious_Experience",
     "73. [Primary Source] Friedrich Nietzsche, The Joyful Wisdom (The Gay Science), section 125. Project Gutenberg. https://www.gutenberg.org/ebooks/52881",
     "74. [Wikipedia] Twilight of the Idols. https://en.wikipedia.org/wiki/Twilight_of_the_Idols",
-    "75. [Wikipedia] Dominion: How the Christian Revolution Remade the World. https://en.wikipedia.org/wiki/Dominion:_How_the_Christian_Revolution_Remade_the_World",
-    "76. [Encyclopedia] Encyclopaedia Britannica. 'Fyodor Dostoyevsky.' https://www.britannica.com/biography/Fyodor-Dostoyevsky",
-    "77. [Academic] Internet Encyclopedia of Philosophy. 'Gabriel Marcel.' https://iep.utm.edu/marcel/",
-    "78. [Encyclopedia] Encyclopaedia Britannica. 'Paul Tillich.' https://www.britannica.com/biography/Paul-Tillich",
-    "79. [Wikipedia] Jean-Paul Sartre. https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
-    "80. [Wikipedia] Existentialism Is a Humanism. https://en.wikipedia.org/wiki/Existentialism_Is_a_Humanism",
-    "81. [Wikipedia] Albert Camus. https://en.wikipedia.org/wiki/Albert_Camus",
-    "82. [Wikipedia] The Plague (novel). https://en.wikipedia.org/wiki/The_Plague_(novel)",
-    "83. [Wikipedia] The Future of an Illusion. https://en.wikipedia.org/wiki/The_Future_of_an_Illusion",
-    "84. [Wikipedia] Paul Vitz. https://en.wikipedia.org/wiki/Paul_Vitz",
-    "85. [Academic] Stanford Encyclopedia of Philosophy. 'Karl Popper.' https://plato.stanford.edu/entries/popper/",
-    "86. [Academic] Koenig HG. Religion and Mental Health. Journal of Clinical Psychology, 2018. https://pubmed.ncbi.nlm.nih.gov/29265377/",
-    "87. [Wikipedia] Oskar Pfister. https://en.wikipedia.org/wiki/Oskar_Pfister",
+    "75. [Primary Source] Friedrich Nietzsche, Twilight of the Idols. Project Gutenberg. https://www.gutenberg.org/ebooks/52263",
+    "76. [Wikipedia] Dominion: How the Christian Revolution Remade the World. https://en.wikipedia.org/wiki/Dominion:_How_the_Christian_Revolution_Remade_the_World",
+    "77. [Reference] Tom Holland, Dominion. Basic Books. https://www.basicbooks.com/titles/tom-holland/dominion/9781541675308/",
+    "78. [Encyclopedia] Encyclopaedia Britannica. 'Fyodor Dostoyevsky.' https://www.britannica.com/biography/Fyodor-Dostoyevsky",
+    "79. [Academic] Internet Encyclopedia of Philosophy. 'Gabriel Marcel.' https://iep.utm.edu/marcel/",
+    "80. [Encyclopedia] Encyclopaedia Britannica. 'Paul Tillich.' https://www.britannica.com/biography/Paul-Tillich",
+    "81. [Wikipedia] Jean-Paul Sartre. https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+    "82. [Wikipedia] Existentialism Is a Humanism. https://en.wikipedia.org/wiki/Existentialism_Is_a_Humanism",
+    "83. [Wikipedia] Albert Camus. https://en.wikipedia.org/wiki/Albert_Camus",
+    "84. [Wikipedia] The Plague (novel). https://en.wikipedia.org/wiki/The_Plague_(novel)",
+    "85. [Wikipedia] The Future of an Illusion. https://en.wikipedia.org/wiki/The_Future_of_an_Illusion",
+    "86. [Academic] Stanford Encyclopedia of Philosophy. 'Karl Popper.' https://plato.stanford.edu/entries/popper/",
+    "87. [Academic] Koenig HG. Religion and Mental Health. Journal of Clinical Psychology, 2018. https://pubmed.ncbi.nlm.nih.gov/29265377/",
     "88. [Wikipedia] Analytical psychology. https://en.wikipedia.org/wiki/Analytical_psychology",
     "89. [Wikipedia] Modern Man in Search of a Soul. https://en.wikipedia.org/wiki/Modern_Man_in_Search_of_a_Soul",
     "90. [Wikipedia] Logical positivism. https://en.wikipedia.org/wiki/Logical_positivism",

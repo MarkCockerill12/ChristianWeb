@@ -143,7 +143,7 @@ What follows takes that argument seriously. It looks at what is true in it, wher
 
 **2. The main drivers are biological.** Heritability of schizophrenia is about 79 per cent in the largest twin study, and other factors include prenatal conditions, cannabis use, trauma and sleep loss[^6][^3]. None of these depends on whether the person believes in God.
 
-**3. The content follows the culture, and the illness persists.** Delusions take whatever themes surround the person. In religious settings they may be religious. In secular and technological settings they are about governments, surveillance, implants and the internet. Psychiatrist Victor Tausk described in 1919 the "influencing machine" that patients believed controlled them. More recently, clinicians have described the "Truman Show delusion", in which a person believes their life is being filmed as entertainment[^20][^21]. A person without religion does not escape the illness. They get a different story.
+**3. The content follows the culture, and the illness persists.** Delusions take whatever themes surround the person. In religious settings they may be religious. In secular and technological settings they are about governments, surveillance, implants and the internet. Psychiatrist Victor Tausk described in 1919 the "influencing machine" that patients believed controlled them. More recently, clinicians have described the "Truman Show delusion", in which a person believes their life is being filmed as entertainment[^20][^21][^22]. A person without religion does not escape the illness. They get a different story.
 
 **4. Voices do not need God to be frightening.** The Luhrmann study found that the American participants were more likely than those in India to report violent, commanding voices[^11][^12]. A secular framework that treats them only as symptoms does not by that fact make them less distressing.
 
@@ -160,19 +160,19 @@ What follows takes that argument seriously. It looks at what is true in it, wher
       tags: ["History"],
       content: `A note on method. Many of these people lived before modern diagnosis, so the labels below are later, retrospective and often disputed. The point is not to diagnose them. It is to show that serious mental illness and Christian faith have often coexisted, and that the faith did not make the illness worse in the way the video claims.
 
-**William Cowper (1731-1800), poet and hymn writer.** Cowper suffered repeated breakdowns, attempted suicide, and for long periods believed God had condemned him. He lived in Olney under the care and friendship of the curate John Newton, who encouraged him to write hymns. Even in his bleakest years he produced "God Moves in a Mysterious Way" and "There Is a Fountain Filled with Blood", hymns still sung. Newton regarded his friend's condition as in part physical, and Cowper was cared for by friends, doctors and the church[^22][^23]. His life shows that faith and severe illness can coexist, and that the church can be a refuge.
+**William Cowper (1731-1800), poet and hymn writer.** Cowper suffered repeated breakdowns, attempted suicide, and for long periods believed God had condemned him. He lived in Olney under the care and friendship of the curate John Newton, who encouraged him to write hymns. Even in his bleakest years he produced "God Moves in a Mysterious Way" and "There Is a Fountain Filled with Blood", hymns still sung. Newton regarded his friend's condition as in part physical, and Cowper was cared for by friends, doctors and the church[^23][^24]. His life shows that faith and severe illness can coexist, and that the church can be a refuge.
 
-**Christopher Smart (1722-1771), poet.** Smart was confined to asylums in the late 1750s and early 1760s with what contemporaries called religious mania, and wrote much of his great poem *Jubilate Agno* in that period. Samuel Johnson, as Boswell recorded, said he did not think Smart ought to have been shut up, since his infirmities were not harmful to society, and that Smart insisted on people praying with him. He recovered enough to publish again, and his devotional verse is still read[^24][^25][^26].
+**Christopher Smart (1722-1771), poet.** Smart was confined to asylums in the late 1750s and early 1760s with what contemporaries called religious mania, and wrote much of his great poem *Jubilate Agno* in that period. Samuel Johnson, as Boswell recorded, said he did not think Smart ought to have been shut up, since his infirmities were not harmful to society, and that Smart insisted on people praying with him. He recovered enough to publish again, and his devotional verse is still read[^25][^26][^27].
 
-**John Thomas Perceval (1803-1876).** A devout man who for a time followed a charismatic movement in Scotland, Perceval suffered a breakdown in 1830 with voices, spirits and religious delusions, and was confined in two asylums. After his release he wrote *A Narrative of the Treatment Experienced by a Gentleman* (1838-1840) and in 1845 co-founded the Alleged Lunatics' Friend Society, which campaigned against abuses in asylums. He named bereavement, mercury poisoning and an excess of religious study among the causes of his collapse, and he later lost his enthusiasm for the movement he had joined. His case shows two points: religious language did take over his illness, and recovery involved good care, time and testing. It did not require abandoning the search for God[^27][^28].
+**John Thomas Perceval (1803-1876).** A devout man who for a time followed a charismatic movement in Scotland, Perceval suffered a breakdown in 1830 with voices, spirits and religious delusions, and was confined in two asylums. After his release he wrote *A Narrative of the Treatment Experienced by a Gentleman* (1838-1840) and in 1845 co-founded the Alleged Lunatics' Friend Society, which campaigned against abuses in asylums. He named bereavement, mercury poisoning and an excess of religious study among the causes of his collapse, and he later lost his enthusiasm for the movement he had joined. His case shows two points: religious language did take over his illness, and recovery involved good care, time and testing. It did not require abandoning the search for God[^28][^29].
 
 **Anton Boisen (1876-1965), minister and founder of clinical pastoral education.** Boisen, a Presbyterian minister, was hospitalised for psychotic breakdowns in the early 1920s. He recovered, became a hospital chaplain, and in 1925 began training theological students to work with patients at Worcester State Hospital. His book *The Exploration of the Inner World* (1936) drew on his own illness. The movement he started now trains chaplains across the world, and it works alongside psychiatrists rather than against them[^18][^19].
 
-**Charles Spurgeon (1834-1892), preacher.** The most famous Baptist preacher of his century wrote openly of repeated depression, saying he knew "by most painful experience what deep depression of spirit means". His depression was not psychosis, but he preached about it, used rest and doctors, and told pastors that it should not shame them[^29][^30].
+**Charles Spurgeon (1834-1892), preacher.** The most famous Baptist preacher of his century wrote openly of repeated depression, saying he knew "by most painful experience what deep depression of spirit means". His depression was not psychosis, but he preached about it, used rest and doctors, and told pastors that it should not shame them[^30][^31].
 
-**Gerard Manley Hopkins (1844-1889), Jesuit priest and poet.** His "terrible sonnets" describe a desolation so deep that he felt cut off from God, yet they end in or return to faith. He is sometimes cited as proof that the dark night is part of the Christian life, not an exit from it[^31][^32].
+**Gerard Manley Hopkins (1844-1889), Jesuit priest and poet.** His "terrible sonnets" describe a desolation so deep that he felt cut off from God, yet they end in or return to faith. He is sometimes cited as proof that the dark night is part of the Christian life, not an exit from it[^32][^33].
 
-**Vincent van Gogh (1853-1890), painter.** He began as a lay preacher and missionary among miners in Belgium, and his later paintings are full of religious imagery. He was hospitalised at Saint-Rémy in 1889 after severe episodes; modern scholars disagree about the diagnosis, which has been proposed as epilepsy, bipolar disorder or other conditions. His faith is a contested subject and he should not be claimed simply as a believer. His letters show a man who kept searching for God through his illness[^33][^34].
+**Vincent van Gogh (1853-1890), painter.** He began as a lay preacher and missionary among miners in Belgium, and his later paintings are full of religious imagery. He was hospitalised at Saint-Rémy in 1889 after severe episodes; modern scholars disagree about the diagnosis, which has been proposed as epilepsy, bipolar disorder or other conditions. His faith is a contested subject and he should not be claimed simply as a believer. His letters show a man who kept searching for God through his illness[^34][^35].
 
 **What the case studies show.**
 - The church and its members, at their best, offered care, not condemnation.
@@ -255,19 +255,20 @@ Yes. "The LORD is close to the brokenhearted" (Psalm 34:18), "neither death nor 
     "19. [Wikipedia] Anton Boisen. https://en.wikipedia.org/wiki/Anton_Boisen",
     "20. [Wikipedia] Influencing machine. https://en.wikipedia.org/wiki/Influencing_machine",
     "21. [Wikipedia] Truman Show delusion. https://en.wikipedia.org/wiki/Truman_Show_delusion",
-    "22. [Wikipedia] William Cowper. https://en.wikipedia.org/wiki/William_Cowper",
-    "23. [Reference] William Cowper. Hymnary.org. https://hymnary.org/person/Cowper_William",
-    "24. [Wikipedia] Asylum confinement of Christopher Smart. https://en.wikipedia.org/wiki/Asylum_confinement_of_Christopher_Smart",
-    "25. [Reference] Christopher Smart. Poetry Foundation. https://www.poetryfoundation.org/poets/christopher-smart",
-    "26. [Wikipedia] Christopher Smart. https://en.wikipedia.org/wiki/Christopher_Smart",
-    "27. [Wikipedia] John Thomas Perceval. https://en.wikipedia.org/wiki/John_Thomas_Perceval",
-    "28. [Reference] Wellcome Collection. A Narrative of the Treatment Experienced by a Gentleman. https://wellcomecollection.org/works/zpxg9zj7",
-    "29. [Primary Source] Charles Spurgeon, Lectures to My Students, 'The Minister's Fainting Fits.' https://baptisthistoryhomepage.com/spurgeon.lectr.faint.fits.html",
-    "30. [Wikipedia] Charles Spurgeon. https://en.wikipedia.org/wiki/Charles_Spurgeon",
-    "31. [Wikipedia] Gerard Manley Hopkins. https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins",
-    "32. [Reference] Gerard Manley Hopkins. Poetry Foundation. https://www.poetryfoundation.org/poets/gerard-manley-hopkins",
-    "33. [Wikipedia] Vincent van Gogh. https://en.wikipedia.org/wiki/Vincent_van_Gogh",
-    "34. [Reference] Van Gogh Museum. Van Gogh's letters. https://www.vangoghletters.org/vg/"
+    "22. [Academic] Gold J, Gold I. The 'Truman Show' delusion: psychosis in the global village. Cognitive Neuropsychiatry, 2012. https://pubmed.ncbi.nlm.nih.gov/22640240/",
+    "23. [Wikipedia] William Cowper. https://en.wikipedia.org/wiki/William_Cowper",
+    "24. [Reference] William Cowper. Hymnary.org. https://hymnary.org/person/Cowper_William",
+    "25. [Wikipedia] Asylum confinement of Christopher Smart. https://en.wikipedia.org/wiki/Asylum_confinement_of_Christopher_Smart",
+    "26. [Reference] Christopher Smart. Poetry Foundation. https://www.poetryfoundation.org/poets/christopher-smart",
+    "27. [Wikipedia] Christopher Smart. https://en.wikipedia.org/wiki/Christopher_Smart",
+    "28. [Wikipedia] John Thomas Perceval. https://en.wikipedia.org/wiki/John_Thomas_Perceval",
+    "29. [Reference] Wellcome Collection. A Narrative of the Treatment Experienced by a Gentleman. https://wellcomecollection.org/works/zpxg9zj7",
+    "30. [Primary Source] Charles Spurgeon, Lectures to My Students, 'The Minister's Fainting Fits.' https://baptisthistoryhomepage.com/spurgeon.lectr.faint.fits.html",
+    "31. [Wikipedia] Charles Spurgeon. https://en.wikipedia.org/wiki/Charles_Spurgeon",
+    "32. [Wikipedia] Gerard Manley Hopkins. https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins",
+    "33. [Reference] Gerard Manley Hopkins. Poetry Foundation. https://www.poetryfoundation.org/poets/gerard-manley-hopkins",
+    "34. [Wikipedia] Vincent van Gogh. https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+    "35. [Reference] Van Gogh Museum. Van Gogh's letters. https://www.vangoghletters.org/vg/"
   ],
   lastUpdated: "05-11-2026",
 }
