@@ -21,6 +21,8 @@ export const TOPIC_LEVELS: Record<string, TopicLevel> = {
   "christianity-and-the-world": "General",
   "end-times": "General",
   prayer: "General",
+  philosophy: "In depth",
+  psychosis: "General",
   "bible-books": "General",
   "did-god-change": "General",
   "free-will": "General",
@@ -67,7 +69,7 @@ export const TOPIC_GROUPS: readonly TopicGroup[] = [
     id: "evidence",
     title: "The Evidence for Christianity",
     blurb: "Whether belief is reasonable, who Jesus claimed to be, and what the historical record shows.",
-    topics: ["is-belief-reasonable", "jesus", "resurrection", "prophecy", "archaeological", "miracles"],
+    topics: ["is-belief-reasonable", "jesus", "resurrection", "prophecy", "archaeological", "miracles", "philosophy"],
   },
   {
     id: "science",
@@ -85,7 +87,7 @@ export const TOPIC_GROUPS: readonly TopicGroup[] = [
     id: "hard-questions",
     title: "Hard Questions",
     blurb: "Suffering, judgment, morality, and what Christians have done in the world.",
-    topics: ["problem-of-evil", "god-evil", "hell", "morality", "free-will", "christianity-and-the-world"],
+    topics: ["problem-of-evil", "god-evil", "hell", "morality", "free-will", "christianity-and-the-world", "psychosis"],
   },
   {
     id: "faiths",
@@ -109,6 +111,8 @@ export const TOPIC_GROUPS: readonly TopicGroup[] = [
 
 /** Topics a reader of this one is likely to want next, most relevant first. */
 export const RELATED_TOPICS: Record<string, readonly string[]> = {
+  philosophy: ["is-belief-reasonable", "morality", "problem-of-evil", "free-will", "science"],
+  psychosis: ["problem-of-evil", "prayer", "is-belief-reasonable", "miracles", "philosophy"],
   abortion: ["morality", "women", "homosexuality", "christianity-and-the-world"],
   archaeological: ["resurrection", "prophecy", "nasa", "canon"],
   baptism: ["branches", "contradictions", "resurrection"],

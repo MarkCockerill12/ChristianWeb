@@ -1,6 +1,8 @@
 import type { Topic } from "./types"
 
 import { ABORTION } from "./abortion"
+import { PHILOSOPHY } from "./philosophy"
+import { PSYCHOSIS } from "./psychosis"
 import { HERESIES } from "./heresies-and-fallacies"
 import { CHRISTIANITY_AND_THE_WORLD } from "./christianity-and-the-world"
 import { archaeological } from "./archaeological"
@@ -46,7 +48,8 @@ export type { Topic } from "./types"
  * The single registry of published topics. Adding a topic means adding it here
  * and nowhere else, since routing, the index page and the sitemap all read from this.
  */
-const publishedTopics: readonly Topic[] = [
+const publishedTopics: readonly Topic[] = [
+
   archaeological,
   BAPTISM,
   CHRISTIANITY_AND_THE_WORLD,
@@ -82,6 +85,8 @@ const publishedTopics: readonly Topic[] = [
   women,
   prayer,
   PAGAN_ORIGINS,
+  PHILOSOPHY,
+  PSYCHOSIS,
   ABORTION,
 ]
 
