@@ -2,8 +2,8 @@ import type { Topic } from './types'
 
 export const PHILOSOPHY: Topic = {
   id: "philosophy",
-  title: "Philosophy and Christianity: From Plato to Sartre, Camus, Nietzsche, Freud and Jung",
-  description: "A map of the main schools of Western philosophy, when each began, what each teaches, how they differ from one another, and how each meets Christianity.",
+  title: "Philosophy and Christianity: Every Major School, from Plato and Confucius to Sartre, Camus, Nietzsche, Freud and Jung",
+  description: "A map of the main philosophies, Western and Eastern, religious and secular: when each began, what each teaches, how they differ, and how each meets Christianity. Includes nihilism, existentialism, humanism, monism and oneness, Confucian, Daoist and Indian thought, and the major political philosophies.",
   icon: "BookOpen",
   color: "indigo",
   tags: ["Philosophy", "Existentialism", "Worldviews", "Psychology"],
@@ -21,7 +21,7 @@ Philosophy means "love of wisdom". It is the effort to answer the largest questi
 
 Christianity answers all of them, and from its first generation it has stood in conversation with philosophy. Paul reasoned in the marketplace with Epicurean and Stoic philosophers in Athens and quoted their own poets to them (Acts 17:18, 28)[^3][^4]. He also warned against philosophy that depends on human tradition rather than on Christ (Colossians 2:8)[^5][^6]. Both attitudes have run through church history: philosophy is a tool to use, a rival to answer and a witness that human beings are asking the very questions the Gospel addresses.
 
-Four things follow. It sets out a short history of Western philosophy with approximate dates. It describes each major school, with the existentialists (Sartre, Camus), Nietzsche, Freud and Jung treated in depth. It compares the schools on five questions that every worldview must answer. And it sets out where Christianity stands on each, including where the two sides still disagree.
+Four things follow. It sets out a short history of Western philosophy with approximate dates. It describes each major school, Western and Eastern, with Nietzsche, the existentialists (Sartre, Camus), Freud and Jung treated in depth, and nihilism, materialism, humanism, relativism, monism and oneness, the Chinese and Indian schools, and the political philosophies each given a section. It compares the schools on five questions that every worldview must answer. And it sets out where Christianity stands on each, including where the two sides still disagree.
 
 **Two cautions.** Philosophers are often misquoted, and a school is rarely as simple as its slogan. Where a claim is contested, it is stated as contested. And an argument is judged by whether it is true, not by the private life of the person who made it: the faults of a philosopher, a Christian or an atheist do not decide whether the position is right.
 `,
@@ -63,6 +63,9 @@ Four things follow. It sets out a short history of Western philosophy with appro
 - **Mill (1806-1873).** Utilitarianism[^43].
 - **Comte (1798-1857)** founds positivism. **Peirce, James and Dewey** found American pragmatism (1870s to 1900s)[^44].
 - **Nietzsche (1844-1900).** "God is dead" (1882). Treated in full below[^45][^46][^6].
+
+**Other traditions, in brief**
+- **China (about 770 to 221 BC):** Confucius, Laozi, Mozi, Zhuangzi, Mencius, Xunzi and Han Feizi. **India:** the Buddha (about 5th century BC), the Charvaka materialists, Nagarjuna (about AD 150-250) and Shankara (about the eighth century AD). **Islamic and Jewish medieval philosophy:** Avicenna, Al-Ghazali, Averroes and Maimonides (900s to 1200s). Each is treated in its own section below.
 
 **The twentieth century and after**
 - **Freud (1856-1939)** founds psychoanalysis (1890s)[^47][^8]. **Jung (1875-1961)** founds analytical psychology (after 1913)[^48][^10].
@@ -319,6 +322,198 @@ A 2009 survey of professional philosophers (Bourget and Chalmers) found that mos
 `,
     },
     {
+      id: "nihilism",
+      title: "Nihilism, Pessimism and Absurdism",
+      tags: ["Atheism"],
+      content: `**What nihilism is.** The word comes from the Latin *nihil*, "nothing". It names several different claims: that life has no meaning or purpose (existential nihilism), that there are no objective moral facts (moral nihilism), and that nothing can truly be known (epistemological nihilism)[^98][^99]. The term was popularised by Ivan Turgenev's novel *Fathers and Sons* (1862), whose hero Bazarov accepts no authority and no principle[^99][^98].
+
+**Passive and active.** Nietzsche (covered earlier) described *passive* nihilism, a tired withdrawal when old values collapse, and *active* nihilism, the destruction of old values to clear the ground for new ones[^98][^6]. He thought nihilism was the coming crisis of Europe once belief in God faded.
+
+**Pessimism.** Schopenhauer (1788-1860) held that the world is driven by blind will and that life is mostly suffering, so the wise response is to deny desire[^41][^98]. Pessimism differs from nihilism in that it judges life bad, while nihilism says it has no value either way.
+
+**Absurdism.** Camus (covered earlier) accepted that the universe gives no meaning but refused despair, proposing revolt and lived passion[^4][^5].
+
+**What Christianity says.**
+1. **Ecclesiastes states the nihilist's case honestly.** "Meaningless! Meaningless!... Everything is meaningless" (Ecclesiastes 1:2). The book's phrase "under the sun" marks life viewed as if nothing lay beyond the visible world, and the book ends by pointing past it: "Fear God and keep his commandments, for this is the whole duty of mankind" (Ecclesiastes 12:13). The Bible does not hide from the experience that Camus and Schopenhauer describe[^100][^5].
+2. **Nihilism struggles to live as it speaks.** A person who says nothing matters still argues, protests injustice and loves people. Critics note that the claim "nothing has value" is offered as a value-laden verdict on life, and that nihilists in practice treat some things as mattering[^98][^101].
+3. **Nihilism is what follows if God is removed, not an argument that he is.** Nietzsche and Sartre both said so (covered earlier). Those who think God is real see the nihilist as logically consistent about a premise they reject[^6][^101].
+4. **The Christian alternative.** Creation gives the world a purpose (Genesis 1:31), humans are made for a relationship with God (Acts 17:26-27), and the resurrection answers the question of whether anything lasts (1 Corinthians 15:58).
+`,
+    },
+    {
+      id: "naturalism-materialism",
+      title: "Materialism, Naturalism, Scientism and the New Atheism",
+      tags: ["Atheism"],
+      content: `**Materialism.** The view that matter is all that exists. Democritus (about 460-370 BC) taught that everything is atoms and void; Epicurus and the Roman poet Lucretius (*On the Nature of Things*, first century BC) followed him. In early modern Europe Hobbes (1588-1679) and later d'Holbach (*The System of Nature*, 1770) argued that even the mind is matter[^102][^103]. Marx added a historical form, dialectical materialism (covered earlier).
+
+**Naturalism and physicalism.** Naturalism says that only natural causes operate and that nature is all there is. *Physicalism* says everything is, or depends on, the physical. Carl Sagan's opening line in *Cosmos* (1980), "The Cosmos is all that is or ever was or ever will be", is the popular statement[^103][^104]. Most scientists use *methodological* naturalism as a working rule of research, which is a different thing from the philosophical claim that nothing but nature exists.
+
+**Scientism.** The belief that only scientific knowledge counts as knowledge. It is hard to hold consistently, because the claim "only what science can verify is knowable" is not itself a scientific finding. Logic, mathematics, ethics and the reliability of memory are all assumed before any experiment is run[^103][^49].
+
+**The New Atheism (2004 to about 2010).** A group of best-selling books: Sam Harris, *The End of Faith* (2004); Richard Dawkins, *The God Delusion* (2006); Daniel Dennett, *Breaking the Spell* (2006); Christopher Hitchens, *God Is Not Great* (2007). They argued that religion is false, harmful or both, and that science makes God unnecessary[^105][^106].
+
+**Where Christianity engages.**
+1. **Consciousness.** If everything is matter, why is there an inner life of experience? Philosopher David Chalmers called this "the hard problem" (1995), and physicalists and their critics still disagree on whether it can be solved[^104][^107]. See also [Science](/categories/science).
+2. **Reason.** If thoughts are only brain events produced to aid survival, what ground is there to trust them? Plantinga and Lewis press this (covered earlier)[^58][^92].
+3. **Origins.** Why is there something rather than nothing, and why is the universe so finely tuned for life? See [Fine-Tuning](/categories/fine-tuning) and [Evolution](/categories/evolution).
+4. **Science and Christian history.** Many founders of modern science were believers who thought a rational Creator made an intelligible world. The record is set out in [Science](/categories/science).
+5. **A fair point on the other side.** The New Atheists were right to insist that claims about the world be tested, and Christianity agrees: "test everything" (1 Thessalonians 5:21). The disagreement is whether the evidence points to God, which is the work of the other pages.
+`,
+    },
+    {
+      id: "humanism-agnosticism",
+      title: "Humanism, Atheism, Agnosticism and Deism",
+      tags: ["Atheism"],
+      content: `**Renaissance humanism (1300s to 1500s).** Petrarch (1304-1374) and Erasmus (1466-1536) revived classical learning and stressed human dignity and the study of original texts. Most were devout Christians, and Erasmus produced the first published Greek New Testament (1516), which Tyndale and Luther used[^108][^109].
+
+**Deism (1600s to 1700s).** Deists, such as Lord Herbert of Cherbury (1583-1648), Voltaire (1694-1778), Thomas Paine and Thomas Jefferson, held that a Creator made the world and then left it to run by natural law, rejecting miracles, revelation and the Trinity. Hume and Kant, though not deists, undercut the arguments deism relied on[^110][^109].
+
+**Feuerbach (1804-1872) and the projection theory.** *The Essence of Christianity* (1841) argued that God is the human ideal projected outward. This idea influenced Marx and Freud (covered earlier)[^111][^42]. Christians reply that the projection argument cannot show whether a projection has an object; a longing for water does not show there is no water.
+
+**Atheism and agnosticism.** Atheism denies that any god exists. The word *agnostic* was coined by Thomas Henry Huxley in 1869 for the view that the existence of God cannot be known. Many philosophers distinguish a *strong* atheist (who claims God does not exist) from a *weak* one (who simply lacks belief), and the second position carries no burden of proof in the same way, which is a point of debate[^106][^112].
+
+**Secular humanism (1900s to today).** The Humanist Manifestos (1933, 1973, 2003) and the Amsterdam Declaration (1952, revised 2022) describe an ethic based on reason and human flourishing without God[^113][^114]. It affirms human dignity, reason, science, and care for others.
+
+**How Christianity compares.**
+- **Common ground.** Both affirm human dignity, the use of reason and the duty to care for others, and Christians were pioneers of hospitals, schools and charity (see [Christianity and the World](/categories/christianity-and-the-world)).
+- **The question of the ground.** Christianity says human dignity rests on being made in God's image (Genesis 1:27). Humanism has to ground it in human nature, reason or agreement. The historian Tom Holland argues that the Western idea of the equal worth of every person is a Christian inheritance, not a neutral discovery[^76][^77].
+- **Deism versus Christianity.** The deist God is distant. The Christian God enters history, speaks, and in Christ becomes man (John 1:14), which is why the evidence for [the resurrection](/categories/resurrection) matters.
+`,
+    },
+    {
+      id: "relativism-skepticism",
+      title: "Relativism, Skepticism and Solipsism",
+      tags: ["Philosophy"],
+      content: `**Relativism.** The claim that truth or morality depends on the person, culture or era. *Moral* relativism says right and wrong vary with culture; *cognitive* relativism says truth itself does[^115][^116]. Its roots lie with the Greek Sophist Protagoras ("man is the measure of all things", about 450 BC), and it flourishes in modern anthropology and postmodernism.
+
+**Skepticism.** Modern skepticism asks whether anything can be known at all. Descartes' "evil demon" and the ancient Pyrrhonists raised it in extreme form, and Hume used it against induction and miracles[^117][^35].
+
+**Solipsism.** The view that only one's own mind is certainly real[^118][^117]. Few hold it, but it marks the logical end of radical doubt.
+
+**Christian replies.**
+1. **Relativism undermines itself.** "There is no universal truth" is offered as a universal truth. "Morality is relative" is offered as a fact true for everyone[^115][^116].
+2. **Relativism cannot condemn.** If cultures set their own morals, no one may say that a culture practising slavery or infanticide is wrong. Most people, relativists included, do want to say so, which suggests a standard above culture. Paul argues that the moral law is written on the heart of every person (Romans 2:14-15)[^116][^119].
+3. **Tolerance needs an objective ground.** Relativists commend tolerance, but tolerance is itself a value that relativism cannot require of anyone.
+4. **Skepticism and trust.** Every person lives by trusting memory, other people and the senses. Christianity gives reasons for that trust: a rational God made minds fit to know the world (Proverbs 2:6; Colossians 2:3)[^58][^117].
+`,
+    },
+    {
+      id: "mind-and-freedom",
+      title: "Determinism, Dualism, Consciousness and the Self",
+      tags: ["Philosophy"],
+      content: `**Determinism.** Every event, including every human choice, follows necessarily from earlier causes and the laws of nature[^120]. *Hard determinists* conclude that free will is an illusion; *compatibilists* hold that freedom and determinism can coexist; *libertarians* (in the metaphysical sense) hold that some choices are not fully determined[^120][^121]. The question is treated in full in [Free Will](/categories/free-will).
+
+**Dualism.** The view that mind and body are different kinds of thing. Plato held it; Descartes made it the centre of modern philosophy (*Meditations*, 1641)[^122][^30]. Christianity affirms that humans are a unity of body and soul, to be resurrected in body (1 Corinthians 15:42-44), which is neither strict Cartesian dualism nor materialism.
+
+**Physicalism and its problems.** If the mind is only the brain, then how do chemistry and electricity produce the experience of red, or of love? *Epiphenomenalism* says consciousness is a by-product that causes nothing, which makes thought irrelevant to action[^123][^107]. *Panpsychism* proposes that consciousness is basic to matter, and has gained ground among philosophers since about 2000[^124][^107].
+
+**What the debate shows for Christianity.** The mind-body question is unsettled, and no major school has solved it. The Christian account (a person made in God's image, body and soul) is at least a coherent option, and fits our experience of being one self who thinks and acts[^122][^107].
+`,
+    },
+    {
+      id: "eastern",
+      title: "Eastern Philosophies: Confucian, Daoist, Mohist, Legalist and Buddhist",
+      tags: ["Eastern"],
+      content: `Several Eastern systems are religions as well as philosophies (Buddhism, Hinduism, Daoism as religion). The [Religions](/categories/religions) page treats those as religions. The philosophies they contain, and the schools that were never organised religions, are treated here.
+
+**China's "hundred schools" (about 770 to 221 BC).**
+- **Confucianism.** Confucius (551-479 BC) taught virtue, ritual propriety (*li*), human-heartedness (*ren*), filial piety and ordered relationships, set down in the *Analects*. Mencius (about 372-289 BC) held that human nature is good; Xunzi (about 310-235 BC) that it is bad and needs shaping. Confucianism became the state ethic of China from the Han dynasty[^125][^126][^127]. Confucius' maxim "do not do to others what you do not want done to yourself" (*Analects* 15) is the negative form of Jesus' positive command (Matthew 7:12)[^125][^128].
+- **Daoism (philosophical).** Laozi (traditionally 6th century BC; the *Daodejing* is probably 4th to 3rd century BC) and Zhuangzi (about 369-286 BC) taught harmony with the Dao ("the Way") and *wu wei*, effortless action. The Dao is impersonal[^129][^130][^131].
+- **Mohism.** Mozi (about 470-391 BC) taught impartial care for all people and rejected waste and aggression. Unlike the other schools, Mohism believed in a Heaven that watches and rewards the good[^132][^133].
+- **Legalism.** Han Feizi (died 233 BC) held that people are self-interested and must be ruled by strict law, reward and punishment, not virtue. It shaped the Qin dynasty's harsh rule[^134][^135].
+
+**Indian philosophy.**
+- **Buddhist philosophy.** Siddhartha Gautama (about 5th century BC) taught the Four Noble Truths: life involves suffering, suffering comes from craving, it can end, and the Eightfold Path leads to its end. Buddhism denies a permanent self (*anatta*). Nagarjuna (about AD 150-250), founder of Madhyamaka, taught that all things are "empty" of independent existence[^136][^137][^138].
+- **Advaita Vedanta.** Shankara (about the eighth century AD) taught that only Brahman, the one undivided reality, is ultimately real; the world of many things is illusion (*maya*); and the self (*atman*) is Brahman[^139][^140].
+- **Other schools.** Samkhya (dualism of spirit and matter), Nyaya (logic), Jain *anekantavada* (many-sidedness of truth) and the materialist Charvaka (Lokayata) school, which denied rebirth and the afterlife[^141][^142][^143].
+
+**Comparison with Christianity.**
+- **Starting point: suffering.** The Buddha and the Bible both begin with suffering. The Buddha concludes that the way out is to end craving and the self; the Bible, that God enters the world to redeem it (Isaiah 53; John 3:16)[^136][^144].
+- **The self.** Buddhism says the self is an illusion. Christianity says each person is a unique, valued individual made in God's image and raised to live for ever (Psalm 139:13-16)[^136][^145].
+- **The ultimate.** The Dao and Brahman are impersonal; the Christian God is personal, knowable, and loves (1 John 4:8)[^129][^139].
+- **Ethics.** Confucian virtue and Mohist impartial love show a widespread moral awareness, in line with Romans 2:14-15. Christianity differs in saying that virtue alone cannot save: all fall short (Romans 3:23) and need grace (Ephesians 2:8-9)[^125][^132].
+- **Respect.** These traditions have produced profound ethical and philosophical work and deserve a fair hearing. Christians engage them as Paul engaged Athens: affirming what is true, naming what is lacking, and announcing Christ.
+`,
+    },
+    {
+      id: "monism-oneness",
+      title: "Oneness, Monism, Pantheism and Panentheism",
+      tags: ["Eastern"],
+      content: `**The idea.** *Monism* says that reality is fundamentally one. The claim "all is one" appears in many forms, East and West, and it is now widespread in popular spirituality ("we are all one", "we are all connected")[^146][^147].
+
+**Where it appears.**
+- **Parmenides (about 515-450 BC)** argued that reality is one, unchanging Being, and that change is an illusion[^148][^146].
+- **Plotinus (204-270)** taught that everything flows from the One and returns to it (covered earlier).
+- **Advaita Vedanta (Shankara, eighth century AD)** teaches that the individual self and Brahman are identical (covered earlier)[^139][^140].
+- **Spinoza (1632-1677)** held that God and Nature are one substance ("God, or Nature") and that everything follows by necessity[^31][^147].
+- **Hegel (1770-1831)** saw all reality as the self-unfolding of one Absolute Spirit.
+- **Transcendentalism (1830s to 1850s).** Emerson's *Nature* (1836) described a unity of the soul with nature and with an "Over-Soul"[^149][^150].
+- **Theosophy (1875), New Thought and the New Age (1970s to today)** popularised ideas of cosmic oneness, higher consciousness and the divinity of the self[^151][^152].
+
+**Pantheism and panentheism.**
+- **Pantheism**: God is the universe (or the universe is God). Spinoza, the Stoics in some forms, and many modern spiritualities hold it[^147].
+- **Panentheism**: the universe is in God, though God is more than the universe. Karl Krause coined the word in 1828, and it appears in Whitehead's process philosophy (*Process and Reality*, 1929) and in some modern theology[^153][^154].
+- **Classical theism (Christianity)**: God created the universe from nothing and is distinct from it, though present everywhere (Acts 17:24-28)[^147][^153].
+
+**A note on the word "Oneness".** *Oneness Pentecostalism* is a separate matter: a twentieth-century movement that denies the Trinity and holds that Father, Son and Spirit are modes of one person. It is covered under [Heresies and Fallacies](/categories/heresies-and-fallacies) and [The Trinity](/categories/trinity). It should not be confused with philosophical monism.
+
+**Christianity and oneness.**
+1. **The Creator-creature distinction.** Scripture insists that God is not the world: "they worshipped and served created things rather than the Creator" (Romans 1:25); "To whom will you compare me?" (Isaiah 40:25)[^155][^147].
+2. **The problem of evil and of the self.** If all is God and all is one, then evil is God, and moral distinctions between good and evil fade into illusion. The Christian reply is that evil is real, is a corruption of good, and will be defeated (Romans 12:9; Revelation 21:4)[^146][^147].
+3. **Relationship needs two.** Love needs a lover and a beloved. If the self is identical with God, no one can love God, be forgiven by God or be addressed by God, as the Psalms assume. Christians say this is why the Trinity, a God who is three persons in love, matters (John 17:24)[^146][^156].
+4. **What the oneness longing gets right.** Jesus prays that his followers "may be one as we are one" (John 17:21-23). That is real unity in love and communion, with differences preserved, not the dissolving of persons into one substance. Christian mysticism speaks of union with God, but never of identity with him[^156][^153].
+`,
+    },
+    {
+      id: "medieval-world",
+      title: "Islamic, Jewish and African Philosophy",
+      tags: ["History"],
+      content: `**Islamic philosophy (800s to 1100s).** Avicenna (Ibn Sina, 980-1037) argued from the contingency of the world to a necessary Being, an argument that shaped Aquinas. Al-Ghazali (1058-1111), in *The Incoherence of the Philosophers*, criticised the philosophers' claims. Averroes (Ibn Rushd, 1126-1198) defended Aristotle in reply, and his commentaries were studied in Christian Europe[^157][^158][^159]. Muslim thinkers preserved and extended Greek philosophy and medicine, and Christians in the West learned much from them. See [Islam](/categories/islam).
+
+**Jewish philosophy.** Moses Maimonides (1138-1204), in *The Guide for the Perplexed*, joined Aristotle to Jewish faith, argued for God's existence and unity, and taught that God is described best by what he is not. Aquinas cited him often[^160][^28]. The Hebrew Scriptures are the root of Christian thought about creation, law, justice and the person.
+
+**African philosophy.** Africa has a long tradition of philosophical reflection, in oral wisdom, in the Egyptian and Ethiopian traditions, and in modern writing. A widely discussed theme is *ubuntu*, the idea that a person is a person through other persons, summed up in the proverb "I am because we are"[^161][^162]. Africa also produced major Christian thinkers: Tertullian, Cyprian and Augustine in North Africa, Athanasius in Egypt. Today Africa has one of the largest Christian populations in the world.
+
+**Comparison.** These traditions share with Christianity the belief in one transcendent God (Islamic and Jewish thought), the use of reason in understanding him, and the importance of community. Christianity differs on the Trinity, the Incarnation and the cross, as the pages on [Islam](/categories/islam) and [the Trinity](/categories/trinity) set out.
+`,
+    },
+    {
+      id: "modern-currents",
+      title: "Phenomenology, Analytic Philosophy, Process and Critical Theory",
+      tags: ["Philosophy"],
+      content: `**Phenomenology.** Edmund Husserl (1859-1938) proposed studying experience as it appears ("to the things themselves"), setting aside theories. *Ideas* (1913) founded the movement, which shaped Heidegger, Sartre and Merleau-Ponty[^163][^164].
+
+**Analytic philosophy (about 1900 to today).** Frege, Russell, Moore and the early Wittgenstein turned philosophy toward logic and the analysis of language. It dominates English-speaking universities. Bertrand Russell (1872-1970) wrote the lecture *Why I Am Not a Christian* (1927) and argued for atheism; Christian philosophers such as Plantinga and Swinburne have responded within the same analytic method (covered earlier)[^165][^166].
+
+**Process philosophy.** Alfred North Whitehead (1861-1947) and Charles Hartshorne described reality as made of events and becoming, not fixed substances; God is changing and responsive. Most traditional Christians reject the idea that God changes in his being (Malachi 3:6), though it has had influence in some liberal theology[^167][^154]. See also [Did God Change?](/categories/did-god-change).
+
+**Critical theory.** The Frankfurt School (Adorno, Horkheimer, Marcuse, from the 1930s) combined Marx and Freud to criticise modern society[^168][^169]. It influenced later movements in the humanities.
+
+**Structuralism and post-structuralism** (Lévi-Strauss, Barthes, Foucault, Derrida) are covered under postmodernism above.
+`,
+    },
+    {
+      id: "self-and-society",
+      title: "Hedonism, Egoism, Objectivism, Transhumanism and Political Philosophies",
+      tags: ["Worldviews"],
+      content: `**Hedonism.** The view that pleasure is the only good. Aristippus and the Cyrenaics (about 435-356 BC) sought immediate pleasure; Epicurus sought lasting calm instead[^170][^171]. Christianity affirms pleasure as God's gift (1 Timothy 6:17; Psalm 16:11) and denies that it is the highest good, since pleasures pall and the deepest joy is found in God.
+
+**Egoism and Objectivism.** Max Stirner's *The Ego and Its Own* (1844) held that the individual owes nothing to any cause beyond himself. Ayn Rand (1905-1982), in *Atlas Shrugged* (1957), argued that rational self-interest is the highest virtue, that altruism is destructive, and that religion is false[^172][^173][^174]. Christianity agrees that work, honesty and self-respect are good (Proverbs 6:6-11; 2 Thessalonians 3:10) and denies that love of neighbour is a vice (Matthew 22:39; Philippians 2:3-4).
+
+**Transhumanism.** The movement (the term was used by Julian Huxley in 1957) aims to overcome ageing, disease and death through technology, uploading minds or enhancing bodies[^175][^176]. Christianity shares the hatred of death (1 Corinthians 15:26) but holds that death is defeated by resurrection, a gift of God, not a technical achievement; and it cautions against the pride of Babel (Genesis 11:1-9).
+
+**Political philosophies.** Scripture does not endorse any one modern political system, and Christians have held every position. The main systems are:
+- **Liberalism** (Locke, 1632-1704): individual rights and limited government[^177].
+- **Conservatism** (Burke, *Reflections on the Revolution in France*, 1790): tradition and gradual change[^178][^179].
+- **Socialism and communism** (Marx and Engels, *Communist Manifesto*, 1848): common ownership. Communist states of the twentieth century persecuted religion and killed millions (see [Christianity and the World](/categories/christianity-and-the-world))[^180][^42].
+- **Libertarianism** (Nozick, *Anarchy, State, and Utopia*, 1974): minimal government[^181].
+- **Anarchism** (Proudhon, 1840; Bakunin): no state[^182].
+- **Nationalism**: the nation as the central loyalty[^183].
+
+**The Christian contribution to politics.** Christianity teaches that every person has equal dignity (Genesis 1:27; Galatians 3:28), that rulers are accountable to God (Romans 13:1-4; Acts 5:29), that the poor must be cared for (Proverbs 31:8-9; Matthew 25:35-40), and that no earthly state is final (Philippians 3:20). These principles have shaped, but have never been identical to, any single party or system[^184][^185].
+`,
+    },
+    {
       id: "comparison",
       title: "The Schools Compared, Side by Side",
       tags: ["Comparison"],
@@ -346,6 +541,19 @@ A 2009 survey of professional philosophers (Bourget and Chalmers) found that mos
 - **Plato:** release of the soul. **Epicurus:** nothing to fear. **Stoics:** accept. **Schopenhauer:** deny the will. **Sartre:** make your own. **Camus:** revolt and live. **Nietzsche:** affirm life and recur. **Freud:** make peace with reality. **Jung:** individuation.
 - **Christianity:** the purpose is to know and enjoy God, and death is an enemy that Christ has defeated by his own resurrection.
 
+**Further schools in brief.**
+- **Nihilism:** nothing has ultimate meaning or value. Christianity: meaning is given by the Creator (Ecclesiastes 12:13).
+- **Materialism and scientism:** only matter, or only science, is real or knowable. Christianity: nature is real and studied, but not all there is.
+- **Humanism:** human flourishing by reason, without God. Christianity: shares the care, grounds the dignity in God's image.
+- **Relativism:** truth or morality depends on culture. Christianity: truth is universal and a moral law is known to all (Romans 2:14-15).
+- **Confucianism:** virtue and ordered relationships. Christianity: affirms the virtues, adds grace.
+- **Daoism:** harmony with an impersonal Way. Christianity: a personal God who speaks.
+- **Buddhism:** end suffering by ending craving and the self. Christianity: suffering is met by redemption and a self that is raised.
+- **Advaita Vedanta, pantheism, New Age oneness:** all is one and the self is divine. Christianity: Creator and creation are distinct, and love requires persons.
+- **Hedonism, egoism and Objectivism:** pleasure or self-interest is the highest good. Christianity: love of God and neighbour.
+- **Transhumanism:** conquer death by technology. Christianity: death is defeated by resurrection.
+- **Political philosophies:** Christianity supports human dignity, accountable rule and care for the poor, and is identical with no single system.
+
 **A pattern worth noticing.** Each school captures something true that Christianity also affirms: Plato the unseen order, Aristotle purpose, the Stoics self-command, Epicurus the folly of fearing death in the wrong way, Kierkegaard personal commitment, Nietzsche the cost of losing God, Sartre responsibility, Camus the outrage at innocent suffering, Freud the hidden depths of the heart (Jeremiah 17:9), and Jung the human need for the sacred. In each case Christianity claims to hold the truth the school glimpsed together with the ground it lacked.
 `,
     },
@@ -355,7 +563,7 @@ A 2009 survey of professional philosophers (Bourget and Chalmers) found that mos
       tags: ["Worldviews"],
       content: `The argument is not that philosophers proved Christianity. They disagree with each other, and no argument in this field is accepted by everyone. The claim is narrower: the best atheist philosophers kept running into the same four problems, and Christianity is the position that supplies an answer to each.
 
-**1. The problem of moral grounds.** Nietzsche said the loss of God would remove the basis of Christian morality. Sartre said "everything is permitted" is the starting point. Dostoevsky made the point in fiction. If there is no God, moral claims have to be grounded in feeling, convention, evolution or choice; many thoughtful atheists admit these do not give moral obligations the objective force that people ordinarily believe they have (the moral argument)[^3][^6][^98]. Not all philosophers agree: many atheists defend objective morality without God, and the debate continues[^98]. The Christian claim is that the best explanation of a universal moral law is a moral lawgiver (Romans 2:14-15).
+**1. The problem of moral grounds.** Nietzsche said the loss of God would remove the basis of Christian morality. Sartre said "everything is permitted" is the starting point. Dostoevsky made the point in fiction. If there is no God, moral claims have to be grounded in feeling, convention, evolution or choice; many thoughtful atheists admit these do not give moral obligations the objective force that people ordinarily believe they have (the moral argument)[^3][^6][^186]. Not all philosophers agree: many atheists defend objective morality without God, and the debate continues[^186]. The Christian claim is that the best explanation of a universal moral law is a moral lawgiver (Romans 2:14-15).
 
 **2. The problem of meaning.** Camus called the clash between longing and silence "the absurd". Sartre called it forlornness. Nietzsche called it nihilism. The Christian response is not that the longing proves God, but that the longing is what one would expect if a Creator made human beings for himself, and that the Gospel claims an answer is given[^4][^52][^68].
 
@@ -465,7 +673,95 @@ A 2009 survey of professional philosophers (Bourget and Chalmers) found that mos
     "95. [Academic] Charles Taylor, A Secular Age. Harvard University Press. https://www.hup.harvard.edu/books/9780674026766",
     "96. [Apologetics] William Lane Craig, The Kalam Cosmological Argument. Reasonable Faith. https://www.reasonablefaith.org/writings/popular-writings/existence-nature-of-god/the-kalam-cosmological-argument",
     "97. [Academic] Bourget D, Chalmers D. What Do Philosophers Believe? Philosophical Studies, 2014. https://philpapers.org/surveys/",
-    "98. [Academic] Stanford Encyclopedia of Philosophy. 'Religion and Morality.' https://plato.stanford.edu/entries/religion-morality/"
+    "98. [Academic] Internet Encyclopedia of Philosophy. 'Nihilism.' https://iep.utm.edu/nihilism/",
+    "99. [Wikipedia] Nihilism. https://en.wikipedia.org/wiki/Nihilism",
+    "100. [Commentary] Commentaries on Ecclesiastes 1:2. Bible Hub. https://biblehub.com/commentaries/ecclesiastes/1-2.htm",
+    "101. [Academic] Stanford Encyclopedia of Philosophy. 'The Meaning of Life.' https://plato.stanford.edu/entries/life-meaning/",
+    "102. [Academic] Stanford Encyclopedia of Philosophy. 'Democritus.' https://plato.stanford.edu/entries/democritus/",
+    "103. [Academic] Stanford Encyclopedia of Philosophy. 'Naturalism.' https://plato.stanford.edu/entries/naturalism/",
+    "104. [Academic] Stanford Encyclopedia of Philosophy. 'Physicalism.' https://plato.stanford.edu/entries/physicalism/",
+    "105. [Wikipedia] New Atheism. https://en.wikipedia.org/wiki/New_Atheism",
+    "106. [Academic] Stanford Encyclopedia of Philosophy. 'Atheism and Agnosticism.' https://plato.stanford.edu/entries/atheism-agnosticism/",
+    "107. [Academic] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
+    "108. [Wikipedia] Renaissance humanism. https://en.wikipedia.org/wiki/Renaissance_humanism",
+    "109. [Academic] Stanford Encyclopedia of Philosophy. 'The Enlightenment.' https://plato.stanford.edu/entries/enlightenment/",
+    "110. [Wikipedia] Deism. https://en.wikipedia.org/wiki/Deism",
+    "111. [Wikipedia] Ludwig Feuerbach. https://en.wikipedia.org/wiki/Ludwig_Feuerbach",
+    "112. [Wikipedia] Agnosticism. https://en.wikipedia.org/wiki/Agnosticism",
+    "113. [Wikipedia] Secular humanism. https://en.wikipedia.org/wiki/Secular_humanism",
+    "114. [Reference] Humanists International. The Amsterdam Declaration. https://humanists.international/policy/amsterdam-declaration/",
+    "115. [Academic] Stanford Encyclopedia of Philosophy. 'Relativism.' https://plato.stanford.edu/entries/relativism/",
+    "116. [Academic] Stanford Encyclopedia of Philosophy. 'Moral Relativism.' https://plato.stanford.edu/entries/moral-relativism/",
+    "117. [Academic] Stanford Encyclopedia of Philosophy. 'Skepticism.' https://plato.stanford.edu/entries/skepticism/",
+    "118. [Academic] Internet Encyclopedia of Philosophy. 'Solipsism.' https://iep.utm.edu/solipsis/",
+    "119. [Commentary] Commentaries on Romans 2:15. Bible Hub. https://biblehub.com/commentaries/romans/2-15.htm",
+    "120. [Academic] Stanford Encyclopedia of Philosophy. 'Causal Determinism.' https://plato.stanford.edu/entries/determinism-causal/",
+    "121. [Academic] Stanford Encyclopedia of Philosophy. 'Compatibilism.' https://plato.stanford.edu/entries/compatibilism/",
+    "122. [Academic] Stanford Encyclopedia of Philosophy. 'Dualism.' https://plato.stanford.edu/entries/dualism/",
+    "123. [Academic] Stanford Encyclopedia of Philosophy. 'Epiphenomenalism.' https://plato.stanford.edu/entries/epiphenomenalism/",
+    "124. [Academic] Stanford Encyclopedia of Philosophy. 'Panpsychism.' https://plato.stanford.edu/entries/panpsychism/",
+    "125. [Academic] Stanford Encyclopedia of Philosophy. 'Confucius.' https://plato.stanford.edu/entries/confucius/",
+    "126. [Academic] Stanford Encyclopedia of Philosophy. 'Confucianism.' https://plato.stanford.edu/entries/confucianism/",
+    "127. [Academic] Stanford Encyclopedia of Philosophy. 'Mencius.' https://plato.stanford.edu/entries/mencius/",
+    "128. [Commentary] Commentaries on Matthew 7:12. Bible Hub. https://biblehub.com/commentaries/matthew/7-12.htm",
+    "129. [Academic] Stanford Encyclopedia of Philosophy. 'Daoism.' https://plato.stanford.edu/entries/daoism/",
+    "130. [Academic] Stanford Encyclopedia of Philosophy. 'Laozi.' https://plato.stanford.edu/entries/laozi/",
+    "131. [Academic] Stanford Encyclopedia of Philosophy. 'Zhuangzi.' https://plato.stanford.edu/entries/zhuangzi/",
+    "132. [Academic] Stanford Encyclopedia of Philosophy. 'Mohism.' https://plato.stanford.edu/entries/mohism/",
+    "133. [Wikipedia] Mohism. https://en.wikipedia.org/wiki/Mohism",
+    "134. [Wikipedia] Legalism (Chinese philosophy). https://en.wikipedia.org/wiki/Legalism_(Chinese_philosophy)",
+    "135. [Academic] Internet Encyclopedia of Philosophy. 'Confucius.' https://iep.utm.edu/confuciu/",
+    "136. [Academic] Stanford Encyclopedia of Philosophy. 'Buddha.' https://plato.stanford.edu/entries/buddha/",
+    "137. [Academic] Stanford Encyclopedia of Philosophy. 'Madhyamaka.' https://plato.stanford.edu/entries/madhyamaka/",
+    "138. [Academic] Stanford Encyclopedia of Philosophy. 'Nagarjuna.' https://plato.stanford.edu/entries/nagarjuna/",
+    "139. [Academic] Stanford Encyclopedia of Philosophy. 'Shankara.' https://plato.stanford.edu/entries/shankara/",
+    "140. [Academic] Internet Encyclopedia of Philosophy. 'Advaita Vedanta.' https://iep.utm.edu/advaita/",
+    "141. [Wikipedia] Indian philosophy. https://en.wikipedia.org/wiki/Indian_philosophy",
+    "142. [Wikipedia] Charvaka. https://en.wikipedia.org/wiki/Charvaka",
+    "143. [Encyclopedia] Encyclopaedia Britannica. 'Carvaka.' https://www.britannica.com/topic/Carvaka",
+    "144. [Commentary] Commentaries on Isaiah 53:1. Bible Hub. https://biblehub.com/commentaries/isaiah/53-1.htm",
+    "145. [Commentary] Commentaries on Psalm 139:13. Bible Hub. https://biblehub.com/commentaries/psalms/139-13.htm",
+    "146. [Academic] Stanford Encyclopedia of Philosophy. 'Monism.' https://plato.stanford.edu/entries/monism/",
+    "147. [Academic] Stanford Encyclopedia of Philosophy. 'Pantheism and Panentheism.' https://plato.stanford.edu/entries/pantheism/",
+    "148. [Academic] Stanford Encyclopedia of Philosophy. 'Parmenides.' https://plato.stanford.edu/entries/parmenides/",
+    "149. [Academic] Stanford Encyclopedia of Philosophy. 'Ralph Waldo Emerson.' https://plato.stanford.edu/entries/emerson/",
+    "150. [Wikipedia] Transcendentalism. https://en.wikipedia.org/wiki/Transcendentalism",
+    "151. [Wikipedia] New Age. https://en.wikipedia.org/wiki/New_Age",
+    "152. [Primary Source] Pontifical Councils. Jesus Christ the Bearer of the Water of Life. Holy See. https://www.vatican.va/roman_curia/pontifical_councils/interelg/documents/rc_pc_interelg_doc_20030203_new-age_en.html",
+    "153. [Academic] Stanford Encyclopedia of Philosophy. 'Panentheism.' https://plato.stanford.edu/entries/panentheism/",
+    "154. [Academic] Stanford Encyclopedia of Philosophy. 'Alfred North Whitehead.' https://plato.stanford.edu/entries/whitehead/",
+    "155. [Commentary] Commentaries on Romans 1:25. Bible Hub. https://biblehub.com/commentaries/romans/1-25.htm",
+    "156. [Commentary] Commentaries on John 17:21. Bible Hub. https://biblehub.com/commentaries/john/17-21.htm",
+    "157. [Academic] Stanford Encyclopedia of Philosophy. 'Ibn Sina (Avicenna).' https://plato.stanford.edu/entries/ibn-sina/",
+    "158. [Academic] Stanford Encyclopedia of Philosophy. 'Al-Ghazali.' https://plato.stanford.edu/entries/al-ghazali/",
+    "159. [Academic] Stanford Encyclopedia of Philosophy. 'Ibn Rushd (Averroes).' https://plato.stanford.edu/entries/ibn-rushd/",
+    "160. [Academic] Stanford Encyclopedia of Philosophy. 'Maimonides.' https://plato.stanford.edu/entries/maimonides/",
+    "161. [Academic] Internet Encyclopedia of Philosophy. 'African Philosophy.' https://iep.utm.edu/african-philosophy/",
+    "162. [Wikipedia] Ubuntu philosophy. https://en.wikipedia.org/wiki/Ubuntu_philosophy",
+    "163. [Academic] Stanford Encyclopedia of Philosophy. 'Phenomenology.' https://plato.stanford.edu/entries/phenomenology/",
+    "164. [Academic] Stanford Encyclopedia of Philosophy. 'Edmund Husserl.' https://plato.stanford.edu/entries/husserl/",
+    "165. [Academic] Stanford Encyclopedia of Philosophy. 'Bertrand Russell.' https://plato.stanford.edu/entries/russell/",
+    "166. [Academic] Stanford Encyclopedia of Philosophy. 'Gottlob Frege.' https://plato.stanford.edu/entries/frege/",
+    "167. [Academic] Stanford Encyclopedia of Philosophy. 'Process Philosophy.' https://plato.stanford.edu/entries/process-philosophy/",
+    "168. [Academic] Stanford Encyclopedia of Philosophy. 'Critical Theory.' https://plato.stanford.edu/entries/critical-theory/",
+    "169. [Academic] Stanford Encyclopedia of Philosophy. 'Theodor Adorno.' https://plato.stanford.edu/entries/adorno/",
+    "170. [Academic] Stanford Encyclopedia of Philosophy. 'Hedonism.' https://plato.stanford.edu/entries/hedonism/",
+    "171. [Academic] Stanford Encyclopedia of Philosophy. 'The Cyrenaics.' https://plato.stanford.edu/entries/cyrenaics/",
+    "172. [Academic] Stanford Encyclopedia of Philosophy. 'Max Stirner.' https://plato.stanford.edu/entries/max-stirner/",
+    "173. [Academic] Stanford Encyclopedia of Philosophy. 'Egoism.' https://plato.stanford.edu/entries/egoism/",
+    "174. [Academic] Stanford Encyclopedia of Philosophy. 'Ayn Rand.' https://plato.stanford.edu/entries/ayn-rand/",
+    "175. [Wikipedia] Transhumanism. https://en.wikipedia.org/wiki/Transhumanism",
+    "176. [Academic] Nick Bostrom. A History of Transhumanist Thought. https://nickbostrom.com/papers/history.pdf",
+    "177. [Academic] Stanford Encyclopedia of Philosophy. 'Liberalism.' https://plato.stanford.edu/entries/liberalism/",
+    "178. [Academic] Stanford Encyclopedia of Philosophy. 'Conservatism.' https://plato.stanford.edu/entries/conservatism/",
+    "179. [Academic] Stanford Encyclopedia of Philosophy. 'Edmund Burke.' https://plato.stanford.edu/entries/burke/",
+    "180. [Academic] Stanford Encyclopedia of Philosophy. 'Socialism.' https://plato.stanford.edu/entries/socialism/",
+    "181. [Academic] Stanford Encyclopedia of Philosophy. 'Libertarianism.' https://plato.stanford.edu/entries/libertarianism/",
+    "182. [Academic] Stanford Encyclopedia of Philosophy. 'Anarchism.' https://plato.stanford.edu/entries/anarchism/",
+    "183. [Academic] Stanford Encyclopedia of Philosophy. 'Nationalism.' https://plato.stanford.edu/entries/nationalism/",
+    "184. [Academic] Stanford Encyclopedia of Philosophy. 'Political Obligation.' https://plato.stanford.edu/entries/political-obligation/",
+    "185. [Academic] Stanford Encyclopedia of Philosophy. 'Justice.' https://plato.stanford.edu/entries/justice/",
+    "186. [Academic] Stanford Encyclopedia of Philosophy. 'Religion and Morality.' https://plato.stanford.edu/entries/religion-morality/"
   ],
   lastUpdated: "05-11-2026",
 }
