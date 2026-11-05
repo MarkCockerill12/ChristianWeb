@@ -232,7 +232,7 @@ The offer set against hell is God himself. Salvation does not depend on merit or
       id: "universalism-heresy",
       title: "What About Universalism?",
       tags: ["Duration"],
-      content: `**Will everyone eventually be saved?** Christian universalism holds that God will finally save all people, emptying hell[^139][^140]. Origen taught a final restoration (*apokatastasis* (ἀποκατάστασις, restoration)) and Gregory of Nyssa expressed a similar hope[^141][^142][^143][^144][^141]. Origenist teaching was condemned at Constantinople in 543 and again in 553, when the bishops of the Second Council of Constantinople signed canons against it, most likely just before the council formally opened[^145][^143]. The church's creeds and confessions have consistently taught the finality of judgment.
+      content: `**Will everyone eventually be saved?** Christian universalism holds that God will finally save all people, emptying hell[^139][^140]. Origen taught a final restoration (*apokatastasis* (ἀποκατάστασις, restoration)) and Gregory of Nyssa expressed a similar hope[^141][^142][^143][^144][^141]. Origenist teaching was condemned at Constantinople in 543 and again in 553, when the bishops of the Second Council of Constantinople signed canons against it, most likely just before the council formally opened[^145][^143][^141]. The church's creeds and confessions have consistently taught the finality of judgment.
 
 • **Finality of judgment:** Hebrews 9:27 states that "it is appointed for man to die once, and after that comes judgment", which the historic churches have read as excluding second chances after death[^146].
 

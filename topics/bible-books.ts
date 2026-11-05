@@ -180,7 +180,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "major-prophets",
       title: "Old Testament: Major Prophets",
       tags: ["Old Testament", "Prophets"],
-      content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^20].
+      content: `The major prophets address the judgment and restoration of Judah, and contain the most extended messianic material in the Old Testament[^20][^21].
 
 
 ### Isaiah
@@ -214,7 +214,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "minor-prophets",
       title: "Old Testament: Minor Prophets",
       tags: ["Old Testament", "Prophets"],
-      content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^21].
+      content: `The twelve minor prophets span the eighth to the fifth centuries BC, addressing both the northern and southern kingdoms and the post-exilic community[^22][^23].
 
 
 ### Hosea
@@ -283,7 +283,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "gospels-and-acts",
       title: "New Testament: The Gospels and Acts",
       tags: ["New Testament", "Gospels"],
-      content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^22][^23].
+      content: `The four Gospels present the life, death and resurrection of Jesus from complementary perspectives, and Acts continues the account into the spread of the early church[^24][^25].
 
 
 ### Matthew
@@ -319,7 +319,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "pauline-epistles",
       title: "New Testament: The Pauline Epistles",
       tags: ["New Testament", "Letters"],
-      content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^24].
+      content: `The letters attributed to Paul address specific congregations and individuals, setting out the doctrinal and practical implications of the gospel[^26][^27].
 
 
 <?viz bible-books/letters-map?>
@@ -395,7 +395,7 @@ The Bible is a collection of 66 books written by more than forty authors across 
       id: "general-epistles-and-revelation",
       title: "New Testament: General Epistles and Revelation",
       tags: ["New Testament", "Letters"],
-      content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^25].
+      content: `The general epistles address the wider church rather than named congregations, and Revelation closes the canon with the consummation of all things[^28][^29].
 
 
 ### Hebrews
@@ -469,11 +469,15 @@ The Bible is a collection of 66 books written by more than forty authors across 
     "18. [Wikipedia] Historical books. Joshua through Esther in the Christian Old Testament. https://en.wikipedia.org/wiki/Historical_books",
     "19. [Wikipedia] Poetic Books. Job, Psalms, Proverbs, Ecclesiastes and Song of Songs. https://en.wikipedia.org/wiki/Poetic_Books",
     "20. [Wikipedia] Major prophet. Isaiah, Jeremiah, Lamentations, Ezekiel and Daniel. https://en.wikipedia.org/wiki/Major_prophet",
-    "21. [Wikipedia] Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
-    "22. [Encyclopedia] 'Synoptics.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/14389b.htm",
-    "23. [Wikipedia] 'Synoptic Gospels.' https://en.wikipedia.org/wiki/Synoptic_Gospels",
-    "24. [Wikipedia] Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
-    "25. [Wikipedia] Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles"
+    "21. [Apologetics] Who were the major prophets? GotQuestions.org. https://www.gotquestions.org/major-prophets.html",
+    "22. [Wikipedia] Twelve Minor Prophets. The twelve shorter prophetic books and their dating. https://en.wikipedia.org/wiki/Minor_prophets",
+    "23. [Apologetics] Who were the minor prophets? GotQuestions.org. https://www.gotquestions.org/minor-prophets.html",
+    "24. [Encyclopedia] 'Synoptics.' Catholic Encyclopedia (1913), New Advent. https://www.newadvent.org/cathen/14389b.htm",
+    "25. [Wikipedia] 'Synoptic Gospels.' https://en.wikipedia.org/wiki/Synoptic_Gospels",
+    "26. [Wikipedia] Pauline epistles. Contents, ordering and occasion of the letters. https://en.wikipedia.org/wiki/Pauline_epistles",
+    "27. [Apologetics] What are the Pauline epistles? GotQuestions.org. https://www.gotquestions.org/Pauline-epistles.html",
+    "28. [Wikipedia] Catholic epistles. The general letters from James through Jude. https://en.wikipedia.org/wiki/Catholic_epistles",
+    "29. [Apologetics] What are the general epistles? GotQuestions.org. https://www.gotquestions.org/general-epistles.html"
   ],
   lastUpdated: "30-10-2026"
 }

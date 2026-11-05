@@ -64,7 +64,7 @@ Several arguments are offered for libertarian freedom, each carrying force and e
       content: `
 The most significant implication of free will concerns moral responsibility[^20][^21].
 
-*   **Justice presupposes agency.** Human legal systems distinguish the culpable from the coerced and the sane from the incapacitated, distinctions that make sense only if some agents genuinely control their actions[^25].
+*   **Justice presupposes agency.** Human legal systems distinguish the culpable from the coerced and the sane from the incapacitated, distinctions that make sense only if some agents genuinely control their actions[^25][^20].
 *   **Divine judgment presupposes it.** Scripture depicts God assessing thoughts, intentions and deliberate acts, judging with equity, which requires that the acts be genuinely the person's own[^26].
 *   **Final separation as ratification.** Eternal separation from God is widely read as the confirmation of a sustained and freely maintained rejection rather than an arbitrary sentence, a reading more natural on libertarian assumptions than on compatibilist ones[^27].
 
@@ -112,7 +112,7 @@ This is the central disagreement within Christian theology, and both positions a
 
 **Compatibilism** holds that a person acts freely when acting according to their own desires without external coercion, even if those desires were themselves determined. It is associated with the Reformed tradition and was defended in various forms by Francis Turretin and Jonathan Edwards, with Calvin often read the same way, though scholars debate whether his view fits the modern category[^43]. The principal objection is that if God determines the desires producing sinful choices, distancing God from the authorship of sin becomes difficult, and compatibilists answer with distinctions between primary and secondary causation and between permitting and causing[^44].
 
-The Reformed position developed within a longer controversy running from Pelagianism and the response to it through to the Synod of Dort, and the categories of prevenient grace, total depravity and irresistible grace belong to that history[^45][^46][^47]. Arminian theology occupies the corresponding position on the other side, affirming that grace enables a genuine choice that can be resisted[^48].
+The Reformed position developed within a longer controversy running from Pelagianism and the response to it through to the Synod of Dort, and the categories of prevenient grace, total depravity and irresistible grace belong to that history[^45][^46][^47]. Arminian theology occupies the corresponding position on the other side, affirming that grace enables a genuine choice that can be resisted[^48][^49].
 `
     },
     {
@@ -120,16 +120,16 @@ The Reformed position developed within a longer controversy running from Pelagia
       title: "The Molinist Approach and Middle Knowledge",
       tags: ["Sovereignty"],
       content: `
-Molinism, developed by the sixteenth-century Jesuit Luis de Molina, proposes a third way[^49][^50].
+Molinism, developed by the sixteenth-century Jesuit Luis de Molina, proposes a third way[^50][^51].
 
 <?viz free-will/molinist-order?>
 
 
-God possesses three kinds of knowledge. Natural knowledge covers everything that could be, free knowledge covers everything that will be, and between them lies middle knowledge, covering what any free creature would freely do in any given circumstance. These are the counterfactuals of creaturely freedom[^51][^52].
+God possesses three kinds of knowledge. Natural knowledge covers everything that could be, free knowledge covers everything that will be, and between them lies middle knowledge, covering what any free creature would freely do in any given circumstance. These are the counterfactuals of creaturely freedom[^52][^53].
 
-By choosing to actualise a world whose full set of counterfactuals He knows, God ensures that His purposes are achieved entirely through genuinely free decisions[^53]. Applied to prophecy, this explains how God could know with certainty that Peter would deny Christ three times without causing it, since God knew what Peter would freely do in exactly those circumstances[^54].
+By choosing to actualise a world whose full set of counterfactuals He knows, God ensures that His purposes are achieved entirely through genuinely free decisions[^54]. Applied to prophecy, this explains how God could know with certainty that Peter would deny Christ three times without causing it, since God knew what Peter would freely do in exactly those circumstances[^55].
 
-The principal objection is the grounding problem. What makes a counterfactual of creaturely freedom true prior to God's decision to create? It cannot be God's will, or the choices are determined after all, and it cannot be the creature's actual choice, since the creature does not yet exist[^52][^55]. The debate traces back to medieval discussions of future contingents and the longstanding puzzle of reconciling infallible foreknowledge with freedom[^55][^56].
+The principal objection is the grounding problem. What makes a counterfactual of creaturely freedom true prior to God's decision to create? It cannot be God's will, or the choices are determined after all, and it cannot be the creature's actual choice, since the creature does not yet exist[^53][^56]. The debate traces back to medieval discussions of future contingents and the longstanding puzzle of reconciling infallible foreknowledge with freedom[^56][^57].
 `
     },
     {
@@ -137,7 +137,7 @@ The principal objection is the grounding problem. What makes a counterfactual of
       title: "Sovereignty and Concurrence",
       tags: ["Sovereignty"],
       content: `
-Scripture asserts both truths without resolving the mechanism, and the doctrine of concurrence names that fact[^57].
+Scripture asserts both truths without resolving the mechanism, and the doctrine of concurrence names that fact[^58][^59].
 
 <?viz free-will/tulip?>
 
@@ -145,13 +145,13 @@ Scripture asserts both truths without resolving the mechanism, and the doctrine 
 <?viz free-will/systems?>
 
 
-*   **Joseph.** His brothers acted from genuine malice and bear the guilt, and Joseph nonetheless states that what they intended for harm God intended for good. One event receives two complete descriptions[^58].
-*   **The cross.** Acts 2:23 holds together God's deliberate plan and foreknowledge and the culpability of those who carried out the execution in a single sentence, and Acts 4:27-28 states that they did what God's power and will had decided beforehand[^59].
-*   **Paul's instruction.** Believers are told to work out their own salvation with fear and trembling precisely because it is God who works in them to will and to act, so the human effort is grounded in divine working rather than opposed to it[^60].
+*   **Joseph.** His brothers acted from genuine malice and bear the guilt, and Joseph nonetheless states that what they intended for harm God intended for good. One event receives two complete descriptions[^60].
+*   **The cross.** Acts 2:23 holds together God's deliberate plan and foreknowledge and the culpability of those who carried out the execution in a single sentence, and Acts 4:27-28 states that they did what God's power and will had decided beforehand[^61].
+*   **Paul's instruction.** Believers are told to work out their own salvation with fear and trembling precisely because it is God who works in them to will and to act, so the human effort is grounded in divine working rather than opposed to it[^62].
 
-God is described as doing whatever pleases Him and as declaring the end from the beginning, while human beings are treated throughout as fully responsible agents whose choices have real effect[^61][^62]. Concurrence holds that an action is entirely the agent's own and simultaneously entirely under God's providential governance, which describes what Scripture affirms rather than explaining how it operates[^30].
+God is described as doing whatever pleases Him and as declaring the end from the beginning, while human beings are treated throughout as fully responsible agents whose choices have real effect[^63][^64]. Concurrence holds that an action is entirely the agent's own and simultaneously entirely under God's providential governance, which describes what Scripture affirms rather than explaining how it operates[^30].
 
-Collapsing the tension in either direction carries practical cost. Fatalism breeds passivity, and a God whose purposes depend on human cooperation is not the God of Scripture. Holding both sustains urgent action alongside genuine rest[^63].
+Collapsing the tension in either direction carries practical cost. Fatalism breeds passivity, and a God whose purposes depend on human cooperation is not the God of Scripture. Holding both sustains urgent action alongside genuine rest[^65].
 
 **See also:** [Why Pray if God Already Has a Plan? (Prayer)](/categories/prayer#section-why-pray).
 `
@@ -206,21 +206,23 @@ Collapsing the tension in either direction carries practical cost. Fatalism bree
     "46. [Wikipedia] Synod of Dort. The assembly that formalised the Reformed response to Arminianism. https://en.wikipedia.org/wiki/Synod_of_Dort",
     "47. [Wikipedia] 'Semi-Pelagianism.' https://en.wikipedia.org/wiki/Semi-Pelagianism",
     "48. [Wikipedia] Five Articles of Remonstrance. The Arminian statement of the disputed points. https://en.wikipedia.org/wiki/Five_Articles_of_Remonstrance",
-    "49. [Academic] Freddoso. Molina, Luis de (1535–1600). Routledge Encyclopedia of Philosophy https://doi.org/10.4324/9780415249126-c024-1",
-    "50. [Wikipedia] 'Luis de Molina.' https://en.wikipedia.org/wiki/Luis_de_Molina",
-    "51. [Apologetics] GotQuestions.org. What is Molinism? Introduction to middle knowledge. https://www.gotquestions.org/Molinism.html",
-    "52. [Academic] Internet Encyclopedia of Philosophy. Middle Knowledge (the grounding objection). https://iep.utm.edu/middlekn/",
-    "53. [Academic] Stanford Encyclopedia of Philosophy. Foreknowledge and Free Will. The problem of infallible foreknowledge. https://plato.stanford.edu/entries/free-will-foreknowledge/",
-    "54. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Molinism.' https://www.newadvent.org/cathen/10437a.htm",
-    "55. [Academic] Stanford Encyclopedia of Philosophy. Medieval Theories of Future Contingents. Historical background. https://plato.stanford.edu/entries/medieval-futcont/",
-    "56. [Academic] Internet Encyclopedia of Philosophy. Foreknowledge and Free Will. Academic treatment of the surrounding problems. https://iep.utm.edu/foreknow/",
-    "57. [Wikipedia] Divine providence (concursus dei). https://en.wikipedia.org/wiki/Divine_providence",
-    "58. [Commentary] Bible Hub. Genesis 50:20 Commentaries. https://biblehub.com/commentaries/genesis/50-20.htm",
-    "59. [Lexicon] Bible Hub. Greek 4309, proorizo, the verb rendered predestine. https://biblehub.com/greek/4309.htm",
-    "60. [Commentary] Bible Hub. 'Commentaries on Philippians 2:13.' https://biblehub.com/commentaries/philippians/2-13.htm",
-    "61. [Wikipedia] Attributes of God in Christianity. The classical attributes and their scriptural basis. https://en.wikipedia.org/wiki/Attributes_of_God_in_Christianity",
-    "62. [Commentary] Commentaries on Isaiah 46:10. Bible Hub. https://biblehub.com/commentaries/isaiah/46-10.htm",
-    "63. [Wikipedia] Fatalism. The position distinguished from providence, and its practical effect. https://en.wikipedia.org/wiki/Fatalism"
+    "49. [Apologetics] What is Arminianism? GotQuestions.org. https://www.gotquestions.org/arminianism.html",
+    "50. [Academic] Freddoso. Molina, Luis de (1535–1600). Routledge Encyclopedia of Philosophy https://doi.org/10.4324/9780415249126-c024-1",
+    "51. [Wikipedia] 'Luis de Molina.' https://en.wikipedia.org/wiki/Luis_de_Molina",
+    "52. [Apologetics] GotQuestions.org. What is Molinism? Introduction to middle knowledge. https://www.gotquestions.org/Molinism.html",
+    "53. [Academic] Internet Encyclopedia of Philosophy. Middle Knowledge (the grounding objection). https://iep.utm.edu/middlekn/",
+    "54. [Academic] Stanford Encyclopedia of Philosophy. Foreknowledge and Free Will. The problem of infallible foreknowledge. https://plato.stanford.edu/entries/free-will-foreknowledge/",
+    "55. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Molinism.' https://www.newadvent.org/cathen/10437a.htm",
+    "56. [Academic] Stanford Encyclopedia of Philosophy. Medieval Theories of Future Contingents. Historical background. https://plato.stanford.edu/entries/medieval-futcont/",
+    "57. [Academic] Internet Encyclopedia of Philosophy. Foreknowledge and Free Will. Academic treatment of the surrounding problems. https://iep.utm.edu/foreknow/",
+    "58. [Wikipedia] Divine providence (concursus dei). https://en.wikipedia.org/wiki/Divine_providence",
+    "59. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Divine Providence.' https://www.newadvent.org/cathen/12510a.htm",
+    "60. [Commentary] Bible Hub. Genesis 50:20 Commentaries. https://biblehub.com/commentaries/genesis/50-20.htm",
+    "61. [Lexicon] Bible Hub. Greek 4309, proorizo, the verb rendered predestine. https://biblehub.com/greek/4309.htm",
+    "62. [Commentary] Bible Hub. 'Commentaries on Philippians 2:13.' https://biblehub.com/commentaries/philippians/2-13.htm",
+    "63. [Wikipedia] Attributes of God in Christianity. The classical attributes and their scriptural basis. https://en.wikipedia.org/wiki/Attributes_of_God_in_Christianity",
+    "64. [Commentary] Commentaries on Isaiah 46:10. Bible Hub. https://biblehub.com/commentaries/isaiah/46-10.htm",
+    "65. [Wikipedia] Fatalism. The position distinguished from providence, and its practical effect. https://en.wikipedia.org/wiki/Fatalism"
   ],
   lastUpdated: "30-10-2026"
 }

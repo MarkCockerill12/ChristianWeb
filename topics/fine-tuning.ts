@@ -645,7 +645,7 @@ The scientific support for the second premise has grown. The universe has expand
 
       • **Chance:** Proponents argue that the relevant probabilities are too small for chance to be a reasonable explanation. The often-quoted 1 in 10¹²⁰ is the gap between quantum field theory's naive estimate and the observed cosmological constant, not a measured life-permitting tolerance, and probability estimates of this kind depend on assumptions about how the constants could have varied[^41].
 
-      • **Self-Organization:** There is no known physical mechanism or law that can generate the high levels of specified information seen in DNA from random chemical processes[^256].
+      • **Self-Organization:** There is no known physical mechanism or law that can generate the high levels of specified information seen in DNA from random chemical processes[^256][^237].
 
       **Modern Scientific Discoveries Consistent With Biblical Teaching:**
 

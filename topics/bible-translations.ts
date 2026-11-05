@@ -80,7 +80,7 @@ Publishers place their own versions on this spectrum. Crossway calls the ESV "es
 - **Philippians 1:8.** Paul longs for the Philippians with the *splanchna* (σπλάγχνα, inner parts) of Christ, literally the inner organs, which Greek treated as the seat of the emotions. The KJV renders it "in the bowels of Jesus Christ"; nearly every modern version has "with the affection of Christ Jesus"[^39][^40].
 - **Romans 12:1.** Paul addresses the church as *adelphoi* (ἀδελφοί, brothers), which Greek used for a mixed group as well as for men. The KJV and ESV have "brethren" or "brothers"; the NIV, CSB, NASB 2020 and NLT have "brothers and sisters"[^41][^42].
 
-Each approach carries a cost. A formal translation preserves the links between words and passages and leaves interpretation to the reader, but can produce English that is wooden or misleading. Crossway argues that thought-for-thought versions are more likely to carry the translator's interpretive views[^43][^44]. Functional translators answer that every translation interprets, and that clarity in the receptor language is itself a form of accuracy[^4].
+Each approach carries a cost. A formal translation preserves the links between words and passages and leaves interpretation to the reader, but can produce English that is wooden or misleading. Crossway argues that thought-for-thought versions are more likely to carry the translator's interpretive views[^43][^44]. Functional translators answer that every translation interprets, and that clarity in the receptor language is itself a form of accuracy[^4][^33].
 
 <?viz bible-translations/verse-comparer?>
 
@@ -170,7 +170,7 @@ The NIV is also the centre of the debate over gender language. Today's New Inter
       title: "Readable Versions and Paraphrases: NLT, GNT, The Message and the Amplified",
       tags: ["Modern versions"],
       content: `
-- **The Living Bible** (1971) is Kenneth Taylor's personal paraphrase of the 1901 American Standard Version, not a translation from the original languages[^36].
+- **The Living Bible** (1971) is Kenneth Taylor's personal paraphrase of the 1901 American Standard Version, not a translation from the original languages[^36][^37].
 - **The New Living Translation** (1996) began in 1989 as a revision of The Living Bible and became a new translation from the Hebrew and Greek by ninety scholars, with a second edition in 2004. Its translators aimed to render the text as literally as possible wherever that produced clear, natural English[^119][^120][^121][^122].
 - **The Good News Translation** (New Testament 1966, whole Bible 1976), from the American Bible Society, was built directly on Eugene Nida's dynamic equivalence theory[^123][^124][^125].
 - **The Message** (1993-2002) is Eugene Peterson's idiomatic rendering from the original languages, reviewed by a team of scholars. It sits at the far dynamic end of the spectrum and has been criticised for loose handling of the text, including rendering *kyrios* (κύριος, Lord) as "Master" where Jesus is called Lord[^126][^127].
@@ -273,7 +273,7 @@ The serious argument concerns the text, not the English. Its defenders, from Joh
 
 - **Psalm 12:7.** The pronoun "them" in the Hebrew is masculine, and "words" in verse 6 is feminine. The verse therefore promises to keep the afflicted poor of verse 5, as John Gill (a strong defender of the Hebrew text) points out, and as the ESV, NIV and CSB render it[^197][^198].
 - **The translators' own view.** The KJV translators wrote that "the very meanest translation of the Bible in English, set forth by men of our profession... containeth the word of God, nay, is the word of God"[^199].
-- **Which Textus Receptus, and which KJV?** The editions of Erasmus, Stephanus and Beza differ from one another in hundreds of places, and the KJV translators chose between them. The printed KJV has itself been revised, by Cambridge in 1629 and 1638 and by Oxford in 1769[^71][^65].
+- **Which Textus Receptus, and which KJV?** The editions of Erasmus, Stephanus and Beza differ from one another in hundreds of places, and the KJV translators chose between them. The printed KJV has itself been revised, by Cambridge in 1629 and 1638 and by Oxford in 1769[^71][^65][^66].
 - **The age of the evidence.** Erasmus's first edition rested on about eight Greek manuscripts, none of them early, and in places, as in Revelation 22, on no Greek manuscript at all[^168][^200].
 
 Preferring the KJV for its language, its liturgical history or its textual base is a legitimate choice. The claim that every other translation is corrupt goes beyond what the evidence, and the KJV translators themselves, support[^201][^192].
@@ -301,9 +301,9 @@ Any mainstream translation, Protestant or Catholic, formal or functional, teache
       content: `
 **"The Bible has been translated so many times it is like a game of telephone."** Modern translations are not translations of translations. Each goes back to the Hebrew and Greek, and the surviving manuscripts can be compared directly; thousands have been photographed and published online[^204].
 
-**"Modern versions remove verses to hide the deity of Christ."** The omitted verses are absent from the oldest manuscripts, not deleted for doctrinal reasons, and several modern versions call Christ "God" more directly than the KJV does, as in John 1:18[^154].
+**"Modern versions remove verses to hide the deity of Christ."** The omitted verses are absent from the oldest manuscripts, not deleted for doctrinal reasons, and several modern versions call Christ "God" more directly than the KJV does, as in John 1:18[^154][^156].
 
-**"Translators are biased."** Every translator brings convictions, which is why the major versions are made by committees, often from several denominations, and publish their textual basis and method. The sectarian versions are the exception: the NWT's translators remain anonymous[^140].
+**"Translators are biased."** Every translator brings convictions, which is why the major versions are made by committees, often from several denominations, and publish their textual basis and method. The sectarian versions are the exception: the NWT's translators remain anonymous[^140][^141].
 
 **"Which Bible did Jesus use?"** Jesus read the Hebrew Scriptures, and the New Testament writers often quote the Greek Septuagint, a translation, as the word of God[^205][^206].
 

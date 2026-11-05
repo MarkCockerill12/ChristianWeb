@@ -368,7 +368,7 @@ export const branches: Topic = {
 
       • **Celibate clergy:** Priests and bishops must remain unmarried (in the Latin Rite)[^29][^30]
 
-      **Historical Development:** Evolved from the early Catholic church with increasing papal authority, especially after the fall of the Western Roman Empire and the East-West Schism (1054 AD)[^31].
+      **Historical Development:** Evolved from the early Catholic church with increasing papal authority, especially after the fall of the Western Roman Empire and the East-West Schism (1054 AD)[^31][^14].
 
       **Distinctive Practices:** Mass, confession to priests, extensive liturgical calendar, Vatican authority, elaborate church hierarchy[^25][^26]`,
     },
@@ -652,7 +652,7 @@ export const branches: Topic = {
 
       • **Unity movement:** Seeks to unite all Christians by returning to biblical basics[^182][^179]
 
-      **Major Groups:** Churches of Christ, Christian Church (Disciples of Christ), and the independent Christian churches and churches of Christ[^183][^181].
+      **Major Groups:** Churches of Christ, Christian Church (Disciples of Christ), and the independent Christian churches and churches of Christ[^183][^181][^179].
 
       **Note:** Other groups like Latter-day Saints and Jehovah's Witnesses also originated in this period with a "restoration" goal, but are considered non-orthodox by mainstream Christianity (see 'Other Movements').[^184]`,
     },
