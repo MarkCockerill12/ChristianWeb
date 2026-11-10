@@ -9,6 +9,15 @@ import { StartHere } from "@/components/start-here"
 
 const whatsNewItems: UpdateItem[] = [
   {
+    id: 13,
+    title: "Over Twenty More Religions, and the Branches of Every Major Faith",
+    description:
+      "Other Religions now covers Maya and Aztec religion: the Popol Vuh, the gods, Xibalba and Mictlan, the Fifth Sun and human sacrifice, and the conquest and the friars who both burned and preserved their records. New sections set out the branches of Judaism (Pharisees, Sadducees and Essenes, Karaites, Hasidism, Orthodox, Conservative, Reform and Reconstructionist), the traditions and schools of Hinduism (Vaishnava, Shaiva, Shakta and Smarta, the six schools of philosophy, Advaita, Ramanuja and Madhva) and the branches of Buddhism (Theravada, Mahayana, Pure Land, Zen, Nichiren, Vajrayana and Navayana). Sikhism, Jainism, Confucianism, Taoism, Shinto and Zoroastrianism each gained a note on their branches, and the Islam topic has a new section on Sunni, Shia, Ismaili, Zaydi, Ibadi and Ahmadiyya Islam. Twenty more traditions were added to Other Religions: Canaanite religion (Baal, Asherah and Molech), the Samaritans, Chinese folk religion, Manichaeism, Gnosticism, African traditional religions with Santería and Candomblé, Slavic paganism, the Inca, the Druze, Yazidis and Mandaeans, the Unification Church, Falun Gong, Caodaism, Unitarian Universalism, Spiritism, Satanism, and the indigenous religions of North America, Australia and Polynesia. The Branches of Christianity page gained Eastern Catholic and Old Catholic churches, evangelicalism, the charismatic movement, the Plymouth Brethren, the Salvation Army, Oneness Pentecostalism, the Christadelphians, the Iglesia ni Cristo, African-initiated churches and the church in China. About 350 sources were added.",
+    date: "10/11/2026",
+    category: "Major Expansion",
+    link: "/categories/religions",
+  },
+  {
     id: 12,
     title: "Two New Topics: Philosophy and Christianity, and What If I Have Psychosis?",
     description:
