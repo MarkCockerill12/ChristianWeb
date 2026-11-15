@@ -274,8 +274,8 @@ export const ContentRenderer = React.memo(function ContentRenderer({
   if (!wrapInCard || segments.every((s) => s.kind === "viz")) return renderedContent
 
   return (
-    <Card className="mb-8 overflow-hidden shadow-xs hover:shadow-md transition-shadow duration-300">
-      <CardContent className="py-8 px-6 sm:px-8">{renderedContent}</CardContent>
+    <Card className="mb-6 py-0 sm:mb-8 overflow-hidden shadow-xs hover:shadow-md transition-shadow duration-300">
+      <CardContent className="py-5 px-4 sm:py-8 sm:px-8">{renderedContent}</CardContent>
     </Card>
   )
 })

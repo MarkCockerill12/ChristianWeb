@@ -13,6 +13,7 @@ import { ContentRenderer } from "@/components/content-renderer"
 import { TopicPopover } from "@/components/topic-popover"
 import { TopicPageContext, sectionDomId } from "@/components/topic-context"
 import { ChallengeQuestions } from "@/components/challenge-questions"
+import { PhoneSectionBar } from "@/components/phone-section-bar"
 import { LEVEL_MEANINGS } from "@/topics/extras/organisation"
 import type { Topic } from "@/topics/types"
 
@@ -87,7 +88,7 @@ function SubtopicSearch({
   readonly onSelectTag: (t: string | null) => void
 }) {
   return (
-    <div className="mb-6 space-y-4">
+    <div className="mb-4 space-y-3 sm:mb-6 sm:space-y-4">
       <input
         type="text"
         value={search}
@@ -97,16 +98,16 @@ function SubtopicSearch({
         }}
         placeholder="Search sections or tags..."
         aria-label="Search sections or tags"
-        className="w-full px-4 py-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400 text-base"
+        className="w-full px-3 py-2.5 sm:px-4 sm:py-3 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400 text-base"
       />
       {allTags.length > 0 && (
-        <div className="flex flex-wrap gap-2 justify-center sm:justify-start">
+        <div className="-mx-3 flex gap-2 overflow-x-auto px-3 pb-1 sm:mx-0 sm:flex-wrap sm:overflow-visible sm:px-0 sm:pb-0">
           {allTags.map((tag) => (
             <Button
               key={tag}
               variant={selectedTag === tag ? "default" : "outline"}
               size="sm"
-              className={`text-xs sm:text-sm ${selectedTag === tag ? "bg-blue-600 text-white" : ""}`}
+              className={`shrink-0 text-xs sm:text-sm ${selectedTag === tag ? "bg-blue-600 text-white" : ""}`}
               onClick={() => onSelectTag(selectedTag === tag ? null : tag)}
             >
               {tag}
@@ -164,8 +165,8 @@ const SubtopicCard = React.memo(function SubtopicCard({
     if (!expanded) panelRef.current?.setAttribute("hidden", "until-found")
   }, [expanded])
   return (
-    <Card id={sectionDomId(sub.id)} className="border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 scroll-mt-24">
-      <CardHeader className="flex flex-col">
+    <Card id={sectionDomId(sub.id)} className={`${expanded ? "gap-3" : "gap-0"} py-4 sm:gap-6 sm:py-6 border-l-4 border-purple-600 hover:shadow-lg transition-shadow duration-300 scroll-mt-24`}>
+      <CardHeader className="flex flex-col px-4 sm:px-6">
         <div className="flex flex-col gap-3">
           <h3 className="m-0">
             <button
@@ -175,11 +176,11 @@ const SubtopicCard = React.memo(function SubtopicCard({
               onClick={() => onToggle(sub.id)}
               className="flex w-full items-start justify-between gap-2 rounded text-left focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-blue-600"
             >
-              <span className="flex-1 text-lg font-semibold leading-tight text-purple-700">{sub.title}</span>
+              <span className="flex-1 text-base sm:text-lg font-semibold leading-tight text-purple-700">{sub.title}</span>
               {expanded ? <ChevronUp className="mt-1 h-4 w-4 flex-shrink-0" aria-hidden /> : <ChevronDown className="mt-1 h-4 w-4 flex-shrink-0" aria-hidden />}
             </button>
           </h3>
-          <div className="flex flex-wrap items-center gap-1">
+          <div className={`${expanded ? "flex" : "hidden sm:flex"} flex-wrap items-center gap-1`}>
             {sub.tags.map((tag) => (
               <Badge key={tag} variant="outline" className="text-xs">
                 {tag}
@@ -197,7 +198,7 @@ const SubtopicCard = React.memo(function SubtopicCard({
         id={panelId}
         data-subtopic-id={sub.id}
         hidden={!expanded}
-        className={expanded ? "py-4 text-gray-800" : "py-0 text-gray-800"}
+        className={`px-4 sm:px-6 text-gray-800 ${expanded ? "py-2 sm:py-4" : "py-0"}`}
       >
         <ContentRenderer content={sub.content} sources={sources} wrapInCard={false} />
       </CardContent>
@@ -244,7 +245,7 @@ function ReadingProgress() {
         <button
           type="button"
           onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-          className="fixed bottom-6 right-6 z-40 rounded-full bg-blue-600 p-3 text-white shadow-lg hover:bg-blue-700"
+          className="fixed bottom-6 right-6 z-40 hidden rounded-full bg-blue-600 p-3 text-white shadow-lg hover:bg-blue-700 sm:block"
           aria-label="Back to top"
         >
           <ArrowUp className="h-5 w-5" />
@@ -263,7 +264,7 @@ const CONTENTS_MIN_SECTIONS = 15
 /** Divides the overview from the sections, so each part of the page has one job. */
 function SectionHeading({ title }: { readonly title: string }) {
   return (
-    <div className="flex items-center gap-3 mt-10 mb-5">
+    <div className="flex items-center gap-3 mt-8 mb-4 sm:mt-10 sm:mb-5">
       <h2 className="text-xl sm:text-2xl font-bold text-gray-900 whitespace-nowrap">{title}</h2>
       <div className="h-px flex-1 bg-gray-200" aria-hidden />
     </div>
@@ -274,7 +275,7 @@ function SectionHeading({ title }: { readonly title: string }) {
 function TopicHero({ hero }: { readonly hero: NonNullable<Topic["hero"]> }) {
   return (
     <figure className="m-0 -mt-6">
-      <div className="relative h-44 sm:h-64 w-full overflow-hidden bg-gray-100">
+      <div className="relative h-36 sm:h-64 w-full overflow-hidden bg-gray-100">
         {hero.contain && (
           <Image src={hero.src} alt="" fill aria-hidden sizes="640px" className="object-cover scale-110 blur-xl opacity-70" />
         )}
@@ -288,7 +289,7 @@ function TopicHero({ hero }: { readonly hero: NonNullable<Topic["hero"]> }) {
           style={hero.contain ? undefined : { objectPosition: hero.position ?? "center" }}
         />
       </div>
-      <figcaption className="px-6 pt-2 text-[11px] leading-snug text-gray-500">
+      <figcaption className="px-4 sm:px-6 pt-2 text-[11px] leading-snug text-gray-500">
         {hero.caption}{" "}
         <a href={hero.sourceUrl} target="_blank" rel="noopener noreferrer" className="hover:underline">
           {hero.credit}, {hero.license}
@@ -309,7 +310,7 @@ function ContentsCard({
   const [open, setOpen] = useState(subtopics.length <= 12)
   const shown = open ? subtopics : subtopics.slice(0, 9)
   return (
-    <Card className="mb-8">
+    <Card className="mb-8 hidden sm:flex">
       <CardHeader className="pb-0">
         <CardTitle className="flex items-center gap-2 text-lg">
           <ListTree className="h-5 w-5 text-purple-600" />
@@ -473,9 +474,10 @@ export function TopicPage({
     <TopicPageContext.Provider value={context}>
     <ReadingProgress />
     <TopicPopover />
-    <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 py-8">
-      <div className="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="mb-6">
+    {subtopics.length > 1 && <PhoneSectionBar subtopics={subtopics} onOpen={openSection} />}
+    <div className="min-h-screen bg-linear-to-br from-blue-50 via-white to-purple-50 pt-3 pb-20 sm:py-8">
+      <div className="container max-w-7xl mx-auto px-3 sm:px-6 lg:px-8">
+        <div className="mb-2 sm:mb-6">
           <Button asChild variant="ghost">
             <Link href="/categories">
               <ArrowLeft className="h-4 w-4 mr-2" />
@@ -484,10 +486,10 @@ export function TopicPage({
           </Button>
         </div>
 
-        <Card className="mb-8 overflow-hidden">
+        <Card className="mb-5 gap-4 py-4 sm:mb-8 sm:gap-6 sm:py-6 overflow-hidden">
           {category.hero && <TopicHero hero={category.hero} />}
-          <CardHeader>
-            <div className="flex flex-wrap items-center gap-2 mb-4">
+          <CardHeader className="px-4 sm:px-6">
+            <div className="flex flex-wrap items-center gap-2 mb-2 sm:mb-4">
               {category.level && (
                 <span
                   className="rounded-full border border-blue-200 bg-blue-50 px-2.5 py-0.5 text-xs font-semibold text-blue-700"
@@ -497,7 +499,7 @@ export function TopicPage({
                 </span>
               )}
               {category.tags.map((tag) => (
-                <Badge key={tag} variant="secondary">
+                <Badge key={tag} variant="secondary" className="hidden sm:inline-flex">
                   {tag}
                 </Badge>
               ))}
@@ -505,8 +507,8 @@ export function TopicPage({
             <CardTitle className="text-fluid-3xl break-words hyphens-auto leading-tight">
               {category.title}
             </CardTitle>
-            <CardDescription className="text-lg">{category.description}</CardDescription>
-            <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-sm text-gray-500 mt-4">
+            <CardDescription className="text-base sm:text-lg">{category.description}</CardDescription>
+            <div className="flex flex-wrap items-center gap-x-5 gap-y-1 text-sm text-gray-500 mt-2 sm:mt-4">
               <span className="inline-flex items-center gap-2">
                 <Calendar className="h-4 w-4" />
                 Last updated: {category.lastUpdated}
@@ -520,9 +522,9 @@ export function TopicPage({
         </Card>
 
         {category.tldr && (
-          <Card className="mb-8 border-l-4 border-blue-600 bg-blue-50">
-            <CardHeader>
-              <CardTitle className="text-xl text-blue-700">TL;DR</CardTitle>
+          <Card className="mb-5 py-4 sm:mb-8 sm:py-6 border-l-4 border-blue-600 bg-blue-50">
+            <CardHeader className="px-4 sm:px-6">
+              <CardTitle className="text-lg sm:text-xl text-blue-700">TL;DR</CardTitle>
               <CardDescription className="text-md text-gray-700">{category.tldr}</CardDescription>
             </CardHeader>
           </Card>
@@ -549,7 +551,7 @@ export function TopicPage({
             {subtopics.length >= CONTENTS_MIN_SECTIONS && <ContentsCard subtopics={subtopics} onOpen={openSection} />}
 
             {subtopics.length > 1 && (
-              <div className="flex justify-end gap-2 mb-3">
+              <div className="flex justify-end gap-2 mb-2 sm:mb-3">
                 <Button variant="outline" size="sm" onClick={() => setExpanded(new Set(subtopics.map((s) => s.id)))}>
                   <ChevronDown className="h-4 w-4 mr-1" />
                   Expand all
