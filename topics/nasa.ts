@@ -147,9 +147,34 @@ The shadow moving backward on the steps of Ahaz has been explained by anomalous 
 
 Refraction remains a physically conceivable mechanism rather than a corroborated explanation. The narrative frames the event as a sign given at Hezekiah's request ([2 Kings 20:8-11](https://www.biblegateway.com/passage/?search=2+Kings+20%3A8-11&version=NIV)), a category that a natural mechanism does not obviously improve on.
 `
+    },
+    {
+      id: "wyatt-and-ararat",
+      title: "Ron Wyatt's Claims and the Ararat Anomaly",
+      tags: ["Archaeology"],
+      content: `
+Videos and posts claiming that Noah's Ark, Pharaoh's chariots or the Ark of the Covenant have been found circulate widely, and most of them trace back to two sources: Ron Wyatt and the "Ararat anomaly"[^51][^52][^53].
+
+**Ron Wyatt.** Wyatt (1933 to 1999) was an American nurse anaesthetist and amateur archaeologist who claimed a series of discoveries from the late 1970s onwards[^51][^53]:
+
+*   **Noah's Ark** at the Durupınar site, a boat-shaped formation about 30 kilometres from Mount Ararat.
+*   **Chariot wheels** on the floor of the Gulf of Aqaba, marking the Red Sea crossing.
+*   **Mount Sinai** at Jabal al-Lawz in Saudi Arabia.
+*   **The Ark of the Covenant** in a cave beneath the crucifixion site in Jerusalem, with Christ's blood on the mercy seat, which he said had 24 chromosomes instead of 46.
+
+None of these claims has been independently verified. No sample of the chariot wheels or the blood was ever submitted for independent testing, and no one else has been shown the Ark of the Covenant[^51][^53].
+
+**The Durupınar site.** The geologist Andrew Snelling, a young-earth creationist, examined the claims in 1992 and concluded that the site has a natural geological explanation. David Fasold, who had promoted the site with Wyatt, later co-wrote a 1996 paper with the geologist Lorence Collins concluding that the formation is a common geological structure[^53][^54]. Creationist organisations such as Creation Ministries International reject Wyatt's claims, so the criticism comes from Christians who would welcome a genuine find as well as from sceptics[^53][^51].
+
+**The Ararat anomaly.** A US Air Force reconnaissance flight in 1949 filmed a feature in the ice near the summit of Mount Ararat, then on the border with the Soviet Union. Six frames were released in 1995 to Porcher Taylor of the University of Richmond under the Freedom of Information Act, and later satellite images were taken of the same spot[^55][^52][^56]. Analysts disagree about the images. Farouk El-Baz of Boston University's Center for Remote Sensing said that all the images he had seen could be read as natural landforms, and that the feature looked to him like a ledge of rock in partial shadow under snow and ice. No one has reached and examined it on the ground[^55][^56].
+
+Claims like these spread because they promise proof. When they fail, they damage the credibility of the much stronger archaeological evidence for the Bible, which is why Christian archaeologists and creationist scientists have been among their sharpest critics[^53][^52].
+
+**See also:** [Archaeological Evidence](/categories/archaeological) and [Noah's Flood: Global, Regional or Local? (Evolution vs Creation)](/categories/evolution#section-the-flood).
+`
     }
   ],
-          sources: [
+              sources: [
     "1. [Reference] Five Millennium Catalog of Solar Eclipses. NASA GSFC eclipse database. https://eclipse.gsfc.nasa.gov/SEcat5/catalog.html",
     "2. [News] NPR. 'Study: Wind May Have Helped Moses Part Red Sea' (interview with Carl Drews, 26 September 2010). https://www.npr.org/transcripts/130112925",
     "3. [Creationist] Answers in Genesis. 'Have NASA Computers Proved Joshua's Long Day?' https://answersingenesis.org/creationism/arguments-to-avoid/have-nasa-computers-proved-joshuas-long-day/",
@@ -199,7 +224,13 @@ Refraction remains a physically conceivable mechanism rather than a corroborated
     "47. [Wikipedia] Novaya Zemlya effect. A documented extreme refraction phenomenon. https://en.wikipedia.org/wiki/Novaya_Zemlya_effect",
     "48. [Academic] 'Mirages and Green Flashes.' San Diego State University. https://aty.sdsu.edu/mirages/mirintro.html",
     "49. [Wikipedia] 'Mirage.' https://en.wikipedia.org/wiki/Mirage",
-    "50. [Wikipedia] 'Atmospheric Refraction.' Magnitude of ordinary refraction near the horizon. https://en.wikipedia.org/wiki/Atmospheric_refraction"
+    "50. [Wikipedia] 'Atmospheric Refraction.' Magnitude of ordinary refraction near the horizon. https://en.wikipedia.org/wiki/Atmospheric_refraction",
+    "51. [Wikipedia] 'Ron Wyatt.' His claims and their reception. https://en.wikipedia.org/wiki/Ron_Wyatt",
+    "52. [Wikipedia] 'Searches for Noah's Ark.' https://en.wikipedia.org/wiki/Searches_for_Noah%27s_Ark",
+    "53. [Christian Source] Creation Ministries International. Andrew Snelling, 'Special report: Amazing Ark expose' (1992). https://creation.com/en/articles/special-report-amazing-ark-expose-1992",
+    "54. [Wikipedia] 'Durupinar site.' Including the 1996 Collins and Fasold paper. https://en.wikipedia.org/wiki/Durup%C4%B1nar_site",
+    "55. [Wikipedia] 'Ararat anomaly.' https://en.wikipedia.org/wiki/Ararat_anomaly",
+    "56. [News] NBC News (2006). 'Satellite sleuth closes in on Noah's Ark mystery.' Including Farouk El-Baz's assessment. https://www.nbcnews.com/id/wbna11747932"
   ],
   lastUpdated: "30-10-2026"
 }

@@ -3,7 +3,6 @@
 import { BarChart, RangeChart } from "@/components/visuals/charts"
 import { CompareTable, Rich, VisualCard } from "@/components/visuals/kit"
 import { WorldMap } from "@/components/visuals/geo"
-import { Gallery } from "@/components/visuals/figure"
 import { WORLD } from "@/components/visuals/maps/world"
 import BY_COUNTRY from "@/visuals/data/religion-by-country.json"
 import { useTopicPage } from "@/components/topic-context"
@@ -244,44 +243,11 @@ function Timeline() {
   )
 }
 
-function AncientGallery() {
-  return (
-    <VisualCard title="The two oldest religions on record" subtitle="A worshipper from Sumer, placed in a temple to pray on the owner's behalf, and the Egyptian judgment of the dead.">
-      <Gallery
-        columns={2}
-        images={[
-          {
-            src: "/images/religions/worshipper.jpg",
-            width: 800,
-            height: 1267,
-            alt: "Small stone statue of a standing man with clasped hands and wide eyes",
-            caption: "A Sumerian worshipper, Early Dynastic period (c. 2900-2350 BC), Metropolitan Museum of Art.",
-            credit: "Metropolitan Museum of Art",
-            license: "CC0",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Standing_male_worshiper_MET_DT850.jpg",
-          },
-          {
-            src: "/images/religions/hunefer.jpg",
-            width: 1000,
-            height: 771,
-            alt: "Egyptian papyrus painting of a heart being weighed against a feather",
-            caption: "The weighing of the heart, Papyrus of Hunefer, c. 1300 BC, British Museum.",
-            credit: "Hunefer",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:BD_Hunefer_cropped_1.jpg",
-          },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
 const VISUALS: Record<string, () => React.JSX.Element> = {
   shares: Shares,
   map: ReligionMap,
   comparison: Comparison,
   timeline: Timeline,
-  "ancient-gallery": AncientGallery,
 }
 
 export default function Visuals({ name }: { readonly name: string }) {

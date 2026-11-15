@@ -312,8 +312,12 @@ body {
   .viz-passage,
   .viz-step,
   .viz-toggle,
-  .viz-figure .border {
+  .viz-figure .border,
+  .viz-inline-figure {
     border-color: var(--viz-border);
+  }
+  .viz-inline-figure {
+    background: var(--viz-plane);
   }
   .viz-info,
   .viz-passage,

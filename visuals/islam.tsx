@@ -198,7 +198,89 @@ function Manuscripts() {
   )
 }
 
+type Branch = { readonly name: string; readonly share?: string; readonly note: string; readonly color: string; readonly children?: ReadonlyArray<{ readonly name: string; readonly note: string }> }
+
+const BRANCHES: readonly Branch[] = [
+  {
+    name: "Sunni",
+    share: "87 to 90%",
+    note: "Leaders chosen by the community, beginning with Abu Bakr",
+    color: "var(--viz-1)",
+    children: [
+      { name: "Hanafi, Maliki, Shafi'i, Hanbali", note: "Four schools of law, each accepted by the others" },
+      { name: "Ash'ari, Maturidi, Athari", note: "Approaches to theology" },
+    ],
+  },
+  {
+    name: "Shia",
+    share: "10 to 13%",
+    note: "Leadership belongs to Ali and his descendants, the imams",
+    color: "var(--viz-3)",
+    children: [
+      { name: "Twelvers", note: "About 85% of Shia; twelve imams, the last in hiding since 874" },
+      { name: "Ismailis", note: "Nizaris under the Aga Khan, and the Dawoodi Bohras" },
+      { name: "Zaydis", note: "Northern Yemen; closest of the Shia to Sunni law" },
+    ],
+  },
+  {
+    name: "Ibadi",
+    note: "Neither Sunni nor Shia; from an early movement that broke with Ali. Most of Oman",
+    color: "var(--viz-4)",
+  },
+]
+
+function Branches() {
+  return (
+    <VisualCard
+      title="The branches of Islam"
+      subtitle="How the main groups divide, with shares of the world's Muslims. Sufism runs across the branches rather than forming one of its own."
+      sources={[
+        { label: "Pew Research Center, \"The World's Muslims: Unity and Diversity\" (2012)", url: "https://www.pewresearch.org/religion/2012/08/09/the-worlds-muslims-unity-and-diversity-executive-summary/" },
+        { label: "Britannica, \"Shiʿi\"", url: "https://www.britannica.com/topic/Shiite" },
+        { label: "Britannica, \"Ithna Ashariyyah\"", url: "https://www.britannica.com/topic/Ithna-Ashariyyah" },
+        { label: "Britannica, \"Ibadiyyah\"", url: "https://www.britannica.com/topic/Ibadiyyah" },
+        { label: "Britannica, \"Ahmadiyyah\"", url: "https://www.britannica.com/topic/Ahmadiyyah" },
+      ]}
+    >
+      <div className="mx-auto w-max max-w-full rounded-lg border px-4 py-2 text-center text-sm font-semibold text-[color:var(--viz-ink)]">
+        Islam, after Muhammad&apos;s death in 632
+      </div>
+      <div className="mx-auto h-4 w-px bg-[color:var(--viz-axis)]" aria-hidden />
+      <ul className="m-0 grid list-none gap-3 p-0 sm:grid-cols-3">
+        {BRANCHES.map((b) => (
+          <li key={b.name} className="m-0 rounded-lg border p-3" style={{ borderTop: `4px solid ${b.color}` }}>
+            <div className="flex items-baseline justify-between gap-2">
+              <span className="text-base font-semibold text-[color:var(--viz-ink)]">{b.name}</span>
+              {b.share && <span className="text-sm font-semibold tabular-nums" style={{ color: b.color }}>{b.share}</span>}
+            </div>
+            <p className="mt-1 mb-0 text-[13px] leading-snug text-[color:var(--viz-ink-2)]">{b.note}</p>
+            {b.children && (
+              <ul className="mt-3 mb-0 flex list-none flex-col gap-2 border-l-2 pl-3" style={{ borderColor: b.color }}>
+                {b.children.map((c) => (
+                  <li key={c.name} className="m-0 pl-3">
+                    <span className="block text-[13px] font-semibold text-[color:var(--viz-ink)]">{c.name}</span>
+                    <span className="block text-xs leading-snug text-[color:var(--viz-muted)]">{c.note}</span>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </li>
+        ))}
+      </ul>
+      <div className="mt-3 grid gap-3 sm:grid-cols-2">
+        <div className="rounded-lg border border-dashed p-3 text-[13px] leading-snug text-[color:var(--viz-ink-2)]">
+          <span className="font-semibold text-[color:var(--viz-ink)]">Sufism</span>: the mystical tradition, organised in orders around a master, found among both Sunni and Shia.
+        </div>
+        <div className="rounded-lg border border-dashed p-3 text-[13px] leading-snug text-[color:var(--viz-ink-2)]">
+          <span className="font-semibold text-[color:var(--viz-ink)]">Ahmadiyya</span> (1889): regard themselves as Muslims; most other Muslims do not.
+        </div>
+      </div>
+    </VisualCard>
+  )
+}
+
 const VISUALS: Record<string, () => React.JSX.Element> = {
+  branches: Branches,
   compare: Compare,
   errors: Errors,
   timeline: Timeline,

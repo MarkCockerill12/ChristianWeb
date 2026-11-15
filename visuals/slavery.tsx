@@ -1,7 +1,6 @@
 "use client"
 
 import { CompareTable, VisualCard } from "@/components/visuals/kit"
-import { Gallery } from "@/components/visuals/figure"
 
 function LawComparison() {
   return (
@@ -93,59 +92,8 @@ function LawComparison() {
   )
 }
 
-function AbolitionGallery() {
-  return (
-    <VisualCard
-      title="Scripture for and against slavery"
-      subtitle="The full Bible was read as a threat to slavery by the people who edited it, and as a charter of freedom by the people who campaigned against it."
-      sources={[
-        { label: "Wikipedia, \"Am I Not a Man and a Brother?\"", url: "https://en.wikipedia.org/wiki/Am_I_Not_a_Man_and_a_Brother%3F" },
-        { label: "TheTorah.com, \"The Slave Bible: For Slavery or Salvation?\"", url: "https://www.thetorah.com/article/the-slave-bible-for-slavery-or-salvation" },
-        { label: "Wikipedia, \"William Wilberforce\"", url: "https://en.wikipedia.org/wiki/William_Wilberforce" },
-      ]}
-    >
-      <Gallery
-        columns={3}
-        images={[
-          {
-            src: "/images/slavery/slave-bible.jpg",
-            width: 700,
-            height: 1139,
-            alt: "Title page of Select Parts of the Holy Bible for the use of the Negro Slaves, 1807",
-            caption: "*Select Parts of the Holy Bible, for the Use of the Negro Slaves* (London, 1807), the \"Slave Bible\", which left out the exodus and Galatians 3:28.",
-            credit: "Law & Gilbert, digitised by Oxford University",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Select_Parts_of_the_Holy_Bible_for_use_of_the_Negro_Slaves.jpg",
-          },
-          {
-            src: "/images/slavery/wedgwood-medallion.jpg",
-            width: 700,
-            height: 810,
-            alt: "Wedgwood jasperware medallion of a kneeling man in chains, inscribed Am I not a man and a brother",
-            caption: "Josiah Wedgwood's 1787 medallion for the Society for Effecting the Abolition of the Slave Trade. Its motto, \"Am I not a man and a brother?\", became the emblem of the campaign.",
-            credit: "Josiah Wedgwood, Walters Art Museum",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Wedgwood_-_Anti-Slavery_Medallion_-_Walters_482597.jpg",
-          },
-          {
-            src: "/images/slavery/wilberforce.jpg",
-            width: 700,
-            height: 615,
-            alt: "Unfinished oil portrait of William Wilberforce",
-            caption: "William Wilberforce, the evangelical MP who led the parliamentary campaign that ended the British slave trade in 1807. Unfinished portrait by Thomas Lawrence, 1828.",
-            credit: "Thomas Lawrence, National Portrait Gallery",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:William_Wilberforce_by_Thomas_Lawrence_1828.jpg",
-          },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
 const VISUALS: Record<string, () => React.JSX.Element> = {
   "law-comparison": LawComparison,
-  gallery: AbolitionGallery,
 }
 
 export default function Visuals({ name }: { readonly name: string }) {

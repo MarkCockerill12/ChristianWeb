@@ -27,47 +27,85 @@ export const jesus: Topic = {
       tags: ["His claims"],
       content: `
 ### 1. The "I AM" Declarations
-Jesus repeatedly used the divine name "I AM" (Ancient Greek: Ἐγώ εἰμί), directly referencing [Exodus 3:14](https://www.biblegateway.com/passage/?search=Exodus+3%3A14&version=NIV) where God reveals His name to Moses as "I AM WHO I AM". The phrase in the Septuagint (LXX) is a powerful indicator of eternal, self-existent deity[^1].
+Jesus repeatedly used the phrase "I AM" (*egō eimi*, ἐγώ εἰμι), directly referencing [Exodus 3:14](https://www.biblegateway.com/passage/?search=Exodus+3%3A14&version=NIV) where God reveals His name to Moses as "I AM WHO I AM" (*ehyeh asher ehyeh*, אֶהְיֶה אֲשֶׁר אֶהְיֶה). The Septuagint, the Greek Old Testament the Gospel writers quote, renders that verse *egō eimi ho ōn* (ἐγώ εἰμι ὁ ὤν, I am the one who is), and in Isaiah it uses the bare *egō eimi* for God's own declaration *ani hu* (אֲנִי הוּא, I am he), as in [Isaiah 43:10](https://www.biblegateway.com/passage/?search=Isaiah+43%3A10&version=NIV). The phrase is a powerful indicator of eternal, self-existent deity[^1][^2][^3][^4].
 
 [**John 8:58**](https://www.biblegateway.com/passage/?search=John+8%3A58&version=NIV) - "Truly, truly, I say to you, before Abraham was, I AM."
-• Jesus claims eternal existence using God's covenant name[^2].
+• Jesus claims eternal existence using God's covenant name[^5].
+• The Greek sets *prin Abraam genesthai* (πρὶν Ἀβραὰμ γενέσθαι, before Abraham came to be) against *egō eimi* (I am): Abraham came into existence at a point in time, while Jesus speaks of His own existence in the present tense[^6].
 • The Jews immediately picked up stones to kill Him for blasphemy ([John 8:59](https://www.biblegateway.com/passage/?search=John+8%3A59&version=NIV)).
-• This action shows they understood His words as an unmistakable claim to deity[^3][^1].
+• This action shows they understood His words as an unmistakable claim to deity[^7][^1].
 
-[**John 18:5-6**](https://www.biblegateway.com/passage/?search=John+18%3A5-6&version=NIV) - When soldiers came to arrest Jesus and He said "I AM," they fell backward to the ground, demonstrating the power of the divine name[^4].
+[**John 18:5-6**](https://www.biblegateway.com/passage/?search=John+18%3A5-6&version=NIV) - When soldiers came to arrest Jesus and He said "I AM," they fell backward to the ground, demonstrating the power of the divine name[^8].
 
 <?viz jesus/i-am?>
 
 ### 2. Unity with the Father
 [**John 10:30**](https://www.biblegateway.com/passage/?search=John+10%3A30&version=NIV) - "I and the Father are one.":
-• The Greek *hen* (ἕν, one) is neuter ("one thing", not "one person"), so the verse does not merge Father and Son into a single person. Many interpreters read it as a unity of nature, others as a unity of will and work; the hearers' reaction in verse 33 shows they took it as a claim to deity[^5].
-• The Jews understood this as blasphemy and sought to stone Him ([John 10:31-33](https://www.biblegateway.com/passage/?search=John+10%3A31-33&version=NIV))[^6][^7].
-• Jesus didn't deny their interpretation but defended His right to make such claims[^7].
+• The Greek *hen* (ἕν, one) is neuter ("one thing", not "one person"), so the verse does not merge Father and Son into a single person. Many interpreters read it as a unity of nature, others as a unity of will and work; the hearers' reaction in verse 33 shows they took it as a claim to deity[^9].
+• The Jews understood this as blasphemy and sought to stone Him ([John 10:31-33](https://www.biblegateway.com/passage/?search=John+10%3A31-33&version=NIV))[^10][^11].
+• Jesus didn't deny their interpretation but defended His right to make such claims[^11].
 
 [**John 14:9**](https://www.biblegateway.com/passage/?search=John+14%3A9&version=NIV) - "Whoever has seen me has seen the Father.":
-• Jesus claims to be the perfect physical representation of the invisible God[^8][^6].
+• Jesus claims to be the perfect physical representation of the invisible God[^12][^10].
 • To see Jesus is equivalent to seeing God the Father.
 
 ### 3. Equality with God
 [**John 5:18**](https://www.biblegateway.com/passage/?search=John+5%3A18&version=NIV) - "This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God."
+• "Equal" is *isos* (ἴσος, equal, the same in kind or rank): *ison heauton poiōn tō theō* (ἴσον ἑαυτὸν ποιῶν τῷ θεῷ, making himself equal to God). John reports this as the hearers' understanding, and the discourse that follows (John 5:19-23) answers it by claiming the Father's works and honour rather than retracting it[^13].
 
-[**Philippians 2:6**](https://www.biblegateway.com/passage/?search=Philippians+2%3A6&version=NIV) - Paul confirms Jesus "being in very nature God, did not consider equality with God something to be used to his own advantage"[^9].
+[**Philippians 2:6**](https://www.biblegateway.com/passage/?search=Philippians+2%3A6&version=NIV) - Paul confirms Jesus "being in very nature God, did not consider equality with God something to be used to his own advantage"[^14].
+• The Greek is *en morphē theou hyparchōn* (ἐν μορφῇ θεοῦ ὑπάρχων, being in the form of God). *Morphē* (μορφή, form) is the same word used in the next verse for the "form of a servant" (2:7) He took, which commentators take to mean He was as truly God as He became truly a servant. "Equality with God" is *to einai isa theō* (τὸ εἶναι ἴσα θεῷ, the being equal with God)[^15][^16].
 
 ### 4. Divine Titles and Attributes
 Son of God:
 • [**Matthew 26:63-64**](https://www.biblegateway.com/passage/?search=Matthew+26%3A63-64&version=NIV) - Under oath, Jesus affirms He is "the Son of God".
-• [**Mark 14:61-62**](https://www.biblegateway.com/passage/?search=Mark+14%3A61-62&version=NIV) - Jesus confirms He is "the Son of the Blessed One"[^10][^11].
+• [**Mark 14:61-62**](https://www.biblegateway.com/passage/?search=Mark+14%3A61-62&version=NIV) - Jesus confirms He is "the Son of the Blessed One"[^17][^18].
 
 Son of Man (Divine Messianic Title):
-• [**Daniel 7:13-14**](https://www.biblegateway.com/passage/?search=Daniel+7%3A13-14&version=NIV) - The "Son of Man" receives eternal dominion and worship.
-• [**Matthew 26:64**](https://www.biblegateway.com/passage/?search=Matthew+26%3A64&version=NIV) - Jesus applies this divine title to Himself in the context of His judicial authority[^12][^10].
+• [**Daniel 7:13-14**](https://www.biblegateway.com/passage/?search=Daniel+7%3A13-14&version=NIV) - The "Son of Man" receives eternal dominion and worship. Daniel 7 is written in Aramaic: the figure is *kevar enash* (כְּבַר אֱנָשׁ, one like a son of man), who comes "with the clouds of heaven", and all peoples *yiflechun* him (יִפְלְחוּן, serve or worship), the verb Daniel otherwise uses for the service of a god (Daniel 3:12, 3:28, 6:16)[^19][^20].
+• [**Matthew 26:64**](https://www.biblegateway.com/passage/?search=Matthew+26%3A64&version=NIV) - Jesus applies this divine title to Himself in the context of His judicial authority[^21][^17].
 
 Alpha and Omega:
-• [**Revelation 22:13**](https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=NIV) - Jesus declares: "I am the Alpha and the Omega, the First and the Last, the Beginning and the End"[^13][^14].
-• [**Revelation 1:17-18**](https://www.biblegateway.com/passage/?search=Revelation+1%3A17-18&version=NIV) - "I am the First and the Last. I am the Living One; I was dead, and now look, I am alive for ever and ever!"[^14].
+• [**Revelation 22:13**](https://www.biblegateway.com/passage/?search=Revelation+22%3A13&version=NIV) - Jesus declares: "I am the Alpha and the Omega, the First and the Last, the Beginning and the End"[^22][^23].
+• [**Revelation 1:17-18**](https://www.biblegateway.com/passage/?search=Revelation+1%3A17-18&version=NIV) - "I am the First and the Last. I am the Living One; I was dead, and now look, I am alive for ever and ever!"[^23].
 
 **See also:** [Prophet Like Moses (Prophecy)](/categories/prophecy#section-prophet-like-moses).
 `,
+    },
+    {
+      id: "called-god",
+      title: "Where the New Testament Calls Jesus God",
+      tags: ["His claims"],
+      content: `
+Besides recording what Jesus claimed, the New Testament writers call him *theos* (θεός, God) outright in a small number of passages. The Greek of each is argued over, so each is set out with the main alternative reading[^24][^25].
+
+### John 1:1
+"In the beginning was the Word, and the Word was with God, and the Word was God." The last clause is *kai theos ēn ho logos* (καὶ θεὸς ἦν ὁ λόγος). *Theos* has no article and comes first for emphasis, and the New World Translation of the Jehovah's Witnesses renders it "a god"[^26][^25].
+
+E. C. Colwell showed in 1933 that a definite predicate noun placed before the verb usually lacks the article, so the missing article does not make *theos* indefinite. Many grammarians read the force as qualitative, describing what the Word is, which the NET Bible renders "the Word was fully God". The clause before it, "the Word was with God" (*pros ton theon*, πρὸς τὸν θεόν), keeps the Word distinct from the Father, so the verse is not saying that the Word and the Father are the same person[^27][^24]. The same chapter uses *theos* without the article for the Father in verses 6, 12, 13 and 18, and no translation renders any of those "a god"[^25][^26].
+
+### John 1:18 and John 20:28
+The oldest manuscripts of John 1:18, including Papyrus 66, Papyrus 75, Codex Sinaiticus and Codex Vaticanus, read *monogenēs theos* (μονογενὴς θεός, the one and only God) where later manuscripts read "the only begotten Son". Most modern translations follow the older reading, so the chapter that opens by calling the Word God closes by calling the Son God as well[^28][^29].
+
+At the end of the same Gospel, Thomas calls the risen Jesus "My Lord and my God!" (John 20:28), and Jesus accepts the words. The passage is treated under [Acceptance of Worship](/categories/jesus#section-acceptance-of-worship).
+
+### Romans 9:5
+Paul lists Israel's privileges, ending with "the Messiah, who is God over all, forever praised" (NIV). The question in this verse is punctuation, which the earliest manuscripts did not have. A full stop after "Messiah" turns the closing words into a separate blessing of the Father, as in the RSV's "God who is over all be blessed for ever"[^30][^31].
+
+Three points favour reading the words of Christ. Paul's blessings of God elsewhere put "blessed" (*eulogētos*, εὐλογητός) first, and here it comes last. The phrase "according to the flesh" (*to kata sarka*, τὸ κατὰ σάρκα) sets up a contrast with what Christ is beyond his human descent. And the words "who is" (*ho ōn*, ὁ ὤν) most naturally refer back to the nearest noun. Most of the church fathers who comment on the verse read it of Christ, and so do many modern commentators, though others prefer the separate blessing[^30][^31].
+
+### Titus 2:13 and 2 Peter 1:1
+Titus 2:13 looks for the appearing of "our great God and Saviour, Jesus Christ", *tou megalou theou kai sōtēros hēmōn Iēsou Christou* (τοῦ μεγάλου θεοῦ καὶ σωτῆρος ἡμῶν Ἰησοῦ Χριστοῦ). 2 Peter 1:1 speaks of "the righteousness of our God and Saviour Jesus Christ", *tou theou hēmōn kai sōtēros Iēsou Christou* (τοῦ θεοῦ ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ)[^32][^33].
+
+In both, a single article governs two singular nouns joined by *kai* (καί, and). Granville Sharp described the rule in 1798: in that construction, when the nouns are personal, singular and not proper names, both refer to the same person. The same letter has the identical construction in 2 Peter 1:11, "our Lord and Saviour Jesus Christ", which nobody reads as two persons. In Titus the "appearing" (*epiphaneia*, ἐπιφάνεια) is used elsewhere in the New Testament of Christ's return and never of the Father[^34][^32][^35].
+
+### Hebrews 1:8
+The writer contrasts the Son with the angels and quotes Psalm 45:6 as spoken to the Son: "Your throne, O God, will last for ever and ever." The Greek *ho thronos sou ho theos* (ὁ θρόνος σου ὁ θεός) uses the nominative for direct address, which is normal in New Testament Greek. The alternative "God is your throne" is grammatically possible but fits poorly with the next verse, where the Son is anointed by "God, your God", and with the chapter's argument that the Son is above the angels[^36][^37].
+
+These texts sit alongside others that say the same thing in different words: Philippians 2:6 has Christ existing "in the form of God", and Colossians 2:9 says "in Christ all the fullness of the Deity lives in bodily form". John 1:1 and John 20:28 are the clearest. The rest turn on grammar and punctuation, but on the readings most scholars accept the New Testament calls Jesus God at the start and end of John's Gospel, in Paul and in the later letters[^24][^34][^30].
+
+**See also:** [The Three Together in the New Testament (Trinity)](/categories/trinity#section-new-testament) and [Famous Differences: John 1:18 (Bible Translations)](/categories/bible-translations#section-famous-differences).
+`
     },
     {
       id: "divine-prerogatives",
@@ -75,38 +113,38 @@ Alpha and Omega:
       tags: ["His claims"],
       content: `### 1. Authority to Forgive Sins
 [**Mark 2:5-7**](https://www.biblegateway.com/passage/?search=Mark+2%3A5-7&version=NIV) - Jesus forgives sins, prompting the scribes to ask, "Who can forgive sins but God alone?":
-• Forgiving sins was considered a prerogative belonging exclusively to God in Jewish theology[^15].
+• Forgiving sins was considered a prerogative belonging exclusively to God in Jewish theology[^38].
 • Jesus' response affirmed His authority by performing a visible miracle to demonstrate the reality of the invisible forgiveness ([Mark 2:10-11](https://www.biblegateway.com/passage/?search=Mark+2%3A10-11&version=NIV)).
 
 [**Luke 7:48-49**](https://www.biblegateway.com/passage/?search=Luke+7%3A48-49&version=NIV) - Jesus forgives the sinful woman, causing observers to wonder, "Who is this who even forgives sins?".
 
 ### 2. Authority over Life and Death
-[**John 11:25-26**](https://www.biblegateway.com/passage/?search=John+11%3A25-26&version=NIV) - "I am the resurrection and the life. The one who believes in me will live, even though they die."[^16].
+[**John 11:25-26**](https://www.biblegateway.com/passage/?search=John+11%3A25-26&version=NIV) - "I am the resurrection and the life. The one who believes in me will live, even though they die."[^39].
 [**John 5:21**](https://www.biblegateway.com/passage/?search=John+5%3A21&version=NIV) - "For just as the Father raises the dead and gives them life, even so the Son gives life to whom he is pleased to give it."
 
 ### 3. Authority to Judge
 [**John 5:22**](https://www.biblegateway.com/passage/?search=John+5%3A22&version=NIV) - "Moreover, the Father judges no one, but has entrusted all judgment to the Son.":
-• The assumption of the role of ultimate Judge is a claim to God's sovereign authority[^17][^18].
+• The assumption of the role of ultimate Judge is a claim to God's sovereign authority[^40][^41].
 
-[**Matthew 25:31-32**](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-32&version=NIV) - Jesus describes His role as the final Judge of all nations[^19][^18].
+[**Matthew 25:31-32**](https://www.biblegateway.com/passage/?search=Matthew+25%3A31-32&version=NIV) - Jesus describes His role as the final Judge of all nations[^42][^41].
 
 ### 4. Authority over the Sabbath and Temple
 Jesus claimed authority to legislate over the Sabbath, a power belonging exclusively to God as the Creator and Lawgiver.
 
 [**Mark 2:27-28**](https://www.biblegateway.com/passage/?search=Mark+2%3A27-28&version=NIV) - "The Sabbath was made for man, not man for the Sabbath. So the Son of Man is Lord even of the Sabbath.":
-• By declaring Himself "Lord of the Sabbath," Jesus asserted a direct claim to deity and sovereign authority over the fourth commandment[^20].
+• By declaring Himself "Lord of the Sabbath," Jesus asserted a direct claim to deity and sovereign authority over the fourth commandment[^43].
 
 [**Matthew 12:6**](https://www.biblegateway.com/passage/?search=Matthew+12%3A6&version=NIV) - "I tell you that something greater than the temple is here.":
-• Jesus' act of cleansing the Temple and His declaration that He could destroy and rebuild the temple (referencing His own body) showed He was acting as the replacement and reality to which the temple pointed[^21].
+• Jesus' act of cleansing the Temple and His declaration that He could destroy and rebuild the temple (referencing His own body) showed He was acting as the replacement and reality to which the temple pointed[^44].
 
 ### 5. Omniscience
-[**John 16:30**](https://www.biblegateway.com/passage/?search=John+16%3A30&version=NIV) - The disciples affirm: "Now we can see that you know all things"[^22][^23].
+[**John 16:30**](https://www.biblegateway.com/passage/?search=John+16%3A30&version=NIV) - The disciples affirm: "Now we can see that you know all things"[^45][^46].
 
 [**John 2:24-25**](https://www.biblegateway.com/passage/?search=John+2%3A24-25&version=NIV) - "Jesus would not entrust himself to them, for he knew all people. He did not need any testimony about mankind, for he knew what was in each person.":
-• This is an explicit attribution of omniscience, a divine attribute, to Jesus[^24].
+• This is an explicit attribution of omniscience, a divine attribute, to Jesus[^47].
 
 ### 6. Omnipresence
-[**Matthew 28:20**](https://www.biblegateway.com/passage/?search=Matthew+28%3A20&version=NIV) - "And surely I am with you always, to the very end of the age."[^25][^26].
+[**Matthew 28:20**](https://www.biblegateway.com/passage/?search=Matthew+28%3A20&version=NIV) - "And surely I am with you always, to the very end of the age."[^48][^49].
 
 [**Matthew 18:20**](https://www.biblegateway.com/passage/?search=Matthew+18%3A20&version=NIV) - "For where two or three gather in my name, there am I with them."
 `,
@@ -116,16 +154,18 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "Acceptance of Worship",
       tags: ["His claims"],
       content: `### 1. Worship from Disciples
-[**Matthew 14:33**](https://www.biblegateway.com/passage/?search=Matthew+14%3A33&version=NIV) - After walking on water, "those who were in the boat worshiped him, saying, 'Truly you are the Son of God.'"[^27][^28].
+[**Matthew 14:33**](https://www.biblegateway.com/passage/?search=Matthew+14%3A33&version=NIV) - After walking on water, "those who were in the boat worshiped him, saying, 'Truly you are the Son of God.'"[^50][^51].
 
 [**Matthew 28:9**](https://www.biblegateway.com/passage/?search=Matthew+28%3A9&version=NIV) - After the resurrection, "they came to him, clasped his feet and worshiped him."
 
-[**Luke 24:52**](https://www.biblegateway.com/passage/?search=Luke+24%3A52&version=NIV) - After the ascension, "they worshiped him and returned to Jerusalem with great joy."[^29][^27].
+[**Luke 24:52**](https://www.biblegateway.com/passage/?search=Luke+24%3A52&version=NIV) - After the ascension, "they worshiped him and returned to Jerusalem with great joy."[^52][^50].
+
+The verb in each of these verses is *proskyneō* (προσκυνέω, bow down, worship). It can describe bowing before a human superior, so the word alone does not settle the question. The context does: Jesus quotes the same verb in [Matthew 4:10](https://www.biblegateway.com/passage/?search=Matthew+4%3A10&version=NIV), "Worship the Lord your God, and serve him only", and when Cornelius gives Peter *proskynēsis*, Peter refuses it (Acts 10:25-26)[^53][^54].
 
 ### 2. Worship from Others
-[**John 9:38**](https://www.biblegateway.com/passage/?search=John+9%3A38&version=NIV) - The blind man healed by Jesus "said, 'Lord, I believe,' and he worshiped him."[^30][^31].
+[**John 9:38**](https://www.biblegateway.com/passage/?search=John+9%3A38&version=NIV) - The blind man healed by Jesus "said, 'Lord, I believe,' and he worshiped him."[^55][^56].
 
-[**John 20:28**](https://www.biblegateway.com/passage/?search=John+20%3A28&version=NIV) - Thomas declares to Jesus: "My Lord and my God!" - Jesus accepts this worship rather than correcting it[^32][^1]. This acceptance of worship, which angels and apostles explicitly refuse ([Acts 10:25-26; Revelation 22:8-9](https://www.biblegateway.com/passage/?search=Acts+10%3A25-26%3B+Revelation+22%3A8-9&version=NIV)), is strong evidence of what He took Himself to be.
+[**John 20:28**](https://www.biblegateway.com/passage/?search=John+20%3A28&version=NIV) - Thomas declares to Jesus: "My Lord and my God!" - Jesus accepts this worship rather than correcting it[^57][^1]. The Greek, *ho kyrios mou kai ho theos mou* (ὁ κύριός μου καὶ ὁ θεός μου, the Lord of me and the God of me), is introduced with *eipen autō* (εἶπεν αὐτῷ, he said to him), so it is addressed to Jesus, not an exclamation to God[^58]. This acceptance of worship, which angels and apostles explicitly refuse ([Acts 10:25-26; Revelation 22:8-9](https://www.biblegateway.com/passage/?search=Acts+10%3A25-26%3B+Revelation+22%3A8-9&version=NIV)), is strong evidence of what He took Himself to be.
 `,
     },
     {
@@ -133,14 +173,14 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "Early Christian Worship of Jesus",
       tags: ["Early worship"],
       content: `### 1. Apostolic Testimony
-[**Colossians 2:9**](https://www.biblegateway.com/passage/?search=Colossians+2%3A9&version=NIV) - "For in Christ all the fullness of the Deity lives in bodily form."[^33][^6].
+[**Colossians 2:9**](https://www.biblegateway.com/passage/?search=Colossians+2%3A9&version=NIV) - "For in Christ all the fullness of the Deity lives in bodily form."[^59][^10]. "Deity" is *theotēs* (θεότης), the state of being God, found only here in the New Testament. Paul uses a different word, *theiotēs* (θειότης, divine nature or divinity), in [Romans 1:20](https://www.biblegateway.com/passage/?search=Romans+1%3A20&version=NIV) for what creation shows of God[^60][^61].
 
 [**Hebrews 1:3**](https://www.biblegateway.com/passage/?search=Hebrews+1%3A3&version=NIV) - "The Son is the radiance of God's glory and the exact representation of his being."
 
 [**1 John 5:20**](https://www.biblegateway.com/passage/?search=1+John+5%3A20&version=NIV) - "We know also that the Son of God has come and has given us understanding, so that we may know him who is true. And we are in him who is true by being in his Son Jesus Christ. He is the true God and eternal life."
 
 ### 2. Early Christian Liturgy
-[**1 Corinthians 16:22**](https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A22&version=NIV) - Paul uses the Aramaic phrase "Maranatha" ("Our Lord, come"), preserved untranslated in a Greek letter, indicating that Aramaic-speaking believers were already addressing Jesus in prayer as Lord[^34][^35].
+[**1 Corinthians 16:22**](https://www.biblegateway.com/passage/?search=1+Corinthians+16%3A22&version=NIV) - Paul uses the Aramaic phrase "Maranatha" ("Our Lord, come"), preserved untranslated in a Greek letter, indicating that Aramaic-speaking believers were already addressing Jesus in prayer as Lord[^62][^63].
 
 [**Philippians 2:10-11**](https://www.biblegateway.com/passage/?search=Philippians+2%3A10-11&version=NIV) - "At the name of Jesus every knee should bow, in heaven and on earth and under the earth, and every tongue acknowledge that Jesus Christ is Lord."
 `,
@@ -150,20 +190,28 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "Archaeological Evidence for Early Christian Worship",
       tags: ["Early worship"],
       content: `### 1. Crucifixion Inscriptions and Graffiti
-**The Alexamenos Graffito (probably c. 200 AD, with estimates ranging from the late first to the third century)** - Found on the Palatine Hill in Rome, this anti-Christian graffito shows a figure with a donkey's head on a cross, with the inscription "Alexamenos worships his god". This provides early, hostile evidence that Christians were known for worshipping the crucified Christ as divine[^36].
+**The Alexamenos Graffito (probably c. 200 AD, with estimates ranging from the late first to the third century)** - Found on the Palatine Hill in Rome, this anti-Christian graffito shows a figure with a donkey's head on a cross, with the inscription "Alexamenos worships his god". This provides early, hostile evidence that Christians were known for worshipping the crucified Christ as divine[^64].
+
+<?viz img/alexamenos-graffito?>
+
 
 ### 2. Early Christian Inscriptions and Art
-**Early Christian Epitaphs** - Catacomb inscriptions and funerary art from Rome (2nd-3rd centuries) demonstrate the development of Christian iconography, showing early communities gathered for memorial and referring to Jesus with divine titles[^37].
+**Early Christian Epitaphs** - Catacomb inscriptions and funerary art from Rome (2nd-3rd centuries) demonstrate the development of Christian iconography, showing early communities gathered for memorial and referring to Jesus with divine titles[^65].
+
+<?viz img/megiddo-mosaic?>
+
 
 ### 3. Ancient Manuscripts
-**Papyrus P52** (usually dated to the first half of the second century, with some papyrologists allowing a date as late as c. 175 AD) - Among the earliest known New Testament fragments, it preserves a few verses of John 18, demonstrating the circulation of John's Gospel in Egypt within decades of its composition[^38][^39].
+**Papyrus P52** (usually dated to the first half of the second century, with some papyrologists allowing a date as late as c. 175 AD) - Among the earliest known New Testament fragments, it preserves a few verses of John 18, demonstrating the circulation of John's Gospel in Egypt within decades of its composition[^66][^67].
 
-**Papyrus P66** (c. 200 AD) - Contains much of John's Gospel, including Jesus' "I AM" statements, showing these divine claims were preserved and circulated within 100 years of the original writing[^40].
+<?viz img/p52?>
+
+
+**Papyrus P66** (c. 200 AD) - Contains much of John's Gospel, including Jesus' "I AM" statements, showing these divine claims were preserved and circulated within 100 years of the original writing[^68].
 
 ### 4. Early Church Buildings
-**Dura-Europos Christian House Church** (converted c. 232-241 AD) - The earliest securely identified Christian meeting house contains frescoes depicting Christ's miracles, demonstrating early communities gathered specifically to worship Jesus as divine[^41].
+**Dura-Europos Christian House Church** (converted c. 232-241 AD) - The earliest securely identified Christian meeting house contains frescoes depicting Christ's miracles, demonstrating early communities gathered specifically to worship Jesus as divine[^69].
 
-<?viz jesus/evidence?>
 `,
     },
     {
@@ -171,21 +219,21 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "External Historical Testimony",
       tags: ["Early worship"],
       content: `### 1. Roman Historians
-**Tacitus** (c. 116 AD) - Annals 15.44: Confirms the historical existence of "Christus" (Christ) and His execution under "Pontius Pilatus" during the reign of Tiberius[^42][^43].
+**Tacitus** (c. 116 AD) - Annals 15.44: Confirms the historical existence of "Christus" (Christ) and His execution under "Pontius Pilatus" during the reign of Tiberius[^70][^71].
 
-**Suetonius** (c. 120 AD) - Life of Claudius 25.4: Reports that Claudius expelled Jews from Rome for disturbances "at the instigation of Chrestus". Most historians take this as a garbled reference to disputes over Christ within the Jewish community around AD 49, though some read Chrestus as an otherwise unknown agitator[^44].
+**Suetonius** (c. 120 AD) - Life of Claudius 25.4: Reports that Claudius expelled Jews from Rome for disturbances "at the instigation of Chrestus". Most historians take this as a garbled reference to disputes over Christ within the Jewish community around AD 49, though some read Chrestus as an otherwise unknown agitator[^72].
 
-**Pliny the Younger** (c. 112 AD) - Letters 10.96: Describes Christians meeting before dawn to sing "a hymn to Christ as to a god" and reports that genuine Christians could not be made to curse Christ. Pliny also had two female slaves who served as deaconesses tortured for information. The letter shows Jesus being worshipped as divine by Christians in Bithynia[^45].
+**Pliny the Younger** (c. 112 AD) - Letters 10.96: Describes Christians meeting before dawn to sing "a hymn to Christ as to a god" and reports that genuine Christians could not be made to curse Christ. Pliny also had two female slaves who served as deaconesses tortured for information. The letter shows Jesus being worshipped as divine by Christians in Bithynia[^73].
 
 ### 2. Jewish Sources
-**Flavius Josephus** (c. 93 AD) - Antiquities 20.200: References "the brother of Jesus, who was called Christ, whose name was James," acknowledging Jesus was known as "Christ" (Messiah)[^46][^47].
+**Flavius Josephus** (c. 93 AD) - Antiquities 20.200: References "the brother of Jesus, who was called Christ, whose name was James," acknowledging Jesus was known as "Christ" (Messiah)[^74][^75].
 
-**The Babylonian Talmud** - Sanhedrin 43a: Preserves a tradition that "Yeshu" was hanged on the eve of Passover for "sorcery" and "leading Israel astray". The Talmud was compiled centuries later and the identification of every Yeshu passage with Jesus is debated, but this one is widely taken as a hostile witness that Jesus was remembered as a worker of wonders[^48].
+**The Babylonian Talmud** - Sanhedrin 43a: Preserves a tradition that "Yeshu" was hanged on the eve of Passover for "sorcery" and "leading Israel astray". The Talmud was compiled centuries later and the identification of every Yeshu passage with Jesus is debated, but this one is widely taken as a hostile witness that Jesus was remembered as a worker of wonders[^76].
 
 ### 3. Early Church Fathers
-**Clement of Rome** (c. 96 AD) - 1 Clement 36: Describes Jesus as "the high priest of our offerings, the defender and helper of our weakness. Through him we look up to the heights of heaven"[^49].
+**Clement of Rome** (c. 96 AD) - 1 Clement 36: Describes Jesus as "the high priest of our offerings, the defender and helper of our weakness. Through him we look up to the heights of heaven"[^77].
 
-**Ignatius of Antioch** (c. 108 AD) - Letter to the Smyrnaeans 1: "I glorify Jesus Christ, the God who has thus made you wise", and goes on to describe Him as "of the seed of David according to the flesh, but Son of God according to the will and power of God"[^50].
+**Ignatius of Antioch** (c. 108 AD) - Letter to the Smyrnaeans 1: "I glorify Jesus Christ, the God who has thus made you wise", and goes on to describe Him as "of the seed of David according to the flesh, but Son of God according to the will and power of God"[^78].
 
 <?viz jesus/early-christology?>
 
@@ -197,7 +245,7 @@ Jesus claimed authority to legislate over the Sabbath, a power belonging exclusi
       title: "Did Jesus Even Exist?",
       tags: ["Objections"],
       content: `
-The theory that Jesus never existed, the Christ myth theory, is popular online, and has a few academic defenders such as Richard Carrier. Almost all historians of the period reject it, whatever their beliefs[^51][^52]. Bart Ehrman, an agnostic critic of Christianity, wrote a whole book, *Did Jesus Exist?*, arguing that he did.
+The theory that Jesus never existed, the Christ myth theory, is popular online, and has a few academic defenders such as Richard Carrier. Almost all historians of the period reject it, whatever their beliefs[^79][^80]. Bart Ehrman, an agnostic critic of Christianity, wrote a whole book, *Did Jesus Exist?*, arguing that he did.
 
 The reasons are these. Paul knew Jesus' brother James and his disciple Peter personally (Galatians 1:18-19). Several independent sources report him within decades, among them Mark, Paul, Josephus and Tacitus. Nobody inventing a Messiah for first-century Jews would have made him a crucified Galilean, baptised by another man. The parallels with pagan gods that are usually offered do not hold up, as the [pagan origins topic](/categories/pagan-origins) sets out.
 
@@ -209,7 +257,7 @@ Whether he existed is therefore the easy question. The difficult one is who he w
       title: "Did Paul Invent Christianity?",
       tags: ["Objections"],
       content: `
-**The objection.** Jesus preached the kingdom of God, and Paul turned him into a divine saviour, so what Christians believe is Paul's religion. Scholars have long discussed how far Paul's teaching and the earliest church differed[^53].
+**The objection.** Jesus preached the kingdom of God, and Paul turned him into a divine saviour, so what Christians believe is Paul's religion. Scholars have long discussed how far Paul's teaching and the earliest church differed[^81].
 
 **The evidence.** Paul's earliest letters quote material that was already fixed before him. The creed in 1 Corinthians 15:3-7 has Jesus dying for sins and rising, and it dates from within a few years of the cross. Paul also quotes the Aramaic prayer *Maranatha*, "Our Lord, come" (1 Corinthians 16:22), which shows Aramaic-speaking believers praying to Jesus before Paul was writing to Greek speakers. Peter and James, who knew Jesus, gave Paul "the right hand of fellowship" (Galatians 2:9), and Paul says that he and they preached the same message (1 Corinthians 15:11). They disagreed over how Gentiles should be treated (Galatians 2:11), and no record shows any of them disputing who Jesus was. The Gospels also have Jesus himself forgiving sins and claiming authority that belongs to God, as set out above.
 
@@ -221,7 +269,7 @@ Whether he existed is therefore the easy question. The difficult one is who he w
       title: "Is It Just for an Innocent Man to Die for the Guilty?",
       tags: ["Objections"],
       content: `
-**The objection.** Punishing an innocent person for someone else's crime is unjust, and critics have called the doctrine "cosmic child abuse", a phrase from the British pastor Steve Chalke, who was himself criticising one form of it[^54][^55].
+**The objection.** Punishing an innocent person for someone else's crime is unjust, and critics have called the doctrine "cosmic child abuse", a phrase from the British pastor Steve Chalke, who was himself criticising one form of it[^82][^83].
 
 **The response.** The charge pictures an angry father and an unwilling son. The New Testament pictures something else. Jesus says: "No one takes it from me, but I lay it down of my own accord" (John 10:18), and "God was reconciling the world to himself in Christ" (2 Corinthians 5:19). If Jesus is God, as Christians claim, then the judge is bearing the penalty himself, as when someone who has been wronged pays the cost of forgiving it. Forgiveness always costs the one who forgives.
 
@@ -271,7 +319,7 @@ Whether he existed is therefore the easy question. The difficult one is who he w
 • **Liar:** He knew He was not God, making Him a deceiver and a charlatan.
 • **Lunatic:** He sincerely thought He was God but was mistaken, putting Him on the level of a madman.
 • **Lord:** He is exactly who He claimed to be, God incarnate, demanding our worship and obedience.
-Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^56].
+Given His profound moral teaching and the sanity of His character, Lewis argues the only rational conclusion is that Jesus is Lord. Critics add a fourth option, that the claims are legendary additions, which is why the dating of the Gospels and of the earliest Christian worship matters to the argument; later apologists pair the trilemma with the case for the resurrection[^84].
 
 <?viz jesus/trilemma?>
 
@@ -279,63 +327,91 @@ Given His profound moral teaching and the sanity of His character, Lewis argues 
 `,
     },
   ],
-          sources: [
+            sources: [
     "1. [Apologetics] GotQuestions.org - Is Jesus God? 'Article providing a comprehensive answer, arguing Jesus claimed deity via His words and actions.' https://www.gotquestions.org/is-Jesus-God.html",
-    "2. [Academic] University of Birmingham - The 'I-AM' Sayings of Jesus in the Gospel of John and Questions of History. 'Scholarly exploration of the ego eimi sayings and their relation to the historicity and identity of Jesus.' https://etheses.bham.ac.uk/8074/1/Okpako18MAbyRes.pdf",
-    "3. [Apologetics] Cold Case Christianity - Jesus Specifically Said, “I am God”. 'Analysis of John 8:58 proving Jesus' claim to the divine name led to the charge of blasphemy.' https://coldcasechristianity.com/writings/jesus-specifically-said-i-am-god/",
-    "4. [Commentary] Bible Hub. 'Commentaries on John 18:6.' https://biblehub.com/commentaries/john/18-6.htm",
-    "5. [Commentary] Bible Hub - How do historical interpretations of John 10:30 differ?. 'Scholarly overview confirming the neuter hen indicates ontological unity of essence/nature.' https://biblehub.com/q/How_do_views_on_John_10_30_vary.htm",
-    "6. [Apologetics] Stand to Reason - Why Jesus? Part 2. 'Apologetics discussion referencing the Jewish response to Jesus' claims of equality with God in John 8:59 and 10:30.' https://www.str.org/w/why-jesus-part-2",
-    "7. [Apologetics] Got Questions. 'What Does the Bible Mean by You Are Gods in Psalm 82:6 and John 10:34?.' https://www.gotquestions.org/you-are-gods.html",
-    "8. [Commentary] Bible Hub. 'Commentaries on John 14:9.' https://biblehub.com/commentaries/john/14-9.htm",
-    "9. [Commentary] Bible Hub. 'Commentaries on Philippians 2:6.' https://biblehub.com/commentaries/philippians/2-6.htm",
-    "10. [Commentary] Dr. Constable's Expository Notes - Mark 14. 'Commentary on the term 'Son of the Blessed One' as a direct, clear claim to divinity.' https://www.studylight.org/commentaries/eng/dcc/mark-14.html",
-    "11. [Commentary] Commentaries on Mark 14:61. Bible Hub. https://biblehub.com/commentaries/mark/14-61.htm",
-    "12. [Academic] JETS - The Deity of Christ in the Synoptic Gospels. 'Journal article on how Jesus used the title to claim judicial authority and deity.' https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_37_37-3_JETS_37-3_333-350_Doriani.pdf",
-    "13. [Apologetics] GotQuestions.org - What does it mean that Jesus is the Alpha and the Omega?. 'Article explaining the title as a reference to Jesus' eternal nature, comparing it to OT usage for God (Isaiah 44:6).' https://www.gotquestions.org/alpha-and-omega.html",
-    "14. [Apologetics] Christian Courier - Jesus Christ: The First and the Last. 'Article confirming the 'First and the Last' title is used of Yahweh in Isaiah and applied by Jesus in Revelation to assert His eternal deity.' https://christiancourier.com/articles/jesus-christ-the-first-and-the-last",
-    "15. [Apologetics] GotQuestions.org - Forgiveness Without Sacrifice. 'Article discussing Jesus' authority to forgive sins as a divine prerogative, citing Mark 2:7.' https://www.gotquestions.org/forgiveness-without-sacrifice.html",
-    "16. [Christian Source] The Outlook Magazine (Reformed Fellowship) - “I Am the Resurrection and the Life”. 'Meditation emphasizing Jesus’ personal authority over both spiritual and bodily resurrection, demonstrating His divine power.' https://outlook.reformedfellowship.net/sermons/i-am-the-resurrection-and-the-life-a-meditation-on-john-1125-26/",
-    "17. [Apologetics] The Gospel Coalition - The Compassionate Truth About Judgment. 'Article affirming Jesus’ assumption of the role of ultimate Judge as a core claim to His sovereign authority.' https://www.thegospelcoalition.org/article/the-compassionate-truth-about-judgment/",
-    "18. [Commentary] Commentaries on Matthew 25:31. Bible Hub. https://biblehub.com/commentaries/matthew/25-31.htm",
-    "19. [Academic] George Fox University - Matthew 25:31-46 Exegetical Perspective. 'Exegetical article on the Son of Man sitting as the heavenly judge of the nations, a claim to sovereign authority.' https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1330&context=ccs",
-    "20. [Christian Source] Third Mill - The Son of Man is Lord even of the Sabbath. 'Commentary detailing how Jesus' claim to be Lord of the Sabbath was a direct claim to deity, as He is the Sovereign One who makes the Sabbath rules.' https://thirdmill.org/answers/answer.asp/file/48973",
-    "21. [Christian Source] John Dickson - Jesus as Temple. 'Article analyzing Jesus' cleansing of the temple and his claim to rebuild it in three days (referencing his own body) as an assertion of divine authority superior to the temple itself.' http://www.johndickson.org/blog/2018/2/7/jesus-as-the-temple",
-    "22. [Academic] ResearchGate - The Faith of the Disciples in John 16:30-33. 'Academic article discussing the significance of the disciples' confession that Jesus 'knows all things' (omniscience).' https://www.researchgate.net/publication/334909741_Now_You_Believe_The_Faith_of_the_Disciples_in_John_1630-33",
-    "23. [Commentary] Commentaries on John 16:30. Bible Hub. https://biblehub.com/commentaries/john/16-30.htm",
-    "24. [Apologetics] GotQuestions.org - What does it mean that Jesus knew what was in man (John 2:25)?. 'Article detailing how Jesus' inherent knowledge of human hearts demonstrates the divine attribute of omniscience.' https://www.gotquestions.org/He-knew-what-was-in-man.html",
-    "25. [Apologetics] Ligonier Ministries - A Communication of Attributes. 'Devotional examining how Matthew 28:20 implies Christ's divine omnipresence.' https://learn.ligonier.org/devotionals/communication-attributes",
-    "26. [Commentary] Bible Hub. Isaiah 7:14 in parallel translations. https://biblehub.com/isaiah/7-14.htm",
-    "27. [Commentary] Bible Hub - Matthew 14:33 Study Bible. 'Commentary noting that the disciples' act of worship, reserved for God alone in Jewish culture, affirms Jesus' divine authority.' https://biblehub.com/study/matthew/14-33.htm",
-    "28. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Gospel of Mark.' https://www.newadvent.org/cathen/09674b.htm",
-    "29. [Apologetics] Desiring God - Joy to the World. 'Article on Luke 24:52 confirming the disciples' worship of the ascended Christ.' https://www.desiringgod.org/articles/joy-to-the-world",
-    "30. [Christian Source] Crossway - God or 'Son of God'?. 'Article referencing John 9:38 to show the worship of the healed blind man as a response to divine revelation.' https://www.crossway.org/articles/god-or-son-of-god/",
-    "31. [Commentary] Commentaries on John 9:38. Bible Hub. https://biblehub.com/commentaries/john/9-38.htm",
-    "32. [Commentary] Bible Hub - John 20:28 Commentaries. 'Compilation of scholarly views confirming Thomas’s statement as a direct confession and acceptance of Jesus' full, supreme divinity.' https://biblehub.com/commentaries/john/20-28.htm",
-    "33. [Apologetics] Ligonier Ministries - The Person of Christ. 'Theological teaching on Colossians 2:9 and Christ possessing the entire essence of the Godhead.' https://learn.ligonier.org/guides/the-person-of-christ",
-    "34. [Wikipedia] 'Maranatha.' https://en.wikipedia.org/wiki/Maranatha",
-    "35. [Commentary] Commentaries on 1 Corinthians 16:22. Bible Hub. https://biblehub.com/commentaries/1_corinthians/16-22.htm",
-    "36. [Archaeology] Brent Nongbri - The Palatine Alexamenos Graffito. 'Scholarly blog post analyzing the Alexamenos Graffito as early, hostile evidence of Christ's worship.' https://brentnongbri.com/2018/06/25/the-palatine-alexamenos-graffito/",
-    "37. [News] PBS Frontline - In The Catacombs. 'Documentary transcript describing the earliest Christian material evidence, symbols (Chi-Rho, Good Shepherd), and the catacombs as sites of early Christian memorial.' https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html",
-    "38. [Commentary] UASV Bible - The Papyrus Rylands 457 (P52), a Fragment of the Gospel of John. 'Academic analysis of the oldest canonical NT fragment, confirming the early second-century date and the text's alignment with John's Gospel.' https://uasvbible.org/2023/03/05/the-papyrus-rylands-457-p52-a-fragment-of-the-gospel-of-john/",
-    "39. [Wikipedia] 'Rylands Library Papyrus P52.' https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
-    "40. [Academic] Theological Studies Journal - Papyrus Bodmer II (P66): an early codex of St. John. 'Scholarly paper confirming the early existence and textual stability of John's Gospel, including key passages affirming Jesus' deity.' https://theologicalstudies.net/wp-content/uploads/2022/08/18.3.4.pdf",
-    "41. [Archaeology] Saylor Academy - Dura Europos and the Early Christian 'house church' background. 'Academic course material detailing the earliest known Christian church building and its purpose.' https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/ARTH401-1.1.3-Dura-Europos-FINAL.pdf",
-    "42. [Primary Source] Livius - Tacitus on the Christians. 'Historical resource providing scholarly context and translation of Tacitus's Annals 15.44.' https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/",
-    "43. [Wikipedia] 'Crucifixion of Jesus.' https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
-    "44. [Academic] Josephus.org - New Testament Parallels. 'Scholarly commentary on the context of Suetonius's reference to 'Chrestus' and its tie to early Christian disturbances.' https://www.josephus.org/ntparallels2.htm",
-    "45. [Apologetics] Desiring God - Singing to the Risen Son: A History of Christian Hymns. 'Article quoting and contextualizing Pliny's letter and the description of Christ's worship as a god.' https://www.desiringgod.org/articles/singing-to-the-risen-son",
-    "46. [Primary Source] Flavius Josephus, Antiquities of the Jews, trans. W. Whiston, 20.9.1. Project Gutenberg. https://www.gutenberg.org/ebooks/2848",
-    "47. [Wikipedia] 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
-    "48. [Primary Source] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
-    "49. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
-    "50. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",
-    "51. [Academic] 'Rankled by Wrangling over Rank-Raglan Rankings: Jesus and the Mythic Hero Archetype | Bible Interp.' The Bible and Interpretation. https://bibleinterp.arizona.edu/articles/2014/12/mcg388023",
-    "52. [Wikipedia] 'Christ myth theory.' https://en.wikipedia.org/wiki/Christ_myth_theory",
-    "53. [Wikipedia] 'Pauline Christianity.' https://en.wikipedia.org/wiki/Pauline_Christianity",
-    "54. [Wikipedia] 'Penal substitution.' https://en.wikipedia.org/wiki/Penal_substitution",
-    "55. [Reference] 'Penal Substitution: Steve Chalke and the Lost Message of Jesus, 20 years on.' Faith Root. https://faithroot.com/2023/06/23/penal-substitution-steve-chalke-and-the-lost-message-of-jesus-20-years-on/",
-    "56. [Wikipedia] 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
+    "2. [Reference] Bible Hub Interlinear Bible. 'Exodus 3:14.' https://biblehub.com/interlinear/exodus/3-14.htm",
+    "3. [Primary Source] Blue Letter Bible. 'Exodus 3:14 (LXX).' Septuagint Greek text. https://www.blueletterbible.org/lxx/exo/3/14/",
+    "4. [Primary Source] Blue Letter Bible. 'Isaiah 43:10 (LXX).' Septuagint Greek text. https://www.blueletterbible.org/lxx/isa/43/10/",
+    "5. [Academic] University of Birmingham - The 'I-AM' Sayings of Jesus in the Gospel of John and Questions of History. 'Scholarly exploration of the ego eimi sayings and their relation to the historicity and identity of Jesus.' https://etheses.bham.ac.uk/8074/1/Okpako18MAbyRes.pdf",
+    "6. [Reference] Bible Hub Interlinear Bible. 'John 8:58.' https://biblehub.com/interlinear/john/8-58.htm",
+    "7. [Apologetics] Cold Case Christianity - Jesus Specifically Said, “I am God”. 'Analysis of John 8:58 proving Jesus' claim to the divine name led to the charge of blasphemy.' https://coldcasechristianity.com/writings/jesus-specifically-said-i-am-god/",
+    "8. [Commentary] Bible Hub. 'Commentaries on John 18:6.' https://biblehub.com/commentaries/john/18-6.htm",
+    "9. [Commentary] Bible Hub - How do historical interpretations of John 10:30 differ?. 'Scholarly overview confirming the neuter hen indicates ontological unity of essence/nature.' https://biblehub.com/q/How_do_views_on_John_10_30_vary.htm",
+    "10. [Apologetics] Stand to Reason - Why Jesus? Part 2. 'Apologetics discussion referencing the Jewish response to Jesus' claims of equality with God in John 8:59 and 10:30.' https://www.str.org/w/why-jesus-part-2",
+    "11. [Apologetics] Got Questions. 'What Does the Bible Mean by You Are Gods in Psalm 82:6 and John 10:34?.' https://www.gotquestions.org/you-are-gods.html",
+    "12. [Commentary] Bible Hub. 'Commentaries on John 14:9.' https://biblehub.com/commentaries/john/14-9.htm",
+    "13. [Reference] Bible Hub Interlinear Bible. 'John 5:18.' https://biblehub.com/interlinear/john/5-18.htm",
+    "14. [Commentary] Bible Hub. 'Commentaries on Philippians 2:6.' https://biblehub.com/commentaries/philippians/2-6.htm",
+    "15. [Reference] Bible Hub Interlinear Bible. 'Philippians 2:6.' https://biblehub.com/interlinear/philippians/2-6.htm",
+    "16. [Reference] Bible Hub. Strong's Greek 3444: morphé (form). https://biblehub.com/greek/3444.htm",
+    "17. [Commentary] Dr. Constable's Expository Notes - Mark 14. 'Commentary on the term 'Son of the Blessed One' as a direct, clear claim to divinity.' https://www.studylight.org/commentaries/eng/dcc/mark-14.html",
+    "18. [Commentary] Commentaries on Mark 14:61. Bible Hub. https://biblehub.com/commentaries/mark/14-61.htm",
+    "19. [Reference] Bible Hub Interlinear Bible. 'Daniel 7:13.' https://biblehub.com/interlinear/daniel/7-13.htm",
+    "20. [Reference] Bible Hub. Strong's Hebrew 6399: pelach (to pay reverence to, serve). https://biblehub.com/hebrew/6399.htm",
+    "21. [Academic] JETS - The Deity of Christ in the Synoptic Gospels. 'Journal article on how Jesus used the title to claim judicial authority and deity.' https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_37_37-3_JETS_37-3_333-350_Doriani.pdf",
+    "22. [Apologetics] GotQuestions.org - What does it mean that Jesus is the Alpha and the Omega?. 'Article explaining the title as a reference to Jesus' eternal nature, comparing it to OT usage for God (Isaiah 44:6).' https://www.gotquestions.org/alpha-and-omega.html",
+    "23. [Apologetics] Christian Courier - Jesus Christ: The First and the Last. 'Article confirming the 'First and the Last' title is used of Yahweh in Isaiah and applied by Jesus in Revelation to assert His eternal deity.' https://christiancourier.com/articles/jesus-christ-the-first-and-the-last",
+    "24. [Commentary] Bible Hub. 'Commentaries on John 1:1.' https://biblehub.com/commentaries/john/1-1.htm",
+    "25. [Reference] Bible Hub Interlinear Bible. 'John 1:1.' https://biblehub.com/interlinear/john/1-1.htm",
+    "26. [Wikipedia] 'New World Translation.' The Jehovah's Witnesses' version and its rendering of John 1:1. https://en.wikipedia.org/wiki/New_World_Translation",
+    "27. [Wikipedia] 'Ernest Cadman Colwell.' Including Colwell's rule on definite predicate nouns and John 1:1. https://en.wikipedia.org/wiki/Ernest_Cadman_Colwell",
+    "28. [Commentary] Bible Hub. 'Commentaries on John 1:18.' https://biblehub.com/commentaries/john/1-18.htm",
+    "29. [Wikipedia] 'Monogenes.' Including the textual question in John 1:18 and the manuscripts on each side. https://en.wikipedia.org/wiki/Monogen%C4%93s",
+    "30. [Commentary] Bible Hub. 'Commentaries on Romans 9:5.' https://biblehub.com/commentaries/romans/9-5.htm",
+    "31. [Reference] Bible Hub Interlinear Bible. 'Romans 9:5.' https://biblehub.com/interlinear/romans/9-5.htm",
+    "32. [Commentary] Bible Hub. 'Commentaries on Titus 2:13.' https://biblehub.com/commentaries/titus/2-13.htm",
+    "33. [Commentary] Bible Hub. 'Commentaries on 2 Peter 1:1.' https://biblehub.com/commentaries/2_peter/1-1.htm",
+    "34. [Wikipedia] 'Granville Sharp.' Including the rule on one article governing two nouns, published in 1798. https://en.wikipedia.org/wiki/Granville_Sharp",
+    "35. [Reference] Bible Hub Interlinear Bible. '2 Peter 1:1.' https://biblehub.com/interlinear/2_peter/1-1.htm",
+    "36. [Commentary] Bible Hub. 'Commentaries on Hebrews 1:8.' https://biblehub.com/commentaries/hebrews/1-8.htm",
+    "37. [Reference] Bible Hub Interlinear Bible. 'Hebrews 1:8.' https://biblehub.com/interlinear/hebrews/1-8.htm",
+    "38. [Apologetics] GotQuestions.org - Forgiveness Without Sacrifice. 'Article discussing Jesus' authority to forgive sins as a divine prerogative, citing Mark 2:7.' https://www.gotquestions.org/forgiveness-without-sacrifice.html",
+    "39. [Christian Source] The Outlook Magazine (Reformed Fellowship) - “I Am the Resurrection and the Life”. 'Meditation emphasizing Jesus’ personal authority over both spiritual and bodily resurrection, demonstrating His divine power.' https://outlook.reformedfellowship.net/sermons/i-am-the-resurrection-and-the-life-a-meditation-on-john-1125-26/",
+    "40. [Apologetics] The Gospel Coalition - The Compassionate Truth About Judgment. 'Article affirming Jesus’ assumption of the role of ultimate Judge as a core claim to His sovereign authority.' https://www.thegospelcoalition.org/article/the-compassionate-truth-about-judgment/",
+    "41. [Commentary] Commentaries on Matthew 25:31. Bible Hub. https://biblehub.com/commentaries/matthew/25-31.htm",
+    "42. [Academic] George Fox University - Matthew 25:31-46 Exegetical Perspective. 'Exegetical article on the Son of Man sitting as the heavenly judge of the nations, a claim to sovereign authority.' https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1330&context=ccs",
+    "43. [Christian Source] Third Mill - The Son of Man is Lord even of the Sabbath. 'Commentary detailing how Jesus' claim to be Lord of the Sabbath was a direct claim to deity, as He is the Sovereign One who makes the Sabbath rules.' https://thirdmill.org/answers/answer.asp/file/48973",
+    "44. [Christian Source] John Dickson - Jesus as Temple. 'Article analyzing Jesus' cleansing of the temple and his claim to rebuild it in three days (referencing his own body) as an assertion of divine authority superior to the temple itself.' http://www.johndickson.org/blog/2018/2/7/jesus-as-the-temple",
+    "45. [Academic] ResearchGate - The Faith of the Disciples in John 16:30-33. 'Academic article discussing the significance of the disciples' confession that Jesus 'knows all things' (omniscience).' https://www.researchgate.net/publication/334909741_Now_You_Believe_The_Faith_of_the_Disciples_in_John_1630-33",
+    "46. [Commentary] Commentaries on John 16:30. Bible Hub. https://biblehub.com/commentaries/john/16-30.htm",
+    "47. [Apologetics] GotQuestions.org - What does it mean that Jesus knew what was in man (John 2:25)?. 'Article detailing how Jesus' inherent knowledge of human hearts demonstrates the divine attribute of omniscience.' https://www.gotquestions.org/He-knew-what-was-in-man.html",
+    "48. [Apologetics] Ligonier Ministries - A Communication of Attributes. 'Devotional examining how Matthew 28:20 implies Christ's divine omnipresence.' https://learn.ligonier.org/devotionals/communication-attributes",
+    "49. [Commentary] Bible Hub. Isaiah 7:14 in parallel translations. https://biblehub.com/isaiah/7-14.htm",
+    "50. [Commentary] Bible Hub - Matthew 14:33 Study Bible. 'Commentary noting that the disciples' act of worship, reserved for God alone in Jewish culture, affirms Jesus' divine authority.' https://biblehub.com/study/matthew/14-33.htm",
+    "51. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Gospel of Mark.' https://www.newadvent.org/cathen/09674b.htm",
+    "52. [Apologetics] Desiring God - Joy to the World. 'Article on Luke 24:52 confirming the disciples' worship of the ascended Christ.' https://www.desiringgod.org/articles/joy-to-the-world",
+    "53. [Reference] Bible Hub Interlinear Bible. 'Matthew 14:33.' https://biblehub.com/interlinear/matthew/14-33.htm",
+    "54. [Reference] Bible Hub. Strong's Greek 4352: proskuneó (to do reverence to, worship). https://biblehub.com/greek/4352.htm",
+    "55. [Christian Source] Crossway - God or 'Son of God'?. 'Article referencing John 9:38 to show the worship of the healed blind man as a response to divine revelation.' https://www.crossway.org/articles/god-or-son-of-god/",
+    "56. [Commentary] Commentaries on John 9:38. Bible Hub. https://biblehub.com/commentaries/john/9-38.htm",
+    "57. [Commentary] Bible Hub - John 20:28 Commentaries. 'Compilation of scholarly views confirming Thomas’s statement as a direct confession and acceptance of Jesus' full, supreme divinity.' https://biblehub.com/commentaries/john/20-28.htm",
+    "58. [Reference] Bible Hub Interlinear Bible. 'John 20:28.' https://biblehub.com/interlinear/john/20-28.htm",
+    "59. [Apologetics] Ligonier Ministries - The Person of Christ. 'Theological teaching on Colossians 2:9 and Christ possessing the entire essence of the Godhead.' https://learn.ligonier.org/guides/the-person-of-christ",
+    "60. [Reference] Bible Hub. Strong's Greek 2320: theotés (deity). https://biblehub.com/greek/2320.htm",
+    "61. [Reference] Bible Hub. Strong's Greek 2305: theiotés (divinity, divine nature). https://biblehub.com/greek/2305.htm",
+    "62. [Wikipedia] 'Maranatha.' https://en.wikipedia.org/wiki/Maranatha",
+    "63. [Commentary] Commentaries on 1 Corinthians 16:22. Bible Hub. https://biblehub.com/commentaries/1_corinthians/16-22.htm",
+    "64. [Archaeology] Brent Nongbri - The Palatine Alexamenos Graffito. 'Scholarly blog post analyzing the Alexamenos Graffito as early, hostile evidence of Christ's worship.' https://brentnongbri.com/2018/06/25/the-palatine-alexamenos-graffito/",
+    "65. [News] PBS Frontline - In The Catacombs. 'Documentary transcript describing the earliest Christian material evidence, symbols (Chi-Rho, Good Shepherd), and the catacombs as sites of early Christian memorial.' https://www.pbs.org/wgbh/pages/frontline/shows/religion/first/catacombs.html",
+    "66. [Commentary] UASV Bible - The Papyrus Rylands 457 (P52), a Fragment of the Gospel of John. 'Academic analysis of the oldest canonical NT fragment, confirming the early second-century date and the text's alignment with John's Gospel.' https://uasvbible.org/2023/03/05/the-papyrus-rylands-457-p52-a-fragment-of-the-gospel-of-john/",
+    "67. [Wikipedia] 'Rylands Library Papyrus P52.' https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52",
+    "68. [Academic] Theological Studies Journal - Papyrus Bodmer II (P66): an early codex of St. John. 'Scholarly paper confirming the early existence and textual stability of John's Gospel, including key passages affirming Jesus' deity.' https://theologicalstudies.net/wp-content/uploads/2022/08/18.3.4.pdf",
+    "69. [Archaeology] Saylor Academy - Dura Europos and the Early Christian 'house church' background. 'Academic course material detailing the earliest known Christian church building and its purpose.' https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/03/ARTH401-1.1.3-Dura-Europos-FINAL.pdf",
+    "70. [Primary Source] Livius - Tacitus on the Christians. 'Historical resource providing scholarly context and translation of Tacitus's Annals 15.44.' https://www.livius.org/sources/content/tacitus/tacitus-on-the-christians/",
+    "71. [Wikipedia] 'Crucifixion of Jesus.' https://en.wikipedia.org/wiki/Crucifixion_of_Jesus",
+    "72. [Academic] Josephus.org - New Testament Parallels. 'Scholarly commentary on the context of Suetonius's reference to 'Chrestus' and its tie to early Christian disturbances.' https://www.josephus.org/ntparallels2.htm",
+    "73. [Apologetics] Desiring God - Singing to the Risen Son: A History of Christian Hymns. 'Article quoting and contextualizing Pliny's letter and the description of Christ's worship as a god.' https://www.desiringgod.org/articles/singing-to-the-risen-son",
+    "74. [Primary Source] Flavius Josephus, Antiquities of the Jews, trans. W. Whiston, 20.9.1. Project Gutenberg. https://www.gutenberg.org/ebooks/2848",
+    "75. [Wikipedia] 'Josephus on Jesus.' https://en.wikipedia.org/wiki/Josephus_on_Jesus",
+    "76. [Primary Source] Sefaria - Sanhedrin 43a. 'Jewish text confirming the execution and negative reputation of 'Yeshu' (Jesus).' https://www.sefaria.org/Sanhedrin.43a",
+    "77. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers. 'Protestant-friendly archive of Clement of Rome's 1 Clement.' https://www.ccel.org/ccel/lightfoot/fathers.ii.i.html",
+    "78. [Primary Source] Christian Classics Ethereal Library (CCEL) - John Lightfoot: Apostolic Fathers (Ignatius to the Smyrnaeans). 'Protestant-friendly archive of early church writings, confirming Ignatius's statement on Jesus as Son of God.' https://www.ccel.org/ccel/lightfoot/fathers/fathers.ii.viii.html",
+    "79. [Academic] 'Rankled by Wrangling over Rank-Raglan Rankings: Jesus and the Mythic Hero Archetype | Bible Interp.' The Bible and Interpretation. https://bibleinterp.arizona.edu/articles/2014/12/mcg388023",
+    "80. [Wikipedia] 'Christ myth theory.' https://en.wikipedia.org/wiki/Christ_myth_theory",
+    "81. [Wikipedia] 'Pauline Christianity.' https://en.wikipedia.org/wiki/Pauline_Christianity",
+    "82. [Wikipedia] 'Penal substitution.' https://en.wikipedia.org/wiki/Penal_substitution",
+    "83. [Reference] 'Penal Substitution: Steve Chalke and the Lost Message of Jesus, 20 years on.' Faith Root. https://faithroot.com/2023/06/23/penal-substitution-steve-chalke-and-the-lost-message-of-jesus-20-years-on/",
+    "84. [Wikipedia] 'Lewis's Trilemma.' https://en.wikipedia.org/wiki/Lewis%27s_trilemma"
   ],
   lastUpdated: "30-10-2026"
 }

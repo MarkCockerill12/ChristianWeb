@@ -166,6 +166,9 @@ The Babylonian *Enūma Eliš*, whose earliest copy dates to the ninth century BC
 
 The flood is the clearest literary parallel. In the Babylonian *Atrahasis*, copied in the reign of Ammi-Saduqa (1646 to 1626 BC), the gods send a flood because people have grown so many and so noisy that the gods cannot sleep[^46][^47]. Tablet XI of the *Epic of Gilgamesh*, in a seventh-century BC copy read by George Smith in 1872, retells it: a man warned in secret builds a boat for his family and animals, the boat grounds on a mountain, he sends out a dove, a swallow and a raven, and when he sacrifices, the gods "gathered like flies over the sacrifice"[^48][^49]. Genesis has the same sequence (Genesis 8:6-12, 20-21), and scholars widely accept that it is related to the Mesopotamian accounts[^50][^51]. But in Genesis one God sends the flood in judgment on violence and corruption (Genesis 6:11-13), saves Noah because he is righteous (Genesis 6:9), and binds himself by covenant never to repeat it (Genesis 9:11).
 
+<?viz img/flood-tablet?>
+
+
 ### Moses in the Basket
 
 A Neo-Assyrian text of the seventh century BC has Sargon of Akkad say that his mother, a priestess, bore him in secret, "set me in a basket of rushes, with bitumen she sealed my lid", and put him in the river, where Akki the water-drawer found and raised him. Stephanie Dalley notes the resemblance to Exodus 2, and the abandoned infant who becomes a leader is a wider motif, told also of Karna and Oedipus[^52][^53]. The two stories run in opposite directions: Sargon, of unknown father, rises from commoner to king, while Moses, a Hebrew slave's son with named parents, is raised by Pharaoh's daughter and sides with his enslaved people[^54].
@@ -178,6 +181,9 @@ The Code of Hammurabi (about 1753 BC) and the Covenant Code of Exodus 20:22 to 2
 
 The Egyptian *Instruction of Amenemope*, from the Ramesside period (about 1300 to 1075 BC), is arranged in thirty chapters, and Proverbs 22:20 asks, "Have I not written for you thirty sayings?" Adolf Erman showed in 1924 how closely Proverbs 22:17 to 23:11 follows it: "Give thine ear, and hear what I say" against "Incline your ear"; "Remove not the landmark from the bounds of the field" against "Do not move the ancient landmark" (Proverbs 23:10). Most scholars hold that the Proverbs passage depends on Amenemope, though a minority disputes it[^56]. Proverbs gives the borrowed advice a new purpose: "that your trust may be in the LORD" (Proverbs 22:19).
 
+<?viz img/amenemope?>
+
+
 The *Great Hymn to the Aten*, composed under Akhenaten in the fourteenth century BC, resembles Psalm 104 in its picture of night, lions, ships and creatures waiting on their creator. James Henry Breasted thought the psalm was inspired by it, Miriam Lichtheim put the likeness down to the general similarity of Egyptian hymns and biblical psalms, and Jan Assmann and Donald Redford still argue for influence[^57]. In the psalm the sun is a creature that "knows its time for setting" (Psalm 104:19), not the god being praised.
 
 ### Leviathan
@@ -188,7 +194,6 @@ At Ugarit, the *Baal Cycle* describes Lotan, "the fugitive serpent", possibly se
 
 Historic Christian teaching holds that Scripture is inspired through human authors writing in their own languages and genres (2 Timothy 3:16; 2 Peter 1:21). Shared forms are therefore expected. Where the texts differ is in what they say about God: one Creator rather than a family of warring gods, a flood sent in moral judgment rather than irritation, laws given within a covenant, and borrowed wisdom redirected to trust in the LORD.
 
-<?viz pagan-origins/ane-gallery?>
 
 **See also:** [Borrowed Myths? Genesis and the Mesopotamian Parallels (Evolution vs Creation)](/categories/evolution#section-ancient-near-eastern-parallels).
 `,
@@ -248,7 +253,7 @@ Santa Claus comes from a Christian bishop. Nicholas of Myra, traditionally 270 t
       content: `
 ### The Name
 
-In most languages Easter is named after Passover. The Greek and Latin *Pascha* comes through Aramaic from the Hebrew *Pesach*, the name of the Jewish festival at which the Gospels place the crucifixion (Mark 14:12). The Council of Nicaea in 325 set a common date for all Christians, the first Sunday after the first full moon on or after the spring equinox[^72][^73]. Easter falls in spring because Passover does.
+In most languages Easter is named after Passover. The Greek and Latin *Pascha* (Πάσχα) comes through the Aramaic *pascha* (פַּסְחָא) from the Hebrew *Pesach* (פֶּסַח, a passing over, Exodus 12:13), the name of the Jewish festival at which the Gospels place the crucifixion (Mark 14:12). The Council of Nicaea in 325 set a common date for all Christians, the first Sunday after the first full moon on or after the spring equinox[^72][^73]. Easter falls in spring because Passover does.
 
 <?viz pagan-origins/easter-names?>
 
@@ -298,11 +303,13 @@ Christianity grew up inside the Roman world, and some borrowing is clear. Most o
 *   **Mary nursing Jesus.** Images of Isis and Horus probably shaped some Egyptian pictures of Mary, as described in the Horus section.
 *   **Folk customs.** Christmas trees, Halloween lanterns and the Easter hare grew from European folk practice, some of it with older seasonal roots, long after the festivals themselves were fixed.
 
+<?viz pagan-origins/christ-sol?>
+
+
 The line historians draw is between form and content. Shared images, words and customs show that Christians lived in their world, as Paul did when he quoted Greek poets at Athens (Acts 17:28). They do not show that the claims about Jesus, a crucifixion under Pontius Pilate and an empty tomb in Jerusalem, were taken from it.
 
 <?viz pagan-origins/custom-scorecard?>
 
-<?viz pagan-origins/christ-sol?>
 `,
     },
     {

@@ -141,37 +141,53 @@ Critics answer that a small number of unexplained recoveries among millions of p
 **What the list does and does not show:** The recognised cases are the small remainder of a very large number of claims, and the Church itself declares far fewer miracles than the Medical Bureau once accepted. That caution is a point in the process's favour. The cases are nevertheless uneven: the nineteenth-century diagnoses could not use modern tests, and conditions such as multiple sclerosis can remit naturally, which is why sceptics regard only a handful of the modern cases, such as the bone and tumour regressions, as genuinely hard to explain[^32].`
     },
     {
+      id: "fatima",
+      title: "The Miracle of the Sun at Fatima",
+      tags: ["Cases"],
+      content: `
+**What happened.** In 1917 three shepherd children near Fátima in Portugal, Lúcia dos Santos and her cousins Francisco and Jacinta Marto, reported a series of apparitions of the Virgin Mary, and said that a miracle would take place on 13 October. A crowd estimated at 50,000 to 70,000 gathered that day in the rain[^33][^34][^35].
+
+Many witnesses, including journalists from secular newspapers, reported that the clouds parted and the sun appeared to spin, change colour and zigzag towards the earth, and that their wet clothes were suddenly dry. Not everyone present saw it, and some saw nothing unusual[^33][^36].
+
+**Explanations.** Sceptics suggest the effects of staring at the sun on the eye, an atmospheric effect such as a sundog, or expectation shared by a large crowd. Observatories elsewhere recorded nothing unusual, so if something happened it was local rather than an event in the sun itself[^33][^34][^36].
+
+**What the Church says.** The local bishop declared the apparitions worthy of belief in 1930. The Catholic Church classes them as a private revelation, which a Catholic is not required to believe, since public revelation was completed with Christ and the apostles[^35][^34].
+
+Protestants have generally been sceptical of Marian apparitions, because their messages centre devotion on Mary rather than on Christ. Whatever happened at Fátima, it is a different kind of case from the medically documented healings at Lourdes, since what was seen cannot now be examined[^34][^35].
+`
+    },
+    {
       id: "physician-investigators",
       title: "Physicians Who Investigated Healing Claims",
       tags: ["Cases"],
-      content: `**Doctors on both sides:** Physicians have investigated healing claims both as believers and as sceptics, and their conclusions differ[^33].
+      content: `**Doctors on both sides:** Physicians have investigated healing claims both as believers and as sceptics, and their conclusions differ[^37].
 
-**Alexis Carrel (1873-1944):** A Lyon surgeon who later won the 1912 Nobel Prize for his work on suturing blood vessels, Carrel accompanied a pilgrimage to Lourdes in 1902 as an agnostic. On the train he examined Marie Bailly, aged 22, who had been diagnosed with tuberculous peritonitis and appeared to be dying, and he saw her abdominal swelling subside at Lourdes and her condition transform within hours. He reported what he had seen, which damaged his standing in the anticlericalist medical circles of Lyon, though he did not claim a miracle and only returned to Catholic practice near the end of his life. Marie Bailly's cure is not among the 72 officially recognised healings. Carrel's later reputation is also clouded by his advocacy of eugenics[^34][^35][^36].
+**Alexis Carrel (1873-1944):** A Lyon surgeon who later won the 1912 Nobel Prize for his work on suturing blood vessels, Carrel accompanied a pilgrimage to Lourdes in 1902 as an agnostic. On the train he examined Marie Bailly, aged 22, who had been diagnosed with tuberculous peritonitis and appeared to be dying, and he saw her abdominal swelling subside at Lourdes and her condition transform within hours. He reported what he had seen, which damaged his standing in the anticlericalist medical circles of Lyon, though he did not claim a miracle and only returned to Catholic practice near the end of his life. Marie Bailly's cure is not among the 72 officially recognised healings. Carrel's later reputation is also clouded by his advocacy of eugenics[^38][^39][^40].
 
-**Richard Casdorph:** A California internist, Casdorph gathered medical records, X-rays and test results for ten people healed at Kathryn Kuhlman's meetings and published them in *The Miracles* (1976), concluding that several recoveries had no medical explanation. Delores Winder's case comes from this collection[^37].
+**Richard Casdorph:** A California internist, Casdorph gathered medical records, X-rays and test results for ten people healed at Kathryn Kuhlman's meetings and published them in *The Miracles* (1976), concluding that several recoveries had no medical explanation. Delores Winder's case comes from this collection[^41].
 
-**William Nolen:** A Minnesota surgeon, Nolen followed up people who claimed healing at a Kathryn Kuhlman service in 1973. He interviewed 23 of them over the following months and concluded in *Healing: A Doctor in Search of a Miracle* (1974) that none with an organic disease had been cured, reporting that one woman who discarded her brace on stage suffered a spinal collapse and died months later[^38][^39].
+**William Nolen:** A Minnesota surgeon, Nolen followed up people who claimed healing at a Kathryn Kuhlman service in 1973. He interviewed 23 of them over the following months and concluded in *Healing: A Doctor in Search of a Miracle* (1974) that none with an organic disease had been cured, reporting that one woman who discarded her brace on stage suffered a spinal collapse and died months later[^42][^43].
 
-**Patrick Theillier:** A gastroenterologist who later practised homeopathy and acupuncture, Theillier directed the Lourdes Medical Bureau from 1998 to 2009 and has written several books on Lourdes healings from a Catholic perspective. Claims that he was an atheist neurologist converted by the evidence are not supported by his published biography[^40].
+**Patrick Theillier:** A gastroenterologist who later practised homeopathy and acupuncture, Theillier directed the Lourdes Medical Bureau from 1998 to 2009 and has written several books on Lourdes healings from a Catholic perspective. Claims that he was an atheist neurologist converted by the evidence are not supported by his published biography[^44].
 
-**Fraud exposed:** Not every healing ministry is sincere. In 1986 the sceptic James Randi showed on national television that the evangelist Peter Popoff received information about audience members through a hidden earpiece from his wife, information Popoff presented as divine revelation[^41][^42].`
+**Fraud exposed:** Not every healing ministry is sincere. In 1986 the sceptic James Randi showed on national television that the evangelist Peter Popoff received information about audience members through a hidden earpiece from his wife, information Popoff presented as divine revelation[^45][^46].`
     },
     {
       id: "prayer-studies",
       title: "Scientific Studies of Prayer",
       tags: ["Evidence"],
-      content: `**Controlled research:** Several research teams have tried to measure the effect of prayer on health, with mixed results[^43].
+      content: `**Controlled research:** Several research teams have tried to measure the effect of prayer on health, with mixed results[^47].
 
 <?viz miracles/trials?>
 
 
-**The Mozambique study (STEPP, 2010):** Candy Gunther Brown and colleagues tested 24 people in rural Mozambique with impaired hearing or vision before and after Pentecostal "proximal intercessory prayer", using an audiometer and eye charts, and reported statistically significant improvements in both. The study was published in the *Southern Medical Journal*. It had no control group and a small sample, the testers were not blinded, and the authors themselves called for further research, so it shows measurable change after prayer but cannot establish its cause[^44][^45].
+**The Mozambique study (STEPP, 2010):** Candy Gunther Brown and colleagues tested 24 people in rural Mozambique with impaired hearing or vision before and after Pentecostal "proximal intercessory prayer", using an audiometer and eye charts, and reported statistically significant improvements in both. The study was published in the *Southern Medical Journal*. It had no control group and a small sample, the testers were not blinded, and the authors themselves called for further research, so it shows measurable change after prayer but cannot establish its cause[^48][^49].
 
-**The STEP trial (2006):** The largest trial of distant intercessory prayer, led by Herbert Benson of Harvard Medical School, randomised 1,802 heart bypass patients in six hospitals. Complications occurred in 52% of patients prayed for and 51% of those not prayed for, and in 59% of those who were told for certain that they were being prayed for. Distant prayer by strangers showed no benefit[^46][^47].
+**The STEP trial (2006):** The largest trial of distant intercessory prayer, led by Herbert Benson of Harvard Medical School, randomised 1,802 heart bypass patients in six hospitals. Complications occurred in 52% of patients prayed for and 51% of those not prayed for, and in 59% of those who were told for certain that they were being prayed for. Distant prayer by strangers showed no benefit[^50][^51].
 
-**Religion and health research:** A separate body of research, associated especially with Harold Koenig of Duke University, finds that religious involvement correlates with better mental health, lower mortality and healthier behaviour, and Benson's earlier work described the physiological "relaxation response" produced by repetitive prayer and meditation. These findings concern ordinary natural effects of religious practice, not miracles, and neither supports nor refutes miraculous healing[^48][^49][^50].
+**Religion and health research:** A separate body of research, associated especially with Harold Koenig of Duke University, finds that religious involvement correlates with better mental health, lower mortality and healthier behaviour, and Benson's earlier work described the physiological "relaxation response" produced by repetitive prayer and meditation. These findings concern ordinary natural effects of religious practice, not miracles, and neither supports nor refutes miraculous healing[^52][^53][^54].
 
-**What the trials can and cannot test:** Christian theologians point out that prayer is a request to a personal God rather than a treatment whose dose can be measured, and that Scripture itself records unanswered prayer for healing (2 Corinthians 12:8-9). Critics reply that a God who heals in response to prayer ought to leave some statistical trace. Both points bear on how far experiments can settle the question[^51].
+**What the trials can and cannot test:** Christian theologians point out that prayer is a request to a personal God rather than a treatment whose dose can be measured, and that Scripture itself records unanswered prayer for healing (2 Corinthians 12:8-9). Critics reply that a God who heals in response to prayer ought to leave some statistical trace. Both points bear on how far experiments can settle the question[^55].
 
 **See also:** [Why Does God Not Answer Prayer? (Prayer)](/categories/prayer#section-unanswered-prayer).
 `
@@ -180,11 +196,11 @@ Critics answer that a small number of unexplained recoveries among millions of p
       id: "assessing-the-evidence",
       title: "Assessing the Evidence Honestly",
       tags: ["Evidence"],
-      content: `**Why many claims fail:** Spontaneous remission of cancer and other diseases does occur, rarely but measurably; conditions such as multiple sclerosis have natural relapses and remissions; symptoms with a psychological component can improve dramatically in an emotional setting; and the excitement of a meeting can mask pain for a time[^52][^53][^54].
+      content: `**Why many claims fail:** Spontaneous remission of cancer and other diseases does occur, rarely but measurably; conditions such as multiple sclerosis have natural relapses and remissions; symptoms with a psychological component can improve dramatically in an emotional setting; and the excitement of a meeting can mask pain for a time[^56][^57][^58].
 
-**Why some claims remain:** A minority of cases involve conditions that do not ordinarily reverse, such as destroyed bone reforming or a malignant tumour regressing without treatment, with records made before and after, and a long period without relapse. These are the cases on which the argument rests, and apologists increasingly argue from them rather than from the much larger number of uninvestigated testimonies[^55].
+**Why some claims remain:** A minority of cases involve conditions that do not ordinarily reverse, such as destroyed bone reforming or a malignant tumour regressing without treatment, with records made before and after, and a long period without relapse. These are the cases on which the argument rests, and apologists increasingly argue from them rather than from the much larger number of uninvestigated testimonies[^59].
 
-**The standard of evidence:** The strongest cases are those investigated by people with no stake in the outcome, with medical records from before the event. Testimony alone, however sincere, and stories that acquire details in retelling, are weak evidence, and repeating embellished versions damages the credibility of the genuine cases. Believers also hold that God's willingness to heal does not depend on whether a particular healing can be verified to a sceptic's satisfaction[^56][^57].
+**The standard of evidence:** The strongest cases are those investigated by people with no stake in the outcome, with medical records from before the event. Testimony alone, however sincere, and stories that acquire details in retelling, are weak evidence, and repeating embellished versions damages the credibility of the genuine cases. Believers also hold that God's willingness to heal does not depend on whether a particular healing can be verified to a sceptic's satisfaction[^60][^61].
 
 **See also:** [The Resurrection](/categories/resurrection).
 `
@@ -193,15 +209,15 @@ Critics answer that a small number of unexplained recoveries among millions of p
       id: "the-bible-on-miracles",
       title: "The Bible on Miracles",
       tags: ["Scripture"],
-      content: `**Miracles as Signs and Wonders:** The Bible presents miracles not merely as supernatural interventions but as "signs" (Greek *semeion* (σημεῖον, sign)) and "wonders" (*teras*) that testify to God's presence, confirm His message and point to the coming of His kingdom (John 20:30-31, Hebrews 2:3-4)[^58][^59].
+      content: `**Miracles as Signs and Wonders:** The Bible presents miracles not merely as supernatural interventions but as "signs" (Greek *semeion* (σημεῖον, sign)) and "wonders" (*teras*) that testify to God's presence, confirm His message and point to the coming of His kingdom (John 20:30-31, Hebrews 2:3-4)[^62][^63].
 
-**Cessationism and Continuationism:** Cessationists, including much of the Reformed tradition, hold that the miraculous gifts of the apostolic age ended with the apostles, though God may still heal in answer to prayer. Continuationists, including Pentecostal and Charismatic churches, hold that gifts of healing continue. Catholic and Orthodox churches have always recognised miracles associated with the saints[^60][^58].
+**Cessationism and Continuationism:** Cessationists, including much of the Reformed tradition, hold that the miraculous gifts of the apostolic age ended with the apostles, though God may still heal in answer to prayer. Continuationists, including Pentecostal and Charismatic churches, hold that gifts of healing continue. Catholic and Orthodox churches have always recognised miracles associated with the saints[^64][^62].
 
 **Biblical Mandate for Ministry:** Jesus commissioned his followers to preach and to heal, and many traditions regard this as a continuing mandate:
 
 - Jesus stated, "Very truly I tell you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father" (John 14:12).
 - James instructs the sick to call the elders of the church to pray over them and anoint them with oil (James 5:14-15).
-- Mark 16:17-18 lists signs that will accompany believers, including healing the sick. These verses belong to the longer ending of Mark, which is absent from the earliest complete manuscripts, and most scholars regard it as a later addition, so doctrine is not usually built on it alone[^61][^62].
+- Mark 16:17-18 lists signs that will accompany believers, including healing the sick. These verses belong to the longer ending of Mark, which is absent from the earliest complete manuscripts, and most scholars regard it as a later addition, so doctrine is not usually built on it alone[^65][^66].
 
 **Not every prayer is answered with healing:** Paul left Trophimus sick at Miletus (2 Timothy 4:20), advised Timothy to take wine for his frequent illnesses (1 Timothy 5:23), and was refused the removal of his own "thorn in the flesh" (2 Corinthians 12:7-9).
 
@@ -213,7 +229,7 @@ Critics answer that a small number of unexplained recoveries among millions of p
       title: "Extraordinary Claims Require Extraordinary Evidence",
       tags: ["Objections"],
       content: `
-Carl Sagan's slogan, with roots in Laplace and others, says that the more unlikely a claim, the stronger the evidence it needs[^63]. As a principle of weighing evidence, it is fair, and Christians should accept it.
+Carl Sagan's slogan, with roots in Laplace and others, says that the more unlikely a claim, the stronger the evidence it needs[^67]. As a principle of weighing evidence, it is fair, and Christians should accept it.
 
 It raises a question, however, about what counts as extraordinary. A miracle is unlikely if the universe is a closed system, and much less so if God exists. So the slogan cannot settle the matter by itself, because the answer depends on what one already believes about God. And it does not mean that the evidence has to be of a special kind: extremely unlikely events are accepted every day on ordinary testimony, such as a report of a lottery result.
 
@@ -229,7 +245,7 @@ I had a personal experience of something highly coincidental. My church is locat
 `,
     },
   ],
-      sources: [
+          sources: [
     "1. [Wikipedia] Craig S. Keener. Author of the two-volume Miracles: The Credibility of the New Testament Accounts (2011). https://en.wikipedia.org/wiki/Craig_S._Keener",
     "2. [Academic] Church History (Cambridge). 'Testing Prayer: Science and Healing, by Candy Gunther Brown.' https://www.cambridge.org/core/journals/church-history/article/testing-prayer-science-and-healing-by-candy-gunther-brown-cambridge-mass-harvard-university-press-2012-x-372-pp-2995-cloth/D95E87909FA40D77C644EA29ACEB15BD",
     "3. [Reference] Internet Archive. Candy Gunther Brown, 'Testing Prayer: Science and Healing' (Harvard University Press, 2012). https://archive.org/details/testingprayersci00brow",
@@ -262,37 +278,41 @@ I had a personal experience of something highly coincidental. My church is locat
     "30. [Wikipedia] 'James Randi.' https://en.wikipedia.org/wiki/James_Randi",
     "31. [News] EWTN UK. 'A voice told me not to be afraid: The story of Lourdes' 72nd recognized miracle.' https://ewtn.co.uk/article-a-voice-told-me-not-to-be-afraid-the-story-of-lourdes-72nd-recognized-miracle/",
     "32. [News] Slate.fr. 'A Lourdes, un bureau des miracles.' How the Medical Bureau sifts claims. https://www.slate.fr/story/165935/miracles-lourdes-bureau-verification",
-    "33. [Reference] William A. Dembski, 'The Faces of Miracles', chapter 5, 'William Nolen: The Face of Medical Scrutiny.' https://billdembski.com/book/the-faces-of-miracles/chapter-5/",
-    "34. [Wikipedia] 'Alexis Carrel.' https://en.wikipedia.org/wiki/Alexis_Carrel",
-    "35. [Academic] Marquette University, Linacre Quarterly. 'Two Lourdes Miracles and a Nobel Laureate.' https://epublications.marquette.edu/cgi/viewcontent.cgi?article=2206&context=lnq",
-    "36. [Academic] Catholic Culture (Linacre Quarterly). 'Two Lourdes Miracles and a Nobel Laureate: What Really Happened?' https://www.catholicculture.org/culture/library/view.cfm?id=2866",
-    "37. [Academic] Indiana University. Richard H. Casdorph, 'The Miracles' (Logos International, 1976). https://iucat.iu.edu/iub/138335",
-    "38. [Wikipedia] 'William A. Nolen.' https://en.wikipedia.org/wiki/William_A._Nolen",
-    "39. [Reference] Goodreads. William A. Nolen, 'Healing: A Doctor in Search of a Miracle' (1974). https://www.goodreads.com/book/show/1533961.Healing",
-    "40. [Christian Source] FIAMC. 'Dr. Patrick Theillier: Lourdes, Terre de guérisons.' https://www.fiamc.org/faith-prayer/prayer/dr-patrick-theillier-lourdes-terre-de-guerisons/",
-    "41. [Wikipedia] 'Peter Popoff.' https://en.wikipedia.org/wiki/Peter_Popoff",
-    "42. [Academic] 'James Randi.' Psi Encyclopedia, Society for Psychical Research. https://psi-encyclopedia.spr.ac.uk/articles/james-randi/",
-    "43. [News] Scientific American. 'No Prayer Prescription.' https://www.scientificamerican.com/article/no-prayer-prescription/",
-    "44. [Academic] Southern Medical Journal via PubMed. Brown, Mory, Williams and McClymond, 'Study of the therapeutic effects of proximal intercessory prayer (STEPP) on auditory and visual impairments in rural Mozambique' (2010). https://pubmed.ncbi.nlm.nih.gov/20686441/",
-    "45. [Reference] Patheos, Epiphenom (Tom Rees). 'A Truly Dreadful Study Into The Effects Of Prayer.' Methodological critique of STEPP. https://www.patheos.com/blogs/epiphenom/2011/02/truly-dreadful-study-into-effects-of.html",
-    "46. [Academic] American Heart Journal via PubMed. Benson et al., 'Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients' (2006). https://pubmed.ncbi.nlm.nih.gov/16569567/",
-    "47. [Reference] American College of Cardiology. 'Study of the Therapeutic Effects of Intercessory Prayer (STEP).' https://www.acc.org/latest-in-cardiology/clinical-trials/2010/02/23/19/21/step",
-    "48. [Academic] Religion, spirituality, and health: the research and clinical implications. PubMed. https://pubmed.ncbi.nlm.nih.gov/23762764/",
-    "49. [Wikipedia] 'Relaxation response.' https://en.wikipedia.org/wiki/Relaxation_response",
-    "50. [Wikipedia] 'Harold G. Koenig.' https://en.wikipedia.org/wiki/Harold_G._Koenig",
-    "51. [Academic] Stanford Encyclopedia of Philosophy. 'Petitionary Prayer.' https://plato.stanford.edu/entries/petitionary-prayer/",
-    "52. [Wikipedia] 'Placebo.' https://en.wikipedia.org/wiki/Placebo",
-    "53. [Academic] National Institute of Neurological Disorders and Stroke. Multiple Sclerosis. https://www.ninds.nih.gov/health-information/disorders/multiple-sclerosis",
-    "54. [Wikipedia] 'Multiple sclerosis.' https://en.wikipedia.org/wiki/Multiple_sclerosis",
-    "55. [Academic] Journal of Greco-Roman Christianity and Judaism. Review of Keener's 'Miracles.' http://jgrchj.net/reviews/9.R28-R32-Ong_on_Keener.pdf",
-    "56. [Apologetics] The Gospel Coalition, Themelios. Review of Keener, 'Miracles: The Credibility of the New Testament Accounts.' https://www.thegospelcoalition.org/themelios/review/miracles-the-credibility-of-the-new-testament-accounts/",
-    "57. [Academic] Denver Journal (Denver Seminary). Review of Keener, 'Miracles.' https://denverjournal.denverseminary.edu/the-denver-journal-article/miracles-the-credibility-of-the-new-testament-accounts/",
-    "58. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Miracle.' https://www.newadvent.org/cathen/10338a.htm",
-    "59. [Wikipedia] 'Miracle.' https://en.wikipedia.org/wiki/Miracle",
-    "60. [Wikipedia] 'Cessationism versus continuationism.' https://en.wikipedia.org/wiki/Cessationism",
-    "61. [Wikipedia] 'Mark 16.' The longer ending and its manuscript evidence. https://en.wikipedia.org/wiki/Mark_16",
-    "62. [Commentary] Commentaries on Mark 16:9. Bible Hub. https://biblehub.com/commentaries/mark/16-9.htm",
-    "63. [Wikipedia] 'Sagan standard.' https://en.wikipedia.org/wiki/Sagan_standard"
+    "33. [Wikipedia] 'Miracle of the Sun.' Witness accounts, crowd estimates and proposed explanations. https://en.wikipedia.org/wiki/Miracle_of_the_Sun",
+    "34. [Wikipedia] 'Our Lady of Fatima.' https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima",
+    "35. [Primary Source] Congregation for the Doctrine of the Faith (2000). 'The Message of Fatima.' Including the theological commentary on public and private revelation. https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_con_cfaith_doc_20000626_message-fatima_en.html",
+    "36. [Academic] Skeptical Inquirer 33.6 (2009). Joe Nickell, 'The Real Secrets of Fatima.' https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/2009/11/22164423/p14.pdf",
+    "37. [Reference] William A. Dembski, 'The Faces of Miracles', chapter 5, 'William Nolen: The Face of Medical Scrutiny.' https://billdembski.com/book/the-faces-of-miracles/chapter-5/",
+    "38. [Wikipedia] 'Alexis Carrel.' https://en.wikipedia.org/wiki/Alexis_Carrel",
+    "39. [Academic] Marquette University, Linacre Quarterly. 'Two Lourdes Miracles and a Nobel Laureate.' https://epublications.marquette.edu/cgi/viewcontent.cgi?article=2206&context=lnq",
+    "40. [Academic] Catholic Culture (Linacre Quarterly). 'Two Lourdes Miracles and a Nobel Laureate: What Really Happened?' https://www.catholicculture.org/culture/library/view.cfm?id=2866",
+    "41. [Academic] Indiana University. Richard H. Casdorph, 'The Miracles' (Logos International, 1976). https://iucat.iu.edu/iub/138335",
+    "42. [Wikipedia] 'William A. Nolen.' https://en.wikipedia.org/wiki/William_A._Nolen",
+    "43. [Reference] Goodreads. William A. Nolen, 'Healing: A Doctor in Search of a Miracle' (1974). https://www.goodreads.com/book/show/1533961.Healing",
+    "44. [Christian Source] FIAMC. 'Dr. Patrick Theillier: Lourdes, Terre de guérisons.' https://www.fiamc.org/faith-prayer/prayer/dr-patrick-theillier-lourdes-terre-de-guerisons/",
+    "45. [Wikipedia] 'Peter Popoff.' https://en.wikipedia.org/wiki/Peter_Popoff",
+    "46. [Academic] 'James Randi.' Psi Encyclopedia, Society for Psychical Research. https://psi-encyclopedia.spr.ac.uk/articles/james-randi/",
+    "47. [News] Scientific American. 'No Prayer Prescription.' https://www.scientificamerican.com/article/no-prayer-prescription/",
+    "48. [Academic] Southern Medical Journal via PubMed. Brown, Mory, Williams and McClymond, 'Study of the therapeutic effects of proximal intercessory prayer (STEPP) on auditory and visual impairments in rural Mozambique' (2010). https://pubmed.ncbi.nlm.nih.gov/20686441/",
+    "49. [Reference] Patheos, Epiphenom (Tom Rees). 'A Truly Dreadful Study Into The Effects Of Prayer.' Methodological critique of STEPP. https://www.patheos.com/blogs/epiphenom/2011/02/truly-dreadful-study-into-effects-of.html",
+    "50. [Academic] American Heart Journal via PubMed. Benson et al., 'Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients' (2006). https://pubmed.ncbi.nlm.nih.gov/16569567/",
+    "51. [Reference] American College of Cardiology. 'Study of the Therapeutic Effects of Intercessory Prayer (STEP).' https://www.acc.org/latest-in-cardiology/clinical-trials/2010/02/23/19/21/step",
+    "52. [Academic] Religion, spirituality, and health: the research and clinical implications. PubMed. https://pubmed.ncbi.nlm.nih.gov/23762764/",
+    "53. [Wikipedia] 'Relaxation response.' https://en.wikipedia.org/wiki/Relaxation_response",
+    "54. [Wikipedia] 'Harold G. Koenig.' https://en.wikipedia.org/wiki/Harold_G._Koenig",
+    "55. [Academic] Stanford Encyclopedia of Philosophy. 'Petitionary Prayer.' https://plato.stanford.edu/entries/petitionary-prayer/",
+    "56. [Wikipedia] 'Placebo.' https://en.wikipedia.org/wiki/Placebo",
+    "57. [Academic] National Institute of Neurological Disorders and Stroke. Multiple Sclerosis. https://www.ninds.nih.gov/health-information/disorders/multiple-sclerosis",
+    "58. [Wikipedia] 'Multiple sclerosis.' https://en.wikipedia.org/wiki/Multiple_sclerosis",
+    "59. [Academic] Journal of Greco-Roman Christianity and Judaism. Review of Keener's 'Miracles.' http://jgrchj.net/reviews/9.R28-R32-Ong_on_Keener.pdf",
+    "60. [Apologetics] The Gospel Coalition, Themelios. Review of Keener, 'Miracles: The Credibility of the New Testament Accounts.' https://www.thegospelcoalition.org/themelios/review/miracles-the-credibility-of-the-new-testament-accounts/",
+    "61. [Academic] Denver Journal (Denver Seminary). Review of Keener, 'Miracles.' https://denverjournal.denverseminary.edu/the-denver-journal-article/miracles-the-credibility-of-the-new-testament-accounts/",
+    "62. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'Miracle.' https://www.newadvent.org/cathen/10338a.htm",
+    "63. [Wikipedia] 'Miracle.' https://en.wikipedia.org/wiki/Miracle",
+    "64. [Wikipedia] 'Cessationism versus continuationism.' https://en.wikipedia.org/wiki/Cessationism",
+    "65. [Wikipedia] 'Mark 16.' The longer ending and its manuscript evidence. https://en.wikipedia.org/wiki/Mark_16",
+    "66. [Commentary] Commentaries on Mark 16:9. Bible Hub. https://biblehub.com/commentaries/mark/16-9.htm",
+    "67. [Wikipedia] 'Sagan standard.' https://en.wikipedia.org/wiki/Sagan_standard"
   ],
   lastUpdated: "30-10-2026"
 }

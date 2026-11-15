@@ -40,17 +40,22 @@ The standard Hebrew text is the Masoretic Text, the form copied and vocalised by
 
 The Dead Sea Scrolls, found from 1947 onward, pushed the evidence back roughly a thousand years. The Great Isaiah Scroll, dated around 125 BC, preserves all sixty-six chapters in the same order as the Masoretic Text and is generally consistent with it, while containing more than 2,600 variants and scribal corrections[^11][^12].
 
+<?viz img/isaiah-scroll?>
+
+
 Modern translations follow the Masoretic Text and turn to the Dead Sea Scrolls, the Septuagint, the Samaritan Pentateuch and other ancient versions only in difficult cases, usually with a footnote. The ESV preface describes exactly this practice[^13].
 
 ### The New Testament
 
 The New Testament survives in more than 5,800 Greek manuscripts, around 10,000 Latin manuscripts and some 9,300 in other ancient languages[^14][^15]. The oldest substantial papyri, such as 𝔓75, are traditionally dated to around AD 200 to 250, though some scholars now argue for dates into the early fourth century[^16][^17]. The oldest complete New Testament is in Codex Sinaiticus, copied in the fourth century, and Codex Vaticanus is of similar age[^18][^19][^20].
 
+<?viz img/codex-sinaiticus?>
+
+
 Printed Greek New Testaments fall into three families, and the family a translation uses explains most of the differences in its New Testament:
 
 - **The Textus Receptus** ("received text") is the line of printed editions that began with Erasmus in 1516 and continued through Stephanus (1550), Beza and the Elzevirs. Erasmus worked from a small number of late manuscripts, and this text underlies the Reformation-era Bibles, including the KJV[^21][^22].
 
-<?viz bible-translations/manuscripts?>
 
 
 <?viz bible-translations/manuscript-timeline?>
@@ -97,6 +102,9 @@ Translating Scripture is as old as Scripture. When Ezra read the Law to the retu
 - **The Latin Vulgate.** For a thousand years Western Christians read Scripture in Latin, in the translation Jerome began in 382 at the commission of Pope Damasus I. The Council of Trent (1545-1563) affirmed it as the Catholic Church's official Latin Bible[^49][^50].
 - **Wycliffe's Bible** (about 1382-1395) was the first complete Bible in English, translated from the Vulgate rather than the Hebrew and Greek. From 1409 Archbishop Arundel's Constitutions restricted unlicensed English translation[^51][^52].
 - **William Tyndale** published the first printed English New Testament in 1526, the first English translation made directly from the Greek, and later the Pentateuch from the Hebrew. Copies were bought up and burned, and Tyndale was condemned as a heretic and executed in 1536[^53][^54].
+
+<?viz img/tyndale-john?>
+
 - **The Geneva Bible** (1560), produced by English Protestant exiles in Geneva with extensive study notes, was the Bible of Shakespeare, John Knox and Oliver Cromwell, and travelled to America on the Mayflower. It remained the most popular English Bible for decades after 1611[^55][^56][^57].
 - **The Douay-Rheims Bible** was the Catholic answer: its New Testament appeared at Rheims in 1582 and its Old Testament at Douai in 1609-1610, translated from the Vulgate by the English College in exile. Bishop Richard Challoner's revision of 1749-1752 is the form still printed[^58][^59][^60].
 `
@@ -107,6 +115,9 @@ Translating Scripture is as old as Scripture. When Ezra read the Law to the retu
       tags: ["History", "KJV debate"],
       content: `
 At the Hampton Court Conference of January 1604, the Puritan John Rainolds proposed a new translation to replace the Geneva Bible, and King James agreed[^61][^62]. Forty-seven scholars, all members of the Church of England, worked in six companies and published the result in 1611[^63][^64][^65][^66].
+
+<?viz img/kjv-1611?>
+
 
 ### How original was it?
 

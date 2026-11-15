@@ -18,7 +18,6 @@ The resurrection is the central point of Christianity. After all, "...if Christ 
 
 <?viz resurrection/minimal-facts?>
 
-<?viz resurrection/theory-scorecard?>
 `,
   subtopics: [
     {
@@ -72,39 +71,44 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 • **Confirmed Location:** The tomb's location was known to early Christians and even to opponents. Had the body remained, the Christian movement would have been stopped immediately. "Joseph took the body, wrapped it in a clean linen cloth, and placed it in his own new tomb that he had cut out of the rock" ([Matthew 27:59-60](https://www.biblegateway.com/passage/?search=Matthew+27%3A59-60&version=NIV))[^34][^35].
 
+<?viz img/holy-sepulchre-aedicule?>
+
+
 **3. The Tomb Was Found Empty**
 
-• **Early Sources:** The empty tomb is implicitly affirmed by the early creed found in [1 Corinthians 15:3-7](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-7&version=NIV), which explicitly mentions that Jesus "was buried" and "was raised," indicating a bodily resurrection, not just a spiritual vision[^36].
+• **Early Sources:** The empty tomb is implicitly affirmed by the early creed found in [1 Corinthians 15:3-7](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-7&version=NIV), which explicitly mentions that Jesus "was buried" and "was raised," indicating a bodily resurrection, not just a spiritual vision[^36]. The Greek runs *etaphē* (ἐτάφη, he was buried) then *egēgertai* (ἐγήγερται, he has been raised), and *egeirō* (ἐγείρω) is the ordinary verb for raising up or getting up, so what was laid in the grave is what was raised from it[^37].
 
-• **Multiple Sources:** The empty tomb story is recounted in multiple, independent sources, demonstrating its widespread acceptance from the earliest period. "They found the stone rolled away from the tomb, but when they entered, they did not find the body of the Lord Jesus" ([Luke 24:2-3](https://www.biblegateway.com/passage/?search=Luke+24%3A2-3&version=NIV)), [John 20:1-2](https://www.biblegateway.com/passage/?search=John+20%3A1-2&version=NIV)[^37][^38].
+• **Multiple Sources:** The empty tomb story is recounted in multiple, independent sources, demonstrating its widespread acceptance from the earliest period. "They found the stone rolled away from the tomb, but when they entered, they did not find the body of the Lord Jesus" ([Luke 24:2-3](https://www.biblegateway.com/passage/?search=Luke+24%3A2-3&version=NIV)), [John 20:1-2](https://www.biblegateway.com/passage/?search=John+20%3A1-2&version=NIV)[^38][^39].
 
-• **Jerusalem Setting:** The resurrection was first proclaimed in Jerusalem, the very location of the tomb. Opponents could have undermined the movement by producing the body, and no source records that they did. According to Matthew, and later Justin Martyr, the Jewish response was instead that the disciples stole the body ([Matthew 28:11-15](https://www.biblegateway.com/passage/?search=Matthew+28%3A11-15&version=NIV)), a charge that presupposes the tomb was empty[^39].
+• **Jerusalem Setting:** The resurrection was first proclaimed in Jerusalem, the very location of the tomb. Opponents could have undermined the movement by producing the body, and no source records that they did. According to Matthew, and later Justin Martyr, the Jewish response was instead that the disciples stole the body ([Matthew 28:11-15](https://www.biblegateway.com/passage/?search=Matthew+28%3A11-15&version=NIV)), a charge that presupposes the tomb was empty[^40].
 
-<?viz resurrection/places?>
+<?viz img/nazareth-inscription?>
 
-• **Women as First Witnesses:** In first-century Jewish and Roman culture, the legal testimony of women was considered unreliable, yet all four Gospels name women as the primary witnesses to the empty tomb (the criterion of embarrassment). If the story were a fabrication, the authors would have undoubtedly used male disciples like Peter or John to discover the tomb. This detail strongly argues for the tradition's authenticity. "Mary Magdalene and the other Mary went to look at the tomb" ([Matthew 28:1](https://www.biblegateway.com/passage/?search=Matthew+28%3A1&version=NIV)), [Mark 16:1-2](https://www.biblegateway.com/passage/?search=Mark+16%3A1-2&version=NIV)[^40][^41][^42].
+
+
+• **Women as First Witnesses:** In first-century Jewish and Roman culture, the legal testimony of women was considered unreliable, yet all four Gospels name women as the primary witnesses to the empty tomb (the criterion of embarrassment). If the story were a fabrication, the authors would have undoubtedly used male disciples like Peter or John to discover the tomb. This detail strongly argues for the tradition's authenticity. "Mary Magdalene and the other Mary went to look at the tomb" ([Matthew 28:1](https://www.biblegateway.com/passage/?search=Matthew+28%3A1&version=NIV)), [Mark 16:1-2](https://www.biblegateway.com/passage/?search=Mark+16%3A1-2&version=NIV)[^41][^42][^43].
 
 **4. The Disciples Believed They Saw and Interacted with Risen Jesus**
 
-• **Multiple Witnesses:** Paul, writing very early, lists various groups and individuals who claimed to see Jesus, including an appearance to over 500 people simultaneously ([1 Corinthians 15:6](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A6&version=NIV)). Paul essentially invites the Corinthian church to fact-check him: "most of whom are still living." It would be incredibly risky to invent 500 witnesses if they didn't exist[^43].
+• **Multiple Witnesses:** Paul, writing very early, lists various groups and individuals who claimed to see Jesus, including an appearance to over 500 people simultaneously ([1 Corinthians 15:6](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A6&version=NIV)). Paul essentially invites the Corinthian church to fact-check him: "most of whom are still living." It would be incredibly risky to invent 500 witnesses if they didn't exist[^44]. Each appearance in the list uses *ōphthē* (ὤφθη, he appeared, he was seen), a verb used both of ordinary sight and of visions, so the word alone does not decide between them; the burial and raising before it carry that argument[^45][^46].
 
-• **Variety of Circumstances:** The appearances occurred to different people, at different times, in different places (including Galilee, Jerusalem, the road to Emmaus) and in varying group sizes, minimizing the possibility of mass hysteria or conspiracy[^44][^45]. Jesus appeared to Mary ([John 20:14](https://www.biblegateway.com/passage/?search=John+20%3A14&version=NIV)), on the road to Emmaus ([Luke 24:13-35](https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NIV)), and to the disciples in the upper room ([Luke 24:36](https://www.biblegateway.com/passage/?search=Luke+24%3A36&version=NIV)).
+• **Variety of Circumstances:** The appearances occurred to different people, at different times, in different places (including Galilee, Jerusalem, the road to Emmaus) and in varying group sizes, minimizing the possibility of mass hysteria or conspiracy[^47][^48]. Jesus appeared to Mary ([John 20:14](https://www.biblegateway.com/passage/?search=John+20%3A14&version=NIV)), on the road to Emmaus ([Luke 24:13-35](https://www.biblegateway.com/passage/?search=Luke+24%3A13-35&version=NIV)), and to the disciples in the upper room ([Luke 24:36](https://www.biblegateway.com/passage/?search=Luke+24%3A36&version=NIV)).
 
-• **Physical Interactions:** The accounts describe physical interactions, such as touching Jesus and Jesus eating food, contradicting the idea that these were merely spiritual visions or hallucinations. Disciples touched Jesus: "Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe" ([John 20:27](https://www.biblegateway.com/passage/?search=John+20%3A27&version=NIV)), and Jesus ate fish ([Luke 24:42-43](https://www.biblegateway.com/passage/?search=Luke+24%3A42-43&version=NIV))[^46][^47][^48].
+• **Physical Interactions:** The accounts describe physical interactions, such as touching Jesus and Jesus eating food, contradicting the idea that these were merely spiritual visions or hallucinations. Disciples touched Jesus: "Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe" ([John 20:27](https://www.biblegateway.com/passage/?search=John+20%3A27&version=NIV)), and Jesus ate fish ([Luke 24:42-43](https://www.biblegateway.com/passage/?search=Luke+24%3A42-43&version=NIV))[^49][^50][^51].
 
 **5. The Disciples Were Transformed**
 
-• **Radical Transformation of the Disciples:** The disciples rapidly transformed from frightened, hiding individuals into bold evangelists who preached the resurrection as their central theme across the Roman Empire. The martyrdoms of Peter, Paul, James son of Zebedee and James the brother of Jesus are well attested; those of most other apostles rest on later traditions of varying reliability. "When the day of Pentecost came, they were all together in one place... All of them were filled with the Holy Spirit and began to speak in other tongues" ([Acts 2:1-4](https://www.biblegateway.com/passage/?search=Acts+2%3A1-4&version=NIV)), Peter's boldness ([Acts 2:14-36](https://www.biblegateway.com/passage/?search=Acts+2%3A14-36&version=NIV))[^49][^50].
+• **Radical Transformation of the Disciples:** The disciples rapidly transformed from frightened, hiding individuals into bold evangelists who preached the resurrection as their central theme across the Roman Empire. The martyrdoms of Peter, Paul, James son of Zebedee and James the brother of Jesus are well attested; those of most other apostles rest on later traditions of varying reliability. "When the day of Pentecost came, they were all together in one place... All of them were filled with the Holy Spirit and began to speak in other tongues" ([Acts 2:1-4](https://www.biblegateway.com/passage/?search=Acts+2%3A1-4&version=NIV)), Peter's boldness ([Acts 2:14-36](https://www.biblegateway.com/passage/?search=Acts+2%3A14-36&version=NIV))[^52][^53].
 
-• **Willingness to Die:** The disciples' willingness to face torture and execution for their claims is difficult to explain unless they genuinely believed Jesus rose, as no one willingly dies for a known lie[^51]. Stephen's martyrdom ([Acts 7:54-60](https://www.biblegateway.com/passage/?search=Acts+7%3A54-60&version=NIV)), James killed by Herod ([Acts 12:1-2](https://www.biblegateway.com/passage/?search=Acts+12%3A1-2&version=NIV)).
+• **Willingness to Die:** The disciples' willingness to face torture and execution for their claims is difficult to explain unless they genuinely believed Jesus rose, as no one willingly dies for a known lie[^54]. Stephen's martyrdom ([Acts 7:54-60](https://www.biblegateway.com/passage/?search=Acts+7%3A54-60&version=NIV)), James killed by Herod ([Acts 12:1-2](https://www.biblegateway.com/passage/?search=Acts+12%3A1-2&version=NIV)).
 
 <?viz resurrection/apostles?>
 
-• **James's Conversion:** James, the brother of Jesus, was a skeptic during Jesus's earthly ministry ([John 7:5](https://www.biblegateway.com/passage/?search=John+7%3A5&version=NIV)). However, after the resurrection, Jesus specifically appeared to James ([1 Corinthians 15:7](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A7&version=NIV)), and James subsequently became a prominent leader of the early church in Jerusalem, eventually dying as a martyr for his belief[^52][^53].
+• **James's Conversion:** James, the brother of Jesus, was a skeptic during Jesus's earthly ministry ([John 7:5](https://www.biblegateway.com/passage/?search=John+7%3A5&version=NIV)). However, after the resurrection, Jesus specifically appeared to James ([1 Corinthians 15:7](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A7&version=NIV)), and James subsequently became a prominent leader of the early church in Jerusalem, eventually dying as a martyr for his belief[^55][^56].
 
-• **Paul's Conversion:** Saul of Tarsus (Paul) was a violent persecutor of the early church. His sudden and radical conversion on the road to Damascus, based on his claim of seeing the risen Christ, is one of the most powerful pieces of evidence for the resurrection. A sworn enemy of Christianity abandoned his Pharisaic status to endure suffering and death for the gospel[^54][^55].
+• **Paul's Conversion:** Saul of Tarsus (Paul) was a violent persecutor of the early church. His sudden and radical conversion on the road to Damascus, based on his claim of seeing the risen Christ, is one of the most powerful pieces of evidence for the resurrection. A sworn enemy of Christianity abandoned his Pharisaic status to endure suffering and death for the gospel[^57][^58].
 
-• **Rapid Growth of the Early Church in Jerusalem:** The swift and immense growth of Christianity throughout the Roman world, despite intense and violent persecution, points to a powerful, galvanizing event like the resurrection. It started exactly where it should have been easiest to disprove: Jerusalem. "Those who accepted his message were baptized, and about three thousand were added to their number that day" ([Acts 2:41](https://www.biblegateway.com/passage/?search=Acts+2%3A41&version=NIV)), "So the churches were strengthened in the faith and grew daily in numbers" ([Acts 16:5](https://www.biblegateway.com/passage/?search=Acts+16%3A5&version=NIV))[^56][^57].
+• **Rapid Growth of the Early Church in Jerusalem:** The swift and immense growth of Christianity throughout the Roman world, despite intense and violent persecution, points to a powerful, galvanizing event like the resurrection. It started exactly where it should have been easiest to disprove: Jerusalem. "Those who accepted his message were baptized, and about three thousand were added to their number that day" ([Acts 2:41](https://www.biblegateway.com/passage/?search=Acts+2%3A41&version=NIV)), "So the churches were strengthened in the faith and grew daily in numbers" ([Acts 16:5](https://www.biblegateway.com/passage/?search=Acts+16%3A5&version=NIV))[^59][^60].
 
 **See also:** [Gospel Resurrection Accounts - Multiple discrepancies in timing, women, and angels (Contradictions)](/categories/contradictions#section-ResurrectionAccounts).
 `,
@@ -113,11 +117,11 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
       id: "witness-of-scripture",
       title: "The Witness of Scripture and Early Tradition",
       tags: ["Scripture", "Creed"],
-      content: `The credibility of the claim of over 500 witnesses in [1 Corinthians 15:6](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A6&version=NIV) is high because Paul was delivering an early, fixed creed: "...he appeared to more than five hundred...", heavily giving further credibility to the claims he was seen after his death[^58].
+      content: `The credibility of the claim of over 500 witnesses in [1 Corinthians 15:6](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A6&version=NIV) is high because Paul was delivering an early, fixed creed: "...he appeared to more than five hundred...", heavily giving further credibility to the claims he was seen after his death[^61].
 
-• **Early Creedal Formulation:** The language used in the creed ([1 Corinthians 15:3-7](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-7&version=NIV)) strongly suggests it originated within the earliest Jerusalem church, dating to within 2 to 5 years of the crucifixion, a period too short for mythological development[^59][^58].
+• **Early Creedal Formulation:** The language used in the creed ([1 Corinthians 15:3-7](https://www.biblegateway.com/passage/?search=1+Corinthians+15%3A3-7&version=NIV)) strongly suggests it originated within the earliest Jerusalem church, dating to within 2 to 5 years of the crucifixion, a period too short for mythological development[^62][^61]. Paul introduces it with *paredōka* (παρέδωκα, I handed on) and *parelabon* (παρέλαβον, I received), the Greek counterparts of the rabbinic terms for passing on a fixed tradition, and the creed calls Peter *Kēphas* (Κηφᾶς), from the Aramaic *Kepha* (כֵּיפָא, rock), which points to an Aramaic-speaking origin[^63][^61].
 
-• **Historical Verifiability:** Paul made this claim as a point of historical fact to a contemporary audience in Corinth. If Paul was lying or mistaken, it would have been easy for the Corinthians to disprove him by interviewing the living witnesses ("most of whom are still alive")[^60].
+• **Historical Verifiability:** Paul made this claim as a point of historical fact to a contemporary audience in Corinth. If Paul was lying or mistaken, it would have been easy for the Corinthians to disprove him by interviewing the living witnesses ("most of whom are still alive")[^64].
 
 **See also:** [Resurrection from Death (Prophecy)](/categories/prophecy#section-resurrection-prophesied).
 `,
@@ -126,15 +130,15 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
       id: "historical-impact",
       title: "Historical Impact and Persecution",
       tags: ["Historical", "Church History"],
-      content: `The resurrection belief immediately led to a paradigm shift that challenged Roman and Jewish authorities. Christianity grew exponentially, leading to persecution[^61]:
+      content: `The resurrection belief immediately led to a paradigm shift that challenged Roman and Jewish authorities. Christianity grew exponentially, leading to persecution[^65]:
 
-• **Nero's Persecution:** Nero blamed Christians for the Great Fire of Rome in 64 AD and had many executed, the first recorded state persecution. For the next two centuries Christianity had no legal standing and persecution was frequent but local and sporadic, until Decius ordered the first empire-wide persecution in 250 AD[^62][^63][^64].
+• **Nero's Persecution:** Nero blamed Christians for the Great Fire of Rome in 64 AD and had many executed, the first recorded state persecution. For the next two centuries Christianity had no legal standing and persecution was frequent but local and sporadic, until Decius ordered the first empire-wide persecution in 250 AD[^66][^67][^68].
 
-• **Diocletian's Persecution:** The most widespread and severe persecution occurred under Emperor Diocletian in the early 4th century, beginning in 303 AD, involving the destruction of churches, confiscation of scriptures, torture, and executions of Christians[^65][^66].
+• **Diocletian's Persecution:** The most widespread and severe persecution occurred under Emperor Diocletian in the early 4th century, beginning in 303 AD, involving the destruction of churches, confiscation of scriptures, torture, and executions of Christians[^69][^70].
 
-• **Edict of Toleration:** Galerius's Edict of Toleration in 311 AD granted Christians the right to practise their religion. Maximinus Daia resumed persecution in the East, and it ended only after the agreement of Constantine and Licinius at Milan in 313[^67][^61][^68].
+• **Edict of Toleration:** Galerius's Edict of Toleration in 311 AD granted Christians the right to practise their religion. Maximinus Daia resumed persecution in the East, and it ended only after the agreement of Constantine and Licinius at Milan in 313[^71][^65][^72].
 
-• **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^69][^61][^68].
+• **State Religion:** Ultimately, Nicene Christianity became the official religion of the Roman Empire through Theodosius I's Edict of Thessalonica in 380 AD, demonstrating its profound and enduring historical impact[^73][^65][^72].
 
 <?viz resurrection/persecution?>
 
@@ -145,8 +149,11 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
       id: "alternative-theories",
       title: "Alternative Theories and Their Problems",
       tags: ["Objections", "Apologetics"],
-      content: `Alternative theories attempt to explain the minimal historical facts without invoking a divine miracle. Christian historians argue that none accounts for the whole range of evidence; the replies below are theirs, and sceptical scholars contest several of them[^70]:
+      content: `Alternative theories attempt to explain the minimal historical facts without invoking a divine miracle. Christian historians argue that none accounts for the whole range of evidence; the replies below are theirs, and sceptical scholars contest several of them[^74]:
 
+
+
+<?viz resurrection/theory-scorecard?>
 
 **The Swoon Theory**
 
@@ -154,15 +161,15 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- Roman executioners were experts in crucifixion and trained to verify death. Survival was highly unlikely[^71].
+- Roman executioners were experts in crucifixion and trained to verify death. Survival was highly unlikely[^75].
 
-- The spear thrust into his side ([John 19:34](https://www.biblegateway.com/passage/?search=John+19%3A34&version=NIV)), probably into the chest cavity, would very likely have been fatal even if Jesus were still barely alive[^72].
+- The spear thrust into his side ([John 19:34](https://www.biblegateway.com/passage/?search=John+19%3A34&version=NIV)), probably into the chest cavity, would very likely have been fatal even if Jesus were still barely alive[^76].
 
-- Survival after being taken down from a cross was not strictly impossible: Josephus records that one of three acquaintances he had taken down survived under a physician's care. But survival after a full crucifixion, scourging and the spear wound, followed by burial without treatment, is regarded as extremely improbable[^73].
+- Survival after being taken down from a cross was not strictly impossible: Josephus records that one of three acquaintances he had taken down survived under a physician's care. But survival after a full crucifixion, scourging and the spear wound, followed by burial without treatment, is regarded as extremely improbable[^77].
 
-- A barely conscious Jesus would have had to roll back a heavy blocking stone from inside the tomb and, on Matthew's account, get past a guard[^74].
+- A barely conscious Jesus would have had to roll back a heavy blocking stone from inside the tomb and, on Matthew's account, get past a guard[^78].
 
-- A weakened, barely-alive Jesus would not have inspired the disciples to believe he was the conquering Lord of Life, but would have instead required a physician[^75][^76].
+- A weakened, barely-alive Jesus would not have inspired the disciples to believe he was the conquering Lord of Life, but would have instead required a physician[^79][^80].
 
 **The Hallucination Theory**
 
@@ -170,13 +177,13 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- Many scholars argue that hallucinations are individual experiences, so that the same experience shared by groups is very hard to explain this way. Sceptics reply that collective visionary experiences are reported elsewhere, and the question is disputed[^77][^43].
+- Many scholars argue that hallucinations are individual experiences, so that the same experience shared by groups is very hard to explain this way. Sceptics reply that collective visionary experiences are reported elsewhere, and the question is disputed[^81][^44].
 
-- The appearances happened consistently over a 40-day period, ending with the ascension, which contradicts the typical, short-lived nature of grief hallucinations[^78].
+- The appearances happened consistently over a 40-day period, ending with the ascension, which contradicts the typical, short-lived nature of grief hallucinations[^82].
 
-- The theory fails to explain the empty tomb, which the earliest recorded opponents did not dispute[^79][^3].
+- The theory fails to explain the empty tomb, which the earliest recorded opponents did not dispute[^83][^3].
 
-- The appearances transformed the lives of hostile skeptics like James (Jesus's brother, who denied him during his ministry) and Paul (Saul of Tarsus, a persecutor of the church), which hallucinations cannot account for. Paul would also need to have hallucinated years later[^80][^81].
+- The appearances transformed the lives of hostile skeptics like James (Jesus's brother, who denied him during his ministry) and Paul (Saul of Tarsus, a persecutor of the church), which hallucinations cannot account for. Paul would also need to have hallucinated years later[^84][^85].
 
 **The Conspiracy Theory**
 
@@ -184,11 +191,11 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- Disciples died for their claims, which is psychologically improbable if they knew the foundational claim was a lie[^82].
+- Disciples died for their claims, which is psychologically improbable if they knew the foundational claim was a lie[^86].
 
-- According to Matthew the tomb was sealed and guarded, making it highly difficult for a small group of frightened fishermen to break in and move the body; the guard is reported only by Matthew[^83][^84].
+- According to Matthew the tomb was sealed and guarded, making it highly difficult for a small group of frightened fishermen to break in and move the body; the guard is reported only by Matthew[^87][^88].
 
-- The theory only explains the empty tomb; it cannot account for the multiple eyewitness appearances to Peter, the Twelve, the 500, James, and Paul[^85].
+- The theory only explains the empty tomb; it cannot account for the multiple eyewitness appearances to Peter, the Twelve, the 500, James, and Paul[^89].
 
 **The Wrong Tomb Theory**
 
@@ -196,11 +203,11 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- This theory is highly unlikely given the prominence of the burial and the short distance between the burial and the city center[^86].
+- This theory is highly unlikely given the prominence of the burial and the short distance between the burial and the city center[^90].
 
-- Joseph of Arimathea (the owner) or the Jewish authorities would have quickly pointed out the correct, occupied tomb to silence the resurrection claims[^87].
+- Joseph of Arimathea (the owner) or the Jewish authorities would have quickly pointed out the correct, occupied tomb to silence the resurrection claims[^91].
 
-- The theory, like the conspiracy, cannot explain the numerous, varied, and consistent post-mortem appearances witnessed by over 500 people[^88].
+- The theory, like the conspiracy, cannot explain the numerous, varied, and consistent post-mortem appearances witnessed by over 500 people[^92].
 
 **The Alien Theory**
 
@@ -208,31 +215,49 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
 
 **Problems**:
 
-- No historical or empirical evidence supports this. It is an ad-hoc theory invented to avoid the supernatural while ignoring the historical context of Jesus's life, teachings, and explicit predictions of his own resurrection[^89][^90].
+- No historical or empirical evidence supports this. It is an ad-hoc theory invented to avoid the supernatural while ignoring the historical context of Jesus's life, teachings, and explicit predictions of his own resurrection[^93][^94].
 
 **How early the belief was.** The resurrection belief was immediate, not a later theological development:
 
-- **1 Corinthians 15:3-7**: A pre-Pauline creed dating to within 2 to 5 years of the event[^91][^3].
+- **1 Corinthians 15:3-7**: A pre-Pauline creed dating to within 2 to 5 years of the event[^95][^3].
 
-- **Early Sermons in Acts**: The resurrection was the central message of the *kerygma* (κήρυγμα, proclamation) from the very beginning of the Church's life[^92][^93][^94].
+- **Early Sermons in Acts**: The resurrection was the central message of the *kerygma* (κήρυγμα, proclamation) from the very beginning of the Church's life[^96][^97][^98].
 
-- **Paul's Letters**: Written 20 to 30 years after the event, they assume the resurrection as the fundamental, non-negotiable fact of the faith[^95][^96].
+- **Paul's Letters**: Written 20 to 30 years after the event, they assume the resurrection as the fundamental, non-negotiable fact of the faith[^99][^100].
 
 <?viz resurrection/source-distance?>
 
 **What sceptical scholars concede.** Critical scholars and sceptics grant much of the minimal facts, while denying that Jesus actually rose.
 
-**Gerd Lüdemann** (Atheist New Testament Scholar): "It may be taken as historically certain that Peter and the Disciples had experiences after Jesus' death in which Jesus appeared to them as the risen Christ"[^97][^3].
+**Gerd Lüdemann** (Atheist New Testament Scholar): "It may be taken as historically certain that Peter and the Disciples had experiences after Jesus' death in which Jesus appeared to them as the risen Christ"[^101][^3].
 
-**Bart Ehrman** (Agnostic New Testament Scholar): "We can say with complete certainty that some disciples at some later time insisted that... he soon appeared to them, convincing them that he had been raised from the dead. It is historical fact that some of Jesus' followers came to believe that he had been raised from the dead soon after his execution"[^98][^99].
+**Bart Ehrman** (Agnostic New Testament Scholar): "We can say with complete certainty that some disciples at some later time insisted that... he soon appeared to them, convincing them that he had been raised from the dead. It is historical fact that some of Jesus' followers came to believe that he had been raised from the dead soon after his execution"[^102][^103].
 
-**Paula Fredriksen** (Jewish Historian): "I know in their own terms what they saw was the raised Jesus... I'm not saying that they really did see the raised Jesus. I wasn't there. But I do know... as a historian they must have seen something"[^99].
+**Paula Fredriksen** (Jewish Historian): "I know in their own terms what they saw was the raised Jesus... I'm not saying that they really did see the raised Jesus. I wasn't there. But I do know... as a historian they must have seen something"[^103].
 
 **See also:** [Isn't Faith Believing Without Evidence? (Is Belief in God Reasonable?)](/categories/is-belief-reasonable#section-faith-and-evidence).
 `,
     },
+    {
+      id: "spiritual-body",
+      title: "Did Paul Mean a Spiritual Body?",
+      tags: ["Objections"],
+      content: `
+**The objection.** Paul writes that the dead are "sown a natural body" and "raised a spiritual body" (1 Corinthians 15:44), and that "flesh and blood cannot inherit the kingdom of God" (15:50). Some scholars argue that Paul, the earliest witness, believed in a non-physical resurrection, that the appearances were visions, and that the empty tomb stories came later[^104][^105].
+
+**The Greek.** The contrast is between *sōma psychikon* (σῶμα ψυχικόν, a soul-animated body) and *sōma pneumatikon* (σῶμα πνευματικόν, a Spirit-animated body). Adjectives ending in *-ikos* describe what drives or characterises something, not what it is made of. The present body is not made of soul, and the risen body is not made of spirit[^106][^107][^108].
+
+Paul uses the same pair of words earlier in the letter, where the *psychikos* person does not accept the things of the Spirit and the *pneumatikos* person does (1 Corinthians 2:14-15). There the "spiritual" person is a living human being led by the Spirit, not a ghost[^109][^104]. N. T. Wright compares the difference to that between a ship made of steel and a ship driven by steam, and argues that the usual translation "spiritual body", and especially "physical body" for the first term, misleads[^108][^110].
+
+**The rest of the chapter.** Paul's image is of a seed sown and the same plant raised (15:36-38). "The perishable must clothe itself with the imperishable" (15:53) describes a change to the body, not its replacement. Elsewhere he says Christ "will transform our lowly bodies so that they will be like his glorious body" (Philippians 3:21), and that God "will also give life to your mortal bodies" (Romans 8:11)[^111][^110].
+
+**"Flesh and blood."** The phrase is a Jewish idiom for mortal human nature, as when Jesus tells Peter that "flesh and blood" did not reveal his identity to him (Matthew 16:17). Paul's next words explain it: "nor does the perishable inherit the imperishable" (15:50). The problem is mortality, not physicality[^112][^105].
+
+**Paul's background.** Paul was a Pharisee, and Pharisees believed in the bodily resurrection of the dead. For a first-century Jew, a "resurrection" that left the body in the tomb would not have been a resurrection at all, which is why Paul's list of witnesses follows directly on the statement that Christ "was buried" and "was raised"[^110][^104].
+`
+    },
   ],
-            sources: [
+              sources: [
     "1. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:17.' https://biblehub.com/commentaries/1_corinthians/15-17.htm",
     "2. [Academic] Southern Equip (Southern Baptist Journal of Theology). 'The SBJT Forum: Resurrection.' https://equip.sbts.edu/publications/journals/journal-of-theology/the-sbjt-forum-3/",
     "3. [Apologetics] Aaron Brake, Cross Examined. 'The Minimal Facts of the Resurrection.' https://crossexamined.org/the-minimal-facts-of-the-resurrection/",
@@ -269,69 +294,82 @@ The core facts usually include: Jesus died by crucifixion; his disciples believe
     "34. [Apologetics] Apologetics.org. 'Witless Women and Dishonest Disciples? Why Empty Tomb Conspiracy Theories Fail.' https://apologetics.org/witless-women-or-dishonest-disciples-why-empty-tomb-conspiracy-theories-fail/",
     "35. [Commentary] Commentaries on Matthew 27:59. Bible Hub. https://biblehub.com/commentaries/matthew/27-59.htm",
     "36. [Apologetics] The Gospel Coalition. 'The Bodily Resurrection of Jesus.' https://www.thegospelcoalition.org/essay/bodily-resurrection-jesus/",
-    "37. [Wikipedia] 'Empty tomb.' https://en.wikipedia.org/wiki/Empty_tomb",
-    "38. [Commentary] Christian Publishing House. 'Harmonizing the Post-Resurrection Appearances.' https://christianpublishinghouse.co/2025/01/06/how-can-we-harmonize-the-post-resurrection-appearances-and-confirm-the-integrity-of-the-gospel-accounts/",
-    "39. [Primary Source] Justin Martyr, New Advent. 'Dialogue with Trypho' (ch. 108). https://www.newadvent.org/fathers/0128.htm",
-    "40. [Wikipedia] 'Testimony in Jewish law.' https://en.wikipedia.org/wiki/Testimony_in_Jewish_law",
-    "41. [Academic] Christian Study Library. 'The Women at the Tomb: The Credibility of their Story.' https://www.christianstudylibrary.org/article/women-tomb-credibility-their-story",
-    "42. [Apologetics] Themelios (The Gospel Coalition). Review of Richard Bauckham, 'Gospel Women: Studies of the Named Women in the Gospels.' https://www.thegospelcoalition.org/themelios/review/gospel-women-studies-of-the-named-women-in-the-gospels/",
-    "43. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:6.' https://biblehub.com/commentaries/1_corinthians/15-6.htm",
-    "44. [Commentary] Bible Hub. 'Commentaries on Luke 24:34.' https://biblehub.com/commentaries/luke/24-34.htm",
-    "45. [Commentary] Bible Hub. 'Commentaries on John 21:1.' https://biblehub.com/commentaries/john/21-1.htm",
-    "46. [Commentary] Bible Hub. 'Commentaries on John 20:27.' https://biblehub.com/commentaries/john/20-27.htm",
-    "47. [Primary Source] Justin Martyr, Early Christian Writings. 'Fragments of the Lost Work of Justin on the Resurrection' (ch. 9). http://www.earlychristianwritings.com/text/justinmartyr-resurrection.html",
-    "48. [Apologetics] Catholic Answers. 'Was Jesus' Resurrection Physical or Purely Spiritual?' https://www.catholic.com/qa/was-jesus-resurrection-of-a-physical-or-purely-spiritual-nature",
-    "49. [Academic] Sean McDowell, Biola Magazine (2013). 'Did the Apostles Really Die as Martyrs for their Faith?' https://www.biola.edu/blogs/biola-magazine/2013/did-the-apostles-really-die-as-martyrs-for-their-f",
-    "50. [Commentary] Enduring Word - Acts 2:25-32 Commentary: https://enduringword.com/bible-commentary/acts-2/",
-    "51. [Apologetics] Sean McDowell, Christian Research Institute. 'Did the Apostles Really Die as Martyrs for Their Faith?' https://www.equip.org/articles/apostles-really-die-martyrs-faith/",
-    "52. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. James the Less.' https://www.newadvent.org/cathen/08280a.htm",
-    "53. [Wikipedia] 'James, brother of Jesus.' https://en.wikipedia.org/wiki/James,_brother_of_Jesus",
-    "54. [Wikipedia] 'Pharisees.' https://en.wikipedia.org/wiki/Pharisees",
-    "55. [Commentary] Bible Hub. 'Commentaries on Acts 9:1.' https://biblehub.com/commentaries/acts/9-1.htm",
-    "56. [Wikipedia] 'Spread of Christianity.' https://en.wikipedia.org/wiki/Spread_of_Christianity",
-    "57. [Commentary] Commentaries on Acts 2:41. Bible Hub. https://biblehub.com/commentaries/acts/2-41.htm",
-    "58. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:3.' https://biblehub.com/commentaries/1_corinthians/15-3.htm",
-    "59. [Wikipedia] '1 Corinthians 15.' https://en.wikipedia.org/wiki/1_Corinthians_15",
-    "60. [Commentary] Lutheran Church Missouri Synod, Missouri District. 'The Truth of the Resurrection.' https://mo.lcms.org/the-truth-of-the-resurrection/",
-    "61. [Wikipedia] 'Persecution of Christians in the Roman Empire.' https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire",
-    "62. [Wikipedia] 'Great Fire of Rome.' https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
-    "63. [Encyclopedia] World History Encyclopedia. 'Decius.' https://www.worldhistory.org/Decius/",
-    "64. [Wikipedia] 'Decian persecution.' https://en.wikipedia.org/wiki/Decian_persecution",
-    "65. [Encyclopedia] World History Encyclopedia. 'Diocletian.' https://www.worldhistory.org/Diocletian/",
-    "66. [Wikipedia] 'Diocletianic Persecution.' https://en.wikipedia.org/wiki/Diocletianic_Persecution",
-    "67. [Wikipedia] 'Edict of Serdica.' https://en.wikipedia.org/wiki/Edict_of_Serdica",
-    "68. [Encyclopedia] World History Encyclopedia. 'Constantine I.' https://www.worldhistory.org/Constantine_I/",
-    "69. [Wikipedia] 'Edict of Thessalonica.' https://en.wikipedia.org/wiki/Edict_of_Thessalonica",
-    "70. [Apologetics] Gary R. Habermas, Christian Research Institute. 'Changing Attitudes Toward the Resurrection of Jesus.' https://www.equip.org/articles/changing-attitudes-toward-the-resurrection-of-jesus/",
-    "71. [Apologetics] GotQuestions.org. 'What is the Swoon Theory? Did Jesus survive the crucifixion?' https://www.gotquestions.org/swoon-theory.html",
-    "72. [Primary Source] David Friedrich Strauss, Project Gutenberg. 'The Life of Jesus Critically Examined' (on the spear wound and the reality of Jesus' death). https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
-    "73. [Primary Source] Flavius Josephus, trans. William Whiston. 'The Life of Flavius Josephus' (section 75). Project Gutenberg. https://www.gutenberg.org/files/2846/2846-h/2846-h.htm",
-    "74. [Commentary] Bible Hub. 'Commentaries on Matthew 27:66.' https://biblehub.com/commentaries/matthew/27-66.htm",
-    "75. [Wikipedia] 'Swoon hypothesis.' https://en.wikipedia.org/wiki/Swoon_hypothesis",
-    "76. [Commentary] Commentaries on John 19:34. Bible Hub. https://biblehub.com/commentaries/john/19-34.htm",
-    "77. [Wikipedia] 'Vision theory of Jesus' appearances.' https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
-    "78. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Ascension.' https://www.newadvent.org/cathen/01767a.htm",
-    "79. [Apologetics] GotQuestions.org. 'What is the Hallucination Theory?' https://www.gotquestions.org/hallucination-theory.html",
-    "80. [Wikipedia] 'Conversion of Paul the Apostle.' https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle",
-    "81. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. Paul.' https://www.newadvent.org/cathen/11567b.htm",
-    "82. [Academic] Sean McDowell, Southern Baptist Theological Seminary dissertation. 'A Historical Evaluation of the Evidence for the Death of the Apostles as Martyrs for Their Faith.' https://repository.sbts.edu/handle/10392/4857",
-    "83. [Wikipedia] 'Stolen body hypothesis.' https://en.wikipedia.org/wiki/Stolen_body_hypothesis",
-    "84. [Commentary] Commentaries on Matthew 28:13. Bible Hub. https://biblehub.com/commentaries/matthew/28-13.htm",
-    "85. [Apologetics] Justin Holcomb, Christianity.com. 'How Well Can You Defend the Resurrection?' https://www.christianity.com/wiki/jesus-christ/defending-the-resurrection-of-jesus.html",
-    "86. [Apologetics] Steven Ruff. 'False Theories of the Resurrection, Part 6: Why the Wrong Tomb Theory Comes Up Short.' https://stevenruff.com/2021/04/10/false-theories-of-the-resurrection-part-6-why-the-wrong-tomb-theory-comes-up-short/",
-    "87. [Creationist] Tim Chaffey, Answers in Genesis. 'Grasping at Straws.' https://answersingenesis.org/jesus-christ/resurrection/grasping-at-straws/",
-    "88. [Apologetics] Jimmy Akin, Catholic Answers. 'The Wrong Tomb Hypothesis.' https://shop.catholic.com/blog/the-wrong-tomb-hypothesis/",
-    "89. [Wikipedia] 'Ancient astronauts.' https://en.wikipedia.org/wiki/Ancient_astronauts",
-    "90. [Commentary] Commentaries on Mark 8:31. Bible Hub. https://biblehub.com/commentaries/mark/8-31.htm",
-    "91. [Wikipedia] 'Creed' (Christian creeds: 1 Corinthians 15:3-7). https://en.wikipedia.org/wiki/Creed",
-    "92. [Commentary] Bible Hub. 'Commentaries on Acts 2:32.' https://biblehub.com/commentaries/acts/2-32.htm",
-    "93. [Academic] Hartog. Kerygma. The Encyclopedia of Christian Civilization, 2011. https://doi.org/10.1002/9780470670606.wbecc0751",
-    "94. [Wikipedia] 'Kerygma.' https://en.wikipedia.org/wiki/Kerygma",
-    "95. [Wikipedia] 'Pauline epistles.' https://en.wikipedia.org/wiki/Pauline_epistles",
-    "96. [Commentary] Commentaries on 1 Corinthians 15:14. Bible Hub. https://biblehub.com/commentaries/1_corinthians/15-14.htm",
-    "97. [Academic] Gerd Lüdemann - What Really Happened to Jesus? (p. 80). 'It may be taken as historically certain that Peter and the disciples had experiences after Jesus' death..' https://www.amazon.com/What-Really-Happened-Jesus-Historical/dp/0664256473",
-    "98. [Academic] Bart Ehrman - Jesus: Apocalyptic Prophet of the New Millennium (p. 231). 'We can say with complete certainty that some disciples.. insisted that he soon appeared to them.' https://www.amazon.com/Jesus-Apocalyptic-Prophet-New-Millennium/dp/019512474X",
-    "99. [Commentary] Justin Bass, Christianity Today (2020), quoting Paula Fredriksen in ABC's 'The Search for Jesus' (2000). 'What Skeptical Scholars Admit about the Resurrection Appearances of Jesus.' https://www.christianitytoday.com/2020/04/justin-bass-bedrock-christianity-resurrection-appearances/"
+    "37. [Reference] Bible Hub Interlinear Bible. '1 Corinthians 15:4.' https://biblehub.com/interlinear/1_corinthians/15-4.htm",
+    "38. [Wikipedia] 'Empty tomb.' https://en.wikipedia.org/wiki/Empty_tomb",
+    "39. [Commentary] Christian Publishing House. 'Harmonizing the Post-Resurrection Appearances.' https://christianpublishinghouse.co/2025/01/06/how-can-we-harmonize-the-post-resurrection-appearances-and-confirm-the-integrity-of-the-gospel-accounts/",
+    "40. [Primary Source] Justin Martyr, New Advent. 'Dialogue with Trypho' (ch. 108). https://www.newadvent.org/fathers/0128.htm",
+    "41. [Wikipedia] 'Testimony in Jewish law.' https://en.wikipedia.org/wiki/Testimony_in_Jewish_law",
+    "42. [Academic] Christian Study Library. 'The Women at the Tomb: The Credibility of their Story.' https://www.christianstudylibrary.org/article/women-tomb-credibility-their-story",
+    "43. [Apologetics] Themelios (The Gospel Coalition). Review of Richard Bauckham, 'Gospel Women: Studies of the Named Women in the Gospels.' https://www.thegospelcoalition.org/themelios/review/gospel-women-studies-of-the-named-women-in-the-gospels/",
+    "44. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:6.' https://biblehub.com/commentaries/1_corinthians/15-6.htm",
+    "45. [Reference] Bible Hub Interlinear Bible. '1 Corinthians 15:5.' https://biblehub.com/interlinear/1_corinthians/15-5.htm",
+    "46. [Reference] Bible Hub. Strong's Greek 3708: horaó (to see, perceive, appear). https://biblehub.com/greek/3708.htm",
+    "47. [Commentary] Bible Hub. 'Commentaries on Luke 24:34.' https://biblehub.com/commentaries/luke/24-34.htm",
+    "48. [Commentary] Bible Hub. 'Commentaries on John 21:1.' https://biblehub.com/commentaries/john/21-1.htm",
+    "49. [Commentary] Bible Hub. 'Commentaries on John 20:27.' https://biblehub.com/commentaries/john/20-27.htm",
+    "50. [Primary Source] Justin Martyr, Early Christian Writings. 'Fragments of the Lost Work of Justin on the Resurrection' (ch. 9). http://www.earlychristianwritings.com/text/justinmartyr-resurrection.html",
+    "51. [Apologetics] Catholic Answers. 'Was Jesus' Resurrection Physical or Purely Spiritual?' https://www.catholic.com/qa/was-jesus-resurrection-of-a-physical-or-purely-spiritual-nature",
+    "52. [Academic] Sean McDowell, Biola Magazine (2013). 'Did the Apostles Really Die as Martyrs for their Faith?' https://www.biola.edu/blogs/biola-magazine/2013/did-the-apostles-really-die-as-martyrs-for-their-f",
+    "53. [Commentary] Enduring Word - Acts 2:25-32 Commentary: https://enduringword.com/bible-commentary/acts-2/",
+    "54. [Apologetics] Sean McDowell, Christian Research Institute. 'Did the Apostles Really Die as Martyrs for Their Faith?' https://www.equip.org/articles/apostles-really-die-martyrs-faith/",
+    "55. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. James the Less.' https://www.newadvent.org/cathen/08280a.htm",
+    "56. [Wikipedia] 'James, brother of Jesus.' https://en.wikipedia.org/wiki/James,_brother_of_Jesus",
+    "57. [Wikipedia] 'Pharisees.' https://en.wikipedia.org/wiki/Pharisees",
+    "58. [Commentary] Bible Hub. 'Commentaries on Acts 9:1.' https://biblehub.com/commentaries/acts/9-1.htm",
+    "59. [Wikipedia] 'Spread of Christianity.' https://en.wikipedia.org/wiki/Spread_of_Christianity",
+    "60. [Commentary] Commentaries on Acts 2:41. Bible Hub. https://biblehub.com/commentaries/acts/2-41.htm",
+    "61. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:3.' https://biblehub.com/commentaries/1_corinthians/15-3.htm",
+    "62. [Wikipedia] '1 Corinthians 15.' https://en.wikipedia.org/wiki/1_Corinthians_15",
+    "63. [Reference] Bible Hub Interlinear Bible. '1 Corinthians 15:3.' https://biblehub.com/interlinear/1_corinthians/15-3.htm",
+    "64. [Commentary] Lutheran Church Missouri Synod, Missouri District. 'The Truth of the Resurrection.' https://mo.lcms.org/the-truth-of-the-resurrection/",
+    "65. [Wikipedia] 'Persecution of Christians in the Roman Empire.' https://en.wikipedia.org/wiki/Persecution_of_Christians_in_the_Roman_Empire",
+    "66. [Wikipedia] 'Great Fire of Rome.' https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+    "67. [Encyclopedia] World History Encyclopedia. 'Decius.' https://www.worldhistory.org/Decius/",
+    "68. [Wikipedia] 'Decian persecution.' https://en.wikipedia.org/wiki/Decian_persecution",
+    "69. [Encyclopedia] World History Encyclopedia. 'Diocletian.' https://www.worldhistory.org/Diocletian/",
+    "70. [Wikipedia] 'Diocletianic Persecution.' https://en.wikipedia.org/wiki/Diocletianic_Persecution",
+    "71. [Wikipedia] 'Edict of Serdica.' https://en.wikipedia.org/wiki/Edict_of_Serdica",
+    "72. [Encyclopedia] World History Encyclopedia. 'Constantine I.' https://www.worldhistory.org/Constantine_I/",
+    "73. [Wikipedia] 'Edict of Thessalonica.' https://en.wikipedia.org/wiki/Edict_of_Thessalonica",
+    "74. [Apologetics] Gary R. Habermas, Christian Research Institute. 'Changing Attitudes Toward the Resurrection of Jesus.' https://www.equip.org/articles/changing-attitudes-toward-the-resurrection-of-jesus/",
+    "75. [Apologetics] GotQuestions.org. 'What is the Swoon Theory? Did Jesus survive the crucifixion?' https://www.gotquestions.org/swoon-theory.html",
+    "76. [Primary Source] David Friedrich Strauss, Project Gutenberg. 'The Life of Jesus Critically Examined' (on the spear wound and the reality of Jesus' death). https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+    "77. [Primary Source] Flavius Josephus, trans. William Whiston. 'The Life of Flavius Josephus' (section 75). Project Gutenberg. https://www.gutenberg.org/files/2846/2846-h/2846-h.htm",
+    "78. [Commentary] Bible Hub. 'Commentaries on Matthew 27:66.' https://biblehub.com/commentaries/matthew/27-66.htm",
+    "79. [Wikipedia] 'Swoon hypothesis.' https://en.wikipedia.org/wiki/Swoon_hypothesis",
+    "80. [Commentary] Commentaries on John 19:34. Bible Hub. https://biblehub.com/commentaries/john/19-34.htm",
+    "81. [Wikipedia] 'Vision theory of Jesus' appearances.' https://en.wikipedia.org/wiki/Vision_theory_of_Jesus%27_appearances",
+    "82. [Encyclopedia] New Advent, Catholic Encyclopedia. 'The Ascension.' https://www.newadvent.org/cathen/01767a.htm",
+    "83. [Apologetics] GotQuestions.org. 'What is the Hallucination Theory?' https://www.gotquestions.org/hallucination-theory.html",
+    "84. [Wikipedia] 'Conversion of Paul the Apostle.' https://en.wikipedia.org/wiki/Conversion_of_Paul_the_Apostle",
+    "85. [Encyclopedia] Catholic Encyclopedia (1913), New Advent. 'St. Paul.' https://www.newadvent.org/cathen/11567b.htm",
+    "86. [Academic] Sean McDowell, Southern Baptist Theological Seminary dissertation. 'A Historical Evaluation of the Evidence for the Death of the Apostles as Martyrs for Their Faith.' https://repository.sbts.edu/handle/10392/4857",
+    "87. [Wikipedia] 'Stolen body hypothesis.' https://en.wikipedia.org/wiki/Stolen_body_hypothesis",
+    "88. [Commentary] Commentaries on Matthew 28:13. Bible Hub. https://biblehub.com/commentaries/matthew/28-13.htm",
+    "89. [Apologetics] Justin Holcomb, Christianity.com. 'How Well Can You Defend the Resurrection?' https://www.christianity.com/wiki/jesus-christ/defending-the-resurrection-of-jesus.html",
+    "90. [Apologetics] Steven Ruff. 'False Theories of the Resurrection, Part 6: Why the Wrong Tomb Theory Comes Up Short.' https://stevenruff.com/2021/04/10/false-theories-of-the-resurrection-part-6-why-the-wrong-tomb-theory-comes-up-short/",
+    "91. [Creationist] Tim Chaffey, Answers in Genesis. 'Grasping at Straws.' https://answersingenesis.org/jesus-christ/resurrection/grasping-at-straws/",
+    "92. [Apologetics] Jimmy Akin, Catholic Answers. 'The Wrong Tomb Hypothesis.' https://shop.catholic.com/blog/the-wrong-tomb-hypothesis/",
+    "93. [Wikipedia] 'Ancient astronauts.' https://en.wikipedia.org/wiki/Ancient_astronauts",
+    "94. [Commentary] Commentaries on Mark 8:31. Bible Hub. https://biblehub.com/commentaries/mark/8-31.htm",
+    "95. [Wikipedia] 'Creed' (Christian creeds: 1 Corinthians 15:3-7). https://en.wikipedia.org/wiki/Creed",
+    "96. [Commentary] Bible Hub. 'Commentaries on Acts 2:32.' https://biblehub.com/commentaries/acts/2-32.htm",
+    "97. [Academic] Hartog. Kerygma. The Encyclopedia of Christian Civilization, 2011. https://doi.org/10.1002/9780470670606.wbecc0751",
+    "98. [Wikipedia] 'Kerygma.' https://en.wikipedia.org/wiki/Kerygma",
+    "99. [Wikipedia] 'Pauline epistles.' https://en.wikipedia.org/wiki/Pauline_epistles",
+    "100. [Commentary] Commentaries on 1 Corinthians 15:14. Bible Hub. https://biblehub.com/commentaries/1_corinthians/15-14.htm",
+    "101. [Academic] Gerd Lüdemann - What Really Happened to Jesus? (p. 80). 'It may be taken as historically certain that Peter and the disciples had experiences after Jesus' death..' https://www.amazon.com/What-Really-Happened-Jesus-Historical/dp/0664256473",
+    "102. [Academic] Bart Ehrman - Jesus: Apocalyptic Prophet of the New Millennium (p. 231). 'We can say with complete certainty that some disciples.. insisted that he soon appeared to them.' https://www.amazon.com/Jesus-Apocalyptic-Prophet-New-Millennium/dp/019512474X",
+    "103. [Commentary] Justin Bass, Christianity Today (2020), quoting Paula Fredriksen in ABC's 'The Search for Jesus' (2000). 'What Skeptical Scholars Admit about the Resurrection Appearances of Jesus.' https://www.christianitytoday.com/2020/04/justin-bass-bedrock-christianity-resurrection-appearances/",
+    "104. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:44.' https://biblehub.com/commentaries/1_corinthians/15-44.htm",
+    "105. [Wikipedia] 'Spiritual body.' Readings of 1 Corinthians 15:44. https://en.wikipedia.org/wiki/Spiritual_body",
+    "106. [Reference] Bible Hub Interlinear Bible. '1 Corinthians 15:44.' https://biblehub.com/interlinear/1_corinthians/15-44.htm",
+    "107. [Lexicon] Bible Hub. Greek 5591, psuchikos (natural, of the soul). https://biblehub.com/greek/5591.htm",
+    "108. [Academic] N. T. Wright (2011). 'Mind, Spirit, Soul and Body: Reflections on Paul's Anthropology in his Complex Contexts.' https://ntwrightpage.com/2016/07/12/mind-spirit-soul-and-body/",
+    "109. [Lexicon] Bible Hub. Greek 4152, pneumatikos (spiritual). https://biblehub.com/greek/4152.htm",
+    "110. [Academic] Themelios (The Gospel Coalition). Simon Gathercole, review of N. T. Wright, The Resurrection of the Son of God. https://www.thegospelcoalition.org/themelios/review/the-resurrection-of-the-son-of-god/",
+    "111. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:53.' https://biblehub.com/commentaries/1_corinthians/15-53.htm",
+    "112. [Commentary] Bible Hub. 'Commentaries on 1 Corinthians 15:50.' https://biblehub.com/commentaries/1_corinthians/15-50.htm"
   ],
   lastUpdated: "30-10-2026",
 }

@@ -1,7 +1,7 @@
 "use client"
 
 import { RangeChart } from "@/components/visuals/charts"
-import { Figure, Gallery } from "@/components/visuals/figure"
+import { Figure } from "@/components/visuals/figure"
 import { ClaimLegend, CompareTable, ObjectionCards, Rich, StepStrip, VisualCard } from "@/components/visuals/kit"
 
 const WIKI = (title: string, label = title) => ({ label: `Wikipedia, "${label}"`, url: `https://en.wikipedia.org/wiki/${title.replace(/ /g, "_")}` })
@@ -247,39 +247,6 @@ function OtParallels() {
             shared: "\"Fleeing serpent\", \"twisting serpent\", many heads",
             differs: "Leviathan is a creature God made (Psalm 104:26), not a rival god",
             link: "!strong Isaiah echoes the Ugaritic wording",
-          },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
-function AneGallery() {
-  return (
-    <VisualCard title="Two of the texts" subtitle="The Flood Tablet from Nineveh and a copy of the Instruction of Amenemope, both in the British Museum.">
-      <Gallery
-        columns={2}
-        images={[
-          {
-            src: "/images/pagan-origins/flood-tablet.jpg",
-            width: 900,
-            height: 1018,
-            alt: "Cracked clay tablet covered in cuneiform writing",
-            caption: "Tablet XI of the *Epic of Gilgamesh*, the \"Flood Tablet\", from the library of Ashurbanipal at Nineveh, seventh century BC.",
-            credit: "BabelStone",
-            license: "CC0",
-            licenseUrl: "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:British_Museum_Flood_Tablet.jpg",
-          },
-          {
-            src: "/images/pagan-origins/amenemope.jpg",
-            width: 900,
-            height: 438,
-            alt: "Papyrus sheet with columns of Egyptian hieratic script",
-            caption: "Papyrus of the *Instruction of Amenemope*, copied by the scribe Senu in the Third Intermediate Period.",
-            credit: "Scribe Senu, son of Pemu",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Papyrus_with_the_Instruction_of_Amenemope.jpg",
           },
         ]}
       />
@@ -537,7 +504,6 @@ const VISUALS: Record<string, () => React.JSX.Element> = {
   isis: IsisImage,
   tauroctony: Tauroctony,
   "ot-parallels": OtParallels,
-  "ane-gallery": AneGallery,
   "christmas-timeline": ChristmasTimeline,
   nicholas: Nicholas,
   "easter-names": EasterNames,

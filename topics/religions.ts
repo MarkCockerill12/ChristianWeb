@@ -19,7 +19,6 @@ With thousands of religions and belief systems throughout history[^1] why should
 
 
 
-<?viz religions/timeline?>
 
 <?viz religions/comparison?>
 
@@ -68,6 +67,9 @@ Christianity's own difficult questions have topics of their own, and the case fo
       content: `
 **What can be dated.** Historians date a religion from what survives. Mesopotamian religion is the first to appear in writing, in the mid-fourth millennium BC[^6]. Egypt follows closely, with the earliest known depictions of a god around 3300 BC and the Pyramid Texts around 2400 BC[^7][^8]. The Rigveda, the root of Hinduism, is dated by its language to the second half of the second millennium BC, and its silence about iron suggests a date before 1000 BC[^9][^10]. Zoroaster has no datable link to known history; the traditional sixth-century date has been largely abandoned, and many now place him close to 1000 BC, on the similarity of the Gathas to the Rigveda[^11][^12][^13]. Israel first appears in the record on the Merneptah Stele of about 1208 BC[^14][^15], and the oldest surviving text from the Hebrew Bible, the Priestly Blessing on the Ketef Hinnom scrolls, dates to around 600 BC[^16][^17].
 
+<?viz religions/timeline?>
+
+
 **Why that order does not settle which is oldest.** The order reflects who wrote first. Writing and monumental building began in Sumer and Egypt, so their gods appear first, and a religion can be far older than its earliest inscription. Ritual building is older than any named religion: Gobekli Tepe in Turkey dates to about 9500 BC, and nothing is known of what its builders called their gods[^18][^19]. Each date marks a minimum age. Israel was a small people in the hills of Canaan, which is reason enough for it to enter the record late.
 
 **What the Bible claims.** Scripture does not claim that Israel's institutions came first. Genesis places the worship of the one God before there was any Israel: "at that time people began to call on the name of the LORD" (Genesis 4:26), and Melchizedek serves "God Most High" outside Abraham's family (Genesis 14:18). It also agrees that other gods were worshipped before Israel existed: Abraham's fathers "worshiped other gods" beyond the Euphrates (Joshua 24:2). Paul reads that history as a decline, in which people who knew God "exchanged the glory of the immortal God for images" (Romans 1:21-23). On the traditional chronology Abraham lived around 2000 BC and Moses in the fifteenth or thirteenth century BC, later than the first Sumerian tablets on any reckoning. The claim is that the God Israel worshipped is older than Israel, not that Israel's records are older than Sumer's.
@@ -89,6 +91,9 @@ Christianity's own difficult questions have topics of their own, and the case fo
 
   **📅 Date Founded:** No founder. The earliest evidence dates to the mid-fourth millennium BC, around the invention of writing in about 3500 BC; religious thought may be older but is undocumented[^28][^29]. The religion had almost entirely died out by AD 400 to 500, its last adherents having largely become Syriac Christians[^29]
 </div>
+
+<?viz img/sumerian-worshipper?>
+
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; margin-bottom: 20px; width: 100%;">
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #d4edda; padding: 15px; border-radius: 8px; border-left: 4px solid #28a745; box-sizing: border-box;">
@@ -132,7 +137,9 @@ Christianity's own difficult questions have topics of their own, and the case fo
   **📅 Date Founded:** No founder. Predynastic burials suggest belief in an afterlife, the Koptos colossi of Min of about 3300 BC are the earliest known depictions of a god, and the Pyramid Texts begin in the Fifth Dynasty, around 2400 BC[^43]. The temples at Philae were officially closed in AD 537[^44][^39]
 </div>
 
-<?viz religions/ancient-gallery?>
+<?viz img/hunefer?>
+
+
 
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px; margin-bottom: 20px; width: 100%;">
   <div style="flex: 1 1 calc(50% - 10px); min-width: 280px; background: #d4edda; padding: 15px; border-radius: 8px; border-left: 4px solid #28a745; box-sizing: border-box;">
@@ -208,7 +215,7 @@ Christianity's own difficult questions have topics of their own, and the case fo
   **Respectful Assessment:**   This is the religion the Old Testament most directly confronts. Elijah's contest with the prophets of Baal on Mount Carmel mocks a god who may be "busy, or travelling... or sleeping" (1 Kings 18:27), and the prophets repeatedly condemn Israel for worshipping Baal and Asherah. Inscriptions from Kuntillet Ajrud that mention "YHWH and his Asherah" show that some Israelites did combine the two[^64][^65]. Many critical scholars hold that Israel's religion grew out of Canaanite religion, with YHWH taking over El's titles; the biblical writers present the same overlap as apostasy from a God who had always been distinct. The moral case against the Canaanites, and the conquest itself, is examined in the topic on God's judgments.
 </div>
 
-**See also:** [The Canaanite Conquest (Is God Evil?)](/categories/godEvil#section-canaanite-conquest), [The Old Testament and Its Neighbours (Pagan Origins)](/categories/pagan-origins#section-old-testament-and-its-neighbours).
+**See also:** [The Canaanite Conquest (Is God Evil?)](/categories/god-evil#section-canaanite-conquest), [The Old Testament and Its Neighbours (Pagan Origins)](/categories/pagan-origins#section-old-testament-and-its-neighbours).
 `,
     },
     {

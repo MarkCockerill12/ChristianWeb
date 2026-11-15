@@ -21,7 +21,6 @@ export const morality: Topic = {
 
 If there is no God, is rape truly wrong, or is it just another survival mechanism in an indifferent universe? Almost everyone answers that it is truly wrong. The question is what makes that answer true, and whether a world without God can supply it.
 
-<?viz morality/moral-argument?>
 
 
 `,
@@ -64,6 +63,9 @@ The Moral Argument formalizes this intuition into a logically valid syllogism[^1
 3.  **Conclusion:** Therefore, God exists.
 
 The argument is valid, so debate turns on its premises. Most atheist philosophers accept Premise 2 and reject Premise 1: non-theistic moral realists such as Derek Parfit, Russ Shafer-Landau and Erik Wielenberg hold that basic moral truths are necessary truths that need no further foundation, while theists reply that such brute moral facts cannot explain moral obligation or why a universe of matter should contain beings bound by it[^16][^17].
+
+<?viz morality/moral-argument?>
+
 
 **See also:** [The Standard for Judging God (Is God Evil?)](/categories/god-evil#section-principles-of-divine-justice).
 `,

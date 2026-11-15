@@ -17,7 +17,6 @@ export const CHRISTIANITY_AND_THE_WORLD: Topic = {
   content: `
 Critics often say that Christianity has done more harm than good. Both the good and the harm can be documented, and they are set out here from the historical record, with the failures stated as plainly as the achievements.
 
-<?viz christianity-and-the-world/reforms?>
 `,
   subtopics: [
     {
@@ -93,6 +92,9 @@ Charity is not uniquely Christian. Islam, Judaism and secular humanitarians all 
 **Factories.** Lord Shaftesbury, an evangelical, drove the laws that limited child labour in mines and mills[^57].
 
 **Civil rights.** Martin Luther King Jr. was a Baptist minister, and the organisation he led was the Southern Christian Leadership Conference[^58][^59][^60]. Archbishop Desmond Tutu opposed apartheid in South Africa[^61][^62]. Dietrich Bonhoeffer, a Lutheran pastor, opposed Hitler and was executed in 1945[^63][^64].
+
+
+<?viz christianity-and-the-world/reforms?>
 
 **See also:** [Historical Impact of Christianity on Slavery (Slavery)](/categories/slavery#section-historical-impact).
 `,
@@ -173,6 +175,9 @@ None of the good above cancels what follows, all of which was done by Christians
 * **North Africa** produced Tertullian, Cyprian and Augustine, among the most influential thinkers in Christian history[^117][^118].
 * **India.** The Saint Thomas Christians trace their origin to the apostle Thomas in the first century, though historians dispute that visit[^119][^120].
 * **China.** A stone stele set up in 781 records the Church of the East at work in Tang China[^121][^122].
+
+<?viz img/xian-stele?>
+
 
 **What the enslaved saw.** Enslaved Africans in America met in secret to worship, in what were known as hush harbours[^123][^124]. They knew the difference between Christ and their masters' religion. Frederick Douglass, who escaped slavery, wrote: "between the Christianity of this land, and the Christianity of Christ, I recognize the widest possible difference"[^125]. The Black church went on to lead the American civil rights movement.
 

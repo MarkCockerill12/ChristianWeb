@@ -2,7 +2,6 @@
 
 import { CardGrid, ClaimLegend, CompareTable, StepStrip, VisualCard } from "@/components/visuals/kit"
 import { RangeChart } from "@/components/visuals/charts"
-import { Gallery } from "@/components/visuals/figure"
 
 const HABERMAS = { label: "Gary Habermas, \"The Minimal Facts Approach to the Resurrection of Jesus\" (2012)", url: "http://www.garyhabermas.com/articles/Habermas_Minimal%20Facts%20STR%202012.pdf" }
 const CROSSEXAMINED = { label: "Cross Examined, \"The Minimal Facts of the Resurrection\"", url: "https://crossexamined.org/the-minimal-facts-of-the-resurrection/" }
@@ -151,54 +150,12 @@ function Persecution() {
   )
 }
 
-function Places() {
-  return (
-    <VisualCard
-      title="Places and artefacts"
-      subtitle="The traditional site of the tomb, and an inscription once linked to the resurrection."
-      sources={[
-        { label: "Wikipedia, \"Church of the Holy Sepulchre\"", url: "https://en.wikipedia.org/wiki/Church_of_the_Holy_Sepulchre" },
-        { label: "Harper et al., \"Establishing the provenance of the Nazareth Inscription\", Journal of Archaeological Science: Reports 30 (2020)", url: "https://hal.univ-lorraine.fr/hal-02934970v1/document" },
-        { label: "Science News, \"The Nazareth Inscription's origins may refute ties to Jesus' resurrection\"", url: "https://www.sciencenews.org/article/nazareth-inscription-origins-may-refute-ties-jesus-resurrection" },
-      ]}
-    >
-      <Gallery
-        columns={2}
-        images={[
-          {
-            src: "/images/resurrection/holy-sepulchre-aedicule.jpg",
-            width: 1000,
-            height: 667,
-            alt: "The Aedicule shrine inside the Church of the Holy Sepulchre",
-            caption: "The Aedicule in the Church of the Holy Sepulchre, Jerusalem, built over the rock-cut tomb identified as Jesus' burial place since Constantine's excavation in the 320s.",
-            credit: "Gary Todd",
-            license: "CC0",
-            licenseUrl: "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Church_of_the_Holy_Sepulchre_The_Aedicule,_Which_Contains_the_Holy_Sepulchre_Itself_(28431087277).jpg",
-          },
-          {
-            src: "/images/resurrection/nazareth-inscription.jpg",
-            width: 800,
-            height: 1233,
-            alt: "Marble slab bearing the Greek text of the Nazareth Inscription",
-            caption: "The Nazareth Inscription, an imperial edict making tomb-robbing a capital offence, long linked to reports of Jesus' empty tomb. A 2020 isotope study traced the marble to the Greek island of Kos, which makes that link unlikely.",
-            credit: "F. Cumont (1930)",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Nazareth_Inscription.jpg",
-          },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
 const VISUALS: Record<string, () => React.JSX.Element> = {
   "minimal-facts": MinimalFacts,
   "theory-scorecard": TheoryScorecard,
   "source-distance": SourceDistance,
   apostles: Apostles,
   persecution: Persecution,
-  places: Places,
 }
 
 export default function Visuals({ name }: { readonly name: string }) {

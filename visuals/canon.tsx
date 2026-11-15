@@ -2,7 +2,6 @@
 
 import { BarChart, RangeChart } from "@/components/visuals/charts"
 import { CompareTable, Mark, VisualCard } from "@/components/visuals/kit"
-import { Gallery } from "@/components/visuals/figure"
 
 function Counts() {
   return (
@@ -116,50 +115,10 @@ function GospelDates() {
   )
 }
 
-function Manuscripts() {
-  return (
-    <VisualCard
-      title="What the manuscripts show"
-      subtitle="The oldest complete New Testament, and the codex in which the Gospel of Thomas survives in full."
-      sources={[
-        { label: "Wikipedia, \"Codex Sinaiticus\"", url: "https://en.wikipedia.org/wiki/Codex_Sinaiticus" },
-        { label: "Wikipedia, \"Nag Hammadi library\"", url: "https://en.wikipedia.org/wiki/Nag_Hammadi_library" },
-      ]}
-    >
-      <Gallery
-        columns={2}
-        images={[
-          {
-            src: "/images/canon/codex-sinaiticus-matthew.jpg",
-            width: 800,
-            height: 774,
-            alt: "Page of a Greek uncial manuscript in four columns",
-            caption: "Codex Sinaiticus, the opening of Matthew. Copied around 350, it is the oldest complete New Testament, and also contains the Epistle of Barnabas and part of the Shepherd of Hermas.",
-            credit: "British Library",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Codex_Sinaiticus_Matthew_1,1-2,5.JPG",
-          },
-          {
-            src: "/images/canon/nag-hammadi-thomas.jpg",
-            width: 700,
-            height: 1263,
-            alt: "Coptic papyrus page with the end of the Gospel of Thomas",
-            caption: "Nag Hammadi Codex II, page 51: the end of the Gospel of Thomas in Coptic. The codices were buried in Egypt in the fourth century and found in 1945.",
-            credit: "Coptic Museum, Cairo",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Gospel_of_Thomas_-_Nag_Hammadi_II-51.jpg",
-          },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
 const VISUALS: Record<string, () => React.JSX.Element> = {
   counts: Counts,
   "early-lists": EarlyLists,
   "gospel-dates": GospelDates,
-  manuscripts: Manuscripts,
 }
 
 export default function Visuals({ name }: { readonly name: string }) {

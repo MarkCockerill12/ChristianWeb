@@ -366,10 +366,12 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
       content: `
 **Why they matter.** These methods do not depend on radioactive decay at all. They count layers laid down once a year, like counting the rings of a tree, and they reach back far beyond a young earth chronology. Where they overlap with radiocarbon they are used to check it, and the two agree.
 
-<?viz evolution/clocks?>
 
 
 **Ice cores.**
+
+<?viz img/ice-core?>
+
 
 *   **The evidence.** Cores from central Greenland are about 9,000 feet long. Ash from volcanic eruptions of known date, such as Vesuvius in AD 79, appears at the depths the layer count predicts, and ash from eruptions two and three thousand years ago lies within the top 300 feet[^168][^169].
 *   **The young earth response: the Lost Squadron.** In 1942 a group of American aircraft made emergency landings on the Greenland ice sheet. When one of them, "Glacier Girl", was recovered in 1992 it lay under 268 feet of ice, and another was found in 2018 under more than 300 feet. The Institute for Creation Research argues that ice can therefore build up far faster than ice-core dating assumes[^170][^171].
@@ -377,11 +379,17 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
 
 **Tree rings.**
 
+<?viz img/bristlecone?>
+
+
 *   **The evidence.** Methuselah, a bristlecone pine in California's White Mountains, has a verified age of 4,858 years, and matching the rings of living and dead bristlecones has produced a continuous record of about 9,000 years[^173][^63]. The South German oak chronology runs without a break from 8240 BC to the present, and bristlecone and oak series from different continents agree with each other year by year[^174].
 *   **The young earth response.** Answers in Genesis argues that bristlecones can grow more than one ring a year, especially under the stress of the post-Flood climate, and that cross-dating assumes one ring a year. It acknowledges that if the counts are accurate, "there is an issue that impacts biblical chronology", since the oldest trees would be older than the Flood on a strict chronology[^175][^176].
 *   **The reply.** Seedlings can be induced to form extra rings in experiments, but dendrochronologists report that White Mountain bristlecones more often miss a ring in a harsh year than add one: an examination of 1,000 trees found no false rings, while some specimens lack 5 to 7 per cent of their rings[^177][^178]. Extra rings in one tree would also have to be matched by identical extra rings in unrelated species on other continents for the chronologies to keep agreeing, and they agree with the radiocarbon record as well.
 
 **Varves.**
+
+<?viz img/varves?>
+
 
 *   **The evidence.** A varve is a pair of layers laid down in a lake over one year, typically a light summer layer formed from the shells of microscopic organisms and a dark winter layer[^179][^180]. The Green River Formation of Wyoming, Utah and Colorado contains several million such couplets, a continuous record of about six million years[^181][^180].
 *   **The young earth response.** The Mount St Helens eruption of 1980 laid down about 7.6 metres of finely layered sediment in a few hours, and the Institute for Creation Research argues that the Green River laminae likewise formed rapidly and are not annual[^182].
@@ -438,7 +446,6 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
       content: `
 **The scientific picture.** The fossil record of the human lineage is now extensive, and the dates below are those of mainstream palaeoanthropology[^225].
 
-<?viz evolution/fossils?>
 
 
 <?viz evolution/hominins?>
@@ -446,6 +453,9 @@ RATE's authors acknowledged two unresolved problems. Accelerated decay would hav
 
 *   **Earliest hominins (about 7 to 4 million years ago).** Sahelanthropus from Chad and later Ardipithecus show a mix of ape-like and human-like features, including signs of upright walking[^226].
 *   **Australopithecines (about 4 to 2 million years ago).** Australopithecus afarensis, represented by "Lucy" (3.2 million years), walked upright with a chimpanzee-sized brain; footprints at Laetoli in Tanzania, 3.66 million years old, show a human-like gait[^227][^228].
+
+<?viz img/lucy?>
+
 *   **Early Homo and tools.** Stone tools at Lomekwi in Kenya date to 3.3 million years, and the Oldowan toolmaking tradition to 2.6 million years[^229][^230][^231].
 *   **Homo erectus (from about 1.9 million years ago).** With body proportions like ours, Homo erectus spread from Africa into Asia, reaching Dmanisi in Georgia by 1.8 million years ago, and was associated with fire use later in its long history[^232][^233][^234][^235].
 *   **Archaic humans.** Homo heidelbergensis (about 700,000 to 200,000 years ago) is often treated as the common ancestor of Neanderthals and modern humans[^236]. Homo naledi from South Africa (about 335,000 to 236,000 years ago) combined a small brain with human-like hands and feet; its discoverers' claim that it buried its dead is disputed[^237][^238]. Homo floresiensis, the "hobbit" of Indonesia, survived until about 50,000 years ago[^239][^4].
@@ -515,6 +525,9 @@ Christians may differ on the age of the earth. The historicity of Adam stands on
 
 *   **Nested hierarchies.** Living things fall into groups within groups, and trees built from anatomy and from DNA sequences largely agree[^293].
 *   **Predicted transitional fossils.** In 2004 researchers found Tiktaalik, a fish with a neck, wrist bones and lungs, by deliberately searching rocks of the age evolutionary theory predicted, about 375 million years old[^294]. The fossil series from land mammals such as Pakicetus to whales shows legs shrinking and nostrils moving back over about 10 million years[^295].
+
+<?viz img/tiktaalik?>
+
 *   **Chromosome 2.** Great apes have 24 pairs of chromosomes and humans 23. Human chromosome 2 carries the marks of two ape-like chromosomes joined end to end: telomere sequences in its middle and the remains of a second centromere[^296].
 *   **Shared mistakes.** Humans and other primates carry the same broken gene for making vitamin C, disabled by the same kind of damage, and share thousands of viral insertions (endogenous retroviruses) at identical positions in the genome, about 8 per cent of our DNA consisting of such remnants[^297]. Biologists regard shared errors as the strongest evidence, since a designer would have no reason to repeat the same mistakes, whereas inheritance explains them[^298].
 
@@ -542,6 +555,9 @@ Arguments that collapse under examination damage the case they are meant to supp
 *   **"Evolution is just a theory."** In science a theory is a well-tested explanation, not a guess, and evolution is both an observed fact (populations change) and a theory explaining how[^45][^311]. **Does not hold.**
 *   **"Evolution violates the second law of thermodynamics."** The second law applies to closed systems. The earth receives energy from the sun, and local increases in order, like growing plants or forming crystals, happen constantly[^312]. **Does not hold.**
 *   **"There are no transitional fossils."** Many are known, including Tiktaalik, Archaeopteryx, the whale series and the reptile-to-mammal jaw transition[^313]. **Does not hold.**
+
+<?viz img/archaeopteryx?>
+
 *   **"Nobody has observed macroevolution."** Speciation has been observed, and larger changes are inferred from fossils and genetics as other historical sciences infer the past[^314]. **Does not hold as stated**, though the long-term changes cannot be watched directly.
 *   **Irreducible complexity.** Michael Behe argued in *Darwin's Black Box* (1996) that systems such as the bacterial flagellum cannot work if any part is removed, so could not be built gradually[^315][^316]. Biologists answer that parts can be borrowed from systems with other functions: part of the flagellum's machinery closely resembles the Type III secretion system, which bacteria use to inject proteins into cells[^317][^316]. In *Kitzmiller v. Dover* (2005) a federal court heard Behe's testimony and ruled that intelligent design could not be taught as science in public schools[^318][^319]. **Largely answered**, though whether every such system has a detailed pathway remains a research question; a court ruling on a school curriculum settles nothing about Genesis.
 *   **Haeckel's embryos.** Ernst Haeckel's 19th-century drawings exaggerated the similarity of vertebrate embryos, as Michael Richardson showed in 1997, and the criticism is fair. The underlying observation, that vertebrate embryos share features such as pharyngeal arches, remains true[^320]. **Partly holds** against old textbooks, not against the evidence.
@@ -550,9 +566,12 @@ Arguments that collapse under examination damage the case they are meant to supp
 *   **The Cambrian explosion.** Most animal body plans appear in the fossil record over some 20 to 25 million years from about 539 million years ago, which Stephen Meyer argues in *Darwin's Doubt* (2013) requires an input of information beyond natural processes[^324][^325][^326]. Biologists point to earlier Ediacaran organisms and small shelly fossils, and to the rarity of preservation for soft-bodied animals[^327]. **A real scientific question**, still debated, though not a gap in the record as sudden as popular accounts suggest.
 *   **Genetic entropy.** John Sanford argues that harmful mutations accumulate faster than selection removes them, so the human genome is degrading and cannot be millions of years old[^328]. Population geneticists answer that the models ignore selection's effectiveness and that species with short generation times, which should have collapsed by now, have not[^329]. **Not accepted** outside creationist circles.
 *   **"Junk DNA" and ENCODE.** In 2012 the ENCODE project reported "biochemical function" for 80 per cent of the human genome, and the figure was cited against evolution[^330]. Critics showed that the definition counted any chemical activity, and most researchers still estimate that only about 10 to 15 per cent is under selective constraint[^331][^332][^333][^334]. **Largely does not hold**, though more of the genome is functional than was once assumed.
-*   **"The odds are impossible."** Calculations such as Fred Hoyle's assume that complex molecules must assemble all at once by chance, which no evolutionary account proposes[^335]. **Does not hold** against evolution; the origin of life is a different and genuinely unsolved question.
-*   **"Darwin recanted on his deathbed."** The story comes from Lady Hope in 1915; Darwin's children denied it, and Answers in Genesis itself advises against using it[^336]. **Does not hold.**
-*   **"Many scientists reject evolution."** Lists of dissenting scientists exist, but they are a small fraction of working biologists, and scientific questions are settled by evidence rather than by headcounts in either direction[^337]. **Does not hold.**
+
+*   **Vestigial organs.** In 1893 Robert Wiedersheim listed 86 human organs he described as wholly or partly functionless, and the appendix became the standard example of a useless leftover[^335][^336]. Creationists rightly point out that the appendix holds immune tissue and may shelter gut bacteria, and that many organs on the old lists turned out to have uses[^336][^337]. But "vestigial" in biology, as Darwin used it, means reduced or changed from an earlier function, not useless. A whale's small pelvic bones and an ostrich's wings have uses and are still classed as vestigial, so a function found does not settle the argument either way[^335][^336].
+
+*   **"The odds are impossible."** Calculations such as Fred Hoyle's assume that complex molecules must assemble all at once by chance, which no evolutionary account proposes[^338]. **Does not hold** against evolution; the origin of life is a different and genuinely unsolved question.
+*   **"Darwin recanted on his deathbed."** The story comes from Lady Hope in 1915; Darwin's children denied it, and Answers in Genesis itself advises against using it[^339]. **Does not hold.**
+*   **"Many scientists reject evolution."** Lists of dissenting scientists exist, but they are a small fraction of working biologists, and scientific questions are settled by evidence rather than by headcounts in either direction[^340]. **Does not hold.**
 `
     },
     {
@@ -560,17 +579,17 @@ Arguments that collapse under examination damage the case they are meant to supp
       title: "Genesis 1 and the Scientific Order of Events",
       tags: ["Genesis"],
       content: `
-**The objection.** Read as a scientific chronology, the order of Genesis 1 does not match the order science reconstructs. Light and "evening and morning" come before the sun (days one and four); land plants and fruit trees come before the sun, moon and stars (days three and four); birds and sea creatures, including whales, come before land animals (days five and six), whereas land vertebrates appear before birds and whales evolved from land mammals; and the earth exists before the stars[^338].
+**The objection.** Read as a scientific chronology, the order of Genesis 1 does not match the order science reconstructs. Light and "evening and morning" come before the sun (days one and four); land plants and fruit trees come before the sun, moon and stars (days three and four); birds and sea creatures, including whales, come before land animals (days five and six), whereas land vertebrates appear before birds and whales evolved from land mammals; and the earth exists before the stars[^341].
 
 <?viz evolution/order?>
 
 
 **The responses.**
 
-*   **Young earth.** The order is exactly as written, and science's order is mistaken because it rests on long ages and evolution; God can make light without the sun and plants can survive a day without it[^339].
+*   **Young earth.** The order is exactly as written, and science's order is mistaken because it rests on long ages and evolution; God can make light without the sun and plants can survive a day without it[^342].
 *   **Day-age concordism.** Hugh Ross argues that the account is written from the viewpoint of an observer on the earth's surface (Genesis 1:2), so the sun already existed and became visible through a clearing atmosphere on day four, and some day-age advocates add that the Hebrew for "birds" covers any flying creature, including insects. Critics reply that the text says God "made" the lights on day four, and that the fruit trees and whales still come too early.
-*   **Non-concordist readings.** The framework, cosmic temple and analogical views hold that Genesis 1 is not arranged as a physical chronology, so its order is literary and theological. The sun, moon and stars, which neighbouring peoples worshipped as gods, are demoted to "lights" made on the fourth day to serve humanity, as Gerhard Hasel argued in a classic study of Genesis's polemic against neighbouring cosmologies[^340].
-*   **Accommodation.** John Calvin noted that Genesis 1:16 calls the moon a "great light" although astronomers knew Saturn to be larger, and explained that Moses wrote "in a popular style" of what ordinary people see, leaving astronomy to astronomers[^341].
+*   **Non-concordist readings.** The framework, cosmic temple and analogical views hold that Genesis 1 is not arranged as a physical chronology, so its order is literary and theological. The sun, moon and stars, which neighbouring peoples worshipped as gods, are demoted to "lights" made on the fourth day to serve humanity, as Gerhard Hasel argued in a classic study of Genesis's polemic against neighbouring cosmologies[^343].
+*   **Accommodation.** John Calvin noted that Genesis 1:16 calls the moon a "great light" although astronomers knew Saturn to be larger, and explained that Moses wrote "in a popular style" of what ordinary people see, leaving astronomy to astronomers[^344].
 
 **Assessment.** Detailed attempts to match every day to a scientific epoch require non-obvious readings of the text, and none commands agreement. Readings that do not treat Genesis 1 as a physical chronology avoid the conflict, at the cost of the more straightforward sequential reading that young earth creationists defend.
 `
@@ -580,13 +599,13 @@ Arguments that collapse under examination damage the case they are meant to supp
       title: "Genesis 1 and 2: Two Creation Accounts?",
       tags: ["Genesis"],
       content: `
-**The objection.** In Genesis 1 plants and animals are made before humans, and man and woman are created together. In Genesis 2 no plant of the field has yet sprung up when the man is formed (2:5-7), the animals are formed and brought to the man afterwards (2:19), and the woman is made last. Critical scholars assign the two chapters to different sources, the Priestly and the Yahwist, with different vocabulary for God and different concerns[^342][^343].
+**The objection.** In Genesis 1 plants and animals are made before humans, and man and woman are created together. In Genesis 2 no plant of the field has yet sprung up when the man is formed (2:5-7), the animals are formed and brought to the man afterwards (2:19), and the woman is made last. Critical scholars assign the two chapters to different sources, the Priestly and the Yahwist, with different vocabulary for God and different concerns[^345][^346].
 
 **The responses.**
 
-*   **A second focus, not a second chronology.** Genesis 2:4 opens with a *toledot* (תּוֹלְדוֹת, "these are the generations of") heading, used throughout Genesis to introduce what follows from a previous stage, so chapter 2 zooms in on the creation of humanity rather than retelling the whole week[^344][^10].
-*   **The plants of the field.** Genesis 2:5 explains that there was no shrub or plant "of the field" because God had not yet sent rain and there was no one to work the ground. Mark Futato argued that these are cultivated crops and wild growth that depend on rain and human farming, not all vegetation, which fits a local setting after the creation of plants in general[^345][^346].
-*   **The animals.** Several translations, including the NIV, render the verb in 2:19 as "had formed", placing the creation of the animals earlier; the grammar allows but does not require this[^347].
+*   **A second focus, not a second chronology.** Genesis 2:4 opens with a *toledot* (תּוֹלְדוֹת, "these are the generations of") heading, used throughout Genesis to introduce what follows from a previous stage, so chapter 2 zooms in on the creation of humanity rather than retelling the whole week[^347][^10].
+*   **The plants of the field.** Genesis 2:5 explains that there was no shrub or plant "of the field" because God had not yet sent rain and there was no one to work the ground. Mark Futato argued that these are cultivated crops and wild growth that depend on rain and human farming, not all vegetation, which fits a local setting after the creation of plants in general[^348][^349].
+*   **The animals.** Several translations, including the NIV, render the verb in 2:19 as "had formed", placing the creation of the animals earlier; the grammar allows but does not require this[^350].
 
 The same question is treated among the [supposed contradictions](/categories/contradictions) under Genesis 1:25-27 and 2:7-19.
 
@@ -598,20 +617,20 @@ The same question is treated among the [supposed contradictions](/categories/con
       title: "The Firmament, a Flat Earth and Ancient Cosmology",
       tags: ["Genesis"],
       content: `
-**The objection.** Genesis 1:6-8 describes a *raqia* (רָקִיעַ, expanse), traditionally translated "firmament", separating waters above from waters below. Elsewhere the sky is "hard as a mirror of cast bronze" (Job 37:18), has "windows" through which the Flood waters came (Genesis 7:11), and the earth rests on pillars and foundations. Critics argue that Scripture assumes the ancient Near Eastern picture of a flat earth under a solid dome with a heavenly ocean above it[^348][^349].
+**The objection.** Genesis 1:6-8 describes a *raqia* (רָקִיעַ, expanse), traditionally translated "firmament", separating waters above from waters below. Elsewhere the sky is "hard as a mirror of cast bronze" (Job 37:18), has "windows" through which the Flood waters came (Genesis 7:11), and the earth rests on pillars and foundations. Critics argue that Scripture assumes the ancient Near Eastern picture of a flat earth under a solid dome with a heavenly ocean above it[^351][^352].
 
 <?viz evolution/cosmology?>
 
 
-**The evidence in the text.** The noun *raqia* comes from a verb meaning to beat out or spread, used of hammering metal, and many Old Testament scholars, including evangelicals such as John Walton, agree that Israel shared the common ancient picture of the sky[^350][^351][^352].
+**The evidence in the text.** The noun *raqia* comes from a verb meaning to beat out or spread, used of hammering metal, and many Old Testament scholars, including evangelicals such as John Walton, agree that Israel shared the common ancient picture of the sky[^353][^354][^355].
 
 **The responses.**
 
 *   **Phenomenological language.** Scripture describes the world as it appears, as modern people still speak of sunrise. "Expanse" is a legitimate translation of *raqia*, and the "windows of heaven" are imagery for heavy rain.
-*   **Accommodation.** God communicated through the cosmological picture of the original hearers without teaching it, just as Jesus spoke of the mustard seed as the smallest of seeds known to his audience. The Bible's claims concern who made the sky and why, not its physical structure. This was Calvin's approach, and it is compatible with Scripture being true in all it affirms, because the picture of the sky is the vehicle, not the thing affirmed. Galileo quoted Cardinal Baronius to the same effect: the Holy Spirit intends to teach how one goes to heaven, not how the heavens go[^353][^354].
-*   **Supposed scientific foreknowledge.** Some apologists claim that Isaiah 40:22, "the circle of the earth", teaches a spherical earth, and Job 26:7, "he hangs the earth on nothing", modern astronomy. The Hebrew *chug* (חוּג, circle) means a circle or vault, not a sphere, so these verses should not be pressed in either direction[^355][^356][^357].
+*   **Accommodation.** God communicated through the cosmological picture of the original hearers without teaching it, just as Jesus spoke of the mustard seed as the smallest of seeds known to his audience. The Bible's claims concern who made the sky and why, not its physical structure. This was Calvin's approach, and it is compatible with Scripture being true in all it affirms, because the picture of the sky is the vehicle, not the thing affirmed. Galileo quoted Cardinal Baronius to the same effect: the Holy Spirit intends to teach how one goes to heaven, not how the heavens go[^356][^357].
+*   **Supposed scientific foreknowledge.** Some apologists claim that Isaiah 40:22, "the circle of the earth", teaches a spherical earth, and Job 26:7, "he hangs the earth on nothing", modern astronomy. The Hebrew *chug* (חוּג, circle) means a circle or vault, not a sphere, so these verses should not be pressed in either direction[^358][^359][^360].
 
-**The flat earth myth.** The popular claim that medieval Christians believed the earth was flat is false. Educated Christians from Bede to Aquinas held that the earth was a sphere, and the myth was largely created by nineteenth-century writers promoting the idea of a war between science and religion[^358].
+**The flat earth myth.** The popular claim that medieval Christians believed the earth was flat is false. Educated Christians from Bede to Aquinas held that the earth was a sphere, and the myth was largely created by nineteenth-century writers promoting the idea of a war between science and religion[^361].
 `
     },
     {
@@ -619,9 +638,9 @@ The same question is treated among the [supposed contradictions](/categories/con
       title: "Borrowed Myths? Genesis and the Mesopotamian Parallels",
       tags: ["Genesis"],
       content: `
-**The objection.** Genesis 1 to 11 closely resembles older Mesopotamian texts, suggesting it was borrowed from myths. The Babylonian *Enūma Eliš* describes creation beginning from primeval waters, with the goddess Tiamat, whose name is related to the Hebrew *tehom* (תְּהוֹם, the deep), "the deep" of Genesis 1:2[^359][^360][^361]. The *Atrahasis* epic and Tablet XI of the *Epic of Gilgamesh* tell of a flood sent by the gods, a man warned to build a boat, animals preserved, birds sent out to find land, and a sacrifice after the waters recede[^362][^363][^364]. The Sumerian King List gives kings before its flood reigns of tens of thousands of years, much as Genesis 5 gives long lifespans before Noah[^365].
+**The objection.** Genesis 1 to 11 closely resembles older Mesopotamian texts, suggesting it was borrowed from myths. The Babylonian *Enūma Eliš* describes creation beginning from primeval waters, with the goddess Tiamat, whose name is related to the Hebrew *tehom* (תְּהוֹם, the deep), "the deep" of Genesis 1:2[^362][^363][^364]. The *Atrahasis* epic and Tablet XI of the *Epic of Gilgamesh* tell of a flood sent by the gods, a man warned to build a boat, animals preserved, birds sent out to find land, and a sacrifice after the waters recede[^365][^366][^367]. The Sumerian King List gives kings before its flood reigns of tens of thousands of years, much as Genesis 5 gives long lifespans before Noah[^368].
 
-**What the parallels show.** The similarities are real and extensive, and they show that Genesis addresses questions its neighbours also asked, in shared images and forms. Hermann Gunkel argued that Genesis adapted the Babylonian combat myth, but most scholars now reject direct copying from any one text, and David Tsumura's linguistic study concluded that *tehom* reflects a common Semitic word for the ocean rather than being derived from the goddess[^366].
+**What the parallels show.** The similarities are real and extensive, and they show that Genesis addresses questions its neighbours also asked, in shared images and forms. Hermann Gunkel argued that Genesis adapted the Babylonian combat myth, but most scholars now reject direct copying from any one text, and David Tsumura's linguistic study concluded that *tehom* reflects a common Semitic word for the ocean rather than being derived from the goddess[^369].
 
 **The differences.** The contrasts are as striking as the similarities.
 
@@ -633,7 +652,7 @@ The same question is treated among the [supposed contradictions](/categories/con
 *   **The reason for the flood.** In *Atrahasis* the gods send the flood because human noise disturbs their sleep; in Genesis God sends it because of violence and corruption, and saves Noah because he is righteous.
 *   **The gods' character.** After the flood the Mesopotamian gods crowd around the sacrifice "like flies" because they have been starving; in Genesis God makes a covenant never again to destroy the earth.
 
-**The interpretations.** Conservative scholars read the parallels as evidence of a shared memory of real events, with Genesis giving the true account that other traditions distorted. Others read Genesis as a deliberate polemic that takes up familiar stories and corrects their theology. Both readings treat Genesis as asserting its own claims about God and humanity against those of its neighbours, not as repeating them[^367].
+**The interpretations.** Conservative scholars read the parallels as evidence of a shared memory of real events, with Genesis giving the true account that other traditions distorted. Others read Genesis as a deliberate polemic that takes up familiar stories and corrects their theology. Both readings treat Genesis as asserting its own claims about God and humanity against those of its neighbours, not as repeating them[^370].
 
 **See also:** [The Old Testament and Its Neighbours (Pagan Origins)](/categories/pagan-origins#section-old-testament-and-its-neighbours).
 `
@@ -645,17 +664,17 @@ The same question is treated among the [supposed contradictions](/categories/con
       content: `
 **The objection.** The fossil record shows predation, disease, parasites, injury and extinction for hundreds of millions of years before humans existed, including cancer in dinosaurs. If Genesis teaches that there was no death of any kind before Adam's sin, an old earth contradicts it; and if there was death, the objection runs, God created a world of suffering and called it "very good".
 
-**The young earth view.** Answers in Genesis holds that no animal death occurred before the fall, citing Genesis 1:29-30, where humans and animals are given plants to eat, Romans 5:12, where death entered the world through sin, and Romans 8:20-22, where creation was subjected to futility and groans awaiting liberation[^368][^369][^370]. On this view an old earth places death, disease and bloodshed before sin, which they regard as undermining the gospel.
+**The young earth view.** Answers in Genesis holds that no animal death occurred before the fall, citing Genesis 1:29-30, where humans and animals are given plants to eat, Romans 5:12, where death entered the world through sin, and Romans 8:20-22, where creation was subjected to futility and groans awaiting liberation[^371][^372][^373]. On this view an old earth places death, disease and bloodshed before sin, which they regard as undermining the gospel.
 
 **The responses from other views.**
 
 *   **Romans 5 concerns human death.** Paul says that death "came to all people, because all sinned"; the death in view is human death as the penalty for sin, and Romans 5 says nothing about animals.
-*   **God is praised for predators.** Psalm 104:21 says that "the lions roar for their prey and seek their food from God", in a psalm celebrating creation, and in Job 38:39-41 and 39:27-30 God himself describes providing prey for lions and ravens and blood for the eagle's young as part of his wise design[^371][^372].
+*   **God is praised for predators.** Psalm 104:21 says that "the lions roar for their prey and seek their food from God", in a psalm celebrating creation, and in Job 38:39-41 and 39:27-30 God himself describes providing prey for lions and ravens and blood for the eagle's young as part of his wise design[^374][^375].
 *   **Genesis 1:30 is a grant, not a prohibition.** It gives plants to animals as food, but does not say that no animal ate another, and the Hebrew "very good" describes fitness for God's purpose, not the absence of death.
-*   **Aquinas.** Thomas Aquinas held that "the nature of animals was not changed by man's sin", and that animals which now devour others would have done so before the fall as well[^373].
-*   **The tree of life.** Genesis 3:22 implies that the man would need to eat from the tree of life to live forever, suggesting that physical immortality was a gift rather than the natural condition of creatures[^374].
+*   **Aquinas.** Thomas Aquinas held that "the nature of animals was not changed by man's sin", and that animals which now devour others would have done so before the fall as well[^376].
+*   **The tree of life.** Genesis 3:22 implies that the man would need to eat from the tree of life to live forever, suggesting that physical immortality was a gift rather than the natural condition of creatures[^377].
 
-**The deeper problem of animal suffering.** Charles Darwin wrote to Asa Gray in 1860 that he could not persuade himself that a beneficent God would have created parasitic wasps that feed within the living bodies of caterpillars[^375]. Christian responses include C. S. Lewis's suggestion in *The Problem of Pain* that a fallen angelic power corrupted animal nature before humanity existed[^376]; William Dembski's proposal that the effects of the fall reached backwards in time; and Christopher Southgate's argument in *The Groaning of Creation* (2008) that a world able to produce the beauty and diversity of life may only be possible through a process that also involves suffering, which God shares in Christ and will redeem[^377]. None of these fully removes the difficulty, which is felt by holders of every view: young earth creationists face the same question about predation and disease after the fall.
+**The deeper problem of animal suffering.** Charles Darwin wrote to Asa Gray in 1860 that he could not persuade himself that a beneficent God would have created parasitic wasps that feed within the living bodies of caterpillars[^378]. Christian responses include C. S. Lewis's suggestion in *The Problem of Pain* that a fallen angelic power corrupted animal nature before humanity existed[^379]; William Dembski's proposal that the effects of the fall reached backwards in time; and Christopher Southgate's argument in *The Groaning of Creation* (2008) that a world able to produce the beauty and diversity of life may only be possible through a process that also involves suffering, which God shares in Christ and will redeem[^380]. None of these fully removes the difficulty, which is felt by holders of every view: young earth creationists face the same question about predation and disease after the fall.
 
 **See also:** [The Mystery of Natural Evil (The Problem of Evil)](/categories/problem-of-evil#section-natural-evil).
 `
@@ -665,27 +684,27 @@ The same question is treated among the [supposed contradictions](/categories/con
       title: "Noah's Flood: Global, Regional or Local?",
       tags: ["Flood and early Genesis"],
       content: `
-**What the text says.** The waters covered "all the high mountains under the entire heavens" (Genesis 7:19), and every living thing on the land outside the ark died[^378]. The Hebrew *erets* (אֶרֶץ, earth, land), translated "earth", also means "land" or "country", and phrases such as "all the earth" are used elsewhere of a region: "all the world" came to Egypt to buy grain from Joseph (Genesis 41:57)[^379][^380].
+**What the text says.** The waters covered "all the high mountains under the entire heavens" (Genesis 7:19), and every living thing on the land outside the ark died[^381]. The Hebrew *erets* (אֶרֶץ, earth, land), translated "earth", also means "land" or "country", and phrases such as "all the earth" are used elsewhere of a region: "all the world" came to Egypt to buy grain from Joseph (Genesis 41:57)[^382][^383].
 
-**The global flood view.** Young earth creationists hold that the Flood covered the whole globe about 4,300 years ago, laid down most of the fossil-bearing sedimentary rock, and carved features such as the Grand Canyon, possibly through a burst of rapid continental movement ("catastrophic plate tectonics")[^381][^382].
+**The global flood view.** Young earth creationists hold that the Flood covered the whole globe about 4,300 years ago, laid down most of the fossil-bearing sedimentary rock, and carved features such as the Grand Canyon, possibly through a burst of rapid continental movement ("catastrophic plate tectonics")[^384][^385].
 
 **The geological objections.** Geologists, including many Christians, find the global flood interpretation of the rock record untenable.
 
-*   **Features that need time and dry land.** The rock record contains desert dune deposits with animal trackways, such as the Coconino Sandstone of the Grand Canyon, fossil soils, evaporite salt beds formed by drying seas, coral reefs grown in place, and dinosaur nesting grounds at many successive levels[^383].
-*   **The ordering of fossils.** Fossils appear in a consistent worldwide order that sorting by a single flood (by density, habitat or ability to flee) does not explain, for example flowering plants and pollen never appearing in the lowest layers[^384].
-*   **The Grand Canyon.** In *The Grand Canyon, Monument to an Ancient Earth* (2016), a group of geologists, most of them Christians, argued in detail that its layers and erosion require millions of years; Answers in Genesis has published a rebuttal[^385][^386][^387].
+*   **Features that need time and dry land.** The rock record contains desert dune deposits with animal trackways, such as the Coconino Sandstone of the Grand Canyon, fossil soils, evaporite salt beds formed by drying seas, coral reefs grown in place, and dinosaur nesting grounds at many successive levels[^386].
+*   **The ordering of fossils.** Fossils appear in a consistent worldwide order that sorting by a single flood (by density, habitat or ability to flee) does not explain, for example flowering plants and pollen never appearing in the lowest layers[^387].
+*   **The Grand Canyon.** In *The Grand Canyon, Monument to an Ancient Earth* (2016), a group of geologists, most of them Christians, argued in detail that its layers and erosion require millions of years; Answers in Genesis has published a rebuttal[^388][^389][^390].
 *   **Unbroken records.** Egyptian and Mesopotamian civilisation, tree-ring sequences and annual ice layers continue through the date a strict chronology assigns to the Flood.
 
-**The ark and biology.** Ark Encounter estimates that about 1,398 kinds, some 6,744 animals, would have been needed[^388]. Critics raise the care and feeding of the animals for a year, the redistribution of animals afterwards (kangaroos only to Australia, sloths only to the Americas), and the absence of the severe genetic bottleneck that eight people and two animals of each kind would leave in every species about 4,300 years ago. Young earth creationists answer with land bridges, rapid post-Flood speciation and created genetic diversity.
+**The ark and biology.** Ark Encounter estimates that about 1,398 kinds, some 6,744 animals, would have been needed[^391]. Critics raise the care and feeding of the animals for a year, the redistribution of animals afterwards (kangaroos only to Australia, sloths only to the Americas), and the absence of the severe genetic bottleneck that eight people and two animals of each kind would leave in every species about 4,300 years ago. Young earth creationists answer with land bridges, rapid post-Flood speciation and created genetic diversity.
 
 <?viz evolution/ark?>
 
 
-**The regional or local flood view.** Many old earth Christians hold that the Flood was a real, catastrophic event that destroyed the human world of its day in Mesopotamia, described from the perspective of those who experienced it, in which "the whole earth" and "under the entire heavens" describe the whole horizon and land known to them, as similar phrases do elsewhere (Acts 2:5, Colossians 1:23). Hugh Ross and Reasons to Believe hold this view; Answers in Genesis argues that it cannot account for the text's description of the waters covering the mountains or for the size of the ark[^389][^390]. Excavations at Shuruppak, Noah's home in the Sumerian tradition, and at Ur and Kish found major flood deposits, though from different dates[^391]. The proposal that the Black Sea flooded catastrophically around 5600 BC is disputed[^392][^393].
+**The regional or local flood view.** Many old earth Christians hold that the Flood was a real, catastrophic event that destroyed the human world of its day in Mesopotamia, described from the perspective of those who experienced it, in which "the whole earth" and "under the entire heavens" describe the whole horizon and land known to them, as similar phrases do elsewhere (Acts 2:5, Colossians 1:23). Hugh Ross and Reasons to Believe hold this view; Answers in Genesis argues that it cannot account for the text's description of the waters covering the mountains or for the size of the ark[^392][^393]. Excavations at Shuruppak, Noah's home in the Sumerian tradition, and at Ur and Kish found major flood deposits, though from different dates[^394]. The proposal that the Black Sea flooded catastrophically around 5600 BC is disputed[^395][^396].
 
-**The New Testament.** Jesus referred to Noah and the Flood as real events (Matthew 24:37-39), and 2 Peter 3:6 says that "the world of that time was deluged and destroyed"[^394][^395]. Both sides accept the Flood as historical; they differ over whether these texts require it to have covered the entire planet or the entire world of humanity.
+**The New Testament.** Jesus referred to Noah and the Flood as real events (Matthew 24:37-39), and 2 Peter 3:6 says that "the world of that time was deluged and destroyed"[^397][^398]. Both sides accept the Flood as historical; they differ over whether these texts require it to have covered the entire planet or the entire world of humanity.
 
-**The rainbow.** Genesis 9:13 does not require that rainbows never appeared before the Flood; God appointed an existing phenomenon as the sign of his covenant, as circumcision and bread were given new meaning[^396].
+**The rainbow.** Genesis 9:13 does not require that rainbows never appeared before the Flood; God appointed an existing phenomenon as the sign of his covenant, as circumcision and bread were given new meaning[^399].
 
 **See also:** [The Great Flood (Is God Evil?)](/categories/god-evil#section-antediluvian-judgment), [Genesis 7:17 vs Genesis 7:24 - flood lasts 40 days vs waters prevail for 150 days (Contradictions)](/categories/contradictions#section-GenFlood).
 `
@@ -695,18 +714,18 @@ The same question is treated among the [supposed contradictions](/categories/con
       title: "Babel, the Genealogies and the Long Lifespans",
       tags: ["Flood and early Genesis"],
       content: `
-**Babel and the origin of languages.** Linguists trace language families diverging over many thousands of years, and writing, cities and ziggurats appear in Mesopotamia from about the fourth millennium BC[^397][^398]. Genesis 10 already describes the nations spread out "each with its own language" (10:5) before the Babel narrative of chapter 11, which shows that the chapters are not arranged in strict chronological order[^399][^400]. Interpreters who read Babel as a regional event see it as explaining the scattering of the peoples of the Mesopotamian world rather than the origin of every human language, while young earth creationists read it as the origin of the world's language families[^401][^399].
+**Babel and the origin of languages.** Linguists trace language families diverging over many thousands of years, and writing, cities and ziggurats appear in Mesopotamia from about the fourth millennium BC[^400][^401]. Genesis 10 already describes the nations spread out "each with its own language" (10:5) before the Babel narrative of chapter 11, which shows that the chapters are not arranged in strict chronological order[^402][^403]. Interpreters who read Babel as a regional event see it as explaining the scattering of the peoples of the Mesopotamian world rather than the origin of every human language, while young earth creationists read it as the origin of the world's language families[^404][^402].
 
-**The genealogies and chronology.** Ussher's date of 4004 BC depends on adding up the ages in Genesis 5 and 11 as a continuous chronology[^402][^403]. In 1890 William Henry Green of Princeton Seminary, a defender of inerrancy, argued that biblical genealogies often omit generations (Matthew 1:8 skips three kings, for example) and were "not intended to be used" for chronology[^28]. Young earth creationists reply that Genesis 5 and 11 differ from other genealogies because they give each father's age at the birth of the next name, so that even with gaps the years still add up. The Septuagint gives substantially larger numbers than the Hebrew text, and its Genesis 11 includes an extra generation, Cainan, whom Luke 3:36 also names[^404][^405][^406].
+**The genealogies and chronology.** Ussher's date of 4004 BC depends on adding up the ages in Genesis 5 and 11 as a continuous chronology[^405][^406]. In 1890 William Henry Green of Princeton Seminary, a defender of inerrancy, argued that biblical genealogies often omit generations (Matthew 1:8 skips three kings, for example) and were "not intended to be used" for chronology[^28]. Young earth creationists reply that Genesis 5 and 11 differ from other genealogies because they give each father's age at the birth of the next name, so that even with gaps the years still add up. The Septuagint gives substantially larger numbers than the Hebrew text, and its Genesis 11 includes an extra generation, Cainan, whom Luke 3:36 also names[^407][^408][^409].
 
-**The long lifespans.** Adam lives 930 years and Methuselah 969[^407]. No known biological mechanism allows such ages.
+**The long lifespans.** Adam lives 930 years and Methuselah 969[^410]. No known biological mechanism allows such ages.
 
 <?viz evolution/lifespans?>
 
 
 *   **Literal.** Young earth creationists hold the ages are exact, explained by a different pre-Flood environment or a healthier original genome, with lifespans declining after the Flood.
-*   **Symbolic or honorific.** Carol Hill argued that the ages combine real and sacred numbers in the Mesopotamian sexagesimal system, built mainly from multiples of 60 and 7, conveying significance rather than precise durations[^408].
-*   **Ancient Near Eastern context.** The Sumerian King List gives pre-flood kings reigns of up to 28,800 years; the Genesis ages are far more modest, and some read them as a deliberate contrast[^409][^410]. Genesis 6:3 limits human life to 120 years, which is close to the maximum recorded human lifespan[^411].
+*   **Symbolic or honorific.** Carol Hill argued that the ages combine real and sacred numbers in the Mesopotamian sexagesimal system, built mainly from multiples of 60 and 7, conveying significance rather than precise durations[^411].
+*   **Ancient Near Eastern context.** The Sumerian King List gives pre-flood kings reigns of up to 28,800 years; the Genesis ages are far more modest, and some read them as a deliberate contrast[^412][^413]. Genesis 6:3 limits human life to 120 years, which is close to the maximum recorded human lifespan[^414].
 `
     },
     {
@@ -716,7 +735,7 @@ The same question is treated among the [supposed contradictions](/categories/con
       content: `
 The New Testament refers to the early chapters of Genesis often, and every Christian view has to account for these references.
 
-*   **"From the beginning of creation."** Jesus said that "at the beginning of creation God made them male and female" (Mark 10:6, Matthew 19:4). Young earth creationists argue that humans were therefore present from the beginning, not billions of years after it. Others answer that "the beginning of creation" refers to the beginning of human creation and the institution of marriage, which is the subject of the passage[^412].
+*   **"From the beginning of creation."** Jesus said that "at the beginning of creation God made them male and female" (Mark 10:6, Matthew 19:4). Young earth creationists argue that humans were therefore present from the beginning, not billions of years after it. Others answer that "the beginning of creation" refers to the beginning of human creation and the institution of marriage, which is the subject of the passage[^415].
 *   **Abel and the prophets.** Jesus spoke of the blood of the prophets shed "since the foundation of the world, from the blood of Abel" (Luke 11:50-51), treating Abel as a real person at the beginning of human history.
 *   **Noah.** Jesus compared his return to "the days of Noah" (Matthew 24:37-39), and 1 Peter 3:20 and 2 Peter 2:5 treat Noah as historical; the texts do not specify the Flood's geographical extent.
 *   **Adam.** Paul's arguments in Romans 5, 1 Corinthians 15 and 1 Timothy 2:13-14, and Luke's genealogy, treat Adam as a real individual.
@@ -730,15 +749,15 @@ The New Testament refers to the early chapters of Genesis often, and every Chris
       title: "Where Naturalistic Explanation Runs Out",
       tags: ["Evolution"],
       content: `
-Evolution by natural selection explains how populations of self-replicating organisms diversify once such organisms exist. It does not claim to explain how replication began, and the questions below sit outside its scope rather than inside it. Each is an open problem in the mainstream literature[^413].
+Evolution by natural selection explains how populations of self-replicating organisms diversify once such organisms exist. It does not claim to explain how replication began, and the questions below sit outside its scope rather than inside it. Each is an open problem in the mainstream literature[^416].
 
-**The origin of life has no accepted mechanism.** There is no consensus account of how the first self-replicating chemistry arose. The leading framework, the RNA world, faces unresolved difficulties in the prebiotic synthesis of ribose and the nucleobases, in accumulating long enough polymers, and in getting replication started without enzymes[^414][^415].
+**The origin of life has no accepted mechanism.** There is no consensus account of how the first self-replicating chemistry arose. The leading framework, the RNA world, faces unresolved difficulties in the prebiotic synthesis of ribose and the nucleobases, in accumulating long enough polymers, and in getting replication started without enzymes[^417][^418].
 
-**Homochirality is unexplained.** Life uses left-handed amino acids and right-handed sugars, while ordinary chemistry produces both hands equally. Recent work achieved an excess of one hand by crystallising an RNA precursor on magnetite, which is progress towards a mechanism rather than a settled answer[^416][^417].
+**Homochirality is unexplained.** Life uses left-handed amino acids and right-handed sugars, while ordinary chemistry produces both hands equally. Recent work achieved an excess of one hand by crystallising an RNA precursor on magnetite, which is progress towards a mechanism rather than a settled answer[^419][^420].
 
-**The genetic code is a chicken-and-egg problem.** Translating DNA into protein requires proteins, and building those proteins requires translation. Proposals exist, including ribozyme precursors and early RNA-based systems, but no demonstrated route leads from chemistry to a working code[^418][^419].
+**The genetic code is a chicken-and-egg problem.** Translating DNA into protein requires proteins, and building those proteins requires translation. Proposals exist, including ribozyme precursors and early RNA-based systems, but no demonstrated route leads from chemistry to a working code[^421][^422].
 
-**Consciousness is not addressed.** Why physical processes in the brain are accompanied by subjective experience is unresolved in philosophy of mind, and evolutionary biology can at most explain the behaviour that accompanies experience[^420].
+**Consciousness is not addressed.** Why physical processes in the brain are accompanied by subjective experience is unresolved in philosophy of mind, and evolutionary biology can at most explain the behaviour that accompanies experience[^423].
 
 None of this is proof of design, and an unsolved problem may yet be solved. It does show that the naturalistic account is incomplete at exactly the points where a Creator is claimed to act, and that the question of origins is not closed.
 
@@ -752,11 +771,11 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
       content: `
 **The objection.** If natural processes explain the development of life, the argument runs, there is nothing left for God to do, and belief in a Creator becomes superfluous.
 
-**Primary and secondary causes.** Classical Christian theology has never held that God acts only where natural explanation fails. God is the primary cause who sustains all things and works through the secondary causes of nature; a natural explanation of how something happened does not remove God as the one who made it happen, any more than explaining the water cycle removes God from the rain (Psalm 147:8)[^421]. Arguments that locate God only in the gaps of current science ("God of the gaps") are vulnerable whenever the gap is filled, which is why many theologians avoid them.
+**Primary and secondary causes.** Classical Christian theology has never held that God acts only where natural explanation fails. God is the primary cause who sustains all things and works through the secondary causes of nature; a natural explanation of how something happened does not remove God as the one who made it happen, any more than explaining the water cycle removes God from the rain (Psalm 147:8)[^424]. Arguments that locate God only in the gaps of current science ("God of the gaps") are vulnerable whenever the gap is filled, which is why many theologians avoid them.
 
-**Early Christian responses to Darwin.** When *On the Origin of Species* appeared in 1859, some Christian thinkers welcomed it: the American botanist Asa Gray, a committed Christian, argued that natural selection was compatible with design, and the Anglican Charles Kingsley wrote that it was just as noble to believe God created forms capable of self-development[^422][^423]. The Catholic Encyclopedia of 1909 distinguished evolution as a scientific theory from the atheistic philosophy sometimes attached to it[^424].
+**Early Christian responses to Darwin.** When *On the Origin of Species* appeared in 1859, some Christian thinkers welcomed it: the American botanist Asa Gray, a committed Christian, argued that natural selection was compatible with design, and the Anglican Charles Kingsley wrote that it was just as noble to believe God created forms capable of self-development[^425][^426]. The Catholic Encyclopedia of 1909 distinguished evolution as a scientific theory from the atheistic philosophy sometimes attached to it[^427].
 
-**The argument turned around.** Alvin Plantinga argues that it is naturalism, not evolution, that is in tension with science. If our cognitive faculties were produced only by unguided processes selecting for survival rather than truth, we would have no good reason to trust them, including when they form the belief in naturalism. On a theistic view, by contrast, God may have guided the process to produce reliable minds[^425][^426].
+**The argument turned around.** Alvin Plantinga argues that it is naturalism, not evolution, that is in tension with science. If our cognitive faculties were produced only by unguided processes selecting for survival rather than truth, we would have no good reason to trust them, including when they form the belief in naturalism. On a theistic view, by contrast, God may have guided the process to produce reliable minds[^428][^429].
 
 **Misuse on both sides.** Evolutionary ideas were used to support social Darwinism, eugenics and scientific racism in the late nineteenth and early twentieth centuries, and the Bible was used to defend slavery and racial hierarchy. In both cases the misuse of an idea does not settle whether the idea is true.
 
@@ -778,7 +797,7 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
 `
     }
   ],
-  sources: [
+      sources: [
     "1. [Wikipedia] 'Genesis creation narrative.' Text, structure and ancient Near Eastern context. https://en.wikipedia.org/wiki/Genesis_creation_narrative",
     "2. [Academic] Stanford Encyclopedia of Philosophy. 'Creationism.' https://plato.stanford.edu/entries/creationism/",
     "3. [Academic] National Academies Press. 'Science, Evolution, and Creationism' (National Academy of Sciences and Institute of Medicine, 2008). https://nap.nationalacademies.org/catalog/11876/science-evolution-and-creationism",
@@ -1113,98 +1132,101 @@ None of this is proof of design, and an unsolved problem may yet be solved. It d
     "332. [Academic] An integrated encyclopedia of DNA elements in the human genome. PubMed. https://pubmed.ncbi.nlm.nih.gov/22955616/",
     "333. [Wikipedia] 'Junk DNA.' https://en.wikipedia.org/wiki/Junk_DNA",
     "334. [Wikipedia] 'ENCODE.' https://en.wikipedia.org/wiki/ENCODE",
-    "335. [Reference] TalkOrigins Archive. 'CB010: Probability of abiogenesis.' https://www.talkorigins.org/indexcc/CB/CB010.html",
-    "336. [Reference] TalkOrigins Archive. 'CG001: Darwin recanted.' https://www.talkorigins.org/indexcc/CG/CG001.html",
-    "337. [Reference] TalkOrigins Archive. 'CA111: Scientists reject evolution?' https://www.talkorigins.org/indexcc/CA/CA111.html",
-    "338. [Commentary] Bible Hub. 'Commentaries on Genesis 1:16.' https://biblehub.com/commentaries/genesis/1-16.htm",
-    "339. [Creationist] Answers in Genesis. 'Days of Creation' topic page. https://answersingenesis.org/days-of-creation/",
-    "340. [Academic] Evangelical Quarterly. Gerhard F. Hasel, 'The Polemic Nature of the Genesis Cosmology' (1974). https://biblicalstudies.org.uk/pdf/eq/1974-2_081.pdf",
-    "341. [Commentary] StudyLight. John Calvin, 'Commentary on Genesis 1.' https://www.studylight.org/commentaries/eng/cal/genesis-1.html",
-    "342. [Wikipedia] 'Documentary hypothesis.' https://en.wikipedia.org/wiki/Documentary_hypothesis",
-    "343. [Academic] Christine Hayes, Introduction to the Old Testament, lecture 5. Open Yale Courses. https://oyc.yale.edu/religious-studies/rlst-145/lecture-5",
-    "344. [Wikipedia] 'Toledot.' The 'generations' headings of Genesis. https://en.wikipedia.org/wiki/Toledot",
-    "345. [Academic] Westminster Theological Journal, via Third Millennium Ministries. Mark D. Futato, 'Because It Had Rained: A Study of Gen 2:5-7' (1998). https://thirdmill.org/newfiles/mar_futato/TH.Futato.Rained.1.html",
-    "346. [Commentary] Bible Hub. 'Commentaries on Genesis 2:5.' https://biblehub.com/commentaries/genesis/2-5.htm",
-    "347. [Commentary] Bible Hub. 'Commentaries on Genesis 2:19.' https://biblehub.com/commentaries/genesis/2-19.htm",
-    "348. [Lexicon] Bible Hub. 'Strong's Hebrew 7549: raqia, expanse, firmament.' https://biblehub.com/hebrew/7549.htm",
-    "349. [Wikipedia] 'Firmament.' https://en.wikipedia.org/wiki/Firmament",
-    "350. [Commentary] Bible Hub. 'Commentaries on Genesis 1:6.' https://biblehub.com/commentaries/genesis/1-6.htm",
-    "351. [Commentary] Bible Hub. 'Commentaries on Job 37:18.' https://biblehub.com/commentaries/job/37-18.htm",
-    "352. [Wikipedia] 'Biblical cosmology.' https://en.wikipedia.org/wiki/Biblical_cosmology",
-    "353. [Primary Source] Galileo Galilei, Letter to the Grand Duchess Christina (1615). Internet History Sourcebooks, Fordham University. https://sourcebooks.fordham.edu/mod/galileo-tuscany.asp",
-    "354. [Wikipedia] 'Letter to the Grand Duchess Christina.' https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina",
-    "355. [Lexicon] Bible Hub. 'Strong's Hebrew 2329: chug, circle, vault.' https://biblehub.com/hebrew/2329.htm",
-    "356. [Commentary] Bible Hub. 'Commentaries on Isaiah 40:22.' https://biblehub.com/commentaries/isaiah/40-22.htm",
-    "357. [Commentary] Bible Hub. 'Commentaries on Job 26:7.' https://biblehub.com/commentaries/job/26-7.htm",
-    "358. [Academic] American Scientific Affiliation. Jeffrey Burton Russell, 'The Myth of the Flat Earth' (1997). https://www.asa3.org/ASA/topics/history/1997Russell.html",
-    "359. [Primary Source] Enuma Elish, trans. L. W. King (1902). Internet Sacred Text Archive. https://sacred-texts.com/ane/enuma.htm",
-    "360. [Wikipedia] 'Tiamat.' https://en.wikipedia.org/wiki/Tiamat",
-    "361. [Wikipedia] 'Enūma Eliš.' https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1",
-    "362. [Encyclopedia] World History Encyclopedia. 'The Atrahasis Epic: The Great Flood & the Meaning of Suffering.' https://www.worldhistory.org/article/227/enuma-elish---the-babylonian-epic-of-creation---fu/",
-    "363. [Primary Source] Ancient Texts. 'Epic of Gilgamesh: Tablet XI.' https://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm",
-    "364. [Wikipedia] 'Atra-Hasis.' https://en.wikipedia.org/wiki/Atra-Hasis",
-    "365. [Academic] Electronic Text Corpus of Sumerian Literature, University of Oxford. 'The Sumerian King List: translation.' https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
-    "366. [Academic] David Toshio Tsumura, 'The Earth and the Waters in Genesis 1 and 2' (1989), hosted by Rutgers University. https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/Tsumura_Earth_Waters-Genesis_1-2.pdf",
-    "367. [Wikipedia] 'Flood myth.' https://en.wikipedia.org/wiki/Flood_myth",
-    "368. [Creationist] Answers in Genesis. 'Death Before Sin?' https://answersingenesis.org/death-before-sin/",
-    "369. [Commentary] Bible Hub. 'Commentaries on Genesis 1:30.' https://biblehub.com/commentaries/genesis/1-30.htm",
-    "370. [Commentary] Bible Hub. 'Commentaries on Romans 8:20.' https://biblehub.com/commentaries/romans/8-20.htm",
-    "371. [Commentary] Bible Hub. 'Commentaries on Psalm 104:21.' https://biblehub.com/commentaries/psalms/104-21.htm",
-    "372. [Commentary] Bible Hub. 'Commentaries on Job 38:39.' https://biblehub.com/commentaries/job/38-39.htm",
-    "373. [Primary Source] New Advent. Thomas Aquinas, 'Summa Theologiae' I, Q. 96, art. 1. https://www.newadvent.org/summa/1096.htm",
-    "374. [Commentary] Bible Hub. 'Commentaries on Genesis 3:22.' https://biblehub.com/commentaries/genesis/3-22.htm",
-    "375. [Academic] Darwin Correspondence Project, University of Cambridge. 'To Asa Gray, 22 May 1860.' https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
-    "376. [Wikipedia] 'The Problem of Pain.' https://en.wikipedia.org/wiki/The_Problem_of_Pain",
-    "377. [Wikipedia] 'Christopher Southgate.' Author of 'The Groaning of Creation' (2008). https://en.wikipedia.org/wiki/Christopher_Southgate",
-    "378. [Commentary] Bible Hub. 'Commentaries on Genesis 7:19.' https://biblehub.com/commentaries/genesis/7-19.htm",
-    "379. [Lexicon] Bible Hub. 'Strong's Hebrew 776: erets, earth, land.' https://biblehub.com/hebrew/776.htm",
-    "380. [Commentary] Bible Hub. 'Commentaries on Genesis 41:57.' https://biblehub.com/commentaries/genesis/41-57.htm",
-    "381. [Creationist] Answers in Genesis. 'Was There Really a Noah's Ark and Flood?' https://answersingenesis.org/the-flood/global/was-there-really-a-noahs-ark-flood/",
-    "382. [Wikipedia] 'Flood geology.' Including catastrophic plate tectonics. https://en.wikipedia.org/wiki/Flood_geology",
-    "383. [Wikipedia] 'Coconino Sandstone.' https://en.wikipedia.org/wiki/Coconino_Sandstone",
-    "384. [Reference] TalkOrigins Archive. 'CH541: Fish in the Flood.' https://www.talkorigins.org/indexcc/CH/CH541.html",
-    "385. [Reference] Kregel. Hill, Davidson, Helble and Ranney (eds.), 'The Grand Canyon, Monument to an Ancient Earth' (2016). https://www.kregel.com/biblical-studies/the-grand-canyon-monument-to-an-ancient-earth/",
-    "386. [Reference] National Center for Science Education. 'A glimpse of The Grand Canyon, Monument to an Ancient Earth.' https://ncse.ngo/glimpse-grand-canyon-monument-ancient-earth",
-    "387. [Creationist] Answers in Genesis. 'What's Wrong With The Grand Canyon, Monument to an Ancient Earth?' https://answersingenesis.org/geology/grand-canyon/whats-wrong-grand-canyon-monument-ancient-earth/",
-    "388. [Creationist] Ark Encounter. 'How Many Animals Were on Noah's Ark?' https://arkencounter.com/animals/how-many/",
-    "389. [Wikipedia] 'Reasons to Believe.' Including Hugh Ross's regional flood view. https://en.wikipedia.org/wiki/Reasons_to_Believe",
-    "390. [Creationist] Answers in Genesis. 'Local Flood Theory: Why It Doesn't Work.' https://answersingenesis.org/the-flood/local-flood-theory-why-it-doesnt-work/",
-    "391. [Wikipedia] 'Shuruppak.' Including its flood deposit. https://en.wikipedia.org/wiki/Shuruppak",
-    "392. [Wikipedia] 'Black Sea deluge hypothesis.' https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis",
-    "393. [Reference] Review of Noah's Flood. Archaeology Magazine. https://archive.archaeology.org/9901/abstracts/books.html",
-    "394. [Commentary] Bible Hub. 'Commentaries on Matthew 24:37.' https://biblehub.com/commentaries/matthew/24-37.htm",
-    "395. [Commentary] Bible Hub. 'Commentaries on 2 Peter 3:6.' https://biblehub.com/commentaries/2_peter/3-6.htm",
-    "396. [Commentary] Bible Hub. 'Commentaries on Genesis 9:13.' https://biblehub.com/commentaries/genesis/9-13.htm",
-    "397. [Wikipedia] 'Tower of Babel.' https://en.wikipedia.org/wiki/Tower_of_Babel",
-    "398. [Encyclopedia] World History Encyclopedia. 'Ziggurat.' https://www.worldhistory.org/Ziggurat/",
-    "399. [Commentary] Bible Hub. 'Commentaries on Genesis 10:5.' https://biblehub.com/commentaries/genesis/10-5.htm",
-    "400. [Commentary] Bible Hub. 'Commentaries on Genesis 11:1.' https://biblehub.com/commentaries/genesis/11-1.htm",
-    "401. [Wikipedia] 'Generations of Noah.' The Table of Nations. https://en.wikipedia.org/wiki/Generations_of_Noah",
-    "402. [Wikipedia] 'Genealogies of Genesis.' https://en.wikipedia.org/wiki/Genealogies_of_Genesis",
-    "403. [Apologetics] How old is the earth? GotQuestions.org. https://www.gotquestions.org/earth-age.html",
-    "404. [Wikipedia] 'Septuagint.' https://en.wikipedia.org/wiki/Septuagint",
-    "405. [Academic] Jacobus. The Curse of Cainan ( Jub . 8.1-5): Genealogies in Genesis 5 and Genesis 11 and a Mathematical Pattern. Journal for the Study of the Pseudepigrapha, 2009. https://doi.org/10.1177/0951820709103182",
-    "406. [Wikipedia] 'Cainan.' https://en.wikipedia.org/wiki/Cainan",
-    "407. [Commentary] Bible Hub. 'Commentaries on Genesis 5:5.' https://biblehub.com/commentaries/genesis/5-5.htm",
-    "408. [Academic] Perspectives on Science and Christian Faith. Carol A. Hill, 'Making Sense of the Numbers of Genesis' (2003). https://www.asa3.org/ASA/PSCF/2003/PSCF12-03Hill.pdf",
-    "409. [Wikipedia] 'Longevity myths.' https://en.wikipedia.org/wiki/Longevity_myths",
-    "410. [Encyclopedia] World History Encyclopedia. 'Sumerian King List.' https://www.worldhistory.org/Sumerian_King_List/",
-    "411. [Commentary] Bible Hub. 'Commentaries on Genesis 6:3.' https://biblehub.com/commentaries/genesis/6-3.htm",
-    "412. [Commentary] Bible Hub. 'Commentaries on Mark 10:6.' https://biblehub.com/commentaries/mark/10-6.htm",
-    "413. [Academic] Stanford Encyclopedia of Philosophy. 'Life.' https://plato.stanford.edu/entries/life/",
-    "414. [Wikipedia] 'RNA world.' https://en.wikipedia.org/wiki/RNA_world",
-    "415. [Academic] Higgs PG, Lehman N. The RNA World: molecular cooperation at the origins of life. Nature Reviews Genetics, 2015. PubMed. https://pubmed.ncbi.nlm.nih.gov/25385129/",
-    "416. [Academic] PLOS Computational Biology. 'The Origin of Biological Homochirality Along with the Origin of Life' (2020). https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007592",
-    "417. [Academic] Science Advances. 'Origin of biological homochirality by crystallization of an RNA precursor on a magnetic surface' (2023). https://www.science.org/doi/10.1126/sciadv.adg8274",
-    "418. [Academic] Biology Direct. 'On the origin of the translation system and the genetic code in the RNA world' (2007). https://link.springer.com/article/10.1186/1745-6150-2-14",
-    "419. [Academic] Biology Direct. 'On the origin of the genetic code and tRNA before translation' (2011). https://link.springer.com/article/10.1186/1745-6150-6-14",
-    "420. [Academic] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
-    "421. [Primary Source] New Advent. Thomas Aquinas, 'Summa Theologiae' I, Q. 105, art. 5: Whether God works in every agent. https://www.newadvent.org/summa/1105.htm",
-    "422. [Wikipedia] 'On the Origin of Species.' Including its religious reception. https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
-    "423. [Academic] Charles Kingsley to Charles Darwin, 18 November 1859. Darwin Correspondence Project, University of Cambridge. https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2534.xml",
-    "424. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Catholics and Evolution.' https://www.newadvent.org/cathen/05654a.htm",
-    "425. [Academic] Nieminen. BIBLICAL AND THEISTIC ARGUMENTS AGAINST THE EVOLUTIONARY ARGUMENT AGAINST NATURALISM. Zygon: Journal of Religion and Science, 2017. https://doi.org/10.1111/zygo.12327",
-    "426. [Wikipedia] 'Evolutionary argument against naturalism.' https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism"
+    "335. [Wikipedia] 'Vestigiality.' Including Darwin's usage and Wiedersheim's list. https://en.wikipedia.org/wiki/Vestigiality",
+    "336. [Christian Source] Answers in Genesis. ''Vestigial' Organs.' https://answersingenesis.org/human-body/vestigial-organs/",
+    "337. [Wikipedia] 'Appendix (anatomy).' Its immune and microbial functions. https://en.wikipedia.org/wiki/Appendix_(anatomy)",
+    "338. [Reference] TalkOrigins Archive. 'CB010: Probability of abiogenesis.' https://www.talkorigins.org/indexcc/CB/CB010.html",
+    "339. [Reference] TalkOrigins Archive. 'CG001: Darwin recanted.' https://www.talkorigins.org/indexcc/CG/CG001.html",
+    "340. [Reference] TalkOrigins Archive. 'CA111: Scientists reject evolution?' https://www.talkorigins.org/indexcc/CA/CA111.html",
+    "341. [Commentary] Bible Hub. 'Commentaries on Genesis 1:16.' https://biblehub.com/commentaries/genesis/1-16.htm",
+    "342. [Creationist] Answers in Genesis. 'Days of Creation' topic page. https://answersingenesis.org/days-of-creation/",
+    "343. [Academic] Evangelical Quarterly. Gerhard F. Hasel, 'The Polemic Nature of the Genesis Cosmology' (1974). https://biblicalstudies.org.uk/pdf/eq/1974-2_081.pdf",
+    "344. [Commentary] StudyLight. John Calvin, 'Commentary on Genesis 1.' https://www.studylight.org/commentaries/eng/cal/genesis-1.html",
+    "345. [Wikipedia] 'Documentary hypothesis.' https://en.wikipedia.org/wiki/Documentary_hypothesis",
+    "346. [Academic] Christine Hayes, Introduction to the Old Testament, lecture 5. Open Yale Courses. https://oyc.yale.edu/religious-studies/rlst-145/lecture-5",
+    "347. [Wikipedia] 'Toledot.' The 'generations' headings of Genesis. https://en.wikipedia.org/wiki/Toledot",
+    "348. [Academic] Westminster Theological Journal, via Third Millennium Ministries. Mark D. Futato, 'Because It Had Rained: A Study of Gen 2:5-7' (1998). https://thirdmill.org/newfiles/mar_futato/TH.Futato.Rained.1.html",
+    "349. [Commentary] Bible Hub. 'Commentaries on Genesis 2:5.' https://biblehub.com/commentaries/genesis/2-5.htm",
+    "350. [Commentary] Bible Hub. 'Commentaries on Genesis 2:19.' https://biblehub.com/commentaries/genesis/2-19.htm",
+    "351. [Lexicon] Bible Hub. 'Strong's Hebrew 7549: raqia, expanse, firmament.' https://biblehub.com/hebrew/7549.htm",
+    "352. [Wikipedia] 'Firmament.' https://en.wikipedia.org/wiki/Firmament",
+    "353. [Commentary] Bible Hub. 'Commentaries on Genesis 1:6.' https://biblehub.com/commentaries/genesis/1-6.htm",
+    "354. [Commentary] Bible Hub. 'Commentaries on Job 37:18.' https://biblehub.com/commentaries/job/37-18.htm",
+    "355. [Wikipedia] 'Biblical cosmology.' https://en.wikipedia.org/wiki/Biblical_cosmology",
+    "356. [Primary Source] Galileo Galilei, Letter to the Grand Duchess Christina (1615). Internet History Sourcebooks, Fordham University. https://sourcebooks.fordham.edu/mod/galileo-tuscany.asp",
+    "357. [Wikipedia] 'Letter to the Grand Duchess Christina.' https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina",
+    "358. [Lexicon] Bible Hub. 'Strong's Hebrew 2329: chug, circle, vault.' https://biblehub.com/hebrew/2329.htm",
+    "359. [Commentary] Bible Hub. 'Commentaries on Isaiah 40:22.' https://biblehub.com/commentaries/isaiah/40-22.htm",
+    "360. [Commentary] Bible Hub. 'Commentaries on Job 26:7.' https://biblehub.com/commentaries/job/26-7.htm",
+    "361. [Academic] American Scientific Affiliation. Jeffrey Burton Russell, 'The Myth of the Flat Earth' (1997). https://www.asa3.org/ASA/topics/history/1997Russell.html",
+    "362. [Primary Source] Enuma Elish, trans. L. W. King (1902). Internet Sacred Text Archive. https://sacred-texts.com/ane/enuma.htm",
+    "363. [Wikipedia] 'Tiamat.' https://en.wikipedia.org/wiki/Tiamat",
+    "364. [Wikipedia] 'Enūma Eliš.' https://en.wikipedia.org/wiki/En%C5%ABma_Eli%C5%A1",
+    "365. [Encyclopedia] World History Encyclopedia. 'The Atrahasis Epic: The Great Flood & the Meaning of Suffering.' https://www.worldhistory.org/article/227/enuma-elish---the-babylonian-epic-of-creation---fu/",
+    "366. [Primary Source] Ancient Texts. 'Epic of Gilgamesh: Tablet XI.' https://www.ancienttexts.org/library/mesopotamian/gilgamesh/tab11.htm",
+    "367. [Wikipedia] 'Atra-Hasis.' https://en.wikipedia.org/wiki/Atra-Hasis",
+    "368. [Academic] Electronic Text Corpus of Sumerian Literature, University of Oxford. 'The Sumerian King List: translation.' https://etcsl.orinst.ox.ac.uk/section2/tr211.htm",
+    "369. [Academic] David Toshio Tsumura, 'The Earth and the Waters in Genesis 1 and 2' (1989), hosted by Rutgers University. https://jewishstudies.rutgers.edu/images/documents/faculty/Rendsburg/Tsumura_Earth_Waters-Genesis_1-2.pdf",
+    "370. [Wikipedia] 'Flood myth.' https://en.wikipedia.org/wiki/Flood_myth",
+    "371. [Creationist] Answers in Genesis. 'Death Before Sin?' https://answersingenesis.org/death-before-sin/",
+    "372. [Commentary] Bible Hub. 'Commentaries on Genesis 1:30.' https://biblehub.com/commentaries/genesis/1-30.htm",
+    "373. [Commentary] Bible Hub. 'Commentaries on Romans 8:20.' https://biblehub.com/commentaries/romans/8-20.htm",
+    "374. [Commentary] Bible Hub. 'Commentaries on Psalm 104:21.' https://biblehub.com/commentaries/psalms/104-21.htm",
+    "375. [Commentary] Bible Hub. 'Commentaries on Job 38:39.' https://biblehub.com/commentaries/job/38-39.htm",
+    "376. [Primary Source] New Advent. Thomas Aquinas, 'Summa Theologiae' I, Q. 96, art. 1. https://www.newadvent.org/summa/1096.htm",
+    "377. [Commentary] Bible Hub. 'Commentaries on Genesis 3:22.' https://biblehub.com/commentaries/genesis/3-22.htm",
+    "378. [Academic] Darwin Correspondence Project, University of Cambridge. 'To Asa Gray, 22 May 1860.' https://www.darwinproject.ac.uk/letter/DCP-LETT-2814.xml",
+    "379. [Wikipedia] 'The Problem of Pain.' https://en.wikipedia.org/wiki/The_Problem_of_Pain",
+    "380. [Wikipedia] 'Christopher Southgate.' Author of 'The Groaning of Creation' (2008). https://en.wikipedia.org/wiki/Christopher_Southgate",
+    "381. [Commentary] Bible Hub. 'Commentaries on Genesis 7:19.' https://biblehub.com/commentaries/genesis/7-19.htm",
+    "382. [Lexicon] Bible Hub. 'Strong's Hebrew 776: erets, earth, land.' https://biblehub.com/hebrew/776.htm",
+    "383. [Commentary] Bible Hub. 'Commentaries on Genesis 41:57.' https://biblehub.com/commentaries/genesis/41-57.htm",
+    "384. [Creationist] Answers in Genesis. 'Was There Really a Noah's Ark and Flood?' https://answersingenesis.org/the-flood/global/was-there-really-a-noahs-ark-flood/",
+    "385. [Wikipedia] 'Flood geology.' Including catastrophic plate tectonics. https://en.wikipedia.org/wiki/Flood_geology",
+    "386. [Wikipedia] 'Coconino Sandstone.' https://en.wikipedia.org/wiki/Coconino_Sandstone",
+    "387. [Reference] TalkOrigins Archive. 'CH541: Fish in the Flood.' https://www.talkorigins.org/indexcc/CH/CH541.html",
+    "388. [Reference] Kregel. Hill, Davidson, Helble and Ranney (eds.), 'The Grand Canyon, Monument to an Ancient Earth' (2016). https://www.kregel.com/biblical-studies/the-grand-canyon-monument-to-an-ancient-earth/",
+    "389. [Reference] National Center for Science Education. 'A glimpse of The Grand Canyon, Monument to an Ancient Earth.' https://ncse.ngo/glimpse-grand-canyon-monument-ancient-earth",
+    "390. [Creationist] Answers in Genesis. 'What's Wrong With The Grand Canyon, Monument to an Ancient Earth?' https://answersingenesis.org/geology/grand-canyon/whats-wrong-grand-canyon-monument-ancient-earth/",
+    "391. [Creationist] Ark Encounter. 'How Many Animals Were on Noah's Ark?' https://arkencounter.com/animals/how-many/",
+    "392. [Wikipedia] 'Reasons to Believe.' Including Hugh Ross's regional flood view. https://en.wikipedia.org/wiki/Reasons_to_Believe",
+    "393. [Creationist] Answers in Genesis. 'Local Flood Theory: Why It Doesn't Work.' https://answersingenesis.org/the-flood/local-flood-theory-why-it-doesnt-work/",
+    "394. [Wikipedia] 'Shuruppak.' Including its flood deposit. https://en.wikipedia.org/wiki/Shuruppak",
+    "395. [Wikipedia] 'Black Sea deluge hypothesis.' https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis",
+    "396. [Reference] Review of Noah's Flood. Archaeology Magazine. https://archive.archaeology.org/9901/abstracts/books.html",
+    "397. [Commentary] Bible Hub. 'Commentaries on Matthew 24:37.' https://biblehub.com/commentaries/matthew/24-37.htm",
+    "398. [Commentary] Bible Hub. 'Commentaries on 2 Peter 3:6.' https://biblehub.com/commentaries/2_peter/3-6.htm",
+    "399. [Commentary] Bible Hub. 'Commentaries on Genesis 9:13.' https://biblehub.com/commentaries/genesis/9-13.htm",
+    "400. [Wikipedia] 'Tower of Babel.' https://en.wikipedia.org/wiki/Tower_of_Babel",
+    "401. [Encyclopedia] World History Encyclopedia. 'Ziggurat.' https://www.worldhistory.org/Ziggurat/",
+    "402. [Commentary] Bible Hub. 'Commentaries on Genesis 10:5.' https://biblehub.com/commentaries/genesis/10-5.htm",
+    "403. [Commentary] Bible Hub. 'Commentaries on Genesis 11:1.' https://biblehub.com/commentaries/genesis/11-1.htm",
+    "404. [Wikipedia] 'Generations of Noah.' The Table of Nations. https://en.wikipedia.org/wiki/Generations_of_Noah",
+    "405. [Wikipedia] 'Genealogies of Genesis.' https://en.wikipedia.org/wiki/Genealogies_of_Genesis",
+    "406. [Apologetics] How old is the earth? GotQuestions.org. https://www.gotquestions.org/earth-age.html",
+    "407. [Wikipedia] 'Septuagint.' https://en.wikipedia.org/wiki/Septuagint",
+    "408. [Academic] Jacobus. The Curse of Cainan ( Jub . 8.1-5): Genealogies in Genesis 5 and Genesis 11 and a Mathematical Pattern. Journal for the Study of the Pseudepigrapha, 2009. https://doi.org/10.1177/0951820709103182",
+    "409. [Wikipedia] 'Cainan.' https://en.wikipedia.org/wiki/Cainan",
+    "410. [Commentary] Bible Hub. 'Commentaries on Genesis 5:5.' https://biblehub.com/commentaries/genesis/5-5.htm",
+    "411. [Academic] Perspectives on Science and Christian Faith. Carol A. Hill, 'Making Sense of the Numbers of Genesis' (2003). https://www.asa3.org/ASA/PSCF/2003/PSCF12-03Hill.pdf",
+    "412. [Wikipedia] 'Longevity myths.' https://en.wikipedia.org/wiki/Longevity_myths",
+    "413. [Encyclopedia] World History Encyclopedia. 'Sumerian King List.' https://www.worldhistory.org/Sumerian_King_List/",
+    "414. [Commentary] Bible Hub. 'Commentaries on Genesis 6:3.' https://biblehub.com/commentaries/genesis/6-3.htm",
+    "415. [Commentary] Bible Hub. 'Commentaries on Mark 10:6.' https://biblehub.com/commentaries/mark/10-6.htm",
+    "416. [Academic] Stanford Encyclopedia of Philosophy. 'Life.' https://plato.stanford.edu/entries/life/",
+    "417. [Wikipedia] 'RNA world.' https://en.wikipedia.org/wiki/RNA_world",
+    "418. [Academic] Higgs PG, Lehman N. The RNA World: molecular cooperation at the origins of life. Nature Reviews Genetics, 2015. PubMed. https://pubmed.ncbi.nlm.nih.gov/25385129/",
+    "419. [Academic] PLOS Computational Biology. 'The Origin of Biological Homochirality Along with the Origin of Life' (2020). https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1007592",
+    "420. [Academic] Science Advances. 'Origin of biological homochirality by crystallization of an RNA precursor on a magnetic surface' (2023). https://www.science.org/doi/10.1126/sciadv.adg8274",
+    "421. [Academic] Biology Direct. 'On the origin of the translation system and the genetic code in the RNA world' (2007). https://link.springer.com/article/10.1186/1745-6150-2-14",
+    "422. [Academic] Biology Direct. 'On the origin of the genetic code and tRNA before translation' (2011). https://link.springer.com/article/10.1186/1745-6150-6-14",
+    "423. [Academic] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
+    "424. [Primary Source] New Advent. Thomas Aquinas, 'Summa Theologiae' I, Q. 105, art. 5: Whether God works in every agent. https://www.newadvent.org/summa/1105.htm",
+    "425. [Wikipedia] 'On the Origin of Species.' Including its religious reception. https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+    "426. [Academic] Charles Kingsley to Charles Darwin, 18 November 1859. Darwin Correspondence Project, University of Cambridge. https://www.darwinproject.ac.uk/letter/?docId=letters/DCP-LETT-2534.xml",
+    "427. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Catholics and Evolution.' https://www.newadvent.org/cathen/05654a.htm",
+    "428. [Academic] Nieminen. BIBLICAL AND THEISTIC ARGUMENTS AGAINST THE EVOLUTIONARY ARGUMENT AGAINST NATURALISM. Zygon: Journal of Religion and Science, 2017. https://doi.org/10.1111/zygo.12327",
+    "429. [Wikipedia] 'Evolutionary argument against naturalism.' https://en.wikipedia.org/wiki/Evolutionary_argument_against_naturalism"
   ],
   lastUpdated: "30-10-2026"
 }

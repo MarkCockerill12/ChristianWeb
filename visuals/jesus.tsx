@@ -2,7 +2,6 @@
 
 import { CardGrid, CompareTable, VisualCard } from "@/components/visuals/kit"
 import { RangeChart } from "@/components/visuals/charts"
-import { Gallery } from "@/components/visuals/figure"
 import { DecisionTree } from "@/components/visuals/tree"
 
 function Claims() {
@@ -136,64 +135,11 @@ function EarlyChristology() {
   )
 }
 
-function Evidence() {
-  return (
-    <VisualCard
-      title="The physical evidence"
-      subtitle={"A mocking graffito, a dedication to \"God Jesus Christ\", and one of the oldest New Testament fragments."}
-      sources={[
-        { label: "Wikipedia, \"Alexamenos graffito\"", url: "https://en.wikipedia.org/wiki/Alexamenos_graffito" },
-        { label: "Wikipedia, \"Megiddo church (Israel)\"", url: "https://en.wikipedia.org/wiki/Megiddo_church_(Israel)" },
-        { label: "Wikipedia, \"Rylands Library Papyrus P52\"", url: "https://en.wikipedia.org/wiki/Rylands_Library_Papyrus_P52" },
-      ]}
-    >
-      <Gallery
-        columns={3}
-        images={[
-          {
-            src: "/images/jesus/alexamenos-graffito.jpg",
-            width: 800,
-            height: 907,
-            alt: "Scratched plaster graffito of a man saluting a crucified figure with a donkey's head",
-            caption: "The Alexamenos graffito from the Palatine Hill, Rome (probably c. 200): a man raises his hand to a crucified figure with a donkey's head, captioned \"Alexamenos worships his god\". A pagan mocking a Christian for worshipping a crucified man.",
-            credit: "Justin Benttinen",
-            license: "CC BY-SA 4.0",
-            licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Alexamenos_graffito.jpg",
-          },
-          {
-            src: "/images/jesus/megiddo-mosaic.jpg",
-            width: 900,
-            height: 554,
-            alt: "Floor mosaic with a Greek inscription inside a decorative border",
-            caption: "The Megiddo mosaic, found in 2005 in a prayer hall near Megiddo: \"The God-loving Akeptous has offered the table to God Jesus Christ as a memorial.\" Dated c. 230 by the excavator; some archaeologists argue for a later date.",
-            credit: "Vassilios Tzaferis",
-            license: "CC BY-SA 4.0",
-            licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Akeptous_Inscription_2.jpg",
-          },
-          {
-            src: "/images/jesus/p52-recto.jpg",
-            width: 500,
-            height: 787,
-            alt: "Small papyrus fragment with Greek writing",
-            caption: "Papyrus P52, a fragment of John 18, usually dated to the first half of the second century and held at the John Rylands Library, Manchester.",
-            credit: "John Rylands University Library",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:P52_recto.jpg",
-          },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
 const VISUALS: Record<string, () => React.JSX.Element> = {
   claims: Claims,
   "i-am": IAm,
   trilemma: Trilemma,
   "early-christology": EarlyChristology,
-  evidence: Evidence,
 }
 
 export default function Visuals({ name }: { readonly name: string }) {

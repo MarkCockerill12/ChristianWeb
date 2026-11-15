@@ -233,7 +233,6 @@ Early church leaders used several key criteria to determine which books were tru
 
 <?viz canon/counts?>
 
-<?viz canon/early-lists?>
 
 `,
 
@@ -251,7 +250,13 @@ Early church leaders used several key criteria to determine which books were tru
 
 * **Irenaeus**, around 180, argues that there are exactly four Gospels, calling them the "four pillars" of the church[^12].
 * **The Muratorian Fragment**, usually dated to the late second century though some scholars place it later, lists most of the New Testament, and rejects the Shepherd of Hermas as written "very recently, in our times"[^13].
+
+<?viz img/muratorian-fragment?>
+
 * **Eusebius**, writing about the time of the council, already sorts the books into those accepted, those disputed and those rejected. The four Gospels, Acts and Paul's letters are among the accepted, while James, Jude, 2 Peter and others are recorded as disputed[^14][^2].
+
+
+<?viz canon/early-lists?>
 
 **After Nicaea.** The first known list of exactly the 27 books of the New Testament comes from Athanasius in his Easter letter of 367, more than forty years after the council: "These are fountains of salvation"[^15][^16]. Regional councils at Hippo and Carthage followed in 393 and 397, as set out under the deuterocanonical books.
 
@@ -367,6 +372,9 @@ Early church leaders used several key criteria to determine which books were tru
 
       • **Secret knowledge heresy:** Saying 1 promises immortality to those who find the "interpretation" of Jesus' secret sayings, contradicting salvation by faith[^75]
 
+<?viz img/nag-hammadi-thomas?>
+
+
 
       **Gospel of Judas (circa 180 AD):**
 
@@ -439,6 +447,9 @@ Early church leaders used several key criteria to determine which books were tru
       • **Why not canonical:** Clement himself distinguishes his letter from the "epistle of the blessed Paul" (which he cites as binding authority), showing he did not consider his own letter to be Scripture[^99]
 
 
+
+<?viz img/codex-sinaiticus-barnabas?>
+
       **Shepherd of Hermas (circa 100-140 AD):**
 
       • **Allegorical visions:** A popular book of elaborate visions and allegories, urging repentance[^100]
@@ -448,7 +459,6 @@ Early church leaders used several key criteria to determine which books were tru
 
       **Epistle of Barnabas (circa 70-130 AD):**
 
-<?viz canon/manuscripts?>
 
 
       • **Allegorical excess:** Uses extreme, non-literal allegorical interpretations of the Old Testament that were not characteristic of apostolic writing[^102]

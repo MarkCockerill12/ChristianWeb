@@ -100,6 +100,9 @@ Each school below is placed against these five questions.
 
 **Aristotle (384-322 BC): causes and the first mover.** Aristotle argued that every change needs a cause and that the chain ends in an unmoved mover. He defined virtue as the habit of choosing the mean between extremes, aiming at *eudaimonia* (flourishing)[^13][^14]. Aquinas built on this. Christianity agrees that there is a purpose in nature and a first cause, and adds that the First Cause is a Father who speaks and acts in history.
 
+<?viz img/plato-aristotle?>
+
+
 **Epicureanism (from about 306 BC): pleasure, no gods who care.** Epicurus taught that atoms and void are all there is, that the gods take no interest in humans, and that death is nothing since the soul dissolves, so it is not to be feared. The aim is a calm, modest life free of pain and fear[^16]. Christianity agrees that fear of death enslaves (Hebrews 2:14-15) but answers it differently: death is a real enemy, and Christ has defeated it, so the believer neither denies death nor is ruled by it.
 
 **Stoicism (from about 300 BC): live by reason and accept fate.** Zeno of Citium, later Epictetus (born about AD 50) and Marcus Aurelius (121-180), taught that virtue is the only good and that a person controls only his own judgments, not events. They spoke of a divine reason (*logos*) ordering the world[^15]. The Stoic idea of a universal reason and the duty of the self-controlled life resonated with Christians. The differences: the Stoic god is the world's own rational order, not a personal Creator; the Stoic seeks self-sufficiency, whereas Christians confess dependence on grace[^15][^64].
@@ -169,6 +172,9 @@ Each school below is placed against these five questions.
       content: `**Who he was.** Born in Röcken, Prussia, the son and grandson of Lutheran pastors, Nietzsche became a professor of classical philology at Basel at 24. Illness forced him to resign in 1879. He published *The Birth of Tragedy* (1872), *The Gay Science* (1882), *Thus Spoke Zarathustra* (1883-1885), *Beyond Good and Evil* (1886) and *On the Genealogy of Morality* (1887). He collapsed in Turin in January 1889 and died in 1900[^6][^7][^45].
 
 **"God is dead."** In *The Gay Science* §125 (1882) a madman runs into a marketplace crying that "we have killed him, you and I". The sentence is often taken as a victory cry. It was not. Nietzsche meant that belief in God was collapsing in Europe and that the consequences would be catastrophic: the loss of the foundations of morality, meaning and truth, a condition he called *nihilism*[^6][^7][^73]. The madman asks, "Do we not feel the breath of empty space?" and the bystanders do not understand.
+
+<?viz img/nietzsche?>
+
 
 **His main ideas.**
 - **Perspectivism.** There is no view from nowhere; every claim comes from some standpoint[^6].

@@ -14,6 +14,8 @@ type TopicVisuals = ComponentType<{ readonly name: string }>
 const loading = () => <div className="viz-skeleton my-8 h-40 rounded-xl border" aria-hidden />
 
 const MODULES: Record<string, TopicVisuals> = {
+  // Single photographs placed beside the point they illustrate: `<?viz img/tel-dan?>`.
+  img: dynamic(() => import("@/visuals/images"), { loading }),
   abortion: dynamic(() => import("@/visuals/abortion"), { loading }),
   "christianity-and-the-world": dynamic(() => import("@/visuals/christianity-and-the-world"), { loading }),
   "is-belief-reasonable": dynamic(() => import("@/visuals/is-belief-reasonable"), { loading }),

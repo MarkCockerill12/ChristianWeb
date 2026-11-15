@@ -4,7 +4,6 @@ import { useMemo, useState } from "react"
 
 import { RangeChart, SERIES } from "@/components/visuals/charts"
 import { Rich, Toggle, VisualCard } from "@/components/visuals/kit"
-import { Gallery } from "@/components/visuals/figure"
 import VERSES from "@/visuals/data/verses.json"
 import { cn } from "@/lib/utils"
 
@@ -245,44 +244,11 @@ function ManuscriptTimeline() {
   )
 }
 
-function Manuscripts() {
-  return (
-    <VisualCard title="What translators work from" subtitle="The oldest complete Hebrew Bible text tradition and the oldest Greek Bibles.">
-      <Gallery
-        columns={2}
-        images={[
-          {
-            src: "/images/canon/codex-sinaiticus-matthew.jpg",
-            width: 800,
-            height: 774,
-            alt: "Page of a Greek uncial manuscript in four columns",
-            caption: "Codex Sinaiticus (c. 350), the opening of Matthew.",
-            credit: "British Library",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Codex_Sinaiticus_Matthew_1,1-2,5.JPG",
-          },
-          {
-            src: "/images/prophecy/isaiah-scroll-53.jpg",
-            width: 1000,
-            height: 1137,
-            alt: "Columns of Hebrew text on a Dead Sea Scroll",
-            caption: "The Great Isaiah Scroll from Qumran, about a thousand years older than the medieval Masoretic manuscripts.",
-            credit: "Ardon Bar-Hama, Israel Museum",
-            license: "Public domain",
-            sourceUrl: "https://commons.wikimedia.org/wiki/File:Great_Isaiah_Scroll_Ch53.jpg",
-          },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
 const VISUALS: Record<string, () => React.JSX.Element> = {
   spectrum: Spectrum,
   "verse-comparer": VerseComparer,
   "family-tree": FamilyTree,
   "manuscript-timeline": ManuscriptTimeline,
-  manuscripts: Manuscripts,
 }
 
 export default function Visuals({ name }: { readonly name: string }) {

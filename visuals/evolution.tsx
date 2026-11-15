@@ -4,7 +4,6 @@ import { useState } from "react"
 
 import { LineChart, RangeChart, SERIES } from "@/components/visuals/charts"
 import { ClaimLegend, CompareTable, Rich, Toggle, VisualCard } from "@/components/visuals/kit"
-import { Gallery } from "@/components/visuals/figure"
 
 /* ------------------------------------------------------------------ */
 /* Views on origins                                                    */
@@ -409,36 +408,6 @@ function Arguments() {
 /* Images                                                              */
 /* ------------------------------------------------------------------ */
 
-function Clocks() {
-  return (
-    <VisualCard title="Clocks that count years" subtitle="Annual layers in ice, wood and lake sediment, independent of radioactive decay.">
-      <Gallery
-        columns={3}
-        images={[
-          { src: "/images/evolution/ice-core.jpg", width: 700, height: 467, alt: "Section of an ice core showing banding", caption: "An ice core section. In the cold interior of Greenland and Antarctica, annual layers are identified by several independent seasonal signals.", credit: "Lonnie Thompson, Byrd Polar Research Center", license: "Public domain", sourceUrl: "https://commons.wikimedia.org/wiki/File:Icecore_4.jpg" },
-          { src: "/images/evolution/bristlecone.jpg", width: 700, height: 873, alt: "Gnarled ancient bristlecone pine", caption: "A Great Basin bristlecone pine on the Methuselah Trail, California. Overlapping ring sequences extend tree-ring chronologies past 12,000 years.", credit: "Dcrjsr", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Big_bristlecone_pine_Pinus_longaeva.jpg" },
-          { src: "/images/evolution/varves.jpg", width: 700, height: 467, alt: "Striped layers of sediment in a cliff", caption: "Varves, annual layers of lake sediment, from a glacial lake at Sandend Bay, Scotland.", credit: "Anne Burgess (geograph.org.uk)", license: "CC BY-SA 2.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/2.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Pleistocene_Glacial_Lake_Varves_at_Sandend_Bay_in_Scotland_-_geograph_4175519.jpg" },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
-function Fossils() {
-  return (
-    <VisualCard title="Transitional and early human fossils" subtitle="Three of the finds named in the sections below.">
-      <Gallery
-        columns={3}
-        images={[
-          { src: "/images/evolution/tiktaalik.jpg", width: 700, height: 330, alt: "Fossil of a flat-headed fish with sturdy fins", caption: "Tiktaalik (about 375 million years old), a fish with a neck and limb-like fins, Field Museum, Chicago.", credit: "Eduard Solà", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Tiktaalik_Chicago.JPG" },
-          { src: "/images/evolution/archaeopteryx.jpg", width: 700, height: 946, alt: "Fossil of a feathered creature with teeth and a long tail", caption: "Archaeopteryx, the Berlin specimen: feathers and wings with teeth and a bony tail.", credit: "H. Raab", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Archaeopteryx_lithographica_(Berlin_specimen).jpg" },
-          { src: "/images/evolution/lucy.jpg", width: 700, height: 1689, alt: "Reconstructed skeleton of a small upright hominin", caption: "A cast of \"Lucy\" (Australopithecus afarensis, 3.2 million years), who walked upright with a chimpanzee-sized brain.", credit: "Wikimedia Commons user 120", license: "CC BY 2.5", licenseUrl: "https://creativecommons.org/licenses/by/2.5", sourceUrl: "https://commons.wikimedia.org/wiki/File:Reconstruction_of_the_fossil_skeleton_of_%22Lucy%22_the_Australopithecus_afarensis.jpg" },
-        ]}
-      />
-    </VisualCard>
-  )
-}
-
 const VISUALS: Record<string, () => React.JSX.Element> = {
   views: Views,
   framework: Framework,
@@ -450,8 +419,6 @@ const VISUALS: Record<string, () => React.JSX.Element> = {
   cosmology: Cosmology,
   parallels: Parallels,
   arguments: Arguments,
-  clocks: Clocks,
-  fossils: Fossils,
 }
 
 export default function Visuals({ name }: { readonly name: string }) {

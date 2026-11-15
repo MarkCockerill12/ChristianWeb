@@ -192,66 +192,88 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Proportional judgment:** King Agag was singled out by Samuel for his cruelty, being judged because his "sword has made women childless" ([1 Samuel 15:33](https://www.biblegateway.com/passage/?search=1+Samuel+15:33&version=NIV)), showing the judgment was a just retribution for their wickedness[^37].
 
-      • **What remains hard:** The command in 1 Samuel 15:3 explicitly includes women, children and infants. The hyperbole reading discussed under the Canaanite conquest helps less here, since the wording is so specific, and those who defend it fall back on the argument that the Creator alone has the right to give and take life, that the children's deaths were not the end of their existence, and that this was a one-off act of judgment rather than a pattern for anyone to follow. Many Christians find these answers incomplete, and this remains among the most difficult texts in Scripture.
- • **What remains hard:** The command in 1 Samuel 15:3 explicitly includes women, children and infants. The hyperbole reading applied to the Canaanite conquest helps less here, since the wording is so specific. Those who defend the text argue that the Creator alone has the right to give and take life, that death is not the end of a child's existence, and that this was a single act of judgment and no pattern for anyone to follow. Many Christians find these answers incomplete, and this remains among the most difficult texts in Scripture.
- • **Later echo:** Jewish tradition identifies Haman "the Agagite", who attempted genocide against the Jews in Esther, as a descendant of Agag, linking Saul's failure to that later threat ([Esther 3:1](https://www.biblegateway.com/passage/?search=Esther+3:1&version=NIV)).`
+      • **What remains hard:** The command in 1 Samuel 15:3 explicitly includes women, children and infants: *vehacharamtem* (וְהַחֲרַמְתֶּם, and devote to destruction), the verb of *herem*, followed by *me'ish ad ishah me'olel ve'ad yoneq* (מֵאִישׁ עַד־אִשָּׁה מֵעֹלֵל וְעַד־יוֹנֵק, man and woman, child and infant)[^38]. The hyperbole reading applied to the Canaanite conquest helps less here, since the wording is so specific. Those who defend the text argue that the Creator alone has the right to give and take life, that death is not the end of a child's existence, and that this was a single act of judgment and no pattern for anyone to follow. Many Christians find these answers incomplete, and this remains among the most difficult texts in Scripture.
+      • **Later echo:** Jewish tradition identifies Haman "the Agagite", who attempted genocide against the Jews in Esther, as a descendant of Agag, linking Saul's failure to that later threat ([Esther 3:1](https://www.biblegateway.com/passage/?search=Esther+3:1&version=NIV)).`
     },
     {
       id: "individual-judgments",
       title: "Individual Death Judgments",
       tags: ["Individuals"],
-      content: `**Multiple Cases:** These immediate judgments emphasize the severity of sin against a holy God and are meant to teach reverence to the entire community[^38].
+      content: `**Multiple Cases:** These immediate judgments emphasize the severity of sin against a holy God and are meant to teach reverence to the entire community[^39].
 
 
       **Uzzah and the Ark ([2 Samuel 6:6-7](https://www.biblegateway.com/passage/?search=2+Samuel+6:6-7&version=NIV)):**
 
       • **Clear violation:** Uzzah touched the Ark, an explicit violation of Mosaic Law, which mandated that only Kohathites could handle it, and then only by poles, never by hand ([Numbers 4:15](https://www.biblegateway.com/passage/?search=Numbers+4:15&version=NIV)).
 
-      • **Irreverence toward holiness:** The use of an oxcart (a non-Israelite method) to transport the Ark demonstrated a casual approach and lack of respect for God's sacred dwelling place, necessitating a severe public example[^39].
+      • **Irreverence toward holiness:** The use of an oxcart (a non-Israelite method) to transport the Ark demonstrated a casual approach and lack of respect for God's sacred dwelling place, necessitating a severe public example[^40].
 
 
       **Nadab and Abihu ([Leviticus 10:1-2](https://www.biblegateway.com/passage/?search=Leviticus+10:1-2&version=NIV)):**
 
-      • **Unauthorized worship:** They offered "strange fire" contrary to God's specific instructions immediately following the Tabernacle's dedication, demonstrating both carelessness and overstepping of their priestly role[^40].
+      • **Unauthorized worship:** They offered "strange fire" contrary to God's specific instructions immediately following the Tabernacle's dedication, demonstrating both carelessness and overstepping of their priestly role[^41].
 
       • **Holiness standard:** Their immediate death established the non-negotiable principle that those who draw near to God in worship, especially priests, must treat Him as holy and follow divine protocol exactly ([Leviticus 10:3](https://www.biblegateway.com/passage/?search=Leviticus+10:3&version=NIV)).
 
 
       **Korah's Rebellion ([Numbers 16:1-35](https://www.biblegateway.com/passage/?search=Numbers+16:1-35&version=NIV)):**
 
-      • **Challenging divine authority:** Korah's rebellion against Moses and Aaron was interpreted as a challenge to God's divinely appointed leadership and the order of the newly established nation[^41][^42].
+      • **Challenging divine authority:** Korah's rebellion against Moses and Aaron was interpreted as a challenge to God's divinely appointed leadership and the order of the newly established nation[^42][^43].
 
-      • **Community preservation:** The dramatic judgment (the earth swallowing the rebels) was a decisive action to prevent the spread of self-seeking ambition and anarchy that could have destroyed the entire community[^43].`
+      • **Community preservation:** The dramatic judgment (the earth swallowing the rebels) was a decisive action to prevent the spread of self-seeking ambition and anarchy that could have destroyed the entire community[^44].`
+    },
+    {
+      id: "psalm-137-and-jobs-children",
+      title: "Psalm 137 and Job's Children",
+      tags: ["Individuals"],
+      content: `
+**Psalm 137:9.** The psalm ends: "Happy is the one who seizes your infants and dashes them against the rocks." It is often quoted as proof that the Bible endorses killing children[^45][^46].
+
+*   **Who is speaking.** The psalm is the lament of exiles "by the rivers of Babylon" after the Babylonians destroyed Jerusalem in 586 BC. It records what they felt and said, and it is not a command from God. Scripture includes human speech it does not endorse, such as the advice of Job's friends[^46][^45].
+*   **What had been done to them.** Killing infants was a known practice of ancient conquest, and the Bible records it with horror (2 Kings 8:12, Hosea 13:16, Nahum 3:10). The psalmist asks for Babylon to be repaid "for what you have done to us" (137:8), which is a cry for the same measure of justice[^47][^48].
+*   **The word "happy."** The Hebrew *ashrei* (אַשְׁרֵי, happy, fortunate) is the opening word of Psalm 1. It describes the fortune of whoever brings judgment on Babylon, which the prophets had already announced (Isaiah 13:16, Jeremiah 51:56)[^49][^45].
+*   **Leaving vengeance to God.** The imprecatory psalms hand the desire for revenge over to God rather than acting on it. Paul says, "Do not take revenge, my dear friends, but leave room for God's wrath" (Romans 12:19), and Jesus commands love for enemies (Matthew 5:44)[^48][^50].
+
+C. S. Lewis, in *Reflections on the Psalms* (1958), called these curses terrible and refused to excuse them. He also argued that they show what cruelty and injustice do to their victims, and that their anger shows people who took right and wrong seriously[^51][^48][^52].
+
+**Job's children.** In the first chapter of Job a great wind strikes the house where Job's sons and daughters are feasting, and all ten die (Job 1:18-19). God has allowed the accuser to take everything Job has, and the children appear to die to test their father[^53][^54].
+
+*   **The book does not explain it.** God never tells Job why, and the book's answer is that Job cannot see what God sees. The story is told to show a faith that holds when there is no explanation, not to give a rule for why particular people die[^54][^55].
+*   **Life is God's to give and take.** Job's own response is "The LORD gave and the LORD has taken away; may the name of the LORD be praised" (Job 1:21). Every human life ends in death, and in the biblical view God is not wronging a person by ending a life he gave[^55].
+*   **Not replaced.** At the end Job receives twice as many sheep, camels, oxen and donkeys as before (Job 42:12), but the same number of children, seven sons and three daughters (42:13). Some older commentators, as John Gill records, note that the number is not doubled, and read this as a hint that the first ten were not lost for good[^56][^54].
+
+**See also:** [The Book of Job (Problem of Evil)](/categories/problem-of-evil#section-book-of-job).
+`
     },
     {
       id: "difficult-commands",
       title: "Difficult Commands and OT Narratives",
       tags: ["Individuals"],
-      content: `**Addressing Controversial Passages:** Several specific Old Testament narratives are frequently raised as objections to God's goodness. When examined in context, these reveal consistent divine justice[^44].
+      content: `**Addressing Controversial Passages:** Several specific Old Testament narratives are frequently raised as objections to God's goodness. When examined in context, these reveal consistent divine justice[^57].
 
       **Elisha and the Bears ([2 Kings 2:23-24](https://www.biblegateway.com/passage/?search=2+Kings+2:23-24&version=NIV)):**
 
-      • **Not necessarily small children:** The phrase is *ne'arim qetannim* (נְעָרִים קְטַנִּים, young lads), and *na'ar* covers ages from infancy to young adulthood; the same word describes Joseph at seventeen and soldiers in battle. The account describes a crowd from which forty-two were mauled, and most commentators take them as youths rather than little children, though the text does not settle their age[^45].
+      • **Not necessarily small children:** The phrase is *ne'arim qetannim* (נְעָרִים קְטַנִּים, young lads), and *na'ar* covers ages from infancy to young adulthood; the same word describes Joseph at seventeen and soldiers in battle. The account describes a crowd from which forty-two were mauled, and most commentators take them as youths rather than little children, though the text does not settle their age[^58].
 
-      • **Serious contempt:** Their jeer "Go up, you baldhead!" is often read as mocking Elijah's ascent and rejecting Elisha as his successor, at Bethel, the centre of Jeroboam's calf worship. Whether it involved physical threat is not stated[^46].
+      • **Serious contempt:** Their jeer "Go up, you baldhead!" is often read as mocking Elijah's ascent and rejecting Elisha as his successor, at Bethel, the centre of Jeroboam's calf worship. Whether it involved physical threat is not stated[^59].
 
       **The Midianite War ([Numbers 31](https://www.biblegateway.com/passage/?search=Numbers+31&version=NIV)):**
 
-      • **Prior hostility:** The Midianites had just intentionally weaponized seduction to draw Israel into the Baal of Peor cult, resulting in a plague that killed 24,000 Israelites. The war was an act of national defense and divine justice against this destruction[^47].
+      • **Prior hostility:** The Midianites had just intentionally weaponized seduction to draw Israel into the Baal of Peor cult, resulting in a plague that killed 24,000 Israelites. The war was an act of national defense and divine justice against this destruction[^60].
 
-      • **Sparing the young women:** Defenders argue that the young women who were spared were absorbed into Israelite households under the regulations of Deuteronomy 21:10-14 rather than taken as sexual slaves. Critics reply that the women had no choice in the matter, and this remains one of the hardest texts in the Old Testament[^48][^49].
+      • **Sparing the young women:** Defenders argue that the young women who were spared were absorbed into Israelite households under the regulations of Deuteronomy 21:10-14 rather than taken as sexual slaves. Critics reply that the women had no choice in the matter, and this remains one of the hardest texts in the Old Testament[^61][^62].
 
       **David's Census and the Plague ([2 Samuel 24](https://www.biblegateway.com/passage/?search=2+Samuel+24&version=NIV)):**
 
-      • **National sin:** The text begins by stating "the anger of the Lord burned against Israel," indicating the nation was already under divine judgment for unstated sins, and David's prideful census was the catalyst[^50].
+      • **National sin:** The text begins by stating "the anger of the Lord burned against Israel," indicating the nation was already under divine judgment for unstated sins, and David's prideful census was the catalyst[^63].
 
-      • **David's repentance:** When judgment fell (killing 70,000), David repented and interceded for the people, and God mercifully halted the plague at the threshing floor of Araunah, the future site of the Temple[^51].
+      • **David's repentance:** When judgment fell (killing 70,000), David repented and interceded for the people, and God mercifully halted the plague at the threshing floor of Araunah, the future site of the Temple[^64].
 
       **The Sacrifice of Isaac ([Genesis 22](https://www.biblegateway.com/passage/?search=Genesis+22&version=NIV)):**
 
-      • **A test of faith:** God never intended for Isaac to die. The narrative explicitly calls it a "test" of Abraham's faith, distinguishing Yahweh from the surrounding Canaanite deities who *actually* demanded child sacrifice[^52][^53].
+      • **A test of faith:** God never intended for Isaac to die. The narrative explicitly calls it a "test" of Abraham's faith, distinguishing Yahweh from the surrounding Canaanite deities who *actually* demanded child sacrifice[^65][^66].
 
-      • **The provision:** God Himself provided the substitute ram, foreshadowing the ultimate substitute: God offering His own Son, Jesus, on the cross for the sins of the world[^54][^55].
+      • **The provision:** God Himself provided the substitute ram, foreshadowing the ultimate substitute: God offering His own Son, Jesus, on the cross for the sins of the world[^67][^68].
 
 **See also:** [Shellfish, Stoning and the Harsh Laws (Did God Change?)](/categories/did-god-change#section-harsh-old-testament-laws).
 `
@@ -260,40 +282,40 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
       id: "new-testament-judgments",
       title: "New Testament Divine Judgments",
       tags: ["New Testament"],
-      content: `**Divine Judgment Continues:** God's righteousness and justice are eternal attributes that continued to be demonstrated within the foundational period of the New Testament Church[^56].
+      content: `**Divine Judgment Continues:** God's righteousness and justice are eternal attributes that continued to be demonstrated within the foundational period of the New Testament Church[^69].
 
 
       **Ananias and Sapphira ([Acts 5:1-11](https://www.biblegateway.com/passage/?search=Acts+5:1-11&version=NIV)):**
 
-      • **Deliberate deception:** Their sin was not withholding money (which they had a right to do) but lying to the apostles and the Holy Spirit about their gift, showing deception and hypocrisy at the foundation of the church[^57].
+      • **Deliberate deception:** Their sin was not withholding money (which they had a right to do) but lying to the apostles and the Holy Spirit about their gift, showing deception and hypocrisy at the foundation of the church[^70].
 
-      • **Early church purity:** This swift, visible judgment protected the spiritual integrity and purity of the nascent Christian community from internal corruption and set a sober precedent for accountability[^58].
+      • **Early church purity:** This swift, visible judgment protected the spiritual integrity and purity of the nascent Christian community from internal corruption and set a sober precedent for accountability[^71].
 
       • **Fear restored:** "Great fear came upon the whole church and upon all who heard of these things" ([Acts 5:11](https://www.biblegateway.com/passage/?search=Acts+5:11&version=NIV)).
 
 
       **Herod Agrippa I ([Acts 12:20-23](https://www.biblegateway.com/passage/?search=Acts+12:20-23&version=NIV)):**
 
-      • **Accepting worship:** Herod allowed people to call him a god and failed to give glory to God, which is the sin of blasphemous pride[^59].
+      • **Accepting worship:** Herod allowed people to call him a god and failed to give glory to God, which is the sin of blasphemous pride[^72].
 
       • **Persecution of church:** This judgment followed his active persecution of the church, including executing James and planning to execute Peter ([Acts 12:1-4](https://www.biblegateway.com/passage/?search=Acts+12:1-4&version=NIV)), demonstrating God's defense of His people.
 
-      • **Eaten by worms:** Acts says an angel struck him down and he was eaten by worms; Josephus independently records that Agrippa collapsed with violent abdominal pain after being hailed as a god in Caesarea and died five days later. Both present the death as a judgment on pride and blasphemy[^60][^61].
+      • **Eaten by worms:** Acts says an angel struck him down and he was eaten by worms; Josephus independently records that Agrippa collapsed with violent abdominal pain after being hailed as a god in Caesarea and died five days later. Both present the death as a judgment on pride and blasphemy[^73][^74].
 
 
       **Elymas the Sorcerer ([Acts 13:8-12](https://www.biblegateway.com/passage/?search=Acts+13:8-12&version=NIV)):**
 
-      • **Opposing the gospel:** Elymas actively opposed the Apostle Paul, trying to prevent the Roman proconsul from converting to faith[^62].
+      • **Opposing the gospel:** Elymas actively opposed the Apostle Paul, trying to prevent the Roman proconsul from converting to faith[^75].
 
-      • **Temporary blindness:** Paul pronounced a judgment of temporary blindness, which served as a sign to authenticate Paul's ministry to the proconsul[^63].
+      • **Temporary blindness:** Paul pronounced a judgment of temporary blindness, which served as a sign to authenticate Paul's ministry to the proconsul[^76].
 
-      • **Merciful purpose:** The blindness was temporary, mirroring Paul’s own conversion experience, and was intended to provide Elymas the opportunity for future repentance[^64].`
+      • **Merciful purpose:** The blindness was temporary, mirroring Paul’s own conversion experience, and was intended to provide Elymas the opportunity for future repentance[^77].`
     },
     {
       id: "israel-judgment",
       title: "God's Judgment on His Own People",
       tags: ["Israel"],
-      content: `**Impartial Justice:** God judged Israel when they sinned just as He judged the nations around them, proving His justice applies universally and is not biased toward His chosen people[^65].
+      content: `**Impartial Justice:** God judged Israel when they sinned just as He judged the nations around them, proving His justice applies universally and is not biased toward His chosen people[^78].
 
 
       **Northern Kingdom Exile (722 BC):**
@@ -309,9 +331,9 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Extreme patience:** God waited patiently, sending prophet after prophet for at least 23 years (Jeremiah’s ministry) before the final judgment was decreed, demonstrating long-suffering love ([Jeremiah 25](https://www.biblegateway.com/passage/?search=Jeremiah+25&version=NIV)).
 
-      • **Persistent warnings:** Jeremiah's prophetic ministry lasted approximately 40 years, characterized by constant warnings and calls to repentance that were consistently ignored by the people and leaders[^66][^67].
+      • **Persistent warnings:** Jeremiah's prophetic ministry lasted approximately 40 years, characterized by constant warnings and calls to repentance that were consistently ignored by the people and leaders[^79][^80].
 
-      • **Adopted Canaanite practices:** Judah was judged severely for adopting the same abominations the Canaanites were punished for, including child sacrifice and idolatry, demonstrating God's impartiality in matters of holiness[^68][^69].
+      • **Adopted Canaanite practices:** Judah was judged severely for adopting the same abominations the Canaanites were punished for, including child sacrifice and idolatry, demonstrating God's impartiality in matters of holiness[^81][^82].
 
       • **Mercy within judgment:** The exile was strictly limited to a 70-year period, accompanied by the promise of national restoration and return ([Jeremiah 29:10](https://www.biblegateway.com/passage/?search=Jeremiah+29:10&version=NIV)).
 
@@ -320,12 +342,12 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
 
       • **Faithless rebellion:** The forty-year sentence was a direct judicial decree resulting from the nation's collective unbelief and refusal to enter the Promised Land after the spies' negative report, showing a failure to trust God's power ([Numbers 14:26-35](https://www.biblegateway.com/passage/?search=Numbers+14:26-35&version=NIV)).
 
-      • **Generational consequences:** The judgment ensured the generation tainted by a slave mentality and unbelief would not corrupt the covenant promise, allowing the next generation to inherit the land with faith and discipline[^70].
+      • **Generational consequences:** The judgment ensured the generation tainted by a slave mentality and unbelief would not corrupt the covenant promise, allowing the next generation to inherit the land with faith and discipline[^83].
 
-      • **Children preserved:** Despite the death of the adult rebels, God sustained the nation by providing manna, water, and clothes that did not wear out, demonstrating continuous mercy and provision for the children who would inherit the promises[^71].`
+      • **Children preserved:** Despite the death of the adult rebels, God sustained the nation by providing manna, water, and clothes that did not wear out, demonstrating continuous mercy and provision for the children who would inherit the promises[^84].`
     }
   ],
-          sources: [
+              sources: [
     "1. [Academic] Internet Encyclopedia of Philosophy. Divine Command Theory. https://iep.utm.edu/divine-command-theory/",
     "2. [Academic] Stanford Encyclopedia of Philosophy. Skeptical Theism. https://plato.stanford.edu/entries/skeptical-theism/",
     "3. [Academic] Paul Copan - Denver Seminary Journal. 'Is God a Moral Monster?' - Defense of God's authority. https://denverjournal.denverseminary.edu/the-denver-journal-article/is-god-a-moral-monster-making-sense-of-the-old-testament-god/",
@@ -363,40 +385,53 @@ The greatest proof that God is not evil is found in the cross. Rather than destr
     "35. [Reference] ICEJ - 'The Spirit of Amalek' - Centuries of hostility. https://www.icej.org/blog/the-spirit-of-amalek-and-the-war-on-israel/",
     "36. [Reference] Mercy Hill Church - 'Saul and Amalekites' - Divine judgment context. https://mercyhillchurch.com/why-did-god-command-saul-to-eliminate-the-amalekites/",
     "37. [Commentary] Bible Hub - 'Gill's Commentary on 1 Samuel 15:33' - Proportional justice for Agag's cruelty. https://biblehub.com/commentaries/1_samuel/15-33.htm",
-    "38. [Commentary] Bible Hub. If life is sacred, why did God kill people for minor offenses (e.g., Uzzah touching the Ark)? https://biblehub.com/q/why_did_god_kill_for_minor_offenses.htm",
-    "39. [Reference] Crossway - 'Touching the Ark' - Irreverence and holiness. https://www.crossway.org/articles/why-was-a-man-killed-for-touching-the-ark-of-the-covenant-2-samuel-6/",
-    "40. [Apologetics] The Gospel Coalition - 'Strange Fire' - Nadab and Abihu unauthorized worship. https://www.thegospelcoalition.org/article/two-priests-strange-fire-holy-god/",
-    "41. [Reference] ACBC - 'Lessons from Korah' - Challenging authority. https://biblicalcounseling.com/resource-library/articles/lessons-from-the-life-of-korah/",
-    "42. [Wikipedia] Korah. https://en.wikipedia.org/wiki/Korah",
-    "43. [Apologetics] GotQuestions.org - 'Rebellion of Korah' - Consequences of usurping authority. https://www.gotquestions.org/rebellion-of-Korah.html",
-    "44. [Wikipedia] Ethics in the Bible. https://en.wikipedia.org/wiki/Ethics_in_the_Bible",
-    "45. [Lexicon] Bible Hub. Strong's Hebrew 5288: na'ar (boy, lad, youth, servant, young man). https://biblehub.com/hebrew/5288.htm",
-    "46. [Commentary] Bible Hub. 2 Kings 2:23 Commentaries. https://biblehub.com/commentaries/2_kings/2-23.htm",
-    "47. [Commentary] Bible Hub. Numbers 31:16 Commentaries. https://biblehub.com/commentaries/numbers/31-16.htm",
-    "48. [Wikipedia] Numbers 31. https://en.wikipedia.org/wiki/Numbers_31",
-    "49. [Commentary] Commentaries on Numbers 31:18. Bible Hub. https://biblehub.com/commentaries/numbers/31-18.htm",
-    "50. [Commentary] Bible Hub. 2 Samuel 24:1 Commentaries. https://biblehub.com/commentaries/2_samuel/24-1.htm",
-    "51. [Commentary] Bible Hub. 2 Samuel 24:16 Commentaries. https://biblehub.com/commentaries/2_samuel/24-16.htm",
-    "52. [Wikipedia] Human sacrifice. https://en.wikipedia.org/wiki/Human_sacrifice",
-    "53. [Commentary] Commentaries on Genesis 22:1. Bible Hub. https://biblehub.com/commentaries/genesis/22-1.htm",
-    "54. [Wikipedia] Binding of Isaac. https://en.wikipedia.org/wiki/Binding_of_Isaac",
-    "55. [Commentary] Commentaries on Genesis 22:13. Bible Hub. https://biblehub.com/commentaries/genesis/22-13.htm",
-    "56. [Reference] IPHC - 'God's Justice in the NT' - Intro to individual judgments. https://iphc.org/gso/2019/04/15/understanding-gods-justice-and-the-new-testament/",
-    "57. [Commentary] Bible Hub. Acts 5:4 Commentaries. https://biblehub.com/commentaries/acts/5-4.htm",
-    "58. [Apologetics] GotQuestions.org - 'Ananias and Sapphira' - Early church purity. https://www.gotquestions.org/Ananias-and-Sapphira.html",
-    "59. [Commentary] Bible Hub - 'Acts 12:23 Study' - Herod's pride. https://biblehub.com/study/acts/12-23.htm",
-    "60. [Commentary] Bible Hub - 'Acts 12:23 Commentaries' - Herod eaten by worms. https://biblehub.com/commentaries/acts/12-23.htm",
-    "61. [Wikipedia] Herod Agrippa I. https://en.wikipedia.org/wiki/Herod_Agrippa_I",
-    "62. [Reference] Berean Bible Society - 'Sorcerer of Israel' - Elymas opposing gospel. https://www.bereanbiblesociety.org/the-sorcerer-of-israel/",
-    "63. [Reference] Reading Acts - 'Acts 13 Blindness' - Temporary judgment. https://readingacts.com/2019/02/23/acts-138-12-symbolic-blindness/",
-    "64. [Reference] ReKnew - 'Paul's Blinding of Elymas' - Merciful purpose. https://reknew.org/2017/12/pauls-blinding-elymas-response-paul-copan-5/",
-    "65. [Reference] The Berean - 'God's Judgment on Nations' - Impartial justice. https://www.theberean.org/index.cfm/main/default/id/3510/judges-2-11-15.htm",
-    "66. [Commentary] Bible Hub - 'Lessons from Jeremiah' - Steadfast obedience over time. https://biblehub.com/q/Lessons_from_Jeremiah_s_persistence.htm",
-    "67. [Wikipedia] Book of Jeremiah. https://en.wikipedia.org/wiki/Book_of_Jeremiah",
-    "68. [Apologetics] GotQuestions.org - 'King Manasseh' - Account of his apostasy and repentance. https://www.gotquestions.org/King-Manasseh.html",
-    "69. [Wikipedia] Tophet. https://en.wikipedia.org/wiki/Tophet",
-    "70. [Apologetics] GotQuestions.org - 'Wilderness Generation' - Generational consequences. https://www.gotquestions.org/wilderness-wandering.html",
-    "71. [Reference] Harold Herring - 'Provisions in Wilderness' - Preservation of children. https://haroldherring.com/blogs/harolds-blogs/richthoughts/266-7-provisions-for-your-trip-through-the-wilderness"
+    "38. [Reference] Bible Hub Interlinear Bible. '1 Samuel 15:3.' https://biblehub.com/interlinear/1_samuel/15-3.htm",
+    "39. [Commentary] Bible Hub. If life is sacred, why did God kill people for minor offenses (e.g., Uzzah touching the Ark)? https://biblehub.com/q/why_did_god_kill_for_minor_offenses.htm",
+    "40. [Reference] Crossway - 'Touching the Ark' - Irreverence and holiness. https://www.crossway.org/articles/why-was-a-man-killed-for-touching-the-ark-of-the-covenant-2-samuel-6/",
+    "41. [Apologetics] The Gospel Coalition - 'Strange Fire' - Nadab and Abihu unauthorized worship. https://www.thegospelcoalition.org/article/two-priests-strange-fire-holy-god/",
+    "42. [Reference] ACBC - 'Lessons from Korah' - Challenging authority. https://biblicalcounseling.com/resource-library/articles/lessons-from-the-life-of-korah/",
+    "43. [Wikipedia] Korah. https://en.wikipedia.org/wiki/Korah",
+    "44. [Apologetics] GotQuestions.org - 'Rebellion of Korah' - Consequences of usurping authority. https://www.gotquestions.org/rebellion-of-Korah.html",
+    "45. [Commentary] Bible Hub. 'Commentaries on Psalm 137:9.' https://biblehub.com/commentaries/psalms/137-9.htm",
+    "46. [Wikipedia] 'Psalm 137.' https://en.wikipedia.org/wiki/Psalm_137",
+    "47. [Commentary] Bible Hub. 'Commentaries on Psalm 137:8.' https://biblehub.com/commentaries/psalms/137-8.htm",
+    "48. [Wikipedia] 'Imprecatory Psalms.' https://en.wikipedia.org/wiki/Imprecatory_Psalms",
+    "49. [Lexicon] Bible Hub. Hebrew 835, esher (happiness, blessedness). https://biblehub.com/hebrew/835.htm",
+    "50. [Commentary] Bible Hub. 'Commentaries on Romans 12:19.' https://biblehub.com/commentaries/romans/12-19.htm",
+    "51. [Wikipedia] 'Reflections on the Psalms.' https://en.wikipedia.org/wiki/Reflections_on_the_Psalms",
+    "52. [News] Time (1958). 'Religion: Lewis on the Psalms.' https://time.com/archive/6801374/religion-lewis-on-the-psalms/",
+    "53. [Commentary] Bible Hub. 'Commentaries on Job 1:19.' https://biblehub.com/commentaries/job/1-19.htm",
+    "54. [Wikipedia] 'Book of Job.' https://en.wikipedia.org/wiki/Book_of_Job",
+    "55. [Commentary] Bible Hub. 'Commentaries on Job 1:21.' https://biblehub.com/commentaries/job/1-21.htm",
+    "56. [Commentary] Bible Hub. 'Commentaries on Job 42:13.' Including John Gill on the number of children. https://biblehub.com/commentaries/job/42-13.htm",
+    "57. [Wikipedia] Ethics in the Bible. https://en.wikipedia.org/wiki/Ethics_in_the_Bible",
+    "58. [Lexicon] Bible Hub. Strong's Hebrew 5288: na'ar (boy, lad, youth, servant, young man). https://biblehub.com/hebrew/5288.htm",
+    "59. [Commentary] Bible Hub. 2 Kings 2:23 Commentaries. https://biblehub.com/commentaries/2_kings/2-23.htm",
+    "60. [Commentary] Bible Hub. Numbers 31:16 Commentaries. https://biblehub.com/commentaries/numbers/31-16.htm",
+    "61. [Wikipedia] Numbers 31. https://en.wikipedia.org/wiki/Numbers_31",
+    "62. [Commentary] Commentaries on Numbers 31:18. Bible Hub. https://biblehub.com/commentaries/numbers/31-18.htm",
+    "63. [Commentary] Bible Hub. 2 Samuel 24:1 Commentaries. https://biblehub.com/commentaries/2_samuel/24-1.htm",
+    "64. [Commentary] Bible Hub. 2 Samuel 24:16 Commentaries. https://biblehub.com/commentaries/2_samuel/24-16.htm",
+    "65. [Wikipedia] Human sacrifice. https://en.wikipedia.org/wiki/Human_sacrifice",
+    "66. [Commentary] Commentaries on Genesis 22:1. Bible Hub. https://biblehub.com/commentaries/genesis/22-1.htm",
+    "67. [Wikipedia] Binding of Isaac. https://en.wikipedia.org/wiki/Binding_of_Isaac",
+    "68. [Commentary] Commentaries on Genesis 22:13. Bible Hub. https://biblehub.com/commentaries/genesis/22-13.htm",
+    "69. [Reference] IPHC - 'God's Justice in the NT' - Intro to individual judgments. https://iphc.org/gso/2019/04/15/understanding-gods-justice-and-the-new-testament/",
+    "70. [Commentary] Bible Hub. Acts 5:4 Commentaries. https://biblehub.com/commentaries/acts/5-4.htm",
+    "71. [Apologetics] GotQuestions.org - 'Ananias and Sapphira' - Early church purity. https://www.gotquestions.org/Ananias-and-Sapphira.html",
+    "72. [Commentary] Bible Hub - 'Acts 12:23 Study' - Herod's pride. https://biblehub.com/study/acts/12-23.htm",
+    "73. [Commentary] Bible Hub - 'Acts 12:23 Commentaries' - Herod eaten by worms. https://biblehub.com/commentaries/acts/12-23.htm",
+    "74. [Wikipedia] Herod Agrippa I. https://en.wikipedia.org/wiki/Herod_Agrippa_I",
+    "75. [Reference] Berean Bible Society - 'Sorcerer of Israel' - Elymas opposing gospel. https://www.bereanbiblesociety.org/the-sorcerer-of-israel/",
+    "76. [Reference] Reading Acts - 'Acts 13 Blindness' - Temporary judgment. https://readingacts.com/2019/02/23/acts-138-12-symbolic-blindness/",
+    "77. [Reference] ReKnew - 'Paul's Blinding of Elymas' - Merciful purpose. https://reknew.org/2017/12/pauls-blinding-elymas-response-paul-copan-5/",
+    "78. [Reference] The Berean - 'God's Judgment on Nations' - Impartial justice. https://www.theberean.org/index.cfm/main/default/id/3510/judges-2-11-15.htm",
+    "79. [Commentary] Bible Hub - 'Lessons from Jeremiah' - Steadfast obedience over time. https://biblehub.com/q/Lessons_from_Jeremiah_s_persistence.htm",
+    "80. [Wikipedia] Book of Jeremiah. https://en.wikipedia.org/wiki/Book_of_Jeremiah",
+    "81. [Apologetics] GotQuestions.org - 'King Manasseh' - Account of his apostasy and repentance. https://www.gotquestions.org/King-Manasseh.html",
+    "82. [Wikipedia] Tophet. https://en.wikipedia.org/wiki/Tophet",
+    "83. [Apologetics] GotQuestions.org - 'Wilderness Generation' - Generational consequences. https://www.gotquestions.org/wilderness-wandering.html",
+    "84. [Reference] Harold Herring - 'Provisions in Wilderness' - Preservation of children. https://haroldherring.com/blogs/harolds-blogs/richthoughts/266-7-provisions-for-your-trip-through-the-wilderness"
   ],
   lastUpdated: "30-10-2026"
 }

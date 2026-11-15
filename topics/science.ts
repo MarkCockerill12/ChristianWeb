@@ -17,7 +17,6 @@ A stronger claim than bare compatibility is also defensible. Christian theology 
 
 <?viz science/models?>
 
-<?viz science/founders?>
 `,
   timeline: [
     {
@@ -248,6 +247,9 @@ The list below is not offered as an argument that Christianity is true. Many abl
 
 
 
+
+<?viz science/founders?>
+
 **Nicolaus Copernicus** (1473 to 1543) was a canon of the cathedral chapter at Frombork, and held that post while working out the heliocentric model. *De revolutionibus* was dedicated to Pope Paul III and circulated for seventy-three years before the Congregation of the Index took any action against it[^53][^54].
 
 **Johannes Kepler** (1571 to 1630) trained for the Lutheran ministry at Tubingen before turning to astronomy, and treated the mathematical structure of the heavens as the ordering of a creation. He replaced circular orbits with ellipses, stated the three laws of planetary motion, and wrote his religious motivation into the prefaces rather than keeping it separate from the work[^55][^56].
@@ -366,26 +368,46 @@ The details still matter, because the popular version gets most of them wrong.
 `
     },
     {
+      id: "bruno-and-hypatia",
+      title: "Giordano Bruno and Hypatia",
+      tags: ["History"],
+      content: `
+Alongside Galileo, two other figures are often presented as martyrs for science killed by Christians. Both deaths were real and both were wrong, but neither fits the story told about it[^125][^126][^127].
+
+**Giordano Bruno.** Bruno, a Dominican friar turned wandering philosopher, was burned at the stake in Rome on 17 February 1600 after a trial by the Roman Inquisition lasting seven years. He taught that the universe is infinite and contains countless worlds, and popular accounts present him as executed for that view[^125][^127].
+
+The charges were mainly theological. They included denying the Trinity, the divinity of Christ, the virginity of Mary and transubstantiation, and teaching the transmigration of souls. The full sentence does not survive, so the weight given to his cosmology is uncertain[^125][^127]. Bruno was a philosopher and a practitioner of the Hermetic tradition and the art of memory, not an observer or experimenter, and the historian Frances Yates placed him in that magical tradition rather than in the history of science. Executing a man for his beliefs was unjust, and the case shows the danger of state power enforcing doctrine. It is not a case of the church suppressing scientific evidence[^127][^125].
+
+**Hypatia.** Hypatia was a mathematician, astronomer and Neoplatonist philosopher in Alexandria. In March 415 a Christian mob led by a church reader named Peter dragged her from her carriage and murdered her[^128][^126].
+
+The killing came out of a political feud between Cyril, the bishop of Alexandria, and Orestes, the Roman prefect, whom Hypatia advised. The Christian historian Socrates Scholasticus, writing a generation later, condemned it: "surely nothing can be farther from the spirit of Christianity than the allowance of massacres, fights, and transactions of that sort"[^128]. Her students included Christians, among them Synesius, who later became a bishop[^126][^128].
+
+Carl Sagan's *Cosmos* (1980) and the film *Agora* (2009) linked her death to the destruction of the Library of Alexandria and the end of ancient science. The Library had declined long before her lifetime, and the Serapeum, a temple destroyed in 391, was not connected with her death. Historians treat these versions as heavily fictionalised[^126][^129][^130].
+
+**See also:** [Where the Warfare Story Came From](/categories/science#section-conflict-thesis).
+`
+    },
+    {
       id: "courtroom",
       title: "Scopes, Dover and the Courtroom Fights",
       tags: ["History"],
       content: `
-The second episode carrying the whole weight of the warfare story is the American dispute over teaching evolution. The scientific questions of origins and design are treated under evolution and fine-tuning. The courtroom history is a separate matter, and popular memory of it derives largely from a stage play rather than from the transcripts[^125].
+The second episode carrying the whole weight of the warfare story is the American dispute over teaching evolution. The scientific questions of origins and design are treated under evolution and fine-tuning. The courtroom history is a separate matter, and popular memory of it derives largely from a stage play rather than from the transcripts[^131].
 
-**Scopes, 1925.** John Scopes was tried at Dayton, Tennessee for teaching evolution in breach of the Butler Act, convicted, and fined one hundred dollars. The Tennessee Supreme Court then overturned the conviction on a technicality about who had set the fine, while upholding the Act itself, which stood until 1967. The trial was arranged as a test case with local cooperation, and Scopes was never in jeopardy of anything worse than the fine[^126].
+**Scopes, 1925.** John Scopes was tried at Dayton, Tennessee for teaching evolution in breach of the Butler Act, convicted, and fined one hundred dollars. The Tennessee Supreme Court then overturned the conviction on a technicality about who had set the fine, while upholding the Act itself, which stood until 1967. The trial was arranged as a test case with local cooperation, and Scopes was never in jeopardy of anything worse than the fine[^132].
 
-**The textbook complicates the story.** The book Scopes taught from was George Hunter's *A Civic Biology* of 1914, the state-approved text. Alongside evolution it taught eugenics in explicit terms, ranked human races, and recommended that people it called defective be prevented from reproducing. William Jennings Bryan's opposition to the teaching of evolution was tied to exactly that: he read Darwinism as underwriting eugenics and the ruthlessness he had seen argued for in Germany. This does not vindicate the Butler Act, and Bryan's biblical arguments at Dayton were weak. It does mean the confrontation was not simply ignorance against enlightenment[^127][^128].
+**The textbook complicates the story.** The book Scopes taught from was George Hunter's *A Civic Biology* of 1914, the state-approved text. Alongside evolution it taught eugenics in explicit terms, ranked human races, and recommended that people it called defective be prevented from reproducing. William Jennings Bryan's opposition to the teaching of evolution was tied to exactly that: he read Darwinism as underwriting eugenics and the ruthlessness he had seen argued for in Germany. This does not vindicate the Butler Act, and Bryan's biblical arguments at Dayton were weak. It does mean the confrontation was not simply ignorance against enlightenment[^133][^134].
 
-*Inherit the Wind*, the 1955 play and 1960 film, is a fiction written as an allegory of McCarthyism, and much of what people believe about Dayton comes from it rather than from the transcript[^129][^130].
+*Inherit the Wind*, the 1955 play and 1960 film, is a fiction written as an allegory of McCarthyism, and much of what people believe about Dayton comes from it rather than from the transcript[^135][^136].
 
-**Later cases went the other way, and on constitutional grounds.** *Epperson v. Arkansas* struck down a similar ban in 1968, *McLean v. Arkansas* rejected balanced-treatment creation science in 1982, and *Edwards v. Aguillard* did the same at the Supreme Court in 1987[^131][^132].
+**Later cases went the other way, and on constitutional grounds.** *Epperson v. Arkansas* struck down a similar ban in 1968, *McLean v. Arkansas* rejected balanced-treatment creation science in 1982, and *Edwards v. Aguillard* did the same at the Supreme Court in 1987[^137][^138].
 
 <?viz science/courtroom?>
 
 
-**Kitzmiller v. Dover, 2005.** A federal district court held that requiring a statement on intelligent design in Dover's biology classes was unconstitutional, finding that intelligent design is not science, that it cannot be separated from its creationist antecedents, and that some board members had lied under oath about their motives. Judge Jones, appointed by a Republican president and a churchgoer himself, wrote a 139-page opinion reviewing the trial evidence in detail[^133][^134].
+**Kitzmiller v. Dover, 2005.** A federal district court held that requiring a statement on intelligent design in Dover's biology classes was unconstitutional, finding that intelligent design is not science, that it cannot be separated from its creationist antecedents, and that some board members had lied under oath about their motives. Judge Jones, appointed by a Republican president and a churchgoer himself, wrote a 139-page opinion reviewing the trial evidence in detail[^139][^140].
 
-**How much this settles.** Legally, a great deal; theologically, almost nothing. A court ruling about what may be taught in a public school in Pennsylvania is a judgment about a curriculum and an establishment clause, not about whether God made the world. An argument for design failing in court leaves the doctrine of creation exactly where it was, and the reverse would have been true as well[^132].
+**How much this settles.** Legally, a great deal; theologically, almost nothing. A court ruling about what may be taught in a public school in Pennsylvania is a judgment about a curriculum and an establishment clause, not about whether God made the world. An argument for design failing in court leaves the doctrine of creation exactly where it was, and the reverse would have been true as well[^138].
 
 **See also:** [Arguments Against Evolution: Which Hold and Which Do Not (Evolution vs Creation)](/categories/evolution#section-objections-to-evolution).
 `
@@ -397,17 +419,17 @@ The second episode carrying the whole weight of the warfare story is the America
       content: `
 The practical relationship turns on one distinction that is easy to state and constantly missed.
 
-**Methodological naturalism is a working rule. Metaphysical naturalism is a claim about reality.** The working rule says that when investigating a physical process you look for physical causes, do not invoke divine action as an explanatory term, and hold your hypothesis open to test. The metaphysical claim says that physical causes are all there are. The first is what scientists do; the second is a philosophical position that no experiment can establish, since it is a claim about the whole of reality made from inside a part of it[^135].
+**Methodological naturalism is a working rule. Metaphysical naturalism is a claim about reality.** The working rule says that when investigating a physical process you look for physical causes, do not invoke divine action as an explanatory term, and hold your hypothesis open to test. The metaphysical claim says that physical causes are all there are. The first is what scientists do; the second is a philosophical position that no experiment can establish, since it is a claim about the whole of reality made from inside a part of it[^141].
 
-A Christian can hold the working rule without difficulty, and has a reason to hold it that the naturalist does not: a creation upheld by a faithful God is expected to behave consistently, so a natural mechanism is exactly what you should expect to find when you look at a natural process. Finding one is not finding an absence of God, any more than explaining how an engine works removes the engineer[^136].
+A Christian can hold the working rule without difficulty, and has a reason to hold it that the naturalist does not: a creation upheld by a faithful God is expected to behave consistently, so a natural mechanism is exactly what you should expect to find when you look at a natural process. Finding one is not finding an absence of God, any more than explaining how an engine works removes the engineer[^142].
 
-**The two books, applied.** Since Scripture and creation have one author, an apparent conflict is a signal that something has been misread. The discipline this imposes runs in both directions. It rules out treating a passage written in the idiom of ancient cosmology as a technical claim about planetary mechanics, and it equally rules out treating a contested scientific model as settling what a text is teaching. Augustine warned in the fifth century that Christians making confident and false claims about the natural world bring Scripture itself into disrepute, which is as good a statement of the rule as has been written since[^137].
+**The two books, applied.** Since Scripture and creation have one author, an apparent conflict is a signal that something has been misread. The discipline this imposes runs in both directions. It rules out treating a passage written in the idiom of ancient cosmology as a technical claim about planetary mechanics, and it equally rules out treating a contested scientific model as settling what a text is teaching. Augustine warned in the fifth century that Christians making confident and false claims about the natural world bring Scripture itself into disrepute, which is as good a statement of the rule as has been written since[^143].
 
-**Science leans on things it cannot supply.** That the universe is intelligible at all, that mathematics developed for its own sake keeps turning out to describe physical reality, and that the future will resemble the past are all assumptions rather than results. Eugene Wigner called the second of these unreasonable and could offer no account of it, which is the honest position for a physicist and an interesting one for a theist[^138][^139].
+**Science leans on things it cannot supply.** That the universe is intelligible at all, that mathematics developed for its own sake keeps turning out to describe physical reality, and that the future will resemble the past are all assumptions rather than results. Eugene Wigner called the second of these unreasonable and could offer no account of it, which is the honest position for a physicist and an interesting one for a theist[^144][^145].
 
-**Against the God of the gaps.** The bad habit is to locate God in whatever science has not yet explained, which makes faith a hostage to the next result and has been steadily losing ground for three centuries. Bonhoeffer put the alternative sharply in a letter from prison in 1944: we should find God in what we do know, not in what we do not know. The Christian claim is about the ground of the whole intelligible order, not about the residue[^140][^141].
+**Against the God of the gaps.** The bad habit is to locate God in whatever science has not yet explained, which makes faith a hostage to the next result and has been steadily losing ground for three centuries. Bonhoeffer put the alternative sharply in a letter from prison in 1944: we should find God in what we do know, not in what we do not know. The Christian claim is about the ground of the whole intelligible order, not about the residue[^146][^147].
 
-**Where the real disagreement sits.** Alvin Plantinga's argument is that there is superficial conflict but deep concord between science and theistic religion, and superficial concord but deep conflict between science and naturalism. Whether or not his full case succeeds, the location of the dispute is right. Nineteenth-century materialism and positivism were philosophical programmes that claimed scientific authority, and it is those programmes, not the practice of science, that Christian theology is actually arguing with[^142][^143][^144].
+**Where the real disagreement sits.** Alvin Plantinga's argument is that there is superficial conflict but deep concord between science and theistic religion, and superficial concord but deep conflict between science and naturalism. Whether or not his full case succeeds, the location of the dispute is right. Nineteenth-century materialism and positivism were philosophical programmes that claimed scientific authority, and it is those programmes, not the practice of science, that Christian theology is actually arguing with[^148][^149][^150].
 
 **See also:** [The Main Christian Views on Origins (Evolution vs Creation)](/categories/evolution#section-views-on-origins).
 `
@@ -417,19 +439,19 @@ A Christian can hold the working rule without difficulty, and has a reason to ho
       title: "What Science Is Not Equipped to Ask",
       tags: ["Theology"],
       content: `
-Science is a method for investigating the natural world, and an extraordinarily successful one. Scientism is the further claim that it is the only route to knowledge, and that claim is not itself a scientific result. It cannot be tested, and it fails its own standard, which is why it is treated in the philosophical literature as a position to be argued for rather than as a finding[^145][^146][^147].
+Science is a method for investigating the natural world, and an extraordinarily successful one. Scientism is the further claim that it is the only route to knowledge, and that claim is not itself a scientific result. It cannot be tested, and it fails its own standard, which is why it is treated in the philosophical literature as a position to be argued for rather than as a finding[^151][^152][^153].
 
-Several classes of question lie outside the method rather than merely unanswered by it[^148].
+Several classes of question lie outside the method rather than merely unanswered by it[^154].
 
-*   **Logic and mathematics.** Science uses both and presupposes their validity. No experiment establishes the law of non-contradiction, and none could, because the experiment's interpretation would already depend on it[^149].
-*   **Ethics.** Empirical work can establish what a policy will cost, whom it will harm, and what people in fact approve of. The step from what is the case to what ought to be done is not an empirical step, and no amount of measurement supplies it[^150].
-*   **Metaphysical questions.** Why there is a universe rather than nothing, whether other minds exist, whether the past was real: these are not resolved by better instruments[^151][^152].
-*   **Consciousness.** Why physical processing is accompanied by subjective experience remains unresolved, and it is unclear what a solution in physical terms would even look like[^153][^154].
-*   **Aesthetic and personal knowledge.** Nothing in the method quantifies the goodness of a piece of music or the trustworthiness of a friend, and the absence of a measurement is not evidence of nothing being there[^155].
+*   **Logic and mathematics.** Science uses both and presupposes their validity. No experiment establishes the law of non-contradiction, and none could, because the experiment's interpretation would already depend on it[^155].
+*   **Ethics.** Empirical work can establish what a policy will cost, whom it will harm, and what people in fact approve of. The step from what is the case to what ought to be done is not an empirical step, and no amount of measurement supplies it[^156].
+*   **Metaphysical questions.** Why there is a universe rather than nothing, whether other minds exist, whether the past was real: these are not resolved by better instruments[^157][^158].
+*   **Consciousness.** Why physical processing is accompanied by subjective experience remains unresolved, and it is unclear what a solution in physical terms would even look like[^159][^160].
+*   **Aesthetic and personal knowledge.** Nothing in the method quantifies the goodness of a piece of music or the trustworthiness of a friend, and the absence of a measurement is not evidence of nothing being there[^161].
 
-Where the boundary of science falls is itself a live philosophical question, the demarcation problem, and it has no agreed solution. Stephen Jay Gould's proposal of non-overlapping magisteria, with science taking the empirical realm and religion the moral one, is one attempt at a settlement, and it is unsatisfactory from both ends: Christianity makes historical claims that are not confined to the moral realm, and scientists routinely make pronouncements about meaning and value[^156][^157][^158].
+Where the boundary of science falls is itself a live philosophical question, the demarcation problem, and it has no agreed solution. Stephen Jay Gould's proposal of non-overlapping magisteria, with science taking the empirical realm and religion the moral one, is one attempt at a settlement, and it is unsatisfactory from both ends: Christianity makes historical claims that are not confined to the moral realm, and scientists routinely make pronouncements about meaning and value[^162][^163][^164].
 
-The Christian position is not that science has limits and God lives in them. It is that the intelligibility of the universe, the applicability of mathematics to it, and the existence of minds capable of following the argument are the sort of thing that calls for explanation, and that the explanation on offer is neither a rival to physics nor a substitute for doing it properly[^159].
+The Christian position is not that science has limits and God lives in them. It is that the intelligibility of the universe, the applicability of mathematics to it, and the existence of minds capable of following the argument are the sort of thing that calls for explanation, and that the explanation on offer is neither a rival to physics nor a substitute for doing it properly[^165].
 
 **See also:** [Is Belief in God Reasonable?](/categories/is-belief-reasonable).
 `
@@ -444,7 +466,7 @@ The Christian position is not that science has limits and God lives in them. It 
     { reference: "Job 12:7-9", text: "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you; or speak to the earth, and it will teach you, or let the fish in the sea inform you. Which of all these does not know that the hand of the Lord has done this?" },
     { reference: "Hebrews 11:3", text: "By faith we understand that the universe was formed at God's command, so that what is seen was not made out of what was visible." }
   ],
-  sources: [
+      sources: [
     "1. [Academic] Stanford Encyclopedia of Philosophy. 'Religion and Science.' The standard academic survey of the relationship and of the models used to describe it. https://plato.stanford.edu/entries/religion-science/",
     "2. [Academic] AAAS Dialogue on Science, Ethics and Religion. 'Science and Religion: The Draper-White Conflict Thesis.' https://sciencereligiondialogue.org/resources/science-and-religion-the-draper-white-conflict-thesis-2/",
     "3. [Academic] Colin A. Russell. 'The Conflict of Science and Religion.' Reprinted essay assessing the thesis and Draper's standing as a source. https://joelvelasco.net/teaching/3330/russell-conflict_science_religion.pdf",
@@ -569,41 +591,47 @@ The Christian position is not that science has limits and God lives in them. It 
     "122. [Wikipedia] Letter to the Grand Duchess Christina. Composition, argument and reception, with the terms of Galileo's later confinement. https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina",
     "123. [Encyclopedia] World History Encyclopedia. 'Galileo Galilei.' https://www.worldhistory.org/Galileo_Galilei/",
     "124. [Academic] Stanford Encyclopedia of Philosophy. 'Creationism.' Includes the legal and ecclesiastical aftermath of disputes over science and Scripture. https://plato.stanford.edu/entries/creationism/",
-    "125. [Reference] National Center for Science Education. 'Kitzmiller v. Dover: Intelligent Design on Trial.' Case archive and documents. https://ncse.ngo/kitzmiller-v-dover-intelligent-design-trial",
-    "126. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Scopes Monkey Trial.' https://firstamendment.mtsu.edu/article/scopes-monkey-trial/",
-    "127. [Academic] Society of Catholic Scientists. 'The New Scopes-Trial Myth: Eugenics and Evolution at Dayton.' Assesses the eugenics content of A Civic Biology and Bryan's motives. https://catholicscientists.org/articles/the-new-scopes-trial-myth-eugenics-and-evolution-at-dayton/",
-    "128. [Academic] Famous Trials, University of Missouri-Kansas City School of Law. 'Evolution Controversy: Selected Essays on Eugenics, the Rise of Fundamentalism, and the Courts.' https://famous-trials.com/scopesmonkey/2138-evolutioncontroversy",
-    "129. [Wikipedia] Inherit the Wind (play). The 1955 dramatisation and its intended subject. https://en.wikipedia.org/wiki/Inherit_the_Wind_(play)",
-    "130. [Academic] The Scopes Trial. Famous Trials, UMKC School of Law. https://law2.umkc.edu/faculty/projects/ftrials/scopes/scopes.htm",
-    "131. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Kitzmiller v. Dover Area School District.' With the earlier establishment clause cases. https://firstamendment.mtsu.edu/article/kitzmiller-v-dover-area-school-district-m-d-pa/",
-    "132. [Primary Source] Talk Origins Archive. Kitzmiller v. Dover: Decision of the Court. Transcribed opinion. http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover_decision.html",
-    "133. [Primary Source] Justia. Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005). Full memorandum opinion. https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
-    "134. [Wikipedia] Kitzmiller v. Dover Area School District. Procedural history and findings. https://en.wikipedia.org/wiki/Kitzmiller_v._Dover_Area_School_District",
-    "135. [Academic] Stanford Encyclopedia of Philosophy. 'Naturalism.' Distinguishes the methodological rule from the metaphysical thesis. https://plato.stanford.edu/entries/naturalism/",
-    "136. [Wikipedia] Naturalism (philosophy). Methodological naturalism and its acceptance by religious scientists. https://en.wikipedia.org/wiki/Naturalism_(philosophy)",
-    "137. [Academic] Stanford Encyclopedia of Philosophy. 'Augustine of Hippo.' Including his rule for interpreting Scripture against established natural knowledge. https://plato.stanford.edu/entries/augustine/",
-    "138. [Academic] Eugene P. Wigner. 'The Unreasonable Effectiveness of Mathematics in the Natural Sciences.' Communications in Pure and Applied Mathematics 13, no. 1 (1960). https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
-    "139. [Academic] Stanford Encyclopedia of Philosophy. 'Indispensability Arguments in the Philosophy of Mathematics.' Why mathematical applicability calls for explanation. https://plato.stanford.edu/entries/mathphil-indis/",
-    "140. [Wikipedia] God of the gaps. The fallacy and Bonhoeffer's 1944 prison-letter formulation of the alternative. https://en.wikipedia.org/wiki/God_of_the_gaps",
-    "141. [Academic] Stanford Encyclopedia of Philosophy. 'Teleological Arguments for God's Existence.' https://plato.stanford.edu/entries/teleological-arguments/",
-    "142. [Wikipedia] Metaphysical naturalism. The claim that nature is all there is. https://en.wikipedia.org/wiki/Metaphysical_naturalism",
-    "143. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Materialism.' The nineteenth-century programme and its philosophical commitments. https://www.newadvent.org/cathen/10041b.htm",
-    "144. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Positivism.' Comte's system and the claim that science exhausts knowledge. https://www.newadvent.org/cathen/12312c.htm",
-    "145. [Academic] Internet Encyclopedia of Philosophy. 'Scientism.' The position, its varieties and the self-refutation objection. https://iep.utm.edu/scientism/",
-    "146. [Academic] Scientism. Oxford Scholarship Online, 2018. https://doi.org/10.1093/oso/9780190462758.001.0001",
-    "147. [Wikipedia] 'Scientism.' https://en.wikipedia.org/wiki/Scientism",
-    "148. [Academic] University of California Museum of Paleontology, Understanding Science. 'Science Has Limits: A Few Things That Science Does Not Do.' https://undsci.berkeley.edu/understanding-science-101/what-is-science/science-has-limits-a-few-things-that-science-does-not-do/",
-    "149. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Logic.' The status of logical principles relative to empirical enquiry. https://www.newadvent.org/cathen/09324a.htm",
-    "150. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Metaphysics.' The questions that lie outside empirical method. https://www.newadvent.org/cathen/10226a.htm",
-    "151. [Academic] Davies. Why is there anything at all?. Think, 2003. https://doi.org/10.1017/s1477175600000579",
-    "152. [Wikipedia] 'Why there is anything at all.' https://en.wikipedia.org/wiki/Why_there_is_anything_at_all",
-    "153. [Academic] Internet Encyclopedia of Philosophy. 'Hard Problem of Consciousness.' https://iep.utm.edu/hard-problem-of-conciousness/",
-    "154. [Academic] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
-    "155. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Neo-Scholasticism.' The revival of a philosophy treating knowledge as wider than empirical measurement. https://www.newadvent.org/cathen/10746a.htm",
-    "156. [Academic] Stanford Encyclopedia of Philosophy. 'Science and Pseudo-Science.' The demarcation problem and its lack of an agreed solution. https://plato.stanford.edu/entries/pseudo-science/",
-    "157. [Wikipedia] Demarcation problem. https://en.wikipedia.org/wiki/Demarcation_problem",
-    "158. [Wikipedia] Non-overlapping magisteria. Gould's proposal and the objections to it. https://en.wikipedia.org/wiki/Non-overlapping_magisteria",
-    "159. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Astronomy.' On the study of the heavens as a Christian intellectual tradition. https://www.newadvent.org/cathen/02025a.htm"
+    "125. [Wikipedia] 'Giordano Bruno.' His trial, the charges and his reputation. https://en.wikipedia.org/wiki/Giordano_Bruno",
+    "126. [Wikipedia] 'Hypatia.' Her life, death and later legend. https://en.wikipedia.org/wiki/Hypatia",
+    "127. [Academic] Stanford Encyclopedia of Philosophy. 'Giordano Bruno.' https://plato.stanford.edu/entries/bruno/",
+    "128. [Primary Source] New Advent, Church Fathers. Socrates Scholasticus, Church History, Book 7, chapter 15. https://www.newadvent.org/fathers/26017.htm",
+    "129. [Wikipedia] 'Library of Alexandria.' Its decline and the legends of its destruction. https://en.wikipedia.org/wiki/Library_of_Alexandria",
+    "130. [History] History for Atheists. Tim O'Neill, 'The Great Myths 9: Hypatia of Alexandria.' https://historyforatheists.com/2020/07/the-great-myths-9-hypatia-of-alexandria/",
+    "131. [Reference] National Center for Science Education. 'Kitzmiller v. Dover: Intelligent Design on Trial.' Case archive and documents. https://ncse.ngo/kitzmiller-v-dover-intelligent-design-trial",
+    "132. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Scopes Monkey Trial.' https://firstamendment.mtsu.edu/article/scopes-monkey-trial/",
+    "133. [Academic] Society of Catholic Scientists. 'The New Scopes-Trial Myth: Eugenics and Evolution at Dayton.' Assesses the eugenics content of A Civic Biology and Bryan's motives. https://catholicscientists.org/articles/the-new-scopes-trial-myth-eugenics-and-evolution-at-dayton/",
+    "134. [Academic] Famous Trials, University of Missouri-Kansas City School of Law. 'Evolution Controversy: Selected Essays on Eugenics, the Rise of Fundamentalism, and the Courts.' https://famous-trials.com/scopesmonkey/2138-evolutioncontroversy",
+    "135. [Wikipedia] Inherit the Wind (play). The 1955 dramatisation and its intended subject. https://en.wikipedia.org/wiki/Inherit_the_Wind_(play)",
+    "136. [Academic] The Scopes Trial. Famous Trials, UMKC School of Law. https://law2.umkc.edu/faculty/projects/ftrials/scopes/scopes.htm",
+    "137. [Academic] Middle Tennessee State University, The First Amendment Encyclopedia. 'Kitzmiller v. Dover Area School District.' With the earlier establishment clause cases. https://firstamendment.mtsu.edu/article/kitzmiller-v-dover-area-school-district-m-d-pa/",
+    "138. [Primary Source] Talk Origins Archive. Kitzmiller v. Dover: Decision of the Court. Transcribed opinion. http://www.talkorigins.org/faqs/dover/kitzmiller_v_dover_decision.html",
+    "139. [Primary Source] Justia. Kitzmiller v. Dover Area School District, 400 F. Supp. 2d 707 (M.D. Pa. 2005). Full memorandum opinion. https://law.justia.com/cases/federal/district-courts/FSupp2/400/707/2414073/",
+    "140. [Wikipedia] Kitzmiller v. Dover Area School District. Procedural history and findings. https://en.wikipedia.org/wiki/Kitzmiller_v._Dover_Area_School_District",
+    "141. [Academic] Stanford Encyclopedia of Philosophy. 'Naturalism.' Distinguishes the methodological rule from the metaphysical thesis. https://plato.stanford.edu/entries/naturalism/",
+    "142. [Wikipedia] Naturalism (philosophy). Methodological naturalism and its acceptance by religious scientists. https://en.wikipedia.org/wiki/Naturalism_(philosophy)",
+    "143. [Academic] Stanford Encyclopedia of Philosophy. 'Augustine of Hippo.' Including his rule for interpreting Scripture against established natural knowledge. https://plato.stanford.edu/entries/augustine/",
+    "144. [Academic] Eugene P. Wigner. 'The Unreasonable Effectiveness of Mathematics in the Natural Sciences.' Communications in Pure and Applied Mathematics 13, no. 1 (1960). https://web.njit.edu/~akansu/PAPERS/The%20Unreasonable%20Effectiveness%20of%20Mathematics%20(EP%20Wigner).pdf",
+    "145. [Academic] Stanford Encyclopedia of Philosophy. 'Indispensability Arguments in the Philosophy of Mathematics.' Why mathematical applicability calls for explanation. https://plato.stanford.edu/entries/mathphil-indis/",
+    "146. [Wikipedia] God of the gaps. The fallacy and Bonhoeffer's 1944 prison-letter formulation of the alternative. https://en.wikipedia.org/wiki/God_of_the_gaps",
+    "147. [Academic] Stanford Encyclopedia of Philosophy. 'Teleological Arguments for God's Existence.' https://plato.stanford.edu/entries/teleological-arguments/",
+    "148. [Wikipedia] Metaphysical naturalism. The claim that nature is all there is. https://en.wikipedia.org/wiki/Metaphysical_naturalism",
+    "149. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Materialism.' The nineteenth-century programme and its philosophical commitments. https://www.newadvent.org/cathen/10041b.htm",
+    "150. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Positivism.' Comte's system and the claim that science exhausts knowledge. https://www.newadvent.org/cathen/12312c.htm",
+    "151. [Academic] Internet Encyclopedia of Philosophy. 'Scientism.' The position, its varieties and the self-refutation objection. https://iep.utm.edu/scientism/",
+    "152. [Academic] Scientism. Oxford Scholarship Online, 2018. https://doi.org/10.1093/oso/9780190462758.001.0001",
+    "153. [Wikipedia] 'Scientism.' https://en.wikipedia.org/wiki/Scientism",
+    "154. [Academic] University of California Museum of Paleontology, Understanding Science. 'Science Has Limits: A Few Things That Science Does Not Do.' https://undsci.berkeley.edu/understanding-science-101/what-is-science/science-has-limits-a-few-things-that-science-does-not-do/",
+    "155. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Logic.' The status of logical principles relative to empirical enquiry. https://www.newadvent.org/cathen/09324a.htm",
+    "156. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Metaphysics.' The questions that lie outside empirical method. https://www.newadvent.org/cathen/10226a.htm",
+    "157. [Academic] Davies. Why is there anything at all?. Think, 2003. https://doi.org/10.1017/s1477175600000579",
+    "158. [Wikipedia] 'Why there is anything at all.' https://en.wikipedia.org/wiki/Why_there_is_anything_at_all",
+    "159. [Academic] Internet Encyclopedia of Philosophy. 'Hard Problem of Consciousness.' https://iep.utm.edu/hard-problem-of-conciousness/",
+    "160. [Academic] Stanford Encyclopedia of Philosophy. 'Consciousness.' https://plato.stanford.edu/entries/consciousness/",
+    "161. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Neo-Scholasticism.' The revival of a philosophy treating knowledge as wider than empirical measurement. https://www.newadvent.org/cathen/10746a.htm",
+    "162. [Academic] Stanford Encyclopedia of Philosophy. 'Science and Pseudo-Science.' The demarcation problem and its lack of an agreed solution. https://plato.stanford.edu/entries/pseudo-science/",
+    "163. [Wikipedia] Demarcation problem. https://en.wikipedia.org/wiki/Demarcation_problem",
+    "164. [Wikipedia] Non-overlapping magisteria. Gould's proposal and the objections to it. https://en.wikipedia.org/wiki/Non-overlapping_magisteria",
+    "165. [Encyclopedia] New Advent, Catholic Encyclopedia. 'Astronomy.' On the study of the heavens as a Christian intellectual tradition. https://www.newadvent.org/cathen/02025a.htm"
   ],
   lastUpdated: "30-10-2026",
 }

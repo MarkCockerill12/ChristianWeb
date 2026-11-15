@@ -2,7 +2,6 @@
 
 import { BarChart } from "@/components/visuals/charts"
 import { ClaimLegend, CompareTable, VisualCard } from "@/components/visuals/kit"
-import { Gallery, type ImageCredit } from "@/components/visuals/figure"
 import { PinMap } from "@/components/visuals/geo"
 import { LEVANT } from "@/components/visuals/maps/levant"
 import { NEAREAST } from "@/components/visuals/maps/neareast"
@@ -113,26 +112,6 @@ function Artifacts() {
   )
 }
 
-const IMAGES: readonly ImageCredit[] = [
-  { src: "/images/archaeology/tel-dan.jpg", width: 700, height: 677, alt: "Fragments of a basalt stele with Aramaic writing", caption: "The Tel Dan Stele: an Aramaean king boasting of victory over the \"House of David\".", credit: "Oren Rozen", license: "CC BY-SA 4.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:JRSLM_300116_Tel_Dan_Stele_01.jpg" },
-  { src: "/images/archaeology/black-obelisk.jpg", width: 700, height: 1053, alt: "Black stone obelisk with carved relief panels", caption: "The Black Obelisk of Shalmaneser III, British Museum. One panel shows Jehu, or his envoy, bowing before the Assyrian king.", credit: "Osama Shukir Muhammed Amin", license: "CC BY-SA 4.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:The_Black_Obelisk_of_Shalmaneser_III,_9th_century_BC,_from_Nimrud,_Iraq._The_British_Museum.jpg" },
-  { src: "/images/archaeology/siloam-inscription.jpg", width: 700, height: 525, alt: "Stone slab with an ancient Hebrew inscription", caption: "The Siloam Inscription, cut where the two tunnelling crews met inside Hezekiah's Tunnel.", credit: "Yong Woo Park", license: "CC0", licenseUrl: "http://creativecommons.org/publicdomain/zero/1.0/deed.en", sourceUrl: "https://commons.wikimedia.org/wiki/File:Siloam_Inscription_from_Hezekiahs_Tunnel_Istanbul_Archaeology_Museums.jpg" },
-  { src: "/images/archaeology/sennacherib-prism.jpg", width: 700, height: 933, alt: "Six-sided clay prism covered in cuneiform", caption: "A prism of Sennacherib's annals in the Israel Museum, a copy of the account also preserved on the Taylor Prism in the British Museum.", credit: "Hanay", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Sennacherib%27s_Prism_in_the_Israel_Museum_(1).JPG" },
-  { src: "/images/archaeology/cyrus-cylinder.jpg", width: 700, height: 422, alt: "Barrel-shaped clay cylinder covered in cuneiform", caption: "The Cyrus Cylinder, British Museum.", credit: "Prioryman", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Cyrus_Cylinder_front.jpg" },
-  { src: "/images/archaeology/ketef-hinnom.jpg", width: 700, height: 493, alt: "Small unrolled silver amulet with faint engraved letters", caption: "A Ketef Hinnom silver scroll, inscribed with the priestly blessing around 600 BC.", credit: "Israel Museum (Wikimedia Commons)", license: "Public domain", sourceUrl: "https://commons.wikimedia.org/wiki/File:Kettef_Hinnom_scrolls1.jpg" },
-  { src: "/images/archaeology/pilate-stone.jpg", width: 700, height: 467, alt: "Limestone block with a Latin inscription", caption: "The Pilate Stone from Caesarea: \"[Pon]tius Pilatus, [Praef]ectus Iuda[eae]\".", credit: "BRBurton", license: "CC0", licenseUrl: "http://creativecommons.org/publicdomain/zero/1.0/deed.en", sourceUrl: "https://commons.wikimedia.org/wiki/File:Pontius_Pilate_Inscription.JPG" },
-  { src: "/images/archaeology/caiaphas-ossuary.jpg", width: 700, height: 525, alt: "Ornately carved limestone bone box", caption: "The ossuary inscribed \"Joseph son of Caiaphas\", found in Jerusalem in 1990.", credit: "Deror Avi", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Ossuary_of_the_high_priest_Joseph_Caiaphas_P1180839.JPG" },
-  { src: "/images/archaeology/warning-stone.jpg", width: 700, height: 471, alt: "Stone block with a Greek inscription", caption: "The Temple warning stone: no foreigner to enter within the barrier, on pain of death.", credit: "Oncenawhile", license: "CC BY-SA 3.0", licenseUrl: "https://creativecommons.org/licenses/by-sa/3.0", sourceUrl: "https://commons.wikimedia.org/wiki/File:Jerusalem_Temple_Warning_Inscription.jpg" },
-]
-
-function Finds() {
-  return (
-    <VisualCard title="The finds themselves" subtitle="Photographs of the inscriptions and objects in the table above.">
-      <Gallery columns={3} images={IMAGES} />
-    </VisualCard>
-  )
-}
-
 function ManuscriptCounts() {
   return (
     <VisualCard
@@ -164,7 +143,6 @@ function ManuscriptCounts() {
 const VISUALS: Record<string, () => React.JSX.Element> = {
   maps: Maps,
   artifacts: Artifacts,
-  finds: Finds,
   "manuscript-counts": ManuscriptCounts,
 }
 
